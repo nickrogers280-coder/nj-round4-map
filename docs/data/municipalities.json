@@ -1,0 +1,977 @@
+{
+ "generated": "2026-11-19",
+ "municipalities": [
+  {
+   "county": "Bergen",
+   "municipality": "Allendale",
+   "tracker_status": "Verify",
+   "latest_adoption": "Approved as amended 2/26/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Alpine",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 3/10/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Bergenfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Bogota",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Carlstadt",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Cliffside Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Closter",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Cresskill",
+   "tracker_status": "Verify",
+   "latest_adoption": "Revised 1/19/26 (orig. approved 5/13/25)"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Demarest",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Dumont",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Orig. 6/11/25; 2026 adoption date blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "East Rutherford",
+   "tracker_status": "Ready (2 docs)",
+   "latest_adoption": "Amendment adopted 2/9/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Edgewater",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Elmwood Park",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Prepared 2/24/26; adoption blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Emerson",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Englewood",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 3/12/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Englewood Cliffs",
+   "tracker_status": "Ready",
+   "latest_adoption": "June 2025 (no amendment)"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Fair Lawn",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Fairview",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Fort Lee",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Franklin Lakes",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Resolution 130-26 endorsing amended plan"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Garfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Glen Rock",
+   "tracker_status": "Missing",
+   "latest_adoption": "Amendment dated 2/18/26, endorsed Mar 2026 (found online)"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Hackensack",
+   "tracker_status": "Missing",
+   "latest_adoption": "Amended plan adopted 6/10/26 (found online)"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Harrington Park",
+   "tracker_status": "Need base plan",
+   "latest_adoption": "Amendment, March 2026"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Hasbrouck Heights",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Haworth",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Prepared Feb 2026; adoption blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Hillsdale",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 1/27/26; endorsed 2/3/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Ho-Ho-Kus",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Leonia",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Little Ferry",
+   "tracker_status": "Ready",
+   "latest_adoption": "Approved 3/4/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Lodi",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Lyndhurst",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Mahwah",
+   "tracker_status": "Verify",
+   "latest_adoption": "Unknown"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Maywood",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated 1/19/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Midland Park",
+   "tracker_status": "Verify",
+   "latest_adoption": "Unknown"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Montvale",
+   "tracker_status": "Missing",
+   "latest_adoption": "Fairness hearing 11/18/26 (found online)"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Moonachie",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "New Milford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "North Arlington",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Northvale",
+   "tracker_status": "Check for amendment",
+   "latest_adoption": "Adopted 6/18/25"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Norwood",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 3/15/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Oakland",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Prepared Mar 2026; adoption blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Old Tappan",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 3/11/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Oradell",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Palisades Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Paramus",
+   "tracker_status": "Missing",
+   "latest_adoption": "2025 plan on borough site"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Park Ridge",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/11/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Ramsey",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Ridgefield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Ridgefield Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Ridgewood",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "2025 plan 6/23/25; amendment draft 3/3/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "River Edge",
+   "tracker_status": "Verify",
+   "latest_adoption": "Prepared 2/12/26; adoption blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "River Vale",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Rochelle Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Rockleigh",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Rutherford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Saddle Brook",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Saddle River",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "South Hackensack",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Teaneck",
+   "tracker_status": "Verify",
+   "latest_adoption": "Unknown"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Tenafly",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/11/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Teterboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Upper Saddle River",
+   "tracker_status": "Verify",
+   "latest_adoption": "Signed 3/5/26; adoption line blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Waldwick",
+   "tracker_status": "Need base plan",
+   "latest_adoption": "Amendment adopted 3/10/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Wallington",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 3/10/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Washington Twp",
+   "tracker_status": "Verify",
+   "latest_adoption": "Unknown"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Westwood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Wood-Ridge",
+   "tracker_status": "Check for amendment",
+   "latest_adoption": "Adopted 6/3/25"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Woodcliff Lake",
+   "tracker_status": "Verify",
+   "latest_adoption": "Adopted 2/24/26; endorsed 3/16/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Wyckoff",
+   "tracker_status": "Need base plan",
+   "latest_adoption": "Amendment adopted 3/11/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Aberdeen",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Allenhurst",
+   "tracker_status": "Check for amendment",
+   "latest_adoption": "Adopted 6/11/25"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Allentown",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 3/2/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Asbury Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Atlantic Highlands",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 3/12/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Avon-by-the-Sea",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Belmar",
+   "tracker_status": "Verify",
+   "latest_adoption": "Amended 1/31/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Bradley Beach",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Brielle",
+   "tracker_status": "Need base plan",
+   "latest_adoption": "Amendment adopted 2/17/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Colts Neck",
+   "tracker_status": "Need base plan",
+   "latest_adoption": "Amendment adopted 4/7/26; endorsed 4/8/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Deal",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Eatontown",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated Feb 2026"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Englishtown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Fair Haven",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Farmingdale",
+   "tracker_status": "Check for amendment",
+   "latest_adoption": "Adopted 5/27/25"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Freehold Borough",
+   "tracker_status": "Verify",
+   "latest_adoption": "Unknown"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Freehold Twp",
+   "tracker_status": "Verify",
+   "latest_adoption": "Packet with 3/5/26 Planning Board agenda"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Hazlet",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Highlands",
+   "tracker_status": "Missing",
+   "latest_adoption": "Amended plan endorsed Mar 2026 (found online)"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Holmdel",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Howell",
+   "tracker_status": "Ready",
+   "latest_adoption": "Approved 3/9/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Interlaken",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Keansburg",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Keyport",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Lake Como",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Little Silver",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Adoption blank"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Loch Arbour",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Long Branch",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Manalapan",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated Feb 2026"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Manasquan",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Marlboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Matawan",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Middletown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Millstone",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Monmouth Beach",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Neptune City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Neptune Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Ocean Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Oceanport",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Red Bank",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Roosevelt",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Rumson",
+   "tracker_status": "Missing",
+   "latest_adoption": "Court approval order on borough site (found online)"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Sea Bright",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Sea Girt",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Shrewsbury Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Shrewsbury Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Spring Lake",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Spring Lake Heights",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Tinton Falls",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Union Beach",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Upper Freehold",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Wall",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "West Long Branch",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Boonton (Town)",
+   "tracker_status": "Verify",
+   "latest_adoption": "Adopted 2/11/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Boonton Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Butler",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Chatham Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Chatham Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": "2025 plan on township site (found online)"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Chester Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Chester Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Denville",
+   "tracker_status": "Verify",
+   "latest_adoption": "Anticipated adoption 2/11/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Dover",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 2/4/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "East Hanover",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/24/26; endorsed 3/2/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Florham Park",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/9/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Hanover",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/24/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Harding",
+   "tracker_status": "Verify",
+   "latest_adoption": "Amended 12/15/25"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Jefferson",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated 3/9/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Kinnelon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Lincoln Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Long Hill",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Madison",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mendham Borough",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated 3/3/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mendham Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mine Hill",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 2/23/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Montville",
+   "tracker_status": "Verify",
+   "latest_adoption": "Signed 2/11/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Morris Plains",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Morris Twp",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Adoption date blank (March 2026)"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Morristown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mount Arlington",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated 2/25/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mount Olive",
+   "tracker_status": "Verify",
+   "latest_adoption": "Amendment adopted 2/12/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mountain Lakes",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended Mar 2026"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Netcong",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 3/11/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Parsippany-Troy Hills",
+   "tracker_status": "Missing",
+   "latest_adoption": "Amended 3/2/26, on township site (found online)"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Pequannock",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Randolph",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/2/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Riverdale",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Rockaway Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Rockaway Twp",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/9/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Roxbury",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Victory Gardens",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Washington Twp (Morris)",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Wharton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  }
+ ]
+}
