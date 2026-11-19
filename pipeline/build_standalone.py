@@ -19,6 +19,8 @@ def main():
     html = (DOCS / "index.html").read_text()
     sites = (DOCS / "data" / "sites.geojson").read_text()
     towns = (DOCS / "data" / "municipalities.json").read_text()
+    um_path = DOCS / "data" / "unmapped.json"
+    unmapped = um_path.read_text() if um_path.exists() else '{"items": []}'
     css = (DOCS / "vendor" / "leaflet-1.9.4.css").read_text()
 
     # The artifact host supplies <!doctype>/<html>/<head>/<body>; keep only their contents.
@@ -32,6 +34,8 @@ def main():
                         f'<script id="embedded-sites" type="application/json">{sites}</script>')
     body = body.replace('<script id="embedded-towns" type="application/json"></script>',
                         f'<script id="embedded-towns" type="application/json">{towns}</script>')
+    body = body.replace('<script id="embedded-unmapped" type="application/json"></script>',
+                        f'<script id="embedded-unmapped" type="application/json">{unmapped}</script>')
     marker = '<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>'
     assert marker in body, "leaflet script tag not found"
     body = body.replace(marker, "<script>window.ROUND4_STANDALONE = true;</script>\n" + marker, 1)

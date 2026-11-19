@@ -109,11 +109,19 @@ a { color: var(--pin); }
 .pin.huge b { font-size: 11px; }
 .pin.selected i { transform: scale(1.35); }
 .pin.zone.selected i { transform: rotate(45deg) scale(1.2); }
+.pin.prior i { background: #0b1016; border: 2.5px solid var(--c); box-shadow: 0 0 0 1px #0b1016, 0 2px 6px rgba(0,0,0,.6); }
+.pin.prior b { color: var(--c); }
+.group-h { padding: 12px 14px 6px; font-family: var(--font-head); font-weight: 600; font-size: 12px; letter-spacing: .06em; color: var(--ink-3); border-bottom: 1px solid var(--line); }
+.item.off .nm { color: var(--ink-2); }
+.now { padding: 10px 12px; border-radius: 8px; background: var(--panel-2); border-left: 3px solid var(--c, #8794a3); font-size: 13px; line-height: 1.5; }
+.now b { display: block; font: 600 11px var(--font-head); letter-spacing: .06em; color: var(--ink-3); margin-bottom: 3px; }
+.warn { font-size: 12px; color: var(--ink-3); border-left: 3px solid #f0a63a; padding: 6px 10px; background: color-mix(in srgb, #f0a63a 8%, transparent); }
 
 .legend { position: absolute; left: 372px; bottom: 22px; z-index: 800; background: rgba(18,26,35,.9); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font-size: 11.5px; color: var(--ink-2); display: grid; gap: 4px; }
 .legend div { display: flex; align-items: center; gap: 7px; }
 .legend i { width: 9px; height: 9px; border-radius: 50%; background: var(--c); display: inline-block; }
 .legend i.dia { border-radius: 2px; transform: rotate(45deg) scale(.85); }
+.legend i.ring { background: #0b1016; border: 2px solid var(--ink-2); width: 7px; height: 7px; }
 .legend i.lotline { width: 14px; height: 0; border-radius: 0; border-top: 2px dashed var(--parcel); background: none; }
 
 /* site file */
@@ -173,6 +181,7 @@ a { color: var(--pin); }
     <aside class="side" id="side">
       <div class="filters">
         <input class="search" id="q" type="search" placeholder="Search site, address, owner, block, town" aria-label="Search">
+        <div class="chips" id="round-chips" aria-label="Round"></div>
         <div class="chips" id="mech-chips" aria-label="Compliance mechanism"></div>
         <div class="row">
           <select id="county" aria-label="County"><option value="">All counties</option></select>
@@ -201,6 +210,7 @@ a { color: var(--pin); }
 <!-- The standalone build (pipeline/build_standalone.py) inlines the data here. -->
 <script id="embedded-sites" type="application/json"></script>
 <script id="embedded-towns" type="application/json"></script>
+<script id="embedded-unmapped" type="application/json"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
 <script>
@@ -216,6 +226,13 @@ a { color: var(--pin); }
     { key: "Existing / credit", hex: "#8794a3" },
     { key: "Other", hex: "#b6c2cf" },
   ];
+  const ROUNDS = [
+    { key: "Round 4", label: "Round 4", hex: "#e7edf3" },
+    { key: "Round 3", label: "Round 3", hex: "#a3b1bf" },
+    { key: "Prior (Rounds 1-2)", label: "Rounds 1-2", hex: "#74859a" },
+  ];
+  const roundOf = (s) => s.p.round || "Round 4";
+  const isPrior = (s) => roundOf(s) !== "Round 4";
   const mechOf = (m) => MECHS.find((x) => x.key.toLowerCase() === String(m || "").toLowerCase()) || MECHS[MECHS.length - 1];
   const TOWN_STATUS = {
     "Ready": "#5fd39a", "Ready (2 docs)": "#5fd39a", "Verify": "#f0d24a", "Need base plan": "#f0a63a",
@@ -230,7 +247,8 @@ a { color: var(--pin); }
   const saleDate = (s) => { s = String(s || ""); if (!/^\d{6}$/.test(s)) return s; const y = +s.slice(0, 2); return `${s.slice(2, 4)}/${s.slice(4, 6)}/${y > 50 ? 19 : 20}${s.slice(0, 2)}`; };
 
   let PARCELS = [], SITES = [], TOWNS = [], map, layers = {}, markers = new Map(), lotLayer = null, outline = null, selected = null, tab = "sites";
-  const state = { q: "", county: "", town: "", status: "", minUnits: NaN, minAcres: NaN, mechs: new Set(MECHS.map((m) => m.key)) };
+  const state = { q: "", county: "", town: "", status: "", minUnits: NaN, minAcres: NaN, mechs: new Set(MECHS.map((m) => m.key)), rounds: new Set(ROUNDS.map((r) => r.key)) };
+  let UNMAPPED = [];
 
   // ------------------------------------------------------------ data
   async function load(id, url) {
@@ -255,11 +273,19 @@ a { color: var(--pin); }
         ...s.lots.map((f) => `block ${f.properties.block} lot ${f.properties.lot} ${f.properties.prop_loc || ""} ${f.properties.owner_address || ""}`)].join(" ").toLowerCase();
       const b = boundsOf(s.lots);
       return { ...s, acres, value, owners, hay, bounds: b, center: b.isValid() ? b.getCenter() : null, mech: mechOf(s.p.mechanism) };
-    }).sort((a, b) => a.p.municipality.localeCompare(b.p.municipality) || a.p.site_name.localeCompare(b.p.site_name));
+    });
+    for (const u of UNMAPPED) {
+      const hay = [u.site_name, u.municipality, u.county, u.address, u.zoning, u.mechanism, u.notes, u.existing_conditions,
+        u.zone && u.zone.applies_to, u.zone && u.zone.zone_code].join(" ").toLowerCase();
+      SITES.push({ id: u.site_id, p: u, lots: [], acres: u.site_acres, value: 0, owners: [], hay, bounds: L.latLngBounds([]),
+        center: null, mech: mechOf(u.mechanism), unmapped: true, reason: u.unmapped_reason });
+    }
+    SITES.sort((a, b) => a.p.municipality.localeCompare(b.p.municipality) || (isPrior(a) - isPrior(b)) || a.p.site_name.localeCompare(b.p.site_name));
   }
   function visible(s) {
     const p = s.p;
     if (!state.mechs.has(s.mech.key)) return false;
+    if (!state.rounds.has(roundOf(s))) return false;
     if (state.county && p.county !== state.county) return false;
     if (state.town && p.municipality !== state.town) return false;
     if (state.status && p.site_status !== state.status) return false;
@@ -313,7 +339,7 @@ a { color: var(--pin); }
     const u = s.p.affordable_units || 0;
     const size = u >= 100 ? "huge" : u >= 25 ? "big" : "";
     const px = size === "huge" ? 30 : size === "big" ? 22 : 16;
-    const cls = ["pin", size, s.mech.zone ? "zone" : "", selected === s.id ? "selected" : ""].join(" ");
+    const cls = ["pin", size, s.mech.zone ? "zone" : "", isPrior(s) ? "prior" : "", selected === s.id ? "selected" : ""].join(" ");
     return L.divIcon({ className: "", iconSize: [px, px], iconAnchor: [px / 2, px / 2],
       html: `<span class="${cls}" style="--c:${s.mech.hex}"><i></i>${size ? `<b>${u}</b>` : ""}</span>` });
   }
@@ -325,7 +351,7 @@ a { color: var(--pin); }
       if (!s.center) continue;
       const m = L.marker(s.center, { icon: pinIcon(s), keyboard: true, title: s.p.site_name, riseOnHover: true }).addTo(map);
       m.on("click", () => select(s.id, false));
-      m.bindTooltip(`<b>${esc(s.p.site_name)}</b><br>${esc(s.p.municipality)} · ${s.p.affordable_units ?? "—"} affordable`, { direction: "top", offset: [0, -10], className: "site-tip" });
+      m.bindTooltip(`<b>${esc(s.p.site_name)}</b><br>${esc(s.p.municipality)} · ${isPrior(s) ? esc(roundOf(s)) + " · " : ""}${s.p.affordable_units ?? "—"} affordable`, { direction: "top", offset: [0, -10], className: "site-tip" });
       m._s = s;
       markers.set(s.id, m);
     }
@@ -353,6 +379,13 @@ a { color: var(--pin); }
     if ([...sel.options].some((o) => o.value === cur)) sel.value = cur;
   }
   function renderFilters() {
+    $("#round-chips").innerHTML = ROUNDS.map((r) => `<button class="chip" type="button" aria-pressed="true" data-r="${esc(r.key)}" style="--c:${r.hex}"><i></i>${esc(r.label)}</button>`).join("");
+    $("#round-chips").querySelectorAll(".chip").forEach((b) => (b.onclick = () => {
+      const k = b.dataset.r, on = state.rounds.has(k);
+      on ? state.rounds.delete(k) : state.rounds.add(k);
+      b.setAttribute("aria-pressed", String(!on));
+      refresh();
+    }));
     $("#mech-chips").innerHTML = MECHS.map((m) => `<button class="chip" type="button" aria-pressed="true" data-k="${esc(m.key)}" style="--c:${m.hex}"><i></i>${esc(m.key)}</button>`).join("");
     $("#mech-chips").querySelectorAll(".chip").forEach((b) => (b.onclick = () => {
       const k = b.dataset.k, on = state.mechs.has(k);
@@ -373,7 +406,7 @@ a { color: var(--pin); }
   }
   function renderLegend() {
     $("#legend").innerHTML = MECHS.map((m) => `<div><i class="${m.zone ? "dia" : ""}" style="--c:${m.hex}"></i>${esc(m.key)}</div>`).join("")
-      + `<div><i class="lotline"></i>Selected lots</div>`;
+      + `<div><i class="ring"></i>Prior-round site (hollow)</div><div><i class="lotline"></i>Selected lots</div>`;
   }
   function renderFoot() {
     $("#foot").innerHTML = `<span>Lots: NJOGIS Parcels &amp; MOD-IV. Sites: each town's adopted plan.</span><button id="csv" type="button">${STANDALONE ? "Copy CSV" : "Download CSV"}</button>`;
@@ -423,14 +456,17 @@ a { color: var(--pin); }
       $("#reset-empty").onclick = resetFilters;
       return;
     }
-    box.innerHTML = vis.map((s) => {
+    const row = (s) => {
       const p = s.p;
-      return `<button class="item" type="button" data-id="${esc(s.id)}" aria-current="${selected === s.id}">
+      const where = s.unmapped ? esc(s.reason || "Not located yet") : `${s.lots.length} lot${s.lots.length === 1 ? "" : "s"}${s.acres ? " · " + (+s.acres).toFixed(2) + " ac" : ""}`;
+      return `<button class="item ${s.unmapped ? "off" : ""}" type="button" data-id="${esc(s.id)}" aria-current="${selected === s.id}">
         <span class="top"><span class="dot" style="--c:${s.mech.hex}"></span><span class="nm">${esc(p.site_name)}</span><span class="num">${p.affordable_units ?? "—"}<small>aff.</small></span></span>
-        <span class="meta">${esc(p.municipality)}, ${esc(p.county)} · ${s.lots.length} lot${s.lots.length === 1 ? "" : "s"}${s.acres ? " · " + (+s.acres).toFixed(2) + " ac" : ""}</span>
+        <span class="meta">${isPrior(s) ? `<span class="tag" style="--t:#a3b1bf">${esc(roundOf(s))}</span> ` : ""}${esc(p.municipality)}, ${esc(p.county)} · ${where}</span>
         <span class="meta">${esc(p.mechanism || "Other")}${p.max_density_du_ac ? " · " + p.max_density_du_ac + " du/ac" : ""}${p.site_status ? " · " + esc(p.site_status) : ""}</span>
       </button>`;
-    }).join("");
+    };
+    const on = vis.filter((s) => !s.unmapped), off = vis.filter((s) => s.unmapped);
+    box.innerHTML = on.map(row).join("") + (off.length ? `<div class="group-h">Not on the map yet · ${off.length}</div>` + off.map(row).join("") : "");
     box.querySelectorAll(".item").forEach((b) => (b.onclick = () => select(b.dataset.id, true)));
   }
 
@@ -438,7 +474,16 @@ a { color: var(--pin); }
   function renderDetail(s, pin) {
     const p = s.p;
     const f = s.lots.find((x) => x.properties.pams_pin === pin) || s.lots[0];
-    const q = f.properties;
+    const q = f ? f.properties : null;
+    const z = p.zone;
+    const zoneRows = z ? [
+      ["Applies to", z.applies_to], ["Permitted uses", z.permitted_uses],
+      ["Max density", z.max_density_du_ac != null ? z.max_density_du_ac + " units / acre" : ""], ["Max units", z.max_units != null ? n0(z.max_units) : ""],
+      ["Set-aside", z.set_aside], ["Min. lot area", z.min_lot_area], ["Min. frontage", z.min_frontage], ["Max. height", z.max_height],
+      ["Building cover", z.max_building_coverage], ["Impervious", z.max_impervious_coverage], ["Setbacks", z.setbacks], ["Parking", z.parking],
+      ["Also", z.other_standards], ["Ordinance", z.ordinance_status], ["Source", (z.plan_doc || "") + (z.plan_page ? ", p. " + z.plan_page : "")],
+    ].filter((r) => r[1] != null && String(r[1]).trim() !== "") : [];
+    const zoneTitle = z ? `${isPrior(s) ? esc(z.round || roundOf(s)) + " zoning" : "Round 4 zoning"}${z.zone_code ? ": " + esc(z.zone_code) : ""}` : "";
     const ll = s.center ? `${s.center.lat.toFixed(6)},${s.center.lng.toFixed(6)}` : "";
     const lotList = s.lots.map((x) => `Block ${x.properties.block} Lot ${x.properties.lot}`).join("; ");
     const density = p.total_units && s.acres ? Math.round(p.total_units / s.acres) : null;
@@ -447,7 +492,7 @@ a { color: var(--pin); }
         <button class="x" id="d-close" type="button" aria-label="Close">×</button>
         <h2>${esc(p.site_name)}</h2>
         <div class="where">${esc(p.municipality)}, ${esc(p.county)} County${p.address ? " · " + esc(p.address) : ""}</div>
-        <div class="tags"><span class="tag" style="--t:${s.mech.hex}">${esc(p.mechanism || "Other")}</span>${p.site_status ? `<span class="tag" style="--t:#a3b1bf">${esc(p.site_status)}</span>` : ""}</div>
+        <div class="tags"><span class="tag" style="--t:${isPrior(s) ? "#a3b1bf" : "#e7edf3"}">${esc(roundOf(s))}</span><span class="tag" style="--t:${s.mech.hex}">${esc(p.mechanism || "Other")}</span>${p.site_status ? `<span class="tag" style="--t:#a3b1bf">${esc(p.site_status)}</span>` : ""}</div>
       </div>
       <div class="d-body">
         <div class="figs">
@@ -458,14 +503,18 @@ a { color: var(--pin); }
           <div class="fig"><span>Lots</span><b>${s.lots.length}</b></div>
           <div class="fig"><span>Assessed</span><b>${s.value ? short$(s.value) : "—"}</b></div>
         </div>
+        ${p.existing_conditions ? `<div class="now" style="--c:${s.mech.hex}"><b>${isPrior(s) ? "What's there now" : "Current use"}</b>${esc(p.existing_conditions)}</div>` : ""}
+        ${s.unmapped ? `<p class="warn">Not on the map yet: ${esc(s.reason || "no lots located")}.${p.blocks_lots ? " Listed as " + esc(p.blocks_lots) + "." : ""}</p>` : ""}
+        ${z ? `<div class="sec"><h3>${zoneTitle}</h3>${z.zone_name ? `<p class="desc" style="margin:0 0 8px">${esc(z.zone_name)}</p>` : ""}<dl class="kv">${zoneRows.map((r) => `<dt>${esc(r[0])}</dt><dd>${esc(r[1])}</dd>`).join("")}</dl></div>` : ""}
         <div class="sec"><h3>From the plan</h3><dl class="kv">
-          <dt>Set-aside</dt><dd>${esc(p.set_aside) || "—"}</dd>
-          <dt>Zoning</dt><dd>${esc(p.zoning) || "—"}</dd>
+          ${p.set_aside && !(z && z.set_aside === p.set_aside) ? `<dt>Set-aside</dt><dd>${esc(p.set_aside)}</dd>` : ""}
+          ${p.zoning ? `<dt>Zoning</dt><dd>${esc(p.zoning)}</dd>` : ""}
+          ${p.site_status ? `<dt>Status</dt><dd>${esc(p.site_status)}</dd>` : ""}
           ${density ? `<dt>Implied density</dt><dd>${density} units / acre</dd>` : ""}
           <dt>Source</dt><dd>${esc(p.plan_doc) || "—"}${p.plan_page ? `, p. ${esc(p.plan_page)}` : ""}</dd>
         </dl></div>
         ${p.notes ? `<p class="desc">${esc(p.notes)}</p>` : ""}
-        <div class="sec"><h3>Block ${esc(q.block)} · Lot ${esc(q.lot)}<button class="copy" type="button" data-copy="Block ${esc(q.block)}, Lot ${esc(q.lot)}">Copy</button></h3><dl class="kv">
+        ${q ? `<div class="sec"><h3>Block ${esc(q.block)} · Lot ${esc(q.lot)}<button class="copy" type="button" data-copy="Block ${esc(q.block)}, Lot ${esc(q.lot)}">Copy</button></h3><dl class="kv">
           <dt>Location</dt><dd>${esc(titleCase(q.prop_loc)) || "—"}</dd>
           ${q.owner ? `<dt>Owner</dt><dd>${esc(q.owner)}</dd>` : ""}
           <dt>Owner mailing</dt><dd>${esc(titleCase(q.owner_address)) || "—"}</dd>
@@ -475,10 +524,10 @@ a { color: var(--pin); }
           <dt>Land / improv.</dt><dd>${money(q.land_value)} / ${money(q.improvement_value)}</dd>
           ${q.year_built ? `<dt>Year built</dt><dd>${esc(q.year_built)}</dd>` : ""}
           ${q.last_sale_price > 1 ? `<dt>Last sale</dt><dd>${money(q.last_sale_price)}${q.last_sale_date ? " · " + esc(saleDate(q.last_sale_date)) : ""}</dd>` : ""}
-        </dl></div>
+        </dl>${q.located_by === "address" ? `<p class="note" style="font-size:12px;color:var(--ink-3);margin:6px 0 0">Located by street address; the plan gives no block/lot.</p>` : ""}</div>` : ""}
         ${s.lots.length > 1 ? `<div class="sec"><h3>All ${s.lots.length} lots<button class="copy" type="button" data-copy="${esc(lotList)}">Copy list</button></h3><div class="lots">${s.lots.map((x) => {
           const r = x.properties;
-          return `<button type="button" data-pin="${esc(r.pams_pin)}" aria-current="${r.pams_pin === q.pams_pin}"><span class="mono">${esc(r.block)} · ${esc(r.lot)}</span><span>${esc(titleCase(r.prop_loc || ""))}${r.parcel_acres ? " · " + r.parcel_acres + " ac" : ""}</span></button>`;
+          return `<button type="button" data-pin="${esc(r.pams_pin)}" aria-current="${q && r.pams_pin === q.pams_pin}"><span class="mono">${esc(r.block)} · ${esc(r.lot)}</span><span>${esc(titleCase(r.prop_loc || ""))}${r.parcel_acres ? " · " + r.parcel_acres + " ac" : ""}</span></button>`;
         }).join("")}</div></div>` : ""}
         <div class="links">
           ${ll ? `<a href="https://www.google.com/maps/search/?api=1&query=${ll}" target="_blank" rel="noopener">Google Maps</a>
@@ -508,7 +557,7 @@ a { color: var(--pin); }
     const mobile = window.matchMedia("(max-width: 760px)").matches;
     if (mobile) $("#side").classList.add("collapsed");
     renderList();
-    drawOutline(s, pin);
+    if (s.lots.length) drawOutline(s, pin); else if (outline) { outline.remove(); outline = null; }
     if (!pin && s.bounds.isValid()) {
       const opts = mobile ? { paddingTopLeft: [30, 30], paddingBottomRight: [30, map.getSize().y * 0.7], maxZoom: 18 }
                           : { paddingTopLeft: [40, 40], paddingBottomRight: [430, 40], maxZoom: 18 };
@@ -549,17 +598,18 @@ a { color: var(--pin); }
     }
   }
   function resetFilters() {
-    Object.assign(state, { q: "", county: "", town: "", status: "", minUnits: NaN, minAcres: NaN, mechs: new Set(MECHS.map((m) => m.key)) });
+    Object.assign(state, { q: "", county: "", town: "", status: "", minUnits: NaN, minAcres: NaN, mechs: new Set(MECHS.map((m) => m.key)), rounds: new Set(ROUNDS.map((r) => r.key)) });
     ["#q", "#county", "#town", "#status", "#min-units", "#min-acres"].forEach((sel) => ($(sel).value = ""));
     $("#mech-chips").querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", "true"));
+    $("#round-chips").querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", "true"));
     refreshTowns(); refresh();
   }
   function exportCSV() {
-    const cols = ["county", "municipality", "site_name", "mechanism", "affordable_units", "total_units", "max_density_du_ac", "set_aside", "zoning",
+    const cols = ["county", "municipality", "round", "site_name", "mechanism", "zone_code", "existing_conditions", "affordable_units", "total_units", "max_density_du_ac", "set_aside", "zoning",
       "site_status", "block", "lot", "prop_loc", "owner", "owner_address", "parcel_acres", "net_value", "plan_doc", "plan_page"];
     const ids = new Set(SITES.filter(visible).map((s) => s.id));
     const rows = PARCELS.filter((f) => ids.has(f.properties.site_id)).map((f) => cols.map((c) => {
-      const v = f.properties[c] ?? ""; return /[",\n]/.test(String(v)) ? `"${String(v).replace(/"/g, '""')}"` : v;
+      const v = c === "zone_code" ? ((f.properties.zone || {}).zone_code || "") : (f.properties[c] ?? ""); return /[",\n]/.test(String(v)) ? `"${String(v).replace(/"/g, '""')}"` : v;
     }).join(","));
     const text = [cols.join(","), ...rows].join("\n");
     const btn = $("#csv");
@@ -587,6 +637,8 @@ a { color: var(--pin); }
     if (STANDALONE) document.body.classList.add("standalone");
     const geo = await load("embedded-sites", "data/sites.geojson");
     const tw = await load("embedded-towns", "data/municipalities.json");
+    const um = await load("embedded-unmapped", "data/unmapped.json");
+    UNMAPPED = (um && um.items) || [];
     PARCELS = (geo && geo.features) || [];
     TOWNS = ((tw && tw.municipalities) || []).slice().sort((a, b) => a.county.localeCompare(b.county) || a.municipality.localeCompare(b.municipality));
     initMap();

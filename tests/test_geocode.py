@@ -85,18 +85,53 @@ def fake_fetch(url):
     return {"type": "FeatureCollection", "features": []}
 
 
+def fake_fetch_addr(url):
+    q = urllib.parse.parse_qs(urllib.parse.urlparse(url).query)
+    where = q["where"][0]
+    if "CLOSTER DOCK" in where:
+        return {"type": "FeatureCollection", "features": [
+            {"type": "Feature", "geometry": _square(-73.95, 40.96),
+             "properties": {"PCLBLOCK": str(70 + i), "PCLLOT": "1", "PAMS_PIN": f"0201_{70+i}_1", "PROP_LOC": "CLOSTER DOCK RD"}}
+            for i in range(5)]}
+    if "returnDistinctValues" in q:
+        return {"features": [{"attributes": {"MUN_NAME": "WALDWICK BORO", "PCL_MUN": "0263", "COUNTY": "BERGEN"}},
+                             {"attributes": {"MUN_NAME": "ALPINE BORO", "PCL_MUN": "0201", "COUNTY": "BERGEN"}}]}
+    if "PCLBLOCK='11'" in where:
+        return {"type": "FeatureCollection", "features": [
+            {"type": "Feature", "geometry": _square(-73.93, 40.95),
+             "properties": {"PCLBLOCK": "11", "PCLLOT": "2", "PAMS_PIN": "0201_11_2", "MUN_NAME": "ALPINE BORO"}}]}
+    return fake_fetch(url)
+
+
 def test_build_end_to_end(tmp_path):
-    svc = g.ParcelService(cache_dir=tmp_path, pause=0, fetch=fake_fetch)
+    svc = g.ParcelService(cache_dir=tmp_path, pause=0, fetch=fake_fetch_addr)
     sites = g.read_csv(g.SITES_CSV)
     munis = g.read_csv(g.MUNIS_CSV)
-    geo, unmatched, towns = g.build(svc, sites, munis)
+    zones = g.read_csv(g.ZONES_CSV)
+    geo, unmatched, towns, unmapped = g.build(svc, sites, munis, zones)
 
     harrison = [f for f in geo["features"] if f["properties"]["site_id"] == "waldwick-harrison-ave"]
     assert len(harrison) == 8  # lot 12 is on the block but not in the plan
-    assert harrison[0]["properties"]["affordable_units"] == 6
-    assert harrison[0]["properties"]["mechanism"] == "Redevelopment"
+    hp = harrison[0]["properties"]
+    assert hp["affordable_units"] == 6 and hp["mechanism"] == "Redevelopment" and hp["round"] == "Round 4"
+    assert hp["zone"]["zone_code"] == "Harrison Ave RDP" and hp["zone"]["max_density_du_ac"] == 33
 
     aho2 = [f for f in geo["features"] if f["properties"]["site_id"] == "waldwick-aho2"]
-    assert len(aho2) == 1
-    assert {(u["block"], u["lot"]) for u in unmatched} == {("109.02", "6.04")}
+    assert len(aho2) == 1 and aho2[0]["properties"]["zone"]["min_lot_area"] == "30,000 sf"
+
+    montammy = [f for f in geo["features"] if f["properties"]["site_id"] == "alpine-ah1-montammy"]
+    assert len(montammy) == 1 and montammy[0]["properties"]["zone"]["max_units"] == 150
+
+    ids = {u["site_id"]: u for u in unmapped}
+    assert "alpine-r3-sylco" in ids and "matches 5 lots" in ids["alpine-r3-sylco"]["unmapped_reason"]
+    assert ids["alpine-bcuw"]["round"] == "Prior (Rounds 1-2)"
+    assert "zone-waldwick-aho1" in ids  # overlay on a whole district, no lots listed
+    assert ids["alpine-r3-tower"]["round"] == "Round 3"  # block 80 isn't in the fake layer
     assert len(towns["municipalities"]) == 564
+
+
+def test_norm_round():
+    assert g.norm_round("") == "Round 4"
+    assert g.norm_round("4") == "Round 4"
+    assert g.norm_round("Third") == "Round 3"
+    assert g.norm_round("prior") == "Prior (Rounds 1-2)"
