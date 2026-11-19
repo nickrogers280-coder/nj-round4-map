@@ -7,8 +7,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
 <style>
 :root {
   --mylar: #e9efed;      /* map-room base, pale survey film */
@@ -26,6 +26,20 @@
   --m-supportive: #b0367a;
   --m-existing: #7a8790;
   --m-other: #3d4f58;
+  --tooltip-bg: rgba(255,255,255,.94);
+  --lot-fill: .45;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --mylar: #141c20; --panel: #1b252a; --ink: #e3ebe8; --ink-soft: #9fb0b5;
+    --rule: #2c3a40; --focus: #4fc2b2; --hover: #223036;
+    --tooltip-bg: rgba(27,37,42,.94); --lot-fill: .55; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --mylar: #141c20; --panel: #1b252a; --ink: #e3ebe8; --ink-soft: #9fb0b5;
+  --rule: #2c3a40; --focus: #4fc2b2; --hover: #223036;
+  --tooltip-bg: rgba(27,37,42,.94); --lot-fill: .55; color-scheme: dark;
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; height: 100%; }
@@ -40,7 +54,7 @@ body {
 button, input, select { font: inherit; color: inherit; }
 :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
 
-.app { display: grid; grid-template-columns: 380px 1fr; height: 100vh; }
+.app { display: grid; grid-template-columns: 380px 1fr; height: 100%; }
 .panel {
   background: var(--panel);
   border-right: 1px solid var(--rule);
@@ -62,13 +76,13 @@ button, input, select { font: inherit; color: inherit; }
 .field span { font-size: 12.5px; color: var(--ink-soft); }
 .field input, .field select {
   width: 100%; padding: 7px 9px;
-  border: 1px solid var(--rule); border-radius: 6px; background: #fff;
+  border: 1px solid var(--rule); border-radius: 6px; background: var(--panel);
 }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .chip {
   display: inline-flex; align-items: center; gap: 6px;
   padding: 4px 9px 4px 7px; border-radius: 999px;
-  border: 1px solid var(--rule); background: #fff; cursor: pointer;
+  border: 1px solid var(--rule); background: var(--panel); cursor: pointer;
   font-size: 13px;
 }
 .chip i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
@@ -127,11 +141,16 @@ h3 { font-size: 15px; margin: 18px 0 8px; font-weight: 700; }
 
 #map { height: 100%; background: var(--mylar); }
 .leaflet-container { font-family: inherit; }
-.legend { background: rgba(255,255,255,.94); padding: 8px 10px; border-radius: 6px; font-size: 12.5px; line-height: 1.6; box-shadow: 0 1px 3px rgba(29,43,51,.18); }
+.legend { background: var(--tooltip-bg); color: var(--ink); padding: 8px 10px; border-radius: 6px; font-size: 12.5px; line-height: 1.6; box-shadow: 0 1px 3px rgba(29,43,51,.18); }
 .legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; margin-right: 6px; vertical-align: -1px; }
-.basemaps { background: #fff; border-radius: 6px; box-shadow: 0 1px 3px rgba(29,43,51,.18); display: flex; overflow: hidden; }
-.basemaps button { border: 0; background: #fff; padding: 6px 10px; cursor: pointer; font-size: 13px; }
-.basemaps button[aria-pressed="true"] { background: var(--ink); color: #fff; }
+.basemaps { background: var(--panel); border-radius: 6px; box-shadow: 0 1px 3px rgba(29,43,51,.18); display: flex; overflow: hidden; }
+.basemaps button { border: 0; background: var(--panel); padding: 6px 10px; cursor: pointer; font-size: 13px; }
+.basemaps button[aria-pressed="true"] { background: var(--ink); color: var(--panel); }
+.standalone #map { background-color: var(--mylar); background-image: linear-gradient(var(--rule) 1px, transparent 1px), linear-gradient(90deg, var(--rule) 1px, transparent 1px); background-size: 48px 48px; }
+.leaflet-tooltip { background: var(--tooltip-bg); color: var(--ink); border-color: var(--rule); }
+.leaflet-bar a { background: var(--panel); color: var(--ink); border-color: var(--rule); }
+.leaflet-control-attribution { background: var(--tooltip-bg) !important; color: var(--ink-soft); }
+.extlink { display: inline-block; margin: 0 0 14px; color: var(--focus); }
 .toggle-panel { display: none; }
 
 @media (max-width: 760px) {
@@ -145,7 +164,7 @@ h3 { font-size: 15px; margin: 18px 0 8px; font-weight: 700; }
   .panel.up { transform: none; }
   .toggle-panel { display: block; width: 100%; padding: 10px 16px; border: 0; background: none; font-weight: 600; text-align: left; }
   .panel header { padding-top: 4px; }
-  #map { height: 100vh; }
+  #map { height: 100%; }
   .legend { display: none; }
   .leaflet-bottom { bottom: 46px; }
 }
@@ -204,6 +223,8 @@ const MECH = [
 const mechOf = m => MECH.find(x => x.key.toLowerCase() === String(m || "").toLowerCase()) || MECH[MECH.length - 1];
 
 const $ = id => document.getElementById(id);
+const STANDALONE = window.ROUND4_STANDALONE === true;  // claude.ai artifact: no tile servers allowed
+if (STANDALONE) document.body.classList.add("standalone");
 const fmt = n => n == null || n === "" ? "—" : Number(n).toLocaleString("en-US");
 const money = n => n == null || n === "" ? "—" : "$" + Number(n).toLocaleString("en-US");
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -220,7 +241,7 @@ const bases = {
   Aerial: L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", {
     maxZoom: 20, attribution: "Imagery &copy; Esri" }),
 };
-bases.Streets.addTo(map);
+if (!STANDALONE) bases.Streets.addTo(map);
 const BaseCtl = L.Control.extend({
   options: { position: "topright" },
   onAdd() {
@@ -235,7 +256,7 @@ const BaseCtl = L.Control.extend({
     return el;
   }
 });
-map.addControl(new BaseCtl());
+if (!STANDALONE) map.addControl(new BaseCtl());
 const Legend = L.Control.extend({
   options: { position: "bottomright" },
   onAdd() {
@@ -247,7 +268,7 @@ const Legend = L.Control.extend({
 map.addControl(new Legend());
 
 let layer = L.geoJSON(null, {
-  style: f => ({ color: mechOf(f.properties.mechanism).hex, weight: 1.5, fillOpacity: .45, fillColor: mechOf(f.properties.mechanism).hex }),
+  style: f => ({ color: mechOf(f.properties.mechanism).hex, weight: 1.5, fillOpacity: .5, fillColor: mechOf(f.properties.mechanism).hex }),
   onEachFeature: (f, l) => {
     l.on("click", () => openSite(f.properties.site_id, f.properties.pams_pin));
     l.bindTooltip(`${esc(f.properties.site_name)}<br>Block ${esc(f.properties.block)}, Lot ${esc(f.properties.lot)}`, { sticky: true });
@@ -337,7 +358,8 @@ function renderList() {
     return;
   }
   if (!n) {
-    $("list").innerHTML = `<div class="empty"><p>No sites match these filters.</p><p><button class="linkbtn" type="button" onclick="resetFilters()">Clear filters</button></p></div>`;
+    $("list").innerHTML = `<div class="empty"><p>No sites match these filters.</p><p><button class="linkbtn" type="button" id="resetEmpty">Clear filters</button></p></div>`;
+    $("resetEmpty").onclick = resetFilters;
     return;
   }
   $("list").innerHTML = visibleSites.map(s => {
@@ -366,7 +388,8 @@ function openSite(id, pin) {
   $("detail").innerHTML = `
     <button class="linkbtn back" type="button" id="back">Back to all sites</button>
     <h2 class="lotlabel">${label}<small>${esc(p.site_name)} in ${esc(p.municipality)}, ${esc(p.county)} County</small></h2>
-    <div class="mech"><i style="background:${m.hex}"></i>${esc(p.mechanism || "Other")}</div>
+    <div class="mech"><i style="background:${m.hex}"></i>${esc(p.mechanism || "Other")}</div><br>
+    <a class="extlink" href="${gmaps(focus)}" target="_blank" rel="noopener">View this lot on Google Maps</a>
     <dl>
       <dt>Affordable units</dt><dd>${fmt(p.affordable_units)}</dd>
       <dt>Total units</dt><dd>${fmt(p.total_units)}</dd>
@@ -404,8 +427,12 @@ function openSite(id, pin) {
   const bounds = L.geoJSON({ type: "FeatureCollection", features: s.parcels }).getBounds();
   if (!pin) map.fitBounds(bounds, { maxZoom: 18, padding: [40, 40] });
   if (highlight) map.removeLayer(highlight);
-  highlight = L.geoJSON(focus, { style: { color: "#0e6e62", weight: 4, fill: false } }).addTo(map);
+  highlight = L.geoJSON(focus, { style: { color: "#2bb3a0", weight: 4, fill: false } }).addTo(map);
   $("panel").classList.add("up");
+}
+function gmaps(f) {
+  const c = L.geoJSON(f).getBounds().getCenter();
+  return `https://www.google.com/maps/search/?api=1&query=${c.lat.toFixed(6)},${c.lng.toFixed(6)}`;
 }
 function closeSite() {
   $("detail").classList.remove("open");
@@ -428,7 +455,16 @@ function exportCSV() {
   const rows = parcels.filter(f => ids.has(f.properties.site_id)).map(f => cols.map(c => {
     const v = f.properties[c] ?? ""; return /[",\n]/.test(String(v)) ? `"${String(v).replace(/"/g, '""')}"` : v;
   }).join(","));
-  const blob = new Blob([[cols.join(","), ...rows].join("\n")], { type: "text/csv" });
+  const text = [cols.join(","), ...rows].join("\n");
+  if (STANDALONE) {  // downloads are blocked inside claude.ai pages, so copy instead
+    const done = () => { $("export").textContent = "Copied to clipboard"; setTimeout(() => $("export").textContent = "Copy CSV of matches", 2000); };
+    navigator.clipboard.writeText(text).then(done).catch(() => {
+      const ta = Object.assign(document.createElement("textarea"), { value: text });
+      document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} ta.remove();
+    });
+    return;
+  }
+  const blob = new Blob([text], { type: "text/csv" });
   const a = Object.assign(document.createElement("a"), { href: URL.createObjectURL(blob), download: "round4-sites.csv" });
   document.body.appendChild(a); a.click(); a.remove();
 }
@@ -439,6 +475,7 @@ function exportCSV() {
 $("county").addEventListener("change", () => { refreshTowns(); apply(); });
 $("reset").onclick = resetFilters;
 $("export").onclick = exportCSV;
+if (STANDALONE) $("export").textContent = "Copy CSV of matches";
 $("togglePanel").onclick = () => {
   const up = $("panel").classList.toggle("up");
   $("togglePanel").setAttribute("aria-expanded", up);

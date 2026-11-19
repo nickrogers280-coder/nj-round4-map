@@ -55,10 +55,9 @@ Cost control: the default model is `claude-sonnet-5-5`, each town is capped at 1
 
 ## Viewing the map
 
-The repository is private. To view the map, either:
+The map is published as a private claude.ai artifact. To refresh it with new data, run `python pipeline/build_standalone.py` (it writes `dist/round4-map.html` with the data inlined) and republish that file to the same artifact. claude.ai pages can't load map tiles, so that version shows parcels on a plain grid with a "View this lot on Google Maps" link for aerial context.
 
-- open `docs/index.html` from a local clone with a simple server (`python -m http.server -d docs`) so it can load `docs/data/`, or
-- ask Claude to publish it as a private claude.ai artifact with the current data embedded.
+To see the full version with street and aerial basemaps, serve `docs/` locally: `python -m http.server -d docs`, then open http://localhost:8000.
 
 GitHub Pages also works if the repository is made public or the account has a plan that supports Pages on private repositories.
 

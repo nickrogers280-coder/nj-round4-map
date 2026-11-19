@@ -1,0 +1,2133 @@
+<title>NJ Round 4 Sites</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<style>
+/* required styles */
+
+.leaflet-pane,
+.leaflet-tile,
+.leaflet-marker-icon,
+.leaflet-marker-shadow,
+.leaflet-tile-container,
+.leaflet-pane > svg,
+.leaflet-pane > canvas,
+.leaflet-zoom-box,
+.leaflet-image-layer,
+.leaflet-layer {
+	position: absolute;
+	left: 0;
+	top: 0;
+	}
+.leaflet-container {
+	overflow: hidden;
+	}
+.leaflet-tile,
+.leaflet-marker-icon,
+.leaflet-marker-shadow {
+	-webkit-user-select: none;
+	   -moz-user-select: none;
+	        user-select: none;
+	  -webkit-user-drag: none;
+	}
+/* Prevents IE11 from highlighting tiles in blue */
+.leaflet-tile::selection {
+	background: transparent;
+}
+/* Safari renders non-retina tile on retina better with this, but Chrome is worse */
+.leaflet-safari .leaflet-tile {
+	image-rendering: -webkit-optimize-contrast;
+	}
+/* hack that prevents hw layers "stretching" when loading new tiles */
+.leaflet-safari .leaflet-tile-container {
+	width: 1600px;
+	height: 1600px;
+	-webkit-transform-origin: 0 0;
+	}
+.leaflet-marker-icon,
+.leaflet-marker-shadow {
+	display: block;
+	}
+/* .leaflet-container svg: reset svg max-width decleration shipped in Joomla! (joomla.org) 3.x */
+/* .leaflet-container img: map is broken in FF if you have max-width: 100% on tiles */
+.leaflet-container .leaflet-overlay-pane svg {
+	max-width: none !important;
+	max-height: none !important;
+	}
+.leaflet-container .leaflet-marker-pane img,
+.leaflet-container .leaflet-shadow-pane img,
+.leaflet-container .leaflet-tile-pane img,
+.leaflet-container img.leaflet-image-layer,
+.leaflet-container .leaflet-tile {
+	max-width: none !important;
+	max-height: none !important;
+	width: auto;
+	padding: 0;
+	}
+
+.leaflet-container img.leaflet-tile {
+	/* See: https://bugs.chromium.org/p/chromium/issues/detail?id=600120 */
+	mix-blend-mode: plus-lighter;
+}
+
+.leaflet-container.leaflet-touch-zoom {
+	-ms-touch-action: pan-x pan-y;
+	touch-action: pan-x pan-y;
+	}
+.leaflet-container.leaflet-touch-drag {
+	-ms-touch-action: pinch-zoom;
+	/* Fallback for FF which doesn't support pinch-zoom */
+	touch-action: none;
+	touch-action: pinch-zoom;
+}
+.leaflet-container.leaflet-touch-drag.leaflet-touch-zoom {
+	-ms-touch-action: none;
+	touch-action: none;
+}
+.leaflet-container {
+	-webkit-tap-highlight-color: transparent;
+}
+.leaflet-container a {
+	-webkit-tap-highlight-color: rgba(51, 181, 229, 0.4);
+}
+.leaflet-tile {
+	filter: inherit;
+	visibility: hidden;
+	}
+.leaflet-tile-loaded {
+	visibility: inherit;
+	}
+.leaflet-zoom-box {
+	width: 0;
+	height: 0;
+	-moz-box-sizing: border-box;
+	     box-sizing: border-box;
+	z-index: 800;
+	}
+/* workaround for https://bugzilla.mozilla.org/show_bug.cgi?id=888319 */
+.leaflet-overlay-pane svg {
+	-moz-user-select: none;
+	}
+
+.leaflet-pane         { z-index: 400; }
+
+.leaflet-tile-pane    { z-index: 200; }
+.leaflet-overlay-pane { z-index: 400; }
+.leaflet-shadow-pane  { z-index: 500; }
+.leaflet-marker-pane  { z-index: 600; }
+.leaflet-tooltip-pane   { z-index: 650; }
+.leaflet-popup-pane   { z-index: 700; }
+
+.leaflet-map-pane canvas { z-index: 100; }
+.leaflet-map-pane svg    { z-index: 200; }
+
+.leaflet-vml-shape {
+	width: 1px;
+	height: 1px;
+	}
+.lvml {
+	behavior: url(#default#VML);
+	display: inline-block;
+	position: absolute;
+	}
+
+
+/* control positioning */
+
+.leaflet-control {
+	position: relative;
+	z-index: 800;
+	pointer-events: visiblePainted; /* IE 9-10 doesn't have auto */
+	pointer-events: auto;
+	}
+.leaflet-top,
+.leaflet-bottom {
+	position: absolute;
+	z-index: 1000;
+	pointer-events: none;
+	}
+.leaflet-top {
+	top: 0;
+	}
+.leaflet-right {
+	right: 0;
+	}
+.leaflet-bottom {
+	bottom: 0;
+	}
+.leaflet-left {
+	left: 0;
+	}
+.leaflet-control {
+	float: left;
+	clear: both;
+	}
+.leaflet-right .leaflet-control {
+	float: right;
+	}
+.leaflet-top .leaflet-control {
+	margin-top: 10px;
+	}
+.leaflet-bottom .leaflet-control {
+	margin-bottom: 10px;
+	}
+.leaflet-left .leaflet-control {
+	margin-left: 10px;
+	}
+.leaflet-right .leaflet-control {
+	margin-right: 10px;
+	}
+
+
+/* zoom and fade animations */
+
+.leaflet-fade-anim .leaflet-popup {
+	opacity: 0;
+	-webkit-transition: opacity 0.2s linear;
+	   -moz-transition: opacity 0.2s linear;
+	        transition: opacity 0.2s linear;
+	}
+.leaflet-fade-anim .leaflet-map-pane .leaflet-popup {
+	opacity: 1;
+	}
+.leaflet-zoom-animated {
+	-webkit-transform-origin: 0 0;
+	    -ms-transform-origin: 0 0;
+	        transform-origin: 0 0;
+	}
+svg.leaflet-zoom-animated {
+	will-change: transform;
+}
+
+.leaflet-zoom-anim .leaflet-zoom-animated {
+	-webkit-transition: -webkit-transform 0.25s cubic-bezier(0,0,0.25,1);
+	   -moz-transition:    -moz-transform 0.25s cubic-bezier(0,0,0.25,1);
+	        transition:         transform 0.25s cubic-bezier(0,0,0.25,1);
+	}
+.leaflet-zoom-anim .leaflet-tile,
+.leaflet-pan-anim .leaflet-tile {
+	-webkit-transition: none;
+	   -moz-transition: none;
+	        transition: none;
+	}
+
+.leaflet-zoom-anim .leaflet-zoom-hide {
+	visibility: hidden;
+	}
+
+
+/* cursors */
+
+.leaflet-interactive {
+	cursor: pointer;
+	}
+.leaflet-grab {
+	cursor: -webkit-grab;
+	cursor:    -moz-grab;
+	cursor:         grab;
+	}
+.leaflet-crosshair,
+.leaflet-crosshair .leaflet-interactive {
+	cursor: crosshair;
+	}
+.leaflet-popup-pane,
+.leaflet-control {
+	cursor: auto;
+	}
+.leaflet-dragging .leaflet-grab,
+.leaflet-dragging .leaflet-grab .leaflet-interactive,
+.leaflet-dragging .leaflet-marker-draggable {
+	cursor: move;
+	cursor: -webkit-grabbing;
+	cursor:    -moz-grabbing;
+	cursor:         grabbing;
+	}
+
+/* marker & overlays interactivity */
+.leaflet-marker-icon,
+.leaflet-marker-shadow,
+.leaflet-image-layer,
+.leaflet-pane > svg path,
+.leaflet-tile-container {
+	pointer-events: none;
+	}
+
+.leaflet-marker-icon.leaflet-interactive,
+.leaflet-image-layer.leaflet-interactive,
+.leaflet-pane > svg path.leaflet-interactive,
+svg.leaflet-image-layer.leaflet-interactive path {
+	pointer-events: visiblePainted; /* IE 9-10 doesn't have auto */
+	pointer-events: auto;
+	}
+
+/* visual tweaks */
+
+.leaflet-container {
+	background: #ddd;
+	outline-offset: 1px;
+	}
+.leaflet-container a {
+	color: #0078A8;
+	}
+.leaflet-zoom-box {
+	border: 2px dotted #38f;
+	background: rgba(255,255,255,0.5);
+	}
+
+
+/* general typography */
+.leaflet-container {
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-size: 0.75rem;
+	line-height: 1.5;
+	}
+
+
+/* general toolbar styles */
+
+.leaflet-bar {
+	box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+	border-radius: 4px;
+	}
+.leaflet-bar a {
+	background-color: #fff;
+	border-bottom: 1px solid #ccc;
+	width: 26px;
+	height: 26px;
+	line-height: 26px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	}
+.leaflet-bar a,
+.leaflet-control-layers-toggle {
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	display: block;
+	}
+.leaflet-bar a:hover,
+.leaflet-bar a:focus {
+	background-color: #f4f4f4;
+	}
+.leaflet-bar a:first-child {
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	}
+.leaflet-bar a:last-child {
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom: none;
+	}
+.leaflet-bar a.leaflet-disabled {
+	cursor: default;
+	background-color: #f4f4f4;
+	color: #bbb;
+	}
+
+.leaflet-touch .leaflet-bar a {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	}
+.leaflet-touch .leaflet-bar a:first-child {
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	}
+.leaflet-touch .leaflet-bar a:last-child {
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	}
+
+/* zoom control */
+
+.leaflet-control-zoom-in,
+.leaflet-control-zoom-out {
+	font: bold 18px 'Lucida Console', Monaco, monospace;
+	text-indent: 1px;
+	}
+
+.leaflet-touch .leaflet-control-zoom-in, .leaflet-touch .leaflet-control-zoom-out  {
+	font-size: 22px;
+	}
+
+
+/* layers control */
+
+.leaflet-control-layers {
+	box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+	background: #fff;
+	border-radius: 5px;
+	}
+.leaflet-control-layers-toggle {
+	background-image: url(images/layers.png);
+	width: 36px;
+	height: 36px;
+	}
+.leaflet-retina .leaflet-control-layers-toggle {
+	background-image: url(images/layers-2x.png);
+	background-size: 26px 26px;
+	}
+.leaflet-touch .leaflet-control-layers-toggle {
+	width: 44px;
+	height: 44px;
+	}
+.leaflet-control-layers .leaflet-control-layers-list,
+.leaflet-control-layers-expanded .leaflet-control-layers-toggle {
+	display: none;
+	}
+.leaflet-control-layers-expanded .leaflet-control-layers-list {
+	display: block;
+	position: relative;
+	}
+.leaflet-control-layers-expanded {
+	padding: 6px 10px 6px 6px;
+	color: #333;
+	background: #fff;
+	}
+.leaflet-control-layers-scrollbar {
+	overflow-y: scroll;
+	overflow-x: hidden;
+	padding-right: 5px;
+	}
+.leaflet-control-layers-selector {
+	margin-top: 2px;
+	position: relative;
+	top: 1px;
+	}
+.leaflet-control-layers label {
+	display: block;
+	font-size: 13px;
+	font-size: 1.08333em;
+	}
+.leaflet-control-layers-separator {
+	height: 0;
+	border-top: 1px solid #ddd;
+	margin: 5px -10px 5px -6px;
+	}
+
+/* Default icon URLs */
+.leaflet-default-icon-path { /* used only in path-guessing heuristic, see L.Icon.Default */
+	background-image: url(images/marker-icon.png);
+	}
+
+
+/* attribution and scale controls */
+
+.leaflet-container .leaflet-control-attribution {
+	background: #fff;
+	background: rgba(255, 255, 255, 0.8);
+	margin: 0;
+	}
+.leaflet-control-attribution,
+.leaflet-control-scale-line {
+	padding: 0 5px;
+	color: #333;
+	line-height: 1.4;
+	}
+.leaflet-control-attribution a {
+	text-decoration: none;
+	}
+.leaflet-control-attribution a:hover,
+.leaflet-control-attribution a:focus {
+	text-decoration: underline;
+	}
+.leaflet-attribution-flag {
+	display: inline !important;
+	vertical-align: baseline !important;
+	width: 1em;
+	height: 0.6669em;
+	}
+.leaflet-left .leaflet-control-scale {
+	margin-left: 5px;
+	}
+.leaflet-bottom .leaflet-control-scale {
+	margin-bottom: 5px;
+	}
+.leaflet-control-scale-line {
+	border: 2px solid #777;
+	border-top: none;
+	line-height: 1.1;
+	padding: 2px 5px 1px;
+	white-space: nowrap;
+	-moz-box-sizing: border-box;
+	     box-sizing: border-box;
+	background: rgba(255, 255, 255, 0.8);
+	text-shadow: 1px 1px #fff;
+	}
+.leaflet-control-scale-line:not(:first-child) {
+	border-top: 2px solid #777;
+	border-bottom: none;
+	margin-top: -2px;
+	}
+.leaflet-control-scale-line:not(:first-child):not(:last-child) {
+	border-bottom: 2px solid #777;
+	}
+
+.leaflet-touch .leaflet-control-attribution,
+.leaflet-touch .leaflet-control-layers,
+.leaflet-touch .leaflet-bar {
+	box-shadow: none;
+	}
+.leaflet-touch .leaflet-control-layers,
+.leaflet-touch .leaflet-bar {
+	border: 2px solid rgba(0,0,0,0.2);
+	background-clip: padding-box;
+	}
+
+
+/* popup */
+
+.leaflet-popup {
+	position: absolute;
+	text-align: center;
+	margin-bottom: 20px;
+	}
+.leaflet-popup-content-wrapper {
+	padding: 1px;
+	text-align: left;
+	border-radius: 12px;
+	}
+.leaflet-popup-content {
+	margin: 13px 24px 13px 20px;
+	line-height: 1.3;
+	font-size: 13px;
+	font-size: 1.08333em;
+	min-height: 1px;
+	}
+.leaflet-popup-content p {
+	margin: 17px 0;
+	margin: 1.3em 0;
+	}
+.leaflet-popup-tip-container {
+	width: 40px;
+	height: 20px;
+	position: absolute;
+	left: 50%;
+	margin-top: -1px;
+	margin-left: -20px;
+	overflow: hidden;
+	pointer-events: none;
+	}
+.leaflet-popup-tip {
+	width: 17px;
+	height: 17px;
+	padding: 1px;
+
+	margin: -10px auto 0;
+	pointer-events: auto;
+
+	-webkit-transform: rotate(45deg);
+	   -moz-transform: rotate(45deg);
+	    -ms-transform: rotate(45deg);
+	        transform: rotate(45deg);
+	}
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+	background: white;
+	color: #333;
+	box-shadow: 0 3px 14px rgba(0,0,0,0.4);
+	}
+.leaflet-container a.leaflet-popup-close-button {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: none;
+	text-align: center;
+	width: 24px;
+	height: 24px;
+	font: 16px/24px Tahoma, Verdana, sans-serif;
+	color: #757575;
+	text-decoration: none;
+	background: transparent;
+	}
+.leaflet-container a.leaflet-popup-close-button:hover,
+.leaflet-container a.leaflet-popup-close-button:focus {
+	color: #585858;
+	}
+.leaflet-popup-scrolled {
+	overflow: auto;
+	}
+
+.leaflet-oldie .leaflet-popup-content-wrapper {
+	-ms-zoom: 1;
+	}
+.leaflet-oldie .leaflet-popup-tip {
+	width: 24px;
+	margin: 0 auto;
+
+	-ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.70710678, M12=0.70710678, M21=-0.70710678, M22=0.70710678)";
+	filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.70710678, M12=0.70710678, M21=-0.70710678, M22=0.70710678);
+	}
+
+.leaflet-oldie .leaflet-control-zoom,
+.leaflet-oldie .leaflet-control-layers,
+.leaflet-oldie .leaflet-popup-content-wrapper,
+.leaflet-oldie .leaflet-popup-tip {
+	border: 1px solid #999;
+	}
+
+
+/* div icon */
+
+.leaflet-div-icon {
+	background: #fff;
+	border: 1px solid #666;
+	}
+
+
+/* Tooltip */
+/* Base styles for the element that has a tooltip */
+.leaflet-tooltip {
+	position: absolute;
+	padding: 6px;
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 3px;
+	color: #222;
+	white-space: nowrap;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	pointer-events: none;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+	}
+.leaflet-tooltip.leaflet-interactive {
+	cursor: pointer;
+	pointer-events: auto;
+	}
+.leaflet-tooltip-top:before,
+.leaflet-tooltip-bottom:before,
+.leaflet-tooltip-left:before,
+.leaflet-tooltip-right:before {
+	position: absolute;
+	pointer-events: none;
+	border: 6px solid transparent;
+	background: transparent;
+	content: "";
+	}
+
+/* Directions */
+
+.leaflet-tooltip-bottom {
+	margin-top: 6px;
+}
+.leaflet-tooltip-top {
+	margin-top: -6px;
+}
+.leaflet-tooltip-bottom:before,
+.leaflet-tooltip-top:before {
+	left: 50%;
+	margin-left: -6px;
+	}
+.leaflet-tooltip-top:before {
+	bottom: 0;
+	margin-bottom: -12px;
+	border-top-color: #fff;
+	}
+.leaflet-tooltip-bottom:before {
+	top: 0;
+	margin-top: -12px;
+	margin-left: -6px;
+	border-bottom-color: #fff;
+	}
+.leaflet-tooltip-left {
+	margin-left: -6px;
+}
+.leaflet-tooltip-right {
+	margin-left: 6px;
+}
+.leaflet-tooltip-left:before,
+.leaflet-tooltip-right:before {
+	top: 50%;
+	margin-top: -6px;
+	}
+.leaflet-tooltip-left:before {
+	right: 0;
+	margin-right: -12px;
+	border-left-color: #fff;
+	}
+.leaflet-tooltip-right:before {
+	left: 0;
+	margin-left: -12px;
+	border-right-color: #fff;
+	}
+
+/* Printing */
+
+@media print {
+	/* Prevent printers from removing background-images of controls. */
+	.leaflet-control {
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+		}
+	}
+
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<style>
+:root {
+  --mylar: #e9efed;      /* map-room base, pale survey film */
+  --panel: #ffffff;
+  --ink: #1d2b33;        /* deep slate for text */
+  --ink-soft: #5b6b73;
+  --rule: #d3dcd9;
+  --focus: #0e6e62;      /* survey teal, used for selection and focus only */
+  --hover: #f3f6f5;
+  --m-overlay: #e0a019;
+  --m-inclusionary: #c8501e;
+  --m-redevelopment: #6d4aa8;
+  --m-affordable: #1f7a4d;
+  --m-municipal: #2563a8;
+  --m-supportive: #b0367a;
+  --m-existing: #7a8790;
+  --m-other: #3d4f58;
+  --tooltip-bg: rgba(255,255,255,.94);
+  --lot-fill: .45;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --mylar: #141c20; --panel: #1b252a; --ink: #e3ebe8; --ink-soft: #9fb0b5;
+    --rule: #2c3a40; --focus: #4fc2b2; --hover: #223036;
+    --tooltip-bg: rgba(27,37,42,.94); --lot-fill: .55; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --mylar: #141c20; --panel: #1b252a; --ink: #e3ebe8; --ink-soft: #9fb0b5;
+  --rule: #2c3a40; --focus: #4fc2b2; --hover: #223036;
+  --tooltip-bg: rgba(27,37,42,.94); --lot-fill: .55; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body {
+  background: var(--mylar);
+  color: var(--ink);
+  font-family: "Archivo", system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.45;
+  font-variation-settings: "wdth" 100;
+}
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+
+.app { display: grid; grid-template-columns: 380px 1fr; height: 100%; }
+.panel {
+  background: var(--panel);
+  border-right: 1px solid var(--rule);
+  display: flex; flex-direction: column; min-height: 0;
+}
+.panel header { padding: 20px 20px 12px; }
+.title {
+  margin: 0;
+  font-size: 30px; line-height: 1;
+  font-weight: 800;
+  font-variation-settings: "wdth" 70;
+  letter-spacing: -0.01em;
+}
+.subtitle { margin: 6px 0 0; color: var(--ink-soft); font-size: 13.5px; }
+
+.filters { padding: 4px 20px 14px; display: grid; gap: 10px; border-bottom: 1px solid var(--rule); }
+.row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.field { display: grid; gap: 3px; }
+.field span { font-size: 12.5px; color: var(--ink-soft); }
+.field input, .field select {
+  width: 100%; padding: 7px 9px;
+  border: 1px solid var(--rule); border-radius: 6px; background: var(--panel);
+}
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 4px 9px 4px 7px; border-radius: 999px;
+  border: 1px solid var(--rule); background: var(--panel); cursor: pointer;
+  font-size: 13px;
+}
+.chip i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+.chip[aria-pressed="false"] { opacity: .45; }
+.chip[aria-pressed="false"] i { background: transparent !important; outline: 1.5px solid currentColor; }
+
+.tally {
+  display: grid; gap: 2px;
+  padding: 10px 20px; font-size: 13px; color: var(--ink-soft);
+  border-bottom: 1px solid var(--rule);
+}
+.tally .actions { display: flex; gap: 16px; }
+.panel.detailing .filters, .panel.detailing .tally, .panel.detailing .subtitle { display: none; }
+.tally strong { color: var(--ink); font-size: 15px; }
+.linkbtn { background: none; border: 0; padding: 0; color: var(--focus); cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
+
+.list { overflow-y: auto; flex: 1; min-height: 0; }
+.site {
+  display: grid; grid-template-columns: 6px 1fr auto; gap: 12px;
+  width: 100%; text-align: left; padding: 12px 20px;
+  border: 0; border-bottom: 1px solid var(--rule); background: none; cursor: pointer;
+}
+.site:hover { background: var(--hover); }
+.site .bar { border-radius: 3px; }
+.site .name { font-weight: 600; }
+.site .meta { font-size: 13px; color: var(--ink-soft); }
+.site .units { text-align: right; font-variant-numeric: tabular-nums; }
+.site .units b { display: block; font-size: 18px; font-weight: 700; font-variation-settings: "wdth" 80; }
+.site .units small { color: var(--ink-soft); font-size: 11.5px; }
+
+.empty { padding: 28px 20px; color: var(--ink-soft); }
+.empty p { margin: 0 0 8px; }
+
+/* Detail view: the parcel label is the one loud element, set like a tax-map callout */
+.detail { overflow-y: auto; flex: 1; min-height: 0; padding: 14px 20px 28px; display: none; }
+.detail.open { display: block; }
+.back { margin-bottom: 12px; }
+.lotlabel {
+  margin: 4px 0 2px;
+  font-size: 44px; line-height: .95; font-weight: 800;
+  font-variation-settings: "wdth" 62;
+  letter-spacing: -0.015em;
+}
+.lotlabel small { display: block; font-size: 17px; font-weight: 500; font-variation-settings: "wdth" 90; color: var(--ink-soft); letter-spacing: 0; margin-top: 6px; }
+.mech { display: inline-flex; gap: 6px; align-items: center; font-size: 13px; margin: 8px 0 14px; }
+.mech i { width: 10px; height: 10px; border-radius: 3px; }
+dl { display: grid; grid-template-columns: 128px 1fr; gap: 6px 12px; margin: 0 0 18px; font-size: 14px; }
+dt { color: var(--ink-soft); }
+dd { margin: 0; font-variant-numeric: tabular-nums; }
+h3 { font-size: 15px; margin: 18px 0 8px; font-weight: 700; }
+.parcels { border-top: 1px solid var(--rule); }
+.parcel { width: 100%; text-align: left; display: flex; justify-content: space-between; gap: 10px; padding: 8px 0; border: 0; border-bottom: 1px solid var(--rule); background: none; cursor: pointer; font-size: 14px; }
+.parcel:hover, .parcel.on { color: var(--focus); }
+.parcel span:last-child { color: var(--ink-soft); text-align: right; }
+.note { font-size: 13.5px; color: var(--ink-soft); }
+
+#map { height: 100%; background: var(--mylar); }
+.leaflet-container { font-family: inherit; }
+.legend { background: var(--tooltip-bg); color: var(--ink); padding: 8px 10px; border-radius: 6px; font-size: 12.5px; line-height: 1.6; box-shadow: 0 1px 3px rgba(29,43,51,.18); }
+.legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; margin-right: 6px; vertical-align: -1px; }
+.basemaps { background: var(--panel); border-radius: 6px; box-shadow: 0 1px 3px rgba(29,43,51,.18); display: flex; overflow: hidden; }
+.basemaps button { border: 0; background: var(--panel); padding: 6px 10px; cursor: pointer; font-size: 13px; }
+.basemaps button[aria-pressed="true"] { background: var(--ink); color: var(--panel); }
+.standalone #map { background-color: var(--mylar); background-image: linear-gradient(var(--rule) 1px, transparent 1px), linear-gradient(90deg, var(--rule) 1px, transparent 1px); background-size: 48px 48px; }
+.leaflet-tooltip { background: var(--tooltip-bg); color: var(--ink); border-color: var(--rule); }
+.leaflet-bar a { background: var(--panel); color: var(--ink); border-color: var(--rule); }
+.leaflet-control-attribution { background: var(--tooltip-bg) !important; color: var(--ink-soft); }
+.extlink { display: inline-block; margin: 0 0 14px; color: var(--focus); }
+.toggle-panel { display: none; }
+
+@media (max-width: 760px) {
+  .app { grid-template-columns: 1fr; grid-template-rows: 1fr; }
+  .panel {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 1000;
+    height: 58vh; border-right: 0; border-top: 1px solid var(--rule);
+    border-radius: 14px 14px 0 0; transform: translateY(calc(100% - 46px));
+    transition: transform .25s ease;
+  }
+  .panel.up { transform: none; }
+  .toggle-panel { display: block; width: 100%; padding: 10px 16px; border: 0; background: none; font-weight: 600; text-align: left; }
+  .panel header { padding-top: 4px; }
+  #map { height: 100%; }
+  .legend { display: none; }
+  .leaflet-bottom { bottom: 46px; }
+}
+@media (prefers-reduced-motion: reduce) { .panel { transition: none; } }
+</style>
+<div class="app">
+  <aside class="panel" id="panel" aria-label="Sites">
+    <button class="toggle-panel" id="togglePanel" aria-expanded="false">Show sites and filters</button>
+    <header>
+      <h1 class="title">NJ Round 4 sites</h1>
+      <p class="subtitle" id="coverage">Sites listed in adopted Housing Element &amp; Fair Share Plans</p>
+    </header>
+
+    <form class="filters" id="filters" onsubmit="return false">
+      <label class="field"><span>Search site, owner or address</span><input id="q" type="search" placeholder="e.g. Harrison Ave, Block 107"></label>
+      <div class="row">
+        <label class="field"><span>County</span><select id="county"><option value="">All counties</option></select></label>
+        <label class="field"><span>Town</span><select id="town"><option value="">All towns</option></select></label>
+      </div>
+      <div class="field"><span>Compliance mechanism</span><div class="chips" id="mechs"></div></div>
+      <div class="row">
+        <label class="field"><span>Min. affordable units</span><input id="minUnits" type="number" min="0" step="1" placeholder="Any"></label>
+        <label class="field"><span>Min. site acres</span><input id="minAcres" type="number" min="0" step="0.1" placeholder="Any"></label>
+      </div>
+      <label class="field"><span>Site status</span><select id="status"><option value="">Any status</option></select></label>
+    </form>
+
+    <div class="tally" aria-live="polite">
+      <span id="tally"><strong>0</strong> sites</span>
+      <span class="actions"><button class="linkbtn" id="reset" type="button">Clear filters</button><button class="linkbtn" id="export" type="button">Download CSV of matches</button></span>
+    </div>
+
+    <div class="list" id="list"></div>
+    <div class="detail" id="detail"></div>
+  </aside>
+  <main id="map" aria-label="Map of sites"></main>
+</div>
+
+<!-- When this page is published standalone, the build step can inline data here. -->
+<script id="embedded-sites" type="application/json">{"type":"FeatureCollection","generated":"2026-11-19","features":[{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-74.121473,41.012375],[-74.121431,41.012512],[-74.120958,41.012438],[-74.121005,41.012285],[-74.121473,41.012375]]]},"properties":{"site_id":"waldwick-harrison-ave","county":"Bergen","municipality":"Waldwick","site_name":"Harrison Avenue Redevelopment","address":"","site_acres":1.278,"mechanism":"Redevelopment","total_units":42,"affordable_units":6,"set_aside":"15% rental / 20% for-sale","max_density_du_ac":33,"zoning":"Harrison Avenue Redevelopment Plan","site_status":"Site plan application under review","plan_doc":"Waldwick HEFSP Amendment (adopted 3/10/26)","plan_page":"2","notes":"Redevelopment plan covers 1.278 ac of the Block 107 study area; 42-unit inclusionary mixed-use application filed","block":"107","lot":"1","pams_pin":"0264_107_1","mod4_town":"WALDWICK BORO","prop_loc":"49 HARRISON AVENUE","prop_class":"2","parcel_acres":0.154,"owner":"","owner_address":"49 HARRISON AVE WALDWICK,NJ","land_value":253700,"improvement_value":231500,"net_value":485200,"building":"2SF","last_sale_price":81881,"last_sale_date":"210826","year_built":1940}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-74.121473,41.012375],[-74.121005,41.012285],[-74.121046,41.012152],[-74.121515,41.012238],[-74.121473,41.012375]]]},"properties":{"site_id":"waldwick-harrison-ave","county":"Bergen","municipality":"Waldwick","site_name":"Harrison Avenue Redevelopment","address":"","site_acres":1.278,"mechanism":"Redevelopment","total_units":42,"affordable_units":6,"set_aside":"15% rental / 20% for-sale","max_density_du_ac":33,"zoning":"Harrison Avenue Redevelopment Plan","site_status":"Site plan application under review","plan_doc":"Waldwick HEFSP Amendment (adopted 3/10/26)","plan_page":"2","notes":"Redevelopment plan covers 1.278 ac of the Block 107 study area; 42-unit inclusionary mixed-use application filed","block":"107","lot":"3","pams_pin":"0264_107_3","mod4_town":"WALDWICK BORO","prop_loc":"47 HARRISON AVENUE","prop_class":"2","parcel_acres":0.151,"owner":"","owner_address":"71 PARK AVENUE WYCKOFF, NJ","land_value":252600,"improvement_value":234100,"net_value":486700,"building":"2SFG1","last_sale_price":1,"last_sale_date":"150326","year_built":1900}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-74.121515,41.012238],[-74.121046,41.012152],[-74.121086,41.01202],[-74.121553,41.012112],[-74.121515,41.012238]]]},"properties":{"site_id":"waldwick-harrison-ave","county":"Bergen","municipality":"Waldwick","site_name":"Harrison Avenue Redevelopment","address":"","site_acres":1.278,"mechanism":"Redevelopment","total_units":42,"affordable_units":6,"set_aside":"15% rental / 20% for-sale","max_density_du_ac":33,"zoning":"Harrison Avenue Redevelopment Plan","site_status":"Site plan application under review","plan_doc":"Waldwick HEFSP Amendment (adopted 3/10/26)","plan_page":"2","notes":"Redevelopment plan covers 1.278 ac of the Block 107 study area; 42-unit inclusionary mixed-use application filed","block":"107","lot":"5","pams_pin":"0264_107_5","mod4_town":"WALDWICK BORO","prop_loc":"45 HARRISON AVENUE","prop_class":"2","parcel_acres":0.149,"owner":"","owner_address":"297 RIVERVALE ROAD RIVERVALE, N.J.","land_value":251500,"improvement_value":184300,"net_value":435800,"building":"2SF","last_sale_price":0,"last_sale_date":null,"year_built":1920}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-74.121553,41.012112],[-74.121086,41.01202],[-74.121127,41.011888],[-74.121594,41.011976],[-74.121553,41.012112]]]},"properties":{"site_id":"waldwick-harrison-ave","county":"Bergen","municipality":"Waldwick","site_name":"Harrison Avenue Redevelopment","address":"","site_acres":1.278,"mechanism":"Redevelopment","total_units":42,"affordable_units":6,"set_aside":"15% rental / 20% for-sale","max_density_du_ac":33,"zoning":"Harrison Avenue Redevelopment Plan","site_status":"Site plan application under review","plan_doc":"Waldwick HEFSP Amendment (adopted 3/10/26)","plan_page":"2","notes":"Redevelopment plan covers 1.278 ac of the Block 107 study area; 42-unit inclusionary mixed-use application filed","block":"107","lot":"7","pams_pin":"0264_107_7","mod4_town":"WALDWICK BORO","prop_loc":"43 HARRISON AVENUE","prop_class":"2","parcel_acres":0.136,"owner":"","owner_address":"43 HARRISON AVE WALDWICK, NJ","land_value":245300,"improvement_value":204200,"net_value":449500,"building":"2SFG2","last_sale_price":230000,"last_sale_date":"120425","year_built":1935}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-74.121594,41.011976],[-74.121127,41.011888],[-74.121166,41.011761],[-74.121633,41.011849],[-74.121594,41.011976]]]},"properties":{"site_id":"waldwick-harrison-ave","county":"Bergen","municipality":"Waldwick","site_name":"Harrison Avenue Redevelopment","address":"","site_acres":1.278,"mechanism":"Redevelopment","total_units":42,"affordable_units":6,"set_aside":"15% rental / 20% for-sale","max_density_du_ac":33,"zoning":"Harrison Avenue Redevelopment Plan","site_status":"Site plan application under review","plan_doc":"Waldwick HEFSP Amendment (adopted 3/10/26)","plan_page":"2","notes":"Redevelopment plan covers 1.278 ac of the Block 107 study area; 42-unit inclusionary mixed-use application filed","block":"107","lot":"8","pams_pin":"0264_107_8","mod4_town":"WALDWICK BORO","prop_loc":"41 HARRISON AVENUE","prop_class":"2","parcel_acres":0.158,"owner":"","owner_address":"28 WEST PROSPECT STREET WALDWICK, NJ","land_value":255500,"improvement_value":143500,"net_value":399000,"building":"2SFG1","last_sale_price":270000,"last_sale_date":"120326","year_built":1930}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-74.121633,41.011849],[-74.121166,41.011761],[-74.121206,41.01163],[-74.121673,41.011716],[-74.121633,41.011849]]]},"properties":{"site_id":"waldwick-harrison-ave","county":"Bergen","municipality":"Waldwick","site_name":"Harrison Avenue Redevelopment","address":"","site_acres":1.278,"mechanism":"Redevelopment","total_units":42,"affordable_units":6,"set_aside":"15% rental / 20% for-sale","max_density_du_ac":33,"zoning":"Harrison Avenue Redevelopment Plan","site_status":"Site plan application under review","plan_doc":"Waldwick HEFSP Amendment (adopted 3/10/26)","plan_page":"2","notes":"Redevelopment plan covers 1.278 ac of the Block 107 study area; 42-unit inclusionary mixed-use application filed","block":"107","lot":"9","pams_pin":"0264_107_9","mod4_town":"WALDWICK BORO","prop_loc":"39 HARRISON AVENUE","prop_class":"4A","parcel_acres":0.158,"owner":"","owner_address":"28 WEST PROSPECT STREET WALDWICK, NJ","land_value":350300,"improvement_value":13500,"net_value":363800,"building":"2SFG1","last_sale_price":1,"last_sale_date":"140825","year_built":null}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-74.121206,41.01163],[-74.121244,41.011504],[-74.121713,41.011586],[-74.121673,41.011716],[-74.121206,41.01163]]]},"properties":{"site_id":"waldwick-harrison-ave","county":"Bergen","municipality":"Waldwick","site_name":"Harrison Avenue Redevelopment","address":"","site_acres":1.278,"mechanism":"Redevelopment","total_units":42,"affordable_units":6,"set_aside":"15% rental / 20% for-sale","max_density_du_ac":33,"zoning":"Harrison Avenue Redevelopment Plan","site_status":"Site plan application under review","plan_doc":"Waldwick HEFSP Amendment (adopted 3/10/26)","plan_page":"2","notes":"Redevelopment plan covers 1.278 ac of the Block 107 study area; 42-unit inclusionary mixed-use application filed","block":"107","lot":"10","pams_pin":"0264_107_10","mod4_town":"WALDWICK BORO","prop_loc":"37 HARRISON AVENUE","prop_class":"4A","parcel_acres":0.146,"owner":"","owner_address":"28 W PROSPECT STREET WALDWICK, NJ","land_value":331800,"improvement_value":4500,"net_value":336300,"building":"1SFG1","last_sale_price":1,"last_sale_date":"130308","year_built":0}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-74.121065,41.011472],[-74.121244,41.011504],[-74.121206,41.01163],[-74.121166,41.011761],[-74.121127,41.011888],[-74.121086,41.01202],[-74.120893,41.011982],[-74.121065,41.011472]]]},"properties":{"site_id":"waldwick-harrison-ave","county":"Bergen","municipality":"Waldwick","site_name":"Harrison Avenue Redevelopment","address":"","site_acres":1.278,"mechanism":"Redevelopment","total_units":42,"affordable_units":6,"set_aside":"15% rental / 20% for-sale","max_density_du_ac":33,"zoning":"Harrison Avenue Redevelopment Plan","site_status":"Site plan application under review","plan_doc":"Waldwick HEFSP Amendment (adopted 3/10/26)","plan_page":"2","notes":"Redevelopment plan covers 1.278 ac of the Block 107 study area; 42-unit inclusionary mixed-use application filed","block":"107","lot":"11","pams_pin":"0264_107_11","mod4_town":"WALDWICK BORO","prop_loc":"13 WEST PROSPECT STREET","prop_class":"4A","parcel_acres":0.225,"owner":"","owner_address":"5 KENT PLACE POMPTON PLAINS, NJ","land_value":453000,"improvement_value":289400,"net_value":742400,"building":"2SCB","last_sale_price":1,"last_sale_date":"181030","year_built":null}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-74.122141,41.017767],[-74.122596,41.017686],[-74.122682,41.017993],[-74.123989,41.018201],[-74.124091,41.018811],[-74.123808,41.018769],[-74.123807,41.018769],[-74.122398,41.018563],[-74.122367,41.018467],[-74.122141,41.017767]]]},"properties":{"site_id":"waldwick-aho2","county":"Bergen","municipality":"Waldwick","site_name":"AHO-2 Affordable Housing Overlay Zone","address":"","site_acres":null,"mechanism":"Overlay zone","total_units":null,"affordable_units":null,"set_aside":"15% rental / 20% for-sale","max_density_du_ac":15,"zoning":"AHO-2 (overlay on underlying zone)","site_status":"Zoning amendment proposed","plan_doc":"Waldwick HEFSP Amendment (adopted 3/10/26)","plan_page":"App. 4","notes":"Mixed use; residential on upper floors except 80+ ft from street; min lot 30000 sf; amendment raises density from 10 to 15 du/ac","block":"101","lot":"6.01","pams_pin":"0264_101_6.01","mod4_town":"WALDWICK BORO","prop_loc":"140 FRANKLIN TURNPIKE","prop_class":"4A","parcel_acres":2.53,"owner":"","owner_address":"125 MAIN AVENUE ELMWOOD PARK, NJ","land_value":2337100,"improvement_value":4111200,"net_value":6448300,"building":"1SCB","last_sale_price":6150000,"last_sale_date":"190923","year_built":null}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-74.12079,41.008977],[-74.12079,41.008976],[-74.12079,41.008975],[-74.12079,41.008974],[-74.120791,41.008974],[-74.120791,41.008973],[-74.120791,41.008972],[-74.120791,41.008971],[-74.120792,41.00897],[-74.120792,41.008969],[-74.120792,41.008969],[-74.120793,41.008968],[-74.120793,41.008967],[-74.120793,41.008966],[-74.120794,41.008965],[-74.120794,41.008965],[-74.120795,41.008964],[-74.120795,41.008963],[-74.120796,41.008962],[-74.120796,41.008961],[-74.120797,41.008961],[-74.120797,41.00896],[-74.120798,41.008959],[-74.120798,41.008958],[-74.120799,41.008958],[-74.1208,41.008957],[-74.1208,41.008956],[-74.120801,41.008956],[-74.120802,41.008955],[-74.120802,41.008954],[-74.120803,41.008953],[-74.120804,41.008953],[-74.120804,41.008952],[-74.120805,41.008951],[-74.120806,41.008951],[-74.120807,41.00895],[-74.120807,41.00895],[-74.120808,41.008949],[-74.120809,41.008948],[-74.12081,41.008948],[-74.120811,41.008947],[-74.120811,41.008947],[-74.120812,41.008946],[-74.120813,41.008946],[-74.120814,41.008945],[-74.120815,41.008944],[-74.120816,41.008944],[-74.120817,41.008943],[-74.120818,41.008943],[-74.120819,41.008942],[-74.12082,41.008942],[-74.120821,41.008941],[-74.120822,41.008941],[-74.120823,41.008941],[-74.120824,41.00894],[-74.120825,41.00894],[-74.120826,41.008939],[-74.120827,41.008939],[-74.120828,41.008939],[-74.120829,41.008938],[-74.12083,41.008938],[-74.120831,41.008938],[-74.120832,41.008937],[-74.120833,41.008937],[-74.120834,41.008937],[-74.120835,41.008936],[-74.120836,41.008936],[-74.120837,41.008936],[-74.120838,41.008936],[-74.12084,41.008936],[-74.120841,41.008935],[-74.120842,41.008935],[-74.120843,41.008935],[-74.120844,41.008935],[-74.120845,41.008935],[-74.120846,41.008935],[-74.121461,41.008876],[-74.121465,41.008875],[-74.121472,41.008875],[-74.121477,41.008874],[-74.121483,41.008874],[-74.121489,41.008874],[-74.121495,41.008874],[-74.121501,41.008874],[-74.121507,41.008874],[-74.121513,41.008874],[-74.12152,41.008874],[-74.121525,41.008874],[-74.121531,41.008874],[-74.121537,41.008875],[-74.121543,41.008875],[-74.121549,41.008876],[-74.121555,41.008877],[-74.121561,41.008877],[-74.121567,41.008878],[-74.121573,41.008879],[-74.121579,41.00888],[-74.121585,41.008881],[-74.121591,41.008882],[-74.121596,41.008883],[-74.121602,41.008884],[-74.121608,41.008886],[-74.121614,41.008887],[-74.121619,41.008889],[-74.121625,41.00889],[-74.12163,41.008892],[-74.121636,41.008894],[-74.121641,41.008895],[-74.121647,41.008897],[-74.121653,41.008899],[-74.121658,41.008901],[-74.121663,41.008903],[-74.121669,41.008905],[-74.121674,41.008908],[-74.121679,41.00891],[-74.121684,41.008912],[-74.121689,41.008915],[-74.121694,41.008917],[-74.121699,41.00892],[-74.121704,41.008922],[-74.121709,41.008925],[-74.121714,41.008928],[-74.121718,41.00893],[-74.121723,41.008933],[-74.121728,41.008936],[-74.121732,41.008939],[-74.121737,41.008942],[-74.121741,41.008945],[-74.121745,41.008949],[-74.12175,41.008952],[-74.121754,41.008955],[-74.121758,41.008958],[-74.121762,41.008962],[-74.121766,41.008965],[-74.12177,41.008969],[-74.121774,41.008972],[-74.121777,41.008976],[-74.121781,41.00898],[-74.121784,41.008983],[-74.121788,41.008987],[-74.121791,41.008991],[-74.121794,41.008995],[-74.121798,41.008998],[-74.121801,41.009002],[-74.121804,41.009006],[-74.122148,41.009468],[-74.12215,41.009471],[-74.122153,41.009476],[-74.122157,41.009481],[-74.12216,41.009486],[-74.122163,41.009491],[-74.122166,41.009495],[-74.122168,41.0095],[-74.122171,41.009505],[-74.122174,41.009511],[-74.122176,41.009516],[-74.122179,41.009521],[-74.122181,41.009526],[-74.122183,41.009531],[-74.122185,41.009536],[-74.122187,41.009542],[-74.122189,41.009547],[-74.122191,41.009552],[-74.122192,41.009558],[-74.122193,41.009563],[-74.122195,41.009568],[-74.122196,41.009574],[-74.122197,41.009579],[-74.122198,41.009584],[-74.122199,41.00959],[-74.122199,41.009595],[-74.1222,41.009601],[-74.1222,41.009606],[-74.122201,41.009612],[-74.122201,41.009617],[-74.122201,41.009623],[-74.122201,41.009628],[-74.1222,41.009634],[-74.1222,41.009639],[-74.1222,41.009645],[-74.122199,41.00965],[-74.122198,41.009655],[-74.122197,41.009661],[-74.122196,41.009666],[-74.122196,41.009671],[-74.122194,41.009677],[-74.122193,41.009682],[-74.122191,41.009688],[-74.12219,41.009693],[-74.122188,41.009698],[-74.122186,41.009703],[-74.122184,41.009709],[-74.122182,41.009714],[-74.12218,41.009719],[-74.122138,41.009886],[-74.121674,41.009836],[-74.121667,41.009872],[-74.121275,41.009911],[-74.121283,41.009874],[-74.121284,41.009865],[-74.121286,41.009854],[-74.121287,41.009844],[-74.121289,41.009833],[-74.12129,41.009823],[-74.121291,41.009813],[-74.121291,41.009802],[-74.121291,41.009792],[-74.121292,41.009782],[-74.121292,41.009771],[-74.121291,41.009761],[-74.12129,41.00975],[-74.121289,41.00974],[-74.121288,41.00973],[-74.121287,41.009719],[-74.121285,41.009709],[-74.121284,41.009699],[-74.121281,41.009688],[-74.121279,41.009678],[-74.121276,41.009668],[-74.121274,41.009658],[-74.121271,41.009647],[-74.121268,41.009637],[-74.121264,41.009627],[-74.12126,41.009617],[-74.121256,41.009607],[-74.121252,41.009597],[-74.121248,41.009588],[-74.121243,41.009578],[-74.121238,41.009568],[-74.121233,41.009558],[-74.121228,41.009549],[-74.121222,41.009539],[-74.121217,41.00953],[-74.121211,41.00952],[-74.121204,41.009511],[-74.121198,41.009502],[-74.121191,41.009493],[-74.121185,41.009484],[-74.121178,41.009475],[-74.120798,41.009009],[-74.120797,41.009008],[-74.120797,41.009007],[-74.120796,41.009006],[-74.120796,41.009005],[-74.120795,41.009005],[-74.120795,41.009004],[-74.120795,41.009003],[-74.120794,41.009002],[-74.120794,41.009002],[-74.120793,41.009001],[-74.120793,41.009],[-74.120793,41.008999],[-74.120792,41.008998],[-74.120792,41.008998],[-74.120791,41.008997],[-74.120791,41.008996],[-74.120791,41.008995],[-74.120791,41.008994],[-74.12079,41.008993],[-74.12079,41.008992],[-74.12079,41.008992],[-74.12079,41.008991],[-74.12079,41.00899],[-74.12079,41.008989],[-74.120789,41.008988],[-74.120789,41.008987],[-74.120789,41.008986],[-74.120789,41.008986],[-74.120789,41.008985],[-74.120789,41.008984],[-74.120789,41.008983],[-74.120789,41.008982],[-74.120789,41.008981],[-74.120789,41.00898],[-74.120789,41.00898],[-74.120789,41.008979],[-74.12079,41.008978],[-74.12079,41.008977]]]},"properties":{"site_id":"waldwick-aho2","county":"Bergen","municipality":"Waldwick","site_name":"AHO-2 Affordable Housing Overlay Zone","address":"","site_acres":null,"mechanism":"Overlay zone","total_units":null,"affordable_units":null,"set_aside":"15% rental / 20% for-sale","max_density_du_ac":15,"zoning":"AHO-2 (overlay on underlying zone)","site_status":"Zoning amendment proposed","plan_doc":"Waldwick HEFSP Amendment (adopted 3/10/26)","plan_page":"App. 4","notes":"Mixed use; residential on upper floors except 80+ ft from street; min lot 30000 sf; amendment raises density from 10 to 15 du/ac","block":"109.02","lot":"6.04","pams_pin":"0264_109.02_6.04","mod4_town":"WALDWICK BORO","prop_loc":"11 WYCKOFF AVE","prop_class":"4A","parcel_acres":2.133,"owner":"","owner_address":"C/O 1214 ANDERSON AVE FORT LEE, NJ","land_value":2164100,"improvement_value":3502100,"net_value":5666200,"building":"1SCB","last_sale_price":6900000,"last_sale_date":"080326","year_built":null}}]}</script>
+<script id="embedded-towns" type="application/json">{
+ "generated": "2026-11-19",
+ "municipalities": [
+  {
+   "county": "Bergen",
+   "municipality": "Allendale",
+   "tracker_status": "Verify",
+   "latest_adoption": "Approved as amended 2/26/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Alpine",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 3/10/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Bergenfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Bogota",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Carlstadt",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Cliffside Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Closter",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Cresskill",
+   "tracker_status": "Verify",
+   "latest_adoption": "Revised 1/19/26 (orig. approved 5/13/25)"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Demarest",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Dumont",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Orig. 6/11/25; 2026 adoption date blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "East Rutherford",
+   "tracker_status": "Ready (2 docs)",
+   "latest_adoption": "Amendment adopted 2/9/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Edgewater",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Elmwood Park",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Prepared 2/24/26; adoption blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Emerson",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Englewood",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 3/12/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Englewood Cliffs",
+   "tracker_status": "Ready",
+   "latest_adoption": "June 2025 (no amendment)"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Fair Lawn",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Fairview",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Fort Lee",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Franklin Lakes",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Resolution 130-26 endorsing amended plan"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Garfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Glen Rock",
+   "tracker_status": "Missing",
+   "latest_adoption": "Amendment dated 2/18/26, endorsed Mar 2026 (found online)"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Hackensack",
+   "tracker_status": "Missing",
+   "latest_adoption": "Amended plan adopted 6/10/26 (found online)"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Harrington Park",
+   "tracker_status": "Need base plan",
+   "latest_adoption": "Amendment, March 2026"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Hasbrouck Heights",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Haworth",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Prepared Feb 2026; adoption blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Hillsdale",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 1/27/26; endorsed 2/3/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Ho-Ho-Kus",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Leonia",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Little Ferry",
+   "tracker_status": "Ready",
+   "latest_adoption": "Approved 3/4/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Lodi",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Lyndhurst",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Mahwah",
+   "tracker_status": "Verify",
+   "latest_adoption": "Unknown"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Maywood",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated 1/19/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Midland Park",
+   "tracker_status": "Verify",
+   "latest_adoption": "Unknown"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Montvale",
+   "tracker_status": "Missing",
+   "latest_adoption": "Fairness hearing 11/18/26 (found online)"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Moonachie",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "New Milford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "North Arlington",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Northvale",
+   "tracker_status": "Check for amendment",
+   "latest_adoption": "Adopted 6/18/25"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Norwood",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 3/15/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Oakland",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Prepared Mar 2026; adoption blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Old Tappan",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 3/11/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Oradell",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Palisades Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Paramus",
+   "tracker_status": "Missing",
+   "latest_adoption": "2025 plan on borough site"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Park Ridge",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/11/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Ramsey",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Ridgefield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Ridgefield Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Ridgewood",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "2025 plan 6/23/25; amendment draft 3/3/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "River Edge",
+   "tracker_status": "Verify",
+   "latest_adoption": "Prepared 2/12/26; adoption blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "River Vale",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Rochelle Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Rockleigh",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Rutherford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Saddle Brook",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Saddle River",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "South Hackensack",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Teaneck",
+   "tracker_status": "Verify",
+   "latest_adoption": "Unknown"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Tenafly",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/11/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Teterboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Upper Saddle River",
+   "tracker_status": "Verify",
+   "latest_adoption": "Signed 3/5/26; adoption line blank"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Waldwick",
+   "tracker_status": "Need base plan",
+   "latest_adoption": "Amendment adopted 3/10/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Wallington",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 3/10/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Washington Twp",
+   "tracker_status": "Verify",
+   "latest_adoption": "Unknown"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Westwood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Wood-Ridge",
+   "tracker_status": "Check for amendment",
+   "latest_adoption": "Adopted 6/3/25"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Woodcliff Lake",
+   "tracker_status": "Verify",
+   "latest_adoption": "Adopted 2/24/26; endorsed 3/16/26"
+  },
+  {
+   "county": "Bergen",
+   "municipality": "Wyckoff",
+   "tracker_status": "Need base plan",
+   "latest_adoption": "Amendment adopted 3/11/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Aberdeen",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Allenhurst",
+   "tracker_status": "Check for amendment",
+   "latest_adoption": "Adopted 6/11/25"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Allentown",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 3/2/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Asbury Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Atlantic Highlands",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 3/12/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Avon-by-the-Sea",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Belmar",
+   "tracker_status": "Verify",
+   "latest_adoption": "Amended 1/31/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Bradley Beach",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Brielle",
+   "tracker_status": "Need base plan",
+   "latest_adoption": "Amendment adopted 2/17/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Colts Neck",
+   "tracker_status": "Need base plan",
+   "latest_adoption": "Amendment adopted 4/7/26; endorsed 4/8/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Deal",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Eatontown",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated Feb 2026"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Englishtown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Fair Haven",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Farmingdale",
+   "tracker_status": "Check for amendment",
+   "latest_adoption": "Adopted 5/27/25"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Freehold Borough",
+   "tracker_status": "Verify",
+   "latest_adoption": "Unknown"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Freehold Twp",
+   "tracker_status": "Verify",
+   "latest_adoption": "Packet with 3/5/26 Planning Board agenda"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Hazlet",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Highlands",
+   "tracker_status": "Missing",
+   "latest_adoption": "Amended plan endorsed Mar 2026 (found online)"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Holmdel",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Howell",
+   "tracker_status": "Ready",
+   "latest_adoption": "Approved 3/9/26"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Interlaken",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Keansburg",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Keyport",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Lake Como",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Little Silver",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Adoption blank"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Loch Arbour",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Long Branch",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Manalapan",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated Feb 2026"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Manasquan",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Marlboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Matawan",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Middletown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Millstone",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Monmouth Beach",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Neptune City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Neptune Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Ocean Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Oceanport",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Red Bank",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Roosevelt",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Rumson",
+   "tracker_status": "Missing",
+   "latest_adoption": "Court approval order on borough site (found online)"
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Sea Bright",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Sea Girt",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Shrewsbury Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Shrewsbury Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Spring Lake",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Spring Lake Heights",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Tinton Falls",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Union Beach",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Upper Freehold",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "Wall",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Monmouth",
+   "municipality": "West Long Branch",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Boonton (Town)",
+   "tracker_status": "Verify",
+   "latest_adoption": "Adopted 2/11/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Boonton Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Butler",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Chatham Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Chatham Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": "2025 plan on township site (found online)"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Chester Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Chester Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Denville",
+   "tracker_status": "Verify",
+   "latest_adoption": "Anticipated adoption 2/11/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Dover",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 2/4/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "East Hanover",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/24/26; endorsed 3/2/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Florham Park",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/9/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Hanover",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/24/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Harding",
+   "tracker_status": "Verify",
+   "latest_adoption": "Amended 12/15/25"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Jefferson",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated 3/9/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Kinnelon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Lincoln Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Long Hill",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Madison",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mendham Borough",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated 3/3/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mendham Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mine Hill",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended 2/23/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Montville",
+   "tracker_status": "Verify",
+   "latest_adoption": "Signed 2/11/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Morris Plains",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Morris Twp",
+   "tracker_status": "Need adopted version",
+   "latest_adoption": "Adoption date blank (March 2026)"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Morristown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mount Arlington",
+   "tracker_status": "Verify",
+   "latest_adoption": "Dated 2/25/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mount Olive",
+   "tracker_status": "Verify",
+   "latest_adoption": "Amendment adopted 2/12/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Mountain Lakes",
+   "tracker_status": "Ready",
+   "latest_adoption": "Amended Mar 2026"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Netcong",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 3/11/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Parsippany-Troy Hills",
+   "tracker_status": "Missing",
+   "latest_adoption": "Amended 3/2/26, on township site (found online)"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Pequannock",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Randolph",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/2/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Riverdale",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Rockaway Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Rockaway Twp",
+   "tracker_status": "Ready",
+   "latest_adoption": "Adopted 2/9/26"
+  },
+  {
+   "county": "Morris",
+   "municipality": "Roxbury",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Victory Gardens",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Washington Twp (Morris)",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Morris",
+   "municipality": "Wharton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  }
+ ]
+}</script>
+
+<script>window.ROUND4_STANDALONE = true;</script>
+<script>
+const MECH = [
+  { key: "Overlay zone",            color: "var(--m-overlay)",       hex: "#e0a019" },
+  { key: "Inclusionary zoning",     color: "var(--m-inclusionary)",  hex: "#c8501e" },
+  { key: "Redevelopment",           color: "var(--m-redevelopment)", hex: "#6d4aa8" },
+  { key: "100% affordable",         color: "var(--m-affordable)",    hex: "#1f7a4d" },
+  { key: "Municipally sponsored",   color: "var(--m-municipal)",     hex: "#2563a8" },
+  { key: "Supportive housing",      color: "var(--m-supportive)",    hex: "#b0367a" },
+  { key: "Existing / credit",       color: "var(--m-existing)",      hex: "#7a8790" },
+  { key: "Other",                   color: "var(--m-other)",         hex: "#3d4f58" },
+];
+const mechOf = m => MECH.find(x => x.key.toLowerCase() === String(m || "").toLowerCase()) || MECH[MECH.length - 1];
+
+const $ = id => document.getElementById(id);
+const STANDALONE = window.ROUND4_STANDALONE === true;  // claude.ai artifact: no tile servers allowed
+if (STANDALONE) document.body.classList.add("standalone");
+const fmt = n => n == null || n === "" ? "—" : Number(n).toLocaleString("en-US");
+const money = n => n == null || n === "" ? "—" : "$" + Number(n).toLocaleString("en-US");
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+let parcels = [], sites = [], towns = [], visibleSites = [];
+const activeMech = new Set(MECH.map(m => m.key));
+
+// ---------- map ----------
+const map = L.map("map", { zoomControl: false, preferCanvas: false }).setView([40.85, -74.25], 9);
+L.control.zoom({ position: "topright" }).addTo(map);
+const bases = {
+  Streets: L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+    maxZoom: 20, attribution: '&copy; OpenStreetMap contributors &copy; CARTO' }),
+  Aerial: L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", {
+    maxZoom: 20, attribution: "Imagery &copy; Esri" }),
+};
+if (!STANDALONE) bases.Streets.addTo(map);
+const BaseCtl = L.Control.extend({
+  options: { position: "topright" },
+  onAdd() {
+    const el = L.DomUtil.create("div", "basemaps");
+    el.innerHTML = Object.keys(bases).map((k, i) => `<button type="button" aria-pressed="${i === 0}">${k}</button>`).join("");
+    el.querySelectorAll("button").forEach(btn => btn.onclick = () => {
+      Object.values(bases).forEach(l => map.removeLayer(l));
+      bases[btn.textContent].addTo(map);
+      el.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", b === btn));
+    });
+    L.DomEvent.disableClickPropagation(el);
+    return el;
+  }
+});
+if (!STANDALONE) map.addControl(new BaseCtl());
+const Legend = L.Control.extend({
+  options: { position: "bottomright" },
+  onAdd() {
+    const el = L.DomUtil.create("div", "legend");
+    el.innerHTML = MECH.map(m => `<div><i style="background:${m.hex}"></i>${m.key}</div>`).join("");
+    return el;
+  }
+});
+map.addControl(new Legend());
+
+let layer = L.geoJSON(null, {
+  style: f => ({ color: mechOf(f.properties.mechanism).hex, weight: 1.5, fillOpacity: .5, fillColor: mechOf(f.properties.mechanism).hex }),
+  onEachFeature: (f, l) => {
+    l.on("click", () => openSite(f.properties.site_id, f.properties.pams_pin));
+    l.bindTooltip(`${esc(f.properties.site_name)}<br>Block ${esc(f.properties.block)}, Lot ${esc(f.properties.lot)}`, { sticky: true });
+  }
+}).addTo(map);
+
+// ---------- data ----------
+async function loadJSON(embeddedId, url) {
+  const txt = $(embeddedId).textContent.trim();
+  if (txt) return JSON.parse(txt);
+  try { const r = await fetch(url, { cache: "no-store" }); if (r.ok) return r.json(); } catch (e) {}
+  return null;
+}
+
+function groupSites() {
+  const by = new Map();
+  for (const f of parcels) {
+    const p = f.properties;
+    if (!by.has(p.site_id)) by.set(p.site_id, { id: p.site_id, props: p, parcels: [] });
+    by.get(p.site_id).parcels.push(f);
+  }
+  sites = [...by.values()].map(s => {
+    const acres = s.props.site_acres ?? s.parcels.reduce((a, f) => a + (f.properties.parcel_acres || 0), 0);
+    const owners = [...new Set(s.parcels.map(f => f.properties.owner).filter(Boolean))];
+    const text = [s.props.site_name, s.props.municipality, s.props.address, s.props.zoning,
+      ...s.parcels.map(f => `block ${f.properties.block} lot ${f.properties.lot} ${f.properties.prop_loc || ""}`), ...owners]
+      .join(" ").toLowerCase();
+    return { ...s, acres, owners, text };
+  }).sort((a, b) => a.props.municipality.localeCompare(b.props.municipality) || a.props.site_name.localeCompare(b.props.site_name));
+}
+
+function fillSelect(sel, values, keep) {
+  const cur = keep ? sel.value : "";
+  sel.length = 1;
+  for (const v of values) sel.add(new Option(v, v));
+  if ([...sel.options].some(o => o.value === cur)) sel.value = cur;
+}
+
+function buildFilters() {
+  fillSelect($("county"), [...new Set(sites.map(s => s.props.county))].sort());
+  refreshTowns();
+  fillSelect($("status"), [...new Set(sites.map(s => s.props.site_status).filter(Boolean))].sort());
+  $("mechs").innerHTML = MECH.map(m =>
+    `<button type="button" class="chip" aria-pressed="true" data-k="${esc(m.key)}"><i style="background:${m.hex}"></i>${esc(m.key)}</button>`).join("");
+  $("mechs").querySelectorAll(".chip").forEach(c => c.onclick = () => {
+    const k = c.dataset.k, on = c.getAttribute("aria-pressed") === "true";
+    c.setAttribute("aria-pressed", String(!on));
+    on ? activeMech.delete(k) : activeMech.add(k);
+    apply();
+  });
+}
+function refreshTowns() {
+  const c = $("county").value;
+  fillSelect($("town"), [...new Set(sites.filter(s => !c || s.props.county === c).map(s => s.props.municipality))].sort(), true);
+}
+
+// ---------- filtering ----------
+function apply() {
+  const q = $("q").value.trim().toLowerCase();
+  const c = $("county").value, t = $("town").value, st = $("status").value;
+  const mu = parseFloat($("minUnits").value), ma = parseFloat($("minAcres").value);
+  visibleSites = sites.filter(s => {
+    const p = s.props;
+    if (c && p.county !== c) return false;
+    if (t && p.municipality !== t) return false;
+    if (st && p.site_status !== st) return false;
+    if (!activeMech.has(mechOf(p.mechanism).key)) return false;
+    if (!isNaN(mu) && !((p.affordable_units || 0) >= mu)) return false;
+    if (!isNaN(ma) && !((s.acres || 0) >= ma)) return false;
+    if (q && !q.split(/\s+/).every(w => s.text.includes(w))) return false;
+    return true;
+  });
+  const ids = new Set(visibleSites.map(s => s.id));
+  layer.clearLayers();
+  layer.addData(parcels.filter(f => ids.has(f.properties.site_id)));
+  renderList();
+}
+
+function renderList() {
+  const n = visibleSites.length;
+  const units = visibleSites.reduce((a, s) => a + (s.props.affordable_units || 0), 0);
+  const nParcels = visibleSites.reduce((a, s) => a + s.parcels.length, 0);
+  $("tally").innerHTML = `<strong>${fmt(n)}</strong> site${n === 1 ? "" : "s"}, ${fmt(nParcels)} parcels, ${fmt(units)} affordable units`;
+  if (!parcels.length) {
+    $("list").innerHTML = `<div class="empty"><p><strong>No mapped sites yet.</strong></p>
+      <p>Add rows to <code>data/sites.csv</code> and run the “Map sites” workflow in GitHub Actions. Parcels appear here once their blocks and lots are matched.</p></div>`;
+    return;
+  }
+  if (!n) {
+    $("list").innerHTML = `<div class="empty"><p>No sites match these filters.</p><p><button class="linkbtn" type="button" id="resetEmpty">Clear filters</button></p></div>`;
+    $("resetEmpty").onclick = resetFilters;
+    return;
+  }
+  $("list").innerHTML = visibleSites.map(s => {
+    const p = s.props, m = mechOf(p.mechanism);
+    return `<button class="site" type="button" data-id="${esc(s.id)}">
+      <span class="bar" style="background:${m.hex}"></span>
+      <span><span class="name">${esc(p.site_name)}</span><br>
+        <span class="meta">${esc(p.municipality)}, ${esc(p.county)} &nbsp; ${s.parcels.length} lot${s.parcels.length === 1 ? "" : "s"}${s.acres ? `, ${(+s.acres).toFixed(2)} ac` : ""}</span></span>
+      <span class="units"><b>${p.affordable_units ?? "—"}</b><small>affordable</small></span>
+    </button>`;
+  }).join("");
+  $("list").querySelectorAll(".site").forEach(b => b.onclick = () => openSite(b.dataset.id));
+}
+
+// ---------- detail ----------
+let highlight = null;
+function openSite(id, pin) {
+  const s = sites.find(x => x.id === id);
+  if (!s) return;
+  const p = s.props, m = mechOf(p.mechanism);
+  const focus = s.parcels.find(f => f.properties.pams_pin === pin) || s.parcels[0];
+  const fp = focus.properties;
+  const lots = s.parcels.map(f => f.properties.lot);
+  const label = s.parcels.length === 1 ? `Block ${esc(fp.block)}, Lot ${esc(fp.lot)}`
+    : `Block ${esc([...new Set(s.parcels.map(f => f.properties.block))].join(", "))}`;
+  $("detail").innerHTML = `
+    <button class="linkbtn back" type="button" id="back">Back to all sites</button>
+    <h2 class="lotlabel">${label}<small>${esc(p.site_name)} in ${esc(p.municipality)}, ${esc(p.county)} County</small></h2>
+    <div class="mech"><i style="background:${m.hex}"></i>${esc(p.mechanism || "Other")}</div><br>
+    <a class="extlink" href="${gmaps(focus)}" target="_blank" rel="noopener">View this lot on Google Maps</a>
+    <dl>
+      <dt>Affordable units</dt><dd>${fmt(p.affordable_units)}</dd>
+      <dt>Total units</dt><dd>${fmt(p.total_units)}</dd>
+      <dt>Max density</dt><dd>${p.max_density_du_ac != null ? p.max_density_du_ac + " du/ac" : "—"}</dd>
+      <dt>Set-aside</dt><dd>${esc(p.set_aside) || "—"}</dd>
+      <dt>Zoning</dt><dd>${esc(p.zoning) || "—"}</dd>
+      <dt>Site acres</dt><dd>${s.acres ? (+s.acres).toFixed(2) : "—"}</dd>
+      <dt>Status</dt><dd>${esc(p.site_status) || "—"}</dd>
+      <dt>Source</dt><dd>${esc(p.plan_doc) || "—"}${p.plan_page ? `, p. ${esc(p.plan_page)}` : ""}</dd>
+    </dl>
+    ${p.notes ? `<p class="note">${esc(p.notes)}</p>` : ""}
+    <h3>Parcel: Block ${esc(fp.block)}, Lot ${esc(fp.lot)}</h3>
+    <dl>
+      <dt>Location</dt><dd>${esc(fp.prop_loc) || "—"}</dd>
+      <dt>Owner</dt><dd>${esc(fp.owner) || "—"}</dd>
+      <dt>Owner mailing</dt><dd>${esc(fp.owner_address) || "—"}</dd>
+      <dt>Parcel acres</dt><dd>${fp.parcel_acres ?? "—"}</dd>
+      <dt>Class</dt><dd>${esc(fp.prop_class) || "—"}</dd>
+      <dt>Assessed (net)</dt><dd>${money(fp.net_value)}</dd>
+      <dt>Land / improv.</dt><dd>${money(fp.land_value)} / ${money(fp.improvement_value)}</dd>
+      <dt>Last sale</dt><dd>${fp.last_sale_price ? money(fp.last_sale_price) : "—"}${fp.last_sale_date ? ` (${esc(fp.last_sale_date)})` : ""}</dd>
+    </dl>
+    ${s.parcels.length > 1 ? `<h3>All ${s.parcels.length} lots on this site</h3><div class="parcels">${s.parcels.map(f => {
+      const q = f.properties;
+      return `<button type="button" class="parcel ${q.pams_pin === fp.pams_pin ? "on" : ""}" data-pin="${esc(q.pams_pin)}">
+        <span>Block ${esc(q.block)}, Lot ${esc(q.lot)}</span><span>${esc(q.prop_loc || "")}${q.parcel_acres ? `, ${q.parcel_acres} ac` : ""}</span></button>`;
+    }).join("")}</div>` : ""}`;
+  $("list").style.display = "none";
+  $("panel").classList.add("detailing");
+  $("detail").classList.add("open");
+  $("detail").scrollTop = 0;
+  $("back").onclick = closeSite;
+  $("detail").querySelectorAll(".parcel").forEach(b => b.onclick = () => openSite(id, b.dataset.pin));
+
+  const bounds = L.geoJSON({ type: "FeatureCollection", features: s.parcels }).getBounds();
+  if (!pin) map.fitBounds(bounds, { maxZoom: 18, padding: [40, 40] });
+  if (highlight) map.removeLayer(highlight);
+  highlight = L.geoJSON(focus, { style: { color: "#2bb3a0", weight: 4, fill: false } }).addTo(map);
+  $("panel").classList.add("up");
+}
+function gmaps(f) {
+  const c = L.geoJSON(f).getBounds().getCenter();
+  return `https://www.google.com/maps/search/?api=1&query=${c.lat.toFixed(6)},${c.lng.toFixed(6)}`;
+}
+function closeSite() {
+  $("detail").classList.remove("open");
+  $("panel").classList.remove("detailing");
+  $("list").style.display = "";
+  if (highlight) { map.removeLayer(highlight); highlight = null; }
+}
+
+function resetFilters() {
+  $("filters").reset();
+  activeMech.clear(); MECH.forEach(m => activeMech.add(m.key));
+  $("mechs").querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", "true"));
+  refreshTowns(); apply();
+}
+
+function exportCSV() {
+  const cols = ["county", "municipality", "site_name", "mechanism", "affordable_units", "total_units", "max_density_du_ac",
+    "site_status", "block", "lot", "prop_loc", "owner", "owner_address", "parcel_acres", "net_value", "plan_doc", "plan_page"];
+  const ids = new Set(visibleSites.map(s => s.id));
+  const rows = parcels.filter(f => ids.has(f.properties.site_id)).map(f => cols.map(c => {
+    const v = f.properties[c] ?? ""; return /[",\n]/.test(String(v)) ? `"${String(v).replace(/"/g, '""')}"` : v;
+  }).join(","));
+  const text = [cols.join(","), ...rows].join("\n");
+  if (STANDALONE) {  // downloads are blocked inside claude.ai pages, so copy instead
+    const done = () => { $("export").textContent = "Copied to clipboard"; setTimeout(() => $("export").textContent = "Copy CSV of matches", 2000); };
+    navigator.clipboard.writeText(text).then(done).catch(() => {
+      const ta = Object.assign(document.createElement("textarea"), { value: text });
+      document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} ta.remove();
+    });
+    return;
+  }
+  const blob = new Blob([text], { type: "text/csv" });
+  const a = Object.assign(document.createElement("a"), { href: URL.createObjectURL(blob), download: "round4-sites.csv" });
+  document.body.appendChild(a); a.click(); a.remove();
+}
+
+// ---------- wire up ----------
+["q", "minUnits", "minAcres"].forEach(id => $(id).addEventListener("input", apply));
+["town", "status"].forEach(id => $(id).addEventListener("change", apply));
+$("county").addEventListener("change", () => { refreshTowns(); apply(); });
+$("reset").onclick = resetFilters;
+$("export").onclick = exportCSV;
+if (STANDALONE) $("export").textContent = "Copy CSV of matches";
+$("togglePanel").onclick = () => {
+  const up = $("panel").classList.toggle("up");
+  $("togglePanel").setAttribute("aria-expanded", up);
+  $("togglePanel").textContent = up ? "Hide sites and filters" : "Show sites and filters";
+};
+document.addEventListener("keydown", e => { if (e.key === "Escape" && $("detail").classList.contains("open")) closeSite(); });
+
+(async () => {
+  const geo = await loadJSON("embedded-sites", "data/sites.geojson");
+  const tw = await loadJSON("embedded-towns", "data/municipalities.json");
+  parcels = (geo && geo.features) || [];
+  towns = (tw && tw.municipalities) || [];
+  if (towns.length) {
+    const inHand = towns.filter(t => t.tracker_status && t.tracker_status !== "Missing").length;
+    $("coverage").textContent = `Plans in hand for ${inHand} of ${towns.length} tracked towns. Sites come from each town's adopted Housing Element & Fair Share Plan.`;
+  }
+  groupSites();
+  buildFilters();
+  apply();
+  if (parcels.length) map.fitBounds(layer.getBounds(), { maxZoom: 15, padding: [30, 30] });
+})();
+</script>
