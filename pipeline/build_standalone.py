@@ -32,7 +32,9 @@ def main():
                         f'<script id="embedded-sites" type="application/json">{sites}</script>')
     body = body.replace('<script id="embedded-towns" type="application/json"></script>',
                         f'<script id="embedded-towns" type="application/json">{towns}</script>')
-    body = body.replace("<script>\nconst MECH", "<script>window.ROUND4_STANDALONE = true;</script>\n<script>\nconst MECH", 1)
+    marker = '<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>'
+    assert marker in body, "leaflet script tag not found"
+    body = body.replace(marker, "<script>window.ROUND4_STANDALONE = true;</script>\n" + marker, 1)
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(head.strip() + "\n" + body.strip() + "\n")
