@@ -60,7 +60,9 @@ The repository is private. To view the map, either:
 - open `docs/index.html` from a local clone with a simple server (`python -m http.server -d docs`) so it can load `docs/data/`, or
 - ask Claude to publish it as a private claude.ai artifact with the current data embedded.
 
-GitHub Pages also works if the repository is made public or the account has a plan that supports Pages on private repositories; note that the parcel data includes owner names from MOD-IV.
+GitHub Pages also works if the repository is made public or the account has a plan that supports Pages on private repositories.
+
+Note: the statewide public parcel layer returns blank owner names, so the map's owner field stays empty. Owner data has to come from county or municipal tax records if you want it on the map.
 
 ## Tests
 
