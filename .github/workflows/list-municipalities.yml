@@ -1,0 +1,28 @@
+name: List NJ municipalities
+
+# Pulls every municipality, county and MOD-IV code from the statewide parcel
+# layer into data/nj_municipalities_all.csv (run by hand when needed).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python pipeline/list_municipalities.py
+      - name: Commit list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/nj_municipalities_all.csv
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update statewide municipality list"
+          git pull --rebase
+          git push
