@@ -39,6 +39,12 @@ def test_match_town():
         {"MUN_NAME": "AVON BY THE SEA BORO", "PCL_MUN": "1305", "COUNTY": "MONMOUTH"},
         {"MUN_NAME": "BOONTON TOWN", "PCL_MUN": "1401", "COUNTY": "MORRIS"},
         {"MUN_NAME": "BOONTON TWP", "PCL_MUN": "1402", "COUNTY": "MORRIS"},
+        {"MUN_NAME": "NEPTUNE CITY BORO", "PCL_MUN": "1334", "COUNTY": "MONMOUTH"},
+        {"MUN_NAME": "NEPTUNE TWP", "PCL_MUN": "1335", "COUNTY": "MONMOUTH"},
+        {"MUN_NAME": "HASBROUCK HGHTS BORO", "PCL_MUN": "0230", "COUNTY": "BERGEN"},
+        {"MUN_NAME": "HOHOKUS BORO", "PCL_MUN": "0233", "COUNTY": "BERGEN"},
+        {"MUN_NAME": "JERSEY CITY CITY", "PCL_MUN": "0906", "COUNTY": "HUDSON"},
+        {"MUN_NAME": "PARSIPPANY TR HLS TWP", "PCL_MUN": "1429", "COUNTY": "MORRIS"},
     ]
     assert g.match_town("Waldwick", "Bergen", cands)["PCL_MUN"] == "0263"
     assert g.match_town("Washington Twp", "Bergen", cands)["PCL_MUN"] == "0266"
@@ -48,6 +54,12 @@ def test_match_town():
     assert g.match_town("Avon-by-the-Sea", "Monmouth", cands)["PCL_MUN"] == "1305"
     assert g.match_town("Boonton (Town)", "Morris", cands)["PCL_MUN"] == "1401"
     assert g.match_town("Waldwick", "Morris", cands) is None  # wrong county
+    assert g.match_town("Neptune City", "Monmouth", cands)["PCL_MUN"] == "1334"
+    assert g.match_town("Neptune Twp", "Monmouth", cands)["PCL_MUN"] == "1335"
+    assert g.match_town("Hasbrouck Heights", "Bergen", cands)["PCL_MUN"] == "0230"
+    assert g.match_town("Ho-Ho-Kus", "Bergen", cands)["PCL_MUN"] == "0233"
+    assert g.match_town("Jersey City", "Hudson", cands)["PCL_MUN"] == "0906"
+    assert g.match_town("Parsippany-Troy Hills", "Morris", cands)["PCL_MUN"] == "1429"
 
 
 def _square(x, y):

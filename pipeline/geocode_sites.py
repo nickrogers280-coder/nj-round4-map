@@ -47,8 +47,14 @@ PARCEL_FIELDS = [
 
 # Words that differ between how plans name a town and how MOD-IV does.
 _TYPE_WORDS = {
-    "BORO", "BOROUGH", "TWP", "TOWNSHIP", "TOWN", "CITY", "VILLAGE", "OF", "THE",
-    "CITY OF",
+    "BORO", "BOR", "BOROUGH", "TWP", "TOWNSHIP", "TOWN", "CITY", "VILLAGE", "OF", "THE",
+}
+# MOD-IV abbreviates names ("E RUTHERFORD", "HASBROUCK HGHTS", "PARSIPPANY TR HLS").
+_ABBREV = {
+    "E": "EAST", "W": "WEST", "N": "NORTH", "S": "SOUTH", "SO": "SOUTH", "NO": "NORTH",
+    "MT": "MOUNT", "HGHTS": "HEIGHTS", "HTS": "HEIGHTS", "HGTS": "HEIGHTS", "PK": "PARK",
+    "HLS": "HILLS", "TR": "TROY", "BCH": "BEACH", "LK": "LAKE", "LKS": "LAKES", "SPGS": "SPRINGS",
+    "CTR": "CENTER", "VLY": "VALLEY", "BR": "BROOK", "ST": "SAINT", "TWSP": "TWP", "UPR": "UPPER", "LWR": "LOWER",
 }
 
 
@@ -98,13 +104,20 @@ def norm_num(value: str | None) -> str:
     return whole + (f".{frac}" if frac else "") + suffix
 
 
-def norm_town(name: str) -> str:
-    """'Washington Twp (Bergen)' / 'WASHINGTON TOWNSHIP' -> 'WASHINGTON'."""
+def norm_town(name: str, keep_inner: bool = False) -> str:
+    """Comparable key for a town name, ignoring type words, abbreviations,
+    punctuation and spacing: 'Ho-Ho-Kus' and 'HOHOKUS BORO' -> 'HOHOKUS';
+    'Parsippany-Troy Hills' and 'PARSIPPANY TR HLS TWP' -> 'PARSIPPANYTROYHILLS'."""
     s = name.upper()
     s = re.sub(r"\(.*?\)", " ", s)          # drop "(Town)", "(Morris)" etc.
-    s = s.replace("-", " ").replace(".", " ").replace("'", "")
-    words = [w for w in re.split(r"\s+", s) if w and w not in _TYPE_WORDS]
-    return " ".join(words)
+    s = re.sub(r"[-.'/,]", " ", s)
+    words = [_ABBREV.get(w, w) for w in s.split()]
+    if keep_inner:  # drop only the trailing type word: 'NEPTUNE CITY BORO' -> 'NEPTUNECITY'
+        if len(words) > 1 and words[-1] in _TYPE_WORDS:
+            words = words[:-1]
+        return "".join(words)
+    words = [w for w in words if w not in _TYPE_WORDS]
+    return "".join(words)
 
 
 def town_kind(name: str) -> str:
@@ -128,6 +141,14 @@ def match_town(plan_name: str, county: str, candidates: list[dict]) -> dict | No
     candidates: [{'MUN_NAME':..., 'PCL_MUN':..., 'COUNTY':...}, ...]"""
     county_u = county.upper()
     pool = [c for c in candidates if county_u in (c.get("COUNTY") or "").upper()]
+    # Most specific first: the plan's name as written ('Neptune City'), then
+    # without its trailing type word ('Neptune Twp' -> 'Neptune').
+    as_written = re.sub(r"[^A-Z]", "", " ".join(_ABBREV.get(w, w) for w in
+                        re.sub(r"[-.'/,]", " ", re.sub(r"\(.*?\)", " ", plan_name.upper())).split()))
+    for key0 in (as_written, norm_town(plan_name, True)):
+        exact = [c for c in pool if norm_town(c["MUN_NAME"], True) == key0]
+        if len(exact) == 1:
+            return exact[0]
     key = norm_town(plan_name)
     hits = [c for c in pool if norm_town(c["MUN_NAME"]) == key]
     if len(hits) == 1:
