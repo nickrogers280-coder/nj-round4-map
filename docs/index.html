@@ -1,0 +1,465 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NJ Round 4 Sites</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<style>
+:root {
+  --mylar: #e9efed;      /* map-room base, pale survey film */
+  --panel: #ffffff;
+  --ink: #1d2b33;        /* deep slate for text */
+  --ink-soft: #5b6b73;
+  --rule: #d3dcd9;
+  --focus: #0e6e62;      /* survey teal, used for selection and focus only */
+  --hover: #f3f6f5;
+  --m-overlay: #e0a019;
+  --m-inclusionary: #c8501e;
+  --m-redevelopment: #6d4aa8;
+  --m-affordable: #1f7a4d;
+  --m-municipal: #2563a8;
+  --m-supportive: #b0367a;
+  --m-existing: #7a8790;
+  --m-other: #3d4f58;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body {
+  background: var(--mylar);
+  color: var(--ink);
+  font-family: "Archivo", system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.45;
+  font-variation-settings: "wdth" 100;
+}
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+
+.app { display: grid; grid-template-columns: 380px 1fr; height: 100vh; }
+.panel {
+  background: var(--panel);
+  border-right: 1px solid var(--rule);
+  display: flex; flex-direction: column; min-height: 0;
+}
+.panel header { padding: 20px 20px 12px; }
+.title {
+  margin: 0;
+  font-size: 30px; line-height: 1;
+  font-weight: 800;
+  font-variation-settings: "wdth" 70;
+  letter-spacing: -0.01em;
+}
+.subtitle { margin: 6px 0 0; color: var(--ink-soft); font-size: 13.5px; }
+
+.filters { padding: 4px 20px 14px; display: grid; gap: 10px; border-bottom: 1px solid var(--rule); }
+.row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.field { display: grid; gap: 3px; }
+.field span { font-size: 12.5px; color: var(--ink-soft); }
+.field input, .field select {
+  width: 100%; padding: 7px 9px;
+  border: 1px solid var(--rule); border-radius: 6px; background: #fff;
+}
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 4px 9px 4px 7px; border-radius: 999px;
+  border: 1px solid var(--rule); background: #fff; cursor: pointer;
+  font-size: 13px;
+}
+.chip i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+.chip[aria-pressed="false"] { opacity: .45; }
+.chip[aria-pressed="false"] i { background: transparent !important; outline: 1.5px solid currentColor; }
+
+.tally {
+  display: grid; gap: 2px;
+  padding: 10px 20px; font-size: 13px; color: var(--ink-soft);
+  border-bottom: 1px solid var(--rule);
+}
+.tally .actions { display: flex; gap: 16px; }
+.panel.detailing .filters, .panel.detailing .tally, .panel.detailing .subtitle { display: none; }
+.tally strong { color: var(--ink); font-size: 15px; }
+.linkbtn { background: none; border: 0; padding: 0; color: var(--focus); cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
+
+.list { overflow-y: auto; flex: 1; min-height: 0; }
+.site {
+  display: grid; grid-template-columns: 6px 1fr auto; gap: 12px;
+  width: 100%; text-align: left; padding: 12px 20px;
+  border: 0; border-bottom: 1px solid var(--rule); background: none; cursor: pointer;
+}
+.site:hover { background: var(--hover); }
+.site .bar { border-radius: 3px; }
+.site .name { font-weight: 600; }
+.site .meta { font-size: 13px; color: var(--ink-soft); }
+.site .units { text-align: right; font-variant-numeric: tabular-nums; }
+.site .units b { display: block; font-size: 18px; font-weight: 700; font-variation-settings: "wdth" 80; }
+.site .units small { color: var(--ink-soft); font-size: 11.5px; }
+
+.empty { padding: 28px 20px; color: var(--ink-soft); }
+.empty p { margin: 0 0 8px; }
+
+/* Detail view: the parcel label is the one loud element, set like a tax-map callout */
+.detail { overflow-y: auto; flex: 1; min-height: 0; padding: 14px 20px 28px; display: none; }
+.detail.open { display: block; }
+.back { margin-bottom: 12px; }
+.lotlabel {
+  margin: 4px 0 2px;
+  font-size: 44px; line-height: .95; font-weight: 800;
+  font-variation-settings: "wdth" 62;
+  letter-spacing: -0.015em;
+}
+.lotlabel small { display: block; font-size: 17px; font-weight: 500; font-variation-settings: "wdth" 90; color: var(--ink-soft); letter-spacing: 0; margin-top: 6px; }
+.mech { display: inline-flex; gap: 6px; align-items: center; font-size: 13px; margin: 8px 0 14px; }
+.mech i { width: 10px; height: 10px; border-radius: 3px; }
+dl { display: grid; grid-template-columns: 128px 1fr; gap: 6px 12px; margin: 0 0 18px; font-size: 14px; }
+dt { color: var(--ink-soft); }
+dd { margin: 0; font-variant-numeric: tabular-nums; }
+h3 { font-size: 15px; margin: 18px 0 8px; font-weight: 700; }
+.parcels { border-top: 1px solid var(--rule); }
+.parcel { width: 100%; text-align: left; display: flex; justify-content: space-between; gap: 10px; padding: 8px 0; border: 0; border-bottom: 1px solid var(--rule); background: none; cursor: pointer; font-size: 14px; }
+.parcel:hover, .parcel.on { color: var(--focus); }
+.parcel span:last-child { color: var(--ink-soft); text-align: right; }
+.note { font-size: 13.5px; color: var(--ink-soft); }
+
+#map { height: 100%; background: var(--mylar); }
+.leaflet-container { font-family: inherit; }
+.legend { background: rgba(255,255,255,.94); padding: 8px 10px; border-radius: 6px; font-size: 12.5px; line-height: 1.6; box-shadow: 0 1px 3px rgba(29,43,51,.18); }
+.legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; margin-right: 6px; vertical-align: -1px; }
+.basemaps { background: #fff; border-radius: 6px; box-shadow: 0 1px 3px rgba(29,43,51,.18); display: flex; overflow: hidden; }
+.basemaps button { border: 0; background: #fff; padding: 6px 10px; cursor: pointer; font-size: 13px; }
+.basemaps button[aria-pressed="true"] { background: var(--ink); color: #fff; }
+.toggle-panel { display: none; }
+
+@media (max-width: 760px) {
+  .app { grid-template-columns: 1fr; grid-template-rows: 1fr; }
+  .panel {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 1000;
+    height: 58vh; border-right: 0; border-top: 1px solid var(--rule);
+    border-radius: 14px 14px 0 0; transform: translateY(calc(100% - 46px));
+    transition: transform .25s ease;
+  }
+  .panel.up { transform: none; }
+  .toggle-panel { display: block; width: 100%; padding: 10px 16px; border: 0; background: none; font-weight: 600; text-align: left; }
+  .panel header { padding-top: 4px; }
+  #map { height: 100vh; }
+  .legend { display: none; }
+  .leaflet-bottom { bottom: 46px; }
+}
+@media (prefers-reduced-motion: reduce) { .panel { transition: none; } }
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="panel" id="panel" aria-label="Sites">
+    <button class="toggle-panel" id="togglePanel" aria-expanded="false">Show sites and filters</button>
+    <header>
+      <h1 class="title">NJ Round 4 sites</h1>
+      <p class="subtitle" id="coverage">Sites listed in adopted Housing Element &amp; Fair Share Plans</p>
+    </header>
+
+    <form class="filters" id="filters" onsubmit="return false">
+      <label class="field"><span>Search site, owner or address</span><input id="q" type="search" placeholder="e.g. Harrison Ave, Block 107"></label>
+      <div class="row">
+        <label class="field"><span>County</span><select id="county"><option value="">All counties</option></select></label>
+        <label class="field"><span>Town</span><select id="town"><option value="">All towns</option></select></label>
+      </div>
+      <div class="field"><span>Compliance mechanism</span><div class="chips" id="mechs"></div></div>
+      <div class="row">
+        <label class="field"><span>Min. affordable units</span><input id="minUnits" type="number" min="0" step="1" placeholder="Any"></label>
+        <label class="field"><span>Min. site acres</span><input id="minAcres" type="number" min="0" step="0.1" placeholder="Any"></label>
+      </div>
+      <label class="field"><span>Site status</span><select id="status"><option value="">Any status</option></select></label>
+    </form>
+
+    <div class="tally" aria-live="polite">
+      <span id="tally"><strong>0</strong> sites</span>
+      <span class="actions"><button class="linkbtn" id="reset" type="button">Clear filters</button><button class="linkbtn" id="export" type="button">Download CSV of matches</button></span>
+    </div>
+
+    <div class="list" id="list"></div>
+    <div class="detail" id="detail"></div>
+  </aside>
+  <main id="map" aria-label="Map of sites"></main>
+</div>
+
+<!-- When this page is published standalone, the build step can inline data here. -->
+<script id="embedded-sites" type="application/json"></script>
+<script id="embedded-towns" type="application/json"></script>
+
+<script>
+const MECH = [
+  { key: "Overlay zone",            color: "var(--m-overlay)",       hex: "#e0a019" },
+  { key: "Inclusionary zoning",     color: "var(--m-inclusionary)",  hex: "#c8501e" },
+  { key: "Redevelopment",           color: "var(--m-redevelopment)", hex: "#6d4aa8" },
+  { key: "100% affordable",         color: "var(--m-affordable)",    hex: "#1f7a4d" },
+  { key: "Municipally sponsored",   color: "var(--m-municipal)",     hex: "#2563a8" },
+  { key: "Supportive housing",      color: "var(--m-supportive)",    hex: "#b0367a" },
+  { key: "Existing / credit",       color: "var(--m-existing)",      hex: "#7a8790" },
+  { key: "Other",                   color: "var(--m-other)",         hex: "#3d4f58" },
+];
+const mechOf = m => MECH.find(x => x.key.toLowerCase() === String(m || "").toLowerCase()) || MECH[MECH.length - 1];
+
+const $ = id => document.getElementById(id);
+const fmt = n => n == null || n === "" ? "—" : Number(n).toLocaleString("en-US");
+const money = n => n == null || n === "" ? "—" : "$" + Number(n).toLocaleString("en-US");
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+let parcels = [], sites = [], towns = [], visibleSites = [];
+const activeMech = new Set(MECH.map(m => m.key));
+
+// ---------- map ----------
+const map = L.map("map", { zoomControl: false, preferCanvas: false }).setView([40.85, -74.25], 9);
+L.control.zoom({ position: "topright" }).addTo(map);
+const bases = {
+  Streets: L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+    maxZoom: 20, attribution: '&copy; OpenStreetMap contributors &copy; CARTO' }),
+  Aerial: L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", {
+    maxZoom: 20, attribution: "Imagery &copy; Esri" }),
+};
+bases.Streets.addTo(map);
+const BaseCtl = L.Control.extend({
+  options: { position: "topright" },
+  onAdd() {
+    const el = L.DomUtil.create("div", "basemaps");
+    el.innerHTML = Object.keys(bases).map((k, i) => `<button type="button" aria-pressed="${i === 0}">${k}</button>`).join("");
+    el.querySelectorAll("button").forEach(btn => btn.onclick = () => {
+      Object.values(bases).forEach(l => map.removeLayer(l));
+      bases[btn.textContent].addTo(map);
+      el.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", b === btn));
+    });
+    L.DomEvent.disableClickPropagation(el);
+    return el;
+  }
+});
+map.addControl(new BaseCtl());
+const Legend = L.Control.extend({
+  options: { position: "bottomright" },
+  onAdd() {
+    const el = L.DomUtil.create("div", "legend");
+    el.innerHTML = MECH.map(m => `<div><i style="background:${m.hex}"></i>${m.key}</div>`).join("");
+    return el;
+  }
+});
+map.addControl(new Legend());
+
+let layer = L.geoJSON(null, {
+  style: f => ({ color: mechOf(f.properties.mechanism).hex, weight: 1.5, fillOpacity: .45, fillColor: mechOf(f.properties.mechanism).hex }),
+  onEachFeature: (f, l) => {
+    l.on("click", () => openSite(f.properties.site_id, f.properties.pams_pin));
+    l.bindTooltip(`${esc(f.properties.site_name)}<br>Block ${esc(f.properties.block)}, Lot ${esc(f.properties.lot)}`, { sticky: true });
+  }
+}).addTo(map);
+
+// ---------- data ----------
+async function loadJSON(embeddedId, url) {
+  const txt = $(embeddedId).textContent.trim();
+  if (txt) return JSON.parse(txt);
+  try { const r = await fetch(url, { cache: "no-store" }); if (r.ok) return r.json(); } catch (e) {}
+  return null;
+}
+
+function groupSites() {
+  const by = new Map();
+  for (const f of parcels) {
+    const p = f.properties;
+    if (!by.has(p.site_id)) by.set(p.site_id, { id: p.site_id, props: p, parcels: [] });
+    by.get(p.site_id).parcels.push(f);
+  }
+  sites = [...by.values()].map(s => {
+    const acres = s.props.site_acres ?? s.parcels.reduce((a, f) => a + (f.properties.parcel_acres || 0), 0);
+    const owners = [...new Set(s.parcels.map(f => f.properties.owner).filter(Boolean))];
+    const text = [s.props.site_name, s.props.municipality, s.props.address, s.props.zoning,
+      ...s.parcels.map(f => `block ${f.properties.block} lot ${f.properties.lot} ${f.properties.prop_loc || ""}`), ...owners]
+      .join(" ").toLowerCase();
+    return { ...s, acres, owners, text };
+  }).sort((a, b) => a.props.municipality.localeCompare(b.props.municipality) || a.props.site_name.localeCompare(b.props.site_name));
+}
+
+function fillSelect(sel, values, keep) {
+  const cur = keep ? sel.value : "";
+  sel.length = 1;
+  for (const v of values) sel.add(new Option(v, v));
+  if ([...sel.options].some(o => o.value === cur)) sel.value = cur;
+}
+
+function buildFilters() {
+  fillSelect($("county"), [...new Set(sites.map(s => s.props.county))].sort());
+  refreshTowns();
+  fillSelect($("status"), [...new Set(sites.map(s => s.props.site_status).filter(Boolean))].sort());
+  $("mechs").innerHTML = MECH.map(m =>
+    `<button type="button" class="chip" aria-pressed="true" data-k="${esc(m.key)}"><i style="background:${m.hex}"></i>${esc(m.key)}</button>`).join("");
+  $("mechs").querySelectorAll(".chip").forEach(c => c.onclick = () => {
+    const k = c.dataset.k, on = c.getAttribute("aria-pressed") === "true";
+    c.setAttribute("aria-pressed", String(!on));
+    on ? activeMech.delete(k) : activeMech.add(k);
+    apply();
+  });
+}
+function refreshTowns() {
+  const c = $("county").value;
+  fillSelect($("town"), [...new Set(sites.filter(s => !c || s.props.county === c).map(s => s.props.municipality))].sort(), true);
+}
+
+// ---------- filtering ----------
+function apply() {
+  const q = $("q").value.trim().toLowerCase();
+  const c = $("county").value, t = $("town").value, st = $("status").value;
+  const mu = parseFloat($("minUnits").value), ma = parseFloat($("minAcres").value);
+  visibleSites = sites.filter(s => {
+    const p = s.props;
+    if (c && p.county !== c) return false;
+    if (t && p.municipality !== t) return false;
+    if (st && p.site_status !== st) return false;
+    if (!activeMech.has(mechOf(p.mechanism).key)) return false;
+    if (!isNaN(mu) && !((p.affordable_units || 0) >= mu)) return false;
+    if (!isNaN(ma) && !((s.acres || 0) >= ma)) return false;
+    if (q && !q.split(/\s+/).every(w => s.text.includes(w))) return false;
+    return true;
+  });
+  const ids = new Set(visibleSites.map(s => s.id));
+  layer.clearLayers();
+  layer.addData(parcels.filter(f => ids.has(f.properties.site_id)));
+  renderList();
+}
+
+function renderList() {
+  const n = visibleSites.length;
+  const units = visibleSites.reduce((a, s) => a + (s.props.affordable_units || 0), 0);
+  const nParcels = visibleSites.reduce((a, s) => a + s.parcels.length, 0);
+  $("tally").innerHTML = `<strong>${fmt(n)}</strong> site${n === 1 ? "" : "s"}, ${fmt(nParcels)} parcels, ${fmt(units)} affordable units`;
+  if (!parcels.length) {
+    $("list").innerHTML = `<div class="empty"><p><strong>No mapped sites yet.</strong></p>
+      <p>Add rows to <code>data/sites.csv</code> and run the “Map sites” workflow in GitHub Actions. Parcels appear here once their blocks and lots are matched.</p></div>`;
+    return;
+  }
+  if (!n) {
+    $("list").innerHTML = `<div class="empty"><p>No sites match these filters.</p><p><button class="linkbtn" type="button" onclick="resetFilters()">Clear filters</button></p></div>`;
+    return;
+  }
+  $("list").innerHTML = visibleSites.map(s => {
+    const p = s.props, m = mechOf(p.mechanism);
+    return `<button class="site" type="button" data-id="${esc(s.id)}">
+      <span class="bar" style="background:${m.hex}"></span>
+      <span><span class="name">${esc(p.site_name)}</span><br>
+        <span class="meta">${esc(p.municipality)}, ${esc(p.county)} &nbsp; ${s.parcels.length} lot${s.parcels.length === 1 ? "" : "s"}${s.acres ? `, ${(+s.acres).toFixed(2)} ac` : ""}</span></span>
+      <span class="units"><b>${p.affordable_units ?? "—"}</b><small>affordable</small></span>
+    </button>`;
+  }).join("");
+  $("list").querySelectorAll(".site").forEach(b => b.onclick = () => openSite(b.dataset.id));
+}
+
+// ---------- detail ----------
+let highlight = null;
+function openSite(id, pin) {
+  const s = sites.find(x => x.id === id);
+  if (!s) return;
+  const p = s.props, m = mechOf(p.mechanism);
+  const focus = s.parcels.find(f => f.properties.pams_pin === pin) || s.parcels[0];
+  const fp = focus.properties;
+  const lots = s.parcels.map(f => f.properties.lot);
+  const label = s.parcels.length === 1 ? `Block ${esc(fp.block)}, Lot ${esc(fp.lot)}`
+    : `Block ${esc([...new Set(s.parcels.map(f => f.properties.block))].join(", "))}`;
+  $("detail").innerHTML = `
+    <button class="linkbtn back" type="button" id="back">Back to all sites</button>
+    <h2 class="lotlabel">${label}<small>${esc(p.site_name)} in ${esc(p.municipality)}, ${esc(p.county)} County</small></h2>
+    <div class="mech"><i style="background:${m.hex}"></i>${esc(p.mechanism || "Other")}</div>
+    <dl>
+      <dt>Affordable units</dt><dd>${fmt(p.affordable_units)}</dd>
+      <dt>Total units</dt><dd>${fmt(p.total_units)}</dd>
+      <dt>Max density</dt><dd>${p.max_density_du_ac != null ? p.max_density_du_ac + " du/ac" : "—"}</dd>
+      <dt>Set-aside</dt><dd>${esc(p.set_aside) || "—"}</dd>
+      <dt>Zoning</dt><dd>${esc(p.zoning) || "—"}</dd>
+      <dt>Site acres</dt><dd>${s.acres ? (+s.acres).toFixed(2) : "—"}</dd>
+      <dt>Status</dt><dd>${esc(p.site_status) || "—"}</dd>
+      <dt>Source</dt><dd>${esc(p.plan_doc) || "—"}${p.plan_page ? `, p. ${esc(p.plan_page)}` : ""}</dd>
+    </dl>
+    ${p.notes ? `<p class="note">${esc(p.notes)}</p>` : ""}
+    <h3>Parcel: Block ${esc(fp.block)}, Lot ${esc(fp.lot)}</h3>
+    <dl>
+      <dt>Location</dt><dd>${esc(fp.prop_loc) || "—"}</dd>
+      <dt>Owner</dt><dd>${esc(fp.owner) || "—"}</dd>
+      <dt>Owner mailing</dt><dd>${esc(fp.owner_address) || "—"}</dd>
+      <dt>Parcel acres</dt><dd>${fp.parcel_acres ?? "—"}</dd>
+      <dt>Class</dt><dd>${esc(fp.prop_class) || "—"}</dd>
+      <dt>Assessed (net)</dt><dd>${money(fp.net_value)}</dd>
+      <dt>Land / improv.</dt><dd>${money(fp.land_value)} / ${money(fp.improvement_value)}</dd>
+      <dt>Last sale</dt><dd>${fp.last_sale_price ? money(fp.last_sale_price) : "—"}${fp.last_sale_date ? ` (${esc(fp.last_sale_date)})` : ""}</dd>
+    </dl>
+    ${s.parcels.length > 1 ? `<h3>All ${s.parcels.length} lots on this site</h3><div class="parcels">${s.parcels.map(f => {
+      const q = f.properties;
+      return `<button type="button" class="parcel ${q.pams_pin === fp.pams_pin ? "on" : ""}" data-pin="${esc(q.pams_pin)}">
+        <span>Block ${esc(q.block)}, Lot ${esc(q.lot)}</span><span>${esc(q.prop_loc || "")}${q.parcel_acres ? `, ${q.parcel_acres} ac` : ""}</span></button>`;
+    }).join("")}</div>` : ""}`;
+  $("list").style.display = "none";
+  $("panel").classList.add("detailing");
+  $("detail").classList.add("open");
+  $("detail").scrollTop = 0;
+  $("back").onclick = closeSite;
+  $("detail").querySelectorAll(".parcel").forEach(b => b.onclick = () => openSite(id, b.dataset.pin));
+
+  const bounds = L.geoJSON({ type: "FeatureCollection", features: s.parcels }).getBounds();
+  if (!pin) map.fitBounds(bounds, { maxZoom: 18, padding: [40, 40] });
+  if (highlight) map.removeLayer(highlight);
+  highlight = L.geoJSON(focus, { style: { color: "#0e6e62", weight: 4, fill: false } }).addTo(map);
+  $("panel").classList.add("up");
+}
+function closeSite() {
+  $("detail").classList.remove("open");
+  $("panel").classList.remove("detailing");
+  $("list").style.display = "";
+  if (highlight) { map.removeLayer(highlight); highlight = null; }
+}
+
+function resetFilters() {
+  $("filters").reset();
+  activeMech.clear(); MECH.forEach(m => activeMech.add(m.key));
+  $("mechs").querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", "true"));
+  refreshTowns(); apply();
+}
+
+function exportCSV() {
+  const cols = ["county", "municipality", "site_name", "mechanism", "affordable_units", "total_units", "max_density_du_ac",
+    "site_status", "block", "lot", "prop_loc", "owner", "owner_address", "parcel_acres", "net_value", "plan_doc", "plan_page"];
+  const ids = new Set(visibleSites.map(s => s.id));
+  const rows = parcels.filter(f => ids.has(f.properties.site_id)).map(f => cols.map(c => {
+    const v = f.properties[c] ?? ""; return /[",\n]/.test(String(v)) ? `"${String(v).replace(/"/g, '""')}"` : v;
+  }).join(","));
+  const blob = new Blob([[cols.join(","), ...rows].join("\n")], { type: "text/csv" });
+  const a = Object.assign(document.createElement("a"), { href: URL.createObjectURL(blob), download: "round4-sites.csv" });
+  document.body.appendChild(a); a.click(); a.remove();
+}
+
+// ---------- wire up ----------
+["q", "minUnits", "minAcres"].forEach(id => $(id).addEventListener("input", apply));
+["town", "status"].forEach(id => $(id).addEventListener("change", apply));
+$("county").addEventListener("change", () => { refreshTowns(); apply(); });
+$("reset").onclick = resetFilters;
+$("export").onclick = exportCSV;
+$("togglePanel").onclick = () => {
+  const up = $("panel").classList.toggle("up");
+  $("togglePanel").setAttribute("aria-expanded", up);
+  $("togglePanel").textContent = up ? "Hide sites and filters" : "Show sites and filters";
+};
+document.addEventListener("keydown", e => { if (e.key === "Escape" && $("detail").classList.contains("open")) closeSite(); });
+
+(async () => {
+  const geo = await loadJSON("embedded-sites", "data/sites.geojson");
+  const tw = await loadJSON("embedded-towns", "data/municipalities.json");
+  parcels = (geo && geo.features) || [];
+  towns = (tw && tw.municipalities) || [];
+  if (towns.length) {
+    const inHand = towns.filter(t => t.tracker_status && t.tracker_status !== "Missing").length;
+    $("coverage").textContent = `Plans in hand for ${inHand} of ${towns.length} tracked towns. Sites come from each town's adopted Housing Element & Fair Share Plan.`;
+  }
+  groupSites();
+  buildFilters();
+  apply();
+  if (parcels.length) map.fitBounds(layer.getBounds(), { maxZoom: 15, padding: [30, 30] });
+})();
+</script>
+</body>
+</html>

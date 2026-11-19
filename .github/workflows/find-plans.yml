@@ -1,0 +1,81 @@
+name: Find adopted plans
+
+# Runs the plan-finder agent for a batch of towns and commits what it found
+# to data/plan_sources.csv and data/plan_status.csv.
+# Needs the repository secret ANTHROPIC_API_KEY.
+on:
+  workflow_dispatch:
+    inputs:
+      county:
+        description: "County (blank = all)"
+        type: choice
+        options: ["", "Bergen", "Monmouth", "Morris"]
+        default: "Bergen"
+      towns:
+        description: "Specific towns, comma-separated (overrides status)"
+        type: string
+        default: ""
+      statuses:
+        description: "Tracker statuses to include, comma-separated (blank = all except Ready)"
+        type: string
+        default: "Missing,Need adopted version,Need base plan,Check for amendment"
+      limit:
+        description: "Max towns this run"
+        type: number
+        default: 10
+      skip_checked_within:
+        description: "Skip towns checked in the last N days (blank = never skip)"
+        type: string
+        default: "14"
+      model:
+        description: "Claude model"
+        type: choice
+        options: ["claude-sonnet-5-5", "claude-opus-5-5", "claude-haiku-5-5"]
+        default: "claude-sonnet-5-5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: find-plans
+  cancel-in-progress: false
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Run plan finder
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          COUNTY: ${{ inputs.county }}
+          TOWNS: ${{ inputs.towns }}
+          STATUSES: ${{ inputs.statuses }}
+          LIMIT: ${{ inputs.limit }}
+          SKIP: ${{ inputs.skip_checked_within }}
+          MODEL: ${{ inputs.model }}
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::error::Add an ANTHROPIC_API_KEY repository secret (Settings > Secrets and variables > Actions)."
+            exit 1
+          fi
+          args=(--limit "$LIMIT" --model "$MODEL")
+          [ -n "$COUNTY" ] && args+=(--county "$COUNTY")
+          [ -n "$SKIP" ] && args+=(--skip-checked-within "$SKIP")
+          IFS=',' read -ra T <<< "$TOWNS";    for t in "${T[@]}"; do t="$(echo "$t" | xargs)"; [ -n "$t" ] && args+=(--town "$t"); done
+          IFS=',' read -ra S <<< "$STATUSES"; for s in "${S[@]}"; do s="$(echo "$s" | xargs)"; [ -n "$s" ] && args+=(--status "$s"); done
+          python agent/find_plans.py "${args[@]}"
+      - name: Commit findings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/plan_sources.csv data/plan_status.csv agent/runs || true
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Plan finder: ${{ inputs.county || 'all counties' }} batch"
+          git pull --rebase
+          git push
