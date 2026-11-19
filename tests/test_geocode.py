@@ -105,9 +105,10 @@ def fake_fetch_addr(url):
 
 def test_build_end_to_end(tmp_path):
     svc = g.ParcelService(cache_dir=tmp_path, pause=0, fetch=fake_fetch_addr)
-    sites = g.read_csv(g.SITES_CSV)
+    fx = Path(__file__).resolve().parent / "fixtures"
+    sites = g.read_csv(fx / "sites.csv")
     munis = g.read_csv(g.MUNIS_CSV)
-    zones = g.read_csv(g.ZONES_CSV)
+    zones = g.read_csv(fx / "zones.csv")
     geo, unmatched, towns, unmapped = g.build(svc, sites, munis, zones)
 
     harrison = [f for f in geo["features"] if f["properties"]["site_id"] == "waldwick-harrison-ave"]

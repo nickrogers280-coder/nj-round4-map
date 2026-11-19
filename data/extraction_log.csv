@@ -1,0 +1,3 @@
+county,municipality,extracted_on,plan_docs,plan_adopted,sites,zones,status,notes
+Bergen,Waldwick,2026-11-19,Waldwick HEFSP Amendment (adopted 3/10/26),2026-03-10,2,3,partial,"Amendment only; 2025 base plan (adopted 6/23/25) not yet read, so prior-round sites are missing."
+Bergen,Alpine,2026-11-19,Alpine 2026 Amended HEFSP (adopted 3/10/26),2026-03-10,4,2,partial,"Drive text stops partway through the appendices, so the AH-1 overlay ordinance standards are missing. BCUW site has no block/lot in the plan."

@@ -12,3 +12,4 @@ jobs:
           python-version: "3.12"
       - run: pip install pytest
       - run: python -m pytest -q tests
+      - run: python pipeline/validate_data.py
