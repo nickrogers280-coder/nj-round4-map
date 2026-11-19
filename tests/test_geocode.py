@@ -99,4 +99,4 @@ def test_build_end_to_end(tmp_path):
     aho2 = [f for f in geo["features"] if f["properties"]["site_id"] == "waldwick-aho2"]
     assert len(aho2) == 1
     assert {(u["block"], u["lot"]) for u in unmatched} == {("109.02", "6.04")}
-    assert len(towns["municipalities"]) == 162
+    assert len(towns["municipalities"]) == 564
