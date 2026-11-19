@@ -2,6 +2,144 @@
  "generated": "2026-11-19",
  "municipalities": [
   {
+   "county": "Atlantic",
+   "municipality": "Absecon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Atlantic City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Brigantine",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Buena",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Buena Vista",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Corbin City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Egg Harbor City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Egg Harbor Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Estell Manor",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Folsom",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Galloway",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Hamilton Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Hammonton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Linwood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Longport",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Margate City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Mullica",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Northfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Pleasantville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Port Republic",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Somers Point",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Ventnor",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Atlantic",
+   "municipality": "Weymouth",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
    "county": "Bergen",
    "municipality": "Allendale",
    "tracker_status": "Verify",
@@ -420,6 +558,1368 @@
    "municipality": "Wyckoff",
    "tracker_status": "Need base plan",
    "latest_adoption": "Amendment adopted 3/11/26"
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Bass River",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Beverly",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Bordentown City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Bordentown Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Burlington City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Burlington Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Chesterfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Cinnaminson",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Delanco",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Delran",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Eastampton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Edgewater Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Evesham",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Fieldsboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Florence",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Hainesport",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Lumberton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Mansfield Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Maple Shade",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Medford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Medford Lakes",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Moorestown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Mount Holly",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Mount Laurel",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "New Hanover",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "North Hanover",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Palmyra",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Pemberton Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Pemberton Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Riverside",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Riverton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Shamong",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Southampton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Springfield Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Tabernacle",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Washington Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Westampton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Willingboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Woodland",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Burlington",
+   "municipality": "Wrightstown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Audubon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Audubon Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Barrington",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Bellmawr",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Berlin Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Berlin Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Brooklawn",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Camden",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Cherry Hill",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Chesilhurst",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Clementon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Collingswood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Gibbsboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Gloucester City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Gloucester Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Haddon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Haddon Heights",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Haddonfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Hi-Nella",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Laurel Springs",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Lawnside",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Lindenwold",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Magnolia",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Merchantville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Mount Ephraim",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Oaklyn",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Pennsauken",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Pine Hill",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Runnemede",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Somerdale",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Stratford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Tavistock",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Voorhees",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Waterford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Winslow",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Camden",
+   "municipality": "Woodlynne",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Avalon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Cape May",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Cape May Point",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Dennis",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Lower Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Middle Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "North Wildwood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Ocean City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Sea Isle City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Stone Harbor",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Upper Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "West Cape May",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "West Wildwood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Wildwood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Wildwood Crest",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cape May",
+   "municipality": "Woodbine",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Bridgeton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Commercial",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Deerfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Downe",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Fairfield Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Greenwich Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Hopewell Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Lawrence Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Maurice River",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Millville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Shiloh",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Stow Creek",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Upper Deerfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Cumberland",
+   "municipality": "Vineland",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Belleville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Bloomfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Caldwell",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Cedar Grove",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "East Orange",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Essex Fells",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Fairfield Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Glen Ridge",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Irvington",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Livingston",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Maplewood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Millburn",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Montclair",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Newark",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "North Caldwell",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Nutley",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Orange",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Roseland",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "South Orange",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "Verona",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "West Caldwell",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Essex",
+   "municipality": "West Orange",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Clayton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Deptford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "East Greenwich",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Elk",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Franklin Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Glassboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Greenwich Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Harrison Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Logan",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Mantua",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Monroe Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "National Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Newfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Paulsboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Pitman",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "South Harrison",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Swedesboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Washington Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Wenonah",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "West Deptford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Westville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Woodbury",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Woodbury Heights",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Gloucester",
+   "municipality": "Woolwich",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "Bayonne",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "East Newark",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "Guttenberg",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "Harrison",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "Hoboken",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "Jersey City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "Kearny",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "North Bergen",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "Secaucus",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "Union City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "Weehawken",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hudson",
+   "municipality": "West New York",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Alexandria",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Bethlehem",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Bloomsbury",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Califon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Clinton Town",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Clinton Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Delaware",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "East Amwell",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Flemington",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Franklin Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Frenchtown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Glen Gardner",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Hampton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "High Bridge",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Holland",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Kingwood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Lambertville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Lebanon Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Lebanon Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Milford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Raritan Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Readington",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Stockton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Tewksbury",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "Union Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Hunterdon",
+   "municipality": "West Amwell",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "East Windsor",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "Ewing",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "Hamilton Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "Hightstown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "Hopewell Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "Hopewell Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "Lawrence Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "Pennington",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "Princeton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "Robbinsville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "Trenton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Mercer",
+   "municipality": "West Windsor",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Carteret",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Cranbury",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Dunellen",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "East Brunswick",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Edison",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Helmetta",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Highland Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Jamesburg",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Metuchen",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Middlesex",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Milltown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Monroe Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "New Brunswick",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "North Brunswick",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Old Bridge",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Perth Amboy",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Piscataway",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Plainsboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Sayreville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "South Amboy",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "South Brunswick",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "South Plainfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "South River",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Spotswood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Middlesex",
+   "municipality": "Woodbridge",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
   },
   {
    "county": "Monmouth",
@@ -970,6 +2470,918 @@
   {
    "county": "Morris",
    "municipality": "Wharton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Barnegat",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Barnegat Light",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Bay Head",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Beach Haven",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Beachwood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Berkeley",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Brick",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Eagleswood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Harvey Cedars",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Island Heights",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Jackson",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Lacey",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Lakehurst",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Lakewood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Lavallette",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Little Egg Harbor",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Long Beach",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Manchester",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Mantoloking",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Ocean Gate",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Ocean Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Pine Beach",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Plumsted",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Point Pleasant",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Point Pleasant Beach",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Seaside Heights",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Seaside Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Ship Bottom",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "South Toms River",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Stafford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Surf City",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Toms River",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Ocean",
+   "municipality": "Tuckerton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Bloomingdale",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Clifton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Haledon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Hawthorne",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Little Falls",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "North Haledon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Passaic",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Paterson",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Pompton Lakes",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Prospect Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Ringwood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Totowa",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Wanaque",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Wayne",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "West Milford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Passaic",
+   "municipality": "Woodland Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Alloway",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Carneys Point",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Elmer",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Elsinboro",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Lower Alloway Creek",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Mannington",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Oldmans",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Penns Grove",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Pennsville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Pilesgrove",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Pittsgrove",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Quinton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Salem",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Upper Pittsgrove",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Salem",
+   "municipality": "Woodstown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Bedminster",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Bernards",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Bernardsville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Bound Brook",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Branchburg",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Bridgewater",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Far Hills",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Franklin Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Green Brook",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Hillsborough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Manville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Millstone",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Montgomery",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "North Plainfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Peapack-Gladstone",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Raritan",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Rocky Hill",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Somerville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "South Bound Brook",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Warren",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Somerset",
+   "municipality": "Watchung",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Andover Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Andover Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Branchville",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Byram",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Frankford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Franklin",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Fredon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Green",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Hamburg",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Hampton Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Hardyston",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Hopatcong",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Lafayette",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Montague",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Newton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Ogdensburg",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Sandyston",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Sparta",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Stanhope",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Stillwater",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Sussex",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Vernon",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Walpack",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Sussex",
+   "municipality": "Wantage",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Berkeley Heights",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Clark",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Cranford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Elizabeth",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Fanwood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Garwood",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Hillside",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Kenilworth",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Linden",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Mountainside",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "New Providence",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Plainfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Rahway",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Roselle",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Roselle Park",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Scotch Plains",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Springfield Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Summit",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Union Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Westfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Union",
+   "municipality": "Winfield",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Allamuchy",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Alpha",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Belvidere",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Blairstown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Franklin Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Frelinghuysen",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Greenwich Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Hackettstown",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Hardwick",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Harmony",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Hope",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Independence",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Knowlton",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Liberty",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Lopatcong",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Mansfield Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Oxford",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Phillipsburg",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Pohatcong",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Washington Borough",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "Washington Twp",
+   "tracker_status": "Missing",
+   "latest_adoption": ""
+  },
+  {
+   "county": "Warren",
+   "municipality": "White",
    "tracker_status": "Missing",
    "latest_adoption": ""
   }
