@@ -1,3 +1,4 @@
 site_id,county,municipality,site_name,block,lot,reason
 alpine-r3-sylco,Bergen,Alpine,Sylco site townhouses,,,'CLOSTER DOCK' matches 50 lots; add block/lot
 alpine-bcuw,Bergen,Alpine,Bergen County United Way affordable housing site,,,No block/lot listed
+eastrutherford-mud,Bergen,East Rutherford,Mixed-Use Development (MUD) Zone,,,No block/lot listed
