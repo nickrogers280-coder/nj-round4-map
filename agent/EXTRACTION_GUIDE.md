@@ -17,10 +17,21 @@ and say so in `notes` and in the extraction log.
 
 Where to find them, in order:
 
-1. Nick's Google Drive county folders (parent folder id `1x_xQ-FWCRvreZa9dVEE-pff3A4OXxeNs`;
+1. Nick's newest Drive folder **"HEFSP 2026 Project"** (`1JtzRft5m9lTz2l_i4ibE1uGRpUO_CoL8`,
+   county folders under its `hefsp` subfolder `18G6iDpVJMxssM-fO6rkp4KA-PSm0WNPz`). Check it first;
+   when a town has a file here and in an older folder, prefer the newer/amended one per section 1.
+   County folders: Bergen `1JqSEFIjpfBXbbpUXEjJ9tm_jOyPbSJVk`, Monmouth `1bEwAT1NRP9HC6Qq50SZ4LrT8SzN-9HYo`,
+   Morris `14CpOJqsttaB3H5yJySdjFiuPAThKALjO`, Middlesex `1tnVRczaBd7n4O43AWp1OtELSwbFQHEJ3`
+   (OPRA subfolder `106s3d-M13mmWct9JtwlP3uAOOhS4OsYt`), Essex `14dGI4IDBAzcogVz93wBIgoy2RvRJMKfp`,
+   Somerset `1vJne5IgjBm_jTEQyW6ndj5FyyUe8Tna7`, Hunterdon `1cMjtBGYYXTVbXqdQeQJXvpkqiPXnGLPC`,
+   Warren `1_qt_ZzaUXAt_64jWH4SQZjS-7FlAfF7A`, Ocean `1Ko3FD_rGKfV5WHRscM1zDQX_IFshVhF2`,
+   Mercer `1CxN4zeqItYyesahykwg3XhBK7TAaX18Z`, Passaic `1GcxE2TFUOmik1fYMrLld8d7O_s3_tHUt`,
+   Sussex `1eRxbGnVWsB50H4DbuBq8p14uDlxnjpPD`, Burlington `17nx1lUH-riROLblEKj7Klwf-125BVHBa`.
+   Search all of it with `'1JtzRft5m9lTz2l_i4ibE1uGRpUO_CoL8' in ancestors`.
+2. Nick's original Drive county folders (parent folder id `1x_xQ-FWCRvreZa9dVEE-pff3A4OXxeNs`;
    Bergen `19gV3828eIb1U5FikZPbNdUig-Wfn6VMu`, Monmouth `1BF-4-ADWLJPIxm6-T7mIZBZqCdhI8_qM`,
-   Morris `1YgqGGp2efgeeNL3wQedIKmlO5SReiIk8`; more counties may be added under the parent).
-2. The links in the **Plan finder** tab of the Round 4 HEFSP Tracker sheet
+   Morris `1YgqGGp2efgeeNL3wQedIKmlO5SReiIk8`).
+3. The links in the **Plan finder** tab of the Round 4 HEFSP Tracker sheet
    (https://claude.ai/artifact/2rNF11HemfXXkdcA5tUHtz): "Latest adopted plan" and "Base plan (2025)".
 
 ## 2. Reading a long plan
