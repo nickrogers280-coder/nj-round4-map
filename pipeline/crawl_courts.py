@@ -43,6 +43,10 @@ STATUS_FIELDS = ["county", "municipality", "mun_code", "court_name", "court_stat
                  "plan_kind", "base_plan_posted", "base_plan_url", "compliance_posted", "compliance_url",
                  "hefsp_count", "doc_count", "page_url"]
 
+# Court names our matcher can't resolve: a typo on the court page, and Fanwood, whose code is
+# mislabeled in the parcel layer's name list.
+COURT_ALIASES = {("Union", "Fanwood Boro"): "2005", ("Warren", "Indenpendence Twp"): "2112"}
+
 H2 = re.compile(r'<h2[^>]*>(.*?)</h2>', re.S)
 DOC = re.compile(r'<a[^>]+href="(https://library\.njcourts\.gov/files/civil/affordable-housing/[^"]+)"[^>]*>(.*?)</a>\s*(?:<em>(.*?)</em>)?', re.S)
 
@@ -138,8 +142,9 @@ def main():
         names = {}
         for r in rows:
             if r["court_name"] not in names:
-                m = g.match_town(r["court_name"], county, cands)
-                names[r["court_name"]] = m["PCL_MUN"] if m else ""
+                alias = COURT_ALIASES.get((county, r["court_name"]))
+                m = None if alias else g.match_town(r["court_name"], county, cands)
+                names[r["court_name"]] = alias or (m["PCL_MUN"] if m else "")
             r["mun_code"] = names[r["court_name"]]
             r["municipality"] = munis.get(r["mun_code"], {}).get("municipality", "")
         filings += rows
