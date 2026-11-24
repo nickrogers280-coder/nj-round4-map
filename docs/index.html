@@ -516,7 +516,7 @@ a { color: var(--pin); }
         ${p.notes ? `<p class="desc">${esc(p.notes)}</p>` : ""}
         ${q ? `<div class="sec"><h3>Block ${esc(q.block)} · Lot ${esc(q.lot)}<button class="copy" type="button" data-copy="Block ${esc(q.block)}, Lot ${esc(q.lot)}">Copy</button></h3><dl class="kv">
           <dt>Location</dt><dd>${esc(titleCase(q.prop_loc)) || "—"}</dd>
-          ${q.owner ? `<dt>Owner</dt><dd>${esc(q.owner)}</dd>` : ""}
+          <dt>Owner</dt><dd>${q.owner ? esc(q.owner) + (q.owner_source ? `<br><small style="color:var(--ink-3)">Tax record: ${esc(q.owner_source)}</small>` : "") : `<span style="color:var(--ink-3)">Not pulled yet for this county</span>`}</dd>
           <dt>Owner mailing</dt><dd>${esc(titleCase(q.owner_address)) || "—"}</dd>
           <dt>Lot acres</dt><dd>${q.parcel_acres ?? "—"}</dd>
           <dt>Class</dt><dd class="mono">${esc(q.prop_class) || "—"}${q.building ? " · " + esc(q.building) : ""}</dd>

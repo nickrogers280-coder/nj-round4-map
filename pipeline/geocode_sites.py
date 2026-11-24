@@ -345,8 +345,27 @@ def site_record(site: dict, zone: dict | None) -> dict:
     }
 
 
+OWNERS_CSV = ROOT / "data" / "owners.csv"
+_OWNERS: dict | None = None
+
+
+def owner_lookup(pams_pin: str | None, block, lot) -> dict:
+    """Owner of record from the county tax boards (data/owners.csv). The statewide
+    parcel layer blanks OWNER_NAME (Daniel's Law), so names come from there."""
+    global _OWNERS
+    if _OWNERS is None:
+        _OWNERS = {}
+        if OWNERS_CSV.exists():
+            with open(OWNERS_CSV, newline="", encoding="utf-8") as fh:
+                for r in csv.DictReader(fh):
+                    _OWNERS[(r["mun_code"].zfill(4), norm_num(r["block"]), norm_num(r["lot"]))] = r
+    mun = (pams_pin or "").split("_")[0].zfill(4)
+    return _OWNERS.get((mun, norm_num(str(block or "")), norm_num(str(lot or "")))) or {}
+
+
 def parcel_props(f: dict, block: str, lot: str, how: str) -> dict:
     p = f["properties"]
+    own = owner_lookup(p.get("PAMS_PIN"), block or p.get("PCLBLOCK"), lot or p.get("PCLLOT"))
     return {
         "block": block or p.get("PCLBLOCK"),
         "lot": lot or p.get("PCLLOT"),
@@ -356,7 +375,8 @@ def parcel_props(f: dict, block: str, lot: str, how: str) -> dict:
         "prop_loc": p.get("PROP_LOC"),
         "prop_class": p.get("PROP_CLASS"),
         "parcel_acres": round(p["CALC_ACRE"], 3) if p.get("CALC_ACRE") else None,
-        "owner": p.get("OWNER_NAME"),
+        "owner": own.get("owner_name") or p.get("OWNER_NAME"),
+        "owner_source": (f'{own["source"]}, {own["retrieved"]}' if own else ""),
         "owner_address": " ".join(x for x in [p.get("ST_ADDRESS"), p.get("CITY_STATE")] if x),
         "land_value": p.get("LAND_VAL"),
         "improvement_value": p.get("IMPRVT_VAL"),
