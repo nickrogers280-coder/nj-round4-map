@@ -1,0 +1,2766 @@
+      MON-L-000419-25 06/30/2025 8:03:23 PM Pg 1 of 61 Trans ID: LCV20251899801
+
+
+
+
+2025 FOURTH ROUND
+HOUSING PLAN
+HOUSING ELEMENT & FAIR SHARE PLAN
+ASBURY PARK
+MONMOUTH COUNTY
+NEW JERSEY
+
+
+
+
+ADOPTED BY THE PLANNING BOARD
+JUNE 30, 2025
+
+
+
+
+PREPARED BY:
+
+
+
+
+____________________________
+ELIZABETH MCMANUS, PP, AICP, LEED AP
+NEW JERSEY PROFESSIONAL PLANNER LICENSE 5915
+KYLE + MCMANUS ASSOCIATES
+A SIGNED AND SEALED ORIGINAL IS ON FILE WITH THE CITY CLERK
+      MON-L-000419-25 06/30/2025 8:03:23 PM Pg 2 of 61 Trans ID: LCV20251899801
+
+
+
+
+                                            CITY PLANNING BOARD
+                                            Barbara Krzak (Chair) – Class IV
+                                        Michael Goonan (Vice Chair) – Class IV
+                                              Mayor John Moor – Class I
+                                       Council member Yvonne Clayton – Class III
+                                               James Bonanno– Class II
+                                                  Jim Henry – Class IV
+                                              Jennifer Souder – Class IV
+                                             Daniel Sciannameo-Class IV
+                                               Bob Zuckerman-Class IV
+                                            Jeremy Hoffman (Alternate #1)
+                                          Kathryn McLaughlin (Alternate #2)
+
+
+                                               MAYOR & COUNCIL
+                                                  John Moor, Mayor
+                                              Amy Quinn, Deputy Mayor
+                                               Angela Ahbez- Anderson
+                                                   Eileen Chapman
+                                                    Yvonne Clayton
+                                             Adam E. Cruz, City Manager
+                                           Kevin Starkey, Esq., City Attorney
+                      Michele Alonso, PP, AICP, Director of Planning and Redevelopment
+                        Elizabeth McManus, PP AICP LEED AP, City Planning Consultant
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN
+ADOPTED JUNE 30, 2025
+       MON-L-000419-25 06/30/2025 8:03:23 PM Pg 3 of 61 Trans ID: LCV20251899801
+
+
+
+
+                                                        TABLE OF CONTENTS
+
+Introduction & Executive Summary ............................................................................................................. 1
+Affordable Housing in New Jersey................................................................................................................ 2
+   The Compliance Process ........................................................................................................................... 6
+   Affordability Requirements ...................................................................................................................... 8
+   Overview of Compliance Requirements ................................................................................................... 9
+Affordable Housing in Asbury Park............................................................................................................. 10
+Consideration of Lands Most Appropriate for Affordable Housing............................................................ 14
+Opportunity for Multigenerational Housing .............................................................................................. 15
+Demographic, Housing & Employment Analysis ........................................................................................ 15
+Affordable Housing Obligation & Satisfaction ............................................................................................ 15
+   Rehabilitation Obligation ....................................................................................................................... 15
+   Satisfaction of the Rehabilitation Obligation ......................................................................................... 15
+   Satisfaction of the RCA Requirement ..................................................................................................... 16
+Consistency with the State Development and Redevelopment Plan ......................................................... 20
+Affordable Housing Administration & Affirmative Marketing.................................................................... 20
+Affordable Housing Trust Fund .................................................................................................................. 21
+
+
+
+
+Appendices
+     1. Housing, Demographic & Employment Analysis
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN
+ADOPTED JUNE 30, 2025
+      MON-L-000419-25 06/30/2025 8:03:23 PM Pg 4 of 61 Trans ID: LCV20251899801
+
+
+
+
+INTRODUCTION & EXECUTIVE SUMMARY
+Since the 1975 New Jersey Supreme Court decision known as “Mount Laurel I,” New Jersey municipalities
+have had a constitutional obligation to provide opportunities for creation of low- and moderate-income
+homes. This 1975 decision led to a body of case law, legislative changes and rulemaking by a state agency
+that, collectively, is now referred to as the “Mount Laurel Doctrine”. Through these actions, New Jersey
+municipalities have been assigned a specific number of affordable homes that must be created or planned
+for creation to have “satisfied” their constitutional obligation, referred to as their affordable housing
+obligation. The purpose of this Housing Element and Fair Share Plan (hereinafter the “Plan”) is to present
+how Asbury Park will satisfy its constitutional obligation.
+Asbury Park is a Qualified Urban Aid municipality, as defined by the New Jersey Fair Housing Act (N.J.S.A.
+52:27D-301 et seq.). Municipalities with this designation are exempt from the new construction obligation
+which is typically the affordable housing obligation leveraged by parties pursuing a builder’s remedy.
+Instead, Asbury Park, like other Qualified Urban Aid municipalities, is only subject to the rehabilitation
+obligation. Notwithstanding, the rehabilitation obligation being the only assigned affordable housing
+obligation, this Housing Plan also addresses the outstanding the Regional Contribution Program (RCA)
+which has not yet been completed.
+Affordable housing in New Jersey is defined as homes which are reserved for households with incomes
+not more than 80% of the region’s median income. Each affordable home, depending on the age and type
+of housing, must remain reserved for low and moderate income households and it is typically enforced by
+a deed restriction. Each affordable home is eligible for one “credit” against the obligation and certain
+homes are eligible for “bonus credits,” which provide more than one credit per home. In addition to
+providing the minimum number of credits, municipalities must ensure diversity in the home type (at least
+half of the homes must be available to families and the remaining may be reserved for seniors and those
+with special needs), diversity in the level of affordability (very low, low and moderate income homes), and
+diversity in the size of affordable homes (one, two and three bedroom homes).
+Participation in this process, and therefore satisfaction of the affordable housing obligation, can be
+achieved voluntarily or involuntarily. However, voluntary compliance is heavily incentivized.
+Municipalities that do not successfully participate may be vulnerable to exclusionary zoning litigation,
+which is defined as litigation based on alleged noncompliance with the Fair Housing Act, or the Mount
+Laurel doctrine, and includes builder’s remedies. A builder’s remedy is a litigation tool that grants a
+developer the right to construct what is typically a multi-family development on land that was not zoned
+to permit the use or the residential density desired by the developer, provided a “substantial” percentage
+of the homes are reserved for low and moderate income households. Asbury Park seeks to avoid this
+possibility and has already taken substantial steps to do so.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                            PAGE 1
+ADOPTED JUNE 30, 2025
+        MON-L-000419-25 06/30/2025 8:03:23 PM Pg 5 of 61 Trans ID: LCV20251899801
+
+
+
+
+This Plan supersedes all previously adopted housing plans and will serve as the foundation for the City’s
+application filing with the New Jersey Affordable Housing Dispute Resolution Program and the request for
+a Compliance Certification.
+As detailed in this Plan, Asbury Park – like all Qualified Urban Aid municipalities – has only one component
+of its affordable housing obligation. The new construction obligations of the first and second rounds
+(cumulative obligation for 1987 through 1999), third round (1999 through 2025) and the fourth round
+(2025 through 2035) do not apply.
+Asbury Park has the following affordable housing obligation:
+    §     Rehabilitation Obligation: 214
+          The rehabilitation obligation can be defined as an estimate of the number of deteriorated homes
+          existing in Asbury Park that are occupied by low- and moderate-income households for the years
+          2025 through 2035. This component is also referred to as the “present need”.
+In addition to the above-listed affordable housing obligation, the City is also committed to fulfilling the
+following outstanding RCA obligation.
+    §     136 completed RCA rehabilitation units which were identified by FSHC as having an alleged defect
+    §     70 incomplete RCA units
+As such, this Housing Plan addresses two primary issues:
+    §     Rehabilitation Obligation: 214 units
+    §     Outstanding RCAs: 206 units
+Adoption of this Housing Element and Fair Share Plan and complete implementation of the strategies
+described above to meet the affordable housing obligation will yield a Compliance Certification and
+protect the City from builder’s remedy litigation through July 2035, the maximum time available.
+
+
+AFFORDABLE HOUSING IN NEW JERSEY
+In its landmark 1975 decision, now referred to as “Mount Laurel I,” the NJ Supreme Court ruled that
+developing municipalities have a constitutional obligation to provide variety and choice of housing types
+affordable to low- and moderate-income households. In its 1983 “Mount Laurel II” decision, the NJ
+Supreme Court extended the regional fair share obligation to all municipalities with any “growth area” as
+designated in the State Development Guide Plan (NJDCA 1978) and determined that each municipality
+with any growth area would have to establish its fair share obligation and provide zoning strategies to
+create a realistic opportunity for fulfilment of the fair share obligation. Mount Laurel II also gave
+developers, under appropriate circumstances, the opportunity to secure a builder’s remedy. A builder’s
+remedy is a litigation tool that grants a developer the right to develop what is typically a multi-family
+development on land that was not zoned to permit the use or the residential density desired by the
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                             PAGE 2
+ADOPTED JUNE 30, 2025
+      MON-L-000419-25 06/30/2025 8:03:23 PM Pg 6 of 61 Trans ID: LCV20251899801
+
+
+
+
+developer, provided a “substantial” percentage of the homes are reserved for low and moderate income
+households and provided that the proposed project is not clearly contrary to sound land use planning.
+Asbury Park seeks to avoid this possibility and has already taken substantial steps to do so.
+In 1985, the Legislature enacted the Fair Housing Act in response to Mount Laurel II and the cases that
+implemented it. The Fair Housing Act created the Council on Affordable Housing (hereinafter “COAH”) as
+an administrative alternative to compliance in a court proceeding. The Legislature conferred “primary
+jurisdiction” on COAH and charged COAH with promulgating regulations to establish housing regions, to
+estimate the state’s low- and moderate-income housing needs, set criteria and guidelines for
+municipalities to determine and satisfy their affordable housing obligation, and to create a process for the
+review and approval of appropriate housing elements and fair share plans. Approval of a municipal
+housing element and fair share plan by COAH culminated in a grant of “substantive certification”.
+Certifying a municipality’s affordable housing plan provided the municipality protection from builder’s
+remedy litigation during the period which the housing element and fair share plan addresses (i.e. the
+round).
+COAH created the criteria and guidelines for municipalities to determine and address their respective
+affordable housing obligation. COAH originally established a formula for determining municipal affordable
+housing obligation for the six-year period between 1987 and 1993 (N.J.A.C. 5:92-1 et seq.), which became
+known as the “first round.” These rules established the first round rehabilitation obligation and the first
+round new construction obligation. In accordance with the limitations in the Fair Housing Act, COAH
+exempted Qualified Urban Aid municipalities from a new construction obligation in Round 1. Instead, in
+Round 1 and thereafter, COAH only assigned a rehabilitation obligation to Qualified Urban Aid
+municipalities .
+The first round formula was superseded by COAH regulations in 1994 (N.J.A.C. 5:93-1.1 et seq.) for the
+second round. The second round regulations imposed an obligation on municipalities that was cumulative
+for Rounds 1 and 2. The second round regulations recalculated a municipality’s obligations for the first
+round spanning 1987 to 1993; and computed an additional municipal affordable housing obligation for
+the second round spanning 1993 to 1999. Consistent with the first round, Qualified Urban Aid
+municipalities were exempted from the second round new construction obligation, instead were only
+assigned a rehabilitation obligation. Under regulations adopted for the third round, the obligation of
+municipalities to create new affordable housing for the first and second rounds was referred to as the
+“prior round” obligation.
+On December 20, 2004, COAH’s first version of the third round rules became effective some five years
+after the end of the second round in 1999. At that time, the third round was defined as the time from
+1999 to 2014 but condensed into an affordable housing delivery period from January 1, 2004 through
+January 1, 2014. The third round rules marked a significant departure from the methods utilized in COAH’s
+earlier rounds by creating a “growth share” approach that linked the production of affordable housing to
+residential and non-residential development within a municipality. In contrast to the regulations in the
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                             PAGE 3
+ADOPTED JUNE 30, 2025
+      MON-L-000419-25 06/30/2025 8:03:23 PM Pg 7 of 61 Trans ID: LCV20251899801
+
+
+
+
+first and second round, COAH did not determine the regions, the need for affordable housing in each
+region and the fair share of the regional need each municipality should bear
+In In re Adoption of N.J.A.C. 5:94 and 5:95, 390 N.J. Super. 1, a 2007 decision, the Court invalidated key
+elements of the first version of the third round rules, including the growth share approach. COAH adopted
+revised rules on June 2, 2008 (as well as a further rule revision effective on October 20, 2008). Included in
+the 2008 rules was a recalculation of the cumulative first and second rounds obligation to account for
+updated data addressing secondary sources (filtering, demolitions, and residential conversions). Just as
+COAH based the first version of its round 3 obligations on a growth share approach, it took the same
+approach in the second iteration of its Round 3 regulations. This precipitated challenges to the second
+iteration of COAH’s third round regulations. On October 8, 2010, the Appellate Division issued its decision,
+In re Adoption of N.J.A.C. 5:96 and 5:97, 416 N.J. Super. 462, with respect to the challenge to the second
+iteration of COAH’s third round regulations. The Appellate Division upheld the COAH regulations that
+assigned rehabilitation and first and second rounds obligations to each municipality but invalidated the
+regulations by which the agency assigned housing obligations in the third round, finding that the Agency
+continued to utilize a growth share approach, albeit an amended approach. In each iteration of third
+round rules, Qualified Urban Aid municipalities continued to be exempt from being assigned a new
+construction obligation, instead only being assigned a rehabilitation obligation.
+COAH sought a stay from the NJ Supreme Court of the deadline to issue new third round housing rules set
+forth by the Appellate Division. Additionally, there were various challenges to the Appellate Division’s
+2010 decision. On September 26, 2013, the NJ Supreme Court upheld the Appellate Court decision in In
+re Adoption of N.J.A.C. 5:96 and 5:97 by New Jersey Council On Affordable Housing, 215 N.J. 578 (2013),
+and ordered COAH to prepare adopt new Round 3 rules in five months based upon the approach it took
+in Rounds 1 and 2 and not growth share.
+COAH proposed regulations using the same approach it took in Rounds 1 and 2 and literally thousands of
+comments were filed in response to the proposed regulations. However, when it came time to vote on
+October 20, 2014, COAH deadlocked 3-3. More importantly, COAH failed to take any steps to break the
+deadlock. Consequently, Fair Share Housing Center (hereinafter “FSHC”) filed a motion in aid of litigant’s
+rights with the NJ Supreme Court.
+On March 10, 2015, the NJ Supreme Court decided In re Adoption of N.J.A.C. 5:96 & 5:97, 221 NJ 1, aka
+“Mount Laurel IV”) in response to FCHC’s motion. This long-awaited decision provided a new direction for
+how New Jersey municipalities were to comply with the constitutional requirement to provide their fair
+share of affordable housing. The Court declared COAH to be “moribund” and transferred the responsibility
+to implement the Mount Laurel doctrine back to the courts. The Supreme Court also created a new
+process by which a municipality could comply in court since compliance at COAH was no longer an option.
+The Supreme Court provided that municipalities could secure immunity in the court proceedings . The
+trial judges who presided over these cases, with the assistance of an appointed Special Adjudicators t,
+reviewed municipal plans much in the same manner as COAH previously did.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                              PAGE 4
+ADOPTED JUNE 30, 2025
+      MON-L-000419-25 06/30/2025 8:03:23 PM Pg 8 of 61 Trans ID: LCV20251899801
+
+
+
+
+While the NJ Supreme Court’s decision set a process in motion for towns to address their third round
+obligations, it did not assign those obligations. Instead, the task was completed by the trial courts.
+However, the NJ Supreme Court did direct that the method of determining municipal affordable housing
+obligations were to be “similar to” the methodologies used in the first and second round rules and
+municipalities should rely on COAH’s 1993 second round rules (N.J.A.C. 5:93) and certain components of
+COAH’s 2008 regulations that were specifically), as well as the Fair Housing Act (N.J.S.A. 52:27D – 301 et
+seq.), in their preparation of third round housing elements and fair share plans.
+Litigation ensued over the correct fair share formula in a case over which judge Jacobson presided. That
+litigation resulted in Judge Jacobson embracing a fair share formula that cut the obligations advocated by
+FSHC roughly in half.
+FSHC, a public interest advocacy organization in New Jersey devoted exclusively to promoting the
+production of housing affordable to low and moderate income households, was permitted to serve as an
+interested party in every municipal Declaratory Judgment Action. In this role, the organization calculated
+municipal affordable housing obligations and offered to settle with municipalities at greatly discounted
+rates from the figures its expert calculated. After Judge Jacobson issued her opinion, the parties tended
+to use the number generated by the Jacobson formula. The settlements identified the fair share
+obligations and the manner in which those obligations would be satisfied. Most municipalities that filed a
+Declaratory Judgment Action settled with FSHC, rather than bear the risk and considerable cost of
+protracted litigation.
+In 2008, against the backdrop of litigation over the correct Round 3 regulations between 2007 and 2014,
+the Legislature amended the FHA in 2008 through Legislation commonly referred to as “the Roberts Bill.”
+This bill included the Statewide Nonresidential Development Fee Act, which required the imposition of a
+nonresidential development fee of 2.5 percent of equalized assessed value on all nonresidential
+development-regardless of whether the subject municipality was complying with its affordable housing
+obligations or not. The Roberts Bill also prohibited new regional contribution agreements (hereinafter
+“RCAs”). It also required that 13% of all new affordable homes be restricted to very low income
+households (30% of median income) and added a requirement that municipalities had to commit to spend
+development fees within four (4) years of the date of collection.
+In 2013, the Legislature also amended, the Fair Housing Act (P.L. 2013, c. 6) to permit municipalities to
+enter into an agreement with a developer or development owner to provide a preference for veterans
+who served in time of war or other emergency to occupy up to 50% of the affordable homes in a particular
+development. The preference is applicable to the first 90 of the 120 days of initial marketing and
+thereafter may on a special waiting list for future available affordable homes in the development. These
+amendments to the Fair Housing Act are not promulgated in any valid COAH regulations.
+On March 20, 2024, Governor Murphy signed an amendment to the Fair Housing Act into law (P.L. 2024,
+c.2.). This amendment established a new procedure and approach to affordable housing for Round 4 and
+beyond. The Amendment abolished COAH and established a new process for municipalities to secure
+approval of their Housing Element and Fair Share Plans and to secure immunity from exclusionary zoning
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                           PAGE 5
+ADOPTED JUNE 30, 2025
+      MON-L-000419-25 06/30/2025 8:03:23 PM Pg 9 of 61 Trans ID: LCV20251899801
+
+
+
+
+litigation while doing this. The Amendment created the Affordable Housing Dispute Resolution Program
+to try to resolve disputes over fair share obligations and plans to comply with fair share obligations
+amicably. The Amendment included a methodology for fair share determinations in Round 4 and beyond.
+The Amendment states that municipalities shall rely on rules adopted by COAH, unless contradicted by
+statute or binding court decisions, for municipal crediting, adjustments and compliance strategies.
+Notwithstanding the significant changes to the Fair Housing Act, the amendment continued to exempt
+Qualified Urban Aid municipalities from a new construction obligation.
+The Affordable Housing Dispute Resolution Program (hereinafter the “Program”) is a program within the
+judiciary made up of an odd number of Judges with a minimum of 3 and not to exceed 7. The Program,
+in its discretion and in accordance with Rules of Court, may consult or employ services of one or more
+special adjudicators or staff to assist it in rendering determinations, resolving disputes, and facilitating
+communication among municipalities and interested partes. The Program is responsible for reviewing
+municipal affordable housing obligations, housing plans, and conducting mediation. However, final
+determinations of compliance, disputes, and other issues, as well as Court orders may only be issued by a
+County-level housing judge.
+In addition to changes addressing the compliance process and elimination of COAH, the amendment also
+revised minimum affordability controls for rental homes from 30 years to 40 years and those for extension
+of affordability controls from 30 years to as little as 20 years, provided the total control period is not less
+than 60 years. It also created new roles for the Department of Community Affairs (hereinafter “DCA”),
+including calculation of non-binding rehabilitation and prospective need affordable housing obligations,
+oversight and adoption of rules regulating municipal affordable housing trust funds, municipal housing
+liaisons and affordable housing administrative agents, as well as oversight of affordable home
+administration. The amendment also directed the New Jersey Housing and Mortgage agency to revise the
+Uniform Housing Affordability Control Rules (N.J.A.C. 5:80-26.1 et seq.) on an emergent basis by
+December 2024 and through the standard Administrative Procedures Act thereafter.
+
+
+The Compliance Process
+The first step in a municipality’s compliance process is to establish the affordable housing obligation. The
+first, second and third round obligations are already established by COAH or Superior Court, as applicable.
+Only the rehabilitation obligation and current prospective need, and the fourth round obligation, are
+subject to the determination.
+The methodology and formulas each municipality must rely upon to determine its rehabilitation, and
+fourth round obligation (as well as subsequent round obligations) are set forth within N.J.S.A. 52:27D-
+304.1 thru -304.3 of the Fair Housing Act. The March 8, 2018 decision In re Mun. of Princeton, 480 N.J.
+Super. 70 (Mar. 8, 2018) is also to be referenced as to datasets and methodologies that are not explicitly
+addressed in N.J.S.A. 52:27D-304.3. Notwithstanding the methodology set forth in the Fair Housing Act,
+the Act also required the DCA to release a non-binding report calculating obligations for each municipality
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                PAGE 6
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 10 of 61 Trans ID: LCV20251899801
+
+
+
+
+in the State. Since the DCA calculation of municipal obligations was nonbinding, municipalities were free
+to assert that the correct application of the standards in the Act resulted in different number(s).
+The following provides an overview of the process and deadlines associated with the fourth round.
+    §    Establishing the Affordable Housing Obligation
+              §    October 20, 2024: DCA Regional and Municipal Fair Share Obligation Report Issued
+                   (Affordable Housing Obligations for 2025-2035 (Fourth Round) Methodology and
+                   Background).
+              §    January 31, 2025: Deadline for municipalities to adopt a binding resolution committing
+                   to the affordable housing obligation and seeking a Compliance Certification through
+                   participation in the Program.
+              §    February 28, 2025: Deadline for an interested party to challenge the municipality’s
+                   determination of its obligation to the Program. It shall apply “an objective assessment
+                   standard”.
+              §    March 1, 2025: The municipality’s determination of its obligation will be established by
+                   default if no challenge.
+              §    March 31, 2025: The Program must issue a decision on the obligation challenge.
+    §    Obtaining a Compliance Certification
+              §    June 30, 2025: Municipality shall adopt a Housing Plan and propose drafts of ordinances
+                   and resolutions to implement the plan.
+              §    August 31, 2025: Deadline for an interested party to file a challenge of the Housing Plan
+                   with the Program. If no challenge by this date the Program will begin review of the
+                   Housing Plan for consistency with the FHA.
+              §    December 31, 2025: Deadline for a municipality to settle any challenge or provide an
+                   explanation as to why it will not make all, or some of the changes brought by the
+                   challenge.
+              §    March 15, 2026: Municipality to amend the Housing Plan and implement the agreed upon
+                   revisions resulting from a challenge and adopt all pertinent ordinances. If no agreement,
+                   the municipality must adopt what it believes to be appropriate, and litigation ensues. In
+                   either case, the Housing Plan and adopted ordinances shall be immediately filed with the
+                   Program.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                             PAGE 7
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 11 of 61 Trans ID: LCV20251899801
+
+
+
+
+    §    Ongoing Compliance
+              §    At any point, any interested party can inquire as to the status of any site in an approved
+                   plan
+              §    Midpoint (2030): Action by municipality or interested party filed to seek a realistic
+                   opportunity review of any developments that have not moved forward.
+
+
+Affordability Requirements
+Affordable housing is defined under New Jersey’s Fair Housing Act as a dwelling, either for sale or rent,
+that is within the financial means of households of low- or moderate-income, as is measured within each
+housing region. Asbury Park is in Region 4, which includes Monmouth, Ocean and Mercer counties.
+Moderate-income households are those with annual incomes greater than 50%, but less than 80% of the
+regional median income. Low-income households are those with annual incomes that are 50% or less than
+the regional median income. Very low-income households are a subset of “low-income” households and
+are defined as those with incomes 30% or less than the regional median income.
+The Uniform Housing Affordability Controls (hereinafter “UHAC”) at N.J.A.C. 5:80-26.3(d) and (e) requires
+that the maximum rent for a qualified home be affordable to households with incomes 70% or less than
+the median income for the region, provided that at least 13 percent of the affordable units in the
+development are reserved for and priced to be affordable to very low income households. The average
+rent for all the affordable units must be affordable to households with incomes no greater than 52% of
+the median income. The maximum sale prices for affordable homes must be affordable to households
+with incomes 70% or less than the median income. The average sale price must be affordable to a
+household with an income of 55% or less than the median income.
+The regional median income is defined using the federal income limits established by Department of
+Housing and Urban Development (hereinafter “HUD”) on an annual basis. In the spring of each year, HUD
+releases updated regional income limits, and it is from these income limits that the rents and sale prices
+for affordable homes are derived. The following table reflects the 2025 affordable housing regional
+income limits for Region 4.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                              PAGE 8
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 12 of 61 Trans ID: LCV20251899801
+
+
+
+
+                  2025 Income Limits for Region 4 (Monmouth, Ocean and Mercer Counties)
+
+          Household                  1-Person            2-Person           3-Person             4-Person             5-Person
+        Income Levels               Household           Household          Household            Household            Household
+
+           Median                     $94,300            $107,700           $121,200             $134,600             $145,400
+
+         Moderate                     $75,440             $86,160            $96,960             $107,680             $116,320
+             Low                      $47,150             $53,850            $60,600              $67,300              $72,700
+
+          Very Low                    $28,290             $32,310            $36,360              $40,380              $43,620
+ Source: UHAC 2025 Affordable Housing Regional Income Limits by Household Size, Last updated May 5, 2025, by New Jersey Housing and
+ Mortgage Finance Agency (NJHMFA).
+
+
+
+Overview of Compliance Requirements
+There are extensive requirements that municipalities must ensure their affordable housing strategies
+satisfy in order to be eligible for a Compliance Certification. Furthermore, those requirements vary by
+round. The following provides a brief and summarized overview of the requirements that apply to the new
+construction obligation. The bedroom and income distributions cited below are applicable to the City’s
+new and planned affordable housing developments.
+    §    Rental Obligation. Not less than 25% of affordable homes addressing the obligation of a round
+         must be for rent.
+    §    Family Obligation. Not less than 50% of affordable homes addressing the obligation of a round
+         must be available to families, meaning they are not restricted to a particular population. This
+         obligation does not apply to the first and second rounds.
+    §    Family Rental Obligation. Not less than 50% of the homes meeting the rental obligation of a round
+         must be available to families, meaning they are not restricted to a particular population. This
+         obligation does not apply to the first and second rounds.
+    §    Senior Maximum. Up to 30% of affordable homes addressing the obligation of a round may be
+         reserved for seniors. The maximum was 25% for the first, second and third rounds.
+    §    Income Distribution of Affordable Homes
+              §    Very Low Income Obligation. Not less than 13% of affordable homes created or approved
+                   on or after July 1, 2008 must be reserved for very low income households (30% or less
+                   than the regional median income). Very low income homes are a subset of low income
+                   homes.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                                       PAGE 9
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 13 of 61 Trans ID: LCV20251899801
+
+
+
+
+              §    Family Very Low Income Obligation. Not less than 50% of the homes meeting the very low
+                   income obligation must be available to families, meaning they are not restricted to a
+                   particular population.
+              §    Low Income Obligation. Not less than 50% of affordable homes in any development must
+                   be reserved for low income households (50% or less than the regional median income,
+                   which includes very low income households). The remaining may be available to
+                   moderate income households (51-80% of regional median income).
+    §    Bedroom Distribution of Affordable Homes
+              §    The total bedrooms within the affordable homes in any development must be not less
+                   than twice the number of affordable homes. This requirement does not apply to the first,
+                   second or third round.
+              §    Studio and 1-bedroom Homes. Not more than 20% of homes in any development.
+              §    2-bedroom Homes. Not less than 30% of homes in any development.
+              §    3-bedroom Homes. Not less than 20% of homes in any development.
+              §    The above requirements do not apply to special needs housing or senior housing.
+              §    Senior developments are subject to a modified bedroom distribution such that the total
+                   bedrooms within the affordable homes must be not less than the number of affordable
+                   homes.
+              §    Senior and supportive housing developments with 20 or more affordable homes shall
+                   have not less than 5% 2-bedroom and 3-bedroom affordable homes. This requirement
+                   does not apply to the first, second or third round.
+
+
+AFFORDABLE HOUSING IN ASBURY PARK
+While the City is a designated urban aid municipality, and has been for many years, and thus has no new
+construction obligation, the City has a history of creating and incentivizing affordable housing.
+Asbury Park has gone through varying cycles of economic and population growth and decline in decades
+past. As the City’s popularity continues, the average sales price and monthly rent of homes increases, as
+does the demand for new residential and commercial development. Today, much of the City’s homes are
+out of reach for low-, moderate-, and middle income households, and this includes a significant portion
+of the City’s longstanding residents. The lack of affordability and affordable housing in the City reduces
+quality of life for those residents who struggle to provide housing for themselves and their families and
+reduces the City’s diversity as longstanding residents leave for affordable options elsewhere and the pool
+of potential residents becomes more homogeneous. Also contributing to rising housing cost are the loss
+of year round housing options as wealthier individuals acquire homes for seasonal purposes only, and the
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                            PAGE 10
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 14 of 61 Trans ID: LCV20251899801
+
+
+
+
+creation of short term rentals. Affordability in past decades has supported not only racial diversity but
+also economic diversity of the then existing and future residents. Additionally, the availability of lower
+cost housing contributed to the City becoming a magnet for artists that contribute to the City’s vibrant
+arts and culture scene. The lack of affordability threatens this too.
+As originally stated in the 2019 Housing Plan, throughout the City’s history as many as 1,687 affordable
+dwelling units have been created by the Asbury Park Housing Authority, Affordable Housing Alliance
+(“AHA”), Interfaith Neighbors, New Hope Foundation, Coastal Habitat for Humanity, and numerous other
+developers and providers. The creation of units by the City’s Housing Authority and several of the agencies
+active in the City has largely occurred in the southwest quadrant of the City. Although the City is confident
+that these units have served, and many continue to serve a low- and moderate-income population, the
+City is not relying upon those units for purposes of meeting its obligations under the Mount Laurel
+doctrine.
+The City was an active participant in the Regional Contribution Agreements (“RCA”) program. By 2009,
+the City had received $8.8 million from RCAs with Wall City, Freehold City, Middletown City, Millstone
+City, Spring Lake Borough, and Howell City which the City has used to fund a housing rehabilitation
+program operated out of its Community Development Department, which also administers the City’s
+Community Development Block Grant funded programs.
+In response to the 2019 Housing Plan, the City adopted several zoning amendments to incentivize
+inclusionary housing and issued site plan approval to multiple inclusionary developments. Since then, the
+City has taken several other steps to promote affordability and affordable housing, including but not
+limited to adoption of Redevelopment Plans (1012 Asbury Avenue, 1201 Memorial Drive, 1001 First
+Street), implemented a rent leveling program, regulated and limited short term rental housing, adopted
+an accessory apartment ordinance that permits market-rate and affordable apartments, and issued site
+plan approvals for inclusionary developments. The map on page 13 identifies the City’s various zone
+districts and redevelopment plans that permit inclusionary development.
+The City adopted a series of housing goals and objectives in its 2017 Master Plan & Master Plan
+Reexamination Report. These objectives remain relevant and are as follows:
+         5.5.1.2 Balance housing options in the City, including affordable housing for low and
+                 moderate-income households. Encourage the continued development of a variety
+                 of housing ranging from affordable to middle income and market rate units.
+          5.5.1.3 Address substandard housing conditions and the need for housing rehabilitation.
+          5.5.1.5 Encourage and promote greater home ownership opportunities through
+                  increased access to mortgage financing and production of for-sale housing.
+          5.5.1.6 Provide increased access to credit for current homeowners seeking to rehabilitate
+                  housing and first-time homebuyers seeking to purchase a home.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                             PAGE 11
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 15 of 61 Trans ID: LCV20251899801
+
+
+
+
+         5.5.1.7 In conjunction with existing non-profit organizations within the City, address the
+                 need for special needs housing, including the homeless, disabled, persons with
+                 AIDS/HIV and persons with substance abuse problems.
+         5.5.1.8 Fully integrate affordable housing throughout the City both within projects and
+                 geographically throughout Asbury Park.
+         5.5.2.1 Consider middle income housing as a component of affordable housing.
+
+In support of these objectives, the 2017 Master Plan set forth the following recommendations. These, as
+well as the above objectives, guided policies contained herein.
+         5.5.2.2 Identify inclusionary zoning opportunities.
+         5.5.2.3 Incorporate affordable housing into waterfront redevelopment activities.
+         5.5.2.4 Include artist live/work housing in affordable housing policies.
+         5.5.2.5 Plan for housing for the homeless.
+         5.5.2.6 Ensure affordable housing units and projects are consistent with State standards.
+         5.5.2.7 Take action against the loss of existing affordable housing.
+         5.5.2.8 Adopt a housing element and fair share plan.
+         5.5.2.9 Encourage development of affordable housing on vacant and deteriorated lots.
+         5.5.2.10 Collect affordable housing funds and use them wisely.
+In response to Mount Laurel IV, Asbury Park filed a Declaratory Judgment Action on February 20, 2020 to
+have a third round Housing Plan approved by the Court, and also simultaneously filed a motion for
+temporary immunity. The City received immunity as it prepared its third round housing plan. In the
+following months the City sought to not only address its third round affordable housing obligation, but to
+also address the RCA program that outstanding with incomplete and allegedly defective homes. In doing
+so, the City worked with the Asbury Park Housing Authority and Fair Share Housing Center (FSHC) to
+prepare a housing plan.
+The City entered into a Memorandum of Understanding (“MOU”) with the Housing Authority on June 14,
+2023 which set forth redevelopment of the Lincoln Village development and the adjacent and vacant
+Homeplate site in a manner that would address the outstanding RCA program. Additionally, the City
+executed a Settlement Agreement with FSHC on June 14, 2023 the identified the City’s affordable housing
+obligation, the extent of the RCA program that was outstanding, and a preliminary compliance plan. The
+City adopted a Third Round Housing Plan on September 18, 2023 that was consistent with the MOU and
+the Settlement Agreement. An Order approving the Settlement Agreement and the Third Round Housing
+Plan was issued on November 8, 2023 by the Hon. Linda Grass-Jones, J.S.C.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                             PAGE 12
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 16 of 61 Trans ID: LCV20251899801
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                    PAGE 13
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 17 of 61 Trans ID: LCV20251899801
+
+
+
+
+The City adopted a resolution committing to the rehabilitation obligation on January 30, 2025. The City
+accepted the DCA’s rehabilitation obligation, as set forth in Affordable Housing Obligations for 2025-2035
+(Fourth Round) Methodology and Background, released on or about October 18, 2024. The submission
+received no objections. On April 1, 2025, the Hon. Linda Grasso-Jones, J.S.C. issued an order establishing
+the City’s rehabilitation of 214.
+
+
+CONSIDERATION OF LANDS MOST APPROPRIATE FOR AFFORDABLE HOUSING
+As a Qualified Urban Aid municipality, Asbury Park is not required to identify properties for new affordable
+housing developments. Notwithstanding, the City mandates onsite affordable housing throughout the
+City in various zone district, redevelopment plans and via a mandatory set-side ordinance. Given the City’s
+small size, prevalence of walkable neighborhoods, mass transit, and access to jobs and services, nearly all
+of the City is appropriate for affordable homes. Exceptions include lands with contamination that are a
+risk to health and lands with environmental constraints, such as wetlands, that preclude development.
+Asbury Park is a fully built-out, urban municipality where affordable housing has the best chance of being
+created through redevelopment or rezoning with an inclusionary housing set-aside requirement. The City
+has utilized infill development strategies, along with redevelopment and zoning provisions, to promote
+the creation of affordable housing. The City will continue to evaluate redevelopment and infill
+development opportunities for the purpose of affordable housing.
+The City believes that the mechanisms proposed in this document represent the best options for
+addressing its affordable housing requirements. While the City recognizes that developers may, in the
+future, present sites that possess characteristics that could lend themselves to affordable housing
+development, additional sites are not needed to satisfy the obligation at this time. Additionally, the City
+may consider appropriate sites or projects in the future for an inclusionary or 100% affordable housing
+project.
+Additionally, much of the City’s housing stock is appropriate for conversion or rehabilitation for affordable
+housing. Such conversions are most appropriate for City homes that are moderate in size, as opposed to
+those homes that are very significant in size, to enable building and site maintenance costs that are
+proportionate to the household’s income. Additionally, attached and multi-family affordable housing
+developments may be appropriate where opportunities for such development or redevelopment arises
+(in addition to those areas which are already zoned for inclusionary development). The City’s mandatory
+set-aside ordinance will capture such opportunities.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                             PAGE 14
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 18 of 61 Trans ID: LCV20251899801
+
+
+
+
+OPPORTUNITY FOR MULTIGENERATIONAL HOUSING
+The Fair Housing Act requires “an analysis of the extent to which municipal ordinances and other local
+factors advance or detract from the goal of preserving multigenerational family continuity as expressed
+in the recommendations of the Multigenerational Family Housing Continuity Commission”. As of the date
+of this Housing Plan there have been no recommendations by the Multigenerational Family Housing
+Continuity Commission in which to provide an analysis.
+
+
+DEMOGRAPHIC, HOUSING & EMPLOYMENT ANALYSIS
+See Appendix 1 to the Housing Plan for this analysis.
+
+
+AFFORDABLE HOUSING OBLIGATION & SATISFACTION
+Qualified Urban Aid municipalities, such as Asbury Park, must only address the rehabilitation obligation.
+The new construction obligation of the first, second, third and fourth rounds do not apply.
+
+
+Rehabilitation Obligation
+The rehabilitation obligation can be defined as an estimate of the number of deteriorated homes existing
+in Asbury Park that are occupied by low- and moderate-income households from the years 2025 to 2035.
+The Fair Housing Act, N.J.S.A. 52:27D-304.3.b., describes present need as being determined by “estimating
+the existing deficient housing units currently occupied by low- and moderate-income households within
+the municipality, following a methodology comparable to the methodology used to determine third round
+present need, through the use of datasets made available through the federal decennial census and the
+American Community Survey, including the Comprehensive Housing Affordability Strategy dataset
+thereof.” The DCA calculated municipal present need obligations in Affordable Housing Obligations for
+2025-2035 (Fourth Round) Methodology and Background, released on October 18, 2024. This DCA Report
+calculated a rehabilitation obligation of 214 for Asbury Park. This obligation was assigned the Hon. Linda
+Grasso-Jones, J.S.C. via an Order dated April 1, 2025.
+
+
+Satisfaction of the Rehabilitation Obligation
+The City will address its 214-unit obligation through the continuation of its Home Rehabilitation Program,
+which lends up to $25,000 per home for the replacement or repair of a major system, consistent with
+COAH’s rules, and is available to both owner and renter occupied units. All rehabilitated units will comply
+with the definition of a substandard unit in N.J.A.C. 5:93-5.2(b), which states, “a unit with health and
+safety code violations that require the repair or replacement of a major system.” Major systems include
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                           PAGE 15
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 19 of 61 Trans ID: LCV20251899801
+
+
+
+
+weatherization, roofing, plumbing, heating, electricity, sanitary plumbing, lead paint abatement and/or
+load bearing structural systems. All rehabilitated units shall meet the applicable construction code.
+Additionally, all rehabilitated units shall be occupied by low- or moderate-income households and subject
+to 10-year affordability controls, as described above. The average hard cost will be at least $10,000 per
+rehabilitated home. Administration of affordable units, as well as affirmative marketing and affordability
+controls, will meet the applicable standards in the Uniform Housing Affordability Control rules, N.J.A.C.
+5:80-26.1. The program will be operated by the City’s affordable housing administrative agent, CGP&H, at
+the time of this Housing Plan’s adoption.
+
+
+Satisfaction of the RCA Requirement
+Per the 2023 Settlement Agreement with FSHC, the City is required to address the 206 units from the RCA
+program. Those 206 units would have been subjected to 10-year affordability controls, or 2,060 total years
+of controls. To produce at least 2,060 years of total new affordability controls, the City is proposing to
+partner with the Asbury Park Housing Authority for construction of a 100% family rental affordable
+housing development on the “Homeplate site” – located at Block 704, Lots 1, 9, and 10.
+
+
+
+
+ Homeplate Site; March 7, 2023
+
+
+
+The Homeplate Site (Block 704, Lot 1, 9, 10)
+The Homeplate Site is located where Memorial Drive, Springwood Avenue, and Prospect Avenue intersect.
+It is commonly referred to as “Homeplate” because its shape is similar to a Homeplate on a baseball field.
+The northern portion of the site includes the existing 63-unit Lincoln Village affordable housing
+development that is owned and administered by the Asbury Park Housing Authority; the southern portion
+is vacant land. The proposed development will demolish the existing Lincoln Village development and
+replace it with a larger and modern development that also utilizes the vacant land. It is expected that the
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                           PAGE 16
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 20 of 61 Trans ID: LCV20251899801
+
+
+
+
+project will be funded with a variety of sources, including HUD Project Based assistance, Low Income
+Housing Tax Credits, Federal HOME Program, Federal Home Loan Bank, and/or other outside funding
+sources. In addition, and as part of the proposed RCA remedy, the City will contribute a cash and land
+contribution in an amount that equals that amount of funds received for 206 incomplete or allegedly
+imperfected RCA units.
+The development will include approximately 69 new family affordable rental units, and will address,
+remedy, and replace the 206-unit RCA obligation. The RCA obligation of 206 units would have resulted in
+2,060 years of affordability controls. The City is ultimately proposing to address all 2,060 years of
+affordability controls through a minimum of 69 new affordable units with at least 30 years of affordability
+controls (or at least 2,070 years of controls).
+
+
+
+
+  Lincoln Village; March 7, 2023
+
+
+
+The development will occur in two phases. Phase I shall consist of the development of the vacant portion
+of the site with roughly 63 new family affordable units, and may include commercial uses as part of mixed
+use development. Once Phase 1 is completed, existing residents at Lincoln Village will be afforded the
+opportunity to move into the new affordable units – without the need for interim housing elsewhere.
+The Housing Authority has agreed to work with the City on noticing all existing Lincoln Village residents,
+consistent with HUD requirements, and to provide an opportunity for residents’ transition questions to
+be answered. Phase II shall commence immediately following the completion of Phase I and shall consist
+of demolition of the existing Lincoln Village buildings and construction of 69 or more new family affordable
+rental units. A manager’s unit may also be constructed as part of Phase II.
+The City will work with the Housing Authority to deviate from the typical affirmative marketing
+requirements in order to provide “front of the line” or priority access to households that might have been
+adversely affected by the allegedly imperfected RCA units. Affected former rental RCA resident shall have
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                            PAGE 17
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 21 of 61 Trans ID: LCV20251899801
+
+
+
+
+priority for selection as a tenant of Phase II. The City agrees to conduct records searches, including
+searches associated with the addresses of the 136 RCA rental units, to identify potentially aggrieved
+individuals. The identified individuals will be provided notice of housing opportunity but must be eligible
+for affordable housing in order to occupy the development. This priority access will be maintained for four
+years from the Court’s approval of the Agreement.
+The City and Housing Authority are currently working together to develop concept plans for both
+properties that may be used for funding applications.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                           PAGE 18
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 22 of 61 Trans ID: LCV20251899801
+
+
+
+
+As demonstrated below, the property affordable housing pursuant to N.J.A.C. 5:97-3.13, as follows:
+    §    “Available site” means a site with clear title, free of encumbrances which preclude development
+         for low and moderate income housing.
+         The site has a clear title and is free of encumbrances which preclude development of affordable
+         housing. The site has a clear title and no legal encumbrances which would preclude its
+         development as an affordable housing project. The City and Housing Authority represent that the
+         site is available for construction of additional affordable housing, once Phase I is completed.
+    §    “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate
+         streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+         The site is adjacent to compatible land uses, has access to appropriate streets, and is in close
+         proximity to the Asbury Park train station. Additionally, is it with walking and biking distance to a
+         variety of shops and services located in the City’s Central Business District, along Main Street and
+         in the Waterfront. The site has more than 180 feet of frontage on Springwood Avenue, over 400
+         feet on Asbury Park Avenue, and over 200 feet on Prospect Avenue. To the north, between the
+         site and Cookman Avenue, are single family homes. To the east, across Memorial Drive, is a
+         commercial development with primarily restaurant uses. To the south, across Springwood Avenue
+         is an affordable residential development known as Boston Way. Across Prospect Avenue and
+         Langford Street, is a mix of multifamily residential development and churches.
+    §    “Developable site” means a site that has access to appropriate water and sewer infrastructure,
+         and is consistent with the applicable areawide water quality management plan (including the
+         wastewater management plan) or is included in an amendment to the areawide water quality
+         management plan submitted to and under review by DEP.
+         The site is located within the public sewer service and water area.
+    §    “Approvable site” means a site that may be developed for low and moderate income housing in a
+         manner consistent with the rules or regulations of all agencies with jurisdiction over the site. A site
+         may be approvable although not currently zoned for low and moderate income housing.
+         The site can be developed in accordance with R.S.I.S. Development of the site will be consistent
+         with the Residential Site Improvement Standards, N.J.A.C. 5:21-1 et seq. There are no
+         environmental or historic constraints associated with the site.
+    §    In addition to determining whether the sites and proposed development are suitable pursuant to
+         the above definitions, COAH’s rules, in N.J.A.C. 5:97-3.13, provide guidance as to where in the state
+         inclusionary housing in encouraged. COAH’s rules rely on the 2001 State Development and
+         Redevelopment Plan (SDRP) for this guidance and state Planning Areas 1, 2, and Centers are the
+         preferred location to address municipal affordable housing obligations.
+
+         Pursuant to the adopted State Development and Redevelopment Plan (hereinafter the “State
+         Plan”), the site is located in the Metropolitan Planning Area, PA-1. As such, the site is located in a
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                PAGE 19
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 23 of 61 Trans ID: LCV20251899801
+
+
+
+
+         “Smart Growth Planning Area”, which is where affordable housing is encouraged (N.J.A.C. 5:93-
+         5.4.(a))
+In addition to site suitability, Phase II will meet the applicable requirements for inclusionary projects in
+the substantive rules, as well as the Uniform Housing Affordability Control rules (UHAC) (N.J.A.C. 5:80-
+26.1 et seq.). Phase I will meet the applicable HUD requirements and will include a continued preference
+for tenants earning below 30% of median income. See below for additional information.
+§   Administrative Entity. The Asbury Park Housing Authority or the selected developer will serve as the
+    administrative agent.
+§   Low/Moderate Income Split. The site shall comply with the required split of low and moderate income
+    units, which includes not less than 50% of the units being reserved for low income households and at
+    least 13% of the units being reserved for very low income households. Additionally, at least 25% of
+    the affordable units in each bedroom distribution shall be reserved for very low income households.
+    If the actual number of affordable units constructed is an odd number, the units will always be split
+    in favor of the low-income unit share per N.J.A.C. 5:93-7.2 and the UHAC at N.J.A.C. 5:80-26.
+§   Affirmative Marketing. After the four-year period in which individuals aggrieved by the improperly
+    administered RCA program are given priority access (as described above), the affordable units will be
+    affirmatively marketed in accordance with COAH’s rules at N.J.A.C. 5:93 et seq. and N.J.A.C. 5:80-26.
+§   Controls on Affordability. The affordable units will have minimum 30-year affordability controls in
+    accordance with COAH’s rules and UHAC regulations.
+§   Bedroom Distribution. The development will meet the UHAC requirements regarding bedroom
+    distribution of affordable units.
+
+
+CONSISTENCY WITH THE STATE DEVELOPMENT AND REDEVELOPMENT PLAN
+The City is in Planning Area 1, the Metropolitan Planning Area. Development and redevelopment with
+affordable housing in this Planning Area is consistent with the goals and policies of the 2001 State
+Development and Redevelopment Plan. In fact, Planning Area 1 is a preferred location for affordable
+housing pursuant to N.J.A.C. 5:93-5.4. and the City has demonstrated its commitment to the provision of
+affordable housing in a dramatic fashion
+
+
+AFFORDABLE HOUSING ADMINISTRATION & AFFIRMATIVE MARKETING
+Asbury Park City’s Affordable Housing Ordinance and affirmative marketing plan is in part, but will be
+further amended to be, consistent with the Fair Housing Act , the Uniform Housing Affordability Control
+Rules, N.J.A.C. 5:80-26.1 et seq., and the Division of Local Planning Services Fair Housing Act Rules, N.J.A.C.
+5:99. As of the adoption of this Housing Plan, the latter two are in the process of being amended.
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                               PAGE 20
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 24 of 61 Trans ID: LCV20251899801
+
+
+
+
+The City’s Affordable Housing Ordinance, Chapter 31 of the City Code governs the establishment of
+affordable homes in the City as well as regulating the occupancy of such homes. The City’s Affordable
+Housing Ordinance addresses the phasing of affordable homes, the low/moderate income split, bedroom
+distribution, occupancy standards, affordability controls, establishing rents and prices, affirmative
+marketing, income qualification, etc. All newly created affordable homes, with limited exceptions, will
+comply with the affordability control period of 30 years for sale homes or 40 years for rental homes, as
+required by the Fair Housing Act and the Uniform Housing Affordability Control Rules.
+The City created the position of the Municipal Housing Liaison and appointed a staff member to the
+position. The consultant affordable housing administrator overseeing any affordable housing
+development will conduct the administration and affirmative marketing of the applicable affordable
+housing sites. The affirmative marketing plan will be designed to attract buyers and/or renters of all
+majority and minority groups, regardless of race, creed, color, national origin, ancestry, marital or familial
+status, gender, affectional or sexual orientation, disability, age or number of children to the affordable
+homes located in the City. Additionally, the affirmative marketing plan is intended to target those
+potentially eligible persons who are least likely to apply for affordable homes and who reside in the City’s
+housing region, Region 4 consisting of Mercer, Monmouth and Ocean Counties.
+The affirmative marketing plan provides regulations for qualification of income eligibility, price and rent
+restrictions, bedroom distribution, affordability control periods, and marketing in accordance with
+N.J.A.C. 5:80-26.1 et seq. This plan must be adhered to by all private, non-profit, and municipal developers
+of affordable housing and must cover the period of deed restriction or affordability controls on each
+affordable home.
+
+
+AFFORDABLE HOUSING TRUST FUND
+A development fee ordinance creating a dedicated revenue source for affordable housing was adopted in
+December 2018 and was approved by Superior Court as part of the City’s Third Round Judgment of
+Compliance and Repose. The ordinance, which is Section 2-88 of the City Code creates a dedicated
+revenue source for affordable housing in the form of residential and nonresidential development fees and
+establishes and regulates the affordable housing trust fund. The ordinance requires residential
+development fees in the amount of 1.5% of the equalized assessed value of the residential development
+and nonresidential development fees in the amount of 2.5% of the equalized assessed value of the
+nonresidential development.
+The City’s Spending Plan discusses anticipated revenues, collection of revenues, and the use of revenues.
+It also addresses allocation of funding to the Homeplate development, consistent with the Settlement
+Agreement with FSHC and the MOU with the Asbury Park Housing Authority. Collected revenues are
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                              PAGE 21
+ADOPTED JUNE 30, 2025
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 25 of 61 Trans ID: LCV20251899801
+
+
+
+
+placed in the City’s Affordable Housing Trust fund and may dispensed for the use of eligible affordable
+housing activities including, but not limited to:
+    §    Rehabilitation program activities.
+    §    New construction of affordable homes and related development costs.
+    §    Extension of expiring affordability controls.
+    §    Purchase market rate homes for conversion to affordable homes.
+    §    Extensions or improvements of roads and infrastructure directly serving affordable housing
+         development sites.
+    §    Acquisition and/or improvement of land to be used for affordable housing.
+    §    Maintenance and repair of affordable homes.
+    §    Repayment of municipal bonds issued to finance low- and moderate-income housing activity.
+    §    Any other activity as specified in the approved spending plan.
+As required by the Fair Housing Act, the City will expend a portion of its collected development fees on
+affordability assistance to enhance affordability of affordable homes. Additionally, no more than 20% of
+the revenues collected from development fees each year, shall be expended on administration, including,
+but not limited to, salaries and benefits for municipal employees or consultant fees necessary to prepare
+or implement a rehabilitation program, a new construction program, a housing element and fair share
+plan, and/or an affirmative marketing program.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                         PAGE 22
+ADOPTED JUNE 30, 2025
+  MON-L-000419-25 06/30/2025 8:03:23 PM Pg 26 of 61 Trans ID: LCV20251899801
+
+
+
+
+APPENDIX 1.
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+2025 FOURTH ROUND HOUSING PLAN
+HOUSING ELEMENT & FAIR SHARE PLAN
+CITY OF ASBURY PARK
+MONMOUTH COUNTY
+NEW JERSEY
+      MON-L-000419-25 06/30/2025 8:03:23 PM Pg 27 of 61 Trans ID: LCV20251899801
+
+
+
+
+                                                          TABLE OF CONTENTS
+
+Table 1: Population Trends (1920-2020) ...................................................................................................... 3
+Table 2: Population by Age and Sex ............................................................................................................. 4
+Table 3: Population Change by Age, 2013 to 2023....................................................................................... 5
+Table 4: Household Size ............................................................................................................................... 5
+Table 5: Change, Household Size, 2013 to 2023 .......................................................................................... 6
+Table 6: Household and Family Types .......................................................................................................... 7
+Table 7: Educational Attainment .................................................................................................................. 7
+Table 8: Change, Educational Attainment, 2013 to 2023 ............................................................................. 8
+Table 9: Household Income .......................................................................................................................... 8
+Table 10: Change, Household Income, 2013 to 2023 ................................................................................... 9
+Table 11: Race and Ethnicity ........................................................................................................................ 9
+Table 12: Change, Race and Ethnicity, 2013 to 2023 ................................................................................. 10
+Table 13: Poverty Rate ............................................................................................................................... 11
+Table 14: Unemployment Rate.................................................................................................................. 12
+Table 15: Class of Worker ........................................................................................................................... 12
+Table 16: Occupation ................................................................................................................................. 13
+Table 17: Industry....................................................................................................................................... 13
+Table 18: Quarterly Census of Employment and Wages, 2023 .................................................................. 15
+Table 19: Means of Transport to Work ...................................................................................................... 16
+Table 20: Travel Time to Work ................................................................................................................... 16
+Table 21: Total Vehicles Available .............................................................................................................. 17
+Table 22: Tenure ........................................................................................................................................ 17
+Table 23: Occupancy Status ....................................................................................................................... 18
+Table 24: Change, Tenure and Occupancy, 2013 to 2023 .......................................................................... 18
+Table 25: Vacancy Status ............................................................................................................................ 19
+Table 26: Units in Structure ........................................................................................................................ 19
+Table 27: Units in Structure by Tenure....................................................................................................... 20
+Table 28: Year Structure Built..................................................................................................................... 21
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+      MON-L-000419-25 06/30/2025 8:03:23 PM Pg 28 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 29: Number of Bedrooms, Housing Stock......................................................................................... 21
+Table 30: Total Rooms Per Housing Unit .................................................................................................... 22
+Table 31: Housing Quality Indicators.......................................................................................................... 22
+Table 32: Year Moved In............................................................................................................................. 23
+Table 33: Mortgage Status ......................................................................................................................... 24
+Table 34: Home Values ............................................................................................................................... 24
+Table 35: Home Sales ................................................................................................................................. 25
+Table 36: Residential Tax Assessments ...................................................................................................... 25
+Table 37: Burden of Housing Costs, All Households ................................................................................... 26
+Table 38: Burden of Housing Costs, Owner-Occupied Housing ................................................................. 26
+Table 41: Burden of Housing Costs, Renter-Occupied Housing ................................................................. 28
+Table 42: Gross Rent .................................................................................................................................. 28
+Table 43: Change, Gross Rent, 2013 to 2023 ............................................................................................. 29
+Table 44: Housing Permits Issued Annually by Type, 2004-2023 ............................................................... 29
+Table 45: Share of Housing Permits Issued by Type, 2004-2023 ................................................................ 30
+Table 46: Certificates of Occupancy, 2014-2023 ........................................................................................ 31
+Table 47: Demolition Permits, 2013-2023.................................................................................................. 32
+Table 48: Nonresidential Construction, 2004-2023 ................................................................................... 33
+Table 49: Long-term Population, Household and Employment Forecasts ................................................. 35
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 29 of 61 Trans ID: LCV20251899801
+
+
+
+
+DEMOGRAPHIC ANALYSIS
+Most of Asbury Park’s population growth occurred between 1890 and 1920, an era when urban form in
+the United States reached its peak, and when Asbury Park became a popular seaside destination. By 1920,
+the city had 13,400 residents, according to the US Census (Figure 1). Aside from the years during the Great
+Depression, the population continued to rise steadily through the first half of the twentieth century. By
+the 1950s, the construction of high-speed, limited access expressways like the Garden State Parkway
+exposed the entertainment and recreational businesses to competition from elsewhere and opened
+sparsely populated places up to housing development, allowing people to leave places long built up.
+Consequently, the population of the city stagnated in the middle of the twentieth century, reaching its
+zenith in 1960, when 17,366 persons lived in Asbury Park. The population has declined for the most part
+in the decades since. Population loss was particularly bad during the 1960s, when the number of residents
+fell by 4.8%. The population also declined during the 1980s and 2000s.
+
+Remarkably, though, the decade when Asbury Park’s population declined the most was the 2010s. Unlike
+the story of previous decades, when population decline followed a familiar Rust Belt pattern of urban
+decay and struggling neighborhood economies, Asbury Park became a trendy destination, with an influx
+of new residents. The arrival of these residents was accompanied by the departure of established
+residents. The seismic changes the city has seen since 2010 is the story of this report.
+
+It should be noted that, while the total population data in Table 1 is drawn from the Decennial U.S. Census
+survey, all subsequent Census Bureau data was obtained from the 2019-2023 American Community
+Survey (ACS), a 5-year estimate of results from annual surveys that are averaged together.
+
+Table 1: Population Trends (1920-2020)
+                         Asbury Park                 Monmouth County                     New Jersey
+
+   Year                             % Change,                    % Change,                       % Change,
+                  Total                            Total                            Total
+                                    Decade-on-                   Decade-on-                      Decade-on-
+                Population                       Population                       Population
+                                     Decade                       Decade                          Decade
+   1920           13,400                  --      104,925              --         3,155,900            --
+   1930           14,981               11.8%      147,209           40.3%         4,041,334         28.1%
+   1940           14,617               -2.4%      161,238            9.5%         4,160,165          2.9%
+   1950           17,094               16.9%      225,327           39.7%         4,835,329         16.2%
+   1960           17,366                1.6%      334,401           48.4%         6,066,782         25.5%
+   1970           16,533               -4.8%      459,379           37.4%         7,171,112         18.2%
+   1980           17,015                2.9%      503,173            9.5%         7,365,011          2.7%
+   1990           16,799               -1.3%      553,124            9.9%         7,730,188          5.0%
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                              PAGE 3
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 30 of 61 Trans ID: LCV20251899801
+
+
+
+
+                         Asbury Park                           Monmouth County                     New Jersey
+
+   Year                             % Change,                               % Change,                          % Change,
+                  Total                                   Total                                Total
+                                    Decade-on-                              Decade-on-                         Decade-on-
+                Population                              Population                           Population
+                                     Decade                                  Decade                             Decade
+   2000           16,930                0.8%              615,301             11.2%          8,414,350           8.9%
+   2010           16,116               -4.8%              630,380              2.5%          8,791,894           4.5%
+   2020           15,188               -5.8%              643,615              2.1%          9,288,944           5.7%
+        Source: Census Bureau, Decennial Census; NJ State Data Center, NJ Dept. of Labor and Workforce Development
+
+According to the most recent data 5-Year ACS data, which includes 2023, Asbury Park has a population of
+15,239 persons. Table 2 provides added detail on the composition of the population by age and sex.
+Women are marginally more numerous, tallying 51.2% of the population, with men accounting for the
+remaining 48.9%. Overall, the median age of the population is 38.3, younger than the median typically
+reported for suburbs. The most numerous age groups are those of 20 to 34 years of age and 35 to 54 years
+of age. These cohort include persons currently of prime child-bearing and/or parenting age. As such, one
+might expect a large number of children to live in the community as well. This is not borne out by the data.
+Children under the age of 5 make up only 3.4% of the population while persons between 5 and 19 years
+of age account for another 13.4%.
+
+Table 2: Population by Age and Sex
+                                Total Population                            Male                       Female
+          Age Group                                 % of                          % of                       % of
+                                    Number                        Number                      Number
+                                                 Population                    Population                 Population
+ Under 5 years old                     525              3.4%         227              3.1%      298              3.8%
+ 5 to 19 years of age                 2,048            13.4%        1,044            14.0%     1,004            12.9%
+ 20 to 34 years of age                4,189            27.5%        2,376            31.9%     1,813            23.2%
+ 35 to 54 years of age                4,546            29.8%        2,073            27.9%     2,473            31.7%
+ 55 to 64 years of age                2,074            13.6%        1,002            13.5%     1,072            13.7%
+ 65+ years of age                     1,857            12.2%         719              9.7%     1,138            14.6%
+ Total                               15,239           100.0%        7,441           100.0%     7,798           100.0%
+ Median age                                    38.3                          35.8                       41.0
+                                               Source: Census Bureau, 2019-2023 5-Year American Community Survey
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                           PAGE 4
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 31 of 61 Trans ID: LCV20251899801
+
+
+
+
+The number of children in Asbury Park has indeed plunged over the last ten years (Table 3). Since 2013,
+the population of children under 5 years of age has dropped by 970 persons, a decline of 64.9%. The
+population of persons 5 to 19 years of age has also fallen, though not as precipitously, by 836 persons, a
+decline of 836 persons. Simultaneously, the adult population swelled somewhat, particularly those 55
+years of age and older. The cohort of persons between 55 and 64 years of age grew by 27.1% while the
+65-and-over population rose by 13.6%. During the decade, the median age of the community climbed
+from 32.8 to 38.3 years of age. Together, the data suggest the departure of families, replaced with
+households without any children.
+
+Table 3: Population Change by Age, 2013 to 2023
+                                                                                        Change, 2013 to
+                                             2013                     2023
+                                                                                             2023
+         Age Group
+                                                %, Total                  %, Total      Total           %
+                                   2013                       2023
+                                               Population                Population    Change         Change
+ Under 5 years old                1,495            9.3%        525          3.4%        -970          -64.9%
+ 5 to 19 years of age             2,884           18.0%       2,048        13.4%        -836          -29.0%
+ 20 to 34 years of age            4,034           25.2%       4,189        27.5%         155            3.8%
+ 35 to 54 years of age            4,321           27.0%       4,546        29.8%         225            5.2%
+ 55 to 64 years of age            1,632           10.2%       2,074        13.6%         442           27.1%
+ 65+ years of age                 1,634           10.2%       1,857        12.2%         223           13.6%
+ Total                            16,000         100.0%      15,239       100.0%        -761           -4.8%
+ Median Age                                  32.8                     38.3                      5.5
+                                              Source: 2009-2013, 2019-2023 5-Year American Community Survey
+
+Small households of one or two persons constitute an overwhelming majority of Asbury Park’s 7,668
+households. In terms of specific numbers, 47.4% of households comprise a single person while 32.4% of
+households consist of 2 people (Table 4). This is outside the norm for the state where 1- and 2-person
+households account for only 57.5% of all households. The reverse is true as well, with larger households
+seen more in the broader state more frequently than they are in the city. While 3- and 4-person
+households comprise 17.1% and 15.3% of households in New Jersey, respectively, they provide only 9.1%
+and 6.1% of all households in Asbury Park. Households of 5 persons or more account for only 5% of the
+community’s households.
+
+Table 4: Household Size
+         Household Size                      Asbury Park       Monmouth County           New Jersey
+                                         Total        %          Total        %         Total          %
+ 1-person                               3,637       47.4%       66,589       26.6%     918,897        26.4%
+ 2-person                               2,486       32.4%       81,289       32.5%    1,081,842       31.1%
+ 3-person                                699         9.1%       40,929       16.4%     594,946        17.1%
+ 4-person                                470         6.1%       39,131       15.6%     530,520        15.3%
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                       PAGE 5
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 32 of 61 Trans ID: LCV20251899801
+
+
+
+
+          Household Size                     Asbury Park      Monmouth County           New Jersey
+
+                                         Total        %        Total        %         Total        %
+ 5-person                                181          2.4%     15,144      6.1%      218,492    6.3%
+ 6-person                                106          1.4%      4,654      1.9%       79,678    2.3%
+ 7-person Household or more              89           1.2%      2,459      1.0%       53,980    1.6%
+ Total Households                       7,668       100.0%    250,195 100.0%        3,478,355 100.0%
+ Average Household Size                          1.96                 2.55                 2.61
+                                                      Source: 2019-2023 5-Year American Community Survey
+
+Significantly, the number of households in the city has risen sharply since 2013, from 6,633 to 7,668 (Table
+5). Simultaneously, the average household size slid from 2.37 to 1.96 persons. Despite, spike in the
+number of households, the size of those households shrank to such an extent that population declined
+over this period. Previously, the composition of the city’s households hewed more closely to that of the
+Garden State as a whole, with 9.8% of households consisting of 5 persons or more. A decade later, only
+5% of Asbury Park households were of that size. The share of 3- and 4-person households has also declined
+during the last decade. Needless to say, the decline in household sizes, and corresponding increase in total
+households, will put pressure on the housing stock if these trends persist.
+
+Table 5: Change, Household Size, 2013 to 2023
+
+         Household Size                  2013         2023
+
+ 1-person household                     42.2%        47.4%
+ 2-person household                     25.9%        32.4%
+ 3-person household                     13.5%         9.1%
+ 4-person household                      8.7%         6.1%
+ 5-person household                      4.6%         2.4%
+ 6-person household                      2.4%         1.4%
+ 7-person household                      2.8%         1.2%
+ Total Households                        6,633       7,668
+ Avg Household Size                      2.37         1.96
+                    Source: 2009-2013, 2019-2023 5-Year ACS
+
+The displacement of families suggested by the age and household size data is borne out by ACS data on
+families and household types. At present, families represent a minority of households, or 39.1%. That is,
+nonfamily households total 60.9% of households (Table 6). While families on average consist of 2.94
+persons, the average household only has 1.96 persons. Children are seen in lower numbers as only 16.4%
+of households include a person under the age of 18. At the same time, only 12.8% of persons include a
+person over the age of 65, but this may change as the persons who’ve arrived relatively recently tend to
+be older.
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                   PAGE 6
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 33 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 6: Household and Family Types
+                                                              % of
+                      Household Type
+                                                           Households
+
+ Total family households                                      39.1%
+ Total nonfamily households                                   60.9%
+ Avg family size                                               2.94
+ Total households with at least one person under 18           16.4%
+ Total households with at least one person age 65+            12.8%
+                                              Source: 2019-2023 5-Year ACS
+
+The residents of Asbury Park have generally high levels of schooling (Table 7). To be exact, 44.3% of
+residents age 25 and older possess at least a bachelor’s degree while 17.6% have a graduate or
+professional degree. For both variables, the population in the city higher rates for both variables than New
+Jerseyans overall. Compared to Monmouth County overall, though, the city has lower levels of degree
+attainment. Still, only 9.6% of residents do not have a high school diploma or an equivalent like a G.E.D.
+
+Table 7: Educational Attainment
+                                                                  Monmouth
+            Highest level of education             Asbury Park                    New Jersey
+                                                                   County
+
+ Less than 9th grade                                   2.3%            2.5%           4.6%
+ 9th to 12th grade, no diploma                         7.3%            3.4%           4.7%
+ High school graduate (includes equivalency)          24.9%           21.4%          25.7%
+ Some college, no degree                              15.6%           15.0%          15.3%
+ Associate's degree                                    5.4%            7.2%           6.7%
+ Bachelor's degree                                    26.8%           30.9%          25.8%
+ Graduate or professional degree                      17.6%           19.7%          17.1%
+ High school graduate or higher                       90.3%           94.2%          90.7%
+ Bachelor's degree or higher                          44.4%           50.6%          42.9%
+                                                                  Source: 2019-2023 5-Year ACS
+
+In this respect, the rate at which demographic change has occurred has been swift as well (Table 8). As
+recently as 2013, only 17.9% of the population had a bachelor’s degree or higher, well below the national
+and state average. By 2023, the figure in Asbury Park was above the state average and easily surpassed
+the national average of 36.2%.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                               PAGE 7
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 34 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 8: Change, Educational Attainment, 2013 to 2023
+            Highest Level of Education                     2013        2023
+
+ Less than 9th grade                                        8.3%        2.3%
+ 9th to 12th grade, no diploma                             13.5%        7.3%
+ High school graduate (includes equivalency)               35.6%       24.9%
+ Some college, no degree                                   18.8%       15.6%
+ Associate's degree                                         5.8%        5.4%
+ Bachelor's degree                                         11.6%       26.8%
+ Graduate or professional degree                            6.4%       17.6%
+ Percent high school graduate or higher                    78.2%       90.3%
+ Percent bachelor's degree or higher                       17.9%       44.4%
+                                       Source: 2009-2013, 2019-2023 5-Year ACS
+
+Educational attainment has a strong relationship with income and this is very much in evidence in the
+demographic change occurring in Asbury Park. The median household income, $71,080, falls short of the
+county as well as the state median (Table 9). The mean household income, $104,048, indicates that the
+city has a sizable number of upper-income households that skew the municipal average higher. This is,
+indeed, confirmed by looking at the distribution of households across income levels. Approximately 13.0%
+of households have an income in excess of $200,000. Another 27.0% have an income of at least $100,000.
+Hence, 40.0% of Asbury Park households have an income greater than $100,000, which is significantly less
+than the 58.8% in Monmouth County, but not inordinately so. There are also a significant number of
+households who live within much more limited means. Of all households, 21.4% have an income under
+$25,000, a severe constraint for a state like New Jersey where housing is so expensive. A further 18.1%
+have an income between $25,000 and $50,000. The combined 39.5% of households with an income of
+less than $50,000 is significantly greater than the comparable figures for Monmouth County and New
+Jersey, 21.0% and 25.2%. Clearly, Asbury Park is a city with a stark economic divide.
+
+Table 9: Household Income
+
+                                                           Monmouth
+        Household Income                     Asbury Park                  New Jersey
+                                                            County
+
+ Less than $25,000                             21.4%          9.7%          11.9%
+ $25,000-$49,999                               18.1%         11.3%          13.3%
+ $50,000-$99,999                               20.6%         20.3%          24.3%
+ $100,000-$199,999                             27.0%         31.2%          29.7%
+ More than $200,000                            13.0%         27.7%          20.7%
+ Median Household Income                       71,080       $122,727       $101,050
+ Mean Household Income                        104,048       $168,016       $140,299
+                                                            Source: 2019-2023 5-Year ACS
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                           PAGE 8
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 35 of 61 Trans ID: LCV20251899801
+
+
+
+
+Historical ACS data makes clear that higher-income households are supplanting those with lower incomes
+(Table 10). In 2013, the median income, $30,983, was less than half what it was in 2023. Back then, only
+12.2% of households had an income greater than $100,000, which is less than one-third the percentage
+of a decade later. At the other extreme, 43.6% had an income under $25,000, a level of very straitened
+circumstances. The profound nature of the community change, with the departure of lower-income
+households and the arrival of those with higher incomes, can be labeled gentrification.
+
+Table 10: Change, Household Income, 2013 to 2023
+                                                % of        % of
+         Household Income                    Households, Households,
+                                                2013        2023
+ Under $25,000                                 43.6%        21.4%
+ $25,000 to $49,000                            25.6%        18.1%
+ $50,000 to $74,999                            12.5%        11.3%
+ $75,000 to $99,999                            6.1%          9.3%
+ $100,000 to $149,999                          6.1%         15.4%
+ $150,000 to $199,999                          2.6%         11.6%
+ $200,000 or more                              3.5%         13.0%
+ Total Households                              6,633        7,668
+ Median Household Income                      $30,983      $71,080
+                               Source: 2009-2013, 2019-2023 5-Year ACS
+
+In terms of race and ethnicity, Asbury Park remains a diverse community, at least in terms of citywide
+statistics. Historically, Asbury Park has had a large Black population. According to the Census Bureau,
+though, only 29.0% of the populace is Black (Table 11). This is still much larger than the Monmouth County
+figure, 5.9%, and more than twice the statewide percentage. White residents account for 46.5% of the
+population, a plurality, of which 41% is not Hispanic. Still, this is a smaller than the share within the larger
+state and particularly within Monmouth County, where 76.1% of residents are white. Approximately one
+in four residents are Hispanic, a significant proportion and somewhat higher than the ratio statewide.
+Only 1.9% of persons living in Asbury Park are Asian, about one-fifth of the split statewide. Lastly, persons
+of two or more races compose 9.4% of the population.
+
+Table 11: Race and Ethnicity
+
+                                                        Monmouth
+         Race and Ethnicity              Asbury Park                     New Jersey
+                                                         County
+
+ Non-Hispanic                                 75.3%       87.3%            78.1%
+    White                                     41.0%       72.1%            51.9%
+    Black                                     27.9%        5.9%            12.3%
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                   PAGE 9
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 36 of 61 Trans ID: LCV20251899801
+
+
+
+
+                                                       Monmouth
+         Race and Ethnicity              Asbury Park                  New Jersey
+                                                        County
+
+   Asian                                      1.9%         5.3%           9.8%
+   Other Race Alone                           0.5%         0.8%           0.8%
+   Two or more Races                          4.0%         3.3%           3.2%
+ Hispanic (All Races)                        24.7%        12.7%          21.9%
+   Hispanic, White                            5.5%         4.0%           5.0%
+   Hispanic, Black                            1.1%         0.3%           0.7%
+   Hispanic, Other                           12.8%         4.0%           8.9%
+   Hispanic, Two or More Races                5.4%         4.3%           7.4%
+                                                       Source: 2019-2023 5-Year ACS
+
+The proportion of the various ethnic groups within the population of the city has changed substantially
+since 2013. During that time, the percentage of Black residents plunged by 38.9. Hispanics, too, dwindled
+in number, falling by 27.3% (Table 12). Meanwhile, the share of non-Hispanic whites doubled to 41.0%
+over the same span. Though the number of Hispanic whites has fallen, the total number of whites in
+Asbury Park still rose by an appreciable amount. If the current trajectory continues, non-Hispanic whites
+will soon represent a majority of Asbury Park’s population.
+
+Table 12: Change, Race and Ethnicity, 2013 to 2023
+                                                                        % Change,
+    Race and Ethnicity                 2013               2023            Total
+                                                                        Population
+ Not Hispanic                          67.6%             75.3%                 6.0%
+   White                               20.8%             41.0%                87.6%
+   Black                               43.6%             27.9%               -38.9%
+   Asian                                0.4%              1.9%               364.5%
+   Other race, alone                    0.6%              0.5%               -13.6%
+   Multiple Races                       2.3%              4.0%                61.8%
+ Hispanic                              32.4%             24.7%               -27.3%
+   White                               15.5%              5.5%               -66.2%
+   Black                                6.2%              1.1%               -82.9%
+   Asian                                0.9%              0.0%              -100.0%
+   Other race, alone                    6.6%             12.8%                82.8%
+   Multiple Races                       3.3%              5.4%                57.3%
+ Total by Race
+   White                               36.3%             46.5%                22.0%
+   Black                               49.7%             29.0%               -44.3%
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                            PAGE 10
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 37 of 61 Trans ID: LCV20251899801
+
+
+
+
+                                                                           % Change,
+    Race and Ethnicity                 2013                 2023             Total
+                                                                           Population
+    Asian                              1.2%                  1.9%               45.5%
+    Other race, alone                  7.2%                 13.2%               75.4%
+    Multiple Races                     5.6%                  9.4%               59.2%
+                                                Source: 2009-2013, 2019-2023 5-Year ACS
+
+
+
+
+SOCIOECONOMIC ANALYSIS
+Poverty remains a major issue in Asbury Park. Overall, 18.8% of the population lives in poverty, according
+to the Census (Table 13). This is almost twice the poverty rate in New Jersey as whole, 9.8%. The child
+poverty rate, 29%, is even more grievous. This is more than twice the statewide rate, 13.3%, and more
+than four times the rate for Monmouth County, 7.1%. As for another vulnerable, seniors, the poverty rate
+in the municipality is 17.7%.
+
+Table 13: Poverty Rate
+                                                             Monmouth
+                Indicator                     Asbury Park                   New Jersey
+                                                              County
+ Poverty Rate, Overall                          18.8%           6.4%            9.8%
+ Poverty Rate, Under 18 years old               29.0%           7.1%           13.3%
+ Poverty Rate, Seniors                          17.7%           7.0%            9.5%
+                                                            Source: 2019-2023 5-Year ACS
+
+Unemployment in Asbury Park remains elevated relative to Monmouth County and the state (Table 14).
+More than a decade ago, the city’s unemployment rate reflected the struggling economy it had until very
+recently. In 2013, unemployment in the city stood at 11.5%, similar to the level of joblessness in Trenton
+and Newark. The rate steadily ticked down throughout the 2010s, hitting 4.9% in 2019. The decrease can
+be attributed in part to the changing composition of the labor force, given the influx of highly educated
+workers with better employment prospects. Even so, unemployment in Asbury Park still hovers above the
+rate for the city and state. In 2023, the most recent year of data, unemployment hit 5.6%, exceeding the
+3.8% for Monmouth County and the 4.4% for the Garden State. That said, unemployment has remained
+within the range of 5.0 and 6.0% since 2021, a far better rate than the city had as recently as the early
+2010s.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                             PAGE 11
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 38 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 14: Unemployment Rate
+                                Monmouth
+   Year       Asbury Park                        New Jersey
+                                 County
+     2013            11.5%               7.7%          8.4%
+     2014             9.7%               6.1%          6.7%
+     2015             7.8%               5.1%          5.7%
+     2016             6.4%               4.4%          4.9%
+     2017             6.2%               4.0%          4.5%
+     2018             5.5%               3.5%          4.0%
+     2019             4.9%               3.1%          3.5%
+     2020            11.8%               8.5%          9.4%
+     2021             5.1%               5.9%          6.7%
+     2022             5.0%               3.5%          3.9%
+     2023             5.6%               3.8%          4.4%
+      Source: NJ Dept. of Labor and Workforce Development
+
+The city’s labor force includes an above average percentage of not-for-profit employees, 8.7% (Table 15).
+This is higher than the share for the county and state. In contrast, almost two-thirds of workers, 66.0%,
+work for a for-profit company. This, in turn, is lower than the comparable figures for the county and state.
+Examining the labor force further, 11.3% of the working population is self-employed, either as a business
+owner or a contractor. In New Jersey, by contrast, 9.0% of New Jersey workers are self-employed. Given
+the relatively high share of self-employed workers suggests the presence of entrepreneurs and workers
+with specialized talent who can work for themselves.
+
+Table 55: Class of Worker
+                                                              Monmouth
+             Class of Worker                    Asbury Park                  New Jersey
+                                                               County
+
+ For-profit company employee                         66.0%          68.6%          69.2%
+ Not-for-profit employee                              8.7%           6.6%           7.6%
+ Government Worker                                   14.1%          14.6%          14.2%
+ Self-employed, business owner                        5.0%           5.0%           3.9%
+ Self-employed, contractor                            6.3%           5.3%           5.1%
+                                                              Source: 2019-2023 5-Year ACS
+
+Occupation data, which detail the kind of work an employee does for their employer, suggest that a sizable
+number of blue-collar workers still reside in the city (Table 16). According to the Census Bureau, Asbury
+Park has a lower percentage of persons working in management, business, science, and arts positions, a
+category that generally represents roles that require more specialized knowledge and skills, than the
+broader state and county. The employed population also includes fewer sales and office workers
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                               PAGE 12
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 39 of 61 Trans ID: LCV20251899801
+
+
+
+
+compared with the state and county. Persons working in more blue-collar occupations like service jobs
+and construction are present in greater numbers. Of Asbury’s employed workers, 22.1% work in service
+jobs while 8.8% work in natural, construction, and maintenance jobs, rates that eclipse the equivalent
+county- and statewide rates. Moreover, 10% of the employed population work in production,
+transportation, and material moving positions, which, while lower than the percentage statewide, is still
+appreciably higher than the countywide percentage.
+
+Table 66: Occupation
+                                                                             Monmouth
+                         Occupation                         Asbury Park                     New Jersey
+                                                                              County
+
+ Management, business, science, and arts                           42.5%           51.6%          46.9%
+ Service occupations                                               22.1%           13.7%          14.8%
+ Sales and office occupations                                      16.6%           20.7%          20.0%
+ Natural resources, construction, and maintenance
+ occupations                                                        8.8%            6.9%           6.9%
+ Production, transportation, and material moving                   10.0%            7.1%          11.3%
+                                                                            Source: 2019-2023 5-Year ACS
+
+The labor force’s blue-collar tilt, which, until recently, predominated, is particularly apparent in the
+industrial sectors that employ residents today. A higher percentage of Asbury Park’s labor force, 10.7%,
+works in the manufacturing sector compared to the New Jersey or Monmouth County (Table 17).
+Conversely, far fewer Asbury Park residents work in finance, insurance, or real estate, 6.0% in all, than
+those in Monmouth County as a whole, or 12.3%. Similarly, the professional, scientific, and management
+sector employes 13.1% of Asbury Park workers, less than the state- and countywide figures. Still, the
+influx of more affluent households, and the outflux of less affluent households, is reflected in the data.
+Retail trade, a sector with more blue-collar workers, employs 8.7% of workers, on par with Monmouth
+County and lower than the 8.7% statewide. Though the construction industry accounts for 7.1% of the
+city’s labor force, higher than the share statewide, it still employs fewer residents at a lower ratio than in
+the county overall. Healthcare, a growing sector of the US economy, employs 17.2% of employed
+residents, higher than the employed population in Monmouth County and New Jersey.
+
+Table 77: Industry
+                                                               Asbury        Monmouth
+                            Industry                                                         New Jersey
+                                                                Park          County
+
+ Agriculture, forestry, fishing and hunting, and mining         0.1%            0.3%             0.3%
+ Construction                                                   7.1%            7.6%             6.4%
+
+ Manufacturing                                                  10.7%           7.7%             9.8%
+
+ Wholesale trade                                                3.4%            2.8%             3.4%
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                 PAGE 13
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 40 of 61 Trans ID: LCV20251899801
+
+
+
+
+                                                              Asbury       Monmouth
+                            Industry                                                        New Jersey
+                                                               Park         County
+
+ Retail trade                                                  8.3%            8.3%            8.7%
+
+ Transportation and warehousing, and utilities                 3.3%            4.5%            6.9%
+
+ Information                                                   2.9%            3.7%            2.9%
+ Finance and insurance, and real estate and rental and
+                                                               6.0%           12.3%            10.3%
+ leasing
+ Professional, scientific, and management, and
+                                                               13.1%          17.0%            15.4%
+ administrative and waste management services
+ Educational services                                          5.0%            9.9%            8.9%
+ Health care and social assistance                             17.2%          12.9%            13.3%
+ Arts, entertainment, and recreation, and
+                                                               11.6%           4.5%            4.8%
+ accommodation and food services
+ Other services except public administration                   7.2%            3.1%            3.5%
+
+ Public administration                                         4.2%            5.3%            5.3%
+                                                                            Source: 2019-2023 5-Year ACS
+
+The variety of economic activity in Asbury Park economy is evident in the Quarterly Census of Employment
+and Wages administered by the US Bureau of the Labor Statistics, a quarterly survey of public and private
+employers. The importance of healthcare and social assistance is noteworthy, with 954 workers in all
+(Table 18). The local government and school district are also major employers, employing on average 766
+and 377 persons, respectively. Real estate and professional, scientific, and technical services are also key
+sectors, employing 269 and 274 workers, respectively. A significant portion of workers toil in lower-paying
+service jobs in services. The food and accommodations sector employs the most residents of any sector,
+or 2,249 persons, as of 2023. The hospitality jobs reflected here do not pay particularly well, with an
+average salary of $34,670. Retailers also employed an ample number of Asbury Park workers, 388 in all.
+The jobs in this sector are also relatively low-paying, with average annual wages amounting of $36,700. It
+should be noted that the construction and manufacturing workers who live in Asbury Park are generally
+well-paid, with an average yearly wage of $76,812 for construction workers and $70,804 for those in
+manufacturing. According to the QCEW at least, fewer Asbury Park workers are employed in this sector
+relative to those who work in retail or food services.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                               PAGE 14
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 41 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 18: Quarterly Census of Employment and Wages, 2023
+                                                                 Employed           Annual
+                            Sector
+                                                                 Population      Average Wages
+
+ FEDERAL GOVT TOTALS                                                  52             $73,379
+ STATE GOVT TOTALS                                                     5             $79,372
+ LOCAL GOVT TOTALS                                                   766             $84,477
+ LOCAL GOVT EDUCATION                                                377             $88,635
+ Agriculture                                                           .                .
+ Utilities                                                             .                .
+ Construction                                                        112             $76,812
+ Manufacturing                                                       277             $70,804
+ Wholesale Trade                                                      41             $79,635
+ Retail Trade                                                        388             $36,700
+ Transportation and warehousing                                       18             $31,257
+ Information                                                          30             $91,395
+ Finance and insurance                                                23             $79,989
+ Real Estate                                                         269             $42,968
+ Professional, scientific, and technical services                    274             $95,041
+ Management                                                            .                .
+ Admin/Waste Remediation                                              93             $59,213
+ Education                                                             .                .
+ Healthcare and social assistance                                    954             $44,004
+ Arts, entertainment, and recreation                                  79             $17,414
+ Accommodations and food services                                   2,249            $34,670
+ Other Services                                                      634             $38,413
+ Unclassified                                                          x             $58,804
+ PRIVATE SECTOR TOTALS                                              5,622            $45,583
+                                         Source: QCEW, NJ Dept. of Labor and Workforce Development
+
+A sizable number of Asbury Park residents bike or walk to work (Table 19). To be precise, 6.4% of employed
+residents walked to work while 1.7% rode a bicycle to their workplace, outpacing by a considerable degree
+the 1.5% and 0.5% who do in Monmouth County. The city’s relatively dense and walkable built form
+explains this relatively large figure in part. It is also evident that a sizable number of Asbury Park residents
+work inside the city limits. In tandem with this, a smaller percentage of residents, 60.6%, drive to work
+alone, less than the 66.8% countywide. Of those residents who do use a car to get to work, a relatively
+high number carpool together, with 8.3 of the employed population carpooling compared to the 7.2%
+who carpool in Monmouth County as a whole. Interestingly, a lower share of residents takes public
+transportation to work than in Monmouth County as a whole, possibly indicating that only a modest
+percentage of residents goes to work in the employment centers like Newark or New York. As for working
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                   PAGE 15
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 42 of 61 Trans ID: LCV20251899801
+
+
+
+
+from home, 14.9% of employed residents telecommute, close to the percentage statewide, but less than
+the 16.8% reported for Monmouth County overall.
+
+Table 19: Means of Transport to Work
+                                                               Monmouth
+            Means of Transport                 Asbury Park                       New Jersey
+                                                                County
+
+ Drove alone                                      60.6%           66.8%              63.7%
+ Carpooled                                         8.3%            7.2%               7.7%
+ Public transportation                             5.1%            5.5%               8.5%
+ Walked                                            6.4%            1.5%               2.6%
+ Bicycle                                           1.7%            0.5%               0.3%
+ Taxicab, motorcycle, or other means               3.1%            1.7%               2.1%
+ Worked from home                                 14.9%           16.8%              15.0%
+                                                                   Source: 2019-2023 5-Year ACS
+
+Given the means of transport data, it should not be surprising that Asbury Park workers tend to have
+shorter commutes than their compatriots elsewhere in New Jersey (Table 20). Of those who commute,
+15.7% can get to their workplace in under 10 minutes while, altogether, 46.9% get to work in under 20
+minutes. This surpasses the 37.1% who have such a commute in Monmouth County. At the other end of
+the scale, 37.8% of commuters need at least a half hour to get to their workplace. This falls short of the
+46.0% in Monmouth County and New Jersey who have such a commute.
+
+Table 20: Travel Time to Work
+                                                           Monmouth
+                Travel Time                  Asbury Park                  New Jersey
+                                                            County
+
+ Less than 10 minutes                          15.7%          11.4%           9.9%
+ 10 to 14 minutes                              12.6%          12.8%          11.5%
+ 15 to 19 minutes                              18.6%          12.9%          13.1%
+ 20 to 24 minutes                               9.8%          11.2%          12.9%
+ 25 to 29 minutes                               5.5%           5.6%           6.7%
+ 30 to 34 minutes                              12.3%          11.2%          13.7%
+ 35 to 44 minutes                               8.6%           8.0%           8.2%
+ 45 to 59 minutes                               6.8%           9.4%           9.9%
+ 60 or more minutes                            10.1%          17.4%          14.2%
+ Mean travel time to work (minutes)             25.7           32.8           30.9
+                                                           Source: 2019-2023 5-Year ACS
+
+Asbury Park households have fewer cars at their disposal than their peers elsewhere (Table 21). Only
+14.9% of households have three vehicles or more, a figure that pales in comparison to the 37.6% of
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                              PAGE 16
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 43 of 61 Trans ID: LCV20251899801
+
+
+
+
+Monmouth County households that have at least three cars. Instead, the vehicles data are befitting of a
+city where residents can walk or bike for some of their trips. In total, 36.8% of households possess but
+one car while 7.5% do not have a car at all. While these numbers reflect the Asbury Park’s walkability and
+bike infrastructure, they may also reflect, for many households, the relative precariousness of their
+finances. For these residents, the availability of housing, local jobs, and streets safe for biking and walking
+are necessary to continue living in the city.
+
+Table 21: Total Vehicles Available
+                                              Monmouth
+   Total Vehicles        Asbury Park                            New Jersey
+                                               County
+
+ No vehicle                   7.5%                1.9%              6.4%
+ 1 vehicle                   36.8%               16.6%             23.3%
+ 2 vehicles                  40.7%               43.9%             39.9%
+ 3 or more
+                             14.9%               37.6%             30.3%
+ vehicles
+                                             Source: NJ 2019-2023 5-Year ACS
+
+
+
+
+HOUSING ANALYSIS
+Most Asbury Park residents live in rentals (Table 22). Specifically, 69.3% of the population live in renter-
+occupied housing units. Such a lofty percentage is not unusual for an urban municipality and far outstrips
+the 24.6% and 36.3% who rent in Monmouth County and New Jersey, respectively. Conversely,
+homeownership is less common in Asbury Park, with 30.7% of residents inhabiting owner-occupied
+residences, far less than 75.4% of residents who do in Monmouth County overall.
+
+Table 22: Tenure
+                                                Monmouth
+        Tenure             Asbury Park                            New Jersey
+                                                 County
+
+ Owner-Occupied                30.7%               75.4%             63.7%
+ Renter-Occupied               69.3%               24.6%             36.3%
+                                                       Source: 2019-2023 5-Year ACS
+
+
+In all, there are 8,851 units of housing in Asbury Park, of which 1,183 are vacant, or 13.4% (Table 23). This
+means that 86.6% of the housing stock is occupied, a rate lower than in Monmouth County, where 92.8%
+of units are occupied. Given its history of urban decline, it makes sense that Asbury Park would have a
+higher vacancy rate.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                  PAGE 17
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 44 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 23: Occupancy Status
+
+                                                    Monmouth
+       Occupancy Status               Asbury Park                  New Jersey
+                                                     County
+
+ Occupied                                86.6%         92.8%          92.1%
+ Vacant                                  13.4%          7.2%           7.9%
+                                                    Source: 2019-2023 5-Year ACS
+
+Nevertheless, the contours of Asbury Park’s housing market are changing. According to the American
+Community Survey, the number of occupied housing units increased by more than 1,000 between 2013
+and 2023 (Table 24). During that span, the vacancy rate declined from 18.2% to 13.4%. While the number
+of occupied rentals has also increase, the change appears to be driven by an expansion of the city’s owner-
+occupied housing stock. Over a period of ten years, the number of owner-occupied housing units swelled
+from 1,266 to 2,243 units. In the process, the percentage of owner-occupied housing units, increased from
+19.1% to 29.3% of the housing stock. For the sake of clarity, it should be mentioned that the metric for
+tenure stated here is different than the one cited above, which measured the percentage of total residents
+living in renter- and owner-occupied housing units.
+
+Table 24: Change, Tenure and Occupancy, 2013 to 2023
+                                  2013         2023
+ Total, Housing Units             8,108       8,851
+ Total, Occupied Units            6,633       7,668
+ Vacancy Rate                     18.2%       13.4%
+ Total, Owner-Occupied            1,266       2,243
+ Total, Renter-Occupied           5,367       5,425
+ %, Owner-Occupied                19.1%       29.3%
+ %, Renter-Occupied               80.9%       70.7%
+                        Source: 2009-2013, 2019-2023 5-Year ACS
+
+An examination of vacancy data suggests that the numbers are driven by more than disinvestment. Of the
+vacant housing units counted, 43.2% were used for seasonal, recreational, or otherwise occasional
+purposes by persons who live elsewhere (Table 25). Remarkably, the most recent 5-Year ACS data found
+that none of the vacant housing units counted were for sale or recently sold. This is a statistical aberration,
+to be sure, but nonetheless, it is striking. Notably, there are nearly as many vacant apartments that have
+already been leased as there are still on the market and available. This is a higher ratio than seen
+elsewhere in the state and suggests some tightness in the rental market. That notwithstanding, the rental
+market has the potential to further improve given that the percentage of vacant units for rent, 18.0%, still
+greatly exceeds the share recorded for Monmouth County as a whole, 11.4%.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                  PAGE 18
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 45 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 25: Vacancy Status
+                                                                    Monmouth
+                   Vacancy Status                    Asbury Park                    New Jersey
+                                                                     County
+
+ For rent                                               18.0%           11.4%          16.0%
+ Rented, not occupied                                   15.7%            2.9%           2.7%
+ For sale only                                           0.0%            7.8%           6.4%
+ Sold, not occupied                                      0.0%            4.1%           4.1%
+ For seasonal, recreational, or occasional use          43.2%           51.7%          43.7%
+ Other vacant                                           23.1%           22.1%          27.1%
+                                                                    Source: 2019-2023 5-Year ACS
+
+Defined as having 5 units of housing or more, multifamily buildings constitute a substantial share of Asbury
+Park’s housing Stock. All told, 59.9% of housing units in the city are located in multifamily structures (Table
+26). This far outstrips the 16.9% of housing comprised by multifamily units in Monmouth County and
+21.7% in New Jersey overall. Two-, three-, and four-family housing typologies also account for an above-
+average share of the housing stock. Two-family residences account for 9.4% of housing in Asbury Park,
+more than the 8.6% in the state overall. Three- and four-family buildings make up 10.3% of the housing
+stock in the municipality, compared with 6.1% in the state overall. This necessarily entails that single-
+family homes make up a relatively small share of the housing stock. Roughly one in four homes in Asbury
+Park, or 24.8%, is a one-family detached dwelling, a figure dwarfed by the share countywide, or 66.1%. A
+further 6.2% of the housing stock consists of one-family attached homes, which is also less than the 9.5%
+measured for the county overall.
+
+
+Table 86: Units in Structure
+
+                                              Monmouth
+       Housing Type             Asbury Park                  New Jersey
+                                               County
+
+ 1, detached                       24.8%        66.1%           52.7%
+ 1, attached                        6.2%         9.5%           10.0%
+ 2                                  9.4%         2.8%            8.6%
+ 3 or 4                            10.3%         3.6%            6.1%
+ 5 to 9                             8.7%         3.7%            4.7%
+ 10 to 19                          10.2%         4.1%            4.9%
+ 20 to 49                          11.0%         2.6%            4.2%
+ 50 or more                        18.8%         6.5%            7.9%
+ Mobile home                        0.7%         1.1%            0.9%
+ Boat, RV, van, etc.                0.0%         0.0%            0.0%
+                                              source: 2019-2023 5-Year ACS
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                  PAGE 19
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 46 of 61 Trans ID: LCV20251899801
+
+
+
+
+Almost one in four rentals in Asbury Park, or 23.3%, is in a building with 50 units or more (Table 27).
+Buildings with 20 to 49 units comprise 14.1% of rentals while those with 10 to 19 units compose 13.1%. A
+not insignificant number of renters do not live in multifamily structures, including 11.0% who rent one-
+family detached homes. The breakdown of rentals by building type in the city mirrors that seen elsewhere
+in the county and state overall. While renters live in buildings of all types, homeowners tend to live in one-
+family detached houses, which account for 82.9% of owner-occupied homes in Monmouth County and
+77.1% in New Jersey. In Asbury Park, detached one-family houses comprise only 60.7% of the housing
+stock. Condominiums account for a much higher share of the owner-occupied stock in Asbury Park relative
+to elsewhere. Multifamily buildings account for 20.9% of owner-occupied housing units in Asbury Park
+whereas, in New Jersey overall, only 5.4% of owner-occupied units are in multifamily buildings.
+
+Table 97: Units in Structure by Tenure
+                                    Asbury Park       Monmouth County                New Jersey
+      Housing Type             Owner-   Renter-       Owner-        Renter-      Owner-   Renter-
+                              Occupied Occupied      Occupied      Occupied     Occupied Occupied
+
+ 1, detached                    60.7%        11.0%    82.9%          18.3%        77.1%       11.7%
+ 1, attached                    10.7%         2.4%     9.6%           8.8%        10.2%        8.4%
+ 2                               6.0%        11.6%     0.7%           8.6%         4.6%       15.5%
+ 3 or 4                          1.3%        13.6%     0.9%          11.3%         1.7%       13.8%
+ 5 to 9                          4.5%        10.9%     1.5%          10.4%         1.4%       10.6%
+ 10 to 19                        3.0%        13.1%     1.3%          12.5%         1.2%       11.4%
+ 20 to 49                        4.6%        14.1%     0.8%           8.2%         1.0%        9.7%
+ 50 or more                      8.8%        23.3%     1.3%          20.9%         1.8%       18.4%
+ Mobile home                     0.5%         0.0%     1.0%           1.0%         1.1%        0.4%
+ Boat, RV, van, etc.             0.0%         0.0%     0.0%           0.0%         0.0%        0.1%
+                                                                          Source: 2019-2023 5-Year ACS
+
+A considerable share of the housing stock is located in structures that were built before the Second World
+War (Table 28). To be specific, 38.1% of units are in buildings built before 1940, more than double the
+equivalent rate for New Jersey, or 17.5%. The financial outlay needed to maintain buildings of this age can
+dissuade investment in residential properties. Older housing units are also more likely to lack essential
+facilities and meet the needs of its residents. An additional 25.1% of housing units are in buildings
+constructed between 1940 and 1970. In other words, almost two-thirds of Asbury Park’s housing stock
+was built more than a half-century ago. Housing construction in the city occurred at the slowest rate in
+the 1990s, as only 3.0% of units date from that decade. A sizable number of residential units were built in
+the 2010s, with 7.9% of homes built in that period.
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                  PAGE 20
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 47 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 108: Year Structure Built
+                                                 Monmouth
+    Year Structure Built          Asbury Park                   New Jersey
+                                                  County
+
+ Built 2020 or later                   0.1%          0.6%           0.6%
+ Built 2010 to 2019                    7.9%          5.8%           5.8%
+ Built 2000 to 2009                    5.9%          9.4%           9.1%
+ Built 1990 to 1999                    3.0%         11.3%           9.1%
+ Built 1980 to 1989                   11.7%         15.8%          11.9%
+ Built 1970 to 1979                    8.3%         13.2%          12.4%
+ Built 1960 to 1969                   11.8%         14.0%          13.0%
+ Built 1950 to 1959                    9.7%         12.3%          14.1%
+ Built 1940 to 1949                    3.6%          4.2%           6.7%
+ Built 1939 or earlier                38.1%         13.5%          17.5%
+                                                 Source: 2019-2023 5-Year ACS
+
+Given that rentals and multifamily units account for much of the housing stock, it is not surprising that
+homes in Asbury Park tend to be smaller than elsewhere (Table 29). Only 28.0% of dwellings have at least
+three bedrooms, compared with 64.7% in Monmouth County and 56.4% in New Jersey. Surely, this makes
+it challenging for families to reside in the city. Roughly one in four Asbury Park homes have two bedrooms,
+similar to the share in New Jersey, but more than in Monmouth County, where homes are typically larger.
+A further 38.7% of homes are one-bedroom units, well above the 14.2% statewide. Studios and other
+units that lack a bedroom make up 7.7% of the housing stock.
+
+Table 29: Number of Bedrooms, Housing Stock
+
+                                                   Monmouth
+       Total Bedrooms              Asbury Park                      New Jersey
+                                                    County
+
+ No bedroom                            7.7%            1.7%            3.0%
+ 1 bedroom                             38.7%          12.6%           14.2%
+ 2 bedrooms                            25.6%          21.0%           25.5%
+ 3 bedrooms                            18.7%          29.0%           31.8%
+ 4 bedrooms                            6.5%           26.5%           19.7%
+ 5 or more bedrooms                    2.8%            9.2%            5.9%
+                                                     Source: 2009-2013 5-Year ACS
+
+The smaller housing unit size is also reflected in the Census Bureau’s rooms dataset (Table 30). The median
+number of rooms for housing in Asbury Park is 3.8, almost half the county median, or 6.4 rooms. 21.9% of
+units have only one or two rooms while another 22.1% of homes have three rooms. At the other extreme,
+only 3.8% of homes consist of 9 rooms or more, a small percentage relative to the 21.3% of such homes
+in Monmouth County, a relatively affluent place.
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                              PAGE 21
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 48 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 30: Total Rooms Per Housing Unit
+                                               Monmouth
+       Total Rooms              Asbury Park                  New Jersey
+                                                County
+
+ 1 room                             7.2%          1.6%           2.7%
+ 2 rooms                           14.7%          2.6%           3.0%
+ 3 rooms                           22.1%          8.1%          10.5%
+ 4 rooms                           19.2%         12.1%          15.2%
+ 5 rooms                           14.4%         12.9%          15.8%
+ 6 rooms                            9.9%         14.6%          15.4%
+ 7 rooms                            6.5%         13.0%          12.0%
+ 8 rooms                            2.3%         13.9%          10.4%
+ 9 rooms or more                    3.8%         21.3%          15.2%
+ Median rooms                        3.8           6.4            5.7
+                                              Source: 2019-2023 5-Year ACS
+
+Overcrowding is more prevalent issues in Asbury Park than elsewhere in the state (Table 31). Altogether,
+5.4% of households have overcrowded conditions, compared with 3.7% of households statewide, with a
+resident to room ratio in excess of 1. The number of households going without heat is another concern,
+with 3.0% of households having no fuel to heat their home, six times the rate for Monmouth County, or
+0.8%. Presumably, this is because these households lack the financial resources to pay for heat. Natural
+gas from a utility, while used by 56.8% of households, is used to a lesser degree than elsewhere in the
+county, where 80.9% of homes use natural gas. Instead, electricity is used as a fuel to a far greater extent
+than elsewhere, heating 34.4% of homes in Asbury Park compared with 15.6% for the state as a whole.
+Interestingly, fewer Asbury Park homes lack necessary facilities than in the state as a whole. The citywide
+share of homes lacking kitchen facilities, 0.2%, is less than one-fourth the statewide figure, 0,9%. As for
+plumbing, while 0.9% of housing units in New Jersey lack kitchen facilities, only 0.2% in Asbury Park do so.
+The share of homes that lack telephone service, 0.9% is in line with the state as a whole.
+
+Table 31: Housing Quality Indicators
+
+                                                            Monmouth
+            Home Heating Fuel                 Asbury Park                    New Jersey
+                                                             County
+
+ Utility gas                                    56.8%          80.9%           73.3%
+ Bottled, tank, or LP gas                        2.0%           1.7%            2.5%
+ Electricity                                    34.4%          12.9%           15.6%
+ Fuel oil, kerosene, etc.                        1.8%           3.3%            6.8%
+ Coal or coke                                    0.0%           0.0%            0.0%
+ Wood                                            0.0%           0.1%            0.3%
+ Solar energy                                    0.0%           0.2%            0.2%
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                               PAGE 22
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 49 of 61 Trans ID: LCV20251899801
+
+
+
+
+                                                                  Monmouth
+            Home Heating Fuel                  Asbury Park                         New Jersey
+                                                                   County
+
+ Other fuel                                          1.8%              0.4%             0.5%
+ No fuel used                                        3.1%              0.5%             0.8%
+            Lacking facilities
+ Lacking complete plumbing facilities                0.2%              0.2%             0.3%
+ Lacking complete kitchen facilities                 0.2%              0.8%             0.8%
+ No telephone service available                      0.9%              0.8%             0.9%
+          Occupants Per Room
+ 1.00 or less                                        94.6%             98.3%            96.3%
+ 1.01 to 1.50                                         3.4%              1.2%             2.4%
+ 1.51 or more                                         2.0%              0.5%             1.3%
+                                                                  Source: 2019-2023 5-Year ACS
+
+Households in Asbury Park are more likely to have moved into their present unit relatively recently (Table
+32). In total, 43.5% of households in the city have moved into their residence since 2018, compared with
+28.9% statewide. This rate may be slowing with only 9.5% moving since 2021, though this still exceeds the
+figure statewide. An additional 37.0% of households moved into their home between 2010 and 2017. Of
+households who moved earlier, 11.6% arrived between 2000 and 2009 while 3.0% arrived in the 1990s,
+and the remaining 4.9% moved in before 1990.
+
+Table 32: Year Moved In
+                                                            Monmouth
+           Year Moved In                 Asbury Park                          New Jersey
+                                                             County
+
+ Moved in 2021 or later                       9.5%              6.8%             8.3%
+ Moved in 2018 to 2020                       34.0%             18.8%            20.6%
+ Moved in 2010 to 2017                       37.0%             28.6%            28.6%
+ Moved in 2000 to 2009                       11.6%             19.5%            19.2%
+ Moved in 1990 to 1999                        3.0%             14.2%            11.4%
+ Moved in 1989 and earlier                    4.9%             12.1%            11.9%
+                                                            Source: 2009-2013 5-Year ACS
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                             PAGE 23
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 50 of 61 Trans ID: LCV20251899801
+
+
+
+
+HOUSING MARKET ANALYSIS
+Approximately 70.4% of Asbury Park homeowners have a mortgage while 29.6% do not (Table 33). The
+share of homeowners with a mortgage is appreciably higher than the rate seen in either the county or
+state. In both Monmouth County and the Garden State as a whole, 64.4% of homeowners have a
+mortgage.
+
+Table 33: Mortgage Status
+
+                                                           Monmouth
+           Mortgage Status                   Asbury Park                  New Jersey
+                                                            County
+
+ With a mortgage                               70.4%          64.4%          64.4%
+ Without a mortgage                            29.6%          35.6%          35.6%
+                                                           Source: 2019-2023 5-Year ACS
+
+The market value of Asbury Park homes is generally higher than the aggregate figures statewide, but lower
+than those in much of Monmouth County (Table 34). The median value of an Asbury Park home is
+$508,800, lower than the $566,500 for Monmouth County, but greater than the $427,600 estimated for
+New Jersey. A sizable percentage of homes in the municipality have a relatively low market value, with
+21.2% of homes valued below $300,000, a much larger share than the 12.3% in the county overall. Still,
+this is less than the 28.0% of homes statewide and a mere 1.2% of homes are valued under $100,000. The
+bulk of homes in the municipality are valued between $300,000 and $749,999 Altogether, 54.9% of homes
+have a value within this range, with 27.8% valued between $300,000 and $499,999 and 27.1% valued
+between $500,000 and $749,999. As for homes valued higher, 23.9% of homes are valued at $750,000 or
+more, more than the 15.2% in the state as a whole, but less than the 26.7% for Monmouth County.
+Critically, 12.1% of homes are valued at over $1,000,000, a higher percentage than reported for
+Monmouth County a whole and almost twice the percentage seen statewide.
+
+Table 34: Home Values
+
+                                                           Monmouth
+              Home Value                     Asbury Park                  New Jersey
+                                                            County
+
+ Less than $100,000                             1.2%          3.1%           4.4%
+ $100,000 to $299,999                          20.0%          9.2%          23.6%
+ $300,000 to $499,999                          27.8%         29.2%          33.8%
+ $500,000 to $749,999                          27.1%         31.7%          23.0%
+ $750,000 to $999,999                          11.8%         15.4%           8.6%
+ $1,000,000 or more                            12.1%         11.3%           6.6%
+ Median home value                            $508,800      $566,500       $427,600
+                                                           Source: 2019-2023 5-Year ACS
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                            PAGE 24
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 51 of 61 Trans ID: LCV20251899801
+
+
+
+
+The price of homes sold in Asbury Park have skyrocketed since 2015, soaring by 254% on average over
+that time (Table 35). Home prices have risen substantially in Monmouth County in general, but given that
+the countywide average has only risen by 178%, the housing market in the city is especially hot. Prices
+have especially surged since the pandemic, climbing from $367,243 in 2019 to $700,700 in 2024. The
+volume of homes on the market has fallen somewhat since the 2010s, when more than 75 homes were
+sold annually between 2015 and 2018. Aside from an uptick in sales in 2021, the number of homes sold
+annually in the city has been below that benchmark.
+
+Table 35: Home Sales
+                         Asbury Park                   Monmouth County
+   Year          Total                               Total
+                              Avg Sales Price                   Avg Sales Price
+                 Sales                               Sales
+
+   2015           112            $275,016           6,146           $478,821
+   2016           75             $314,755           3,029           $483,506
+   2017           79             $322,823           3,679           $495,743
+   2018           88             $374,178           3,813           $533,873
+   2019           63             $367,243           3,558           $512,214
+   2020           44             $412,867           3,357           $544,180
+   2021           93             $421,167           4,407           $638,158
+   2022           66             $458,030           3,600           $677,266
+   2023           53             $539,566           2,776           $729,440
+   2024           64             $700,700           2,760           $831,577
+
+Alongside home prices, residential property assessments have risen substantially (Table 36). Since 2016,
+the average assessment of an Asbury Park home has increased from $240,230 in 2016 to $588,592 in
+2024, or 245%. The rapid growth after 2020 suggests that investment in Asbury Park is accelerating. This
+surge places a burden on homeowners, who must pay out more in property taxes every year.
+
+Table 116: Residential Tax Assessments
+                                                          Total Lots,
+                 Total Lots,           Average                                  Average
+   Year                                                   Monmouth
+                Asbury Park           Assessment                               Assessment
+                                                           County
+   2016             3,269               $240,230             211,934            $445,876
+   2020             3,330               $375,103             213,716            $503,341
+   2024             3,488               $588,592             214,709            $715,263
+                                                   Source: NJ Division of Taxation, NJ Treasury
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                              PAGE 25
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 52 of 61 Trans ID: LCV20251899801
+
+
+
+
+Housing is generally considered to be affordable if the amount of rent, mortgage, and other essential costs
+consume less than 30% of a household’s income (Table 37). If a household spends more than 30% if its
+income on housing, it is considered cost-burdened. In Asbury Park, 45.1% of all households are, by
+definition, cost-burdened. This is a higher percentage than seen for Monmouth County, 33.5%, or for New
+Jersey overall, 36.0%. An additional 19.5% of households spend between 20% to 29% of their income on
+housing while 32.6% of households spend less than 20% of their income on housing.
+
+Table 37: Burden of Housing Costs, All Households
+
+                                                                  Monmouth
+  Housing Costs as % of Household Income         Asbury Park                       New Jersey
+                                                                   County
+
+ Less than 20% of Household Income                  32.6%            43.6%            40.7%
+ 20 to 29% of Household Income                      19.5%            21.8%            22.1%
+ 30% or more of Household Income                    45.1%            33.5%            36.0%
+ Zero or negative income                             2.7%             1.1%             1.2%
+ No cash rent                                          --               --               --
+                                                                     Source: 2019-2023 5-Year ACS
+
+A significant portion of Asbury Park homeowners are cost-burdened (Table 38). Specifically, an estimated
+29. 1% of households allocate at least 30% of household income towards meeting the cost of housing.
+This is slightly lower than the respective shares estimated for the county and state, 27.2% and 28.6%.
+Additionally, fewer households in the city expend less than 20% of their income on housing, 44.6% in all,
+compared to the county and state as a whole.
+
+Table 128: Burden of Housing Costs, Owner-Occupied Housing
+
+                                                                  Monmouth
+  Housing Costs as % of Household Income         Asbury Park                       New Jersey
+                                                                   County
+
+ Less than 20% of Household Income                  44.6%            42.3%            40.1%
+ 20 to 29% of Household Income                      26.3%            27.5%            27.5%
+ 30% or more of Household Income                    29.1%            30.2%            32.4%
+ Not Computed                                        0.0%             0.0%             0.0%
+                                                                     Source: 2019-2023 5-Year ACS
+
+For homeowners with a mortgage, the median monthly cost of housing is $2,498, lower than the $3,037
+measured for the county and $2,787 for the state (Table 39). The community has a higher percentage of
+households that spend less than $1,500 a month on housing, 10.1%, than in either the state or county,
+8.8% and 6.1%, respectively. Most households, 79.5% of those in Asbury Park, pay over $2,000 in total
+housing costs every month. At the upper end of the scale, 40.2% of homeowners with a mortgage pay
+$3,000 or more every month to meet the cost of housing. This is lower than the 51.2% of Monmouth
+County households and 42.7% of those statewide, but it is staggering, nevertheless.
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                PAGE 26
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 53 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 39: Monthly Costs, Homeowners with a Mortgage
+                                                           Monmouth
+       Monthly housing costs                 Asbury Park                  New Jersey
+                                                            County
+
+ Less than $500                                 0.0%          0.2%            0.4%
+ $500 to $999                                   1.8%          1.3%            1.8%
+ $1,000 to $1,499                               8.3%          4.6%            6.6%
+ $1,500 to $1,999                              10.4%          9.9%           13.7%
+ $2,000 to $2,499                              29.7%         16.0%           17.7%
+ $2,500 to $2,999                               9.6%         16.8%           17.0%
+ $3,000 or more                                40.2%         51.2%           42.7%
+ Median monthly housing cost                   $2,498        $3,037          $2,787
+                                                           Source: 2019-2023 5-Year ACS
+
+Monthly housing costs are necessarily lower for those households without a mortgage (Table 40). Still,
+housing costs these households have to pay taxes and have to budget for insurance payments, utilities,
+and other fees. In total, 55.6% of Asbury Park households with no mortgage spend $1,000 per month or
+more on housing costs. This is less than the percentage countywide, 75.9%, as well as the share statewide,
+67.1%. For homeowners without a mortgage, the median monthly cost is $1,089 in Asbury Park, lower
+than the Monmouth County median of $1,312, but still high for a city with a large percentage of
+households living on modest incomes. According to the Census Bureau, only 22.1% of Asbury Park
+homeowners without a mortgage expend less than $800 a month on housing.
+
+Table 40: Monthly Costs, Homeowners without a Mortgage
+
+                                                           Monmouth
+        Monthly housing costs                Asbury Park                   New Jersey
+                                                            County
+
+ Less than $250                                  0.0%          2.0%           1.9%
+ $250 to $399                                    0.0%          1.3%           2.6%
+ $400 to $599                                   12.2%          3.0%           5.0%
+ $600 to $799                                    9.9%          5.3%           8.8%
+ $800 to $999                                   22.3%         12.5%          14.6%
+ $1,000 or more                                 55.6%         75.9%          67.1%
+ Median monthly housing costs                   $1,089        $1,312         $1,205
+                                                           Source: 2019-2023 5-Year ACS
+
+Marginally more renters in Asbury Park are cost-burdened relative to the county or state. To be exact,
+52.8% of households expend 30% or more of household income on housing costs (Table 41). An additional
+3.2% of households have zero or negative income, more than estimated for either the county or state.
+That said, Asbury Park also has a greater percentage of households that spend less than 20% of income
+on housing costs, 26.0%, than in either Monmouth County, 22.9%, or New Jersey, 23.8%.
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                             PAGE 27
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 54 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 41: Burden of Housing Costs, Renter-Occupied Housing
+
+                                                          Asbury      Monmouth
+     Housing Costs as % of Household Income                                          New Jersey
+                                                           Park        County
+
+ Less than 20% of household income                        26.0%          22.9%         23.8%
+ 20 to 29% of household income                            18.0%          21.7%         23.1%
+ 30% or more of household income                          52.8%          50.0%         48.3%
+ Zero or negative household income                         3.2%           1.7%          1.9%
+ No cash rent                                              0.0%           3.9%          2.9%
+ Other                                                     0.0%           0.0%          0.0%
+                                                                     Source: 2019-2023 5-Year ACS
+
+The gross rent for rental units in the city is generally lower than seen in Monmouth County overall (Table
+42). The median rent for rentals in Asbury Park is $1,679, lower than the median in Monmouth County,
+$1,771, but higher than the statewide median of $1,653. A comparably large portion of renters have a
+rent under $1,000, 21.0%, relative to the respective figures for the county and state, 12.6% and 15.0%.
+Another 20.9% of renting households pay between $1,000 and $1,499 in rent while 25.5% pay between
+$1,500 and $1,999 in rent. Approximately one in three households in the city, or 33.6% to be precise,
+spend $2,000 or more on rent. This is lower than in Monmouth County as a whole, where 38.0% of
+households have a rent of at least $2,000, but higher than the percentage statewide, 30.2%. The share of
+households with a rent of $3,000 or higher is still relatively low, 4.1%, compared with the rest of the
+county (9.2%) or state (7.6%).
+
+Table 42: Gross Rent
+
+                                                  Monmouth
+          Gross Rent                Asbury Park                    New Jersey
+                                                   County
+
+ Less than $500                        10.7%         6.8%             6.3%
+ $500 to $999                           9.3%         5.8%             8.7%
+ $1,000 to $1,499                      20.9%        23.2%            26.3%
+ $1,500 to $1,999                      25.5%        26.2%            28.5%
+ $2,000 to $2,499                      21.3%        18.4%            15.9%
+ $2,500 to $2,999                       8.2%        10.4%             6.7%
+ $3,000 or more                         4.1%         9.2%             7.6%
+ Median rent                           $1,679       $1,771           $1,653
+                                                  Source: 2019-2023 5-Year ACS
+
+The gross rent data indicate that Asbury Park rents are approaching the levels seen elsewhere in
+Monmouth County. Indeed, the rents for apartments in the city have spiked over the last decade (Table
+43). The median rent as of 2023, $1,679, represents a steep increase since 2013, when the median gross
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                PAGE 28
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 55 of 61 Trans ID: LCV20251899801
+
+
+
+
+rent was $1,016. While 19.2% of renting households in 2013 had a rent of $1,500 and above, 59.1% of
+households had a such a rent one decade later. Similarly, while 48.7% of households had a rent of less
+than $1,000 in 2013, only 21.0% of households had a rent of under $1,000 in 2023. In the space of a
+decade, Asbury Park has become a vastly more expensive place to live.
+
+Table 43: Change, Gross Rent, 2013 to 2023
+      Gross Rent         2013       2023
+ Less than $500          19.4%     10.7%
+ $500 to $999            29.3%      9.3%
+ $1,000 to $1,499        32.1%     20.9%
+ $1,500 or more          19.2%     59.1%
+ Median gross rent      $1,016     $1,679
+                   Source: 2019-2023 5-Year ACS
+
+
+
+
+DEVELOPMENT TRENDS
+Since 2004, Asbury Park has approved building permits for 1,072 new units of housing (Table 44). This
+amounts to an average of 53.6 units permitted per year for the last 20 years. Permitting has increased
+over the last decade as demand for housing in the city has soared, translating to an average of 75.1 units
+permitted over that time. In all, 199 permits were approved for the construction of one- and two- family
+homes while 872 permits were approved for multifamily homes. Since 2014, an average of 11.9 building
+permits were issued for one- and two-family homes annually, while 63.2 multifamily units were permitted
+on average every year. The permitting of new housing has occurred in spurts, with only a handful of units
+permitted some years while more than 100 units were permitted for construction in 2017 and 2021.
+
+Table 44: Housing Permits Issued Annually by Type, 2004-2023
+
+    Year         1-2 Family      Multifamily   Mixed-Use   Total
+
+    2004             5                 0          0         5
+    2005             30               62          1         93
+    2006             4               161          0        165
+    2007             19                9          0         28
+    2008             4                 1          0         5
+    2009             2                 5          0         7
+    2010             10                1          0         11
+    2011             4                 1          0         5
+    2012             2                 0          0         2
+    2013             0                 0          0         0
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                             PAGE 29
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 56 of 61 Trans ID: LCV20251899801
+
+
+
+
+    Year         1-2 Family        Multifamily    Mixed-Use           Total
+
+    2014              2                 0                0             2
+    2015              5                59                0             64
+    2016              2                 0                0             2
+    2017              4               338                0            342
+    2018              3                 4                0             7
+    2019              8                60                0             68
+    2020              23                9                0             32
+    2021              52              102                0            154
+    2022              5                 0                0             5
+    2023              15               60                0             75
+    Total             199             872                1            1,072
+  10-Year
+                      11.9            63.2               0            75.1
+  Average
+  20-Year
+                      9.95            43.6           0.05             53.6
+  Average
+                                     Source: NJ Dept. of Community Affairs
+
+Asbury Park is an outlier in Monmouth County, where one- and two-family structures accounting for most
+of the new housing permitted (Table 45). Housing construction in the county has stayed at generally the
+same rate for the last 20 years. While an average of 1,536 units have been permitted annually since 2004,
+1,558 units have been permitted on average since 2014. Building patterns in Asbury have mirrored those
+in the wider state, with multifamily development representing most of the new housing units permitted.in
+the Garden State.
+
+Table 45: Share of Housing Permits Issued by Type, 2004-2023
+
+                        Asbury Park                      Monmouth County                        New Jersey
+
+   Year        1-2                      Mixed-     1-2                        Mixed-    1-2                   Mixed-
+                        Multifamily                          Multifamily                        Multifamily
+              Units                      Use      Units                        Use     Units                   Use
+
+   2004         5             0              0    2,012         437            12      27,103     11,383       752
+   2005         30           62              1    1,883         681            17      26,715     12,687       286
+   2006         4            161             0    1,340         666             3      20,090     11,760       198
+   2007         19            9              0    1,025         892            22      14,235     11,553       160
+   2008         4             1              0     798          364            38      8,960      7,102        276
+   2009         2             5              0     663          229             4      6,776      4,309        60
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                            PAGE 30
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 57 of 61 Trans ID: LCV20251899801
+
+
+
+
+                          Asbury Park                     Monmouth County                   New Jersey
+
+   Year        1-2                       Mixed-     1-2                   Mixed-    1-2                   Mixed-
+                          Multifamily                       Multifamily                     Multifamily
+              Units                       Use      Units                   Use     Units                   Use
+
+   2010         10            1              0     616         190          0      6,934      4,733        218
+   2011         4             1              0     636         170          0      6,236      5,184        462
+   2012         2             0              0     660         366          8      6,700      8,527         43
+   2013         0             0              0     1,198       217          10     9,666      8,998        131
+   2014         2             0              0     1,009       334          24     10,678     11,909       309
+   2015         5             59             0     829         340          7      9,470      9,989         44
+   2016         2             0              0     833        1,057         11     8,885      15,217        68
+   2017         4            338             0     912         792          25     9,201      16,146       614
+   2018         3             4              0     860         958          10     9,026      16,811       211
+   2019         8             60             0     785         471          6      8,954      21,762        54
+   2020         23            9              0     911         716          15     8,673      17,950        57
+   2021         52           102             0     1,064       556          2      10,479     19,471        94
+   2022         5             0              0     1,093       280          11     9,163      21,913       716
+  2023          15            60             0     1,291       368          4      9,552      11,538       592
+   10-
+  YEAR          12            63             0     959         587          12     9,408      16,271       276
+ Average
+   20-
+  YEAR          10            44             0     1,021       504          11     11,375     12,447       267
+ Average
+                                                                            Source: NJ Dept. of Community Affairs
+
+Certificates of occupancy were approved to a lesser extent than building permits (Table 46). According to
+data from the New Jersey Department of Community Affairs, certificates of occupancy were issued for
+development totaling on average of 33 units per year. This difference in average annual building permits
+and certificates of occupancy may reflect the lag between building permit and certificate of occupancy
+issuance, missing information on the number of units in a multi-family building in receipt of a certificate
+of occupancy and / or data issues at the New Jersey Department of Community Affairs.
+
+Table 46: Certificates of Occupancy, 2014-2023
+
+     Year        1-2 Units        Multifamily     Mixed-Use
+
+    2014              0                  5            0
+    2015              2                  0            0
+    2016              4                  0            0
+    2017              3                 59            0
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                        PAGE 31
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 58 of 61 Trans ID: LCV20251899801
+
+
+
+
+     Year        1-2 Units     Multifamily    Mixed-Use
+
+    2018              5             43             0
+    2019              1              0             0
+    2020              3              0             0
+    2021              4              0             0
+    2022             48              9             0
+    2023             15             120            0
+  10-Year
+                      9              24            0
+  Average
+                     Source: NJ Dept. of Community Affairs
+
+Demolition of existing housing has further curtailed the growth of the housing stock. In the last 20 years,
+demolition permits were approved for 337 housing units, including for 70 one- and two-family housing
+units and 267 multifamily units (Table 47) This translates to an average of 16.85 units demolished on an
+annual basis. The pace of demolition has increased slightly during the last 10 years, when an average of
+18.2 units were demolished every year.
+
+Table 137: Demolition Permits, 2013-2023
+
+   Year        1-2 Family       Multifamily     Total
+
+   2004              2                0           2
+   2005              6                1           7
+   2006              6               12           18
+   2007              3                3           6
+   2008              4               20           24
+   2009              1                0           1
+   2010              5               52           57
+   2011              1               20           21
+   2012             10                6           16
+   2013              3                0           3
+   2014              8                0           8
+   2015              0               24           24
+   2016              5                2           7
+   2017              5               123         128
+   2018              6                0           6
+   2019              1                0           1
+   2020              0                0           0
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                              PAGE 32
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 59 of 61 Trans ID: LCV20251899801
+
+
+
+
+   Year        1-2 Family          Multifamily    Total
+
+  2021               1                 0            1
+  2022               3                 4            7
+  2023               0                 0            0
+  Total             70                267          337
+ 10-Year
+                    2.9               15.3         18.2
+ Average
+ 20-Year
+                    3.5              13.35        16.85
+ Average
+                    Source: NJ Dept of Community Affairs
+
+
+Asbury Park has permitted a modest amount of nonresidential construction since 2004 (Table 48). In that
+time, staffers permitted on average 2,377 square feet of office development and 3,492 square feet of
+retail development every year. It should be noted that these statistics also include additions to existing
+office and retail development. The city also permitted a variety of uses that fall under NJ DCA’s ‘Other’
+category, a classification used for nonresidential development, not including office or retail uses. It should
+be noted that the data in this classification can include multifamily development. In the last 20 years,
+Asbury Park staffers issued permits were issued on average for 106,877 square feet of nonresidential
+development in the ‘Other’ category. Multifamily development accounts for most of this figure.
+Additionally, it appears that theaters, restaurants and/or bars, and possibly churches were permitted
+during this time. As DCA data groups certain uses together, it is difficult to tell what these specific projects
+were.
+
+Table 148: Nonresidential Construction, 2004-2023
+                      Asbury Park                     Monmouth County                         New Jersey
+   Year
+             Office       Retail      Other      Office    Retail     Other        Office       Retail        Other
+
+   2004         0           0         134,648    776,676   380,576   3,817,593   12,219,068    4,911,257    57,206,055
+   2005         1         3,856       258,346    672,563   531,289   2,509,753   11,038,132    5,965,258    50,631,439
+   2006      16,906       53,345      584,798    937,008   197,248   3,450,328   11,113,555    5,186,662    47,807,864
+   2007         0         2,288       15,451     968,794   400,940   2,875,336   9,569,501     5,423,889    53,881,012
+   2008         0           0          2,498     318,481   414,612   1,629,619   7,962,998     5,557,101    44,127,384
+   2009         0           0         31,856     293,900   61,926    1,462,954   4,253,888     2,248,935    19,137,343
+   2010         0           0         33,391     343,680   282,233   1,220,213   5,496,579     2,192,231    20,090,503
+   2011         0           0          7,376     320,603   104,300   988,003     4,915,544     1,680,445    16,406,225
+   2012         0           0            0       249,063   233,940   1,235,639   7,395,704     2,088,658    24,204,171
+   2013         0           0            0       340,222   177,855   1,192,521   5,830,508     2,240,758    26,512,767
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                     PAGE 33
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 60 of 61 Trans ID: LCV20251899801
+
+
+
+
+                      Asbury Park                  Monmouth County                        New Jersey
+   Year
+             Office      Retail      Other    Office    Retail     Other       Office       Retail         Other
+
+   2014         0           0          320    282,481   312,136   1,174,418   5,426,729    3,536,522     37,902,289
+   2015         0           0        93,207   384,157   160,413   1,192,906   5,751,737    3,544,141     28,999,440
+   2016        360          0          288    547,984   145,787   2,344,973   7,183,084    2,913,461     48,892,163
+   2017         0        10,357     851,395   412,057   110,882   2,045,995   6,826,372    2,153,638     39,842,698
+   2018         0           0          931    414,509   265,417   2,118,110   5,316,607    3,122,448     36,483,744
+   2019        480          0         3,803   306,076   115,411   1,401,255   5,724,671    1,286,733     40,886,748
+   2020         0           0        20,841   374,497   169,029   1,527,822   5,525,377    2,023,918     37,236,103
+   2021         0           0        44,801   641,091   34,786    4,093,550   5,074,155     786,303      50,338,453
+   2022         0           0        53,049   193,054   16,849    2,005,822   7,716,195     622,440      49,613,379
+   2023      29,800         0          538    380,772   173,552   1,778,385   6,406,348    1,257,019     33,079,451
+ 20-Year
+              2,377      3,492      106,877   457,883   214,459   2,003,260   7,037,338    2,937,091     38,163,962
+ Average
+                                                                                Source: NJ Dept. of Community Affairs
+
+
+
+
+PLANNING PROJECTIONS
+Monmouth County is served by the North Jersey Transportation Planning Authority (NJTPA), one of New
+Jersey’s three metropolitan planning organizations. NJTPA calculates population and employment
+projections to anticipate the long-range planning needs of the North Jersey portion of the New York
+metropolitan area.
+
+NJTPA is currently forecasting growth in Asbury Park in excess of the county and region as a whole (Table
+49). The city’s population is expected to reach 19,952 residents in 2050. This represents an annualized
+growth rate of 0.62% and would translate to an increase of 3,883 residents. In contrast, Monmouth
+County’s population is expected to rise at an annual rate of 0.18%, a far more sluggish pace, while that of
+NJTPA’s jurisdiction on the whole is expected to grow by an average of 0.42% yearly. Household growth,
+growing annually at a forecast rate of 0.93%, drives much of the projected increase in Asbury Park’s
+population. In total, NJTPA expects the total number of households living in the city to increase from 6,762
+in 2015 to 9,364 in 2050. The agency anticipates household growth in Monmouth County and the NJTPA
+region as a whole to be more modest, with 0.27% and 0.46% annual growth, respectively. Employment is
+also expected to rise faster than in the county and region as a whole, with NJTPA forecasting employment
+growth of 0.76% per year, resulting in an expected 5,189 total workers by 2050. Again, this is more robust
+than the growth forecast for the county and NJTPA region, 0.32% and 0.42%, respectively.
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                                  PAGE 34
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000419-25 06/30/2025 8:03:23 PM Pg 61 of 61 Trans ID: LCV20251899801
+
+
+
+
+Table 49: Long-term Population, Household and Employment Forecasts
+                                                  Asbury    Monmouth
+                          Metric                                           NJTPA
+                                                   Park      County
+ 2015 Population                                  16,069     629,185     6,688,013
+ 2050 Population                                  19,952     669,624     7,743,120
+ Annualized % Population Change 2015-2050         0.62%       0.18%        0.42%
+ 2015 Household                                   6,762      235,513     2,444,799
+ 2050 Household                                   9,364      259,244     2,868,943
+ Annualized % Household Change 2015-2050          0.93%       0.27%        0.46%
+ 2015 Employment                                  3,975      262,372     2,910,458
+ 2050 Employment                                  5,189      293,290     3,375,651
+ Annualized % Employment Change 2015-2050         0.76%       0.32%        0.42%
+                                                                       Source: NJTPA
+
+
+
+
+CITY OF ASBURY PARK, MONMOUTH COUNTY                                                   PAGE 35
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+

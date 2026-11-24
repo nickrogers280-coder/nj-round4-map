@@ -1,0 +1,2280 @@
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 1 of 60 Trans ID: LCV20251688063
+
+
+
+
+                        BOROUGH of PAULSBORO
+                GLOUCESTER COUNTY, NEW JERSEY
+                      Housing Plan Element & Fair Share Plan
+
+                              Fourth Round (2025-2035)
+
+
+
+
+                                     May 22, 2025
+
+
+
+
+                                       Prepared by:
+
+
+                                               CME Associates
+                                               1 Market Street, Suite 1F
+                                               Camden, NJ 08102
+                                               732-410-2651
+
+
+
+
+                            Christopher N. Dochney, PP, AICP
+                          NJ Professional Planner License # 6225
+
+The original document was appropriately signed and sealed in accordance with the Chapter 41
+                    Title 13 of the State Board of Professional Planners.
+GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 2 of 60 Trans ID: LCV20251688063
+
+
+
+
+                           ACKNOWLEDGMENTS:
+                        Paulsboro Mayor and Council
+
+                          John Giovannitti – Mayor
+                      Tahje Thomas – Council President
+                             Theodore Holloway
+                               Jennifer Turner
+                              Karen Armistead
+                                Eric Singleton
+                                Kyana Evans
+
+
+                         Paulsboro Land Use Board
+
+                           John Giovannitti – Mayor
+                         Robert DeAngelo – Chairman
+                          Jennifer Maden– Vice Chair
+                                 Vernon Marino
+                                 Tahje Thomas
+                                 Kathy McCann
+                                   Ben Mento
+                                 Evra Macauley
+                                 Larry Haynes
+                               James Salvatore
+                                 Alice Williams
+                                Jack Henderson
+                                   Phillip Neff
+
+
+
+                       John Alice, Esq. - Board Attorney
+                        Elsie Tedeski – Board Secretary
+                   Stephen Cosaboon, PE. – Board Engineer
+                   Chris Dochney, PP, AICP – Board Planner
+
+
+
+                                Project Team
+
+                 Chris Dochney, PP, AICP – Program Manager
+             Richard Asirifi, AICP, Assoc.ASLA – Associate Planner
+          Michael Maley, Esq. – Borough’s Affordable Housing Attorney
+       GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 3 of 60 Trans ID: LCV20251688063
+
+
+
+
+TABLE OF CONTENTS
+Executive Summary ................................................................................................................. 1
+Introduction .............................................................................................................................. 2
+  Location and Context.............................................................................................................. 2
+  Affordable Housing ................................................................................................................. 5
+  Paulsboro’s Compliance History ............................................................................................. 6
+Housing Plan Element ............................................................................................................. 8
+  Analysis of Demographic, Housing, and Employment Characteristics ...................................10
+  Paulsboro Borough’s Demographics......................................................................................10
+  Housing Conditions ...............................................................................................................19
+  Economic Conditions.............................................................................................................21
+Fair Share Plan........................................................................................................................25
+  Consideration of Lands Suitable for Affordable Housing ........................................................25
+  Site Suitability ........................................................................................................................26
+  Multigenerational Family Housing Continuity .........................................................................26
+  Fair Share Obligation .............................................................................................................28
+  Present Need (Rehabilitation) Obligation ...............................................................................28
+  Prior Round / Third Round Obligations (1987-1999) ..............................................................29
+  Third Round Compliance Mechanisms ..................................................................................30
+     Affordable Housing Projects ...............................................................................................30
+  Fourth Round Obligations ......................................................................................................32
+  Fourth Round Compliance Mechanisms ................................................................................33
+     Family Rental Projects .......................................................................................................33
+     Senior Rental Projects .......................................................................................................33
+  Summary of Fair Share Plan..................................................................................................35
+     Prior Round / Third Round Obligation ................................................................................35
+     Fourth Round Obligation ....................................................................................................35
+Housing Administration .........................................................................................................36
+  Affordable Housing Ordinance ...............................................................................................36
+  Development Fee Ordinance .................................................................................................36
+  Affordable Housing Trust Fund ..............................................................................................36
+  Affordability Assistance Program ...........................................................................................36
+  Municipal Housing Liaison .....................................................................................................36
+  Affordable Housing Administrative Agent ...............................................................................36
+  Income Levels .......................................................................................................................37
+Appendices .............................................................................................................................38
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 4 of 60 Trans ID: LCV20251688063
+
+
+
+
+List of Appendices:
+
+   A. Fourth Round Obligations
+          1. Governing Body Resolution
+   B. Administrative Documents
+          1. Affordable Housing Trust Fund Spending Plan
+   C. Crediting Documents
+          1. Paulsboro Gardens
+          2. Michaels Organization
+     GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 5 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+EXECUTIVE SUMMARY
+
+The Borough of Paulsboro is a small community of approximately 1.6 square miles along the
+Delaware River in Gloucester County, and just south of the Philadelphia International Airport and
+the City of Philadelphia across the River. The Borough has a current population of just over 6,000
+people, a population that has plateaued in recent decades. The Borough is identified a qualified
+“urban aid municipality” as a community with a high percentage of the population being lower
+income, and relatively little commercial and industrial users in the Borough.
+
+This is the Fourth Round Housing Plan Element and Fair Share Plan for the Borough of Paulsboro,
+Gloucester County, prepared in accordance with the requirements of the Amended Fair Housing
+Act of N.J.A.C. 52:27D-304. The Fair Housing Act requires that every municipality in New Jersey
+provide for their “fair share” of the need for housing to serve the low and moderate income
+households within the greater region, through providing a realistic opportunity for the construction
+of housing units that would be priced to be affordable to low and moderate income households.
+
+In accordance with the Fair Housing Act, the Borough has the following affordable housing
+obligations.
+
+       A rehabilitation obligation of 130 units – these are existing homes in the community that
+       may be occupied by low or moderate income households, and may be in need of repairs
+       or rehabilitation;
+       A cumulative Prior and Third Round (1987-2025) prospective need of 65 affordable units
+       – This means the Borough has an obligation to provide for the potential new construction
+       of at least 65 housing units that would be affordable to a low or moderate income
+       household.
+       A cumulative Fourth Round (2025-2035) need of 16 affordable units.
+
+Paulsboro proposes to satisfy these constitutional obligations through the following mechanisms
+and projects:
+
+       The Borough will satisfy its rehabilitation obligation through participation in the Gloucester
+       County Home Improvement Program, and by supporting that program financially.
+
+       The Borough’s Prior Round and Third Round obligation of 65 units will be satisfied through
+       the Paulsboro Gardens Project, which is an existing market rate residential development
+       of 150 apartments, which will be converted into affordable housing for low and moderate
+       income households. 50 credits plus 15 bonus credits from this project will satisfy the entire
+       Prior Round and Third Round obligation.
+
+The Fourth Round obligation will be satisfied through the remaining 100 units of the Paulsboro
+Gardens project, as well as a proposed senior rental community that will be located on
+Swedesboro Avenue that will contain 55 affordable apartments. These two projects more than
+satisfy the Borough’s 16 unit Fourth Round obligation.
+
+
+
+
+                                                                                         1|Page
+     GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 6 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+INTRODUCTION
+
+L OCATION AND C ONTEXT
+Geography
+
+Paulsboro is situated in Gloucester County, in the southwestern part of New Jersey, along the
+eastern bank of the Delaware River. It lies approximately 18 miles south of Philadelphia, making
+it part of the Philadelphia metropolitan area. The Borough is bordered by Gibbstown to the north
+and West Deptford Borough to the east. The Borough covers a total area of about 1.6 square
+miles, of which roughly 1.5 square miles is land, and 0.1 square miles is water, primarily from
+marshes and riverfront inlets.
+
+The Borough’s location along the Delaware River has long made it a hub for industry and shipping.
+One of the most prominent geographic features of the Borough is the Port of Paulsboro, a major
+marine terminal used for handling bulk cargo and petroleum products. Historically, Paulsboro has
+been home to several large oil refineries and chemical processing facilities, and this industrial
+character continues to shape much of its land use and infrastructure.
+
+Despite its industrial history, Paulsboro also contains residential neighborhoods that are generally
+located away from the river and heavy industry. The Borough is strategically connected by both
+road and rail infrastructure. U.S. Route 130 runs directly through the town, while Interstate 295
+lies just to the east, providing easy regional access and linking Paulsboro to the broader
+Philadelphia metropolitan area. These transportation corridors, along with active freight rail lines
+and the Port of Paulsboro, form the backbone of the borough’s economic geography, supporting
+shipping, logistics, and industrial activities. The Borough also contains tidal wetlands, marshes,
+and small tributary streams that drain into the Delaware River, adding ecological diversity and
+functioning as important natural buffers.
+
+
+
+
+          Gloucester County
+
+
+
+
+Map 1: Paulsboro Borough Context Map
+
+
+
+
+                                                                                        2|Page
+     GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 7 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+Borough History and Development Patterns
+
+Paulsboro’s origins trace back to the colonial era, with settlement in the area beginning in the late
+17th century. It was part of Greenwich Borough before becoming an independent borough in
+1904. The town was named after Samuel Philip Paul, an early settler and landowner. Paulsboro’s
+location along the Delaware River gave it strategic significance early on, making it a natural hub
+for commerce, shipping, and industry. During the 18th and 19th centuries, it remained a small
+agricultural and maritime community, with modest growth tied to river trade.
+
+Paulsboro underwent major transformation during the 20th century, primarily due to the rise of
+heavy industry. Its waterfront location made it ideal for oil refining, chemical processing, and
+shipping. The industrial expansion brought significant infrastructure developments, including rail
+connections and expanded port facilities. This period of industrial growth also contributed to
+population increases in the early to mid-20th century, as workers moved to the area seeking
+employment. Residential neighborhoods were developed near the industrial zones, often in grid-
+like patterns typical of early 20th-century urban planning.
+
+By the late 20th century, Paulsboro experienced economic decline due to the downsizing of
+traditional manufacturing and refining industries. Many of the original industrial facilities either
+closed or significantly scaled back, leading to job losses and environmental degradation. In recent
+decades, efforts have been made to revitalize Paulsboro through the redevelopment of former
+industrial sites, environmental cleanup projects, and infrastructure upgrades.
+
+A key element of modern development has been the Port of Paulsboro Redevelopment Project,
+which aims to convert the area into a hub for bulk cargo, renewable energy components (such as
+wind turbine parts), and logistics. This shift reflects a broader trend of trying to transition from a
+fossil-fuel-based economy to a more diversified, sustainable industrial base. Meanwhile,
+residential areas remain compact and modest, with a mix of single-family homes, small
+businesses, and municipal services.
+
+Population History and Demographics
+
+The Borough now has a population of 6,196 people according to 2020 Census count population
+data. This is a slight increase from the 2010 Census count of 6,097 people, following a marginal
+decrease from the 2000 count of 6,160. According to the NJTPA updated Demographic and
+Employment Forecast Model, Paulsboro Borough is projected to continue its modest growth in
+the coming decades as the Borough is expected to have a population of 6,225 people by 2050.
+
+According to the 2020 Census, Paulsboro Borough had approximately 6,196 residents. Of this
+population, about 41% identified as White alone, 39% as Black or African American alone, 0.6%
+as Asian alone, 0.5% as American Indian and Alaska Native alone, and 16.4% as identifying with
+two or more races. Additionally, around 18.8% of residents identified as Hispanic or Latino of any
+race, while 38.9% identified as White alone and not Hispanic or Latino.
+
+Census data from the 2023 ACS 5-Year Estimates indicates that the median household income
+in Paulsboro Borough is approximately $68,750. This figure is notably lower than the median
+household income for Gloucester County, which stands at $102,807, and the statewide median
+for New Jersey, which is approximately $101,050.
+
+
+
+
+                                                                                          3|Page
+     GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 8 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+State Plan
+
+According to the 2001 State Plan Policy Map, the Borough is mostly located in the Metropolitan
+Planning Area (PA1). Similarly, the surrounding municipalities of Greenwich Borough and West
+Deptford in Gloucester County are all mostly located in the Metropolitan Planning Area (PA1) with
+Greenwich Borough having some areas located within the Suburban (PA 2) and Environmentally
+Sensitive (PA 5) Areas.
+
+The State Plan is designed to strategically direct investment and regulatory efforts toward
+maintaining and upgrading infrastructure in developed areas, restoring adequate public services
+in overburdened communities, and protecting New Jersey’s agricultural, natural, and cultural
+resources.
+
+Planning Areas defined in the State Plan Policy Map play a key role by establishing Policy
+Objectives that guide the implementation of the Statewide Policies. Planning Areas are areas of
+land that are greater than one square mile that share a common set of conditions, such as
+population density, infrastructure systems, level of development or protection of natural systems.
+
+
+
+
+ Map 2: State Plan Overview Map
+
+
+
+                                                                                      4|Page
+     GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 9 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+A FFORDABLE H OUSING
+In 1975, the New Jersey Supreme Court decided that developing municipalities in New Jersey
+had a constitutional obligation to provide a realistic opportunity for its fair share of low-and
+moderate-income housing. That case, known as “Mount Laurel I,” became the seminal case in
+New Jersey fair share housing obligations. In 1983, frustrated with the lack of voluntary
+compliance, the Supreme Court sought to create an incentive for voluntary compliance. In what
+would become known as “Mount Laurel II,” the Supreme Court introduced the concept of a
+builder’s remedy suit, an enforcement action to compel compliance. The Court also called for the
+State Legislature to enact legislation that would save municipalities from the inefficiency of having
+the courts determine their affordable housing needs.
+
+First and Second Rounds
+
+In 1985, the Legislature adopted the Fair Housing Act, P.L. 1985, c.222 (“FHA”). The FHA created
+the New Jersey Council on Affordable Housing (COAH) and charged COAH with the responsibility
+of adopting regulations by which municipalities could determine their fair share responsibilities
+and the means by which they could satisfy those responsibilities. The Legislature also sought to
+promote voluntary compliance and empowered municipalities to submit to COAH’s jurisdiction
+and voluntarily comply under the protections of the COAH process.
+
+Pursuant to the FHA, COAH adopted regulations for the first housing cycle in 1986; which covered
+the years 1987 through 1993 (“First Round”) and for the second housing cycle in 1994; which
+covered the years 1993 through 1999 (“Second Round”). Under both the First and Second
+Rounds, COAH utilized what is commonly referred to as the “fair share” methodology.
+
+Third Round
+
+In 2004, COAH proposed rules to address affordable housing from 1999 through 2014 (“Third
+Round”). COAH utilized a different methodology in the Third Round known as “growth share.” The
+“growth share” approach created a nexus between the production of affordable housing and future
+residential and non-residential development within a municipality, based on the principle that
+municipalities should provide affordable housing opportunities proportionate to their market rate
+residential growth, and that, along with employment opportunities there should be proportionate
+opportunities for affordable housing. This methodology was challenged in court. In January 2007,
+the New Jersey Appellate Division invalidated key aspects of COAH’s Third Round rules and
+ordered COAH to propose and adopt amendments to its rules to address any deficiencies.
+
+In July 2008, the Legislature amended the FHA (P.L. 2008 c. 46), including the imposition of a
+non-residential construction fee, the elimination of regional contribution agreements, and the
+addition of the category of very low-income housing. Bookending the FHA’s amendment, COAH
+adopted new Third Round rules in May 2008 and amendments in October 2008. COAH’s rules
+were again challenged in court. In October 2010, the Appellate Division invalidated the “Growth
+Share” methodology and returned New Jersey to the “fair share” methodology of the First and
+Second Rounds. In September 2013, the Supreme Court affirmed the Appellate Divisions’
+decision.
+
+In October 2014 COAH was deadlocked and failed to adopt their newly revised Third Round
+regulations. Fair Share Housing Center, who was a party to earlier cases, responded by filing a
+motion in aid of litigants’ rights with the New Jersey Supreme Court. In March 2015, the Supreme
+
+
+
+                                                                                         5|Page
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 10 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+Court ruled that COAH had failed and returned jurisdiction of affordable housing issues back to
+the trial courts as it had been prior to COAH’s creation .
+
+Since the 2015 Mt. Laurel IV decision, municipalities have turned to the courts to seek a
+declaratory judgement of their housing plans to determine whether they are meeting their
+constitutional affordable housing obligations, and to be granted immunity from any “builder’s
+remedy” lawsuits. With no COAH functioning and providing guidance to municipalities to
+determine their municipal fair share of statewide and regional obligations, a number of
+independent groups produced their own reports to determine individual obligations across the
+state. In several court decisions in 2016 and 2018, judges in Middlesex and Mercer County
+developed a methodology following closely one proposed by Fair Share Housing Center to
+determine municipal obligations. In the 2018 decision by Judge Jacobson, it was further
+determined that the initial period of the Third Round which had not been addressed (1999 – 2015)
+known as the “gap period” is to be included in each municipality’s fair share calculations to
+address the Third Round.
+
+Fourth Round
+
+In March of 2024, P.L. 2024, c.2 was signed into law establishing new procedures for determining
+statewide needs and municipal obligations for low- and moderate-income housing. This new law
+formally abolished COAH and established a new “Program” for resolving affordable housing
+disputes, as well as the authority to review and certify municipal fair share housing plans. The law
+required municipalities to determine their own fair share obligations by applying the methodology
+of the Jacobsen decision in Mercer County as it related to the Third Round, and adopt a binding
+resolution setting those obligation numbers. The law also provided revisions to the crediting
+structures for affordable units, with changes to the types of affordable units that are permitted to
+be granted bonus credits. The law established timelines for submission of documents to
+demonstrate compliance with the Fair Housing Act.
+
+In addition to the revisions to low- and moderate-income housing crediting, the amended law
+established a new Affordable Housing Alternative Dispute Resolution Program. The Program is
+intended to adjudicate any disputes in affordable housing, and function as the administrative body
+responsible for reviewing and certifying municipal compliance with the Fair Housing Act. Through
+the Program and the Administrative Office of the Courts, municipalities seeking a judgment of
+compliance with Affordable Housing regulations must submit their plans to the Program for
+certification and to retain immunity from any potential builder’s remedy lawsuits.
+
+P AULSBORO ’ S C OMPLIANCE H ISTORY
+To begin the process of compliance with the Fourth Round of affordable housing obligations, the
+Borough Council adopted Resolution 25.45 in January of 2025 to identify the Borough’s Fourth
+Round affordable housing obligations. The resolution adopted by the Council accepted the
+calculations put forward by the New Jersey Department of Community Affairs (NJDCA) in their
+report titled “Affordable Housing Obligations for 225-2035 (Fourth Round) Methodology and
+Background”, dated October 18, 2024, and adopted the numbers determined by DCA.
+Subsequently, the Borough filed this resolution with Gloucester County Superior Court. Through
+an Order Fixing Municipal Obligations for Present Need and Prospective Need for the Fourth
+Round Housing Cycle, the courts approved of the Borough’s determination of its present need
+and prospective need.
+
+
+
+
+                                                                                        6|Page
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 11 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+Paulsboro Borough has prepared this Housing Plan Element and Fair Share Plan in accordance
+with all requirements of the Municipal Land Use Law and the Amended Fair Housing Act in order
+to satisfy those obligations for the Fourth Round.
+
+
+
+
+                                                                                  7|Page
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 12 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+HOUSING PLAN ELEMENT
+
+According to the Municipal Land Use Law, N.J.S.A. 40:55D-1, et. seq. (MLUL), a municipality is
+required to adopt a Housing Plan Element of the Master Plan (See N.J.S.A. 40:55D-28.b(3)), as
+well as a Fair Share Plan for addressing its low- and moderate-income housing obligations in
+accordance with the Fair Housing Act, N.J.S.A. 52:27D-301 et seq. (FHA).
+
+The Fair Housing Act defines a “Housing Element” as:
+
+   “that portion of a municipality’s master plan consisting of reports, statements, proposals,
+   maps, diagrams, and text designed to meet the municipality’s fair share of its region’s present
+   and prospective housing needs, particularly with regard to low- and moderate-income
+   housing, and which shall contain the municipal present and prospective obligation for
+   affordable housing, determined pursuant to subsection f. of section 3 of P.L.2024, c. 2.”
+
+   [N.J.S.A.52:27D-304.1]
+
+Pursuant to the Fair Housing Act, P.L. 1985, c. 222, as amended by P.L. 2024, c.2, a
+municipality’s housing plan element shall be designed to achieve the goal of access to affordable
+housing to meet present and prospective housing needs, with attention to low- and moderate-
+income housing. This updated Housing Plan Element and Fair Share Plan for the Borough of
+Paulsboro has been prepared in a manner that is consistent with the FHA and MLUL
+requirements, and contains the following, as required by the FHA:
+
+   a. An inventory of the municipality’s housing stock by age, condition, purchase or rental
+      value, occupancy characteristics, and type, including the number of units affordable to
+      low- and moderate-income households and substandard housing capable of being
+      rehabilitated, and in conducting this inventory the municipality shall have access, on a
+      confidential basis for the sole purpose of conducting the inventory, to all necessary
+      property tax assessment records and information in the assessor’s office, including but
+      not limited to the property record cards;
+   b. A projection of the municipality’s housing stock, including the probable future construction
+      of low- and moderate-income housing, for the next ten years, taking into account, but not
+      necessarily limited to, construction permits issued, approvals of applications for
+      development and probable residential development of lands;
+   c. An analysis of the municipality’s demographic characteristics, including but not necessarily
+      limited to, household size, income level and age;
+   d. An analysis of the existing and probable future employment characteristics of the
+      municipality;
+   e. A determination of the municipality’s present and prospective fair share for low- and
+      moderate-income housing and its capacity to accommodate its present and prospective
+      housing needs, including its fair share for low- and moderate-income housing, as
+      established pursuant to section 3 of P.L.2024, c. 2 (C.52:27D-304.1);
+   f.   A consideration of the lands that are most appropriate for construction of low- and
+        moderate-income housing and of the existing structures most appropriate for conversion
+        to, or rehabilitation for, low- and moderate-income housing, including a consideration of
+
+
+                                                                                      8|Page
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 13 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+        lands of developers who have expressed a commitment to provide low- and moderate-
+        income housing;
+   g. An analysis of the extent to which municipal ordinances and other local factors advance
+      or detract from the goal of preserving multigenerational family continuity as expressed in
+      the recommendations of the Multigenerational Family Housing Continuity Commission,
+      adopted pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c. 273
+      (C.52:27D-329.20);
+   h. For a municipality located within the jurisdiction of the Highlands Water Protection and
+      Planning Council, established pursuant to section 4 of P.L.2004, c. 120 (C.13:20-4), an
+      analysis of compliance of the housing element with the Highlands Regional Master Plan
+      of lands in the Highlands Preservation Area, and lands in the Highlands Planning Area for
+      Highlands-conforming municipalities. This analysis shall include consideration of the
+      municipality’s most recent Highlands Municipal Build Out Report, consideration of
+      opportunities for redevelopment of existing developed lands into inclusionary or 100
+      percent affordable housing, or both, and opportunities for 100 percent affordable housing
+      in both the Highlands Planning Area and Highlands Preservation Area that are consistent
+      with the Highlands regional master plan; and
+   i.   An analysis of consistency with the State Development and Redevelopment Plan,
+        including water, wastewater, stormwater, and multi-modal transportation based on
+        guidance and technical assistance from the State Planning Commission.
+   [N.J.S.A.52:27D-310]
+This Housing Plan Element and Fair Share Plan will address the Borough’s obligations to provide
+a realistic opportunity for the construction of low- and moderate-income housing in accordance
+with the Fair Housing Act, and the MLUL for the Fourth Round period of 2025 – 2035. The
+preparation of a Housing Plan Element and Fair Share Plan is the first step in petitioning the court
+for Substantive Certification and Judgement of Repose.
+
+
+
+
+                                                                                        9|Page
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 14 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+A NALYSIS OF D EMOGRAPHIC , H OUSING , AND E MPLOYMENT C HARACTERISTICS
+As required by N.J.S.A. 52:27D-310, all housing elements must contain a discussion of the
+municipality’s demographic, housing, and economic characteristics. The following subsections
+fulfill this requirement by providing a profile of the Boroughs demographic, housing and
+employment characteristics based on information from the US Census Bureau, and the New
+Jersey Department of Labor and Workforce Development.
+
+P AULSBORO B OROUGH ’ S D EM OGRAPHICS
+Population
+
+Paulsboro has experienced modest population changes over the past few decades, with a
+significant decline occurring between 1970 and 1980, when its population dropped sharply from
+8,084 to 6,944 residents. According to the 2020 U.S. Census, Paulsboro’s population reached
+6,196, reflecting a slight 1.62% increase from the 6,097 residents reported in 2010. This followed
+a marginal 1.02% decrease from the 2000 count of 6,160.
+In contrast, Gloucester County has shown consistent growth over the same period, with a 13.19%
+increase between 2000 and 2010, followed by an additional 4.85% rise from 2010 to 2020. Table
+1 below illustrates population trends for both Paulsboro Borough and Gloucester County between
+2000 and 2020, highlighting their differing growth patterns.
+ Table 1: Population Trends, 2000 - 2020
+
+                                                                                % Change      % Change
+                             2000            2010              2020             2000-2010     2010-2020
+ Paulsboro Borough           6,160           6,097             6,196             -1.02%         1.62%
+
+ Gloucester County         254,673          288,288           302,294            13.19%           4.85%
+
+ Source: US Census Bureau Decennial Census (Table DP-1),
+ **Projections from Delaware Valley Regional Planning Commission (2050)
+
+
+ Figure 1: Population Over Time in Paulsboro Borough, NJ
+ 9000                                8121   8,084
+                          7842
+ 8000            7121                                 6,944
+ 7000                                                         6,577
+                                                                        6,160    6,097    6,196      6,225
+ 6000
+ 5000
+ 4000
+ 3000
+ 2000
+ 1000
+    0
+                 1940     1950       1960   1970      1980    1990      2000      2010    2020      2050**
+
+
+
+
+                                                                                                 10 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 15 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+Population Composition by Age
+
+The age composition of Paulsboro Borough has undergone significant changes since 2000, as
+shown by data from the U.S. Census Bureau’s Decennial Census Estimates. Several age groups
+have seen notable shifts in population over the two decades. The population of young children
+has declined across multiple cohorts. The number of toddlers under age 5 dropped from 465
+(7.5%) in 2000 to 411 (6.6%) in 2020. Similar declines were observed among preschool and
+elementary-aged children. The number of youth aged 10 to 14 decreased slightly, from 492
+(8.0%) to 469 (7.6%), while the 15 to 19 age group saw a more pronounced decrease of 18.83%,
+from 499 to 405.
+
+In contrast, several adult age groups experienced growth. The 20 to 24 age group increased by
+11.62%, and the 25 to 34 cohort grew by 10.39% between 2000 and 2020. Notably, the older
+adult population also expanded. The number of residents aged 55 to 59 and 60 to 64 rose
+substantially, with the 60 to 64 age group more than doubling, from 204 in 2000 to 414 in 2020.
+However, a decline was observed among the oldest residents. The populations aged 65 to 74,
+75 to 84, and 85 and older declined by 5.10%, 26.69%, and 2.97%, respectively.
+
+For a detailed breakdown of these trends, see Tables 2 and 3, which present age group data for
+both Paulsboro Borough and Gloucester County from 2000 to 2020.
+
+ Table 2: Population by Age Cohort, Paulsboro Borough, 2000 - 2020
+                                       2000                         2020         Percent
+                                                                                 Change
+                             Number       Percent          Number     Percent
+                                                                                 2000-2020
+ Total population            6,160        100%             6,196      100%       0.58%
+ Under 5 years               465          7.5%             411        6.6%       -11.61%
+ 5 to 9 years                564          9.2%             528        8.5%       -6.38%
+ 10 to 14 years              492          8.0%             469        7.6%       -4.67%
+ 15 to 19 years              499          8.1%             405        6.5%       -18.83%
+ 20 to 24 years              327          5.3%             365        5.9%       11.62%
+ 25 to 34 years              818          13.3%            903        14.6%      10.39%
+ 35 to 44 years              961          15.6%            803        13.0%      16.44%
+ 45 to 54 years              651          10.6%            751        12.1%      15.36%
+ 55 to 59 years              327          5.3%             397        6.4%       39.01%
+ 60 to 64 years              204          3.3%             414        6.7%       102.94%
+ 65 to 74 years              470          7.6%             446        7.3%       -5.10%
+ 75 to 84 years              281          4.6%             206        3.3%       -26.69%
+ 85 years and over           101          1.6%             98         1.6%       -2.97%
+ Source: US Census Bureau, Decennial Census (Table DP-1)
+
+
+
+
+                                                                                   11 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 16 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+Over the past two decades, Gloucester County has experienced significant changes in the age
+composition of its population. Much like Paulsboro Borough, the county saw declines across
+several younger age groups, including toddlers, preschoolers, and elementary and middle
+school-aged children. The most notable decrease was among children under the age of 5, whose
+share of the population fell from 6.5% (16,441 individuals) in 2000 to 5.1% (15,339) in 2020.
+Additionally, the adult population aged 35 to 44 experienced a sharp decline, dropping from
+17.9% (45,548) to 12.2% (36,739) over the same period.
+
+In contrast, the older population grew significantly. The number of residents aged 60 to 64 nearly
+doubled, rising from 3.9% (9,851) in 2000 to 7.0% (21,051) in 2020. Those aged 65 to 74 also
+increased markedly, from 6.3% (15,992) to 9.9% (30,107). Growth was also observed in the 75
+to 84 and 85+ age groups, which rose from 4.2% (10,576) to 4.7% (14,224), and from 1.2% to
+1.8%, respectively.
+
+This demographic shift toward an aging population reflects broader regional trends, including
+those observed in Paulsboro Borough. Both Gloucester County and Paulsboro are experiencing
+steady increases in elderly residents, highlighting a wider pattern of population aging throughout
+the area.
+
+ Table 3: Population by Age Cohort, Gloucester County, 2000 - 2020
+                                      2000                       2020            Percent
+                                                                                 Change
+                                                                                 2000-2020
+                            Number        Percent      Number      Percent
+ Total population           254,673       100%         302,294     100%          18.69%
+ Under 5 years              16,441        6.5%         15,339      5.1%          -6.70%
+ 5 to 9 years               18,683        7.3%         17,521      5.8%          -6.21%
+ 10 to 14 years             20,602        8.1%         19,916      6.6%          -3.29%
+ 15 to 19 years             18,570        7.3%         22,817      7.5%          22.87%
+ 20 to 24 years             15,576        6.1%         21,345      7.1%          37.03%
+ 25 to 34 years             31,939        12.5%        35,414      11.8%         10.88%
+ 35 to 44 years             45,548        17.9%        36,739      12.2%         -19.34%
+ 45 to 54 years             35,791        14.1%        40,111      13.3%         12.07%
+ 55 to 59 years             12,104        4.8%         22,240      7.4%          83.74%
+ 60 to 64 years             9,851         3.9%         21,051      7.0%          113.69%
+ 65 to 74 years             15,992        6.3%         30,107      9.9%          88.26%
+ 75 to 84 years             10,576        4.2%         14,224      4.7%          34.49%
+
+ 85 years and over          3,000         1.2%         5,469       1.8%          82.30%
+ Source: US Census Bureau, Decennial Census (Table DP-1)
+
+
+
+
+                                                                                      12 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 17 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+The median age in Paulsboro Borough increased slightly over the past two decades, rising from
+33.7 years in 2000 to 35.2 years in 2020. This modest increase reflects a broader trend of
+population aging, though Paulsboro’s median age remains lower than that of both Gloucester
+County and the state of New Jersey. In 2020, Gloucester County’s median age reached 40.1
+years (up from 36.3 in 2000), while New Jersey’s rose to 39.9 years (up from 36.9 in 2000).
+Although all three areas experienced increases in median age, Paulsboro continues to have the
+youngest population, followed by Gloucester County.
+
+ Table 4: Median Age, 2000 – 2020
+
+                                           2000              2020              Percent Change
+ Paulsboro Borough                         33.7              35.2              4.45%
+ Gloucester County                         36.3              40.1              10.46%
+ New Jersey                                36.9              39.9              8.13%
+ Source: US Census Bureau, Decennial Census (Table DP-1)
+
+
+
+Households
+
+Paulsboro Borough’s steady population growth has been mirrored by an increase in the number
+of households. A household is defined as one or more individuals, related or unrelated, living
+together in a single housing unit. According to the 2023 ACS 5-Year Estimates, the borough had
+approximately 2,336 households. Among these, the largest share (38.1%) consisted of two-
+person households, followed by 27.4% with one person, 20.4% with four or more people, and
+14.1% with three people.
+
+By comparison, Gloucester County reported that 32.1% of households consisted of two people,
+25.8% had four or more people, 24.2% were one-person households, and 17.9% had three
+people. The average household size in Paulsboro Borough was 2.65, slightly smaller than the
+county average of 2.67, but higher than the state average of 2.61.
+
+ Table 5: Household Characteristics, Paulsboro Borough and Gloucester County
+                                      Paulsboro Borough                  Gloucester County
+                                   Number          Percent          Number           Percent
+ Total Households                  2,336           100%             111,796          100%
+ 1-person                          640             27.4%            27,083           24.2%
+ 2-persons                         891             38.1%            35,930           32.1%
+ 3-persons                         329             14.1%            19,987           17.9%
+ 4 or more persons                 476             20.4%            28,796           25.8%
+ Average Household Size                     2.65 people                       2.67 people
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Table S2501& B25010)
+
+
+
+
+                                                                                        13 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 18 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+Family households are defined as two or more individuals related by blood, marriage, or adoption
+living together in the same residence. In Paulsboro Borough, of the 2,336 total households, 1,563
+(67.0%) are family households, while 773 (33.1%) are non-family households. In comparison,
+Gloucester County has a slightly higher proportion of family households at 69.9% and a lower
+share of non-family households at 30.1%.
+
+Within Paulsboro’s family households, approximately 53% are married couples, considerably
+lower than Gloucester County’s 75%. Additionally, 10% of family households in Paulsboro are
+headed by single male householders, and 15.0% by single female householders. In contrast,
+Gloucester County reports 6.9% of family households led by single males and 18% by single
+females.
+
+The average family size in Paulsboro Borough is 3.19 people, slightly higher than the county
+average of 3.18. Among non-family households in the Borough, 44.4% are headed by individuals
+aged 65 or older, also higher than Gloucester County’s 37.4%.
+
+Additional details on household composition in both Paulsboro Borough and Gloucester County
+can be found in Table 6.
+
+ Table 6: Household by Type, Paulsboro Borough and Gloucester County
+                                                 Paulsboro Borough        Gloucester County
+                                                Number      Percent      Number       Percent
+ Total Households                               2,336       100%         111,796      100%
+ Average Family Size                                  3.19 people             3.18 people
+ Total Families                                 1,563       67.0%        78,113       69.9%
+    Married Couple Family                       827         53.0%        58,624       75.0%
+    With own children under 18 years            182         22.0%        23,015       39.3%
+    No children under 18 years                  645         78.0%        35,609       60.7%
+ Male householder, no wife present              157         10.0%        5,433        6.9%
+    With own children under 18 years            44          28.0%        2,358        43.4%
+    No own children under 18 years              113         72.0%        3,075        56.6%
+ Female householder, no husband present         579         15.0%        14,056       18.0%
+    With own children under 18 years            291         37.0%        7,224        51.4%
+    No own children under 18 years              288         49.7%        6,832        48.6%
+ Nonfamily Households                           773         49.5%        33,683       43.12%
+    65 years and over                           343         44.4%        12,597       37.4%
+ Source: US Census Bureau, American Community Survey 5-year Estimates 2019 to 2023
+ (Table S1101)
+
+
+Existing Housing Conditions
+
+
+
+
+                                                                                     14 | P a g e
+     GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 19 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+The housing stock is relatively old, with a substantial portion of homes built between 1939 and
+1959. According to the 2023 American Community Survey (ACS), of the Borough’s 2,727 total
+housing units, 2,335 (85.7%) are occupied, while 391 units (14.3%) are vacant. Among the
+occupied units, 1,545 (66.1%) are owner-occupied, and 791 (33.9%) are renter-occupied.
+
+Housing development in Paulsboro peaked during earlier decades, particularly before 1939 and
+into the 1950s. Since 1979, new construction has slowed considerably, likely due to economic
+shifts such as the 1979-80 recession, as well as more recent factors including the housing
+market’s uneven recovery following the COVID-19 pandemic and its continued impact on the
+construction industry. The estimated median year of construction for Paulsboro’s housing stock
+falls in the early to mid-1950s, reflecting the Borough’s historic development patterns.
+
+ Table 7: Housing Units in Paulsboro Borough                                    Number                  Percent
+ Total Housing Units                                                            2,727                   100%
+ Occupied Housing Units                                                         2,336                   85.7%
+          Owner Occupied                                                        1,545                   66.1%
+          Renter Occupied                                                       791                     33.9%
+ Vacant Housing Units                                                           391                     14.3%
+          For Rent                                                              41                      10.5%
+          Rented Not Occupied                                                   0                       0.0%
+          For Sale Only                                                         93                      23.8%
+          Sold, not occupied                                                    51                      13.0%
+          For Seasonal, Recreational or Occasional use                          0                       0.0%
+          Other Vacant                                                          0                       0.0%
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04 and B25004)
+
+
+
+
+                                                  Figure 2: Age of Housing Stock
+
+  Built 2020 or later        0
+  Built 2010 to 2019         6
+  Built 2000 to 2009                  67
+  Built 1990 to 1999             40
+  Built 1980 to 1989                        114
+  Built 1970 to 1979                                              363
+  Built 1960 to 1969                                            340
+  Built 1950 to 1959                                                                        619
+  Built 1940 to 1949                                            339
+ Built 1939 or earlier                                                                                             839
+
+
+                         0            100          200    300     400     500         600         700      800        900
+
+
+
+
+                                                                                                               15 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 20 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+Housing Type and Size
+
+Paulsboro Borough’s housing stock is predominantly composed of single-family detached
+homes, which account for approximately 69% of all housing units. Duplexes and low-density
+multifamily structures make up the majority of the remaining units, comprising about 27% of the
+total. High-density residential buildings with 10 or more units represent a very small share, at just
+0.7%. Notably, there are no mobile homes recorded within the Borough.
+
+In terms of unit size, the housing inventory is primarily made up of three-bedroom homes, which
+constitute 48% of all units. Two-bedroom homes account for 24.1%, while one-bedroom units
+make up 18.7%. Larger homes with five or more bedrooms are relatively rare, representing only
+about 1.1% of the total housing stock.
+
+ Table 8: Housing Units by Type                                   Number             Percent
+ Total Housing Units                                              2,727              100.0%
+     1-unit detached                                              1,881              69.0%
+     1-unit, attached                                             207                7.6%
+     2 units                                                      245                9.0%
+     3 or 4 units                                                 283                10.4%
+     5 to 9 units                                                 92                 3.4%
+     10 to 19 units                                               19                 0.7%
+     20 or more units                                             0                  0.0%
+     Mobile home                                                  0                  0.0%
+     Boat, RV, Van etc                                            0                  0.0%
+ Bedrooms
+     No bedroom                                                   0                  0.0%
+     1 bedroom                                                    511                18.7%
+     2 bedrooms                                                   657                24.1%
+     3 bedrooms                                                   1,310              48.0%
+     4 bedrooms                                                   219                8.0%
+     5 bedrooms or more                                           30                 1.1%
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04)
+
+
+
+Housing Values and Contract Rents
+
+According to the ACS 5-Year Estimates, only 14.3% of Paulsboro Borough’s housing units are
+valued at over $500,000, closely aligning with Gloucester County’s average of 14.7%. However,
+a significantly larger share of homes in the Borough fall on the lower end of the value spectrum:
+14.7% of owner-occupied units in Paulsboro are valued under $100,000, compared to just 5.2%
+countywide. The median value of an owner-occupied home in Paulsboro is $169,400,
+
+
+
+
+                                                                                         16 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 21 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+substantially lower than Gloucester County’s median of $317,900. A more detailed breakdown
+of home values for owner-occupied units is provided in Table 9.
+
+ Table 9: Value of Owner-Occupied Housing Units
+                                       Paulsboro Borough                Gloucester County
+                                       Number            Percent        Number             Percent
+ Total                                 1,545             100.0%         89,768             100.0%
+ Less than $50,000                     121               7.8%           3,339              3.7%
+ $50,000 to $99,999                    106               6.9%           1,349              1.5%
+ $100,000 to $149,999                  286               18.5%          3,840              4.3%
+ $150,000 to $199,999                  454               29.4%          8,362              9.3%
+ $200,000 to $299,999                  269               17.4%          23,862             26.6%
+ $300,000 to $499,999                  88                5.7%           35,804             39.9%
+ $500,000 to $999,999                  167               10.8%          12,823             14.3%
+ $1,000,000 and greater                54                3.5%           389                0.4%
+ Median Value                                      $169,400                          $317,900
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04)
+
+
+
+Rental prices in Paulsboro Borough show considerable variation, with the majority of units falling
+into two main rent brackets, $500–$999 and $1,000–$1,499 per month. According to the 2023
+ACS 5-Year Estimates, the median gross rent in Paulsboro Borough was $970, significantly lower
+than the Gloucester County median of $1,480.
+
+The largest share of renter-occupied units in Paulsboro (41.1%) had rents between $500 and
+$999, whereas the most common rent range in the county was $1,000 to $1,499, accounting for
+30.8% of rental units. Paulsboro also had approximately 108 rental units (13.7%) priced under
+$500 per month, a much larger share than the county’s 7.2% in that category. On the other hand,
+12.3% of Paulsboro’s rental units (97 units) had rents above $2,500, exceeding the county’s
+proportion of 7.8% (1,717 units) in this range. Notably, no units in Paulsboro were reported as
+not requiring cash rent payments, whereas Gloucester County had 925 such units.
+
+Table 10 presents a detailed comparison of gross rents between Paulsboro Borough and
+Gloucester County, based on the 2023 ACS 5-Year Estimates.
+
+ Table 10: Gross Rent Paid
+                                             Paulsboro Borough               Gloucester County
+                                             Number        Percent           Number        Percent
+ Total                                       791           100%              22,077        100.0%
+ Less than $500                              108           13.7%             1,583         7.2%
+ $500 to $999                                325           41.1%             2,938         13.3%
+
+
+
+
+                                                                                           17 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 22 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+ $1,000 to $1,499                          173               21.9%           6,807         30.8%
+ $1,500 to $1,999                          32                4.0%            5,923         26.8%
+ $2,000 to $2,499                          56                7.1%            3,109         14.1%
+ $2,500 to $2,999                          0                 0.0%            1,093         5.0%
+ $3,000 or more                            97                12.3%           624           2.8%
+ No rent paid                              0                                 925
+ Median Contract Rent                                     $970                        $1,480
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04)
+
+
+
+Units Affordable to Low- and Moderate-Income Households
+
+A moderate-income household is a household whose gross family income is more than fifty
+percent (50%) of the median income, but less than eight-percent (80%) of median income for
+households of the same size within the housing region. A low-income household is a household
+whose gross family income is equal to or less than fifty-percent (50%) of the regional median
+gross household income for a household and a very-low income household is classified as
+earning less than thirty-percent (30%) of the median area income of the same size within the
+housing region.
+
+Units are considered affordable to low and moderate-income households if the maximum sales
+price or rent is set within a specified formula as per UHAC regulations. The Borough of Paulsboro
+is located within is Region 5, which encompasses Burlington, Camden, and Gloucester counties.
+The median household income in Paulsboro in 2023 was $68,750. Regional income limits for
+Region 5 are set forth in the Table below.
+
+           2025 Affordable Housing Regional Income Limits By Household Size
+
+                                                  1.5
+                                1 Person        Person      2 Person   3 Person      4 Person
+                Median           $83,600       $89,600      $95,600    $121,200      $119,400
+                Moderate         $66,880       $71,680      $76,480    $96,960       $95,520
+                  Low            $41,800       $44,800      $47,800    $60,600       $59,700
+                Very Low         $25,080       $26,880      $28,680    $36,360       $35,820
+
+
+                                   4.5
+                                 Person        5 Person     6 Person   7 Person      8 Person
+                 Median          $99,360       $103,200     $110,880   $118,480      $126,160
+                Moderate         $62,100        $64,500     $69,300    $74,050       $78,850
+                  Low            $37,260        $38,700     $41,580    $44,430       $47,310
+                Very Low         $99,360       $103,200     $110,880   $118,480      $126,160
+
+                Source: AHPNJ, 2025 Regional Income Limits
+
+
+
+                                                                                          18 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 23 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+Based on the qualifying formula in N.J.A.C. 5:80-26, the monthly cost of shelter which includes
+mortgage (principal and interest), taxes, insurance and homeowners or condominium association
+fees, may not exceed twenty-eight percent (28%) of gross monthly household income based on
+a five percent (5%) down payment for the sale of an affordable home. In addition, moderate-
+income sales units must be available for at least three different price points and low-income sales
+units available for at least two different price points. The maximum sales prices must now be
+affordable to households earning no more than seventy-percent (70%) of median income. The
+sales prices for a project of more than 5 affordable units must average fifty-five percent (55%) of
+regional median income.
+
+Under UHAC regulations, rents including utilities may not exceed thirty-percent (30%) of gross
+monthly income for the low or moderate income household. The average rent must now be
+affordable to households earning fifty-two percent (52%) of regional median income. The
+maximum rents must be affordable to households earning no more than sixty-percent (60%) of
+regional median income. In averaging fifty-two percent (52%), one rent shall be established for
+very-low-income units, one rent may be established for low-income units and one rent for
+moderate-income units, for each bedroom distribution. The utility allowance must be consistent
+with the utility allowance approved by DCA for its Section 8 program.
+
+In addition, at least thirteen percent (13%) of all restricted units must be affordable to households
+earning no more than thirty-percent (30%) of median income.
+
+In Paulsboro, with a current median household income of $68,750, and an average household
+size of 2.65 people, this would indicate that the average household in Paulsboro qualifies as a
+moderate income household as per the income limits for Region 5. The threshold for a moderate
+income household of 3 persons in Region 5 is between $60,600 and $96,960 as an annual
+income. With the median contract rent of $910/month according to the most recent Census
+estimates, this indicates that the typical rental apartment in the Borough of Paulsboro is currently
+priced at a level that would be considered affordable for a low income household, as that price for
+monthly rent would be considered affordable for a household with an income of approximately
+$42,000.
+
+H OUSING C ONDITIONS
+Existing Housing Stock
+
+According to the 2023 ACS 5-Year Estimates, overcrowding in Paulsboro Borough is relatively
+low. Only 1.5% of owner-occupied units (36 units) and 3.5% of renter-occupied units (81 units)
+reported more than one person per room, an indicator commonly used to measure overcrowding.
+
+In addition, none of the housing units in the Borough were found to lack complete plumbing or
+kitchen facilities, suggesting that basic housing infrastructure is well-maintained across the
+community. Housing deficiencies such as overcrowding and the absence of essential facilities
+are important indicators when assessing overall housing quality and identifying areas that may
+benefit from municipal rehabilitation initiatives. Table 11 provides a detailed breakdown of these
+housing conditions based on the 2023 ACS 5-Year Estimates.
+
+ Table 11: Housing Deficiency Characteristics, 2023
+ Housing Units with 1.01 or More Persons Per Room
+
+
+
+
+                                                                                        19 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 24 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+                                                    Count                     Percent
+ Total Occupied Housing Units                       2,336                     100.0%
+ Owner-Occupied                                     36                        1.5%
+ Renter-Occupied                                    81                        3.5%
+ Plumbing Facilities
+ Total Occupied Housing Units                       2,336                     100.0%
+ Lacking complete plumbing facilities               0                         0.0%
+ Kitchen Equipment
+ Total Occupied Housing Units                       2,336                     100.0%
+ Lacking complete kitchen facilities                0                         0.0%
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables B25014, S2504)
+
+
+Housing Stock
+
+According to the New Jersey Department of Community Affairs (DCA), Paulsboro Borough
+issued permits for the construction of 23 new residential units between January 2013 and
+December 2023. During the same period, 13 demolition permits for residential properties were
+approved, resulting in a net gain of 10 housing units.
+
+Recent housing trends show steady growth in 1- and 2-family home construction. While no
+permits were issued for these types of units between 2018 and 2022, activity picked up in 2023
+with three new units approved. In contrast, multifamily housing development has remained
+limited, with only one permit issued in 2023 and two in 2018, the only multifamily permits issued
+over the entire 10-year span. These patterns suggest a relatively stable market for single-family
+and two-family homes, while multifamily development continues to lag. Table 12 presents a
+detailed breakdown of permits and demolitions in Paulsboro Borough between 2013 and 2023.
+
+ Table 12: Building Permits and Demolition Permits Issued, 2013 - 2023
+ Year        1&2          Multi       Mixed         Total New             Total            Net
+            Family       Family        Use         Construction         Residential       Units
+                                                                        Demolitions       Added
+
+ 2013          1            0            0               1                    0              2
+ 2014          0            0            0               0                    2             -2
+ 2015          1            0            0               1                    6             -4
+ 2016          1            0            1               2                    6             -2
+ 2017          3            0            5               8                    7              9
+ 2018          0            0            2               2                    2              2
+ 2019          0            0            0               0                    0              0
+ 2020          0            0            0               0                    0              0
+ 2021          0            0            0               0                    0              0
+
+
+
+                                                                                        20 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 25 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+ 2022          0            0            0               0                  0                   0
+ 2023          3            0            1               4                  0                   8
+ Total         9            0            9               18                23                  13
+ Source: NJ DCA, Construction Reporter 2013 to 2023
+
+
+
+E CONOMIC C ONDITIONS
+Employment Status
+
+The 5-year ACS estimates provide valuable insights into employment trends among Paulsboro
+Borough residents aged 16 and older. The Borough had a working-age population of 4,938, with
+approximately 3,083 individuals (62.4%) participating in the labor force. About 37.6% were not in
+the labor force, a figure slightly higher than the county’s 33.1%. Among those in the labor force,
+all were engaged in civilian occupations, with no residents serving in the armed forces. The
+Borough’s unemployment rate was 12.7%, significantly exceeding both the county rate of 5.2%
+and the state rate of 4.7%.
+
+ Table 13: Employment Status, 2023
+                                              Paulsboro Borough            Gloucester County
+                                             Number          Percent      Number           Percent
+ Population 16 years and over                 4,938           100.0%      247,419           100.0%
+         In labor force                       3,083           62.4%       165,443           66.9%
+         Civilian Labor Force                 3,083           62.4%       165,215           66.8%
+         Employed                             2,691           54.5%       156,704           63.3%
+         Unemployed                           392             7.9%         8,511             3.4%
+         Armed Forces                          0              0.0%         228               0.1%
+         Not in Labor Force                   1,855           37.6%       81,976            33.1%
+         Unemployment Rate                            12.7%                         5.2%
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+
+
+Worker Classification
+
+About 85.9% of Paulsboro Borough’s workforce were employed in private wage and salary
+positions, while 2.0% were self-employed. Government employees made up 12.0% of the
+workforce, and there were no unpaid family workers reported. A detailed breakdown of worker
+classifications is available in Table 14.
+
+ Table 14: Classification of Workers in Paulsboro Borough, 2023
+                                                                 Number               Percent
+ Total                                                            2,691               100.0%
+
+
+
+                                                                                           21 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 26 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+ Private Wage and Salary Worker                                 2,312            85.9%
+ Government Worker                                                 324           12.0%
+ Self-Employed Worker                                              55             2.0%
+ Unpaid Family Worker                                               0             0.0%
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+
+
+Workforce by Sector
+
+An analysis of employed individuals aged 16 and older by economic sector reveals the broad
+spectrum of industries in which Paulsboro Borough's workforce is engaged. The largest sector,
+comprising 30.2% of the workforce (814 employees), is in educational services, healthcare, and
+social assistance, followed by manufacturing with 14.1% of the workforce (320 employees). The
+Retail trade, and Transportation and warehousing, and utilities, sectors each represented
+approximately 13.8% (372 employees) and 9.1% (246 employees) of the Borough's workforce
+respectively, while the Information sector made up 4.6% (123 employees). A detailed breakdown
+of Borough's workforce by sector is provided in Table 14.
+
+ Table 15: Workforce by Sector, 2023
+ Industry                                                           Number     Percent
+ Civilian employed population 16 years and over                     2,691      100.0%
+ Agriculture, forestry, fishing and hunting and mining              0          0.0%
+ Construction                                                       78         2.9%
+ Manufacturing                                                      380        14.1%
+ Wholesale trade                                                    154        5.7%
+ Retail trade                                                       372        13.8%
+ Transportation and warehousing, and utilities                      246        9.1%
+ Information                                                        123        4.6%
+ Finance and insurance, and real estate and rental and              79         2.9%
+ leasing
+ Professional, scientific,  and management,                  and    197        7.3%
+ administration and waste management services
+ Educational services, health care and social assistance            814        30.2%
+ Arts, entertainment, and recreation, and accommodation             119        4.4%
+ and food services
+
+ Other services, except public administration                       129        4.8%
+ Public administration                                              0          0.0%
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+
+
+
+                                                                                  22 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 27 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+Occupations by Type
+
+Table 16 provides a breakdown of occupations within the Borough's employed civilian labor force.
+The largest segment, representing 36.0% (968 employees) of the workforce, is in management,
+business, science, and arts occupations followed by production, transportation, and material
+moving occupations, employing 22.8% (614 employees) of the labor force. Service occupations
+and sales and office occupations both account for approximately 16.3% of the workforce. The
+smallest sector is natural resources, construction, and maintenance occupations, which make up
+just 8.6% (232 employees) of the labor force.
+
+ Table 16: Occupations by Type, 2023
+                                                                            Number      Percent
+ Employed Civilian population 16 years and over                             2,691       100.0%
+ Management, business, science, and arts occupations                        968         36.0%
+ Service occupations                                                        438         16.3%
+ Sales and office occupations                                               439         16.3%
+ Natural resources, construction, and maintenance occupations               232         8.6%
+ Production, transportation, and material moving occupations                614         22.8%
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+
+
+Commuting to Work
+
+As shown in Table 17, the majority of Paulsboro Borough residents (80.1%) commute to work by
+private automobile, slightly above the county’s 76.1%. Approximately 6.5% of residents work
+from home, while other means of transportation is the least common commuting method, used
+by just 0.8% of residents, compared to 1.3% in the county. Notably, around 1.6% of Borough
+residents walk to work, which is a higher proportion than the county’s 1.3%. According to
+American Community Survey (ACS) data, the majority of Paulsboro Borough residents (65.6%)
+have a commute time of less than 30 minutes, which is slightly higher than the county average
+of 59.6%. Additionally, 36.4% of Borough commuters travel less than 20 minutes to work,
+compared to 39.4% countywide. Most Paulsboro residents report a commute time between 20
+and 29 minutes, whereas the majority of county residents commute between 10 and 19 minutes.
+A small share of Paulsboro residents (1.5%) endure commutes of 90 minutes or more, which is
+lower than the county’s 2.7%. Table 18 provides a detailed comparison of commute times
+between Paulsboro Borough and the broader county.
+
+ Table 17: Means of Commute, 2023
+                                                    Paulsboro Borough        Gloucester County
+                                                    Number        Percent    Number     Percent
+ Workers 16 years and over                          2,494         100.0%     153,146     100.0%
+ Car, truck, van -Drove Alone                       1,998         80.1%      116,503    76.1%
+ Car, truck, van - Carpooled                        241           9.7%       10,003      6.5%
+
+
+
+                                                                                       23 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 28 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+ Public transportation (excluding taxicab)            35           1.4%          2,584          1.7%
+ Walked                                               39           1.6%          1,992          1.3%
+ Other means                                          20           0.8%          2,061          1.3%
+ Worked from home                                     161          6.5%          20,003         13.1%
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+
+
+ Table 18: Travel Time to Work, 2023
+                                                 Paulsboro Borough           Gloucester County
+
+                                                 Number        Percent     Number               Percent
+
+ Total                                           2,333         100.0%      133,143              100.0%
+ Less than 10 minutes                            456           19.5%       15,408               11.5%
+ 10 to 19 minutes                                394           16.9%       31,495               27.9%
+ 20 to 29 minutes                                682           29.2%       44,761               20.2%
+ 30 to 44 minutes                                564           24.2%       31,725               23.8%
+ 45 to 59 minutes                                152           6.5%        14,988               11.3%
+ 60 to 89 minutes                                50            2.1%        9,149                6.9%
+ 90 or more minutes                              35            1.5%        3,540                2.7%
+ Mean travel time to work (minutes)                         23.8                         28.9
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03, B08303)
+
+
+
+
+                                                                                            24 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 29 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+FAIR SHARE PLAN
+
+A Fair Share Plan has been defined by the Amended Fair Housing Act at N.J.A.C. 52:27D-304
+as:
+
+   “Fair Share Plan” means the plan or proposal that is in a form which may readily be adopted,
+   with accompanying ordinances and resolutions, pursuant to subsection f. of section 3 of
+   P.L.2024, c.2 (C.52:27D-304.1), by which a municipality proposes to satisfy its obligation to
+   create a realistic opportunity to meet its fair share of low- and moderate-income housing needs
+   of its region and which details the affirmative measures the municipality proposes to undertake
+   to achieve its fair share of low- and moderate-income housing, as provided in the municipal
+   housing element, and addresses the development regulations necessary to implement the
+   housing element, including, but not limited to, inclusionary requirements and development
+   fees, and the elimination of unnecessary housing cost-generating features from the municipal
+   land use ordinances and regulations.
+
+The Fair Share Plan for the Borough of Paulsboro is broken up into four sections;
+
+       Present Need or Rehabilitation Obligation,
+       Prior Round / First and Second Round (1987-1999) Prospective Need Obligation,
+       Third Round (1999-2025) Prospective Need Obligation,
+       Fourth Round (2025-2035) Prospective Need Obligation.
+
+The Borough’s Fair Share Plan describes the completed and proposed mechanisms to address
+the present need (rehabilitation) obligation, First and Second Round (Prior Round) obligation,
+Third Round obligation, and Fourth Round obligation.
+
+The Borough’s Prior Round obligations were determined by COAH, and the Third Round
+obligation has been determined through application of the Jacobsen methodology and using the
+figures published in a report prepared by Fair Share Housing Center. The Borough’s Fourth
+Round obligation numbers were determined using calculations provided by the NJ Department of
+Community Affairs in a report dated October 2024, and adopted by the Borough Council
+(Resolution #25.45) in accordance with the requirements of the Fair Housing Act.
+
+C ONSIDERATION OF L ANDS S UITABLE FOR A FFORDABLE H OUSING
+The New Jersey Fair Housing Act (N.J.S.A. 52:27D-310(f)) requires that the Housing Element
+provide a narrative that includes “a consideration of the lands that are most appropriate for
+construction of low and moderate income housing and of the existing structures most appropriate
+for conversion to, or rehabilitation for, low and moderate income housing, including a
+consideration of lands of developers who have expressed a commitment to provide low and
+moderate income housing.”
+
+The Borough of Paulsboro, situated along the Delaware River, has historically served as a key
+hub for industry and shipping, playing a significant role in the Industrial Revolution in the United
+States. Its strategic location made it a vital center for transportation, including highways, ferry
+lines, and railways. Today, the majority of development and circulation infrastructures are
+concentrated in the central and southern areas of the Borough, with ongoing efforts focused on
+revitalizing existing neighborhoods and making productive use of underdeveloped or vacant land.
+
+
+
+                                                                                       25 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 30 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+The Borough is actively working to rehabilitate older housing stock and enhance infrastructure to
+support sustainable growth in Downtown and Central Paulsboro areas which encompasses
+established residential neighborhoods, including single-family homes and multifamily units. The
+New Jersey State Development and Redevelopment Plan designates most of the Borough as part
+of Planning Area 1, the Metropolitan Planning Area, where development and redevelopment are
+actively encouraged.
+
+S ITE S UITABILITY
+As per previous COAH regulations, the Fair Share Plan must demonstrate site suitability for
+proposed new units that are not yet fully approved, as required by N.J.A.C. 5:93 -5.3.
+
+   A. An “available site” is a site with clear title, and that is free of encumbrances which preclude
+      development for low- and moderate-income housing.
+
+              Although no formal title searches have been conducted at this time, all sites
+              identified in the compliance plan are “available”.
+
+   B. A “developable site” is a site that has access to appropriate water and sewer infrastructure,
+      and is consistent with the applicable area-wide water quality management plan and
+      wastewater management plan.
+
+              All sites in the compliance plan are “developable”. All sites are within the sewer
+              service area and will be served by the Municipal Utilities Authority (MUA).
+
+   C. A “suitable site” is a site that is adjacent to compatible land uses, has access to appropriate
+      streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4 (not
+      in wetlands, flood hazard areas, steep slopes).
+
+              All sites in the compliance plan are “suitable”. Sites encumbered by wetlands,
+              steep slopes, or flood hazards are not included. Sites located in lands that are
+              surrounded by industrial users and lack sufficient space for adequate buffering
+              have also not been included.
+
+   D. An “approvable site” is a site that may be developed for low- and moderate-income
+      housing in a manner consistent with the rules or regulations of all agencies with jurisdiction
+      over the site. A site may be approvable although not currently zoned for low and moderate
+      income housing.
+
+              All sites in the compliance plan are “approvable”. All projects noted in the Prior
+              Round and Third Round plans are either completed, have been approved, or have
+              appropriate zoning regulations in place to make them completely approvable.
+
+M ULTIGENERATIONAL F AMILY H OUSING C ONTINUITY
+The FHA requires the Housing Element and Fair Share Plan to provide an analysis of the extent
+to which municipal ordinances and other local factors advance or detract from the goal of
+preserving multigenerational family continuity as expressed in the recommendations of the
+
+
+
+                                                                                        26 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 31 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+Multigenerational Family Housing Continuity Commission, adopted pursuant to paragraph (1) of
+subsection f. of 23 section 1 of P.L.2021, c.273 (C.52:27D-329.20).
+
+A review of the Borough’s ordinance indicates that there are no ordinances that would specifically
+create a detraction from meeting the Commission’s goal of allowing senior citizens to reside at
+the homes of their extended families. The ordinances in the Borough of Paulsboro do not detract
+from the multigenerational family continuity goal. The Borough should examine its land use
+ordinance for possible expansion of areas where accessory apartments and in-law suites are
+permitted uses.
+
+
+
+
+                                                                                     27 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 32 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+F AIR S HARE O BLIGATION
+The Borough has the following cumulative affordable housing obligations:
+
+       Rehabilitation / Present Need = 130 Units
+
+       Prior Rounds / Third Round = 65 Credits
+
+       Fourth Round (2025-2035) = 16 Credits
+
+
+
+P RESENT N EED (R EHABILITATION ) O BLIGATION
+The Borough has a rehabilitation obligation of 130 units to satisfy the Present Need.
+
+All residents of the Borough are eligible to participate in the Gloucester County Home
+Improvement Program. The County’s Home Improvement Program is a CDBG-funded program
+that provides deferred loans to income qualified low- and moderate-income households to repair
+systems such as heating systems, roofing, plumbing, electrical, and other code violations.
+
+The Borough will commit to supplementing the Gloucester County Home Improvement Program,
+to ensure that at least 130 dwellings occupied by low- or moderate-income households in need
+of repairs are able to receive the necessary rehabilitation of a major system, within the Fourth
+Round period of 2025 – 2035. The Borough will dedicate an average of at least $10,000.00
+towards each project to be paid from the Affordable Housing Trust Fund.
+
+The Borough also reserves the right to reduce its rehabilitation obligation as a result of any
+existing dwellings that are rehabilitated through the Gloucester County program.
+
+
+
+
+                                                                                        28 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 33 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+P RIOR R OUND / T HIRD R OUND O BLIGATIONS (1987-1999)
+The Borough has a cumulative Prospective Need of 65 units for the Prior Round and Third Round.
+The following minimum and maximum requirements apply to the Third Round obligations, in
+accordance with N.J.A.C. 5:97.
+
+Since the Borough is eligible for 16 rental bonus credits, the minimum number of “actual” units
+required is 49 if all bonuses are utilized. The Borough must meet the following minimum and
+maximum requirements in addressing the 65 total unit obligation:
+
+       Low/Moderate Income Split: at least fifty percent (50%) of the units addressing the Third
+       Round Prospective Need shall be affordable to very-low-income and low-income
+       households.
+
+          o   65 x 0.5 = 32.5 (33)
+          o   A minimum of 33 units must be affordable to low income households.
+
+       Rental Units: At least twenty-five percent (25%) of the units addressing the Third Round
+       Prospective Need shall be met through rental units, including at least half in non-age-
+       restricted rental units available to families.
+
+          o   65 x 0.25 = 16.25 (17)
+          o   A minimum of 17 units must be rental units, and at least 9 of those units must be
+              non-age-restricted units that are available to families.
+
+       Age Restricted Units: A maximum of 25 percent (25%) of the units addressing the Third
+       Round can be from age-restricted senior units.
+
+          o   65 x 0.25 = 16.25 (17)
+          o   The Borough may claim a maximum of 16 credits from senior units.
+
+       Family Units: A minimum of fifty percent (50%) of the units addressing the Third Round
+       Obligation must be non-age restricted affordable units available to families.
+
+          o   65 x 0.5 = 32.5 (33)
+          o   A minimum of 33 units must be affordable to families.
+       Rental Bonus Credits: The Borough may claim bonus credits for rental units in
+       accordance with N.J.A.C. 5:93-5.15(d), up to a maximum of 25% of the total obligation.
+          o   The Borough may claim bonus credits for rental units up to 17 bonus credit units.
+
+
+
+
+                                                                                   29 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 34 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+T HIRD R OUND C OMPLIANCE M ECHANISMS
+The Borough proposes to satisfy its 65-unit Third Round obligation through the following
+mechanisms:
+
+      Third Round Credits
+      Project                             Type of Unit         Units        Bonus    Total
+      Paulsboro Gardens                   Family Rental                50       15           65
+      Overall Totals                                                   50       15           65
+
+
+AFFORDABLE HOUSING PROJECTS
+Paulsboro Gardens: 50 credits + 15 family rental bonus credits
+Block 123 Lot 1; Block 132, Lot 1.01
+1A Baird Ave, Paulsboro, NJ 08066
+Status: Proposed
+
+
+
+
+The Paulsboro Gardens development is located at the intersection of Baird Avenue and Manor
+Avenue, in the southeastern corner of the Borough. The project consists of 150 market rate family
+rental apartments, although all tenants currently receive some form of rental assistance as low-
+income households. The buildings on the site were constructed approximately 60 years ago and
+are in need of repairs. A developer, PRC Acquisitions LLC, has proposed to rehabilitate the entire
+development using financial support through NJHMFA to fund a renovation of the complex that
+would also convert the market rate units into low- and moderate-income units. As a requirement
+
+
+                                                                                       30 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 35 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+of receiving funding from NJHMFA, the project will be required to deed restrict all units as
+affordable to low- and moderate-income households. The project is in the application process to
+receive funding from HMFA, and the Borough has adopted a Resolution of Need (Resolution
+#25.87).
+
+With 150 total units proposed for this 100% affordable project, the Borough will apply 50 credits
+and 15 bonus credits towards its Third Round obligation. The remainder of the affordable units in
+this development will be credited to the Fourth Round obligation.
+
+A copy of the Resolution of Need for the project can be found in Appendix C.1
+
+
+
+
+                                                                                    31 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 36 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+F OURTH R OUND O BLIGATIONS
+The Borough has a Fourth Round (2025 – 2035) Obligation of 16 affordable units. As up to 4
+bonus credits may be claimed by the Borough, this obligation requires that at a minimum, 12
+actual affordable units be created.
+The Borough must meet the following minimum and maximum requirements in addressing the
+16-unit obligation, in accordance with N.J.A.C.52:27D-311(l).
+
+       Family Units: A minimum of fifty percent (50%) of the units must be non-age restricted
+       affordable units available to families.
+
+          o   16 x 0.5 = 8
+          o   A minimum of 8 units must be available to families.
+
+       Rental Units: At least twenty-five percent (25%) of the units to be constructed shall be
+       met through rental units, including at least half in non-age-restricted rental units available
+       to families.
+
+          o   16 x 0.25 = 4
+          o   A minimum of 4 units must be rental units, and at least 2 of those units must be
+              non-age-restricted units that are available to families.
+
+       Age Restricted Units: A maximum of 30 percent (30%) of the Borough’s credits can be
+       from age-restricted senior units.
+
+          o   16 x 0.3 = 4.8 (4)
+          o   The Borough may claim a maximum of 4 credits from age-restricted senior units.
+
+       Low/Moderate Income Split: at least fifty percent (50%) of the actual units shall be
+       affordable to very-low-income and low-income households with at least 13% affordable to
+       very low-income households.
+
+          o   16 x 0.5 = 8
+          o   16 x 0.13 = 2
+          o   A minimum of 8 units must be affordable to low-income households, and 2
+              affordable to very low-income households, with at least 1 of those available to
+              families.
+
+       Bonus Credits: The Borough may claim bonus credits for a maximum of 25% of the
+       obligation.
+
+          o   16 x 0.25 = 4
+          o   The Borough may claim a maximum of 4 bonus credits
+
+
+
+
+                                                                                        32 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 37 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+F OURTH R OUND C OMPLIANCE M E CHANISMS
+The Borough shall satisfy its 16-unit Fourth Round (2025-2035) Realistic Development Potential
+through the following mechanisms:
+
+   Fourth Round Credits
+   Project                                   Type of Unit         Units     Bonus     Total
+   Paulsboro Gardens                         Family Rental        100       0         100
+   Michaels Senior                           Senior Rental        4         0         4
+
+   Overall Totals                                                 104       0         104
+
+
+FAMILY RENTAL PROJECTS
+Paulsboro Gardens: 100 credits
+Block 123 Lot 1; Block 132, Lot 1.01
+1A Baird Ave, Paulsboro, NJ 08066
+Status: Proposed
+
+The Paulsboro Gardens development is located at the intersection of Baird Avenue and Manor
+Avenue, in the southeastern corner of the Borough. The project consists of 150 market-rate family
+rental apartments, although all tenants currently receive some form of rental assistance as low-
+income households. The buildings on the site were constructed approximately 60 years ago and
+are in need of repairs. A developer, PRC Acquisitions LLC, has proposed to rehabilitate the entire
+development using financial support through NJHMFA to fund a renovation of the complex that
+would also convert all of the market-rate units into low and moderate income units. As a
+requirement of receiving funding from NJHMFA, the project will be required to deed restrict all
+units as affordable to low- and moderate-income households. The project is in the application
+process to receive funding from HMFA, and the Borough has adopted a Resolution of Need
+(Resolution #25.87).
+
+The Borough applied 50 credits and 15 bonus credits towards its Third Round obligation. The
+remainder of the units in this 100% affordable project will be credited to the Fourth Round
+obligation.
+
+A copy of the Resolution of Need for the project can be found in Appendix C.1
+
+SENIOR RENTAL PROJECTS
+Michaels Organization: 4 credits
+Block 121, Lot 1
+Swedesboro Avenue
+Status: Proposed
+
+The Michaels Organization proposes to construct a 100% affordable senior rental project on
+property located on Swedesboro Avenue near the intersection with Dora Avenue. The property is
+currently vacant and owned by the Borough. The Borough will donate this land to the Michaels
+Organization so that a 100% affordable senior rental project can be constructed on the site. The
+
+
+                                                                                     33 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 38 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+project will consist of a three-story apartment building with 47 one-bedroom affordable senior units
+and 8 two-bedroom affordable senior units.
+
+
+
+
+The Borough will apply 4 credits from this 100% affordable senior rental project towards its Fourth
+Round obligation, as it is capped at that number of age-restricted units that can be applied.
+A copy of the concept plan for the site can be found in Appendix C.2.
+
+
+
+
+                                                                                       34 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 39 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+S UMMARY OF F AIR S HARE P LAN
+PRIOR ROUND / THIRD ROUND OBLIGATION
+
+The Borough has a cumulative obligation of 65 units for the Prior Round and Third Rounds, which
+is completely satisfied by applying a portion of the 150-unit Paulsboro Gardens family rental
+project towards that obligation.
+
+The Paulsboro Gardens project will meet all income and bedroom distribution requirements of
+NJHMFA.
+
+FOURTH ROUND OBLIGATION
+Paulsboro has a Fourth Round prospective need obligation which is completely satisfied by the
+remainder of the family rental credits from the Paulsboro Gardens project. 4 of the 55 senior
+credits from the proposed Michaels Organization’s 100% affordable senior rental project will also
+be applied to the Fourth Round.
+
+Both the Paulsboro Gardens project and the Michael’s Organization project will comply with
+minimum bedroom and income distribution requirements.
+
+
+
+
+                                                                                    35 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 40 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+HOUSING ADMINISTRATION
+
+A FFORDABLE H OUSING O RDINANCE
+The Borough will adopt a new ordinance to address affordable housing requirements consistent
+with the Amended Fair Housing Act and the Uniform Housing Affordability Controls.
+
+D E VELOPMENT F EE O RDINANCE
+The Borough will adopt a mandatory development fee ordinance that will create a dedicated
+revenue stream for affordable housing programs, with all fees deposited into an interest-bearing
+account. The Borough’s ordinance will authorize the collection of 1.5% residential and 2.5% non-
+residential development fees and allow for the collection of 6% fees for a "d" variance where an
+increase in the permitted residential density is involved.
+
+A FFORDABLE H OUSING T RUST F UND
+The Borough will open an interest-bearing affordable housing trust fund, and consistent with the
+updated development fee ordinance discussed above, will impose development fees on all
+applicable residential and non-residential development, and said fees shall be deposited into the
+affordable housing trust fund.
+The Borough will adopt, by resolution, a Spending Plan for the affordable housing trust fund. The
+Spending Plan will outline how the Borough intends to utilize these funds to further the goals and
+mechanisms established in this Plan, and in accordance with prior COAH regulations found at
+N.J.A.C. 5:97 et seq, and with the Fair Housing Act. This will include a summary of revenues and
+expenditures to date from the affordable housing trust fund, identify mechanisms to collect
+revenues, project anticipated future revenues and interest, as well as outline all proposed
+spending from the trust fund. Funds will be spent on appropriate housing activity, affordability
+assistance, and administrative expenses consistent with applicable prior COAH regulations.
+A draft AHTF Spending Plan can be found in Appendix B.1
+
+A FFORDABILITY A SSISTANCE P ROGRAM
+The Borough will address the minimum affordability assistance requirements of the Affordable
+Housing Trust Fund spending in accordance with an Affordability Assistance Program that will be
+implemented, consistent with the Spending Plan outlined above.
+
+M UNICIPAL H OUSING L IAISON
+The Borough will appoint a Municipal Affordable Housing Liaison, who will be responsible for
+overseeing all affordable housing regulations and corresponding with administrative agent(s), the
+public, and all other related affordable housing professionals.
+
+A FFORDABLE H OUSING A DMINISTRATIVE A GENT
+The Borough will appoint a qualified firm to serve as municipal administrative agent to assume
+responsibility for the record keeping, as well as the affirmative marketing, income qualification of
+
+
+                                                                                       36 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 41 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+applicants, and randomized selection of tenants or purchasers of affordable units in Paulsboro
+Borough.
+
+Pursuant to N.J.A.C. 5:80-26.15(f), the Borough will adopt an Affirmative Marketing Plan to ensure
+that all available affordable units are marketed to the appropriate populations.
+
+I NCOME L EVELS
+Paulsboro Borough is in COAH’s Region 5, which includes Gloucester, Burlington, and Camden
+Counties. Moderate-income households are those earning between 50% and 80% of the regional
+median income. Low-income households are those with annual incomes that are between 30%
+and 50% of the regional median income. Very-low income households are a subset of “low
+income” households, and are defined as households earning 30% or less of the regional median
+income.
+
+
+
+
+                                                                                     37 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 42 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan
+
+APPENDICES
+
+   A. Fourth Round Obligations
+          1. Governing Body Resolution
+   B. Administrative Documents
+          1. Affordable Housing Trust Fund Spending Plan
+   C. Crediting Documents
+          1. Paulsboro Gardens
+          2. Michaels Organization
+
+
+
+
+                                                                       38 | P a g e
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 43 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan - Appendices
+
+
+
+APPENDIX A-1
+Resolution Adopting Fourth Round Obligation Numbers
+GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 44 of 60 Trans ID: LCV20251688063
+GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 45 of 60 Trans ID: LCV20251688063
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 46 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan - Appendices
+
+
+
+APPENDIX B-1
+DRAFT Affordable Housing Trust Fund Spending Plan
+DRAFT – Fourth Round Spending Plan – Paulsboro
+
+
+
+                                              Borough of Paulsboro, Gloucester County
+
+                                            Affordable Housing Trust Fund Spending Plan
+
+                                                       Fourth Round (2025 – 2035)
+
+
+INTRODUCTION AND BACKGROUND
+
+The Borough of Paulsboro, Gloucester County, has prepared a Housing Element and Fair Share Plan in accordance with the Municipal Land Use
+Law (N.J.S.A. 40:55D-1 et seq.), the Amended Fair Housing Act (N.J.S.A. 52:27D-301) and consistent with the affordable housing regulations set
+forth at N.J.A.C. 5:93-1 et seq. and N.J.A.C. 5:97-1 et seq.
+
+A development fee ordinance creating a dedicated revenue source for affordable housing will be adopted by Borough Council in 2025. The
+affordable housing development fee ordinance will establish the Borough’s Affordable Housing Trust Fund, which is an interest bearing account
+dedicated to providing funding for affordable housing mechanisms as outlined in the Borough’s Housing Plan Element and Fair Share Plan. All
+development fees, payments in lieu of construction, and other funds related to affordable housing received by the Borough will be deposited
+into this account.
+
+This is Paulsboro’s first Affordable Housing Trust Fund Spending Plan. As the Borough has just established a trust fund, the balance is currently as
+$85,000 due to funds remaining from previous RCA payments from adjacent municipalities in the Region. This Spending Plan is based on
+revenues projected based on previous building permits issued over the past 5 years, and the estimated value of construction of those
+improvements.
+
+This updated Spending Plan is intended to demonstrate commitment of the funds in the Affordable Housing Trust Fund within four years of the
+date of collection as required by P.L. 2008 c.46, anticipated to be deposited during the Fourth Round (through July 2035). The Spending Plan will
+be amended as needed to respond to affordable housing needs or opportunities that may emerge, and may also be amended if there are
+significant changes to anticipated revenue.
+
+This Spending Plan provides estimates of projected funding, proposals for expenditure in support of the Fair Share Plan and the Borough’s
+affordable housing inventory, and provides guidance to ensure that funds are spent in accordance with the requirements of N.J.A.C. 5:97- 8.7
+                                                                                                                                                       GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 47 of 60 Trans ID: LCV20251688063
+
+
+
+
+through 8.10. In accordance with N.J.S.A. 52:27D-329.2 and -329.3, all funds deposited into the Borough’s Affordable Housing Trust Fund are to
+be spent within 4 years of their receipt. The Borough will provide annual monitoring to the AHMS as administered by the NJDCA.
+Borough of Paulsboro – Affordable Housing Trust Fund Spending Plan DRAFT
+
+
+1. REVENUES FOR CERTIFICATION PERIOD
+
+All development fees, payments in lieu of constructing affordable units on site, funds from the sale of units with extinguished controls, and
+interest generated by the trust fund monies will be deposited in a separate interest-bearing affordable housing trust fund account for the
+purposes of supporting and providing affordable housing. These funds have been and shall be spent in accordance with N.J.A.C. 5:97-8.7-8.9, as
+described in the sections that follow.
+
+To calculate a projection of revenue anticipated through 2035, the following have been considered:
+
+   (a) Development fees.
+
+        1. Residential and non-residential construction projects that are subject to the development fee requirements, (Affordable Housing
+           Development Fees) and fees for developments that have already received approval by the Borough Land Use Board;
+
+        2. Applications for residential and non-residential construction projects that are currently pending and will be heard by the Land
+           Development Board and are likely to receive building permits and/or certificates of occupancy before 2035; and
+
+        3. Residential and non-residential construction projects that are likely to occur before 2035 based on available land, economic
+           conditions, and historical rates of development.
+
+        4. For the purposes of this plan, estimated development fees are $15,000 annually for the remainder of the reporting period. This is
+           based on a calculation of the estimated value of construction per building permit data for the past 5 years.
+
+   (b) Payment in lieu (PIL) of on-site construction.
+
+       Payments in lieu (PIL) of construction from residential developers that have or are expected to enter into an agreement with the Borough
+       to make a specific payment to the Affordable Housing Trust Fund in lieu of providing affordable housing units onsite.
+
+       At this time, the Borough is not anticipating any payments in lieu of construction.
+
+   (c) Other funding sources.
+
+        Potential funds from other sources include the sale of units with extinguished controls, repayment of affordable housing program loans
+        (such as rehabilitation or down payment assistance), rental income, and proceeds from the sale of affordable units.
+                                                                                                                                                  GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 48 of 60 Trans ID: LCV20251688063
+
+
+
+
+May 2025                                                                                                                                  2
+Borough of Paulsboro – Affordable Housing Trust Fund Spending Plan DRAFT
+
+
+          Any such payments will be accepted, but at this time the Borough is not anticipating any alternative sources of revenue, and no
+          projections of revenue derive from such payments.
+
+     (d) Projected interest.
+
+          Interest on the projected revenue in the municipal affordable housing trust fund at the current average interest rate. The interest is
+          conservatively estimated to be approximately $500 per year. All interest earned on the account shall be used only for the purposes of
+          affordable housing.
+
+                                                               Table 1. Projected Revenues 2025 - 2035
+ Starting Balance (12/31/2024)           $85,000
+ SOURCE OF FUNDS                          2025      2026      2027       2028        2029        2030     2031      2032      2033      2034     2035         Total
+ (a) Development Fees:                   $15,000   $15,000   $15,000   $15,000     $15,000     $15,000   $15,000   $15,000   $15,000   $15,000   $7,000   $172,000
+ 1. Approved Development                   $0        $0        $0         $0          $0          $0       $0        $0        $0        $0       $0           -
+ 2. Development Pending Approval           $0      $15,000     $0         $0          $0          $0       $0        $0        $0        $0       $0      $15,000
+ 3. Projected Development                $15,000   $15,000   $15,000   $15,000     $15,000     $15,000   $15,000   $15,000   $15,000   $15,000   $7,000   $157,000
+ (b) Payments in Lieu of Construction      $0        $0        $0         $0          $0          $0       $0        $0        $0        $0       $0           $0
+ (c) Other sources                         $0        $0        $0         $0          $0          $0       $0        $0        $0        $0       $0           $0
+ (d) Interest on Total Account Balance    $500      $500      $500       $500        $500        $500     $500      $500      $500      $500     $250     $5,250
+ Total                                   $15,500   $30,500   $15,500   $15,500     $15,500     $15,500   $15,500   $15,500   $15,500   $15,500   $7,250   $177,250
+
+
+          Paulsboro projects a total revenue of $177,250.00 to be collected from January 2025 through July 2035. When combined with the
+          existing balance of $85,000 from prior RCA payments accepted by the Borough, Paulsboro can anticipate to have a total of $262,250.00
+          to spend on funding and administering affordable housing programs until 2035.
+
+
+                                                                                                                                                                      GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 49 of 60 Trans ID: LCV20251688063
+
+
+
+
+May 2025                                                                                                                                                  3
+Borough of Paulsboro – Affordable Housing Trust Fund Spending Plan DRAFT
+
+
+2. ADMINISTRATIVE MECHANISM TO COLLECT AND DISTRIBUTE FUNDS
+
+Paulsboro will follow the following procedures for the collection and distribution of affordable housing trust fund revenues.
+
+    (a) Collection of fees and payments:
+
+        1. Development fees shall be collected consistent with the Borough’s development fee ordinance for both residential and non-
+           residential projects in accordance with the N.J.A.C. 5:97-1 et seq and P.L.2008, c.46, sections 8 (C. 52:27D-329.2) and 32-38 (C.
+           40:55D-8.1 through 8.7).
+
+        2. Payments-in-lieu shall be collected as set forth in an Agreement between the Borough and the Developer. Typically, payments will
+           be made in no more than four (4) installments as the development progresses and the entire payment shall be made prior to the
+           issuance of the final Certificate of Occupancy.
+
+    (b) Distribution of development fee revenues:
+
+        1. The Municipal Housing Liaison, Borough Planner, Administrative Agent, and Borough Manager coordinate compliance and
+           implementation of the Spending Plan as it relates to the Fair Share Plan; and coordinate recommendations for expenditure of funds
+           in support of compliance or implementation of the Spending Plan.
+
+        2. The Borough Manager authorizes staff to prepare a Resolution that includes an explanation of how the expenditure advances the
+           Borough’s affordable housing objectives, implements some aspect of the Fair Share Plan, and is consistent with the Spending Plan.
+
+        3. Borough Council reviews the request and authorizes the expenditure by resolution.
+
+        4. The Municipal Housing Liaison and the CFO maintain accounting of expenditures.
+                                                                                                                                               GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 50 of 60 Trans ID: LCV20251688063
+
+
+
+
+May 2025                                                                                                                                  4
+Borough of Paulsboro – Affordable Housing Trust Fund Spending Plan DRAFT
+
+
+3. DESCRIPTION OF ANTICIPATED USE OF AFFORDABLE HOUSING FUNDS
+
+   (a) New construction, extension of controls, and conversion programs and projects (N.J.A.C. 5:97-8.7)
+
+   Rehabilitation Program: $100,000.00
+
+   The Borough will commit to supplementing the Gloucester County Home Improvement Program, to ensure that at least dwellings occupied
+   by low or moderate income households that are in need of repairs are able to receive the necessary rehabilitation of a major system, within
+   the Fourth Round period of 2025 – 2035. The Borough will dedicate an average of at least $10,000.00 towards each project to be paid from
+   the Affordable Housing Trust Fund to supplement the County program.
+
+   (b) Affordability Assistance (N.J.A.C. 5:97-8.8):
+
+   Municipalities are required to spend a minimum of 30% of development fee revenue to render existing affordable units more affordable and
+   one-third of that amount must be dedicated to very-low-income households. The table below projects the minimum required affordability
+   assistance:
+
+                                                         Table 2. Minimum Affordability Assistance
+                              Actual development fees and interest through 12/31/2024                             $0.00
+                              Development fees projected 2025-2035                                      +   $172,000.00
+                              Interest projected 2025-2035                                              +     $5,250.00
+                              Other funds (RCA Payment)                                                 +    $85,000.00
+                              Less housing activity expenditures through 12/31/2024                     -         $0.00
+                              Less projected Rehabilitation Program expenditures through                -   $100,000.00
+                              2035
+                              Total                                                                     =   $162,250.00
+                              30 percent requirement                                             x 0.30 =    $48,675.00
+                              Less affordability assistance expenditures through 06/30/2025             -         $0.00
+
+                              Projected Minimum Affordability Assistance Requirement                   =     $48,675.00
+                              6/30/2025 through 06/30/2035
+                              Projected Minimum Very Low-Income Affordability Assistance         x 0.34 =    $16,549.50
+                              Requirement 12/31/2024 through 06/30/2035
+                                                                                                                                                 GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 51 of 60 Trans ID: LCV20251688063
+
+
+
+
+May 2025                                                                                                                               5
+Borough of Paulsboro – Affordable Housing Trust Fund Spending Plan DRAFT
+
+
+   Paulsboro is required to dedicate a minimum of $48,675 from the affordable housing trust fund to provide affordability assistance, with at
+   least 1/3 of the required affordability assistance spending must be dedicated to providing assistance to very-low income households. This
+   would be a minimum of $16,549 that must be directed towards making housing more affordable specifically to very-low income households.
+
+   In accordance with N.J.A.C. 52:27D-329.2, the programs considered to provide affordability assistance to low and moderate income
+   households may include the following:
+
+       1. Down Payment Assistance Program;
+       2. Security Deposit Assistance Program;
+       3. Low interest loans;
+       4. Maintenance expenses for condominiums;
+       5. Rental assistance;
+       6. Any other program authorized by the Department of Community Affairs (NJDCA)
+
+   (c) Administrative Expenses (N.J.A.C. 5:97-8.9)
+
+   Administrative expenses are subject to a twenty percent (20%) cap. The table below demonstrates the maximum amount of Affordable
+   Housing Trust Fund revenue that will be available for administrative expenses through 2035.
+
+                                                     Table 3. Administrative Expense Calculation
+                                Actual development fees and interest through 02/15/2025                      $0.00
+                                Development fees and funds projected 2025-2035                     +   $177,250.00
+                                                                                                   -         $0.00
+                                Less Payment in Lieu Funds                                         -
+                                Total                                                              =   $177,250.00
+                                Calculate 20 percent                                         x .20 =    $35,450.00
+                                Less administrative expenditures through 02/15/2025                -         $0.00
+                                Projected maximum allowable for administrative expenses
+                                                                                                   =    $35,450.00
+                                02/15/2025 through 06/30/2035
+
+   Paulsboro projects that $35,450.00 will be available for administrative expenses through 2035. However, since there is no certainty about
+                                                                                                                                                GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 52 of 60 Trans ID: LCV20251688063
+
+
+
+
+   the timing of revenue deposits, the Borough will continue to calculate the maximum amount to be expended on administrative expenses
+   yearly. Projected administrative expenditures, subject to the 20 percent cap, are as follows:
+
+May 2025                                                                                                                               6
+Borough of Paulsboro – Affordable Housing Trust Fund Spending Plan DRAFT
+
+
+       1. Wait list management and general administration.
+       2. Administration of Down Payment Assistance Program by Administrative Agent
+       3. Establishment and Administration of Homeowner Association Fee Assistance Program by Administrative Agent
+       4. Establishment and Administration of the Very Low-Income Assistance program
+       5. Establishment, Implementation, Administration of Market to Affordable program
+       6. Fees for the sale of affordable units that are priced such that 3% of sale price is less than the Administrative Agent’s minimum fee
+          (Borough pays the difference).
+       7. Preparation and Review of Affordable Housing Agreements, Resolutions, Deed Restrictions for affordable housing developments.
+       8. Preliminary engineering analysis for affordable housing sites
+       9. GIS mapping and analysis related to preparation and implementation of the Fair Share Plan.
+       10. Litigation expenses for the review and implementation of the Fourth Round Housing Element and Fair Share Plan.
+
+   (d) Emerging Compliance Mechanisms (N.J.A.C. 5:97-8.11):
+
+   Paulsboro will give consideration to mechanisms not currently identified in the May 2025 Housing Element and Fair Share Plan as new and
+   unforeseen opportunities to provide additional affordable housing arise in the future. This may include providing funding assistance to a new
+   100% affordable project that has yet to be proposed by a developer, additional rehabilitation of existing deficient housing units,
+   development of special needs housing, or reallocating additional projected revenues towards affordability assistance programs.
+
+
+
+
+                                                                                                                                                   GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 53 of 60 Trans ID: LCV20251688063
+
+
+
+
+May 2025                                                                                                                                 7
+Borough of Paulsboro – Affordable Housing Trust Fund Spending Plan DRAFT
+
+
+4. EXPENDITURE SCHEDULE
+
+Paulsboro intends to use affordable housing trust fund revenues for the creation and maintenance of affordable housing units, for affordability
+assistance, and for administration as set forth above. The Borough will commit funds to specific programs as outlined above, or the plan will be
+amended.
+
+                                                 TABLE 4. Projected Expenditure Schedule 2025-2035
+ Programs           2025      2026       2027       2028        2029      2030       2031       2032     2033       2034      2035      Total
+ Rehabilitation   $16,700    $16,700   $16,700     $16,700    $16,700   $16,700    $16,700    $16,700   $16,700   $16,700             $167,000
+ Affordability     $4,868    $4,868     $4,868     $4,868     $4,868     $4,868    $4,868     $4,868    $4,868     $4,868              $48,675
+ Assistance
+ Emerging                    $1,113     $1,113     $1,113     $1,113     $1,113    $1,113     $1,113    $1,113     $1,113    $1,113    $11,125
+ Mechanisms
+ Administration      $0      $3,545     $3,545     $3,545     $3,545     $3,545    $3,545     $3,545    $3,545     $3,545    $3,545    $35,450
+ Total            $21,568    $26,225   $26,225     $26,225    $26,225   $26,225    $26,225    $26,225   $26,225   $26,225    $4,658   $262,250
+
+
+
+
+                                                                                                                                                   GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 54 of 60 Trans ID: LCV20251688063
+
+
+
+
+May 2025                                                                                                                                 8
+Borough of Paulsboro – Affordable Housing Trust Fund Spending Plan DRAFT
+
+
+5. EXCESS OR SHORTFALL OF FUNDS
+
+The Borough’s rehabilitation obligation of 130 units far exceeds the anticipated revenues for the Fourth Round that Paulsboro can realistically
+anticipate collecting, based on past development activity. However, as there is one large redevelopment area within the Borough that is
+available, there is the potential that a large redevelopment project may occur which could require payment of substantial non-residential
+development fees. In the event that large development fees are deposited, this additional funding will be used to support the Borough’s
+rehabilitation efforts.
+
+The Borough plans to implement the programs set forth in the Fourth Round Fair Share Plan and the Spending Plan incrementally with the funds
+that are available; and will ensure that the collected funds are spent consistent with the applicable rules and regulations and in a manner that
+advances the Borough’s affordable housing goals. The purpose of the Spending Plan is to plan for expenditure of monies in the Affordable
+Housing Trust Fund. N.J.A.C. 5:97-8.10(a)(9) requires that the spending plan address the “manner through which the municipality will address
+any expected or unexpected shortfall if the anticipated revenues are not sufficient to implement the plan”. Paulsboro will assess the status of
+the AHTF and implementation of the Fair Share Plan annually.
+
+In the event more funds than anticipated are collected and the available funds exceed the amount necessary to implement the Fair Share Plan,
+the excess funds may be used to expand the programs described above.
+
+
+
+
+                                                                                                                                                   GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 55 of 60 Trans ID: LCV20251688063
+
+
+
+
+May 2025                                                                                                                                  9
+Borough of Paulsboro – Affordable Housing Trust Fund Spending Plan DRAFT
+
+
+SUMMARY
+
+The Borough of Paulsboro intends to spend affordable housing trust fund revenues pursuant to N.J.A.C. 5:97-8.7 through 8.9 and consistent with
+the programs outlined in the Fourth Round Housing Element and Fair Share Plan dated May 2025 and this Spending Plan.
+
+Paulsboro anticipates collection of $177,250.00 in revenues through 2035. The municipality has provided a plan to spend projected revenues on
+specific projects and programs. The exact timing of additional revenues is uncertain, but the estimate is realistic based on development trends in
+the Borough. The Spending Plan will be amended if needed to adjust for changed needs or emergent opportunities for affordable housing
+production or assistance.
+
+                                                          Table 5. Spending Plan Summary
+                                        Balance as of December 31, 2024                        $85,000.00
+
+                                        Projected Revenue 2025-2035                           $177,250.00
+                                        Development Fees                                      $172,000.00
+                                        Other Funds                                                 $0.00
+                                        Interest                                                $5,250.00
+                                        Payment in Lieu                                             $0.00
+
+                                                                         TOTAL REVENUE        $262,250.00
+
+                                        Expenditures
+                                        Rehabilitation                                        $167,000.00
+                                        Affordability Assistance                               $48,675.00
+                                        Emerging Mechanisms                                    $11,125.00
+                                        Administration                                         $35,450.00
+
+                                                         TOTAL PROJECTED EXPENDITURES         $262,250.00
+                                                                   REMAINING BALANCE                $0.00
+                                                                                                                                                     GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 56 of 60 Trans ID: LCV20251688063
+
+
+
+
+May 2025                                                                                                                                  10
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 57 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan - Appendices
+
+
+
+APPENDIX C-1
+Paulsboro Gardens – Resolution of Need
+GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 58 of 60 Trans ID: LCV20251688063
+    GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 59 of 60 Trans ID: LCV20251688063
+
+
+
+Paulsboro Borough – Housing Plan Element and Fair Share Plan - Appendices
+
+
+
+APPENDIX C-2
+Michaels Organization Concept Plan
+GLO-L-000149-25 06/05/2025 5:20:45 PM Pg 60 of 60 Trans ID: LCV20251688063
+

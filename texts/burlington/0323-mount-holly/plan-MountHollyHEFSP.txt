@@ -1,0 +1,2087 @@
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 1 of 48 Trans ID: LCV20251798187
+
+
+
+
+                   2025 HOUSING ELEMENT and FAIR SHARE PLAN
+                          TOWNSHIP OF MOUNT HOLLY
+
+
+                            MOUNT HOLLY TOWNSHIP
+                        BURLINGTON COUNTY, NEW JERSEY
+
+
+
+
+                                     Prepared By:
+                            Environmental Resolutions, Inc.
+                             815 East Gate Drive, Suite 103
+                            Mount Laurel, New Jersey 08054
+                                   (856) 235-7170
+
+                                    Prepared For:
+                                Mount Holly Township
+                                23 Washington Street
+                                Mount Holly, NJ 08060
+
+
+
+
+                                          ___________________________________________
+                                                                      Brett Harris, AICP PP
+                                                   NJ Professional Planner #33LI00650100
+June 5, 2025
+#29040 02                                                with assistance from Ibrahim Faye, Planning Intern
+
+                                          The original document was appropriately signed and sealed in ac-
+                                          cordance with Chapter 41 of Title 13 of the State Board of Profes-
+                                          sional Planners.
+      BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 2 of 48 Trans ID: LCV20251798187
+                                                                          Environmental Resolutions, Inc
+June 5, 2025                                                                          Project 29040 02
+                                                                                           Page 2 of 17
+
+
+
+                                   ACKNOWLEDGMENTS
+
+
+                                     Township Council
+                                    Hon. Chris Banks, Mayor
+                                 Rich DiFolco, Deputy Mayor
+                                           Tara Astor
+                                          Lew Brown
+                                          Kim Burkus
+
+                       Mount Holly Township Land Use Planning Board
+                                    Zachary Klein, Chair
+                                 Nicole Saucier, Vice Chair
+                                  Hon. Chris Banks, Mayor
+                                       Scott Bayley
+                                Rich DiFolco, Deputy Mayor
+                                       Richard Dow
+                                        Dean Parker
+                                     Stephan Stafford
+                                       Robert Adler
+                                    Anthony Prilo Alt #1
+                                    Paul Kennedy Alt #2
+
+                         Michele Gittinger, Land Use Board Secretary
+                             M. Lou Garty, Esq., Board Attorney
+                               Rick Alaimo, PE, Board Engineer
+                       Timothy G. Kaluhiokalani, LLA, PP, Board Planner
+
+                                Mount Holly Township Staff
+                               Joshua Brown, Township Manager
+                                Sherry Marnell, Township Clerk
+                                  Ray Holshue, Zoning Official
+       BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 3 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02             Mount Holly Township Housing Element & Fair Share Plan                                                         6/5/2025
+
+
+
+
+CONTENTS
+INTRODUCTION .................................................................................................................................2
+   MOUNT HOLLY’S AFFORDABLE HOUSING COMPLIANCE HISTORY ......................................................... 2
+   MUNICIPAL SUMMARY .......................................................................................................................... 3
+AFFORDABLE HOUSING OBLIGATION ..................................................................................................4
+   PRESENT NEED .................................................................................................................................... 4
+   FRAMEWORK FOR NEW CONSTRUCTION .............................................................................................. 4
+   ZONING AND FEES ............................................................................................................................... 6
+   REDEVELOPMENT ................................................................................................................................ 6
+   MUNICIPALLY SPONSORED PROJECTS .................................................................................................. 6
+   MARKET TO AFFORDABLE ..................................................................................................................... 7
+   AFFORDABILITY REQUIREMENTS ........................................................................................................... 8
+   VACANT LAND ADJUSTMENT ANALYSIS .................................................................................................. 8
+   GOAL OF MOUNT HOLLY TOWNSHIP ..................................................................................................... 8
+THE HOUSING ELEMENT .....................................................................................................................9
+   DEMOGRAPHICS ................................................................................................................................ 10
+   HOUSING........................................................................................................................................... 14
+   HOUSING AFFORDABILITY .................................................................................................................. 20
+   SOCIOECONOMICS ........................................................................................................................... 23
+FAIR SHARE PLAN............................................................................................................................. 28
+   BACKGROUND ................................................................................................................................... 28
+   CONSIDERATION OF LANDS MOST APPROPRIATE FOR AFFORDABLE HOUSING .................................... 30
+   THE TOWNSHIP’S AFFORDABLE HOUSING OBLIGATION ...................................................................... 32
+   PRESENT NEED (REHABILITATION) OBLIGATION ................................................................................... 32
+   PROSPECTIVE NEED (FOURTH ROUND) OBLIGATION ........................................................................... 38
+   AFFORDABLE HOUSING ADMINISTRATION & AFFIRMATIVE MARKETING ................................................ 45
+   AFFORDABLE HOUSING TRUST FUND ................................................................................................. 46
+
+
+
+Appendix A – Planning Board Resolution
+
+Appendix B – Governing Body Resolution
+
+Appendix C – FSHC Settlement Agreements
+
+Appendix D – Affordable Housing Ordinance & Affirmative Marketing Plan
+
+Appendix E – Development Fee Ordinance
+
+Appendix F – Crediting Documentation
+
+                                                                  Page 1 of 46
+        BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 4 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02     Mount Holly Township Housing Element & Fair Share Plan                      6/5/2025
+
+
+
+INTRODUCTION
+According to the Fair Housing Act of 1985, a Housing Plan Element shall be designed to achieve the
+goal of access to affordable housing to meet present and prospective housing needs, with particular
+attention to low and moderate-income housing.
+This is the Township of Mount Holly’s Housing Element and Fair Share Plan (hereinafter “HEFSP”) for
+the period between 2025 and 2035. On March 19, 2024, Governor Phil Murphy signed significant
+affordable housing legislation through Bill A-4/S-50, aiming to streamline and enhance the state's
+approach to affordable housing obligations.
+Key Provisions of the Legislation:
+
+    •    Establishment of a New Framework: The law introduces a streamlined process for
+         determining and enforcing municipalities' affordable housing obligations under the New
+         Jersey Supreme Court's Mount Laurel Doctrine and the State's Fair Housing Act. Starting in
+         2025, the Department of Community Affairs (DCA) will publish non-binding calculations of
+         municipalities' current and prospective affordable housing needs, using a formula based on
+         prior court decisions.
+    •    Dispute Resolution Program: To expedite the resolution of disputes regarding
+         municipalities' affordable housing obligations and plans, the legislation establishes a new
+         Affordable Housing Dispute Resolution Program. This program aims to reduce litigation-
+         related delays and provide more certainty for housing developers.
+    •    Abolishment of COAH: The Council on Affordable Housing (COAH), which had been defunct
+         for over a decade, is formally abolished under this bill. The new process replaces the role
+         previously played by COAH, streamlining compliance and reducing delays in the
+         construction of new affordable housing.
+    •    Incentives for Specific Housing Projects: The legislation includes provisions for "bonus
+         credits," allowing certain affordable housing units to be credited as 1.5 or 2 units. This
+         system incentivizes the development of age-restricted housing, housing for individuals with
+         special needs, and projects located near mass transit stations. The use of bonus credits is
+         capped at 25% of a municipality's prospective need obligations.
+    •    Transparency and Accountability: The law mandates increased transparency at each stage
+         of the affordable housing process, including the adoption of initial housing plans, the
+         availability and allocation of state housing trust funds, and the number of housing units built.
+         This ensures that municipalities and developers can plan more effectively and that the public
+         remains informed about affordable housing developments.
+New Jersey seeks to enhance the efficiency and fairness of affordable housing development by
+implementing these measures, offering clearer municipal guidance, minimizing legal disputes, and
+expanding housing availability statewide.
+On October 18, 2024, the Department of Community Affairs (‘DCA’) released “Affordable Housing
+Obligations for 2025-2035” as the recently enacted law required.
+
+
+MOUNT HOLLY’S AFFORDABLE HOUSING COMPLIANCE HISTORY
+The Township of Mount Holly has a history of providing affordable housing and has demonstrated
+compliance with relevant regulations, statutes, and policy related to the Mt. Laurel Doctrine and the
+production of affordable housing in the State. Mount Holly Township was designated an Urban Aid
+
+                                              Page 2 of 46
+      BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 5 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02    Mount Holly Township Housing Element & Fair Share Plan                       6/5/2025
+
+
+
+Municipality in 1989, following First Round Certification. The Township received Second Round
+Council on Affordable Housing (“COAH”) Certification for its Second Round Plan on June 5, 1996.
+The Township filed a Complaint for Declaratory Judgment and on August 2, 2002, the Township
+received a jurisdictional and protective order from the New Jersey Superior Court. In November 2005
+Mount Holly adopted a Third Round HEFSP (Housing Element & Fair Share Plan) in accordance with
+the Third Round rules and on February 16, 2006, the Township was granted a Third Round Judgment
+of Compliance and Repose.
+
+In 2019 the Township settled with Fair Share Housing Center (FSHC), through a Settlement
+Agreement dated May 23, 2019. The 2019 Agreement established the Township's fair share
+obligation, including a Third Round Rehabilitation Share of 13 units, a 0-unit Prior Round (1987-1999)
+obligation, and a 0-unit Third Round (1999-2025) Gap and Prospective Need obligation, as evidenced
+in Appendix C. The Court granted the Township a Conditional Judgment of Repose (JOR) on January
+30, 2020. A Final Judgement of Repose was granted on June 20, 2020.
+
+In 2019, the Township believed Virtua Health’s Memorial Hospital site was available to provide a
+realistic opportunity for the development of affordable housing. The Township adopted an overlay
+zoning ordinance to create the opportunity for the development of affordable housing. However, in
+June 2021, the owner of the Virtua Hospital site filed a motion for relief from the JOR, noting its site
+was no longer available to provide a realistic opportunity. Subsequent negotiations between the
+Township and FSHC have resulted in an Amended FSHC Settlement Agreement (2021 Amended
+Agreement). The 2021 Amended Agreement was signed by the Township Mayor on December 13,
+2021. The 2021 Amended Agreement the Township adopt a mandatory set-aside ordinance and the
+adoption of inclusionary zoning on 4 sites.
+
+
+MUNICIPAL SUMMARY
+The Township of Mount Holly is a 2.9 square mile town located in Burlington County, serving as the
+County seat. The Township is bordered by four municipalities, which include Westampton Township
+to the north and northwest, Eastampton Township to the east, Lumberton Township to the south and
+Hainesport Township to the west. Mount Holly has served as the regional center of Burlington County
+since its inception, which has created a strong institutional presence in the Township. The Burlington
+County Courthouse, Burlington County Jail, Virtua Hospital, and Rowan College contribute to the
+institutional nature of the municipality. The Township is nearly completely developed, with a historic
+mixed-use core near the geographic center. The north branch of the Rancocas Creek runs through
+the municipality offering unique natural charm to the area, historically supporting industrial uses
+and currently is used for recreational activities. The Township has maintained historic buildings and
+districts, enhancing its unique character and appeal. The legacy of its industrial past is evident in the
+preserved mill buildings and the continued importance of the Rancocas Creek. Mount Holly is
+celebrated for its historical sites, quaint downtown, and community events that honor its rich
+heritage.
+
+
+
+
+                                              Page 3 of 46
+        BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 6 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02     Mount Holly Township Housing Element & Fair Share Plan                      6/5/2025
+
+
+
+AFFORDABLE HOUSING OBLIGATION
+On October 18, 2024, the Department of Community Affairs (‘DCA’) released “Affordable Housing
+Obligations for 2025-2035” as required by the recently enacted law. The Township’s obligation is
+identified in the chart below:
+                    MOUNT HOLLY'S AFFORDABLE HOUSING OBLIGATION 2025-2035
+                   REHABILITATION        PRIOR ROUND         FOURTH ROUND         NET FOURTH ROUND
+                     (Present Need)                          (Prospective Need)     (Prospective Need)
+
+OBLIGATION                42                   0                    41                      41
+
+
+
+PRESENT NEED
+A municipality may satisfy its present need obligation through the implementation of a rehabilitation
+program. Such a program must focus on repairing or replacing essential housing systems, such as
+roofing, plumbing, electrical, heating, or structural (load bearing) elements, in order to bring existing
+housing units into compliance with applicable codes. The program must be administered by an
+entity with demonstrated experience in affordable housing rehabilitation and must be detailed in a
+manual subject to approval.
+The minimum average hard cost per unit (excluding administrative expenses) for an eligible
+rehabilitation program was $10,000 in prior Round 3. Actual costs will vary depending on the scope
+of repairs required to achieve code compliance. The Courts adopted the Council on Affordable
+Housing (COAH) mandate of a 10-year affordability control period following the completion of
+rehabilitation activities. For owner-occupied units, this control may be enforced through a forgivable
+loan structure.
+
+
+FRAMEWORK FOR NEW CONSTRUCTION
+When it was in existence, COAH had rules that provided a framework for addressing the municipal
+housing obligation. All affordable housing must be affirmatively marketed. The FHA limits age-
+restricted housing to no more than 30 percent of affordable housing units. A municipality shall not
+receive more than one type of bonus credit for any unit.
+    •    A municipality shall not be permitted to satisfy more than 25% of its prospective need
+         obligations through the use of bonus credits.
+    •    The FHA, as amended, eliminated the rental bonus credit for family units.
+    •    Special Needs: One unit of credit and one bonus credit for each unit of low- or moderate-
+         income housing for individuals with special needs or permanent supportive housing.
+    •    Non-Profit Partnership: One unit of credit and one-half bonus credit for each unit of low- or
+         moderate-income housing unit created in partnership with a non-profit housing developer.
+    •    Proximity to Transit: One unit of credit and one-half bonus credit for each unit of low- or
+         moderate-income housing located within a one-half mile radius (one-mile radius if located
+         in a Garden State Growth Zone) surrounding a NJ Transit Port Authority Transit Corp., Port
+         Authority Trans-Hudson Corp., rail, bus, or ferry station, including all light rail stations.
+    •    Age-Restricted: One unit of credit and one-half bonus credit for a unit of age-restricted
+         housing. (Bonus credit only applicable to 15% of all age-restricted housing built that count
+         towards the affordable housing obligation.)
+                                              Page 4 of 46
+        BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 7 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02     Mount Holly Township Housing Element & Fair Share Plan                     6/5/2025
+
+
+
+    •    Family Housing: One unit of credit and one-half bonus credit for each unit of low- or
+         moderate-income family housing with at least three bedrooms above the minimum number
+         required by the bedroom distribution in a given development.
+    •    Redevelopment: One unit of credit and one-half bonus credit for each unit of low- or
+         moderate-income housing constructed on land that is or was previously developed and
+         utilized for retail, office, or commercial space.
+    •    Extension of Affordability Controls: One unit of credit and one-half bonus credit for each
+         existing low- or moderate-income rental housing unit for which affordability controls are
+         extended for a new term, and the municipality contributes funding towards the costs
+         necessary for this preservation.
+    •    100% Affordable with Municipal Contribution: One unit of credit and one-half bonus credit
+         for each unit of low- or moderate-income housing in a 100% affordable housing project,
+         which the municipality either contributes property without which the project would not be
+         feasible, or makes contributions from the municipal affordable housing trust fund that
+         covers no less than 10% of the project costs.
+    •    Very Low Income: One unit of credit and one-half bonus credit for each unit of very low-
+         income housing for families above the 13% of units required to be preserved for very low-
+         income housing.
+    •    Age Restricted Housing: A municipality may not satisfy more than 25% of the affordable
+         housing units, exclusive of bonus credits, to address its prospective need obligation through
+         the creation of age-restricted housing. This is a continuation of the current requirements.
+    •    Housing Available to Families with Children: A municipality must satisfy at least 50% of the
+         actual affordable housing units, exclusive of bonus credits, created to address its
+         prospective need obligation through the creation of housing available to families with
+         children. This is a continuation of current requirements.
+    •    Rental Housing: A municipality must satisfy at least 25% of the actual affordable housing
+         units, exclusive of bonus credits, to address its prospective need obligation through rental
+         units. At least half of that number must be available for families with children. This is a
+         continuation of current requirements.
+    •    Very Low Income: 13% of the housing units made available for low- and moderate-income
+         households must be reserved for occupancy by very low-income households. (This is not
+         new.) What is new is that at least half of that number must be made available to families with
+         children.
+    •    Transitional Housing: A municipality shall not credit transitional housing credits to more than
+         10% of the municipality’s fair share obligation.
+    •    Length of Affordability: The amended FHA increased the minimum period requiring
+         affordability controls to 40 years for rental units and maintained 30 years for for-sale units.
+
+
+
+
+                                              Page 5 of 46
+      BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 8 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan                    6/5/2025
+
+
+
+ZONING AND FEES
+Inclusionary zoning is among the few methods recognized by the Courts and the Council on
+Affordable Housing (COAH) that limit the municipality's direct financial responsibility in the
+production of affordable housing. Once appropriate zoning is in place, the Township's primary
+obligations are to expedite the approval process for inclusionary developments and to eliminate
+unnecessary cost-generating regulations, as outlined in N.J.A.C. 5:93-10.
+The Courts and COAH acknowledge that affordable rental housing typically requires a greater
+subsidy than affordable for-sale units. Accordingly, N.J.A.C. 5:93-5.15 mandates that incentives be
+provided to encourage rental development, such as increased density allowances and reduced set-
+aside requirements.
+Municipalities are also permitted to collect development fees on residential sites not zoned for
+affordable housing production. These fees serve as exactions designated for affordable housing
+initiatives. COAH regulations allow for a development fee of up to 1.5 percent on all residential
+development. If a developer is granted a density bonus, the municipality may collect a 6 percent fee
+on the additional units gained through the bonus. Additionally, a 2.5 percent development fee may
+be imposed on non-residential development.
+The use of development fees is subject to specific restrictions. No more than 20 percent of collected
+fees may be allocated for administrative expenses. A minimum of 30 percent must be dedicated to
+initiatives that increase the affordability of housing for low- and moderate-income households.
+
+
+REDEVELOPMENT
+A municipality may facilitate the development of affordable housing through redevelopment under
+the Local Redevelopment and Housing Law. All sites identified for redevelopment must meet
+accepted standards for suitability. The municipality is required to designate the area as an area in
+need of redevelopment, adopt a formal redevelopment plan, designate a redeveloper, and establish
+a projected timeline for site redevelopment. In the absence of an active developer, the preference
+has been for vacant sites over those that are already developed. In circumstances where land is a
+limited resource, both COAH and the courts have accepted the use of overlay zoning as a means of
+creating optional incentives for the construction of affordable housing.
+
+
+MUNICIPALLY SPONSORED PROJECTS
+Some municipalities opt to meet their affordable housing obligation by directly sponsoring the
+construction of low- and moderate-income housing. It is not uncommon for a municipality to
+contribute publicly owned land to a non-profit or for-profit developer committed to constructing a
+development exclusively for low- and moderate-income households.
+Engaging in the direct development of affordable housing can be challenging for municipalities,
+particularly when such developments do not include market-rate units to cross-subsidize the
+affordable units. In these cases, developers typically require additional subsidies. These may
+include municipal contributions such as land or financial assistance, as well as external funding
+sources, such as federal Low-Income Housing Tax Credits, state housing programs, and financing
+from the Federal Home Loan Bank.
+
+
+
+                                            Page 6 of 46
+      BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 9 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan                    6/5/2025
+
+
+
+Under past COAH regulations, municipal construction efforts were required to be supported by the
+following minimum documentation:
+    1. Site Control: The municipality must demonstrate control of the site, which may be in the
+       form of an ownership interest or an option agreement.
+    2. Administrative Plan: A plan must be submitted detailing how the development will be
+       administered, including the process for income-qualifying applicants and the long-term
+       management of the affordable units.
+    3. Financial Plan: The municipality must provide an estimate of total development costs,
+       projected revenues, and identify a stable source of funding. As external subsidies become
+       available, the municipality may reduce its reliance on local funds.
+    4. Construction Timeline: A detailed timetable must be established for the development and
+       delivery of the low- and moderate-income units.
+
+
+MARKET TO AFFORDABLE
+A municipality is eligible to receive both one unit of credit and one bonus credit for each low- or
+moderate-income housing unit created through the conversion of an existing market-rate rental or
+ownership unit into an affordable unit. However, these bonus credits may only be counted toward
+the municipality’s Housing Element and Fair Share Plan if the municipality can demonstrate a formal
+commitment to proceed with the market-to-affordable conversion. This commitment must be
+substantiated by either: (a) a signed agreement with the property owner; or (b) municipal acquisition
+of the property.
+In addressing its prospective affordable housing obligation, a municipality may not provide more
+than 30 percent of its required affordable units—excluding bonus credits—through the development
+of age-restricted housing. Additionally, at least 50 percent of the required affordable units—again,
+exclusive of bonus credits—must be made available to families with children, and must fully comply
+with the standards and controls established under Section 21 of P.L.1985, c.222 (C.52:27D-321).
+Moreover, a minimum of 25 percent of the required affordable housing units—excluding bonus
+credits—must be rental units, with at least half of those rental units designated for families with
+children. All units developed under this provision must conform to the statutory requirements and
+affordability controls outlined in Section 21 of P.L.1985, c.222 (C.52:27D-321).
+
+
+
+
+                                            Page 7 of 46
+       BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 10 of 48 Trans ID: LCV20251798187
+
+
+  Project 29040 02     Mount Holly Township Housing Element & Fair Share Plan                               6/5/2025
+
+
+
+  AFFORDABILITY REQUIREMENTS
+  Under the New Jersey Fair Housing Act affordable housing is defined as a dwelling, either for sale or
+  rent, that is within the financial means of low- or moderate- income households as measured within
+  each housing region. Mount Holly is located in Region 5, which consists of Burlington, Camden and
+  Gloucester Counties. Moderate-income households are considered those that have annual
+  incomes less than 80%, but greater than 50% of the regional median income. Low-income
+  households are considered those with annual incomes 50% or less than the regional median
+  income. Very low-income households are a subset of the low-income category and are considered
+  those with incomes 30% or less than the regional median income.
+  Furthermore, the Uniform Housing Affordability Controls, also known as UHAC, requires that the
+  maximum rent for a qualified unit be affordable to households with incomes 60% or less than the
+  median income for the region. The average rent must be affordable to households with incomes no
+  greater than 52% of the median income. The maximum sale prices for affordable units must be
+  affordable to households with incomes 70% or less than the median income. The average sale price
+  must be affordable to a household with an income of 55% or less than the median income. The
+  Department of Housing and Urban Development (HUD) defines federal income limits annually, and
+  the regional median income is defined by such. The following table, which has been prepared by the
+  Affordable Housing Professionals of New Jersey (AHPNJ), reflects the 2025 affordable housing
+  regional income limits for Region 5.
+
+
+2025 INCOME LIMITS FOR REGION 5
+  HOUSEHOLD           1-PERSON            2-PERSON             3-PERSON             4-PERSON             5-PERSON
+INCOME LEVELS        HOUSEHOLD           HOUSEHOLD            HOUSEHOLD            HOUSEHOLD            HOUSEHOLD
+  MEDIAN              $83,600              $95,600              $107,500             $119,400             $129,000
+ MODERATE             $66,880              $76,480               $86,000             $95,520              $103,200
+   LOW                $41,800              $47,800               $53,750             $59,700               $64,500
+ VERY-LOW             $25,080              $28,680               $32,250             $35,820               $38,700
+         Source: 2025 Income Limits prepared by Affordable Housing Professionals of NJ effective May 16, 2025
+
+
+
+
+  VACANT LAND ADJUSTMENT ANALYSIS
+  A Vacant Land Adjustment was not deemed necessary as the municipality has sufficient existing
+  affordable housing to accommodate the Prospective Need.
+
+
+
+  GOAL OF MOUNT HOLLY TOWNSHIP
+  It is the overall goal of the Housing Element, in combination with the Land Use Plan, to provide the
+  planning context in which access to low and moderate-income housing can be provided in
+  accordance with the requirements of the Fair Housing Act and the laws of the State of New Jersey
+  while respecting the character and density of the Township of Mount Holly.
+
+
+
+
+                                                    Page 8 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 11 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan                  6/5/2025
+
+
+
+THE HOUSING ELEMENT
+As per the MLUL, specifically N.J.S.A. 52:27D-310, a housing element must contain at least the
+following items:
+        •      An analysis of the municipality's demographic characteristics, including but not
+               necessarily limited to, household size, income level, and age;
+        •      An inventory of the municipality's housing stock by age, condition, purchase or
+               rental value, occupancy characteristics, and type, including the number of units
+               affordable to low and moderate-income households and substandard housing
+               capable of being rehabilitated;
+        •      An analysis of the existing and probable future employment characteristics of the
+               municipality;
+        •      A projection of the municipality's housing stock, including the probable future
+               construction of low and moderate-income housing for the next ten years, taking into
+               account, but not necessarily limited to, construction permits issued, approvals of
+               applications for development and probable residential development of lands;
+        •      A determination of the municipality’s present and prospective fair share for low and
+               moderate-income housing and its capacity to accommodate its housing needs,
+               including its fair share for low and moderate-income housing, as established
+               pursuant to section 3 of P.L.2024, c.2 (C.52:27D-304.1); and
+        •      A consideration of the lands that are most appropriate for the construction of low-
+               and moderate-income housing and of the existing structures most appropriate for
+               conversion to, or rehabilitation for, low- and moderate-income housing, including
+               consideration of lands of developers who have expressed a commitment to provide
+               low- and moderate-income housing P.L.2024, c.2 (C.52:27D-310.10.f.).
+
+
+Demographic, housing, and socioeconomic analysis is a critical tool in planning for affordable
+housing, as it provides insight into population trends, household composition, income levels,
+poverty levels and age distribution. These factors, along with various others, directly influence
+housing demand and affordability. The following section provides an in-depth analysis of various
+data points that are related to affordable housing.
+
+
+
+
+                                           Page 9 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 12 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02    Mount Holly Township Housing Element & Fair Share Plan                                     6/5/2025
+
+
+
+DEMOGRAPHICS
+Understanding the changes to a community's population over time is crucial in anticipating future
+housing needs, identifying gaps in the current housing supply, and allocating public resources more
+effectively. From 1940 to 2020, Mount Holly experienced periods of both growth and decline,
+contrasting sharply with the consistent population increases in Burlington County and New Jersey
+as a whole. Mount Holly’s population peaked in 1960 at 13,271 residents—a 61.7% increase from
+1950—but declined in the following decades, falling to 9,981 by 2020. In comparison, Burlington
+County grew steadily from 97,013 in 1940 to 461,860 in 2020, and New Jersey’s population more than
+doubled, from 4.16 million to 9.29 million. While Burlington County and the state saw positive growth
+every decade, Mount Holly experienced declines in three different decades (1970s, 1980s, and
+2010s), indicating a local pattern of stagnation or population loss not reflected in broader regional
+trends.
+
+
+ POPULATION OVERTIME
+                    Mount Holly                        Burlington County                              New Jersey
+  Year                     Change                    Change                                                     Change
+          Persons                       Persons                                          Persons
+                     Number     Percent         Number Percent                                             Number    Percent
+ 1930                    -          -    93,541    -         -                          4,041,334             -          -
+ 1940      6,829      6,829         -    97,013  3,472    3.71%                         4,160,165          118,831    2.94%
+ 1950      8,206      1,377      20.16% 135,910 38,897 40.09%                           4,832,329          672,164   16.16%
+ 1960      13,271     5,065      61.72% 224,499 88,589 65.18%                           6,066,782         1,234,453 25.55%
+ 1970      12,713      -558      -4.20% 323,132 98,633 43.93%                           7,171,112         1,104,330 18.20%
+ 1980      10,818     -1,895    -14.91% 362,542 39,410 12.20%                           7,365,011          193,899    2.70%
+ 1990      10,639      -179      -1.65% 395,066 32,524    8.97%                         7,730,188          365,177    4.96%
+ 2000      10,728       89       0.84% 423,394 28,328     7.17%                         8,414,350          684,162    8.85%
+ 2010      9,536      -1,192    -11.11% 448,734 25,340    5.98%                         8,791,894          377,544    4.49%
+ 2020      9,981        445      4.67% 461,860 13,126     2.93%                         9,288,994          497,100    5.65%
+
+                           U.S. Census Bureau & New Jersey State Data Center Historic Population Trends
+
+
+
+
+                                                Page 10 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 13 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02        Mount Holly Township Housing Element & Fair Share Plan                                         6/5/2025
+
+
+
+In 2023, the ACS estimated that 10.8% of Mount Holly’s population was between the ages of 45 and
+54. The percentage of school-aged children (ages 5 to 19) was approximately 18.3% and the
+population over 65 years of age was approximately 13.38%. The 2023 ACS reported the median age
+of Mount Holly residents was 34.4 years old.
+
+         POPULATION BY AGE COHORT
+                                   Mount Holly               Burlington County                New Jersey
+               Age
+                                 Count   Percent              Count      Percent            Count     Percent
+            Under 19             2,399    23.98%             105,747     22.78%           2,253,316   24.32%
+          20 to 34 years         2,748    27.47%              84,793     18.27%           1,743,485   18.81%
+          35 to 54 years         2,239    22.38%             121,948     26.27%           2,438,404   26.31%
+          55 to 64 years         1,279    12.79%              68,613     14.78%           1,271,993   13.73%
+            65+ years            1,338    13.38%              83,125     17.91%           1,559,816   16.83%
+             Total
+                               10,003       100.00%          464,226       100.00%        9,267,014          100.00%
+           population
+                    U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+Between 2013 and 2023, Mount Holly’s population grew modestly from 9,473 to 10,003, but
+significant shifts occurred within age cohorts. The 20 to 34 age group saw the most notable increase,
+rising from 24.3% to 27.5%, becoming the largest age cohort by 2023, suggesting a growing presence
+of young adults. Conversely, the 35 to 54 age group experienced the largest decline, dropping from
+29.0% to 22.4%, indicating potential out-migration of middle-aged residents or fewer families settling
+in the area. Older adults aged 55 and over increased significantly, with the 65+ group growing from
+9.5% to 13.4%, the highest proportional increase among all cohorts. This suggests that the elderly
+may be aging in place. Overall, the data reflects a community that is both aging and attracting
+younger adults, while seeing a relative decline in families and children.
+
+                   POPULATION BY AGE COHORT OVERTIME
+                                                          2013                              2023
+                           Age
+                                                    Count              Percent        Count Percent
+                       Under 19                    2,510.35             26.5%         2,399     24.0%
+                     20 to 34 years                2,301.94             24.3%         2,748     27.5%
+                     35 to 54 years                2,747.17             29.0%         2,239     22.4%
+                     55 to 64 years                1,004.14             10.6%         1,279     12.8%
+                       65+ years                    899.94              9.5%          1,338     13.4%
+                    Total population                 9,473                           10,003
+                    U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+
+
+According to ACS Data, in 2023 about 39% of the individuals in Mount Holly identify as Black or
+Hispanic/Latino (13.5% and 24.9% respectively). This reflects Mt. Holly’s proportionately higher
+population of non-white individuals in comparison to the whole of Burlington County, as well as the
+neighboring Lumberton Township. This increase in diversity is recent, with an estimated increase of
+                                                      Page 11 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 14 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02        Mount Holly Township Housing Element & Fair Share Plan                                       6/5/2025
+
+
+
+11.6% in the population of Latino citizens from 2022 to 2023, according to the ACS 5-year survey. By
+providing racial, ethnic, and economic context, the need to satisfy the Township’s affordable housing
+needs is reinforced.
+
+       RACE & ETHNICITY COMPARISON
+
+                                           Mount Holly            Burlington County               New Jersey
+                   Race
+                                      Estimate      Percent      Estimate      Percent      Estimate         Percent
+                White                  4,965         50%         295,500        64%         4,813,341         52%
+           Hispanic/Latino             1,354         14%          42,820         9%         2,032,968         22%
+                Black                  2,486         25%          73,455        16%         1,138,893         12%
+                Asian                   397           4%          25,819         6%          910,968          10%
+           Native American
+                                           7         0.07%          147         0.03%          8,745         0.09%
+           Pacific Islander
+                Other                    112           1%          3,310          1%          69,560           1%
+             Multi-Racial                682           7%          23,175         5%          292,539          3%
+           Total Population                    10003                     464226                     9267014
+                    U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+
+
+The U.S. Census Bureau defines a household as persons that may or may not be related who occupy
+a single room or group of rooms constituting a housing unit. A family is one or more people related
+by blood, marriage, or adoption, all living in the same household. In Mount Holly Township the 2023
+the ACS estimated there were 3,570 households. The ACS estimated that 20% of the Townships
+households were non-family households while family households comprised approximately 44.7%
+of households. An estimated 9.9% of households are comprised of married couples with children
+under age 18.
+
+
+
+
+                                                       Page 12 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 15 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02       Mount Holly Township Housing Element & Fair Share Plan                                     6/5/2025
+
+
+
+ HOUSEHOLD TYPE COMPARISON
+                                     Mount Holly              Burlington County                      New Jersey
+     Household Type
+                                Estimate       Percent       Estimate      Percent         Estimate          Percent
+      Married-couple
+                                  1,471         41.2%         92,133         51.3%         1,755,631             49.6%
+       household
+    Cohabiting couple
+                                   355            9.9%        12,973         7.2%           255,386               7.2%
+       household
+  Male householder, no
+                                   680          19.0%         24,227         13.5%          557,596              15.8%
+ spouse/partner present
+ Female householder, no
+                                  1,064         29.8%         50,144         27.9%          969,844              27.4%
+ spouse/partner present
+     Total households                     3,570                     179,477                          3,538,457
+ Households with one or
+  more people under 18            1065          29.8%         55,691            31%        1,085,100             30.7%
+         years
+ Households with one or
+  more people 65 years             970          27.2%         62,187         34.6%         1,199,844             33.9%
+        and over
+ Average household size            2.63            (X)          2.55            (X)           2.58                (X)
+   Average family size             3.35            (X)          3.09            (X)           3.13                (X)
+                   U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+Projections made by the Delaware Valley Regional Planning Commission (DVRPC) estimate a
+modest growth of 7.8% between 2020 and 2050. Mount Holly is estimated to gain 2,061 residents
+between 2020 and 2050, which translates to approximately 68.7 new residents per year over 30
+years.
+                                          POPULATION PROJECTION
+                                            Year         Estimate      Percent
+                                           2020           9,981           (X)
+                                           2025          10,035        54.10%
+                                           2030          10,035         0.00%
+                                           2035          10,071        35.87%
+                                           2040          10,086        14.89%
+                                           2045          10,047        -38.67%
+                                           2050           9,982        -64.70%
+                             DVRPC. Municipal and County-Level Population Forecasts, 2020-2050
+
+
+
+
+                                                     Page 13 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 16 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02        Mount Holly Township Housing Element & Fair Share Plan                                    6/5/2025
+
+
+
+HOUSING
+Housing occupancy and vacancy status were estimated in the 2023 ACS and were used for this
+section. According to the ACS, 94.1% of the Township of Mount Holly’s occupied housing stock was
+owner-occupied while 5.9% was vacant. The Township had an estimated vacancy rate of 10.2 which
+included housing units for rent, for sale, sold but not yet occupied, properties, and other vacant units.
+
+     HOUSING UNIT CHARACTERISTICS
+                                         Mount Holly               Burlington County               New Jersey
+      Housing Characteristics
+                                     Estimate Percent             Estimate    Percent          Estimate Percent
+      Occupied housing units          3,570     94.10%            176,046      94.8%           3,478,355 92.1%
+        Vacant housing units           225      5.90%              9,571        5.2%            297,487     7.9%
+     Homeowner vacancy rate              0        (X)                0.9         (X)              0.8        (X)
+        Rental vacancy rate            10.2       (X)                3.5         (X)              3.6        (X)
+        Total Housing Units                   3,795                       185,617                     3,775,842
+                    U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+
+
+According to the 2023 five-year ACS estimates, Mount Holly Township has 3,795 housing units. The
+housing stock is primarily composed of single-family detached homes, which make up
+approximately 52.6% of all units. Single-family attached homes and three- or four-unit structures
+each account for approximately 19.7% and 11.7% of the township’s housing stock respectively.
+
+     HOUSING UNITS IN STRUCTURE
+                                           Mount Holly              Burlington County              New Jersey
+          Units in Structure
+                                       Estimate   Percent           Estimate Percent           Estimate Percent
+             1-unit, detached           1,996      52.6%            119,559 64.4%              1,991,416 52.7%
+             1-unit, attached            747       19.7%             26,992     14.5%           375,870    10.0%
+                   2 units                88       2.3%              3,132      1.7%            323,948     8.6%
+               3 or 4 units              444       11.7%             7,299      3.9%            231,194     6.1%
+               5 to 9 units               68       1.8%              8,006      4.3%            176,981     4.7%
+              10 to 19 units             129       3.4%              8,519      4.6%            184,388     4.9%
+             20 or more units            309       8.1%              10,043     5.4%            455,572    12.1%
+              Mobile home                 14       0.4%              2,032      1.1%            35,303      0.9%
+            Boat, RV, van, etc.            0       0.0%                35        <1%             1,170      <1%
+         Total Housing Units                    3,795                      185,617                    3,775,842
+                    U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+
+
+                                                      Page 14 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 17 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02       Mount Holly Township Housing Element & Fair Share Plan                                       6/5/2025
+
+
+
+Household sizes for the Township are detailed in the following table. Two-person households total
+1,061 or 29.72% of the Township’s households. One-person households were the most common size
+with a total of 1,124 or 31.48%. The third largest household group was four or more person
+households with 889 or 24.82%. The household size distribution follows a similar pattern at the
+County and State geographies.
+
+ HOUSEHOLD SIZE
+                                              Mount Holly              Burlington County              New Jersey
+          Household Size
+                                          Estimate Percent             Estimate Percent           Estimate Percent
+       1-person household                  1,124     31.48%             46,962 26.68%              918,897    26.4%
+       2-person household                  1,061     29.72%             57,994 32.94%             1,081,842 31.1%
+       3-person household                   499      13.98%             29,079 16.52%              594,946    17.1%
+   4-or-more-person household               886      24.82%             42011     23.86%           882670     25.4%
+   Total Occupied Housing Units                    3,570                      176,046                       3,478,355
+                   U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+Overcrowded units are defined by the U.S. Department of Housing and Urban Development as those
+with more than one person living per room. The table below depicts that 109 housing units or 3% in
+the Township had 1.01 or more occupants per room. This is almost double than the number at the
+County level, but less than the number at the State level.
+
+
+ OCCUPANTS PER ROOM
+                                         Mount Holly            Burlington County               New Jersey
+   Occupied Housing Units
+                                     Estimate Percent           Estimate Percent            Estimate Percent
+            1 or less                 3,461     96.9%           173,451     98.5%           3,348,645 96.3%
+           1.01 to 1.5                  22       0.6%            1,808      1.0%             83,003      2.4%
+              1.51                      87       2.4%             787       0.4%             46,707      1.3%
+     Total Occupied Units                     3,570                     176,046                   3,478,355
+                   U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+
+According to the U.S. Census Bureau's American Community Survey (ACS) 5-Year Estimates for
+2023, Mount Holly Township, New Jersey, has a very old housing stock characterized by 31.9% or
+1,209 of the homes built before 1939. In Burlington County, 44.3% of the homes were constructed
+after 1980 and in New Jersey, 36.5% of the homes were constructed after 1980. The housing stock
+in Mount Holly, with an estimated median year built of 1955, is older than that of Burlington County
+and the State.
+
+
+
+
+                                                      Page 15 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 18 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02         Mount Holly Township Housing Element & Fair Share Plan                                       6/5/2025
+
+
+
+ AGE OF HOUSING STOCK
+                                                Mount Holly                Burlington County               New Jersey
+            Year Built
+                                          Estimate     Percent            Estimate    Percent          Estimate Percent
+         Built 2020 or later                  0         0.0%                  1,545    0.8%             23,348     0.6%
+        Built 2010 to 2019                  284         7.5%                  8,842    4.8%            217,910     5.8%
+        Built 2000 to 2009                  144         3.8%                20,723     11.2%           343,692     9.1%
+        Built 1990 to 1999                  152         4.0%                25,939     14.0%           341,768     9.1%
+        Built 1980 to 1989                  207         5.5%                25,124     13.5%           447,464     11.9%
+        Built 1970 to 1979                  252         6.6%                32,465     17.5%           469,113     12.4%
+        Built 1960 to 1969                  362         9.5%                25,356     13.7%           489,202     13.0%
+        Built 1950 to 1959                  998         26.3%               20,311     10.9%            530,609 14.1%
+        Built 1940 to 1949                  187         4.9%                  5,513    3.0%            252,864     6.7%
+        Built 1939 or earlier              1,209        31.9%               19,799     10.7%           659,872     17.5%
+        Total Housing Units                          3,795                        185,617                    3,775,842
+    Median Year Structure Built                      1,955                         1,977                      1,969
+                    U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+
+
+The State Department of Community Affairs (DCA) identified that 15 low- and moderate-income
+housing units are overcrowded, although they do have complete plumbing and kitchen facilities. Of
+the occupied housing units lacking plumbing or kitchen facilities, there are 0 that are noted as low
+or moderate income.
+
+
+ PRESENT NEED (REHABILITATION)
+                                                              Low and Moderate-Income
+   Occupied Housing Units Lacking Complete                    Occupied Housing Lacking
+                                                                                                       Present Need
+        Plumbing or Kitchen Facilities                       Complete Plumbing or Kitchen
+                                                                      Facilities
+                         15                                                 0                                42
+
+                                       https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml
+                                https://www.nj.gov/dca/dlps/pdf/FourthRoundCalculation_Workbook.xlsx
+
+
+
+ The 2023 ACS Data suggests there are 31 occupied units lacking complete kitchen facilities, 31 occupied
+units lacking plumbing facilities, and 14 with no telephone service available. These data points are higher
+than the County and State, and higher than the data points calculated by DCA. The DCA has estimated 42
+Present Need units for Mount Holly, also known as the rehabilitation obligation. Based on the discrepancies
+in the DCA and ACS data, it is suggested that Mount Holly consider conducting a Housing Condition Survey to
+obtain a more accurate number of deficient dwellings.
+
+
+
+
+                                                         Page 16 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 19 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02       Mount Holly Township Housing Element & Fair Share Plan                                         6/5/2025
+
+
+
+ HOUSING QUALITY CHARACTERISTICS
+
+                                         Mount Holly            Burlington County               New Jersey
+        Characteristics
+                                    Estimate        Percent    Estimate       Percent      Estimate         Percent
+        Lacking complete
+                                        31           0.9%          382           0.2%       10,515           0.3%
+      plumbing facilities
+        Lacking complete
+                                        31           0.9%          747           0.4%       26,428           0.8%
+       kitchen facilities
+       No telephone service
+                                        14           0.4%          840           0.5%       29,962           0.9%
+           available
+  Total Occupied Units(w/o
+                                               76                        1,969                     66,905
+     complete facilities)
+                   U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+
+
+Based on data from the 2023 American Community Survey (ACS) and other relevant sources, here is
+a summary of the housing characteristics in Mount Holly Township, New Jersey:
+
+Occupancy Characteristics:
+     • Total Housing Units: As of the 2020 Census, Mount Holly Township had 3,892 housing
+        units, a decrease from 3,922 in 2010. The most recent 2023 ACS estimates that there
+        are 3,795 housing units.
+     • Occupied vs. Vacant Units: In 2023, 3,570 units were occupied, and 225 were vacant,
+        resulting in a vacancy rate of approximately 10.2% for renter-occupied units (0
+        homeowner vacancies).
+     • Owner vs. Renter Occupancy: In 2023, 62.7% of occupied housing units were owner-
+        occupied and 37.3% were renter-occupied.
+
+Between 2004 and 2023, the number of housing units certified in Mount Holly varied from year to
+year, with the highest total occurring in 2015, when 99 units were certified, more specifically 39 one-
+and two-family units were certified and 60 multifamily units were. The lowest values were recorded
+in several years, including 2011, 2012, 2013, 2018, 2019, and 2020, during which no housing units
+were certified. Demolitions also fluctuated over the period, reaching a peak in 2008 with 96 buildings
+demolished. In contrast, no demolitions were reported in 2005, 2014, 2016, 2018, 2020, and 2021.
+Multifamily housing certifications occurred in select years, notably in 2014, 2015, 2017, and 2023,
+while most other years recorded only one- and two-family units or none at all. Overall the data
+reflects uneven development patterns, with bursts of activity followed by years of inactivity.
+
+
+
+
+                                                     Page 17 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 20 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02      Mount Holly Township Housing Element & Fair Share Plan                  6/5/2025
+
+
+
+                   HOUSING UNITS CERTIFED & DEMOLISHED-MOUNT HOLLY
+                               Housing Units Certified
+                    Year     1&2                        Total        Buildings Demolished
+                                      Multifamily
+                            family                     Certified
+                    2004       2           0                2                 20
+                    2005       2           0                2                  0
+                    2006       9           0                9                 29
+                    2007       2           0                2                 20
+                    2008       4           0                4                 96
+                    2009       1           0                1                 50
+                    2010       1           0                1                 59
+                    2011       0           0                0                 29
+                    2012       0           0                0                  6
+                    2013       0           0                0                  2
+                    2014      44           25              69                  0
+                    2015      39           60              99                 44
+                    2016       6           0                6                  0
+                    2017       1           48              49                  1
+                    2018       0           0                0                  0
+                    2019       0           0                0                  3
+                    2020       0           0                0                  0
+                    2021       4           0                4                  0
+                    2022      22           0               22                  1
+                    2023      32           1               33                 14
+                                     https://www.nj.gov/dca/codes/reporter/
+
+
+
+
+The following chart presents data on housing activity in Mount Holly from 2009 to 2023, including the
+number of housing units certified, demolished, and the resulting net change. Over this 15-year
+period, the annual net housing unit change varied significantly. The highest net gain occurred in
+2014, with 69 units added, while the largest net loss took place in 2010, with - 58 units (1 certified
+and 59 demolished). Several years showed no net change, such as 2018 and 2020, and some years,
+including 2011 and 2013, had negative net changes due to demolitions without any new certified
+units. The 15-year average net gain was 5 units per year, and using this average, the total projected
+housing units by 2035 is estimated at 60.
+
+A 15-year average was used to project the total future housing in 2035 given the volatility of the
+housing unit certification and demolition dataset. The Township has experienced uneven
+development patterns, with bursts of activity followed by years of inactivity. Using linear regression
+to project the future housing in the Township may lead to skewed results that do not accurately
+reflect the development landscape in the municipality.
+
+
+
+                                                Page 18 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 21 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02    Mount Holly Township Housing Element & Fair Share Plan                      6/5/2025
+
+
+
+The Township’s Affordable Housing Set-Aside Ordinance, as defined in §149-187.10A of the
+Township’s Ordinance, requires an affordable housing set-aside of 20% for for-sale units, and 15%
+for rental units. As highlighted above, the projected new housing units by 2035 are 60 units, which
+could result in 12 affordable units if they are for sale, or 9 affordable units if they are rental, or a
+combination.
+
+
+                       HOUSING UNITS PROJECTION-MOUNT HOLLY
+                                  Total Housing                                Net
+                                                      Total Housing
+                         Year         Units                                  Housing
+                                                     Units Demolished
+                                    Certified                                 Units
+                         2009           1                    50                -49
+                         2010           1                    59                -58
+                         2011           0                    29                -29
+                         2012           0                     6                 -6
+                         2013           0                     2                 -2
+                         2014           69                    0                 69
+                         2015           99                   44                 55
+                         2016           6                     0                  6
+                         2017           49                    1                 48
+                         2018           0                     0                  0
+                         2019           0                     3                 -3
+                         2020           0                     0                  0
+                         2021           4                     0                  4
+                         2022           22                    1                 21
+                         2023           33                   14                 19
+                                                        15-Year Average          5
+                                Total Projected Housing Units in 2035          60
+                                    https://www.nj.gov/dca/codes/reporter/
+
+
+
+
+                                              Page 19 of 46
+            BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 22 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02               Mount Holly Township Housing Element & Fair Share Plan                     6/5/2025
+
+
+
+HOUSING AFFORDABILITY
+The U.S. Department of Housing and Urban Development describes housing cost burden as the
+percentage of a household’s income that goes toward housing costs. Specifically, a household is
+considered cost burdened if it spends more than 30% of its income on housing expenses. This metric
+is important to determine the housing affordability of a municipality.
+
+In both owner-occupied and renter-occupied housing, Mount Holly Township generally shows higher
+percentages of households spending a large share of their income on housing compared to the
+County and State. For owner-occupied units about 29% of households in Mount Holly pay 30% or
+more of their income on housing costs, which is higher than Burlington County and New Jersey. The
+lowest cost burden for owners—those paying less than 20% of income on housing—is also notably
+lower in Mount Holly at 50.92%, compared to 51.51% in the county and a much higher 61.43%
+statewide. Among renters, the cost burden is even more pronounced. Mount Holly has the highest
+proportion paying 30% or more of income on rent at about 52%, exceeding Burlington County’s and
+New Jersey. The percentage of renters paying less than 15% of income is also the lowest in Mount
+Holly (6.6%), versus 11.9% in the county and 12.4% Statewide.
+
+Overall, the highest cost burden category across all groups is renters in Mount Holly paying 35% or
+more of income on housing, while the lowest is owner-occupied units statewide paying less than
+20%. Mount Holly consistently shows a greater share of households with housing costs above the
+30% threshold, indicating a higher housing affordability challenge compared to the County and State
+averages.
+
+
+  SELECTED MONTHLY OWNER/RENTER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME
+                                              Mount Holly Township        Burlington County        New Jersey
+ Tenure                     Label
+                                             Estimate     Percent       Estimate    Percent   Estimate        Percent
+                       All Housing units
+                    (excluding units where
+                                              2,233           -         132,481         -     869,972            -
+                       value cannot be
+                          computed)
+                        Less than 20.0
+                                              1,137        50.92%        68,238      51.51%   534,424         61.43%
+                            percent
+
+
+
+   Owner Occupied
+                     20.0 to 24.9 percent      252         11.29%        18,990      14.33%    83,245          9.57%
+
+                     25.0 to 29.9 percent      204         9.14%         12,934      9.76%     55,907          6.43%
+
+                     30.0 to 34.9 percent      151         6.76%         7,056       5.33%     36,883          4.24%
+
+                    35.0 percent or more       489         21.90%        25,263      19.07%   159,513         18.34%
+
+                       Not Computed             4          0.18%          844        0.64%     8,553           0.98%
+                    Occupied units paying
+  Renter             rent (excluding units
+                                              1,185          -           40772                1,202,271
+                    where value cannot be
+ Occupied
+                          computed)
+
+
+                                                        Page 20 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 23 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02       Mount Holly Township Housing Element & Fair Share Plan                                        6/5/2025
+
+
+               Less than 15.0
+                                           78             6.60%             4833          11.90%        1,202,271         12.4%
+                  percent
+            15.0 to 19.9 percent           66             5.60%             4195          10.30%        1,202,271         12.5%
+            20.0 to 24.9 percent          199            16.80%             6066          14.90%        1,202,271         12.8%
+            25.0 to 29.9 percent          225            19.00%             4806          11.80%        1,202,271         11.5%
+            30.0 to 34.9 percent           80             6.80%             4274          10.50%        1,202,271          8.8%
+            35.0 percent or more          537            45.30%            16598          40.70%        1,202,271          42%
+               Not Computed               148                 (X)           1949            (X)         1,202,271           (X)
+                   U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+Mount Holly has an estimated 2,237 owner-occupied housing units according to the 2023 ACS. Most
+owner-occupied housing units, 607 units or 27.1%, have an estimated value between $300,000 and
+$499,999. Approximately 0.9%, or 20 units, comprise the $500,000 to $999,999 category. As
+indicated in the chart below, 29.1% of the housing stock was valued below $200,000.
+
+
+In Mount Holly, the median value of owner-occupied housing units is $244,400. This compares to the
+median value of New Jersey housing units at $427,600, and units in Burlington, with a median value
+of $326,700. The value distribution is as follows:
+
+
+      HOUSING VALUE
+       Value of Owner-Occupied            Mount Holly               Burlington County             New Jersey
+                 Units                Estimate Percent              Estimate Percent          Estimate Percent
+          Less than $50,000              68       3.0%               3,817      2.9%           3,817      2.4%
+          $50,000 to $99,999             20       0.9%               1,778      1.3%           1,778      1.9%
+        $100,000 to $149,999            137       6.1%               5,486      4.1%           5,486      2.9%
+        $150,000 to $199,999            427      19.1%               12,658     9.5%           12,658     5.0%
+        $200,000 to $299,999            958      42.8%               34,881     26.2%          34,881     15.8%
+        $300,000 to $499,999            607      27.1%               49,746     37.3%          49,746     33.8%
+        $500,000 to $999,999             20       0.9%               22,389     16.8%          22,389     31.6%
+          $1,000,000 or more              0       0.0%               2,570      1.9%           2,570      6.6%
+        Total Owner Occupied
+                Units                           2,237                     133,325                    133,325
+          Median Home Value           244,400           (X)         326,700         (X)        427,600         (X)
+                   U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+
+According to the 2019-2023 ACS estimates, the median rent in Mount Holly was $1,456. Rental units
+priced between $1,000 and $1,499 per month accounted for 46.1% of the market, while 97 units were
+available for less than $1,000 per month. Approximately 28.7% of rentals fell within the $1,500 to
+$1,999 range, 17.4% were between $2,000 and $2,999, and no rental units had monthly costs of
+$3,000 or more.
+
+                                                     Page 21 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 24 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02       Mount Holly Township Housing Element & Fair Share Plan                                         6/5/2025
+
+
+
+ RENTAL COST
+                                                 Mount Holly            Burlington County                   New Jersey
+     Occupied Units Paying Rent                                         Estimate
+                                            Estimate        Percent                Percent          Estimate      Percent
+      Less than $500                             0         0.00%         1,210     2.92%             76,830    6.30%
+      $500 to $999                              97         7.84%         3,431     8.28%            106,648    8.70%
+      $1,000 to $1,499                          570       46.08%         11,958    28.86%           322,368 26.30%
+      $1,500 to $1,999                          355       28.70%         12,181    29.39%           349,936 28.50%
+      $2,000 to $2,499                          106        8.57%         7,886     19.03%           194,492 15.90%
+      $2,500 to $2,999                          109        8.81%         3,009     7.26%            82,425     6.70%
+      $3,000 or more                             0         0.00%         1,766     4.26%            93,469     7.60%
+  Total Occupied Units Paying Rent                    1,237                   41,441                    1,226,168
+      Median Rent                                     1,456                      1,669                        1,653
+      No Rent Paid                                     96                        1,280                        36,705
+                   U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+
+
+                                                      Page 22 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 25 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02       Mount Holly Township Housing Element & Fair Share Plan                                      6/5/2025
+
+
+
+SOCIOECONOMICS
+The most current data is the 2023 ACS Census data for the categories of income and poverty. The
+2023 ACS Data estimates were utilized. The estimated median household income for Mount Holly
+was $83,145 in 2023. This is 26.61 percent lower than the median household income for Burlington
+County at $105,271. The Township’s median income was 7.7 percent higher than the State’s
+median household income.
+
+Mount Holly’s median family income was $93,153. This is approximately $22,126 or 36.63 percent
+lower than the County’s and approximately $30,739 or 33.01 percent lower than the State’s.
+Mount Holly’s estimated per capita income of $38,150 is over 39 percent lower than that estimated
+for the County and the State. See the table on the following page.
+
+Finally, after reviewing the poverty status of both individuals and families residing in the Township,
+Mount Holly fares much better than the County and the State for poverty status. The ACS estimates
+that Mount Holly has a family poverty status of 8.5% while the County and State have a family
+poverty status of 4.9% and 7.0%, respectively. The poverty status of individuals in Mount Holly is
+higher at 11.7% compared to 6.8% for the County and 9.8% for the State.
+
+        INCOME CHARACTERISTICS
+                                                   Mount Holly          Burlington County           New Jersey
+             Income Characteristics
+                                                    Estimate                 Estimate                Estimate
+            Median Household Income                 $83,145                  $105,271                $101,050
+             Median Family income                   $93,153                  $127,277                $123,892
+               Per Capita Income                    $38,150                  $53,077                  $53,118
+                   Poverty Level                     Percent                  Percent                  Percent
+                    All families                      8.5%                     4.9%                     7.0%
+                    All people                         11.7%                    6.8%                        9.8%
+                   U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+The ACS five-year estimates also reported that 39% of the Township’s households make over
+$100,000 annually. The ACS estimates 13.5% of households make more than $200,000 per year. It
+should be noted that 27.9% of households make less than $50,000 annually. A detailed breakdown
+of the household income for Mount Holly, compared to the County and State, is provided on the
+following page.
+
+
+ INCOME & BENEFITS CHARACTERISTICS
+                                    Mount Holly              Burlington County               New Jersey
+    Household Income
+                                Estimate   Percent           Estimate Percent            Estimate Percent
+    Less than $10,000             144       2.2%              5,362      3.0%            140,262      4.0%
+    $10,000 to $14,999             45       1.3%              2,969      1.7%             99,362      2.9%
+    $15,000 to $24,999            117       3.2%              6,523      3.7%            175,402      5.1%
+    $25,000 to $34,999            234       6.6%              8,027      4.6%            184,753      5.3%
+    $35,000 to $49,999            521       14.6%             13,955     7.9%            276,601      8.0%
+    $50,000 to $74,999            545       15.3%             22,911     13.0%           448,192     12.9%
+                                                     Page 23 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 26 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02       Mount Holly Township Housing Element & Fair Share Plan                                       6/5/2025
+
+
+
+   $75,000 to $99,999               570           16.0%         23,250       13.2%        397,939           11.4%
+  $100,000 to $149,999              715           20.0%         35,553       20.2%        627,526           18.0%
+    $150,000 or more                679           19.0%         57,496       32.7%       1,128,318          32.4%
+                   U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+
+Mount Holly has a notably lower percentage of private wage and salary workers at 70.2%, compared
+to 75.7% in Burlington County and 80.6% statewide. Conversely, Mount Holly’s share of government
+workers is significantly higher at 26.3%, well above the county’s 20.1% and more than double the
+state’s 14.36%. The proportion of self-employed workers in Mount Holly (3.19%) is slightly lower than
+both Burlington County (3.95%) and New Jersey overall (4.81%). Unpaid family workers represent a
+very small fraction in all three areas, with Mount Holly at 0.21%, comparable to the county and state
+percentages. Overall, Mount Holly’s workforce shows a distinctive tilt toward government
+employment and a relatively smaller share of private-sector wage workers compared to broader
+regional and state patterns.
+
+ CLASS OF WORKER
+                                          Mount Holly             Burlington County               New Jersey
+        Class of Worker
+                                      Estimate Percent            Estimate Percent            Estimate Percent
+      Private wage and salary
+                                          3,361      70.20%       178,587       75.70% 3,663,818              80.60%
+            workers
+       Government workers                 1,260      26.30%        47,508       20.10%        652,833         14.36%
+      Self-employed in own not
+     incorporated business                153           3.19%       9,323        3.95%        218,728         4.81%
+            workers
+       Unpaid family workers               10           0.21%        441         0.19%          6,536         0.14%
+ Civilian Employed Population
+                                                4,784                    235,859                    4,541,915
+       (16 years and over)
+                   U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+The ACS estimates that 38.2% of the Township’s residents were employed in management, business,
+science, and arts occupations. Sales and office professionals follow with approximately 26.4% of the
+Township’s workers. Approximately 14.7% of workers are employed in the service industry. See the
+table below for additional details and a comparison of occupations between the Township and the
+County.
+
+ EMPLOYED CIVILIAN POPULATION
+                                         Mount Holly             Burlington County               New Jersey
+       Occupation Type
+                                     Estimate Percent            Estimate Percent            Estimate Percent
+      Management, business,
+       science, and arts               1,770         38.2%       114,966        48.9%       2,178,058         46.9%
+         occupations
+        Service occupations               681        14.7%        30,855        13.1%        689,308          14.8%
+          Sales and office
+                                       1,226         26.4%        50,054        21.3%        930,463          20.0%
+          occupations
+                                                     Page 24 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 27 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02         Mount Holly Township Housing Element & Fair Share Plan                                   6/5/2025
+
+
+
+       Natural resources,
+     construction, and                    380           8.2%        15,410         6.6%        320,511        6.9%
+  maintenance occupations
+           Production,
+ transportation, and material             582          12.5%        23,823        10.1%        526,430        8.3%
+     moving occupations
+      Civilian Employed
+   Population (16 years and                     4,639                     235,108                    4,644,770
+             over)
+                     U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles.
+
+
+
+
+The largest employment sectors in Mount Holly are Health/Social services with 2,877 employees and
+Local Government (mostly education) with 1,646 employees, reflecting significant public and
+healthcare presence. Among government levels, local government dominates employment with
+1,646 workers averaging $71,717 in annual wages, while federal and state government sectors
+employ fewer people (80 and 137, respectively) but offer higher average wages around $90,000 to
+$96,000.In the private sector, there are 5,422 employees across 423 business units, with an average
+annual wage of $68,211. Key private industries include Professional/Technical services (343
+employees, $94,166 average wage), Manufacturing (201 employees, $95,562 average wage), and
+Retail Trade (460 employees, but a lower average wage of $40,015). The Accommodations/Food
+sector employs 493 people but offers the lowest average wage at $24,030, highlighting a
+concentration of lower-paying service jobs. Overall, Mount Holly’s employment landscape combines
+a strong public sector workforce with a private sector dominated by professional services and
+manufacturing that tend to pay relatively well, alongside retail and food service sectors that have
+more modest wages.
+
+          ANNUAL MUNICIPAL DATA BY SECTOR - MOUNT HOLLY
+            NAICS                                               Average           Average                Annual
+                                     Description
+            Sector                                               Units          Employment               Wages
+                            FEDERAL GOVT TOTALS                     5                80                $96,649
+                              STATE GOVT TOTALS                     6               137                $90,154
+                             LOCAL GOVT TOTALS                      16              1646               $71,717
+              61           LOCAL GOVT EDUCATION                     4               907                $68,647
+              11                   Agriculture                       .                .                   .
+              23                  Construction                      21               87                $65,889
+              31                 Manufacturing                      14              201                $95,562
+              42                Wholesale Trade                     14              104                $84,535
+              44                  Retail Trade                      56              460                $40,015
+              48              Transp/Warehousing                     .                .                   .
+              51                  Information                        .                .                   .
+              52               Finance/Insurance                    10               72                $76,497
+              53                   Real Estate                      12               54                $73,069
+              54             Professional/Technical                 44              343                $94,166
+
+                                                        Page 25 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 28 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02      Mount Holly Township Housing Element & Fair Share Plan                                     6/5/2025
+
+
+
+              55               Management                        .                   .                  .
+              56         Admin/Waste Remediation                24                 177               $46,067
+              61                 Education                       .                   .                  .
+              62               Health/Social                    108                2877              $80,001
+              71            Arts/Entertainment                   .                   .                  .
+              72          Accommodations/Food                   41                 493               $24,030
+              81              Other Services                    39                 241               $37,706
+              99               Unclassified                     11                  12               $39,396
+                          PRIVATE SECTOR TOTALS                 423                5422              $68,211
+                   https://www.nj.gov/labor/labormarketinformation/assets/PDFs/employ/qcew/mun23.xlsx
+
+
+
+In Mount Holly, the vast majority of workers (76.5%) drive alone to work, which is higher than both
+Burlington County (74.6%) and significantly above the New Jersey average of 63.7%. Carpooling is
+also more common in Mount Holly (10.1%) than in the county (6.3%) and state (7.7%). Public
+transportation use is notably low in Mount Holly at only 1.6%, compared to 2.3% in the county and a
+much higher 8.5% statewide. Walking to work is somewhat more frequent in Mount Holly (2.5%) than
+county (0.8%) or state (2.6%) averages. A smaller share of Mount Holly residents work from home
+(8.3%) compared to 14.8% in Burlington County and 15.0% statewide. The average commute time in
+Mount Holly is 28.8 minutes, just slightly below the county’s 29.3 and the state’s 30.9 minutes.
+Overall, Mount Holly workers tend to rely heavily on driving alone, have lower public transit and
+telecommuting rates, and experience commute times close to regional and state averages.
+
+ COMMUTING TO WORK
+                                          Mount Holly            Burlington County               New Jersey
+        Class of Worker
+                                      Estimate Percent           Estimate Percent            Estimate Percent
+     Car, truck, or van -- drove
+                                        3,630          76.5%     175,986          74.6%     2,894,952        63.7%
+             alone
+         Car, truck, or van --
+                                         479           10.1%      14,911          6.3%       347,524         7.7%
+           carpooled
+        Public transportation
+                                          77            1.6%       5,388          2.3%       387,422         8.5%
+       (excluding taxicab)
+               Walked                    117            2.5%       1,969          0.8%       118,022         2.6%
+            Other means                  87             1.8%       2,632          1.1%       110,740         2.4%
+         Worked from home                394            8.3%      34,973          14.8%      683,255         15.0%
+ Civilian Employed Population
+                                               4,784                    235,859                    4,541,915
+       (16 years and over)
+   Mean Travel Time to Work
+                                                28.8                       29.3                       30.9
+          (Minutes)
+                   U.S. Census Bureau American Community Survey, 2023 ACS 5-Year Estimates Data Profiles
+
+
+
+
+                                                       Page 26 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 29 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan                 6/5/2025
+
+
+
+DVRPC estimates that employment within the Township will grow by 375 jobs between 2020 and
+2050. The DVRPC estimates that the Township will add approximately 375 jobs or 12.5 jobs per year
+between 2020 and 2050. This translates into a 2.73 % increase over the 2020 to 2050 period.
+
+
+                      EMPLOYMENT PROJECTION- MOUNT HOLLY
+                           Year              Estimate              Percent
+                          2020                13,705                   (X)
+                          2025                14,198                 3.60%
+                          2030                14,035                - 1.15%
+                          2035                13,859                - 1.25%
+                          2040                14,023                 1.18%
+                          2045                14,019                - 0.03%
+                          2050                14,080                 0.44%
+                      DVRPC. Municipal and County-Level Employment Forecasts, 2020-2050
+
+
+
+
+                                              Page 27 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 30 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02    Mount Holly Township Housing Element & Fair Share Plan                        6/5/2025
+
+
+
+FAIR SHARE PLAN
+This chapter of the Housing Element & Fair Share Plan provides the following information as
+required by the rules:
+       •     The Township’s capacity to accommodate its housing needs.
+       •     A consideration of the lands that are most appropriate for construction of low and
+             moderate-income housing and of the existing structures most appropriate for
+             conversion to, or rehabilitation for, low and moderate-income housing.
+       •     Lands of developers who have expressed a commitment to provide low and moderate-
+             income housing.
+       •     The location and capacities of existing and proposed water and sewer lines and facilities
+             relevant to the proposed affordable housing sites.
+
+
+BACKGROUND
+Mount Holly Township was designated an Urban Aid Municipality in 1989, following First Round
+Certification. The Township received Second Round Council on Affordable Housing (“COAH”)
+Certification for its Second Round Plan on June 5, 1996. That certification expired on June 5, 2002,
+and a one year extension was granted by COAH on August 3, 2002. The Township subsequently filed
+a Complaint for Declaratory Judgment and on August 2, 2002, the Township received a jurisdictional
+and protective order from the New Jersey Superior Court. In November 2005 Mount Holly adopted a
+Third Round HE & FSP in accordance with the Third Round rules and on February 16, 2006, the
+Township was granted a Third Round Judgment of Compliance and Repose.
+
+On September 26, 2013, the Supreme Court invalidated the Round 3 regulations adopted in 2008 by
+the New Jersey Council on Affordable Housing (COAH). On March 14, 2014, the Supreme Court
+issued an order directing COAH to propose new Round 3 regulations on or before May 1, 2014, and
+to adopt them by October 22, 2014. The Supreme Court further provided that, if COAH failed to meet
+the deadlines, the Court would entertain a Motion in Aid of Litigant’s Rights which could include an
+application for the right, on a case-by-case basis, to file a builder’s remedy suit against a municipality
+under COAH’s jurisdiction. On October 20, 2014, the COAH Board met to consider adopting the
+proposed regulations but reached a 3-3 voting deadlock and therefore did not adopt the proposed
+regulations. COAH’s failure to adopt the pro-posed regulations left New Jersey municipalities in a
+continuing state of limbo despite voluntary constitutional compliance.
+
+On October 31, 2014, Fair Share Housing Center (FSHC) filed a Motion In Aid of Litigant’s Rights
+urging the Supreme Court, among other things, to direct trial judges, instead of COAH, to establish
+standards with which municipalities must comply with their fair share obligations. FSHC’s motion
+included an alternative fair share calculation for each municipality prepared by its expert David N.
+Kinsey, FAICP, who updated his initial report on April 16, 2015. The existence of a second set of fair
+share numbers from FSHC further highlighted the uncertainty of the framework with which
+municipalities must ultimately comply because there are no standards with which to comply.
+
+On March 10, 2015, the New Jersey Supreme Court held that COAH’s administration process had
+become futile so that parties concerned about municipal compliance with constitutional affordable
+housing obligations, as well as municipalities that believe they are currently compliant or are ready
+and willing to demonstrate such compliance, would process exclusionary zoning and/or affordable
+
+                                             Page 28 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 31 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02    Mount Holly Township Housing Element & Fair Share Plan                       6/5/2025
+
+
+
+housing matters in the courts commencing on June 8, 2015. The Decision gave municipalities who
+had been certified or were actively participating in the process of certification the opportunity to file
+a declaratory judgment action.
+
+While the New Jersey Supreme Court's decision set a process in motion for municipalities to address
+their Third Round obligations, it did not assign those obligations. Instead, the trial courts would
+assign those obligations. Additionally, the Court stated that municipalities should rely on COAH's
+Second Round rules (N.J.A.C. 5:93) and those components of COAH's 2008 regulations that were not
+specifically invalidated, as well as the Fair Housing Act in their preparation of Third Round Housing
+Elements and Fair Share Plans.
+
+Adhering to the process directed by the Supreme Court, Mount Holly Township filed a declaratory
+judgment motion on July 8, 2015. Following that filing, the Township filed a Housing Element and Fair
+Share Plan dated November 30, 2015. As a result, the Township was granted immunity by the Court
+from exclusionary zoning lawsuits while the Township was negotiating the terms of the Settlement
+Agreement. The immunity remains in effect.
+
+Following a series of case management conferences, Mount Holly’s present attorney Stephen
+Boraske, Esq. and Kevin Walsh, Esq. from FSHC engaged in settlement discussions that resulted in
+a Settlement Agreement which established the Township’s fair share obligation. The Settlement
+Agreement dated February 11, 2019, was executed on February 25, 2019, by Jason Jones, Mayor for
+the Township pursuant to Township Resolution 209-61, Resolution Authorizing the Mayor to Execute
+a Settlement Agreement in the Litigation Captioned “In the Matter of the Township of Mount Holly,
+County of Burlington, Declaratory Judgment Action Docket Number BUR-L-1623-15.” Resolution 209-
+61 was adopted on February 25, 2019. On February 28, 2019, the Settlement Agreement was
+executed by Kevin Walsh, Esq. for FSHC.
+
+The Township's Planning Board adopted a Third Round HE/FSP on November 25, 2019, and the Town-
+ship's governing body endorsed it on November 25, 2019. In a Compliance Report, the Court Master
+recommended the Court grant the Township a Third Round Judgment of Compliance and Repose
+("JOR"), subject to the fulfillment of certain conditions included in the report. As noted above, after a
+duly noticed Compliance Hearing, a JOR was granted on May 23, 2019, subject to the fulfillment of
+the conditions in the Court Master's Report. Having subsequently found that the Township had
+satisfied all remaining out-standing conditions enumerated in the May 23, 2019, Order, a final JOR
+was granted giving the Township immunity and protection from any Mount Laurel builder's remedy
+actions through July 1, 2025.
+
+While the Court-approved 2019 Settlement Agreement stipulated that the Township had no Prior
+Round or Third Round obligation, the Township agreed to create future opportunities for affordable
+housing through the implementation of an inclusionary overlay zoning district on the lots that
+comprise the Memorial Hospital site, owned by Virtua Health, Inc. Virtua had previously received
+state approval to construct a new regional facility in neighboring Westampton Township and planned
+to vacate the site in the Township, thus providing Mount Holly with what the Township's 2019 Plan
+called "a significant opportunity for provision of affordable housing through overlay zoning." However,
+on June 25, 2021, counsel for Virtua filed a Motion to Intervene and for relief from the June 26, 2020,
+JOR. Virtua's Motion noted that the company had notified the Township that its plans had changed,
+and it was now intending to undertake a significant redevelopment and expansion of the existing
+
+                                             Page 29 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 32 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02     Mount Holly Township Housing Element & Fair Share Plan                      6/5/2025
+
+
+
+Memorial Hospital, rather than constructing a new complex else-where. Through subsequent
+negotiations with Virtua, the Township has agreed to abandon the adopted overlay zoning on the
+Virtua site and has identified four alternative sites on which it intends to adopt an affordable housing
+overlay zone. In addition, the Township will adopt a Township-wide Mandatory Affordable Housing
+Set-Aside Ordinance for the production of affordable housing in residential developments of five (5)
+or more units approved with a density of six units per acre. Those changes are memorialized in the
+2021 Agreement. The Township’s 2023 Housing Element and Fair Share Plan met the New Jersey Fair
+Housing Act (N.J.S.A. 52:27D-301 et seq.,) requirements and the terms of the December 13, 2021,
+Settlement Agreement with Fair Share Housing Center. The 2021 Amended Agreement was signed
+by the Township Mayor on December 13, 2021. The 2021 Amended Agreement required the Township
+adopt a mandatory set-aside ordinance and the adoption of inclusionary zoning on the following four
+(4) sites:
+
+        •     Site A – Block 66.02 Lots 1, 1.01, 2. 6 and 6.05
+        •     Site B – Block 84 Lots 33, 34.01, 34.02, 35 through 40, 40.01, 52, 65, and 65.01
+        •     Site C – Block 112 Lots 14 through 21, 15.01, 16.01, and 22
+        •     Site D Block 125 Lots 9 and 9.01
+
+
+CONSIDERATION OF LANDS MOST APPROPRIATE FOR AFFORDABLE HOUSING
+Throughout this planning process, the Township has considered land that is appropriate for the
+construction of low- and moderate-income housing, including the adoption of zoning overlays as
+evidenced in prior round compliance efforts. Mount Holly is relatively built out especially compared
+to the more rural communities that surround the municipality. The Township has a more diverse
+housing stock with almost 30% of housing structures having 2 units or more, compared to about 20%
+at the County level according to 2023 ACS Data. The Township intends to satisfy the affordable
+housing obligation through existing development. Furthermore, a majority of the land in Mount Holly
+is located within the sewer service area, as depicted on the following map.
+
+
+
+
+                                             Page 30 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 33 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan   6/5/2025
+
+
+
+                                     Sewer service map
+
+
+
+
+                                        Page 31 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 34 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02     Mount Holly Township Housing Element & Fair Share Plan                      6/5/2025
+
+
+
+THE TOWNSHIP’S AFFORDABLE HOUSING OBLIGATION
+On October 18, 2024, the Department of Community Affairs (‘DCA’) released “Affordable Housing
+Obligations for 2025-2035” as required by the recently enacted law. The Township’s obligation is
+identified in the chart below:
+
+
+                    MOUNT HOLLY'S AFFORDABLE HOUSING OBLIGATION 2025-2035
+                   REHABILITATION        PRIOR ROUND         FOURTH ROUND         NET FOURTH ROUND
+                     (Present Need)                          (Prospective Need)     (Prospective Need)
+
+OBLIGATION                42                   0                    41                      41
+
+
+
+PRESENT NEED (REHABILITATION) OBLIGATION
+A municipality may satisfy its present need obligation through the implementation of a rehabilitation
+program. Such a program must focus on repairing or replacing essential housing systems, such as
+roofing, plumbing, electrical, heating, or structural (load bearing) elements, in order to bring existing
+housing units into compliance with applicable codes. The program must be administered by an
+entity with demonstrated experience in affordable housing rehabilitation and must be detailed in a
+manual subject to approval.
+The rehabilitation obligation is defined as an estimate of the number of deteriorated housing units
+existing in a municipality that are occupied by low- and moderate-income households. The 2021
+Settlement Agreement stated that Mount Holly has a Third Round Rehabilitation Share of 13 units,
+and per a Court Order dated June 26, 2020, the Court granted the Township credit for 13 rehabilitated
+units.
+
+The Township intends to satisfy the 4th Round Rehabilitation Obligation by continuing to implement
+and administer a municipal rehabilitation program for both owner-occupied and rental units, as it
+has been done previously. Furthermore, the Township shall also participate in the county
+rehabilitation program. In the past, the Township has successfully secured Small Cities grant
+funding for their rehabilitation program and may pursue similar options to continue their efforts and
+satisfy the 4th Round Rehabilitation Obligation.
+
+PRIOR ROUND OBLIGATION
+Although the Township had a Prior Round and Third Round Obligation of zero (0), through the
+settlement process with FSHC, they were required to adopt a mandatory set-aside ordinance and
+overlay zoning on the following properties.
+
+        •     Site A – Block 66.02 Lots 1, 1.01, 2. 6 and 6.05
+        •     Site B – Block 84 Lots 33, 34.01, 34.02, 35 through 40, 40.01, 52, 65, and 65.01
+        •     Site C – Block 112 Lots 14 through 21, 15.01, 16.01, and 22
+        •     Site D Block 125 Lots 9 and 9.01
+
+
+Affordable units have not been generated through these zoning interventions; however, these
+mechanisms remain in place and will be implemented should the opportunity for development arise.
+Please refer to the following map showing the designated Third Round zoning overlays.
+                                             Page 32 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 35 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan   6/5/2025
+
+
+
+
+                                        Page 33 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 36 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan   6/5/2025
+
+
+
+
+                                        Page 34 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 37 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan   6/5/2025
+
+
+
+
+                                        Page 35 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 38 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan   6/5/2025
+
+
+
+
+                                        Page 36 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 39 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan   6/5/2025
+
+
+
+
+                                        Page 37 of 46
+         BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 40 of 48 Trans ID: LCV20251798187
+
+
+    Project 29040 02    Mount Holly Township Housing Element & Fair Share Plan                       6/5/2025
+
+
+
+    PROSPECTIVE NEED (FOURTH ROUND) OBLIGATION
+    As outlined by DCA, the Township of Mount Holly’s prospective need obligation for the Fourth Round
+    is 41. For the Fourth Round, DCA released a comprehensive methodology on how the municipal
+    obligations were calculated. The municipal Prospective Need is calculated by averaging the
+    Equalized Nonresidential Valuation Factor, Land Capacity Factor, and Income Capacity Factor and
+    multiplying this average by the regional Prospective Need for Region 5 (Burlington, Camden, and
+    Gloucester) or 9,134 in this instance and the Prospective Need for Mount Holly is 41.
+
+
+
+                    EQUALIZED            LAND        INCOME         AVERAGE       REGIONAL          MUNICIPAL
+                  NONRESIDENTIAL       CAPACITY     CAPACITY       ALLOCATION    PROSPECTIVE       PROSPECTIVE
+                 VALUATION FACTOR       FACTOR       FACTOR          FACTOR         NEED              NEED
+MOUNT
+HOLLY                  0.51%             0.17%        0.66%          0.45%           9,134               41
+TOWNSHIP
+
+
+    The Township of Mount Holly intends to satisfy the 4 th Round Obligation through various existing
+    affordable housing developments. Additional details regarding the unit type, bedroom distribution,
+    income distribution, and affordability controls are included in Appendix F. The following table
+    summarizes the Township’s compliance:
+
+
+
+ SATISFACTION OF THE FOURTH ROUND OBLIGATION
+              MECHANISM                                UNIT TYPE                  UNITS      BONUS     CREDITS
+
+    Samuel Miller Senior Housing         100% Affordable Age Restricted Rental     29          -          29
+ Northampton Crossing (Regency Park)          Inclusionary Family Rental           100         -          100
+                                                                       TOTALS      129         -          129
+
+
+    As depicted in the table above, there are existing affordable housing developments within the
+    Township that qualify for affordable housing credit, which meet and exceed the 41-unit 4th Round
+    Obligation. Furthermore, there are 88 surplus credits which may be carried over to the subsequent
+    affordable housing round. These projects were not included in the Prior Round Plans and subsequent
+    Settlement Agreements with Fair Share Housing Center. Additional information regarding these
+    existing developments is provided below.
+
+         •   Samuel Miller Senior Housing. Samuel Miller Senior Housing is an existing 100% affordable
+             age restricted rental development that was completed in approximately 2007. It is located
+             on Clifton Street, specifically on Block 18 Lot 2, in the central portion of the Township near
+             the intersection of Clifton Avenue and Bartram Avenue. The site is located in a residential
+             neighborhood, with residential uses to the north, west, and south. Across Clifton Avenue
+             directly east is a wooded area, and to the northeast is the Sacred Heart Elementary School.
+             Further south, across Grant Street, about 850 feet away is the Burlington County
+
+                                                 Page 38 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 41 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02    Mount Holly Township Housing Element & Fair Share Plan                    6/5/2025
+
+
+
+         Correctional Facility. The development consists of 29 affordable units and has 30 year-
+         affordability controls.
+
+     •   Northampton Crossing (Regency Park). Northampton Crossing, formerly known as
+         Regency Park, is an existing inclusionary family rental development completed in
+         approximately 2012. It is located on Regency Drive, specifically on Block 41.08 Lot 1 and
+         Block 41.09 Lots 1 and 6, in the northwestern portion of the Township. The site is part of an
+         inclusionary development, with townhome residential uses to the west and south. To the
+         north is a commercial strip-mall development. Across Levis Drive to the south is the Holbein
+         Middle School. The development consists of 100 affordable units and has 30 year-
+         affordability controls.
+
+
+
+
+                                            Page 39 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 42 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan   6/5/2025
+
+
+
+
+                                    Fourth round site map
+
+
+
+
+                                        Page 40 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 43 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan   6/5/2025
+
+
+
+                                    Fourth round site map
+
+
+
+
+                                        Page 41 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 44 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02   Mount Holly Township Housing Element & Fair Share Plan   6/5/2025
+
+
+
+                                    Fourth round site map
+
+
+
+
+                                        Page 42 of 46
+        BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 45 of 48 Trans ID: LCV20251798187
+
+
+   Project 29040 02       Mount Holly Township Housing Element & Fair Share Plan              6/5/2025
+
+
+
+   The Township of Mount Holly contains a robust number of existing affordable housing, including
+   group homes and supportive living arrangements, that may qualify for affordable housing credit. At
+   the adoption of this Plan, the “creditworthiness” of each mechanism is still being determined.
+   Additional research into bedroom distribution, income distribution, unit type, and affordability
+   controls are being conducted. Crediting documentation will be provided for the eligible mechanisms
+   and will count towards the Township’s surplus for future compliance rounds. Additional details
+   regarding the unit type, bedroom distribution, income distribution, and affordability controls are
+   included in Appendix F. The following table provides additional detail regarding the existing
+   mechanisms that may qualify for credit.
+
+
+
+ADDITIONAL MECHANISMS FOR SURPLUS CREDIT
+                      MECHANISM                            UNIT TYPE          UNITS    BONUS     CREDITS
+
+      Habitat For Humanity – 20 Willow
+                                                          Residence             1         -          1
+               (Block 67 Lot 19)
+     Habitat For Humanity – 222 Filbert
+                                                          Residence             1         -          1
+               (Block 68 Lot 18)
+     Habitat For Humanity – 43 Bispham
+                                                          Residence             1         -          1
+               (Block 82 Lot 17)
+    Habitat For Humanity – 138 Rancocas
+                                                          Residence             1         -          1
+               (Block 82 Lot 17)
+     Habitat For Humanity – 41 Bispham
+                                                          Residence             1         -          1
+               (Block 82 Lot 16)
+       The Salt & Light Company, Inc
+                                                          Residence             1         -          1
+             (Block 19, Lot 21.05)
+       The Salt & Light Company, Inc
+                                                          Residence             1         -          1
+             (Block 19, Lot 21.11)
+       The Salt & Light Company, Inc
+                                                          Residence             1         -          1
+             (Block 41.01, Lot 30)
+       The Salt & Light Company, Inc
+                                                          Residence             1         -          1
+             (Block 41.01, Lot 37)
+       The Salt & Light Company, Inc
+                                                          Residence             1         -          1
+               (Block 42, Lot 18)
+       The Salt & Light Company, Inc
+                                                          Residence             1         -          1
+               (Block 43, Lot 21)
+       The Salt & Light Company, Inc
+                                                          Residence             1         -          1
+               (Block 43, Lot 24)
+       The Salt & Light Company, Inc
+                                                          Residence             1         -          1
+               (Block 57, Lot 29)
+       The Salt & Light Company, Inc
+                                                          Residence             1         -          1
+               (Block 83, Lot 19)
+            Salt & Light Company
+                                                          5 APT Units           5         -          5
+               (Block 55, Lot 40)
+            Salt & Light Company
+                                                          4 APT Units           4         -          4
+               (Block 55, Lot 41)
+
+                                               Page 43 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 46 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02    Mount Holly Township Housing Element & Fair Share Plan                   6/5/2025
+
+
+
+   Salt & Light Community Pres Corp
+                                                        Residence              1         -          1
+          (Block 41.01, Lot 36)
+   Salt & Light Community Pres Corp
+                                                        Residence              1         -          1
+          (Block 41.01, Lot 37)
+   Salt & Light Community Pres Corp
+                                                            7 APTS             7         -          7
+            (Block 51, Lot 35)
+   Salt & Light Community Pres Corp
+                                                        Residence              1         -          1
+            (Block 58, Lot 16)
+   Salt & Light Community Pres Corp
+                                                        Residence              1         -          1
+             (Block 81, Lot 9)
+   Salt & Light Community Pres Corp
+                                                        Residence              1         -          1
+            (Block 84, Lot 22)
+   Salt & Light Community Pres Corp
+                                                        Residence              1         -          1
+            (Block 84, Lot 23)
+   Salt & Light Community Pres Corp
+                                                        Residence              1         -          1
+            (Block 115, lot 40)
+           Drenk Institute, Inc
+                                                            2 APTS             2         -          2
+            (Block 82, Lot 18)
+           Drenk Institute, Inc
+                                                            2 APTS             2         -          2
+            (Block 82, Lot 20)
+    Personalized Independent living
+                                                        Residence              1         -          1
+          (Block 41.08, Lot 28)
+    Personalized Independent living
+                                                        Residence              1         -          1
+          (Block 41.09, Lot 28)
+       Crossroads Programs, Inc
+                                                       Group Home              2         -          2
+           (Block 48.02, Lot 7)
+    Family Service of Burlington Co.
+                                                       Group Home              1         -          1
+           (Block 134, Lot 22)
+                                                                     TOTALS    46        -          46
+
+
+As depicted in the table above, there are several existing affordable housing developments within
+the Township that may qualify for affordable housing credit. Additional research will be conducted,
+but the Township may receive up to 46 additional credits for the mechanisms highlighted above.
+Bonus credit eligibility will be determined when additional information is collected for each
+mechanism. Additional information regarding the relevant organizations can be depicted below.
+
+    •    Habitat for Humanity. Habitat for Humanity is a well-known non-profit that is heavily
+         involved in affordable housing creation nation-wide. Through the research conducted to
+         analyze the existing affordable housing within the Township, several Habitat for Humanity
+         developments were identified as potentially qualifying for credit. Five (5) units have been
+         identified in the Township and additional research is needed to determine the
+         “creditworthiness” of the referenced properties.
+
+     •   Salt & Light Company. The Salt and Light company is a property development company that
+         works in all aspects of real estate such as purchase, renovation, rehab and sale. They
+         specialize in affordable housing for lower income individuals. Thirty-two (32) have been
+                                            Page 44 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 47 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02     Mount Holly Township Housing Element & Fair Share Plan                      6/5/2025
+
+
+
+         identified in the Township and additional research is needed to determine the
+         “creditworthiness” of the referenced properties.
+
+     •   Drenk Institute. The Drenk Institute is a branch of Legacy Treatment services. They work in
+         counseling, rehabilitation and residential placement for individuals of all ages. Four (4) units
+         have been identified in the Township and additional research is needed to determine the
+         “creditworthiness” of the referenced properties.
+
+     •   Personalized Independent Living. P.I.L.O.T is an organization founded to support adults
+         with intellectual disabilities. They operate several group homes, supervised apartments,
+         and day habilitation centers. Two (2) units have been identified in the Township and
+         additional research is needed to determine the “creditworthiness” of the referenced
+         properties.
+
+     •   Crossroads. Crossroads Programs aims to aid youth who have experienced trauma, abuse,
+         abandonment, neglect, and other extreme circumstances. They provide services such as
+         crisis assessment, residential treatment, group housing, counseling, and
+         rehabilitation/transitional living program. Two (2) units have been identified in the Township
+         and additional research is needed to determine the “creditworthiness” of the referenced
+         properties.
+
+     •   Family Service of Burlington County. The center for Family services of Burlington County
+         offers a comprehensive array of services to meet the needs of the community such as
+         addiction recovery, counseling, workforce development, trauma and victim response, and
+         safe and supportive housing. One (1) unit has been identified in the Township and additional
+         research is needed to determine the “creditworthiness” of the referenced properties.
+
+
+
+AFFORDABLE HOUSING ADMINISTRATION & AFFIRMATIVE MARKETING
+Mount Holly adopted Ordinance 2019-9, an affordable housing regulating ordinance and affirmative
+marketing plan, on November 25, 2019. This ordinance was prepared in accordance with COAH’s
+substantive rules and UHAC. The Affordable Housing Ordinance governs the establishment of
+affordable units in the Township as well as regulating the occupancy of such units. The Township’s
+Affordable Housing Ordinance covers the phasing of affordable units, the low/moderate income
+split, bedroom distribution, occupancy standards, affordability controls, establishing rents and
+prices, affirmative marketing, income qualification, etc. The Township has established the position
+of the Municipal Housing Liaison. Additionally, the Township relies on an affordable housing
+administrator to conduct the administration and affirmative marketing of its affordable housing
+sites.
+
+The Township’s Affirmative Marketing Plans are designed to attract buyers and/or renters of all
+majority and minority groups, regardless of race, creed, color, national origin, ancestry, marital or
+familial status, gender, expression or sexual orientation, disability, age or number of children to the
+affordable units located in the Township. Additionally, the affirmative marketing plan is intended to
+target those potentially eligible people who are least likely to apply for affordable units and who
+                                             Page 45 of 46
+     BUR-L-000233-25 06/18/2025 4:42:00 PM Pg 48 of 48 Trans ID: LCV20251798187
+
+
+Project 29040 02    Mount Holly Township Housing Element & Fair Share Plan                     6/5/2025
+
+
+
+reside in the Township’s housing region, Region 5, consisting of Burlington, Camden, and Gloucester
+Counties. The affirmative marketing plans include regulations for qualification of income eligibility,
+price and rent restrictions, bedroom distribution, affordability control periods, and unit marketing in
+accordance with N.J.A.C. 5:80-26.1 et seq. The Affirmative Marketing Plan must be adhered to by all
+private, non-profit, and municipal developers of affordable housing units and must cover the period
+of deed restriction or affordability controls on each affordable unit.
+
+
+
+AFFORDABLE HOUSING TRUST FUND
+The Township of Mount Holly adopted a Development Fee Ordinance on November 11, 2019, through
+Ordinance 2019-10. The development fee ordinance creates a dedicated revenue source for
+affordable housing providing for residential development fees in the amount of 1.5% of the equalized
+assessed value of residential development and nonresidential development fees in the amount of
+2.5% of the equalized assessed value of non-residential development. Furthermore when an
+increase in residential density pursuant to N.J.S.A. 40:55D-70d(5) (known as a "d" variance) has been
+permitted, developers shall be required to pay a development fee of 6% of the equalized assessed
+value for each additional unit that may be realized, except that this provision shall not be applicable
+to a development that will include affordable housing.
+
+A 2025 Spending Plan will be prepared and will discuss anticipated revenues, collection of revenues,
+and the use of revenues, in accordance with the relevant rules and statutes. All collected revenues
+will be placed in the Township’s Affordable Housing Trust fund and will be dispensed for the use of
+eligible affordable housing activities including, but not limited to:
+
+    •   Rehabilitation program;
+    •   New construction of affordable housing units and related development costs;
+    •   Extensions or improvements of roads and infrastructure directly serving affordable housing
+        development sites;
+    •   Acquisition and/or improvement of land to be used for affordable housing;
+    •   Purchase of affordable housing units or payments to property owners for the purpose of
+        maintaining or implementing affordability controls;
+    •   Maintenance and repair of affordable housing units;
+    •   Repayment of municipal bonds issued to finance low- and moderate-income housing
+        activity; and
+    •   Any other activity as specified in the approved spending plan.
+
+The Township is required to fund eligible programs in an approved Housing Element and Fair Share
+Plan, as well as provide affordability assistance. At least 30% of the collected development fees
+shall be used to provide affordability assistance to affordable units. At least one third (1/3) of the
+affordability assistance must be expended on very low-income units. Additionally, no more than 20%
+of the revenues collected from development fees shall be expended on administration costs. These
+administration costs include but are not limited to salaries and benefits for municipal employees or
+consultant fees.
+
+
+
+
+                                            Page 46 of 46
+

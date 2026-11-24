@@ -1,0 +1,3127 @@
+       MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 1 of 81 Trans ID: LCV2026663937
+
+
+
+
+                        AMENDED FOURTH ROUND
+         HOUSING ELEMENT AND FAIR SHARE PLAN
+              BOROUGH OF NETCONG, NEW JERSEY
+
+
+                                            Prepared for:
+                                 Borough of Netcong Planning Board
+                                         23 Maple Avenue,
+                                    Netcong, New Jersey 07857
+
+
+                                            Prepared by:
+                               Phillips Preiss Grygiel Leheny Keller LLC
+                                Planning and Real Estate Consultants
+                                      70 Hudson Street, Suite 5B
+                                      Hoboken, New Jersey 07307
+
+                                      Adopted March 11, 2026
+
+The original copy of this document was signed and sealed in accordance with N.J.S.A. 45:14 A‐1 et seq.
+
+
+
+
+                                         Elizabeth C. Leheny
+
+                           New Jersey Professional Planner License #6133
+
+
+                                         In association with:
+
+
+
+                                           Paul A. Phillips
+
+                           New Jersey Professional Planner License #3046
+      MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 2 of 81 Trans ID: LCV2026663937
+
+
+
+
+TABLE OF CONTENTS
+
+ 1              INTRODUCTION .................................................................................................................... 1
+
+ 2              AFFORDABLE HOUSING IN NEW JERSEY AND BOROUGH OF NETCONG ..................................2
+
+2.1   MOUNT LAUREL I AND MOUNT LAUREL II ......................................................................................................... 2
+2.2   FAIR HOUSING ACT (1985) AND COAH ROUNDS ONE AND TWO .......................................................................... 2
+2.3   COAH ROUND THREE................................................................................................................................ 2
+2.4   AMENDED FAIR HOUSING ACT (2024) AND FOURTH ROUND (2025-2035) ............................................................. 3
+2.5   NETCONG’S AFFORDABLE HOUSING HISTORY .................................................................................................. 4
+
+ 3              HOUSING ELEMENT/ FAIR SHARE PLAN REQUIREMENTS ........................................................6
+
+ 4              HOUSING STOCK AND DEMOGRAPHIC ANALYSIS ..................................................................8
+
+4.1   HOUSING STOCK INVENTORY ....................................................................................................................... 8
+4.2   GENERAL POPULATION CHARACTERISTICS ..................................................................................................... 12
+4.3   HOUSEHOLD CHARACTERISTICS ................................................................................................................. 14
+4.4   INCOME CHARACTERISTICS ........................................................................................................................ 14
+4.5   EMPLOYMENT CHARACTERISTICS................................................................................................................. 15
+4.6   MULTIGENERATIONAL HOUSING CONTINUITY ................................................................................................. 16
+4.7   GROWTH TRENDS AND PROJECTIONS ........................................................................................................... 17
+4.8   CAPACITY FOR GROWTH ........................................................................................................................... 19
+
+ 5              BOROUGH OF NETCONG AFFORDABLE HOUSING PLAN ....................................................... 20
+
+5.1   PRIOR ROUND AFFORDABLE HOUSING OBLIGATIONS (1987-2025)..................................................................... 20
+5.2   SATISFACTION PRIOR ROUND AFFORDABLE HOUSING OBLIGATIONS (1987-2025) .................................................. 21
+5.3   STATUS OF PROJECTS IN 2016 HEFSP ......................................................................................................... 22
+5.4   AFFORDABLE HOUSING UNITS CONSTRUCTED AND/OR PLANNED SINCE 2016 ....................................................... 23
+5.5   CALCULATION OF FOURTH ROUND OBLIGATION (2025-2035) ........................................................................... 24
+5.6   PLAN TO ADDRESS FOURTH ROUND OBLIGATION (2025-2035) .......................................................................... 27
+5.7   OTHER REQUIREMENTS ............................................................................................................................. 28
+5.8   SPENDING PLAN ..................................................................................................................................... 30
+
+ 6              CONSISTENCY WITH HOUSING ELEMENT OF HIGHLANDS REGIONAL MASTER PLAN ............. 31
+
+ 7              CONSISTENCY WITH THE STATE DEVELOPMENT AND REDEVELOPMENT PLAN ...................... 32
+
+ 8              APPENDIXES ...................................................................................................................... 35
+
+ APPENDIX A. 2016 JUDGMENT OF COMPLIANCE AND REPOSE
+
+ APPENDIX B. PROGRAM RECOMMENDATION FOR MUNICIPAL OBLIGATIONS FOR “PRESENT NEED” AND
+             “PROSPECTIVE NEED” FOR THE FOURTH ROUND
+
+ APPENDIX C. HIGHLANDS BUILD-OUT ANALYSIS & VACANT LAND ADJUSTMENT METHODOLOGY
+             HIGHLANDS BUILD-OUT ANALYSIS & VACANT LAND ADJUSTMENT ANALYSIS METHODOLOGY
+
+ APPENDIX D: INVENTORY AND MAPS OF PARCELS INVESTIGATED IN BUILD-OUT ANALYSIS AND VACANT
+               MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 3 of 81 Trans ID: LCV2026663937
+
+
+
+
+                         LAND ADJUSTMENT
+
+    APPENDIX E. SPENDING PLAN
+
+    APPENDIX F. ADOPTED AFFORDABLE HOUSING ORDINANCE INCLUDING MANDATORY SET-ASIDE
+
+    APPENDIX G. ADOPTED DEVELOPMENT FEE ORDINANCE
+
+    APPENDIX H. RESOLUTION APPOINTING MUNICIPAL HOUSING LIAISON
+
+    LIST OF TABLES
+
+TABLE 1.      HOUSING UNITS BY OCCUPANCY STATUS, 2023 ...............................................................................8
+TABLE 2.      HOUSING UNITS BY NUMBER OF UNITS IN STRUCTURE, 2023 .....................................................8
+TABLE 3       HOUSING UNITS BY AGE, 2023 ........................................................................................................9
+TABLE 4.      HOUSING UNITS BY NUMBER OF ROOMS FOR NETCONG BOROUGH AND MORRIS COUNTY,
+              2023 ...................................................................................................................................................9
+TABLE 5.      HOUSING VALUES, OWNER-OCCUPIED, 2013 ............................................................................. 10
+TABLE 6.      HOUSING VALUES, OWNER-OCCUPIED, 2023 ............................................................................. 10
+TABLE 7.      COMPARISON OF NETCONG BOROUGH AND MORRIS COUNTY, MONTHLY RENTAL COST –
+              OCCUPIED RENTAL UNITS, 2023 ................................................................................................... 11
+TABLE 8.      MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12
+              MONTHS – OWNER-OCCUPIED HOUSING UNITS, 2023 .............................................................. 11
+TABLE 9.      MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12
+              MONTHS – RENTER OCCUPIED HOUSING UNITS, 2023 .............................................................. 12
+TABLE 10. SELECTED QUALITY INDICATORS, OCCUPIED HOUSING STOCK, 2023 ............................................. 12
+TABLE 11. POPULATION GROWTH, 1990-2020 .................................................................................................... 13
+TABLE 12. COMPARISON OF AGE DISTRIBUTION, 2010 - 2020 .......................................................................... 13
+TABLE 13.     HOUSEHOLD AND FAMILY INCOME BY INCOME BRACKETS FOR NETCONG AND MORRIS
+              COUNTY, 2023 ................................................................................................................................ 14
+TABLE 14. EMPLOYMENT STATUS ......................................................................................................................... 15
+TABLE 15. EMPLOYMENT BY OCCUPATION, NETCONG, 2023 ............................................................................ 15
+TABLE 16.     DISTRIBUTION OF EMPLOYMENT BY INDUSTRY, BOROUGH RESIDENTS, 2023 ........................ 16
+TABLE 17. DISTRIBUTION BY CLASS OF WORKER, 2023 ...................................................................................... 16
+TABLE 18. RESIDENTIAL CERTIFICATES OF OCCUPANCY, 2013-2023 ................................................................. 18
+TABLE 19. NON-RESIDENTIAL CERTIFICATES OF OCCUPANCY, 2013-2023........................................................ 18
+TABLE 20. FOURTH ROUND OBLIGATION ............................................................................................................. 25
+TABLE 21. DEVELOPABLE ACREAGE ...................................................................................................................... 27
+TABLE 22. AFFORDABLE HOUSING PLAN FOR THIRD AND FOURTH ROUNDS ................................................... 28
+      MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 4 of 81 Trans ID: LCV2026663937
+
+
+
+
+ACKNOWLEDGMENTS
+
+ MAYOR AND C OUNCIL                           PLANNING BOARD
+ Mayor Elmer Still                            Theresa Vervaet, Chair
+ Jack Sylvester                               Wayne Anthony, Vice-Chair
+ Matthew Eddy                                 Mayor Elmer Still
+ Walter Barbero                               Joseph Nametko
+ Thomas Laureys                               Brett Conrads
+ Todd Morton                                  Brian Shubert
+ Joseph Nametko                               Kelly Stephens
+                                              Gerald Stevens
+                                              David Benson
+                                              John Parks      Alternate #1
+                                              Kate Koeberl-Trackim           Alternate #2
+
+ BOROUGH PROFESSIONALS
+ Ralph Blakeslee               Borough Administrator
+ Richard Brigliadoro, Esq.     Planning Board Attorney
+ Anthony M. Bucco, Esq.        Borough Attorney
+ Robert H. Oostdyk, Jr         Borough Attorney
+ Denis Keenan, PE              Borough Engineer
+ Elizabeth Leheny, AICP, PP    Borough Planner
+ Stephanie Pizzulo             Planning Board Administrator
+ Cynthia L. Eckert             Borough Clerk
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 5 of 81 Trans ID: LCV2026663937
+
+
+
+
+1 INTRODUCTION
+The Borough of Netcong, New Jersey (the “Borough”), in accordance with the New Jersey Municipal Land
+Use Law (N.J.S.A. 40:55D-28b(3)), the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 (2024)) as
+amended, applicable rules established by the Council on Affordable Housing (“COAH”), and the
+Administrative Office of the Courts Directive #14-24, adopted its Fourth Round Housing Element and Fair
+Share Plan (“HEFSP”) on June 23, 2025, which was then endorsed by the Governing Body and filed with
+the Affordable Housing Dispute Resolution Program (the “Program”) through the New Jersey Courts
+system on June 25, 2025 (“2025 HEFSP”). The Borough’s 2025 HEFSP was then challenged by Fair Share
+Housing Center (“FSHC”) on August 31, 2025 pursuant to N.J.S.A. 52:27D-304.1(f)(2)(b). The Borough and
+FSHC in December 2025 then agreed to settle the litigation and to present an agreement to the Program
+and the Court with jurisdiction over this matter to review, recognizing that the settlement of Mount Laurel
+litigation is favored because it ends delays and the expense of trial and results more quickly in the
+construction of homes for very-low-, low- and moderate-income households. The Borough executed a
+Settlement Agreement with FSHC on December 18, 2025. That Settlement Agreement established the
+Borough’s affordable housing obligation and mechanisms to satisfy the obligation, which notably
+included a vacant land adjustment. As such, this Amended HEFSP has been prepared to be consistent
+with the Settlement Agreement reached with FSHC dated December 15, 2025, and to set forth the
+Borough’s plans to address its 2025-2035 obligation to provide its fair share of the regional need for
+affordable housing.
+The Municipal Land Use Law, N.J.S.A. 40:55D-1, et seq., requires that a municipal master plan include a
+Housing Element in order for the municipality to exercise the power to zone and regulate land use. The
+Housing Element and Fair Share Plan is adopted by the Borough Planning Board and endorsed by the
+governing body. It is intended to achieve the goal of meeting the Borough’s obligations to plan and
+regulate land use to provide for a fair share of the regional need for affordable housing.
+Netcong remains committed to meeting its constitutional obligation to provide, through its land use
+regulations, a realistic opportunity for a fair share of the region’s present and prospective needs for
+housing for low- and moderate-income families. This Amended HEFSP document outlines how the
+Borough will address its affordable housing obligations.
+
+
+
+
+                                                                                                              1
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 6 of 81 Trans ID: LCV2026663937
+
+
+
+
+2 Affordable Housing In New Jersey and Borough of Netcong
+2.1 Mount Laurel I and Mount Laurel II
+ In 1975 the Supreme Court of New Jersey in South Burlington County N.A.A.C.P. v. Township of Mount
+ Laurel, 67 N.J. 151 (1975), commonly referred to as Mount Laurel I, ruled that the developing
+ municipalities in the State of New Jersey exercising their zoning power, in general, had a constitutional
+ obligation to provide a realistic opportunity for the construction of their fair share of the region’s low- and
+ moderate-income housing needs.
+ In 1983, the Supreme Court refined that constitutional obligation in South Burlington County N.A.A.C.P.
+ v. Township of Mount Laurel, 92 N.J. 158 (1983), commonly referred to as Mount Laurel II, to apply to
+ those municipalities having any portion of their boundaries within the growth area as shown on the State
+ Development Guide Plan.
+
+2.2 Fair Housing Act (1985) and COAH Rounds One and Two
+ In 1985, the New Jersey Legislature adopted, and the Governor signed, the Fair Housing Act N.J.S.A.
+ 52:2D-301, et seq. (“FHA”) which transformed the judicial doctrine that became known as the “Mount
+ Laurel doctrine” into a statutory one and provided an alternative administrative process in which
+ municipalities could elect to participate in order to establish a Housing Element and Fair Share Plan
+ (“HEFSP”) that would satisfy its constitutional obligation by creating an administrative agency known as
+ the Council on Affordable Housing (“COAH”) to develop regulations to define the obligation and
+ implement it. COAH proceeded to adopt regulations in 1986 for the First Round applicable from 1987-
+ 1994. In 1994, COAH adopted regulations for the Second Round that created a cumulative obligation
+ from 1987 to 1999.
+
+2.3   COAH Round Three
+ COAH first proposed Third Round substantive and procedural rules in 2003, but due to multiple legal
+ challenges, these rules were not adopted until 2008. However, the Third Round rules adopted in 2008
+ were challenged in an appeal entitled In the Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by the New
+ Jersey Council on Affordable Housing, 416 N.J. Super. 462 (App. Div. 2010) (the “2010 Case”). In October
+ 2010, the Appellate Division determined, among other things, that the methodology in the rules adopted
+ in 2008 was invalid and that COAH should adopt regulations utilizing methodologies similar to the ones
+ utilized in the First and Second Rounds, i.e. 1987-1999.
+
+ In 2013, the Supreme Court of New Jersey affirmed the Appellate Division’s invalidation of the third
+ iteration of the Third Round regulations, sustained their determination that the growth share
+ methodology was invalid, and directed COAH to adopt new regulations based upon the methodology
+ utilized in the First and Second Rounds, In the Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by the New
+ Jersey Council on Affordable Housing, 215 N.J. 578 (2013) (the “2013 Case”). COAH proceeded to
+ propose such regulations in accordance with the schedule established by the New Jersey Supreme Court
+ in the 2013 Case. On October 20, 2014, COAH deadlocked with a 3-3 vote and failed to adopt the revised
+
+                                                                                                                   2
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 7 of 81 Trans ID: LCV2026663937
+
+
+
+
+ Third Round regulations.
+
+ Due to COAH’s failure to adopt the revised regulations and subsequent inaction, Fair Share Housing
+ Center (“FSHC”), a party in the 2010 Case and the 2013 Case, filed a motion with the New Jersey Supreme
+ Court to enforce litigant’s rights.
+
+ On March 10, 2015, the New Jersey Supreme Court issued its decision on FSHC’s motion. The Supreme
+ Court found that the COAH administrative process had become non-functioning and, as a result,
+ returned primary jurisdiction over affordable housing matters to the trial courts. In the Matter of the
+ Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council on Affordable Housing, 221 N.J. 1 (2015)
+ (the “2015 Case”), also referred to as Mount Laurel IV. In doing so, the Supreme Court established a
+ transitional process for municipalities to file a declaratory judgement action with the trial courts seeking
+ to declare their HEFSPs as being constitutionally compliant and seeking protection and repose against
+ exclusionary zoning litigation.
+
+2.4 Amended Fair Housing Act (2024) and Fourth Round (2025-2035)
+ On March 20, 2024, Governor Murphy signed into law P.L. 2024, c.2, an Amendment to the 1985 Fair
+ Housing Act (hereinafter “Amended FHA” or “Act”). The Amended FHA eliminated COAH, and it set forth
+ standards by which the fair share of municipalities must be established for the Fourth Round covering
+ the period July 1, 2025, through June 30, 2035, and for subsequent rounds. It also created the Affordable
+ Housing Dispute Resolution Program (the “Program”) to oversee disputes and provide for mediation.
+
+ The Amended FHA also established a timeline by which government entities and municipalities are
+ required to act including the following:
+
+     •   October 20, 2024: Per the Amended FHA, the New Jersey Department of Community Affairs
+         (“DCA”) was required to determine the obligation of all municipalities based upon the standards
+         in the Amended FHA and to issue a non-binding report no later than October 20, 2024, setting forth
+         its estimates of each municipality’s non-binding obligation based upon those standards. DCA
+         issued their report setting forth their estimates of each municipality’s non-binding obligation on
+         October 18, 2024.
+
+     •   January 31, 2025: The Amended FHA permits municipalities the choice to either accept the DCA
+         determination of their obligation described above, or to provide their own determination based
+         upon the standards in the Amended FHA. Municipalities were required to adopt a binding
+         resolution of its Fourth Round obligation by January 31, 2025. If the municipality met this January
+         31 deadline, then the municipality’s determination of its obligation would be established by
+         default and would bear a presumption of validity beginning on March 1, 2025, as the municipality’s
+         obligation for the fourth round, unless challenged by an interested party on or before February 28,
+         2025.
+
+     •   February 28, 2025: The deadline for an interested party to file a challenge with the Program
+         regarding a municipality’s determination of its Fourth Round obligation was February 28, 2025. Any
+
+
+
+                                                                                                                3
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 8 of 81 Trans ID: LCV2026663937
+
+
+
+
+         challenge was required to state with particularity how the municipal calculation failed to comply
+         with the Amended FHA and include the challenger’s own calculation of the fair share obligations.
+
+     •   March 31, 2025: The Program was required to consider a challenge and resolve a dispute initiated
+         by an interested party no later than March 31, 2025.
+
+     •   June 30, 2025: A municipality is required to adopt a housing element and fair share plan and
+         propose drafts of the appropriate zoning and other ordinances and resolutions to implement its
+         present and prospective obligations. The plan must be filed with the Program. Any municipality
+         that does not adopt a housing element and fair share plan by June 30, 2025, shall lose its immunity
+         from builders’ remedy lawsuits.
+
+     •   August 31, 2025: An interested party may file a challenge with the Program on or before August 31,
+         2025, alleging that the municipality’s fair share plan and housing element are not in compliance
+         with the Amended FHA or the Mount Laurel doctrine. Any interested party that files a challenge
+         shall specify with particularity which sites or elements of the municipal fair share plan do not
+         comply with the Amended FHA or the Mount Laurel doctrine, and the basis for alleging such
+         noncompliance. If a municipality’s fair share plan and housing element is not challenged on or
+         before August 31, 2025, then the program shall apply an objective standard to conduct a limited
+         review of the fair share plan and housing element for consistency and to determine whether it
+         enables the municipality to satisfy the fair share obligation, applies compliant mechanisms, meets
+         the threshold requirements for rental and family units, does not exceed limits on other unit or
+         category types, and is compliant with the Amended FHA and the Mount Laurel doctrine.
+
+     •   December 31, 2025: The program shall facilitate communication between the municipality and
+         any interested parties for a challenge and provide the municipality until December 31, 2025 to
+         commit to revising its fair share plan and housing element in compliance with the changes
+         requested in the challenge, or provide an explanation as to why it will not make all of the requested
+         changes, or both. Upon resolution of a challenge, the program shall issue compliance
+         certification, conditioned on the municipality’s commitment, as necessary, to revise its fair share
+         plan and housing element in accordance with the resolution of the challenge. The program may
+         also terminate immunity if it finds that the municipality is not determined to come into
+         constitutional compliance at any point in the process.
+
+     •   March 15, 2026: The requirement to adopt all implementing ordinances to effectuate the HEFSP
+         as set forth in and incorporating any changes from the program, shall be adopted on or before
+         March 15, 2026. Failure to meet the March 15 deadline shall result in the municipality losing
+         immunity from exclusionary zoning litigation.
+
+ This Housing Element and Fair Share Plan pursuant to applicable law and regulations and addresses
+ Netcong’s affordable housing obligation through the Fourth Round.
+
+2.5 Netcong’s Affordable Housing History
+
+
+                                                                                                                 4
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 9 of 81 Trans ID: LCV2026663937
+
+
+
+
+2.5.1   2008 Third Round HEFSP
+
+ On December 30, 2008, Netcong petitioned COAH for substantive certification of a Housing Element and
+ Fair Share Plan addressing its total 1987-2018 affordable housing obligation. This was the first time the
+ Borough petitioned COAH for substantive certification. Netcong’s obligation was as follows:
+
+        •   Present Need (Rehabilitation) Obligation: 10 units
+
+        •   Prior Round Obligation (1987-1999): 0 units
+
+        •   Prospective Need Obligation (1999-2018): 26 units
+
+ Per the 2008 HEFSP, the Borough proposed to address its 10-unit Rehabilitation Obligation with 7 credits
+ resulting from participation in the Morris County Community Development Block Grant Housing
+ Rehabilitation Program and three surplus new construction family for-sale units resulting from the
+ Station Area Redevelopment. The Borough proposed to address its 26-unit Prospective Need obligation
+ with two proposed redevelopment areas anticipated to yield 49 affordable units (including 3-units
+ intended to address the Borough’s Rehabilitation Obligation), resulting in a 22-unit surplus.
+ On September 29, 2009, COAH issued a Compliance Report recommending approval of Netcong
+ Borough’s petition for third round substantive certification; and after a 14-day period to submit
+ comments on the Compliance Report during which no comments were received, COAH granted third
+ round substantive certification to Netcong on October 14, 2009 which was to remain in effect until
+ December 30, 2018.
+2.5.2   Third Round Declaratory Judgment Action
+
+ Pursuant to In the Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council on
+ Affordable Housing, 221 N.J. (2015) (the “2015 Case”), the Supreme Court established a transitional
+ process for municipalities, like Netcong Borough, that participated in the administrative process before
+ COAH, to file a declaratory judgment action with the trial courts seeking to declare their Housing Element
+ and Fair Share Plans as being constitutionally compliant and seeking similar protections to those that the
+ participating municipalities would have received if they had continued to proceed before COAH.
+
+ On July 2, 2015, Netcong filed a Declaratory Judgment action under Docket No. MRS-L-1766-15 seeking
+ a declaration of its compliance with the Mount Laurel doctrine and Fair Housing Act of 1985, N.J.S.A. 53
+ :27D-301 et seq. in accordance with In re N.J.A.C. 5:96 and 5:97, 221 N.J. 1 (2015). The Borough Planning
+ Board subsequently adopted a Housing Element and Fair Share Plan March 28, 2016. A fairness hearing
+ was held on July 20, 2016. On September 29, 2016, the Court entered an order granting Third Round
+ substantive certification to the Borough. See Appendix A.
+
+
+
+
+                                                                                                              5
+   MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 10 of 81 Trans ID: LCV2026663937
+
+
+
+
+3 HOUSING ELEMENT/ FAIR SHARE PLAN REQUIREMENTS
+In accordance with the Municipal Land Use Law (N.J.S.A. 40:55D-1, et seq.), a municipal Master
+Plan must include a housing element as the foundation for the municipal zoning ordinance.
+Pursuant to the Fair Housing Act, a municipality’s housing element must be designed to provide
+access to affordable housing to meet present and prospective housing needs, with particular
+attention to low- and moderate-income housing. The housing element must contain at least the
+following, as per the Amended FHA at N.J.S.A. 52:27D-310.
+
+   a. An inventory of the municipality’s housing stock by age, condition, purchase or rental value,
+      occupancy characteristics, and type, including the number of units affordable to low- and
+      moderate-income households and substandard housing capable of being rehabilitated;
+
+   b. A projection of the municipality’s housing stock, including the probable future construction
+      of low- and moderate-income housing, for the next ten years, taking into account, but not
+      necessarily limited to, construction permits issued, approvals of applications for
+      development, and probable residential development of lands;
+
+   c. An analysis of the municipality’s demographic characteristics, including, but not
+      necessarily limited to, household size, income level, and age;
+
+   d. An analysis of the existing and probable future employment characteristics of the
+      municipality;
+   e. A determination of the municipality’s present and prospective fair share of low- and
+      moderate- income housing and its capacity to accommodate its present and prospective
+      housing needs, including its fair share of low- and moderate-income housing; and
+
+   f.   A consideration of the lands most appropriate for construction of low- and moderate-
+        income housing and of the existing structures most appropriate for conversion to, or
+        rehabilitation for, low- and moderate-income housing, including a consideration of lands
+        of developers who have expressed a commitment to provide low- and moderate-income
+        housing; and
+
+   g. An analysis of the extent to which municipal ordinances and other local factors advance or
+      detract from the goal of preserving multigenerational family continuity as expressed in the
+      recommendations of the Multigenerational Family Housing Continuity Commission,
+      pursuant to N.J.S.A. 52:27D-329.20f.(1);
+
+   h. For a municipality located within the jurisdiction of the Highlands Water Protection and
+      Planning Council, established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an
+      analysis of compliance of the housing element with the Highlands Regional Master Plan of
+      lands in the Highlands Preservation Area, and lands in the Highlands Planning Area for
+
+
+                                                                                                6
+   MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 11 of 81 Trans ID: LCV2026663937
+
+
+
+
+        Highlands-conforming municipalities. This analysis shall include consideration of the
+        municipality's most recent Highlands Municipal Build Out Report, consideration of
+        opportunities for redevelopment of existing developed lands into inclusionary or 100
+        percent affordable housing, or both, and opportunities for 100 percent affordable housing
+        in both the Highlands Planning Area and Highlands Preservation Area that are consistent
+        with the Highlands regional master plan; and
+
+   i.   An analysis of consistency with the State Development and Redevelopment Plan, including
+        water, wastewater, stormwater, and multi-modal transportation based on guidance and
+        technical assistance from the State Planning Commission.
+
+The Administrative Office of the Courts issued Administrative Directive #14-24 on December 13,
+2024 establishing guidelines implementing the Affordable Housing Alternative Dispute
+Resolution Program (“the Program”) established pursuant to section 5 of P.L.2024, c.2 (N.J.S.A.
+52:27D-313.2). The Directive imposed additional requirements not included in the Amended FHA.
+Included in the Directive is the requirement to include a Spending Plan, Affirmative Marketing
+Plan, Affordable Housing Ordinance, and Mandatory Set-Aside Ordinance in the Housing Element
+and Fair Share Plan.
+
+
+
+
+                                                                                              7
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 12 of 81 Trans ID: LCV2026663937
+
+
+
+
+4 HOUSING STOCK AND DEMOGRAPHIC ANALYSIS
+4.1 Housing Stock Inventory
+ In 2023, there were 1,973 housing units in Netcong Borough, of which 152, or 8 percent, were vacant. Of
+ the 1,821 occupied units, 53 percent were owner-occupied and 47 percent were renter occupied. Table
+ 1, Housing Units by Occupancy Status, 2023, illustrates this occupancy status.
+ Table 1.         Housing Units by Occupancy Status, 2023
+                                      Housing Units                Owner-occupied                 Renter Occupied
+
+          Occupied                         1,821                          963                            858
+
+            Vacant                          152                             -                              -
+
+            Total                          1,973                            -                              -
+
+ Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+ Approximately 65 percent of the total housing stock consists of single-family detached units. Structures
+ with three or more units make up approximately 24 percent of the total housing stock. See Table 2,
+ Housing Units by Number of Units in Structure, 2023, for a detailed explanation of the Borough’s housing
+ units.
+
+ TABLE 2.         HOUSING UNITS BY NUMBER OF UNITS IN STRUCTURE, 2023
+  Number of Units                             Total                                         Percent
+     1, Detached                             1,288                                            65.3%
+     1, Attached                               81                                             4.1%
+            2                                 131                                             6.6%
+         3 or 4                                70                                             3.5%
+         5 to 9                                51                                             2.6%
+       10 to 19                               289                                             14.6%
+          20+                                  63                                             3.2%
+    Mobile Home                                   0                                           0.0%
+        Other                                     0                                           0.0%
+
+         Total                               1,973                                           100.0%
+
+ Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+ Table 3, Housing Units by Age, 2023, illustrates the age of the Borough’s housing stock. Only 4 percent of
+ the Borough’s housing was built since 2000 and about 23 percent of the Borough’s housing stock was
+ constructed prior to 1940. Close to 28 percent of the extant housing stock was constructed between 1970
+ and 1980.
+
+
+                                                                                                                        8
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 13 of 81 Trans ID: LCV2026663937
+
+
+
+
+TABLE 3         HOUSING UNITS BY AGE, 2023
+     Year Built                       Total Units                                        Percent
+    2020 or later                           7                                              0.4%
+     2010-2019                             66                                              3.3%
+     2000-2009                              0                                              0.0%
+     1990-1999                             64                                              3.2%
+     1980-1989                            103                                              5.2%
+     1970-1979                            542                                             27.5%
+     1960-1969                             77                                              3.9%
+     1950-1959                            303                                             15.4%
+     1940-1949                            292                                             14.8%
+    Before 1940                           519                                             26.3%
+
+Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+Table 4, Comparison of Housing Units by Number of Rooms for Netcong Borough and Morris County,
+2023, illustrates that approximately 7 percent of housing units in Netcong Borough have between one
+and three rooms; 25 percent of housing units have between four and six rooms; and 68 percent have
+seven or more rooms. In Morris County, approximately 13 percent of housing units have between one and
+three rooms; 36 percent have between four and six rooms; and 52 percent have seven or more rooms.
+The median number of rooms per unit in the Borough is 8, which indicates that the housing stock in
+Netcong is, on average, larger in size as compared to the median number of rooms for Morris County,
+which is 6.6.
+
+TABLE 4.        HOUSING UNITS BY NUMBER OF ROOMS FOR NETCONG BOROUGH AND MORRIS COUNTY, 2023
+                        Number of                                       Number of               Percent of
+                                                Percent of Units
+    Rooms                Units in                                      Units in Morris           Units in
+                                                  in Netcong
+                         Netcong                                          County               Morris County
+       1                    34                        1.7%                  3,231                  1.6%
+       2                   151                        7.7%                  4,927                  2.5%
+       3                   367                       18.6%                 17,467                  8.8%
+       4                   234                       11.9%                 23,012                 11.6%
+       5                   200                       10.1%                 22,577                 11.4%
+       6                   423                       21.4%                 24,978                 12.6%
+       7                   231                       11.7%                 26,090                 13.1%
+       8                   159                        8.1%                 27,717                 14.0%
+      9+                   174                        8.8%                 48,612                 24.5%
+    Total                 1,973                     100.0%                198,611                100.0%
+   Median
+  Rooms per                              5.5                                             6.6
+     Unit
+Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+
+
+                                                                                                                       9
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 14 of 81 Trans ID: LCV2026663937
+
+
+
+
+Tables 5 and 6, Housing Values, Owner-occupied, 2013 and 2023, respectively, illustrate that the median
+housing values of owner-occupied housing in Netcong increased by 21 percent between 2013 and 2023.
+During this time, the median value in Morris County increased by 30 percent. In 2013, the median value
+of owner-occupied housing units in Netcong ($283,500) was 51 percent less than that of Morris County
+($428,900). In 2023, Netcong’s median housing value of $344,300 was 62 percent less than that of Morris
+County ($557,000).
+
+TABLE 5.         HOUSING VALUES, OWNER-OCCUPIED, 2013
+                              Number in             Percent in            Number in                Percent in
+    Housing Value
+                               Netcong               Netcong             Morris County            Morris County
+  Less than $50,000                40                   5.9%                  2,083                    1.5%
+ $50,000 to $99,999                0                    0.0%                  1,406                    1.0%
+     $100,000 to
+                                   0                    0.0%                  1,311                    1.0%
+      $149,999
+     $150,000 to
+                                   63                   9.2%                  3,346                    2.5%
+      $199,999
+     $200,000 to
+                                  329                  48.2%                  18,812                   13.8%
+      $299,999
+     $300,000 to
+                                  240                  35.1%                  58,230                   42.7%
+      $499,999
+     $500,000 to
+                                   11                   1.6%                  43,837                   32.2%
+      $999,999
+ $1,000,000 or more                0                    0.0%                  7,271                    5.3%
+         Total                    683                  100.0%                136,296                  100.0%
+ 2016 Median Value                          $283,500                                     $428,900
+
+Source: American Community Survey 5-Year Estimates Data Profiles, 2009-2013 (Table DP04 Selected Housing Characteristics)
+
+TABLE 6.         HOUSING VALUES, OWNER-OCCUPIED, 2023
+                                   Number in             Percent in             Number in                Percent in
+      Housing Value
+                                    Netcong               Netcong              Morris County            Morris County
+    Less than $50,000                 25                   2.6%                    1,404                    1.0%
+    $50,000 to $99,999                 0                   0.0%                     1,480                      1.0%
+   $100,000 to $149,999                 0                   0.0%                       878                     0.6%
+   $150,000 to $199,999                 6                   0.6%                    1,472                      1.0%
+   $200,000 to $299,999                 188                19.5%                    9,969                      7.0%
+   $300,000 to $499,999                 711                73.8%                    44,816                    31.6%
+   $500,000 to $999,999                 33                  3.4%                    67,465                    47.6%
+    $1,000,000 or more                  0                   0.0%                    14,287                    10.1%
+            Total                       963                100.0%                  141,771                  100.0%
+    2023 Median Value                           $344,300                                      $557,000
+
+Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+
+                                                                                                                      10
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 15 of 81 Trans ID: LCV2026663937
+
+
+
+
+ Monthly rental costs in Netcong Borough are slightly lower than monthly rental costs for the rest of Morris
+ County, wherein about 30 percent of renters pay $1,500 or more per month in rent; in Morris County, 72
+ percent of renters pay $1,500 or more. The largest percentage of Morris County renters, 29.9 percent, pay
+ $1,500 to $1,999 in rent. See Table 7, Comparison of Netcong Borough and Morris County, Monthly Rental
+ Cost, 2023, for additional details.
+
+ TABLE 7.   COMPARISON OF NETCONG BOROUGH AND MORRIS COUNTY, MONTHLY RENTAL COST –
+ OCCUPIED RENTAL UNITS, 2023
+   Monthly Rent             Number in              Percent in            Number in             Percent in
+                             Netcong                Netcong             Morris County         Morris County
+   Less than $500               10                    1.2%                  2,209                  4.6%
+     $500 - $999                34                    4.0%                  1,930                  4.0%
+   $1,000 - $1,499             561                   65.4%                  9,666                 20.0%
+   $1,500 - $1,999             157                   18.3%                 14,466                 29.9%
+   $2,000 - $2,499              60                    7.0%                  8,520                 17.6%
+    2,500 - $2,999              36                    4.2%                  5,679                 11.7%
+   $3,000 or more                0                    0.0%                  5,970                 12.3%
+        Total                  858                  100.0%                 48,440                100.0%
+    Median Rent                          $1,396                                         $1,860
+ Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+ In 2023, 25 percent of Netcong Borough owner-occupied households contributed 30 percent or more of
+ their income towards monthly housing costs, whereas approximately 40 percent contributed less than
+ 20 percent of their income towards monthly housing costs. See Table 8, Monthly Housing Costs as a
+ Percentage of Household Income in the Past 12 Months – Owner-occupied Housing Units, 2023, for
+ further information.
+
+ TABLE 8.   MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12
+ MONTHS – OWNER-OCCUPIED HOUSING UNITS, 2023
+    Household Income             Less than 20 percent             20 to 29 percent             30 percent or more
+     Less than $20,000                    0.0%                           0.0%                          0.8%
+     $20,000 - $34,999                    0.0%                           0.0%                          4.7%
+     $35,000 - $49,999                    0.0%                           0.0%                          3.7%
+     $50,000 - $74,999                    3.4%                           6.1%                          7.0%
+      $75,000 or more                    36.8%                          28.8%                          8.7%
+      Zero or Negative
+                                                                         0.0%
+          Income 1
+ Source: American Community Survey, 2019-2023 (Table S2503 Financial Characteristics)
+
+ In 2023, close to 53 percent of Netcong Borough renter occupied households contributed 30 percent or
+ more of their income towards monthly rental costs, whereas approximately 31 percent contributed less
+
+
+
+1 Negative income constitutes business or investment losses larger than other income.
+
+
+
+                                                                                                                       11
+          MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 16 of 81 Trans ID: LCV2026663937
+
+
+
+
+ than 20 percent of their income towards monthly rental costs. See Table 9, Monthly Housing Costs as a
+ Percentage of Household Income in the Past 12 Months – Renter Occupied Housing Units, 2023, for
+ further information.
+
+ TABLE 9.   MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12
+ MONTHS – RENTER OCCUPIED HOUSING UNITS, 2023
+    Household Income             Less than 20 percent            20 to 29 percent             30 percent or more
+     Less than $20,000                    0.0%                          1.2%                          25.3%
+     $20,000 - $34,999                    0.0%                          0.0%                           9%
+     $35,000 - $49,999                    0.0%                          0.0%                          12.1%
+     $50,000 - $74,999                    0.0%                         10.4%                          2.4%
+      $75,000 or more                    31.2%                          4.1%                          4.3%
+     Zero or Negative
+                                                                        0.0%
+         Income
+   No Cash Rent Units 2                                                 0.0%
+
+ Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table S2503 Selected Housing
+ Characteristics)
+
+ According to American Community Survey data, Netcong has 0 housing units that lack complete
+ plumbing facilities and 0 units that are considered overcrowded (defined as having 1.01 or more persons
+ per room). The Borough also has 0 units that have no telephone service available and 0 units that lack
+ complete kitchen facilities. See Table 10, Selected Quality Indicators, Occupied Housing Stock, 2023, for
+ additional details.
+ TABLE 10. SELECTED QUALITY INDICATORS, OCCUPIED HOUSING STOCK, 2023
+                   Overcrowded             No Telephone            Lacking Complete             Lacking Complete
+                                          Service Available        Plumbing Facilities          Kitchen Facilities
+
+  No. Units               0                        0                           0                          0
+ Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+4.2 General Population Characteristics
+ The population of Netcong Borough decreased from 3,311 persons in 1990 to 2,580 persons in 2020. The
+ largest growth in population occurred between 2000 and 2010, with an increase of approximately 25
+ percent; during this same time period, the County grew close to 5 percent. See Table 11, Population
+ Growth, 1990-2020 for more information.
+
+
+
+
+2 Such units are generally provided for free by friends or relatives or in exchange for services such as resident manager,
+
+caretaker, minister, or tenant farmer.
+
+                                                                                                                       12
+       MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 17 of 81 Trans ID: LCV2026663937
+
+
+
+
+TABLE 11. POPULATION GROWTH, 1990-2020
+                                            Percent               Percent                  Percent
+                                            Change                Change                   Change
+                   1990           2000                2010                          2020
+                                             (1990-                (2000-                   (2010-
+                                              2000)                 2010)                    2020)
+   Netcong        3,311          2,580       -22.1%   3,232       25.3%            3,375     4.4%
+    Morris        421,3          470,2                492,2                        509,2
+                                             10.4%                 4.7%                      3.5%
+    County         53             12                   79                           85
+ Source: 1990, 2000, 2010, and 2020 U.S. Census
+
+From 2010 through 2020, there were shifts in Netcong’ age distribution. The age group of 65-74 years old
+experienced the greatest positive percent change (i.e., 51 percent). The 55-64 year old age group also
+increased (i.e., 34 percent). Three age groups, 15-24 years old, 35-44 years old, and 45-54 years old
+experienced negative percent change (i.e., -6 percent, -18 percent and -15 percent, respectively). The
+data suggest that the population in Netcong is aging which may have an impact on housing preferences.
+For example, residents whose children have left home but would like to remain in Netcong Borough may
+wish to downsize to smaller single-family detached homes or seek other types of housing such as
+townhomes or apartment living. See Table 12, Comparison of Age Distribution, 2010- 2020, for additional
+details.
+
+TABLE 12. COMPARISON OF AGE DISTRIBUTION, 2010 - 2020
+                                                                            Percent
+                      Age Group               2010        2020              Change
+                                                                          (2010-2020)
+                          Under 5             166         176                6.0%
+                           5-14               324         331                2.2%
+                          15-24               401         378               -5.7%
+                          25-34               499         549               10.0%
+                          35-44               466         384               -17.6%
+                          45-54               546         462               -15.4%
+                          55-64               390         522               33.8%
+                          65-74               218         329               50.9%
+                           75+                222         244                9.9%
+                           Total             3,232        3,375                -
+
+                  Source: 2010 and 2020 U.S. Census
+
+
+
+
+                                                                                                     13
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 18 of 81 Trans ID: LCV2026663937
+
+
+
+
+4.3 Household Characteristics
+ A household is defined by the U.S. Census Bureau as those persons who occupy a single room or group
+ of rooms constituting a housing unit; however these persons may or may not be related. As a subset of
+ households, a family is identified as a group of person including a householder and one or more persons
+ related by blood, marriage, or adoption, all living in the same household. In 2023, there were 1,821
+ households in Netcong Borough, with an average of 1.94 persons per household. Approximately 36
+ percent of the households are comprised of married couples with or without children. Approximately 49
+ percent of the Netcong Borough households are non-family households, which includes individuals
+ (Source: American Community Survey, 2023 (Table S1101).
+
+4.4 Income Characteristics
+ Persons residing in Netcong Borough have, on average, lower incomes than that of Morris County. Annual
+ median income for Netcong households in 2023 was $92,596, whereas annual median income for
+ households in the County was $134,929. The most notable difference with regard to income between
+ Netcong Borough and Morris County is the percentage of households earning $150,000 or more (i.e., 24
+ percent and 45 percent, respectively). Table 13, Household and Family Income by Income Brackets for
+ Netcong and Morris County, 2023, further illustrates these findings.
+ TABLE 13.       HOUSEHOLD AND FAMILY I NCOME BY INCOME BRACKETS FOR NETCONG AND MORRIS COUNTY,
+ 2023
+                                             Netcong                                      Morris County
+                              Households                 Percent                 Household             Percent
+  Less than $5,000                14                       0.8%                     3,659                1.9%
+   $5,000 - $9,999                 0                       0.0%                     1,630                0.8%
+  $10,000 - $14,999              201                      11.0%                     2,711                1.4%
+  $15,000 - $19,999               20                       1.1%                     2,423                1.3%
+  $20,000 - $24,999                5                       0.3%                     2,975                1.6%
+  $25,000 - $34,999              117                       6.4%                     7,383                3.8%
+  $35,000 - $49,999              140                       7.7%                    10,491                5.5%
+  $50,000 - $74,999              269                      14.8%                    19,409               10.1%
+  $75,000 - $99,999              167                       9.2%                    19,283               10.1%
+     $100,000 -                  451                      24.8%                    35,184               18.3%
+      $149,999
+  $150,000 or more                 437                     24.0%                    86,692                  45.2%
+        Total                     1,821                   100.0%                   191,840                 100.0%
+   Median Income                              $92,596                                        $134,929
+ Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table S2503 Financial Characteristics)
+
+
+
+
+                                                                                                                       14
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 19 of 81 Trans ID: LCV2026663937
+
+
+
+
+4.5 Employment Characteristics
+ Table 14, Employment Status, indicates the number of Borough residents 16 years and over who are in
+ the labor force, the type of labor force (i.e., civilian or armed forces) and employment status.
+ Approximately 69 percent of Netcong residents 16 and over are in the in the labor force. Of the residents
+ in the civilian labor force, approximately 98 percent are employed and approximately 2 percent are
+ unemployed.
+
+ TABLE 14. EMPLOYMENT S TATUS
+                                         Number in Netcong                 Percent in Netcong
+   Population 16 years and
+                                                   3,092                             -
+            over
+       In Labor Force                              2,135                          69.0%
+      Civilian Labor Force                         2,135                          69.0%
+           Employed                                2,092                          67.7%
+          Unemployed                                43                             1.4%
+         Armed Forces                               0                              0.0%
+      Not in Labor Force                           957                            31.0%
+ Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table DP03 Selected Economic
+ Characteristics)
+
+ Table 15, Employment by Occupation, Netcong, 2023, identifies the occupation of employed persons.
+ While Netcong Borough residents work in a variety of job sectors, approximately 38 percent of employed
+ residents work in Management, Business, Science and Arts-related occupations; and approximately 27
+ percent of employed residents work in Service occupations. The Natural Resources, Construction and
+ Maintenance sector, Sales and Office sector, and the Production, Transportation and Moving sector have
+ fewer employed residents (7 percent, 17 percent, and 11 percent, respectively).
+
+ TABLE 15. EMPLOYMENT BY OCCUPATION, NETCONG , 2023
+                       Sector Jobs                                Number                  Percent
+   Management, Business, Science, and Arts Occupations              799                   38.2%
+                         Service                                    559                   26.7%
+                     Sales and Office                               362                   17.3%
+     Natural Resources, Construction, and Maintenance               152                    7.3%
+          Production, Transportation, and Moving                    220                   10.5%
+                           Total                                   2,092                  100.0%
+
+ Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table DP03 Selected Economic
+ Characteristics)
+
+ Table 16, Distribution of Employment by Industry, Borough Residents, 2023, shows the distribution of
+
+
+                                                                                                       15
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 20 of 81 Trans ID: LCV2026663937
+
+
+
+
+ employment by industry for employed Netcong Borough residents. The four industries to capture the
+ largest segment of the population were the Educational, Health and Social Services industry (21 percent);
+ the Financing, Insurance, Real Estate, Renting, and Leasing industry (15 percent), the Arts,
+ Entertainment, Recreation, Accommodation and Food services industry (13 percent), and the
+ Manufacturing industry (13 percent).
+
+ TABLE 16.    DISTRIBUTION OF EMPLOYMENT BY I NDUSTRY, BOROUGH RESIDENTS, 2023
+                                      Job Sectors                                    Number         Percent
+  Agriculture, Forestry, Fishing and Hunting, and Mining                                 0            0.0%
+  Construction                                                                         105            5.0%
+  Manufacturing                                                                        263           12.6%
+  Wholesale Trade                                                                       57            2.7%
+  Retail Trade                                                                         230           11.0%
+  Transportation and Warehousing, and Utilities                                         94            4.5%
+  Information                                                                           54            2.6%
+  Financing, Insurance, Real Estate, Renting, and Leasing                              306           14.6%
+  Professional, Scientific, Management, Administrative, and Waste Management           197            9.4%
+  Services
+  Educational, Health and Social services                                               430          20.6%
+  Arts, Entertainment, Recreation, Accommodation and Food services                      272          13.0%
+  Public Administration                                                                  50           2.4%
+  Other                                                                                  34           1.6%
+  Total                                                                                2,092        100.0%
+ Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table DP03 Selected Economic
+ Characteristics)
+
+ Of the employed Netcong residents, approximately 85 percent are private wage and salary workers; 12
+ percent are government workers; and 3 percent are self-employed. See Table 17, Distribution by Class of
+ Worker, 2023, for additional details.
+
+ TABLE 17. DISTRIBUTION BY CLASS OF WORKER, 2023
+                                                                Number in              Percent in
+                                                                 Netcong                Netcong
+            Private Wage and Salary Workers                       1,776                  84.9%
+                  Government Workers                               251                   12.0%
+     Self-employed in own not incorporated business                 65                    3.1%
+                        workers
+                 Unpaid family workers                               0                    0.0%
+                         Total                                     2,092                 100.0%
+ Source: American Community Survey 5-Year Estimates Data Profiles, 2019-2023 (Table DP03 Selected Economic
+ Characteristics)
+
+4.6 Multigenerational Housing Continuity
+ Multigenerational housing is becoming a desired housing option in the State due to rising housing costs
+ and an aging population. Housing for multigenerational families is necessary to offer a diverse housing
+ stock and to account for population trends. Multigenerational housing can provide an opportunity for
+                                                                                                        16
+          MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 21 of 81 Trans ID: LCV2026663937
+
+
+
+
+ residents to age in place, save on costs associated with housing, and provide in-house care for an older
+ adult or persons with disabilities. Additionally, multigenerational housing is a more sustainable approach
+ to meeting housing obligations as there is no need for the construction of new homes in order to provide
+ housing for additional individuals.
+ On November 8, 2021, the Senate and General Assembly of the State of New Jersey adopted C.52:27D-
+ 329.209, which established the Multigenerational Family Housing Continuity Commission. The
+ commission is allocated within the Department of Community Affairs. The duties of the commission
+ include: preparing and adopting recommendations on how State government, local government,
+ community organizations, private entities, and community members may most effectively advance the
+ goal of enabling senior citizens to reside at the homes of their extended families, thereby preserving and
+ enhancing multigenerational family continuity, through the modification of State and local laws and
+ policies in the areas of housing, land use planning, parking and streetscape planning, and other relevant
+ areas.
+
+ The bill requires that a municipality's housing element shall be designed to achieve the goal of access to
+ affordable housing to meet present and prospective housing needs, with particular attention to low- and
+ moderate-income housing, and shall contain, among other requirements:
+
+        An analysis of the extent to which municipal ordinances and other local factors
+        advance or detract from the goal of preserving multigenerational family continuity as
+        expressed in the recommendations of the Multigenerational Family Housing
+        Continuity Commission).
+
+ This language is included in the Amended FHA at N.J.S.A. 52:27D-310. It should be noted that at the time
+ of the preparation of this Housing Element and Fair Share Plan, the commission has made no
+ recommendations. That said, Netcong Borough is committed to promoting multigenerational family
+ continuity through the provision of a variety of housing options offered to a variety of income levels in a
+ manner consistent with the regulations. In recent years, Netcong Borough has increased the diversity of
+ its housing stock with the construction of multifamily housing offering one-level living.
+
+ The Borough is committed to supporting inclusive housing opportunities that meet the needs of residents
+ at every stage of life, actively prioritizing thoughtful planning and following population trends.
+
+4.7 Growth Trends and Projections
+4.7.1   Residential Trends and Projections
+
+ According to the New Jersey Construction Reporter, between 2013 and 2023, Netcong issued 137
+ certificates of occupancy; of which, 92 percent were multifamily units and 8 percent were one- and two-
+ family dwelling units. Approximately 96 percent of these residential certificates of occupancy were
+ issued between 2020 and 2021. See Table 18, Residential Certificates of Occupancy, 2013-2023, for
+ additional details.
+
+
+                                                                                                         17
+                MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 22 of 81 Trans ID: LCV2026663937
+
+
+
+
+     TABLE 18. RESIDENTIAL CERTIFICATES OF OCCUPANCY, 2013-2023
+                         2013     2014     2015      2016    2017    2018      2019       2020       2021       2022       2023      Total
+      1 & 2 Family        0        1        0         0       0       1         3           5          0         0          1          11
+      Multifamily         0        0        0         0       0       0         0          35         91         0          0         126
+      Mixed-Use           0        0        0         0       0       0         0           0          0         0          0           0
+      Total               0        1        0         0       0       1         3          40         91         0          1         137
+    Source: New Jersey Construction Reporter
+
+    4.7.2      Non-residential Trends and Projections
+
+     According to the New Jersey Construction Reporter, between 2013 and 2023, Netcong issued certificates
+     of occupancy for a total of ±228,150 square feet of non-residential building space. See Table 19, Non-
+     Residential Certificates of Occupancy, 2013-2023, for additional details. The majority of the non-
+     residential growth can be attributed to:
+
+        •      181,335 square feet of multifamily/dormitories space, for which certificates of occupancy were
+               issued in 2018, 2020, and 2021;
+        •      36,547 square feet of office space, for which certificates of occupancy were issued in 2014 and 2021;
+        •      5,040 square feet of storage space, for which certificates of occupancy were issued in 2023 only.
+
+     TABLE 19. NON-RESIDENTIAL CERTIFICATES OF OCCUPANCY, 2013-2023
+                 2013     2014     2015    2016       2017    2018     2019      2020        2021       2022       2023            Total
+   Office         0      14,885      0       0          0      0        0         0         21,662        0          0            3,6547
+   Retail         0         0        0       0          0      0        0         0            0          0          0               0
+     A-1          0         0        0       0          0      0        0         0            0          0          0               0
+     A-2          0         0        0       0          0      0        0         0            0          0          0               0
+     A-3          0         0        0       0          0      0        0         0            0          0          0               0
+     A-4          0         0        0       0          0      0        0         0            0          0          0               0
+     A-5          0         0        0       0          0      0        0         0            0          0          0               0
+Multifamily
+       /
+                  0         0       0           0      0       48       0        49,523     131,764         0          0          181,335
+ Dormitorie
+      s
+   Hotel/
+                  0         0       0           0      0       0        0             0          0          0          0            0
+   Motel
+ Education        0         0       0           0      0       0         0            0          0          0          0             0
+ Industrial       0         0       0           0      0       0       5,000          0          0          0          0           5,000
+ Hazardous        0         0       0           0      0       0         0            0          0          0          0             0
+Institutiona
+                  0         0       0           0      0       0        0             0          0          0          0            0
+       l
+  Storage         0         0       0           0      0       0        0             0          0          0      5,040           5,040
+   Signs,
+  Fences,
+                  0         0       0          228     0       0        0             0          0          0          0           228
+ Utility and
+   Misc.
+   TOTAL          0      14,885     0          228     0       48      5,000     49,523     153,426         0      5,040          228,150
+
+Source: New Jersey Construction Reporter
+
+
+
+
+                                                                                                                                     18
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 23 of 81 Trans ID: LCV2026663937
+
+
+
+
+4.8 Capacity for Growth
+ The Borough has seen the construction of predominantly multi-family dwelling units over the last decade.
+ However, due in part to lack of vacant land, and environmental constraints on the remaining undeveloped
+ tracts zoned for residential use. Most development anticipated to occur will be the redevelopment of
+ already improved sites. As is detailed further in Chapter 5, the Borough anticipates the construction of
+ several recently approved developments. The Borough has encouraged the development of these
+ projects in efforts to provide its fair share of affordable housing. Aside from these projects, the Borough
+ anticipates little additional residential or non-residential development.
+
+
+
+
+                                                                                                         19
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 24 of 81 Trans ID: LCV2026663937
+
+
+
+
+5 BOROUGH OF NETCONG AFFORDABLE HOUSING PLAN
+5.1 Prior Round Affordable Housing Obligations (1987-2025)
+ Per the Amended FHA ( N.J.S.A. 52:27D-304.1.3.a(f)(2)(a)), as part of its housing element and fair share
+ plan, the municipality shall include an assessment of the degree to which it has met its fair share
+ obligation from the prior rounds of affordable housing obligations as established by prior court approval,
+ or approval by COAH, and determine to what extent this obligation is unfulfilled or whether the
+ municipality has credits in excess of its prior round obligations.
+
+5.1.1   Prior Round Obligation (i.e., 1987-1999)= 0 units
+
+ As detailed in Chapter 2, in September 2016 the court entered a Judgment of Compliance and Repose for
+ Netcong for the 1987-2025 compliance periods. The Judgment of Compliance and Repose refers to the
+ January 2016 Housing Element and Fair Share Plan which indicated that the Borough’s Prior Round
+ obligation as established in N.J.A.C. 5:93 was 0 units.
+5.1.2   Third Round Prospective Need Obligation (i.e., 1999-2025)= 36 units
+
+ In 2008, COAH assigned Netcong a Prospective obligation of 26 units which Netcong addressed in its
+ COAH certified 2008 Plan. However, N.J.A.C. 5:97 was invalidated by the Court which in its 2015 Decision
+ declined to adopt a specific methodology or formula to calculate the Prospective obligation. At the time
+ of the Judgment of Compliance and Repose, Netcong’s Third Round obligation was still being debated on
+ a State level by various experts who each issued reports offering their respective Prospective Need
+ estimates for each municipality. A summary of the obligations which existed as of September 2016
+ included the following:
+
+        •   Burchell Numbers: COAH in June 2014 (i.e., N.J.A.C. 5:99) issued numbers prepared by
+            Rutgers University Center for Urban Policy Research, under the direction of Robert W. Burchell,
+            Ph.D; (referred to herein as the “Burchell Numbers”). Burchell Numbers indicated that Netcong
+            had a Prospective Need obligation of 4 units.
+
+        •   Kinsey Numbers: David N. Kinsey, Ph.D., FAICP, PP has issued three sets of Third Round
+            municipal obligation numbers over the 18 months dated July 2014, April 2015, and July 2015,
+            respectively (referred to herein as the “Kinsey Numbers”). The Kinsey Numbers indicated that
+            Netcong had a Prospective Need obligation of 29 units.
+
+        •   Econsult Solutions: Econsult Solutions issued a report New Jersey Affordable Housing Need
+            and Obligations dated December 30, 2015 (the “Econsult Report”). Econsult indicated that
+            Netcong had a Prospective Need obligation of 9 units.
+
+ None of the above estimates were ever sanctioned by the Court. The 2016 HEFSP and Judgment of
+ Compliance and Repose anticipated that Netcong would produce affordable housing units far in excess
+ of any of the obligations calculated by the above experts. However, neither the 2016 HEFSP and Judgment
+
+
+                                                                                                        20
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 25 of 81 Trans ID: LCV2026663937
+
+
+
+
+ of Compliance and Repose indicate a specific number constituting Netcong’s Third Round Prospective
+ Need obligation.
+
+ However, subsequent to the 2016 HEFSP and Judgment of Compliance and Repose, In a 2018
+ unpublished decision, the Honorable Mary C. Jacobson, A.J.S.C., in (the “Jacobson Decision”) in the
+ consolidated declaratory judgment proceedings: In the Matter of the Municipality of Princeton, Docket
+ No. MER-L-1550-15 and in the Matter of West Windsor Township, Docket No. MER-L01561-15, Superior
+ Court of New Jersey, established a methodology for calculating Prospective Need obligations which
+ multiple experts went on to use to calculate Third Round Fair Share Obligations.
+
+ Per the Jacobson Decision, Netcong had a 1999-2025 obligation to provide 36 affordable housing units.
+ Although not bound by the Jacobson Decision, given the ambiguity surrounding the Borough’s Third
+ Round Prospective Need, in this Housing Element and Fair Share Plan Netcong elects to use the Jacobson
+ Decision numbers since the numbers were the only set of expert numbers generally presumed to be valid.
+
+5.2 Satisfaction of Prior Round Affordable Housing Obligations (1987-2025)
+5.2.1   The 2016 HESFP
+ The 2016 HEFSP and subsequent Judgment of Compliance and Repose anticipated the following projects
+ would yield 65 affordable housing units.
+
+    THE STATION AREA REDEVELOPMENT PLAN
+
+    In 2004, the Mayor and Council designated a Redevelopment Area pursuant to the LHRL. The
+    Redevelopment Area was bounded by Flanders Road, Furnace Pond, Bank Street, Main Street, and
+    Route 46 and included the entirety of Block 19, as well as Block 16, Lots 24, 25, and 25.01. The Station
+    Area Redevelopment Plan was first adopted in 2005 for a 12.8-acre subset of the redevelopment area
+    on Block 19, Lots 20, 21.01, 22, 28, 28.01, 29, 30, 34.02, 35, 36, 37, 38, and 39. Adjacent to downtown
+    Netcong and the New Jersey Transit train station, the Redevelopment Plan envisioned a mixed use
+    redevelopment that would yield 108 market-rate residential units and 25 affordable units (14 for-sale
+    and 11 rental, including very low-income rental units), as well as office and/or retail developments.
+    Residential development would include a mix of multi-family, townhouses, and semi-attached
+    housing.
+    THE STOLL/ALLEN STREET REDEVELOPMENT PLAN
+    In 2005, the Borough designated the Stoll/Allen Street Redevelopment Area which included Block 8,
+    Lots 15, 16, 17, 23.01, 24, 24.02, 24.03, 27, 28, 29, 30, 31, and 32. The Redevelopment Area is divided
+    into three “sectors,” including an older industrial complex on the western half, automotive uses on
+    the eastern half, and a small residential/commercial enclave on the north-central section. The
+    Stoll/Allen Street Redevelopment Plan permits townhouse and multifamily development at a density
+    not to exceed 12 units per acre. The Borough anticipated 103 stacked multi-family condominium units
+    including 21 affordable housing units.
+
+
+                                                                                                         21
+       MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 26 of 81 Trans ID: LCV2026663937
+
+
+
+
+   THE OLD POCKETBOOK FACTORY
+   In 2013, the Planning Board adopted a Redevelopment Plan for a subsection of the Station Area
+   Redevelopment Area. The plan focused on Block 19, Lot 14 on Flanders Road between Route 46/Main
+   Street and the rail right-of-way. The Plan permitted 72 multifamily units, ten percent of which will be
+   affordable housing units (i.e., 7 affordable units).
+
+   THE QUIRK SITE
+
+    In 2016, the Planning Board adopted a Redevelopment Plan for another subsection of the Station Area
+    Redevelopment Area. The plan focused on Block 16.01, Lots 24 and 25.01 for the former Quirk
+    Industrial property known as the Quirk Site. This plan anticipated the development of 120 residential
+    units including 12 affordable units.
+
+5.3 Status of Projects in 2016 HEFSP
+   THE STATION AREA REDEVELOPMENT PLAN
+
+   An amendment to the phase one redevelopment of the Station Area was prepared in August 2016,
+   titled Phase 1 Amendment to the Station Area Redevelopment Plan. This plan discusses the lack of
+   traction to implement the original 2005 Plan as related to issues with diverse ownership and
+   difficulties in assembling properties to carry out the redevelopment scheme. In addition, a weakening
+   condominium market, recession, growth of online retail, and legal changes to the use of eminent
+   domain in securing land. The amended 2016 Plan allowed for a phased approach to implementation
+   of the Station Area Redevelopment Plan, focusing on redevelopment of the NJ Transit property, which
+   includes Block 19, Lots 35, 36, 38, 39, and a portion of Lot 37, as the first phase. Uses permitted in the
+   Phase 1 Area included multifamily residential dwellings, either for sale or for rent, required ground-
+   floor retail, offices, and surface/structured parking. The maximum density was 32 units per acre,
+   which could be increased to 40 units per acre if structured parking was provided. Building heights
+   were permitted to the lesser of four stories or 50 feet. The Amended Plan also removed the public
+   realm requirements that were part of the original Plan but encouraged creative and innovative
+   approaches to modifying the street grid and open space plan.
+
+   Since the Plan’s adoption in 2005 and amendment in 2016, no redevelopment activity has occurred,
+   apart from subsections of the original Redevelopment Area described below, despite the Borough’s
+   facilitation efforts. The Station Area Redevelopment Plan Area continues to hold potential to become
+   a vibrant mixed-use district. The 2022 Reexamination Report recommended that the Borough re-visit
+   the Plan to formulate a viable redevelopment scheme. At this time, the 25 affordable units
+   contemplated in the 2016 HEFSP have not been completed. As such, consistent with the Borough’s
+   Fourth Round FSHC Settlement Agreement, the Borough will prepare an amended Phase 1
+   Amendment to the Station Area Redevelopment Plan in order to provide for the continued realistic
+   opportunity for the construction of affordable housing units, as described in further detail in Section
+   5.6.3 below.
+
+                                                                                                          22
+           MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 27 of 81 Trans ID: LCV2026663937
+
+
+
+
+    THE STOLL/ALLEN STREET REDEVELOPMENT PLAN
+    Since its last amendment in 2009, no redevelopment activity has occurred, and the prospective
+    redeveloper seeking to assemble properties within the Redevelopment Area has stepped away from
+    the project. Consequently, the Plan Area requires a fresh look to determine whether existing
+    constraints, which include possible environmental contamination and diverse ownership, can be
+    overcome either in whole or in part to facilitate redevelopment. At this time, the 21 affordable units
+    contemplated in the 2016 HEFSP have not been completed.
+    THE OLD POCKETBOOK FACTORY/CROWNWALK APARTMENTS
+    The 2013 Redevelopment Plan was amended in February 2019. The Plan permits multi-family
+    residential development with a maximum residential yield of 80 units and a ten-percent set-aside of
+    affordable units. Building heights are permitted to be five stories, 48 feet to the highest eave, and 58
+    feet to the roof ridgeline. The Planning Board approved a residential project that is generally consistent
+    with the amended Redevelopment Plan. The CrownWalk Apartments (i.e., 2 Flanders Road) are
+    complete and include 8 rental affordable housing units, one more unit than anticipated in the 2016
+    HEFSP.
+    The family rental units are administered by CPG&H. They include 2 one-bedroom, 4 two-bedroom
+    units; and 2 three-bedroom units. Four of the 8 units are available to low-income households and four
+    are available to moderate-income households. At least half of each unit type are available to low-
+    income households.
+    THE QUIRK SITE/CROWN POINT NETCONG
+
+        The Planning Board approved a site plan application for “Crown Point Netcong” in 2017 on the Quirk
+        Site, consisting of a four-building multi-family residential project that was generally consistent with
+        the Redevelopment Plan. The development is now constructed and located across Bank Street from
+        the unrealized area of the Station Area Redevelopment Plan. Crown Point Netcong (i.e., 34 Bank
+        Street) is complete and includes 13 rental affordable housing units, one more unit than anticipated
+        in the 2016 HEFSP.
+    The family rental units are administered by CPG&H. They include 2 one-bedroom units; 8 two-
+    bedroom units; and 3 three-bedroom units. Seven of the 13 units are available to low-income
+    households (i.e., 54 percent) including two very-low-income units (i.e., 15 percent). At least half of
+    each unit type is available to low-income households.
+
+5.4 Affordable Housing Units Constructed and/or Planned Since 2016
+5.4.1     Since the 2016 HEFSP and Judgment of Compliance and Repose, additional projects with
+          affordable housing units have been proposed and/or completed in Netcong including the following:
+
+    ALLEN HILL MANOR
+    In 2024, the Planning Board granted Preliminary Site Plan approval to demolish existing structures on
+
+                                                                                                            23
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 28 of 81 Trans ID: LCV2026663937
+
+
+
+
+    Block 11, Lot 6 (i.e., 39 Ledgewood Avenue/Route 183) to build a 2-story residential apartment
+    building with 8 dwelling units including 1 one-bedroom family rental affordable housing unit.
+
+    ST. MICHAEL’S/ MOUNTAIN VIEW AT NETCONG
+    In 2022, the Borough Council designated Block 26, Lot 6 and a portion of Lot 10 as a non-
+    condemnation area in need of redevelopment. The Planning Board subsequently adopted a
+    Redevelopment Plan in August 2023. The properties consist primarily of surface parking lots
+    associated with an unbuilt early childcare learning center and St. Michael’s Church, as well as
+    undeveloped land on an oversized residential lot. The Plan permits 64 3½-story market-rate
+    townhouses and 12 three-story affordable senior multi-unit dwellings.
+    In 2024, the Planning Board granted approval to the project which will produce 12 senior rental
+    affordable housing units.
+    BLOCK 15 REDEVELOPMENT
+    In 2023, the Borough Council designated five contiguous properties (i.e., Block 15, Lots 29, 30, 31, 32,
+    & 33) on the east side of Main Street and the north side of Maple Avenue as a “rehabilitation area”
+    consistent with the LRHL at N.J.S.A. 40A:12A-14. Thereafter, the Borough adopted a “Redevelopment
+    Plan for Block 15, Lots 29, 30, 31, 32, & 33.” The Plan permits a variety of commercial uses on the
+    ground floor and multifamily residential dwellings above. A maximum of 50 residential units and a
+    minimum of 6,000 square feet of commercial area is required. The Plan also requires a 15% set-aside
+    of affordable units. The Block 15 Rehabilitation Area is located within the official ½-mile Transit Village
+    area.
+
+    In 2024, the Planning Board granted approval to the project which will produce 8 family rental
+    affordable housing units.
+
+5.5 Calculation of Fourth Round Obligation (2025-2035)
+5.5.1   Introduction
+
+ The Fourth Round affordable housing obligation is comprised of two components: a Present Need (or
+ Rehabilitation) obligation; and a Prospective Need obligation.
+
+ The Present Need obligation is defined as the number of substandard existing deficient housing units in
+ the municipality currently occupied by low- and moderate-income (LMI) households.
+
+ The Prospective Need is a projection of the need for low- and moderate-housing based on development
+ and growth which is reasonably likely to occur in a region or a municipality.
+
+5.5.2   DCA Estimates of Borough’s Fourth Round Obligations
+
+ The Amended FHA required the New Jersey Department of Community Affairs (“DCA”) to provide an
+ estimate of the fair share affordable housing obligations of all municipalities on or before October 20,
+ 2024 based upon the criteria of the Amended FHA.
+
+                                                                                                            24
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 29 of 81 Trans ID: LCV2026663937
+
+
+
+
+ DCA issued a report on October 18, 2024 (the “DCA Report”) wherein it reported its estimate of the fair
+ share affordable housing obligation for all municipalities based upon its interpretation of the standards
+ in the Act.
+ The DCA Report calculates Netcong’s Round 4 (2025-2035) fair share affordable housing obligations as
+ follows: a Present Need (Rehabilitation) Obligation of 24 units and a Prospective Need (New
+ Construction) Obligation of 50 units.
+
+ The Amended FHA states that the DCA Report is non-binding and permits municipalities to demonstrate
+ that the Amended FHA would support revised calculations of Round 4 fair share affordable housing
+ obligations; and provides municipalities the opportunity to propose a different fair share affordable
+ housing obligation from those reported by the DCA Report. The Amended FHA requires municipalities to
+ adopt a binding resolution no later than January 31, 2025, as to its obligations.
+ Prior to adopting the binding resolution setting forth the Borough’s obligations, Netcong exercised its right
+ to analyze the data reported by DCA in the October 18, 2024 Report.
+
+ Pursuant to the Amended FHA, on January 30, 2025, the Mayor and Council adopted a binding resolution
+ (Resolution Number (2025-25) of participation with the Affordable Housing Dispute Resolution Program
+ (the “Program”) in accordance with the requirements of the Amended FHA. The Borough’s resolution to
+ set the Borough’s affordable housing obligations for the Fourth Round as follows: a Present Need of 24
+ units; and a Prospective Need of 47 units.
+
+ The Borough subsequently filed the resolution and a declaratory judgment (Docket No. DOCKET NO.:
+ MRS-L-312-25) within 48 hours of adoption with the Superior Court.
+
+5.5.3   Challenge and Settlement of Fourth Round Obligation
+ In accordance with the timeframes set forth in the Amended FHA, the New Jersey Builders Association
+ (“NJBA”) filed objections to the Borough’s resolution contending that the Borough had improperly
+ calculated its Prospective Need obligation.
+
+ The Borough engaged in settlement conferences with NJBA before reaching a settlement on March 27,
+ 2025 that the Borough’s Prospective Need obligation for the Fourth Round is 48 units. The Program
+ recommended the obligation to the Mt. Laurel vicinage judge. See Appendix B.
+
+ In short, the Borough’s Fourth Round obligation is as follows in Table 20, Fourth Round Obligation.
+
+ TABLE 20. FOURTH ROUND OBLIGATION
+
+  Present Need (Rehabilitation) Obligation                    24 Units
+
+  Prospective Need Obligation                                 48 Units
+
+
+
+5.5.4   Highlands Build Out Analysis and Vacant Land Adjustment
+
+                                                                                                           25
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 30 of 81 Trans ID: LCV2026663937
+
+
+
+
+There is limited land in the Borough that is vacant or otherwise developable for affordable and/or
+inclusionary housing. This is largely due to the Borough being mostly built-out with many of the
+undeveloped parcels being environmentally constrained (i.e., wetlands, steep slopes, water bodies,
+and/or flood hazard areas). As a result, the Borough is seeking a Vacant Land Adjustment (“VLA”) analysis
+undertaken on behalf of the Borough of Netcong pursuant to the Amended FHA.
+
+Netcong remains committed to meeting its constitutional obligation to provide, through its land use
+regulations, a realistic opportunity for a fair share of the region’s present and prospective needs for
+housing for low- and moderate-income families. The Borough is in the process of becoming Highlands-
+conforming municipality and its petition for designation as a Highlands Center was approved by the
+Highlands Council in April 2025. The Highlands has indicated to the Borough that it is entitled to the
+statutory benefits associated with Highlands Plan Conformance.
+
+Pursuant to the 2024 Highlands Affordable Housing RMP Amendment, conforming municipalities shall
+implement both the resource protection requirements of the Highlands Regional Master Plan (“RMP”)
+and provide for a realistic opportunity for a fair share of its region’s needs for housing for low- and
+moderate-income households. Proposed affordable housing developments in conforming municipalities
+must therefore be consistent with the RMP Land Use Capability Zone designations while providing for the
+protection of individual Highlands region resources. As such, the Highlands Council created a Highlands
+Build-Out Analysis (BOA), to determine parcels eligible for development. This analysis applied a series of
+conditional determination rules to each parcel, determining, per Highlands standards, if the parcel is
+developable. The Borough’s VLA conforms to both the standards of the Amended FHA and the Highlands
+RMP. See Appendix C for an explanation of the VLA methodology. Appendix D provides an inventory of
+each parcel analyzed and an explanation for why it was excluded. Appendix D also includes maps
+showing the locations of the parcels inventoried and maps of their respective constraints.
+Based on the Highlands Build-Out Analysis and the provisions of the Amended FHA, Netcong’s VLA
+indicates that approximately ±3.1-acres exist within the Borough that are suitable for inclusionary
+multifamily residential development. Assuming a density of 15 dwelling units per acre, the Borough has
+a RDP of 10 units (rounded up). See Table 21, Developable Acreage.
+
+
+
+
+                                                                                                       26
+          MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 31 of 81 Trans ID: LCV2026663937
+
+
+
+
+ TABLE 21. DEVELOPABLE A CREAGE
+                                                                            Total
+                Property   Property                         Lot       Environmentally    Remaining
+ Block    Lot                         Owner Name     Zone                                                  Notes
+                 Class     Location                       Acreage       Constrained       Acreage
+                                                                          Acreage
+                                                                                                        Sleep
+                                                                                                        slopes
+                                      ROSEWOOD
+                                                                                                       present;
+                           FLANDERS    NETCONG
+  19      29       1                                 B-C     1.078         0.064           1.014      remaining
+                              RD      HOLDINGS,
+                                                                                                     developable
+                                         LLC
+                                                                                                      acreage >
+                                                                                                     0.83 acres.
+                                                                                                        Steep
+                                                                                                       slopes,
+                                      ST MICHAELS                                                    wetlands, &
+                           TERRACE       ROMAN                                                        waterbody
+  22       4       1                                 R-3A    13.710       12.534           1.176
+                              ST       CATHOLIC                                                        present;
+                                        CHURCH                                                       developable
+                                                                                                      acreage >
+                                                                                                     0.83 acres.
+                                                                                                        Sleep
+                                                                                                        slopes
+                            37-2       MONTELLA,                                                       present;
+  23       5       1       CENTER     FELICE/ANNA    R-3A    1.078         0.188           0.890      remaining
+                             ST            C                                                         developable
+                                                                                                      acreage >
+                                                                                                     0.83 acres.
+
+  Total Developable Acreage                                                              3.1 acres
+
+
+
+
+5.6 Plan to Address Fourth Round Obligation (2025-2035)
+5.6.1    Present Need (24 Units)
+ The Borough will continue to participate in The Morris County Housing Rehabilitation Program which
+ provides funds to income eligible homeowners to address major system failures in their primary
+ residence. The Borough will also provide funds from its Affordable Housing Trust Fund if deemed
+ necessary to supplement the County Program funds.
+5.6.2    Plan to Address its Fourth Round RDP of 10 Units and Third Round Obligation of 36 Units
+
+ In order to address to its 10 unit RDP and the 36 unit Third Round Obligation, the Borough proposes the
+ following compliance mechanisms. Table 22, Third and Fourth Round Affordable Housing Plan.
+
+
+
+
+                                                                                                     27
+            MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 32 of 81 Trans ID: LCV2026663937
+
+
+
+
+ TABLE 23. AFFORDABLE H OUSING PLAN FOR THIRD AND FOURTH ROUNDS
+     Project              Tenancy         Total           THIRD ROUND                   FOURTH ROUND                    Status
+                                       Affordable
+                                          Units
+                                                      Affordable      Bonus       Affordable      Bonus Credits
+                                                       Units to      Credits       Units to       to Meet Fourth
+                                                      Meet Third     to Meet         Meet             Round
+                                                        Round          Third        Fourth
+                                                                      Round         Round
+     Crown Walk/2          Family           8               8           81            ---               ---          Complete
+     Flanders              Rentals
+     Crown Point/          Family           13              9            11            4                 23           Complete
+     34 Bank               Rentals
+     Allen Hill Manor       Family          1               1           ---            ---               ---          Approved
+                            Rental
+     St. Michael’s/         Senior          12             92           ---            3                              Approved
+     Mountain View          Rental
+     At Netcong
+     Block 15               Family          8              ---          ---            8                0.53          Approved
+     Redevelopment          Rental
+                                                           27           94            15              2.54
+                                                        36 Credits to Third         17.5 Credits to Fourth
+                                                       Round Obligation of          Round RDP of 10 Units
+                                                             36 Units
+ 1
+     Third Round rental bonus credits.
+ 2
+     Number of age-restricted units to address Third Round is limited to 25 percent of obligation (i.e., 25% of 36 or 9).
+ 3
+     Each unit is eligible for a 0.5 bonus credit because the project is within a half-mile of a NJ Transit railroad station.
+ 4
+     Limited to 25 percent of obligation.
+
+5.6.3     Zoning to Address Twenty-Five Percent of Unmet Need Likely to Redevelop
+ As part of addressing its Fourth Round affordable housing obligation through the utilization of a vacant
+ land adjustment, the Borough is required to identify properties which represent at least 25 percent of its
+ unmet need which are likely to redevelop during the Fourth Round. The Borough must then accordingly
+ adopt realistic zoning which permits affordable housing development at such locations.
+ The Borough has an unmet need of 38 units (48-unit obligation minus RDP of 10 units) and 25 percent of
+ 38 units is 9.5 units. The Borough will apply 7.5 Fourth Round units in surplus of its 10-unit RDP toward
+ the 25 percent requirement.
+
+ The Borough will also amend the Phase 1 Amendment to the Station Area Redevelopment Plan to allow
+ for greater density and provide affordable units in excess of the 2 credits needed to address the Borough's
+ remaining unmet need requirement..
+
+
+
+
+                                                                                                                          28
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 33 of 81 Trans ID: LCV2026663937
+
+
+
+
+5.7 Other Requirements
+ The Borough will comply with the following requirements pursuant to the Amended FHA:
+
+    VERY LOW-INCOME OBLIGATION
+
+    Per the Amended FHA, the Borough will require that 13% of all units created in this plan, except those
+    units that were constructed or granted preliminary or final site plan approval prior to July 1, 2008, to be
+    very low-income units, with half of the very low-income units being available to families.
+
+    Specifically, of the 42 units included in this plan, at least 6 units will be available to very low-income
+    households. Two of the units at Crown Point are very low-income. Two of the units at Mountain View at
+    Netcong will be very low-income. Two of the units at the Block 15 Redevelopment will be very low-
+    income.
+
+    LOW INCOME OBLIGATION
+    Per the Amended FHA, the Borough will require that at least 50 percent of the units created to address
+    both the Third and Fourth Round Prospective Need obligations will be affordable to very low-income
+    and low-income households, with the remainder affordable to moderate-income households.
+
+    MINIMUM RENTAL OBLIGATION
+
+    Per the Amended FHA, a municipality shall satisfy a minimum of 25 percent of the actual affordable
+    housing units created, exclusive of any bonus credits, to address its prospective need affordable
+    housing obligation, through rental housing, including at least half of that number available to families
+    with children.
+
+    All 42 units included in this plan will be rental units and 30 units (i.e., 71 percent) will be family rental
+    units.
+    MINIMUM FAMILY OBLIGATION
+
+    Per the Amended FHA, a municipality shall satisfy a minimum of 50 percent of the actual affordable
+    housing units, exclusive of any bonus credits, created to address its prospective need affordable
+    housing obligation through the creation of housing available to families with children.
+
+    Of the 42 units included in this plan, 30 units (i.e., 71 percent) will be family rental units.
+
+    MAXIMUM PERMITTED AGE-RESTRICTED UNITS
+    The Amended FHA limits the amount of age-restricted units a municipality can use to address its
+    obligation to 30 percent (up from 25 percent in the Third Round).
+
+    This plan includes 9 age-restricted units to address the 36-unit Third Round obligation (i.e., 25
+    percent) and 3 age-restricted units to address the 10-unit Fourth Round RDP (i.e., 30 percent).
+    REQUIRED BEDROOM DISTRIBUTION
+    All units shall include the required bedroom distribution, and be governed by controls on affordability
+                                                                                                              29
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 34 of 81 Trans ID: LCV2026663937
+
+
+
+
+    and affirmatively marketed in conformance with the Uniform Housing Affordability Controls N.J.A.C.
+    5:80-26.1 et seq. or any successor regulation.
+
+5.8 Spending Plan
+ The Borough’s Amended Fourth Round Spending Plan is included in Appendix E.
+
+
+
+
+                                                                                                   30
+       MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 35 of 81 Trans ID: LCV2026663937
+
+
+
+
+6 Consistency with Housing Element of Highlands Regional Master Plan
+The vacant land adjustment (the “VLA”) for Netcong is consistent with the housing element of the
+Highlands Regional Master Plan (“RMP”) for lands in the Highlands Planning Area. The VLA includes
+consideration of the municipality's most recent Highlands Municipal Build Out Report, consideration of
+opportunities for redevelopment of existing developed lands into inclusionary or 100 percent affordable
+housing, or both.
+
+The Borough is in the process of updating its ordinances, including its Affordable Housing Ordinance, to
+be consistent with the RMP.
+
+
+
+
+                                                                                                     31
+       MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 36 of 81 Trans ID: LCV2026663937
+
+
+
+
+7 Consistency with the State Development and Redevelopment Plan
+The New Jersey State Development and Redevelopment Plan (SDRP) was originally adopted in 1992. The
+purpose of the SDRP according to the State Planning Act at N.J.S.A. 52:18A-200(f) is to:
+      Coordinate planning activities and establish Statewide planning objectives in the
+      following areas: land use, housing, economic development, transportation, natural
+      resource conservation, agriculture and farmland retention, recreation, urban and
+      suburban redevelopment, historic preservation, public facilities and services, and
+      intergovernmental coordination.
+
+The State Plan is not a regulation, but a policy guide, and is meant to coordinate planning activities and
+development throughout the state. At the municipal level, master plans are required to be evaluated and,
+if necessary, modified to reflect policies of the State Plan. The State Plan is also important when the State
+makes infrastructural and other investment decisions, i.e., in determining where available State funds
+should be expended.
+A revised version of the plan was adopted by the State Planning Commission in 2001. While required by
+the State Planning Act to be revised and re-adopted every three years, the SDRP had not been revised and
+readopted since 2001 until 2025. On December 17, 2025, the State Planning Commission readopted the
+revised SDRP, which set forth the following comprehensive goals:
+
+  •   Promote economic growth that benefits all residents of new jersey
+  •   Provide an adequate supply of housing for residents of all ages and incomes in communities of their
+      choosing that meet their needs and offer ready access to the full range of supportive goods and
+      services
+  •   Economic opportunity through nation-leading infrastructure
+  •   Revitalize and recenter the state’s underutilized developed areas
+  •   Effectively address the adverse impacts of global climate change
+  •   Protect, maintain, and restore the state’s natural and water resources and ecosystems
+  •   Protect the environment; prevent and clean up pollution
+  •   Protect, enhance, and improve access to areas with exceptional archeological, historic, cultural,
+      scenic, open space, and recreational value
+  •   Implement equitable planning practices to promote thriving communities for all New Jerseyans
+  •   Foster sound and integrated planning and implementation at all levels Statewide
+At the time of readoption, the State Planning Commission and Office of Planning Advocacy decided to
+postpone decisions related to State Plan map changes as part of the cross-acceptance process through
+2026, with no timetable set as of yet. As such, the designations as shown within the 2001 SDRP Policy
+Map remain applicable, subject to future revisions as part of the cross-acceptance process. As depicted
+within the last revised State Plan Map, the majority of Netcong is located within the Suburban Planning
+Area (PA2) with small portions in the southern part of the Borough in the Environmentally Sensitive
+Planning Area (PA5).
+
+In the Suburban Planning Area, the intention of the State Plan is to:
+                                                                                                          32
+         MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 37 of 81 Trans ID: LCV2026663937
+
+
+
+
+ 1. Provide for a portion of the state’s future growth in compact development and redevelopment in
+    Centers and other appropriate areas;
+
+ 2. Promote walkability and multi-modal transportation options;
+
+ 3. Protect and enhance the character of existing stable communities;
+ 4. Protect and enhance natural resources and promote increased biodiversity, reforestation and habitat
+    restoration;
+
+ 5. Redesign auto-oriented areas and promote traffic calming and other forms of pedestrian counter
+    measures;
+
+ 6. Reverse any further sprawl development, including warehouse sprawl; and
+ 7. Revitalize and enhance towns and other traditional settlements.
+
+In the Environmentally Sensitive Planning Area, the intent of the State Plan is to:
+   1. Protect environmental resources;
+   2. Protect both large and small contiguous areas of land;
+
+   3. Promote restoring habitats and bio-diversity;
+   4. Accommodate growth only in Centers, excluding flood prone areas;
+
+   5. Confining programmed sewers and public water services to Centers;
+   6. Revitalize cities, towns, and older traditional settlements; and
+
+   7. Protect, enhance, and diversify the existing character of stable communities.
+ It is further noted that the revised 2025 SDRP establishes a sub area to the Suburban Planning Area,
+ known as the Suburban/Floodprone Planning Area (PA2B. The intent of this planning area is to:
+
+     1. Recognize developed areas that face current and future flood risk;
+     2. Minimize the risks to life and property from natural hazards;
+
+     3. Advance redevelopment and climate adaptation strategies that reduce flooding impacts and
+        support existing communities;
+
+     4. Discourage new and unneeded development and growth-inducing infrastructure projects; and
+
+     5. Implement green infrastructure improvements.
+
+
+ The Netcong Housing Element and Fair Share Plan recognizes the need to encourage development and
+ redevelopment on the limited developable land in the Borough, while also prioritizing the protection of its
+ natural resources and maintaining the character of the area. This Housing Plan promotes strategic and
+ smart planning for compact forms of housing and mixed-use development in appropriate locations
+
+                                                                                                         33
+       MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 38 of 81 Trans ID: LCV2026663937
+
+
+
+
+served by existing infrastructure and proximate to transit, stores and services, and is therefore consistent
+with the State Plan.
+
+
+
+
+                                                                                                         34
+       MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 39 of 81 Trans ID: LCV2026663937
+
+
+
+
+8 Appendixes
+ Appendix A   2017 Third Round Settlement Agreements with Fair Share Housing Center
+
+ Appendix B   Program Recommendation for Municipal Obligations for “Present Need” and “Prospective
+              Need” for the Fourth Round
+
+ Appendix C Highlands Build-Out Analysis & Vacant Land Adjustment Methodology
+
+ Appendix D Inventory and Maps of Parcels Investigated in Build-Out Analysis and Vacant Land
+            Adjustment
+ Appendix E   Spending Plan
+
+ Appendix F   Adopted Affordable Housing Ordinance
+
+ Appendix G Adopted Development Fee Ordinance
+ Appendix H Resolution Appointing Municipal Housing Liaison
+
+
+
+
+                                                                                               35
+   MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 40 of 81 Trans ID: LCV2026663937
+
+
+
+
+Appendix A. 2016 Judgment of Compliance and Repose
+    MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 41 of 81 Trans ID: LCV2026663937
+
+
+
+
+ MURPHY McKEON, P.C.
+                                                                                      Fil.Eb
+ 51 Route 23 South, P.O. Box 70                                                          SEP 2 0 2016
+                                                                                  1'r-:m~.tt c, w~u..c.
+ Riverdale, New Jersey 07457
+ (973) 835-0100
+ Attorneys for Borough of Netcong, PlaintifflPetitioner
+ By: Robert H. Oostdyk, Jr. [021961989]
+
+                                                             SUPERIOR COURT OF NEW JERSEY
+ IN THE MATTER OF TI-IE APPLICATION                        : LAW DIVISION : MORR1S COUNTY
+ OF THE BOROUGH OF NETCONG, a
+ municipal corporation of the State ofNew Jersey,          : DOCKET NO. MRS-L-1766-15
+
+                         Plaintiff/Petitioner.                             Civil Action
+
+                                                             ORDER GRANTING TlllRD ROUND
+                                                             SUBSTANTIVE CERTIFICATION TO
+                                                             THE BOROUGH OF NETCONG
+
+         This matter having been presented to the Court by Robert Oostdyk, Esq., Murphy McKeon, PC,
+
+by way of declaratory judgment action filed on behalf of the Borough of Netcong, and the court having
+
+considered the municipality's request for a declaratory judgment through a hearing on July 20, 2016, for
+
+the purpose of determining Netcong's compliance with its affordable housing obligation pursuant to the
+
+Mount Laurel doctrine and the Fair Housing Act; and
+
+        IT APPEARING that Netcong filed the above-captioned matter on July 2, 2015 seeking a
+
+declaration of its compliance with the Mount Laurel doctrine and Fair Housing Act of 1985, N.J.S.A.
+
+53 :27D-301 et seq. in accordance with In re N.J.A.C. 5:96 and 5:97, 221 N.J. 1 (2015); and,
+
+        IT FURTHER APPEARING that a case management order was entered on April 19, 2016 that
+
+scheduled the fairness hearing to July 20, 2016 at 9:30 a.m.; and,
+
+        IT FURTHER APPEARING that a Notice of this hearing was previously provided to all_parties
+
+on the service list identified on the Declaratory Judgment for this matter, including Fair Share Housing
+
+Center, and that the court received into the record evidence of said notice having been provided; and,
+
+        IT FURTHER APPEARING that the Housing Element and Fair Share Plan and related
+
+documents have been made available to the public for inspection at the Borough Clerk's Office; and,
+
+
+
+
+                                                    1
+    MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 42 of 81 Trans ID: LCV2026663937
+
+
+
+
+         IT FURTHER APPEARING that no written objections or opposition have been filed in regard to
+
+ the Borough's proposed Housing Element and Fair Share Plan; and,
+
+         IT FURTHER APPEARING that the Court has heard testimony from Paul A. Philips, PP, AICP
+
+ regarding Borough ofNetcong's Housing Element and Fair Share Plan.
+
+         NOW THEREFORE, IT IS on this!.l:i~ f September, 2016, ORDERED as follows:
+
+                 1.      The Court hereby, without objection from any party, finds that the Fair Share
+
+ Plan and Housing Element dated January 20 I 6 as adopted by the Borough of Netcong Planning
+
+ Board on March 28, 2016 and accepted by the Borough Council of the Borough of Netcong on April
+
+ 14, 2016 to be fair and reasonable.
+
+                 2.      The court further finds that the Fair Share Plan adopted by the Borough meets its
+
+. constitutional obligations under Mount Laurel and the Fair Housing Act.
+
+                 3.      The Borough shall comply with all provisions of the Fair Housing Act
+
+ during the ten year period of repose granted by the Council. The Fair Housing Act includes two
+
+ provisions regarding action to be taken by the Borough during the ten-year period of protection
+
+ provided in this Judgment. The Borough shall comply with those provisions as follows:
+
+              a. For the midpoint realistic opportunity review due on July 1, 2020, as required
+                 pursuant to N.J.S.A. 52:27D-313, the Borough will post on its municipal
+                 website, with a copy provided to Fair Share Housing Center, a status report as to
+                 its implementation of its Plan and an analysis of whether any unbuilt sites or
+                 unfulfilled mechanisms continue to present a realistic opportunity and whether
+                 any mechanisms to meet unmet need should be revised or supplemented. Such
+                 posting shall invite any interested party to submit comments to the municipality,
+                 with a copy to Fair Share Housing Center, regarding whether any sites no longer
+                 present a realistic opportunity and should be replaced and whether any
+                 mechanisms to meet unmet need should be revised or supplemented.
+
+             b. For the review of very low income housing requirements required by N.J.S.A.
+                52:27D-329.1, within 30 days of the third anniversary of this agreement, and
+                every third year thereafter, the Borough will post on its municipal website, with a
+                copy provided to Fair Share Housing Center, a status report as to its satisfaction
+                of its very low income requirements, including the family very low income
+                requirements referenced herein. Such posting shall invite any interested party to
+                submit comments to the municipality and Fair Share Housing Center on the issue
+
+                                                   2
+    MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 43 of 81 Trans ID: LCV2026663937
+
+
+
+
+                     of whether the municipality has complied with its very low income housing
+                     obligation under the Fair Share Plan.
+
+
+                    4.      The Court hereby grants the Borough the judicial equivalent ·of substantive
+
+   certification and accompanying protection as provided under the Fair Housing Act and in accordance with
+
+   In re N.J.A.C. 5:96 & 5:97, 221 N.J. 1, 36 (2015). The accompanying protection shall remain in effect
+
+   through July 20, 2025.
+
+                   5.       A copy of this order shall be served on all counsel of record, and all interested
+
+   parties within 5 days of receipt of it by counsel for the Borough of Netcong.
+
+
+
+
+          ,j~c/2
+ ,    5 ~ ju<_M-
+?v;iJNM/ (,~ ~ ,
+
+
+
+
+                                                       3
+   MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 44 of 81 Trans ID: LCV2026663937
+
+
+
+
+Appendix B.  Program Recommendation for Municipal Obligations for
+  “Present Need” and “Prospective Need” for the Fourth Round
+   MRS-L-000312-25
+        MRS-L-000312-25
+                   03/13/2026
+                         03/27/2025
+                              2:13:05 Pg
+                                      PM1 of
+                                          Pg745 of
+                                               Trans
+                                                   81 ID:
+                                                        Trans ID:
+                                                          LCV20251022236
+                                                                  LCV2026663937
+
+
+
+
+PREPARED BY THE AFFORDABLE HOUSING PROGRAM:
+                                                                                               '
+                                      Superior Court of New Je1·sey                           =r
+
+                                      Law Division, Civil Part
+
+
+In the Matter of
+Netcong Borough                                  Docket No. MRS-L-312-25
+
+                                       Program Settlement Recommendation
+                                       Present Need a·114 Prospective Need
+                                                                                              J i
+
+                                                                                              .,''
+                                                                                                '
+
+      THIS MATTER, having come before the Affordable Housing Program,
+
+pursuant to the Complaint for Declaratory Judgment filed on February 2, 2025       1
+
+("DJ Complaint") by Netcong Borough ("Petitioner" or
+
+"Municipality,,), pursuant to N.J.S.A. 52:27D-304.2, -304.3, and. -3o'4.l(f)(l)(c) of
+
+the New Jersey Fair Housing Act, N.J.~.A. 52:27D-301, et seq. (collecrively, the -
+
+"FHA"), and in accordance with Section II.A of Administrative Directive #14-24
+
+("Directive # 14-24"). of the Affordable 'Housing Dispute Resolution P1;ogram (the
+
+"Program"), seeking a certification of compliance with the FHA;
+
+      AND IT APPEARING that, on October 18, 2024, pursuant to the FHA (as
+
+amended), the New Jersey Department of Community Affairs (''DCA") issued ·,
+                                                                                        •.·
+
+
+its report entitled "Affordable Housing Oblig~tions for 2025-2035 (Fourth
+
+Round)", therein setting forth the "present need" and prospective need''
+                                                 '
+obligations of all
+
+
+
+                                       Pagel I
+   MRS-L-000312-25
+        MRS-L-000312-25
+                   03/13/2026
+                         03/27/2025
+                              2:13:05 Pg
+                                      PM2 of
+                                          Pg746 of
+                                               Trans
+                                                   81 ID:
+                                                        Trans ID:
+                                                          LCV20251022236
+                                                                  LCV2026663937
+
+
+
+
+New Jersey municipalities for the Fomth-Round housing cycle (the "DCA's Fourth
+
+Round Report");
+
+      AND IT APPEARING that, pursuant to the DCA's Fomth Round Report, the
+
+"prospective need" obligation of the Petitioner has been calculated            and
+
+reported as 50 affordable units, and which calculations have been deemed
+
+"presumptively valid,, for purposes of the FHA;
+
+       AND IT APPREARING THAT The Amended FHA Act requires
+
+municipalities that wish to receive immunity for the Fourth Round via participation
+
+in the Program to file a "binding resolution no later than January 31, 2025" which
+
+contains the Township 1s calculation of its FoutthwRound fair share obligations and
+
+to "file an action regarding the resolution with the Program." N.J.S.A. 52:27D-
+
+304.l(f)(l )(b),
+
+       AND IT APPEARING that the Municipality represented by Robert
+
+Oostdyk timely adopted resolution 2025-25 on January 31, 2025 seeking
+
+deviation from DCA numbers based on their planners recommendation for 47
+
+units for prospective need affo1·dable housing obligation;
+
+      AND IT APPEARING that challenges to the Municipal calculations were
+
+timely and properly filed by
+
+
+
+
+                                      Pagel2
+   MRS-L-000312-25
+        MRS-L-000312-25
+                   03/13/2026
+                         03/27/2025
+                              2:13:05 Pg
+                                      PM3 of
+                                          Pg747 of
+                                               Trans
+                                                   81 ID:
+                                                        Trans ID:
+                                                          LCV20251022236
+                                                                  LCV2026663937
+
+
+
+
+the New Jersey Builders Association represented • by Thomas Carroll, Esq,
+
+challenger disputing the town proposed ?bligations for present and prospective need,
+
+and suppo1ting DCA present and prospective need obligations, each challenge
+                ;;•
+
+
+
+supported by their own expert reports,
+
+      AND IT APPEARING; The Administrative Office of the Courts and the
+
+Progrnm appointed and assigned the case to program member Judge Stephan
+                      •.
+
+                                                                          ·_.
+C. Hansbury, Retired on Recall to manage the proceedings, host settlement
+
+conferences and make recommendations to the Mount Laurel Judge in accordance
+
+with the FHA statute and the AOC Directive,
+
+    ,. AND IT APPEARING THAT the appointed program member has fully
+
+considered all the submissions of counsel for all parties, the various planners reports,
+
+the DCA report; and the program member having a conducted settlement
+
+conference on March 27, 2025, in accordance with Dfrective and the
+
+statutory framework.
+
+      AND ~T APPEARING THAT, the AOC appointed an independent special
+
+adjudicator affordable housing expert to work with ► make recommendations and .
+
+assist the program, working closely with the progrnm member, and James Kyle
+
+appointed as special adjudicato"r in this case,
+
+
+
+
+                                         Page I 3
+   MRS-L-000312-25
+        MRS-L-000312-25
+                   03/13/2026
+                         03/27/2025
+                              2:13:05 Pg
+                                      PM4 of
+                                          Pg748 of
+                                               Trans
+                                                   81 ID:
+                                                        Trans ID:
+                                                          LCV20251022236
+                                                                  LCV2026663937
+
+
+
+
+      AND IT APPEARING THAT, the March 27 settlement conference was
+
+conducted on notice to all parties and the participation including attorneys, and
+
+planners for the Builders Accociation, everyone with the goal of reaching a
+
+resolution,
+
+      AND IT APPEARING THAT, the patties have engaged in extensive
+
+settlement negotiations before, during and after the settlement co~ferences, with the
+
+guidance and assistance of the program member assigned to the case and the special
+
+adjudicat01\
+
+      AND IT.APPEARING THAT the municipality and Fair Housing have
+
+reacheq a resolution, t~e settlement was place on the record,
+
+      AND Ii APPEARING that the special adjudicator recommends accepting the
+
+settlement to the program, and that the terms of the settlement are as follows: 48
+
+units of. affordable housing. for prospective need obligation, and that parties will now
+                                                  • -~.
+
+
+
+
+move on to the ~ompl!ance phase to address the remaining issues pursuant to F;HA
+
+and the AOC Directive,
+
+
+
+
+                                        Page 14
+    MRS-L-000312-25
+         MRS-L-000312-25
+                    03/13/2026
+                          03/27/2025
+                               2:13:05 Pg
+                                       PM5 of
+                                           Pg749 of
+                                                Trans
+                                                    81 ID:
+                                                         Trans ID:
+                                                           LCV20251022236
+                                                                   LCV2026663937
+
+
+
+
+       For all those reasons, The program member hereby recommends for
+
+consideration and review that an ORDER be entered by the County Mount Laurel
+
+Judge as follows:
+
+      Accepting the proposed settlement and establishing that the Municipal
+
+Affordable Housing that the "prospective need" obligation of the Municipality, be,
+
+and hereby is fixed as 48 affordable units for the Fourth Round Housing cycle.
+
+
+     And the program also recommending an order be entered that the Municipality
+
+is hereby authorized to proceed with preparation and adoption of its proposed
+
+Housing Element and Fair Share Plan for the Fourth Round, incorporating therein
+
+the "present needn and "prospective need" allocations aforesaid (and which plan
+
+shall include the elements set forth in the "Addendumu attached to Directive #14-
+
+24), by or before June 30, 2025, as provided for and in accordance with Section III.A
+
+of Directive #14-24, and without further delay.
+
+       And the Program recommending for an order that any and all "challenges'' to
+
+the Petitioner's housing element and fair share plan as adopted pursuant to Paragraph
+
+3 above must be filed by August 31, 2025, by way of Answer/Objection filed in the
+
+
+                                       Page I 5
+           MRS-L-000312-25
+                MRS-L-000312-25
+                           03/13/2026
+                                 03/27/2025
+                                      2:13:05 Pg
+                                              PM6 of
+                                                  Pg750 of
+                                                       Trans
+                                                           81 ID:
+                                                                Trans ID:
+                                                                  LCV20251022236
+                                                                          LCV2026663937
+
+
+                                                                                              1
+                                                                                              ,,..
+•,eCourts and as provided for and in accordance with SectionIII.B of Directive #14-
+ .                                                                                       .
+                                                                                              .
+     24·
+       '
+     And the program also recommending that a copy of the Order shall be deemed
+
+     servecfon the Pe~itioner, Petitionees counsel and the Program Chair upon its posting
+
+     by the Court to the eCourts case jacket for this matter pursuant to R. 1:5"l(a) and R.
+
+     I :32-2A.
+
+
+
+     Respectfully submitted by The Program: .
+
+
+                                          By:
+
+
+                                            n. Stephan C. Hansburyt J.S.C (Ret.)
+
+
+
+
+                     ,
+     Mount Laurel Judge~
+
+     The Program's decision is □ accepted for the reasons set forth by the Program, □
+
+     accepted for the reasotis set forth below, □ rejected, □ accepted/rejected in part.
+                               ,•            ~·
+
+
+
+                    Findings......of fact and conclusions of law (Rule 1 :7"4(a)):
+                          .;        ),,                                              .
+
+
+
+
+                                                Pagel6
+   MRS-L-000312-25
+        MRS-L-000312-25
+                   03/13/2026
+                         03/27/2025
+                              2:13:05 Pg
+                                      PM7 of
+                                          Pg751 of
+                                               Trans
+                                                   81 ID:
+                                                        Trans ID:
+                                                          LCV20251022236
+                                                                  LCV2026663937
+
+
+
+
+                               By:
+
+
+                               Hon.
+                                      ------ ------, J.S.C.
+Dated:
+         ------ ------ ---
+
+
+
+
+                                      Page 17
+   MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 52 of 81 Trans ID: LCV2026663937
+
+
+
+
+Appendix C. Highlands Build-Out Analysis & Vacant Land Adjustment
+  Methodology
+    MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 53 of 81 Trans ID: LCV2026663937
+
+
+
+
+Highlands Build-Out Analysis & Vacant Land Adjustment Analysis
+Methodology
+8.1 Introduction
+ The Borough of Netcong seeks an adjustment of its prospective need obligation for the Fourth Round
+ based on a lack of vacant land. Per P.L.2024, c.2 (C.52:27D-310.1), when computing a municipal
+ adjustment regarding available land resources as part of the determination of a municipality's fair share
+ of affordable housing, the municipality, may exclude the following vacant land:
+
+      (a) any land that is owned by a local government entity that as of January 1, 1997, has adopted,
+      prior to the institution of a lawsuit seeking a builder's remedy or prior to the filing of a petition for
+      substantive certification of a housing element and fair share plan, a resolution authorizing an
+      execution of agreement that the land be utilized for a public purpose other than housing;
+      (b) any land listed on a master plan of a municipality as being dedicated, by easement or
+      otherwise, for purposes of conservation, park lands or open space and which is owned, leased,
+      licensed, or in any manner operated by a county, municipality or tax-exempt, nonprofit
+      organization including a local board of education, or by more than one municipality by joint
+      agreement pursuant to P.L.1964, c.185 (C.40:61-35.1 et seq.), for so long as the entity maintains
+      such ownership, lease, license, or operational control of such land;
+
+      (c) any vacant contiguous parcels of land in private ownership of a size which would accommodate
+      fewer than five housing units based on appropriate standards pertaining to housing density;
+      (d) historic and architecturally important sites listed on the State Register of Historic Places or
+      National Register of Historic Places prior to the date of filing a housing element and fair share plan
+      pursuant to section 3 of P.L.2024, c.2 (C.52:27D-304.1) or initiation of an action pursuant to
+      section 13 of P.L.1985, c.222 (C.52:27D-313);
+
+      (e) agricultural lands when the development rights to these lands have been purchased or
+      restricted by covenant;
+
+      (f) sites designated for active recreation that are designated for recreational purposes in the
+      municipal master plan; and
+      (g) environmentally sensitive lands where development is prohibited by any State or federal
+      agency, including, but not limited to, the Highlands Water Protection and Planning Council,
+      established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), for lands in the Highlands
+      Preservation Area, and lands in the Highlands Planning Area for Highlands -conforming
+      municipalities.
+
+ No municipality shall be required to utilize for affordable housing purposes land that is excluded from
+ being designated as vacant land.
+ The Borough is seeking an adjustment of its prospective need obligations for the Fourth Round based
+    MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 54 of 81 Trans ID: LCV2026663937
+
+
+
+
+ on a lack of vacant land pursuant to P.L.2024, c.2 (C.52:27D-304.1) including P.L.2024, c.2 (C.52:27D-
+ 304.1(g)).
+
+ The Borough of Netcong is entitled to the statutory benefits associated with Highlands Plan
+ Conformance as detailed in the Highlands Act, the Regional Master Plan (“RMP”), and the Plan
+ Conformance Procedures in Addendum 2019-2. On April 18, 2024, the Highlands Council adopted an
+ amendment to the RMP entitled Highlands Affordable Housing RMP Amendment. The amendment
+ provides standards based on the RMP and the Fair Housing Act as to where it is appropriate to locate
+ affordable housing based on the Goals, Policies and Objectives of the RMP. Policy 6O7 of the RMP
+ requires that conforming municipalities implement both the resource protection requirements of the
+ RMP and provide for a realistic opportunity for a fair share of its region’s needs for housing for low- and
+ moderate-income households. Proposed affordable housing developments in conforming
+ municipalities must therefore be consistent with the RMP Land Use Capability Zone (“LUCZ”)
+ designations while providing for the protection of individual Highlands region resources. As such, the
+ Highlands Council created a Highlands Build-Out Analysis (BOA), to determine parcels eligible for
+ development. This analysis applied a series of conditional determination rules to each parcel,
+ determining, per Highlands’ standards, if the parcel is developable. These rules reflect the policies and
+ standards in the 2024 Highlands Affordable Housing RMP Amendment.
+
+ The Highlands Council conducted a Build-Out Analysis for Netcong which was reviewed by the Borough
+ and used as a basis for the Borough to seek a Vacant Land Adjustment pursuant to P.L.2024, c.2
+ (C.52:27D-304.1). The Highlands Build-Out Analysis steps are summarized below as are the steps used
+ by the Borough to conduct a Vacant Land Adjustment.
+
+8.2 Highlands Build-Out Analysis
+ METHODOLOGY
+       Step 1. The Highlands Build-Out analysis update process begins with the inclusion of all parcels
+       within the municipality, using the 2024 statewide parcel data layer. Any missing data was flagged
+       and the Borough subsequently provided the data to the Highlands Council.
+
+       Step 2. The Highlands identified developable parcels. This involved including all of the following
+       parcels identified as being vacant, underdeveloped, and eligible for development, specifically:
+
+           •   Parcels with MODIV property class code 1 and 3B; or
+           •   Parcels with a public or other MODIV property class code 15C or 15F where 0.83 acres or
+               greater is available for development after the existing building footprint area (Microsoft,
+               2018) is subtracted from the maximum building coverage (based on the maximum building
+               coverage percentage permitted by local zoning); or
+           •   Parcel with a public or other MODIV property class code 15C or 15F where 0.83 acres or
+               greater is available for development after the existing impervious surface area is subtracted
+               from the maximum impervious surface lot coverage (based on the impervious lot coverage
+               percentage permitted by local zoning).
+MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 55 of 81 Trans ID: LCV2026663937
+
+
+
+
+  Step 3. Next, the Highlands identified non-developable parcels. This involved excluding all
+  parcels that met the following criteria:
+
+     •   Any parcels identified as developable above but were subsequently determined to be
+         developed, not vacant, or otherwise ineligible for development;
+     •   Parcels with over 95% open water; or
+     •   Parcels over 0.83 acre in area which are 95% preserved; or
+     •   Parcels 95% in the Preservation Area; or
+     •   Parcels with MODIV property class 2 or 3A and 3b combined; or
+     •   Parcels with MODIV property class codes 4A, 4B, 4C, 15A, 15B, 15D, 15E; or
+     •   Parcels with a public or other MODIV property class code 15C or 15F where 0.83 acres or
+         less is available for development after the existing building footprint area (Microsoft, 2018)
+         is subtracted from the maximum building coverage (based on the maximum building
+         coverage percentage permitted by local zoning); or
+     •   Parcel with a public or other MODIV property class code 15C or 15F where 0.83 acres or
+         less is available for development after the existing impervious surface area is subtracted
+         from the maximum impervious surface lot coverage (based on the impervious lot coverage
+         percentage permitted by local zoning).
+
+  Step 4. Next, the Highlands assigned a septic density to each parcel. Where developable lots are
+  not assigned a septic density, they were assumed to be able to be serviced by public wastewater.
+  The following criteria were used:
+
+     •   Sewer: Where a parcel was more than 5% or has more than 2,500 sq. ft. in a sewer service
+         area, it is identified as being sewer eligible.
+     •   Septic: Where a parcel is outside a sewer service area (less than 5% or 2,500 sq. ft. in a
+         sewer service area) or the parcel contains any amount of Conservation and/or Protection
+         Zone (based on the 2024 LUCZ).
+     •   Additionally, the Highlands BOA eliminated parcels with a combined septic density greater
+         than 0 units, but less than 5 units.
+
+ Step 5. Next, the Highlands identified Highlands resource constraints and overlayed them on each
+ parcel. Where the overlayed resources left less than 0.83 acres developable area on a parcel, the
+ parcel was considered not developable. The constraints used were based on the Highlands
+ Affordable Housing RMP Amendment (2024) and include the following:
+
+     •   Highlands Open Water and associated Highlands Open Water Buffers;
+     •   Prime Groundwater Recharge Areas (or Municipally Important Groundwater Recharge
+         Areas, as adopted);
+     •   Severe Steep Slopes (20%+ slopes);
+     •   Critical Habitat;
+     •   Vernal Pools and associated 300-meter buffer;
+     •   Natural Heritage Priority Sites; and/or
+   MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 56 of 81 Trans ID: LCV2026663937
+
+
+
+
+          •   Special Environmental Zone.
+
+      Step 6. The final output of the build-out update includes a dataset of 2024 parcels (Parcels and
+      MOD-IV Composite of NJ downloaded from NJ-Office of Information Technology) with all the input
+      information used by the Highlands Council to determine the eligibility for development, as well
+      as a related table of the rules, constraints, and determinations used to identify the development
+      status of each parcel. Parcels that meet the conditions of a rule are assigned a related rule record
+      in the Build-Out Rules table. See Appendix A Table 1. Highlands Build-Out Analysis Rules for a list
+      of the rules applied to exclude parcels in Netcong. Exclusion Parcels can have multiple rules
+      applied. A final determination of a parcel’s eligibility for development is made using the full set of
+      related determination rules.
+
+      The NJ Highlands Resource Protection Standards are measured and applied to their intersecting
+      parcels using a geometric union to estimate the total combined acreage of constrained and
+      developable lands. Parcels where the combined acreage of constrained resources leaves less
+      than 0.83 acres of unconstrained land were considered totally constrained and excluded using
+      rule (607) TOTALLY CONSTRAINED.
+      A final development determination is made after all the determination rules have been checked
+      for and applied to every qualifying parcel. The final determination is made parcel-by-parcel, using
+      the following criteria:
+
+          •   YES Parcels with at least one INCLUDE rule (and no EXCLUDE or MISSING rules) are
+              considered potentially non-vacant or underdeveloped and therefore eligible for further
+              development.
+          •   NO Parcels with a single EXCLUDE rule are considered non-vacant, developed, or ineligible
+              for development.
+
+      Netcong then reviewed the Build-Out Analysis data, and provided any input to the Highlands
+      Council who then returned to the Borough a spreadsheet and GIS data to aid in the completion of
+      the Build-Out Analysis report. The spreadsheet indicates the following:
+
+          •   Parcels that can support development of 5 units or more and have a net developable
+              acreage of 0.83 acres or greater.
+          •   Parcels that can be serviced by public wastewater or via on-site septic systems.
+          •   A maximum residential unit septic density for parcels identified as developable that are to
+              be serviced by one-site septic systems.
+          •   Where parcels are to be serviced by public wastewater, the municipality determines the
+              supportable density for each parcel. A minimum presumptive density of 6 units per acre
+              based on developable acreage is assumed, which may be adjusted based on surrounding
+              land uses. The presumptive density shall not exceed the available net water availability for
+              the
+
+The Build-Out Analysis determined that approximately 3.1 acres in Netcong met the above criteria.
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 57 of 81 Trans ID: LCV2026663937
+
+
+
+
+8.2.1     Appendix C Table 1. Highlands Build-Out Analysis Rules for Exclusion
+  Code        Rule                                 Description
+  401         OPEN WATER                           Parcels that are over 95% Open Water
+  402         PRESERVED                            Parcels that are larger than 1 acre and are over 95% preserved
+  403         PRESERVATION AREA                    Parcels that are 95% within the NJ Highlands Preservation Area
+  404         RESIDENTIAL DEVELOPED                Parcels where the following is a MODIV property class of:
+                                                     •    2- Residential; or
+                                                     •    3A- Farm (Regular)
+  405         EXCLUDE RAILROAD (5A, 5B)            Parcels with one of the following MODIV property classes:
+                                                     •    5A- Class I Railroad Property
+                                                     •    5B- Class II Railroad Property
+  406         PUBLIC EXCLUDE (15A, 15B,            Parcels with one of the following MODIV property classes:
+              15D, 15E)                              •    15A- Public School Property
+                                                     •    15B- Other School Property
+                                                     •    15D- Church and Charitable Property
+                                                     •    15D- Cemeteries and Graveyards
+  407         PUBLIC DEVELOPED BLD COV             Parcels with all of the following:
+                                                     •    A MODIV property class of:
+                                                           o 15C- Public Property; or
+                                                           o 15F- Other Exempt
+                                                     •    A ZONE_BLDG_COVERAGE acreage, minus 0.83 acres reserved
+                                                          as available for development less than the acreage of all existing
+                                                          buildings detected on the parcel using Microsoft Building
+                                                          Footprints
+  408         PUBLIC DEVELOPED LOT/IS              Parcels with all of the following:
+              COV                                    •    A MODIV property class of:
+                                                           o 15C- Public Property; or
+                                                           o 15F- Other Exempt
+                                                     •    A ONE_BLDG_COVERAGE acreage, minus 0.83 acres reserved
+                                                          as available for development less than the acreage of all existing
+                                                          impervious coverage surfaces detected on the parcel using
+                                                          Highlands Impervious Surfaces
+
+  504         INSUFFICIENT SEPTIC DENSITY          Parcels with both the following:
+              THRESHOLD (<5 UNITS)                    •    Combined Septic Density is greater than zero (>0 units)
+                                                      •    Combined Septic Density is less than five (<5 units)
+  607         TOTALLY CONSTRAINED                  Parcels where resource constraints cover the entire parcel, leaving
+                                                   less than 0.83 acres of developable land.
+ Source: Highlands Municipal Build-Out Update Prepared by the Highlands Water Protection and Planning Council in support
+ of the Highlands Regional Master Plan; November 1, 2024.
+
+8.3 Vacant Land Analysis
+ The Build-Out Analysis formed the basis of the Borough’s Vacant Land Adjustment (“VLA”) analysis
+ undertaken pursuant to P.L.2024, c.2 (C.52:27D-304.1). The VLA augments the results of the Build-Out
+ analysis with additional parcel specific information used to substantiate the exclusion of parcels based
+ on the Amended FHA. Specifically, C.52:27D-304.1:
+         (b) any land listed on a master plan of a municipality as being dedicated, by easement or
+         otherwise, for purposes of conservation, park lands or open space and which is owned, leased,
+         licensed, or in any manner operated by a county, municipality or tax-exempt, nonprofit
+         organization including a local board of education, or by more than one municipality by joint
+         agreement pursuant to P.L.1964, c.185 (C.40:61-35.1 et seq.), for so long as the entity maintains
+    MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 58 of 81 Trans ID: LCV2026663937
+
+
+
+
+      such ownership, lease, license, or operational control of such land;
+
+      (d) historic and architecturally important sites listed on the State Register of Historic Places or
+      National Register of Historic Places prior to the date of filing a housing element and fair share plan
+      pursuant to section 3 of P.L.2024, c.2 (C.52:27D-304.1) or initiation of an action pursuant to
+      section 13 of P.L.1985, c.222 (C.52:27D-313);
+
+      (f) sites designated for active recreation that are designated for recreational purposes in the
+      municipal master plan; and
+
+8.4 Summary of Build-Out Analysis and Vacant Land Adjustment
+ Based on both the Build-Out analysis and the Vacant Land Adjustment analysis, Netcong currently has
+ approximately 3.1-acres within its boundaries suitable for development of affordable housing. See
+ Appendix B for a list of all properties inventoried and maps showing their locations and environmental
+ and/or Highlands’ area constraints.
+     MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 59 of 81 Trans ID: LCV2026663937
+
+
+
+
+Appendix D: Inventory and Maps of Parcels Investigated in Build-Out
+  Analysis and Vacant Land Adjustment
+MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 60 of 81 Trans ID: LCV2026663937
+MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 61 of 81 Trans ID: LCV2026663937
+MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 62 of 81 Trans ID: LCV2026663937
+MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 63 of 81 Trans ID: LCV2026663937
+                   MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 64 of 81 Trans ID: LCV2026663937
+
+                                                                 Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, (c) OpenStreetMap
+                                                                                           contributors, and the GIS User Community
+
+
+
+
+                                Borough Parcels
+
+                                      Property Class 15C
+
+                                      Property Class 1                                                S ta n h o p e
+                                                                                                       B oroug h
+                                      Property Class 15F
+
+
+
+                                      Highlands Designated
+                                      Developable Land
+                                 1.   Block 19, Lot 29
+                                 2.   Block 23, Lot 5
+                                 3.   Block 22, Lot 4
+
+
+
+
+                                      1
+
+
+
+
+                                                 Netcong
+                                                 Station
+
+
+
+
+                                                                                       R ox bu ry
+                                                                                      Town s h i p
+
+          Mo unt O live
+           Township                                          3
+                                        2
+
+
+
+Appendix D.1: Vacant Land Adjustment Borough Parcels Inventoried
+                                                                            MILES
+Borough of Netcong 2025 Housing Element and Fair Share Plan                 0                     0.25                   0 .5 0
+PHILLIPS PREISS GRYGIEL LEHENY KELLER LLC 2025                                                                                    
+                   MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 65 of 81 Trans ID: LCV2026663937
+
+                                                                                           Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, (c) OpenStreetMap
+                                                                                                                     contributors, and the GIS User Community
+
+
+        Highlands Environmental Constraints                Borough Parcels
+               Open Water
+                                                                Property Class 15C
+
+               Steep Slopes                                     Property Class 1
+
+               Preserved Lands                                  Property Class 15F
+
+
+               Open Water Protection Area                       Approved Site Plan
+
+                                                                Highlands Designated
+               Conﬁrmed Vernal Pools 300m Buffer                Developable Land                                      S ta n h o p e
+                                                                                                                       B oroug h
+               Wetlands
+
+
+
+
+                                                 Netcong
+                                                 Station
+
+
+
+
+                                                                                                  R ox bu ry
+                                                                                                 Town s h i p
+
+          Mo unt O live
+           Township
+
+
+
+
+Appendix D.2: Vacant Land Adjustment with Highlands Environmental Constraints
+                                                                                       MILES
+Borough of Netcong 2025 Housing Element and Fair Share Plan                            0                         0.25                          0 .5 0
+PHILLIPS PREISS GRYGIEL LEHENY KELLER LLC 2025                                                                                                          
+                   MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 66 of 81 Trans ID: LCV2026663937
+
+                                                                                       Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, (c) OpenStreetMap
+                                                                                                                 contributors, and the GIS User Community
+
+
+
+
+       Highlands Land Use Capability Zones                 Borough Parcels
+
+              Existing Community Zone                           Property Class 15C
+
+              Existing Community Zone -                         Property Class 1
+              Environmentally Constrained Sub-Zone
+
+              Lake Community Zone                               Property Class 15F
+                                                                                                                            S ta n h o p e
+                                                                Highlands Designated
+              Open Water                                        Developable Land                                             B oroug h
+
+
+
+
+                                                 Netcong
+                                                 Station
+
+
+
+
+                                                                                                             R ox bu ry
+                                                                                                            Town s h i p
+
+          Mo unt O live
+           Township
+
+
+
+
+Appendix D.3: Vacant Land Adjustment with Highlands Land Use Land Capability Zones
+                                                                                                  MILES
+Borough of Netcong 2025 Housing Element and Fair Share Plan                                       0                     0.25                   0 .5 0
+PHILLIPS PREISS GRYGIEL LEHENY KELLER LLC 2025                                                                                                          
+                   MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 67 of 81 Trans ID: LCV2026663937
+
+                                                                        Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, (c) OpenStreetMap
+                                                                                                  contributors, and the GIS User Community
+
+
+
+
+               Net Water Availability    Borough Parcels
+
+                      -0.99-(-0.10)              Property Class 15C
+
+                     Open Water                  Property Class 1
+                                                                                                             S ta n h o p e
+                                                 Property Class 15F                                           B oroug h
+                                                 Highlands Designated
+                                                 Developable Land
+
+
+
+
+                                                 Netcong
+                                                 Station
+
+
+
+
+                                                                                              R ox bu ry
+                                                                                             Town s h i p
+
+          Mo unt O live
+           Township
+
+
+
+
+Appendix D.4: Vacant Land Adjustment with Highlands Net Water Availability
+                                                                                   MILES
+Borough of Netcong 2025 Housing Element and Fair Share Plan                        0                     0.25                   0 .5 0
+PHILLIPS PREISS GRYGIEL LEHENY KELLER LLC 2025                                                                                           
+     MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 68 of 81 Trans ID: LCV2026663937
+
+
+
+
+Appendix E.     Spending Plan
+     MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 69 of 81 Trans ID: LCV2026663937
+
+
+
+
+Affordable Housing Trust Fund Spending Plan
+Borough of Netcong
+June 2025
+Amended January 2026
+
+INTRODUCTION
+
+The Borough of Netcong, Morris County has prepared a Housing Element and Fair Share plan that
+addresses its regional fair share of the affordable housing need in accordance with the Municipal
+Land Use Law (N.J.S.A. 40:55D-1 et seq.), the Fair Housing Act (N.J.S.A. 52:27D-301 et seq.),
+and N.J.A.C. 5:99-1 et seq. A development fee ordinance creating a dedicated revenue source for
+affordable housing was formerly approved by COAH and the Superior Court and adopted by the
+municipality. The ordinance established the Netcong affordable housing trust fund for which this
+spending plan is prepared. The governing body is considering an amendment to the affordable
+housing ordinance concurrently with the adoption of this Spending Plan.
+
+As of May 31, 2025, Netcong has collected $61,507.12 and expended $25,669.00, resulting in an
+affordable housing trust fund balance of $35,838.12 as of that date. All development fees,
+payments in lieu of constructing affordable units on site, funds from the sale of units with
+extinguished controls, and interest generated by the fees are deposited in a separate interest-bearing
+affordable housing trust fund in TD Bank for the purposes of affordable housing. These funds
+shall be spent in accordance with N.J.A.C. 5:99-1 et seq. , as described in the sections that follow.
+
+The Borough reserves the right and authority to further amend or modify the within spending plan
+to address or take into account changes which may be warranted due to new rules or rule
+amendments or judicial determinations, which may change standards or establish new criteria for
+the Borough to address its affordable housing obligation.
+
+
+
+
+                                                  1
+     MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 70 of 81 Trans ID: LCV2026663937
+
+
+
+
+1. REVENUES FOR CERTIFICATION PERIOD
+
+To calculate a projection of revenue anticipated during the Fourth Round (2025-2035), Netcong
+considered the following:
+
+   (a) Development fees in accordance with N.J.A.C. 5:99-3.1 through 3.4, including:
+       1. Residential and nonresidential projects which have had development fees imposed
+          upon them at the time of preliminary or final development approvals;
+       2. All projects currently before the planning and zoning boards for development approvals
+          that may apply for building permits and certificates of occupancy; and
+       3. Future development that is likely to occur based on historical rates of development.
+
+   (b) Payments in lieu (PIL):
+           Actual and committed payments in lieu (PIL) of construction from developers as
+           follows: None
+   (c) Other funding sources: An affordable housing trust fund may also contain recaptured
+       funds, proceeds from the sale of affordable units, rental income, repayments from
+       affordable housing program loans, enforcement fines and application fees, and any other
+       funds collected by the Borough in connection with its affordable housing programs. No
+       other funds have been or are anticipated to be collected.
+   (d) Projected interest:
+           Interest on the projected revenue in the municipal affordable housing trust fund at the
+           current average interest rate of 1.1%.
+
+
+No large development projects are anticipated in the coming years due to the limited availability
+of vacant and developable land in Netcong.
+
+
+
+
+                                                2
+      MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 71 of 81 Trans ID: LCV2026663937
+
+
+
+
+                                                    PROJECTED REVENUE SCHEDULE
+SOURCE OF FUNDS                                        JUNE 1, 2025-JUNE 30, 2035
+                                     2025-2026        2026-2027       2027-2028       2028-2029        2029-2030
+(a) Development fees:
+   1. Approved
+                                          $0                 $0            $0              $0               $0
+   Development
+   2. Development Pending
+                                          $0                 $0            $0              $0               $0
+   Approval
+   3. Projected Development1          $3,875.29        $3,875.29       $3,875.29       $3,875.29        $3,875.29
+(b) Payments in Lieu of
+                                          $0                 $0            $0              $0               $0
+Construction
+(c) Other Funds (Specify
+                                          $0                 $0            $0              $0               $0
+source(s))
+(d) Interest                           $352.83          $315.32         $277.40         $239.06          $200.30
+Total                                 $4,228.12        $4,190.61       $4,152.69       $4,114.35        $4,075.59
+
+                     2030-2031        2031-2032       2032-2033       2033-2034       2034-2035           Total
+(a) Dev. fees:
+   1. Appr.              $0              $0                $0              $0              $0               $0
+   2. Pending            $0              $0                $0              $0              $0               $0
+   3. Projected       $3,875.29       $3,875.29        $3,875.29       $3,875.29       $3,875.29       $38,752.90
+(b) P-i-L                 $0             $0                $0              $0              $0               $0
+(c) Other                 $0             $0                $0              $0              $0               $0
+(d) Interest           $161.11         $121.50          $81.44          $40.95           $0.00          $1,789.92
+Total                 $4,036.40       $3,996.79        $3,956.73       $3,916.24       $3,875.29       $40,542.82
+1
+  Between 11/12/2009 and 05/31/2025, the Borough of Netcong received development fees totaling $60,067.00
+from all qualifying residential and non-residential development activities within the Borough, or an annual average
+of $3,875.29. Future development trends and resulting annual development fees are assumed to be consistent with
+current levels, resulting in total development fees of approximately $38,752.90 through 2035.
+
+Netcong projects a total of approximately $40,542.82 in revenue to be collected between June 1,
+2025 and June 30, 2035. All affordable housing trust fund monies and interest earned on the
+account shall accrue to the account to be used only for the purposes of eligible affordable
+housing activities as set forth at N.J.A.C. 5:99-2; as enumerated within this Spending Plan and
+approved by the Dispute Resolution Program pursuant to N.J.S.A. 52:27D-329.2.a(4); or as
+otherwise part of an emergent opportunity pursuant to N.J.A.C. 5:99-4 as authorized by the
+Division of Local Planning Services within the Department of Community Affairs.
+
+
+
+
+                                                         3
+     MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 72 of 81 Trans ID: LCV2026663937
+
+
+
+
+2. ADMINISTRATIVE MECHANISM TO COLLECT AND DISTRIBUTE FUNDS
+
+The following procedural sequence for the collection and distribution of development fee revenues
+shall be followed by Netcong:
+
+   (a) Collection of development fee revenues:
+
+       Collection of development fee revenues shall be consistent with Netcong’s development
+       fee ordinance for both residential and non-residential developments in accordance with
+       N.J.A.C. 5:99-3.1 et seq., and the monitoring of development fees shall be conducted in
+       accordance with the requirements of N.J.A.C. 5:99-5.3 and 5:99-5.4.
+
+   (b) Distribution of development fee revenues:
+
+       The disbursement of monies in Netcong’s affordable housing trust fund is coordinated by
+       its Municipal Housing Liaison in conjunction with the Borough’s Chief Financial Officer
+       and the Borough Council. In some instances, funds will be provided to other entities, such
+       as an entity responsible for administering a rehabilitation program, for eventual
+       disbursement. Development fees shall be spent or committed to be expended within four
+       years of the date of collection, in accordance with N.J.A.C. 5:99-5.5.
+
+
+
+
+                                                 4
+     MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 73 of 81 Trans ID: LCV2026663937
+
+
+
+
+3. DESCRIPTION OF ANTICIPATED USE OF AFFORDABLE HOUSING FUNDS
+
+   (a) Affordable Housing Activities (N.J.A.C. 5:99-2.3(a))
+
+       Netcong will dedicate $50,000 to its rehabilitation program in order to meet its present
+       need obligations.
+
+   (b) Affordability Assistance (N.J.A.C. 5:99-2.3(12) and 5:99-2.5)
+
+        The projected affordability assistance requirement will be as follows:
+
+ AFFORDABILITY ASSISTANCE CALCULATION
+ Actual development fees through 05/31/2025                                          $60,067.00
+ Actual interest through 05/31/2025                                                   $1,440.12
+ Development fees projected 06/01/2025 through 06/30/2035                        +   $38,752.90
+ Interest projected 2025-2035                                                    +    $1,789.92
+         Less expenditures through 05/31/2025                                    -   $25,669.00
+             Total                                                               =   $76,380.94
+ 30 percent                                                              x 0.30 =    $22,914.28
+ PROJECTED Affordability Assistance Requirement 06/01/2025
+                                                                                 =   $22,914.28
+ through 06/30/2035
+ PROJECTED Very Low-Income Affordability Assistance
+ Requirement 06/01/2025 through 06/30/2035
+                                                                            ÷3=       $7,638.09
+
+Pursuant to N.J.A.C. 5:99-2.5, the Borough shall set aside a portion of all development fees
+collected and interest earned for the purpose of providing affordability assistance to very-low-,
+low-, and moderate-income households in affordable units included in the Borough’s fair share
+plan, pursuant to N.J.S.A. 52:27D-329.1. As such, the Borough will dedicate $22,914.28 from the
+affordable housing trust fund to provide affordability assistance to very low-, low-, and moderate-
+income households, including specifically $7,638.09 to very-low-income households.
+Affordability assistance activities include, but are not limited to, down payment assistance,
+security deposit assistance, low interest loans, rental assistance, assistance with homeowner's
+association or condominium fees and special assessments, common maintenance expenses, and
+assistance with emergency repairs and rehabilitation to bring deed-restricted units up to code.
+
+For very low-income households, affordability assistance may include offering a subsidy to
+developers of inclusionary or 100 percent affordable housing developments or buying down the
+cost of low- or moderate-income units in the Borough’s fair share plan to make them affordable to
+very low-income households, including special needs and supportive housing opportunities.
+
+
+   (c) Administrative Expenses (N.J.A.C. 5:99-2.4)
+
+Administrative expenses shall represent no more than 20 percent of all expenditures from the
+affordable housing trust fund.
+
+
+
+                                                5
+     MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 74 of 81 Trans ID: LCV2026663937
+
+
+
+
+ ADMINISTRATIVE EXPENSE CALCULATION
+ Actual development fees AND interest through 05/31/2025                             $61,507.12
+ Development fees AND interest projected                                             $40,542.82
+                                                                               +
+ 06/01/2025 through 06/30/2035
+ Payments-in-lieu of construction and other deposits through                              0
+                                                                               +
+ 07/17/2008
+        Less expenditures through 05/31/2025                                   -     $25,669.00
+               Total for Administrative Calculation                            =     $76,380.94
+                       Less Required Affordability Assistance                   -    $22,914.28
+                       Less Rehabilitation Expenses                             -     $50,000
+ Available for Administrative Expenses
+                                                                                     $3,466.66
+ 06/01/2025 through 06/30/2035
+
+Netcong projects that approximately $3,466.66 will be available from the affordable housing trust
+fund to be used for administrative purposes. While the Borough is permitted to utilize a maximum
+of 20 percent of its total projected expenditures ($15,276.19) for administrative expenses, the
+Borough intends to set aside $50,000 for rehabilitation of units and $22,914.28 for the required
+affordability assistance, leaving only $3,466.66 in remaining projected funds. Projected
+administrative expenditures, subject to the 20 percent cap, are as follows:
+
+           •   Costs reasonably related to the determination of the fair share obligation and the
+               development of a municipal housing element and fair share plan, including fees
+               necessary to develop or implement affordable housing programs, an affirmative
+               marketing program, and/or expenses that are reasonably necessary for compliance
+               with the processes of the Program, including, but not limited to, the costs to the
+               municipality of resolving a challenge pursuant to the Program;
+           •   Costs associated with functions carried out in compliance with UHAC, including
+               activities related to the marketing program and waitlist management, administering
+               the placement of occupants in housing units, income qualification of households,
+               monitoring the turnover of sale and rental units, preserving existing affordable
+               housing, and compliance with the Division's monitoring requirements; and
+           •   A proportion of a municipal employee's salary related to the MHL or RCA
+               administrator functions and fees for required educational programs, which may be
+               paid as an administrative expense from the municipal affordable housing trust fund.
+
+   (d) Other Expenditures
+
+The Borough does not anticipate collecting or expending affordable housing trust funds in
+accordance with the optional activities listed at N.J.A.C. 5:99-2.8,
+
+The full schedule of projected expenditures for the duration of the Fourth Round is shown within
+the following table.
+
+4. EXPENDITURE SCHEDULE
+
+Netcong intends to use affordable housing trust fund revenues as follows:
+
+
+                                                6
+       MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 75 of 81 Trans ID: LCV2026663937
+
+
+
+
+                                      PROJECTED EXPENDITURE SCHEDULE
+         Program                             JUNE 1, 2025-JUNE 30, 2035
+                            2025-2026 2026-2027     2027-2028   2028-2029 2029-2030
+Rehabilitation              $5,000.00   $5,000.00   $5,000.00   $5,000.00 $5,000.00
+Affordability Assistance    $2,291.43   $2,291.43   $2,291.43   $2,291.43 $2,291.43
+Administration               $346.67     $346.67     $346.67     $346.67     $346.67
+Total                       $7,638.09   $7,638.09   $7,638.09   $7,638.09   $7,638.09
+                2030-2031   2031-2032   2032-2033   2033-2034   2034-2035      Total
+Rehab.          $5,000.00   $5,000.00   $5,000.00   $5,000.00   $5,000.00     $50,000
+Aff. Asst.      $2,291.43   $2,291.43   $2,291.43   $2,291.43   $2,291.43   $22,914.28
+Admin.           $346.67     $346.67     $346.67     $346.67     $346.67     $3,466.66
+Total           $7,638.09   $7,638.09   $7,638.09   $7,638.09   $7,638.09   $76,380.94
+
+
+
+
+                                            7
+     MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 76 of 81 Trans ID: LCV2026663937
+
+
+
+
+5. EXCESS OR SHORTFALL OF FUNDS
+
+In accordance with N.J.A.C. 5:99-5.6, in the event there is a shortfall in funding for a proposed
+affordable housing delivery technique, then the Division may require the governing body of
+Netcong to adopt a resolution appropriating funds from general revenue or a resolution of intent
+to bond.
+
+In accordance with N.J.A.C. 5:99-4.1, in the event that excess funds are collected, the Borough
+may request authorization from the Division for the expenditure of excess affordable housing trust
+funds on emergent affordable housing opportunities not included in the Borough’s Fair Share Plan.
+The request shall be made in the form of a resolution from the governing body of the Borough and
+shall include:
+
+   1. Documented proof that the excess funds are not accounted for in the municipality's
+      spending plan approved by the Program or a court of competent jurisdiction;
+   2. A description of the affordable housing activity in accordance with N.J.A.C. 5:99-4.1(b)
+      and 5:99-2.3;
+   3. Documentation demonstrating that the entire municipal trust fund balance will be spent
+      and/or committed for expenditure within four years, as set forth at N.J.A.C. 5:99-5.5, shall
+      be submitted to the Division with the request; and
+   4. A certification that the affordable housing opportunity is consistent with P.L. 2024, c. 2.
+      and information describing the proposed affordable housing mechanism. The certification
+      shall demonstrate that the proposal does not alter the spending plan approved by the
+      Program or court of competent jurisdiction.
+
+
+6. BARRIER FREE ESCROW
+
+Any collection and distribution of barrier free funds shall be consistent with the Borough of
+Netcong’s Affordable Housing Ordinance and in accordance with N.J.A.C. 5:99-2.6 SUMMARY
+
+The Borough of Netcong intends to spend affordable housing trust fund revenues pursuant to
+N.J.A.C. 5:99-2.3 through 2.5 and consistent with the housing programs outlined in the Housing
+Element and Fair Share Plan (HEFSP). To the extent that programs described herein are not
+described in the HEFSP, the Borough of Netcong will submit an amendment to its HEFSP.
+
+Netcong had a balance of $35,838.12 as of May 31, 2025 and anticipates an additional $38,752.90
+in revenues and $1,789.92 in interest from 2025 to 2035, for an overall total (including starting
+balance) of $76,380.94. The municipality will dedicate $50,000 toward rehabilitation, $22,914.28
+to render units more affordable, and $3,466.66 to administrative costsAny shortfall of funds will
+be offset by funds appropriated from general revenue, or the Borough will adopt a resolution of
+intent to bond. The municipality will dedicate any excess funds or remaining balance toward
+providing eligible affordable housing activities as part of emergent opportunities pursuant to
+N.J.A.C. 5:99-4.
+
+
+
+
+                                                8
+      MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 77 of 81 Trans ID: LCV2026663937
+
+
+
+
+ SPENDING PLAN SUMMARY
+ Balance as of May 31, 2025                                                          $35,838.12
+
+ PROJECTED REVENUE 2025-2035
+ Development fees                                                    +               $38,752.90
+ Payments in lieu of construction                                    +                    $0
+ Other funds                                                         +                    $0
+ Interest                                                            +                $1,789.92
+
+                     TOTAL AVAILABLE FUNDS                           =               $76,380.94
+ PROJECTED EXPENDITURES
+ Funds used for Rehabilitation                                       -                 $50,000
+ Affordability Assistance                                            -               $22,914.28
+ Administration*                                                     -                $3,466.66
+         TOTAL PROJECTED EXPENDITURES                                =               $76,380.94
+                          REMAINING BALANCE                          =                    $0
+* Administrative expenses are limited to 20 percent of what is actually collected.
+
+
+
+
+                                                          9
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 78 of 81 Trans ID: LCV2026663937
+
+
+
+
+Appendix F.   Adopted                  Affordable Housing   Ordinance Including
+Mandatory Set-Aside
+To be provided under separate cover.
+        MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 79 of 81 Trans ID: LCV2026663937
+
+
+
+
+Appendix G.           Adopted Development Fee Ordinance
+To be provided under separate cover.
+     MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 80 of 81 Trans ID: LCV2026663937
+
+
+
+
+Appendix H.     Resolution Appointing Municipal Housing Liaison
+MRS-L-000312-25 03/13/2026 2:13:05 PM Pg 81 of 81 Trans ID: LCV2026663937
+

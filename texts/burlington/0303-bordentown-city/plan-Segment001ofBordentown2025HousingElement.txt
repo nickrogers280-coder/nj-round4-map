@@ -1,0 +1,1496 @@
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 1 of 34 Trans ID: LCV20252081194
+
+
+
+
+City of Bordentown, Burlington County, NJ
+
+
+2025 Housing Element & Fair Share Affordable Housing Plan
+
+
+
+
+Planning Period: 2025–2035
+Adopted July 21, 2025 Bordentown City Planning Board
+
+
+
+
+                                    1
+  BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 2 of 34 Trans ID: LCV20252081194
+
+
+
+
+ TABLE OF CONTENTS
+
+
+
+ INTRODUCTION .......................................................................................................................................................... 3
+ I. DEMOGRAPHIC & HOUSING PROFILE - A SNAPSHOT ...................................................................................... 7
+ POPULATION CHARACTERISTICS ................................................................................................................... 12
+ HOUSEHOLD CHARACTERISTICS..................................................................................................................... 14
+ INCOME CHARACTERISTICS .............................................................................................................................. 15
+ II. LAND USE, ZONING AND INFRASTRUCTURE ANALYSIS............................................................................. 19
+ III. FAIR SHARE PLAN ............................................................................................................................................... 22
+     PRESENT NEED OBLIGATION .........................................................................................................................................................22
+     PRIOR ROUND OBLIGATION ..........................................................................................................................................................22
+     THIRD ROUND PROSPECTIVE OBLIGATION ...................................................................................................................................23
+     FOURTH ROUND PROSPECTIVE OBLIGATION................................................................................................................................23
+ IV.FOURTH ROUND OBLIGATION .......................................................................................................................... 24
+ V. BORDENTOWN CITY'S AFFORDABLE HOUSING COMMITMENT AND PROPOSED MECHANISMS ....... 27
+
+ VI. COMPLIANCE ...................................................................................................................................................... 29
+ APPENDIX A: MAPS .............................................................................................................................................. 31
+ APPENDIX B: DEVELOPMENT FEE ORDINANCE......................................................................................... 32
+ APPENDIX C: INCLUSIONARY ZONING ORDINANCE .................................................................................. 33
+ APPENDIX D: FOURTH ROUND ORDINANCE................................................................................................ 34
+
+
+
+
+Prepared by
+
+_____________________________
+Charles Latini, PP AICP
+New Jersey Professional Planner License no. 5721
+L&G Planning
+PO Box 7743, West Trenton, NJ 08628 2
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 3 of 34 Trans ID: LCV20252081194
+
+
+
+
+Introduction
+
+Bordentown City continues to support equitable, diverse, and inclusive housing opportunities
+for residents of all income levels through coordinated planning, public-private partnerships, and
+responsible redevelopment. As is evident through this Housing Plan and its analysis of its growth
+and development trends, the City offers opportunities for all income levels.
+
+The City of Bordentown is required to adopt and maintain a Housing Element and Fair Share
+Plan pursuant to the Municipal Land Use Law (MLUL) and Fair Housing Act. Recent updates to
+the Fair Housing Act and ongoing judicial oversight have required municipalities to take
+meaningful steps toward compliance for the Fourth Round obligation period (2025–2035).
+Accordingly, Bordentown City's plan is aimed at providing a realistic opportunity to meet its
+obligations by the June 30th deadline to file.
+
+This plan has been prepared to meet the requirements of the FHA as most recently amended, as
+well as the 2024 Administrative Directive and all applicable regulations.
+
+Housing Element and Fair Share Plan Requirements
+
+In accordance with the Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.), a municipal master
+plan must include a housing plan element as the foundation for the municipal zoning ordinance
+(see N.J.S.A. 40:55D-28b(3)). Pursuant to the FHA (N.J.S.A. 52:27D-301 et seq.), a municipality’s
+housing element must be designed to provide access to affordable housing to meet present and
+prospective housing needs, with particular attention to low- and moderate-income housing.
+Specifically, N.J.S.A. 52:27D-310 requires that the housing element contain at least the
+following:
+
+     a.    An inventory of the municipality’s housing stock by age, condition, purchase or
+           rental value, occupancy characteristics, and type, including the number of units
+           affordable to low- and moderate-income households and substandard housing
+           capable of being rehabilitated;
+     b.    A projection of the municipality’s housing stock, including the probable future
+           construction of low- and moderate-income housing, for the next ten years, taking
+           into account, but not necessarily limited to, construction permits issued, approvals
+           of applications for development, and probable residential development of lands;
+     c.    An analysis of the municipality’s demographic characteristics, including, but not
+           necessarily limited to, household size, income level, and age;
+     d.    An analysis of the existing and probable future employment characteristics of the
+           municipality;
+     e.    A determination of the municipality’s present and prospective fair share of low-
+           and moderate-income housing and its capacity to accommodate its present and
+           prospective housing needs, including its fair share of low- and moderate-income
+           housing, as established pursuant to section 3 of P.L. 2024, c.2 (C.52:27D-304.1);
+     f.    A consideration of the lands most appropriate for construction of low- and
+           moderate-income housing and of the existing structures most appropriate for
+
+
+
+
+                                               3
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 4 of 34 Trans ID: LCV20252081194
+
+
+
+
+          conversion to, or rehabilitation for, low- and moderate-income housing, including
+          a consideration of lands of developers who have expressed a commitment to
+          provide low and moderate income housing;
+    g.    An analysis of the extent to which municipal ordinances and other local factors
+          advance or detract from the goal of preserving multigenerational family continuity
+          as expressed in the recommendations of the Multigenerational Family Housing
+          Continuity Commission, adopted pursuant to paragraph (1) of subsection f. of 23
+          section 1 of P.L.2021, c.273 (C.52:27D-329.20); and
+    h.    For a municipality located within the jurisdiction of the Highlands Water
+          Protection and Planning Council, established pursuant to section 4 of P.L.2004,
+          c.120 (C.13:20-4), an analysis of compliance of the housing element with the
+          Highlands Regional Master Plan of lands in the Highlands Preservation Area, and
+          lands in the Highlands Planning Area for Highlands-conforming municipalities. This
+          analysis shall include consideration of the municipality’s most recent Highlands
+          Municipal Build Out Report, consideration of opportunities for redevelopment of
+          existing developed lands into inclusionary or 100 percent affordable housing, or
+          both, and opportunities for 100 percent affordable housing in both the Highlands
+          Planning Area and Highlands Preservation Area that are consistent with the
+          Highlands regional master plan; and
+    i.    An analysis of consistency with the State Development and Redevelopment Plan,
+          including water, wastewater, stormwater, and multi-modal transportation based
+          on guidance and technical assistance from the State Planning Commission.
+
+In addition to FHA requirements, this Fourth Round HEFSP has been prepared in compliance
+with the following requirements set forth by Administrative Directive #14-24, issued by the
+Administrative Office of the Courts on December 13, 2024:
+
+    1.    One of the requirements for a final HEFSP is the inclusion of detailed site suitability
+          analyses, based on the best available data, for each of the un-built inclusionary or
+          100 percent affordable housing sites in the plan as well as an identification of each
+          of the sites that were proposed for such development and rejected, along with the
+          reasons for such rejection.
+    2.    The concept plan for the development of each of the selected sites should be
+          overlaid on the most up to date environmental constraints map for that site as
+          part of its analysis. When the detailed analyses are completed, the municipality
+          can see what changes will be needed (either to the selected sites or to their zoning)
+          to ensure that all of the units required by the settlement agreement will actually
+          be produced. If it becomes apparent that one (or more) of the sites in the plan
+          does not have the capacity to accommodate all of the development proposed for
+          it, the burden will be on the municipality either to adjust its zoning regulations
+          (height, setbacks, etc.) so that the site will be able to yield the number of units and
+          affordable units anticipated by the settlement agreement or to find other
+          mechanisms or other sites as needed to address the likelihood of a shortfall.
+    3.    The final HEFSP must fully document the creditworthiness of all of the existing
+          affordable housing units in its HEFSP and to demonstrate that it has followed all of
+          the applicable requirements for extending expiring controls, including
+
+
+
+                                               4
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 5 of 34 Trans ID: LCV20252081194
+
+
+
+
+          confirmation that all of the units on which the controls have been extended are
+          code-compliant or have been rehabilitated to code-compliance, and that all
+          extended controls cover a full 30-year period beginning with the end of the original
+          control period. Documentation as to the start dates and lengths of affordability
+          controls applicable to these units and applicable Affordable Housing Agreements
+          and/or deed restrictions is also required. Additionally, the income and bedroom
+          distributions and continued creditworthiness of all other existing affordable units
+          in the HEFSP must be provided.
+    4.    The HEFSP must include an analysis of how the HEFSP complies with or will comply
+          with all of the terms of the executed settlement agreement. Once the HEFSP has
+          been prepared, it must be reviewed by Fair Share Housing Center and the
+          Program’s Special Adjudicator for compliance with the terms of the executed
+          settlement agreement, the FHA and Uniform Housing Affordability Controls
+          (“UHAC”) regulations. The HEFSP must be adopted by the Planning Board and the
+          implementation components of the HEFSP must be adopted by the governing
+          body.
+
+The HEFSP must also include (in an Appendix) all adopted ordinances and resolutions needed to
+implement the HEFSP1, including:
+
+    1.    All zoning amendments (or redevelopment plans, if applicable).
+    2.    An Affordable Housing Ordinance that includes, among other required regulations,
+          its applicability to 100 percent affordable and tax credit projects, the monitoring
+          and any reporting requirements set forth in the settlement agreement,
+          requirements regarding very low income housing and very low income
+          affordability consistent with the FHA and the settlement agreement, provisions for
+          calculating annual increases in income levels and sales prices and rent levels, and
+          a clarification regarding the minimum length of the affordability controls (at least
+          30 years, until the municipality takes action to release the controls).
+    3.    The adoption of the mandatory set aside ordinance, if any, and the repeal of the
+          existing growth share provisions of the code.
+    4.    An executed and updated Development Fee Ordinance that reflects the court’s
+          jurisdiction.
+    5.    An Affirmative Marketing Plan adopted by resolution that contains specific
+          directive to be followed by the Administrative Agent in affirmatively marketing
+          affordable housing units, with an updated COAH form appended to the Affirmative
+          Marketing Plan, and with both documents specifically reflecting the direct
+          notification requirements set forth in the settlement agreement.
+    6.    An updated and adopted Spending Plan indicating how the municipality intends to
+          allocate development fees and other funds, and detailing (in mini manuals) how
+          the municipality proposes to expend funds for affordability assistance, especially
+          those funds earmarked for very low income affordability assistance.
+
+
+
+
+                                              5
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 6 of 34 Trans ID: LCV20252081194
+
+
+
+
+   7.   A resolution of intent to fund any shortfall in the costs of the municipality’s
+        municipally sponsored affordable housing developments as well as its
+        rehabilitation program, including by bonding if necessary.
+   8.   Copies of the resolution(s) and/or contract(s) appointing one or more
+        Administrative Agent(s) and of the adopted ordinance creating the position of, and
+        resolution appointing, the Municipal Affordable Housing Liaison.
+   9.   A resolution from the Planning Board adopting the HEFSP, and, if a final Judgment
+        is sought before all of the implementing ordinances and resolutions can be
+        adopted, a resolution of the governing body endorsing the HEFSP.
+
+
+
+
+                                           6
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 7 of 34 Trans ID: LCV20252081194
+
+
+
+
+I. Demographic & Housing Profile - A Snapshot
+
+Affordability Requirements
+
+The regional median income is now defined in the amended FHA and continues to utilize
+the U. S. Department of Housing and Urban Development (“HUD”) income limits on a
+regional basis. In the spring of each year HUD releases updated income limits which COAH
+used to reformulate slightly to the housing regions. The Affordable Housing Professionals of
+New Jersey, an association made up of persons who administer affordable housing
+programs for governments was recognized by numerous judges adjudicating settlements.
+The amended FHA now places this responsibility with DCA. It is from these income limits
+that the rents and sale prices for affordable units are derived. For 2024 income limits for
+Region 5 for illustrative sale prices and gross rents from 2024 (the latest figures available).
+The sample rents and sale prices are illustrative and are gross figures which do not account
+for the specified utility allowance for rentals.
+
+2024 Income Limits for Region 5
+  Household                  1 Person            2 Person            3 Person             4 Person            5 Person
+  Income Levels             Household           Household           Household            Household           Household
+
+  Moderate                    $64,232              $73,708             $82,584             $91,760             $99,101
+
+  Low                         $40,145              $45,880             $51,615             $57,350             $61,938
+
+  Very Low                    $24,087              $27,528             $30,969             $34,410             $37,163
+
+     Source: Affordable Housing Professionals of New Jersey 2024 Affordable Housing Regional Income Limits
+
+
+
+The sample rents and sale prices are illustrative and are gross figures, which do not account
+for the specified utility allowance in the case of rentals, or for homeowner’s association
+dues in the case of for-sale units.
+
+Illustrative 2024 Maximum Affordable Gross Rents for Region 5
+    Household Income Levels                                                  2 Bedroom                 3 Bedroom
+                                                 1 Bedroom Unit
+    (% of Median Income)                              Rent                     Unit Rent                Unit Rent
+
+    Moderate (60%)                                      $1,204                  $1,548                     $1,789
+
+    Low (50%)                                           $1,004                  $1,290                     $1,491
+
+    Very Low (30%)                                        $602                     $774                       $895
+
+        Source: Affordable Housing Professionals of NJ Affordable Housing Regional Income Limits and Rental Calculator
+
+
+
+
+                                                            7
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 8 of 34 Trans ID: LCV20252081194
+
+
+
+
+Illustrative 2024 Maximum Affordable Sales Prices for Region 5
+    Household Income Levels                               2 Bedroom          3 Bedroom
+                                       1 Bedroom
+    (% of Median Income)                Unit Price         Unit Price         Unit Price
+
+    Moderate (70%)                       $154,088          $187,267           $218,234
+
+    Low (50%)                            $106,689          $130,389           $152,508
+
+    Very Low (30%)                        $59,291           $73,510             $86,782
+
+
+
+
+Population and Households
+   § Total Population (2020 Census): 3,993
+   § Number of Households: 1,825
+   § Average Household Size: 2.19
+   § Population 65 and Over: 21.4%
+
+Housing Stock
+   § Total Housing Units: 2,004
+   § Owner-Occupied: 61%
+   § Renter-Occupied: 39%
+   § Median Home Value: $289,000
+   § Median Gross Rent: $1,392
+
+Income and Poverty
+    § Median Household Income: $85,312
+    § Per Capita Income: $45,770
+    § Households Below Poverty Level: 7.2%
+    § ALICE Households (Asset Limited, Income Constrained, Employed): 28%
+
+Education
+   § High School Diploma or Higher: 94.1%
+   § Bachelor’s Degree or Higher: 46.7%
+   § Local students attend the Bordentown Regional School District
+
+Transportation and Mobility
+    § Primary Commute Mode: Personal vehicle (82%)
+    § Public Transit Use: 8%
+    § Proximity to RiverLINE Station: Within walking distance of residential core
+    § Access to I-295 and Route 130: Within 2 miles
+
+
+
+
+                                              8
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 9 of 34 Trans ID: LCV20252081194
+
+
+
+
+   §   Transit-Oriented Development (TOD) Potential: High around Farnsworth Avenue and
+       station node.
+
+Housing Conditions
+
+Over half of the City’s housing units are single-family dwellings, either attached or detached.
+Two-family units are typically one unit above the other, which is often called a duplex. Most
+of the remaining dwellings are located in smaller-scale multi-family developments, with
+fewer than 10 units and 396 in 10 units and above. Slightly over 51% of units are owner-
+occupied, and 48% are renter-occupied. Of the 10% of units that are vacant, 8.8% vacancy
+rate in the City is higher than Burlington County and New Jersey, which is 6.1% and 7.9%,
+respectively.
+According to the American Community Survey 2019-2023 estimates, a large portion of
+City’s housing stock was constructed prior to 1939, with smaller building booms between
+1950 and 1969 (e.g., the post-war housing boom) and between 1970 and 1979, potentially
+reflecting urban renewal and Farnsworth Avenue Apartments.
+
+Housing Units by Year Built, 2023
+                                                           Occupied
+                           Year Built                       Units            Percent
+
+                           2020 or later                          0            0.0%
+
+                           2010 to 2019                         69             3.4%
+
+                           2000 to 2009                         13             0.6%
+
+                           1990 to 1999                         83             4.1%
+
+                           1980 to 1989                         73             3.6%
+
+                           1970 to 1979                        144             7.1%
+
+                           1960 to 1969                         94             4.7%
+
+                           1950 to 1959                        313            15.5%
+
+                           1940 to 1949                         31             1.5%
+
+                           1939 or earlier                    1,196           59.3%
+
+                           Total                            2,016             100%
+
+                           Median Year Built                  1953
+
+        Sources: Tables B25036, B25037. DP04, 2019-2023 American Community Survey Five-Year Estimate
+
+
+
+
+                                                       9
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 10 of 34 Trans ID: LCV20252081194
+
+
+
+
+Value of Owner-Occupied Housing Units 2013 and 2023, shows that the median home value
+in Bordentown increased by approximately 25.3% between 2013 and 2023. This is on pace
+with the rise in median home values in Burlington County.
+
+Based on COAH’s 2024 Illustrative Sales numbers, approximately 17 of 2023 housing units
+in Bordentown may be affordable to very-low income households (1.7%). Meanwhile,
+approximately sixteen (16) units (exclusive of units that may be affordable to very-low
+income households) may be affordable to low income households, and approximately 67
+units (7.0%) may be affordable to moderate income households (excluding those units
+affordable to low and very-low income households). In total, approximately 100 owner-
+occupied units, or 10.3% of owner-occupied units in the City, may be affordable to low and
+moderate income households.
+
+Value of Owner-Occupied Housing Units, 2013 and 2023
+ Housing Unit Value                    2013 Units              Percent            2023 Units              Percent
+
+ Less than $50,000                            10                 1.0%                    17                  1.7%
+
+ $50,000 to $99,999                           15                 1.6%                      9                 0.9%
+
+ $100,000 to $149,999                         89                 9.4%                      7                 0.7%
+
+ $150,000 to $199,999                       216                 23.2%                    67                  7.0%
+
+ $200,000 to $299,999                       430                 45.6%                  293                 30.9%
+
+ $300,000 to $499,999                       183                 19.4%                  505                 53.2%
+
+ $500,000 to $999,999                           0                0.0%                    30                  3.1%
+
+ $1,000,000 or more                             0                0.0%                    20                  2.1%
+
+ Total                                      943               100.0%                   948                100.0%
+
+ Median Value                                       $240,700                                   $322,200
+
+    Sources: Table Dp04, U.S. Census Bureau, 2009-2013 American Community Survey Five-Year Estimates; Table Dp04,
+    U.S. Census Bureau, 2019-2023 American Community Survey Five-Year Estimates.)
+
+
+Rents in Bordentown City are slightly lower than in Burlington County overall, with 46.5%
+of units in the City renting for more than $1,500 per month, compared to 62.7% of units in
+Burlington County renting in that range. The median rent in Bordentown City in 2023 was
+$1,468, compared to $1,669 across Burlington County.
+
+Based on 2024 Illustrative Rents for Affordable Housing, very few units appear to be
+affordable to very low-income renters. Approximately 412 units, or 46.7% of all rental
+units in the City, however, may be affordable to low-income renters, and an additional 236
+
+
+
+                                                         10
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 11 of 34 Trans ID: LCV20252081194
+
+
+
+
+units, or 26.7% of all rental units in the City, may be affordable to moderate-income renters.
+In total, approximately 648 rental units, or 73.4% of all renter-occupied housing units, may
+be affordable to low- and moderate-income household, depending on household size and
+unit size. See Bordentown City and Burlington County Gross Rent, 2023.
+
+Bordentown City and Burlington County Gross Rent, 2023
+                                       Units in                             Units in
+                                     Bordentown                            Burlington
+       Gross Rent                        City               Percent         County               Percent
+
+       Less than $500                        0                0.0%            1,210               2.9%
+
+       $500 to $999                         58                6.5%            3,431               8.2%
+
+       $1,000 to $1,499                    412               46.1%           11,958              28.8%
+
+       $1,500 to $1,999                    236               26.7%           12,181              29.3%
+
+       $2,000 to $2,499                    126               14.2%            7,886               19%
+
+       $2,500 to $2,999                     50                5.6%            3,009               7.2%
+
+       $3,000 or more                        0                0.0%            1,766               4.2%
+
+       No rent paid                          0                0.0%            1,280               3.0%
+
+       Total                                882             100.0%           41,441              100.0%
+
+           Median Rent                            $1,468                                $1,669
+
+           Source: Table DP04, 2019-2023 American Community Survey Five-Year Estimate
+
+
+Housing is generally considered to be affordable if the costs of rents, mortgages, and other
+essential costs consume 28% or less of an owner-household’s income or 30% or less of a
+renter-household’s income (homeowner rates are lower to account for the additional home
+maintenance costs associated with ownership). In Bordentown City, 13.6% of all
+households are spending more than 30% of their incomes on housing.
+
+
+
+
+                                                       11
+  BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 12 of 34 Trans ID: LCV20252081194
+
+
+
+
+  Housing Affordability, 2023
+Monthly Housing Costs as                 Owner-             % of                           % of             All
+% of Income                             Occupied            Total           Renter         Total         Occupied           % of Total
+
+Less than 20 Percent                        302              49%             242          27.4%              544                36.3%
+
+20 to 29 Percent                            207             33.6%            251          28.4%              458                30.5%
+
+30 Percent or More                          107             17.3%            98            11.%              205                13.6%
+
+Total                                       616                              882                            1,498
+
+  Source: Table DP04, 2019-2023 American Community Survey Five-Year Estimate
+
+
+
+
+  In 2023, no housing units were estimated to lack adequate kitchen facilities, and only 19
+  housing units were estimated to lack complete plumbing facilities. This data can, but do not
+  always, indicate substandard housing stock that needs to be rehabilitated. Overcrowded
+  housing can sometimes be occupied by lower income households who share space to save
+  on housing costs.
+
+  Indicators of Housing Deficiency, 2023
+                                       Incomplete               Incomplete              Crowded or Overcrowded, and
+        Indicator                       Plumbing                  Kitchen                     Built Pre-1950
+
+        Number of Units                      19*                       0*                                  0*
+
+         Source: Tables B25050, DP04, 2019-2023 American Community Survey Five-Year Estimate
+
+          * - The margin of error for this information exceeds the estimated counts. As such, the estimate may be unreliable.
+
+
+
+  Population Characteristics
+  The population of Bordentown City saw very little growth in population 2000 to 2020. In
+  contrast, Burlington County’s population grew during the same periods. Population Growth,
+  2000 to 2020.
+
+  Table 11. Population Growth, 2000 to 2020
+                                                                                 2000-2010           2010-2020         2000-2024 %
+    Location                2000              2010               2020
+                                                                                 % Change            % Change            Change
+
+Bordentown City               3,969             3,978               3,993             0.2%                0.37%                 0.3%
+
+Burlington                 423,394           449,149            461,860               6%                  2.8%                  1.58%
+
+
+
+
+                                                                  12
+  BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 13 of 34 Trans ID: LCV20252081194
+
+
+
+
+New Jersey            8,414,350           8,791,894      9,288,994             4.3%                5.4%     9.4%
+
+   Source: U.S. Census 2000, 2010, 2020
+
+ Between 2013 and 2023, the American Community Survey estimated a small increase in the
+ number of Bordentown residents overall.
+
+ Age Distribution, 2013 to 2023
+                        Age Cohort              2013        Percent          2023         Percent
+
+                        Under 5                  211             5.4%          224            5.6%
+
+                        5-9                      267             6.8%          140            3.5%
+
+                        10-14                    207             5.3%          135            3.4%
+
+                        15-19                    109             2.8%            20           6.0%
+
+                        20-24                    206             5.2%          190            4.7%
+
+                        25-34                    578           14.7%           682           17%
+
+                        35-44                    577           14.7%           573           14.3%
+
+                        45-54                    554           14.1%           514           12.8%
+
+                        55-59                    330             8.4%          287            7.2%
+
+                        60-64                    312             7.9%          248            6.2%
+
+                        65-74                    341             8.7%          423           10.6%
+
+                        75-84                    146             3.7%          268            6.7%
+
+                        85+                       87             2.2             82           2.0%
+
+                        Total                   3,925      100.0%            4,006       100.0%
+
+                        Median Age                      41.7                          41.8
+
+                 Source: Table DP05, U.S. Census Bureau, 2009-2013 American Community Survey Five-Year
+                 Estimates; Table DP05, U.S. Census Bureau, 2019-2023 American Community Survey Five-Year
+                 Estimates
+
+
+
+
+                                                            13
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 14 of 34 Trans ID: LCV20252081194
+
+
+
+
+Household Characteristics
+The U.S. Census Bureau defines a household as those persons who occupy a single room or
+group of rooms constituting a housing unit; however, these persons may or may not be
+related. The total number of households is fairly flat from 2013 to 2023 in Bordentown
+(1,819 to 1,830) as well as the average household size, which decreased from 2.37 to 2.29
+persons per household.
+
+Household Size of Occupied Units, 2013-2023
+       Household Size                                 2013                                     2023
+        (Persons per
+         Household)                   Households               Percent           Households           Percent
+           1 Person                         718                 39.5%                  736            40.2%
+           2 Persons                        554                 30.5%                  695             38%
+           3 Persons                        334                 18.4%                  209            11.4%
+          4+ Persons                        212                 11.7%                  190            10.4%
+              Total                        1,819                100%                  1,830            100%
+ Average Household Size                               2.37                                     2.29
+ Sources: Table S2501, 2009-2013 and 2019-2023 American Community Survey Five-Year Estimates
+
+
+
+
+In 2023, the number of households that were families in Bordentown City totaled 1,830.
+33.6% of all families were headed by married couples, 27.3% of family households were
+female-headed with no spouse present, and 26% of family households with no spouse
+present were male-headed. Additionally, 40.2% consisting of people living alone.
+
+
+
+
+                                                          14
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 15 of 34 Trans ID: LCV20252081194
+
+
+
+
+Household Composition, 2023
+  Household Type                                                        Households                   Percent
+
+  Family households                                                         1,094                    59.7%
+
+  Married-couple household                                                     615                   33.6%
+
+       With Children Under 18                                                  201                   10.9%
+
+  Male householder, no spouse present                                          477                    26%
+
+       With Children Under 18                                                    29                   1.5%
+
+  Female householder, no spouse present                                        500                   27.3%
+
+       With Children Under 18                                                    80                   4.3%
+
+  Householder living alone                                                     736                   40.2%
+
+  Total Households                                                          1,830
+
+  Source: Table DP02, U.S. Census Bureau, 2019-2023 American Community Survey Five-Year Estimate
+
+
+
+
+When the number of bedrooms in a unit is compared to the size of households in
+Bordentown, there appears to be many more single-person households with single person
+households make up 40% of all households.
+
+Unit Size vs. Household Size, 2023
+
+                                  Number         Percent of          Household            Number of          Percent of Total
+   Unit Size                      of Units       Total Units           Size               Households           Households
+   Studio or 1 bedroom                 605          30%                1 Person                736                40.2%
+   2 bedrooms                          602          29.9%             2 Persons                145                 38%
+   3 bedrooms                          536          26.6%             3 Persons                209                11.4%
+   4 or more bedrooms                  151            7.5%           4+ Persons                190                 10.4
+   Total                            2,016`        100.0%                 Total               1,830               100.0%
+ Sources: Tables DP04 and S2501, 2019-2023 American Community Survey Five-Year Estimate
+
+
+
+
+Income Characteristics
+Households in Bordentown have, trended similarly with households in Burlington County,
+the median income in 2023 in Bordentown City lagged $92,208 and comparable figures for
+the county were $102,532. The City's poverty rates for individuals and for families is lower
+
+
+
+                                                          15
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 16 of 34 Trans ID: LCV20252081194
+
+
+
+
+than the county’s individual poverty rate. Individual and Family Poverty Rates 2023, for the
+comparison.
+
+Estimated Household Income in Bordentown City and Burlington County, 2023
+                                         Bordentown
+                                                                                 Burlington
+   Household Income                          City              Percent                               Percent
+
+   Less than $10,000                             47              2.6%                5,321               3.0%
+
+   $10,000-$14,999                               35              1.9%                3,558               2.0%
+
+   $15,000-$34,999                               43              2.3%                6,894               3.8%
+
+   $35,000-$49,999                               83              4.5%               13,349               8.0%
+
+   $50,000-$74,999                             132               7.2%               23,315           13.0%
+
+   $75,000-$99,999                             248              13.6%               24,565           13.7%
+
+   $100,000-$149,999                           553              30.2%               36,715           20.5%
+
+   $150,000+                                   158               8.6%               24,051           13.4%
+
+   Total                                                       100.0%                               100.0%
+
+   Median Income                                      $91,208                                 $102,532
+
+           Source: 2019-2023 American Community Survey 5-Year Estimates (DP03)
+
+
+Individual and Family Poverty Rates, 2023
+                    Jurisdiction                            Families             Individuals
+                    Bordentown City                            3.3%                 5.8%
+                    Burlington County                          4.5%                 6.8%
+                        Source: 2019-2023 American Community Survey 5-Year Estimates (DP03)
+
+Employment Characteristics
+
+Covered Employment by Sector, shows the distribution of employment by civilian industry
+for Bordentown City workers in 2023. Half of employment in Bordentown City (50.7%) is
+made up by the educational and administrative services sectors. The next largest
+employment sectors in the City consisted of food services (8.7%), and real estate, and
+financing (9.4%).
+
+
+
+
+                                                          16
+  BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 17 of 34 Trans ID: LCV20252081194
+
+
+
+
+  Covered Employment by Sector, 2023
+Industry                                                                                       Number   Percent
+
+Agriculture                                                                                        33     1.5%
+
+Construction                                                                                       65     3.0%
+
+Manufacturing                                                                                      96     4.5%
+
+Wholesale Trade                                                                                    30     1.4%
+
+Retail Trade                                                                                     165      7.8%
+
+Transportation and Warehousing                                                                   107       5%
+
+Information                                                                                        32     1.5%
+
+Financing and Insurance, Real Estate, Renting, and Leasing                                       197      9.4%
+
+Professional, Scientific, and Technical Services                                                 305     14.5%
+
+Educational Services                                                                             536     25.5%
+
+Arts, Entertainment, Recreation, Accommodation and Food Services                                 183      8.7%
+
+Other                                                                                              55     2.6%
+
+Public Administration                                                                            300     14.3%
+
+Total                                                                                           2,104    100%
+
+  Source, Previous Table: On The Map, Center for Economic Studies, U.S. Census Bureau, 2023.
+
+
+
+
+  A municipality’s jobs-to-housing ratio is a rough indicator of the degree to which the
+  municipality has been able to generate sufficient housing to accommodate its workers. A
+  ratio of between 0.75 and 1.5 is generally considered to indicate a healthy balance between
+  the number of jobs in a municipality and the municipality’s ability to house all its workers
+  who wish to live there. Based on Tables 4 and 18 above, Bordentown City has a jobs-
+  housing ratio of 1.29, within the range considered healthy. If additional jobs in the City
+  become available, the City may need to examine whether it needs to take steps to encourage
+  additional housing.
+
+  Population Projections
+
+  The Delaware Valley Regional Planning Commission (DVRPC), the Metropolitan Planning
+  Organization area that includes Bordentown City = as well as the remainder of Burlington
+  County, published population and employment projections for the year 2050. DVRPC
+  projects that the City’s population and employment will increase by 14.2% and 0.6%%,
+
+
+
+                                                               17
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 18 of 34 Trans ID: LCV20252081194
+
+
+
+
+respectively, from 2020 to 2050. Population and Employment Projections shows, these
+rates as a comparison.
+
+Population and Employment Projections, 2020 to 2050
+                                   Bordentown City                            Burlington County
+
+                          2020          2050         % Change          2020       2050      % Change
+
+    Population           3,993         4,654            14.2%         461,860     481,500         4%
+
+    Employment           1,825         1,998            0.6%          272,361     304,810     10.6%
+
+       Source: Delaware Valley Regional Planning Commission, 2024
+
+
+
+
+Even with the affordable housing development as potentially available in this plan, this
+additional population growth seems unlikely over the next 25 years given the City's lack of
+suitable land for additional residential development.
+
+The Fair Housing Act requires that housing plans include a 10-year projection of new
+housing units based on the number of certificates of occupancy, development applications
+approved, probable developments, as well as other indicators deemed appropriate (N.J.S.A.
+52:27D-310.b). Annual building certificates of occupancy for residential construction in
+Bordentown City during the years 2013 through 2023 averaged 2.0 units and demolition
+permits averaged 1.8 units. Not counting 2016 demolition permits as an outlier year, the
+City, on average has gained 0.2 housing units each year in background. See Table:
+Background Residential Growth, 2013-2023.
+
+Background Residential Growth, 2013-2023
+                                  Certificates of
+         Year                                                       Demolitions       Net New Dwellings
+                                   Occupancy
+
+         2013                              1                            1                     0
+
+         2014                              3                            1                     2
+
+         2015                              5                            5                     0
+
+         2016                              0                            1                     -1
+
+         2017                              0                            3                     -3
+
+         2018                              1                            2                     -1
+
+         2019                              2                            2                     0
+
+
+
+
+                                                        18
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 19 of 34 Trans ID: LCV20252081194
+
+
+
+
+                                  Certificates of
+          Year                                                 Demolitions   Net New Dwellings
+                                   Occupancy
+
+          2020                            2                          0              2
+
+          2021                            1                          0              1
+
+          2022                            1                          2              -1
+
+          2023                            4                          1              3
+
+          Total                          20                         18              2
+
+    Annual Average                       2.0                        1.8            0.2*
+
+Source: NJDCA Construction Reporter, Building Permits, Yearly Summary Data
+
+* Excludes 2016 demolition permits as outlier year
+
+
+
+
+II. LAND USE, ZONING AND INFRASTRUCTURE ANALYSIS
+A land use and zoning analysis is utilized to help determine if the City has adequate capacity
+and how it can accommodate expected affordable housing need, and includes the
+following:
+
+   §    An analysis of the available existing and planned infrastructure.
+   §    The anticipated demand for types of uses permitted by zoning based on
+        present and anticipated future demographic characteristics of the Township and
+        anticipated land use patterns.
+   §    The economic development policies and constraints on development with existing or
+        planned measures.
+
+Land Use Patterns and Economic Development Policy
+
+Bordentown City consists of a mix of uses including residential, commercial, industrial,
+agriculture, parks and open space, public and quasi-public and vacant uses. According to
+the City's Mod IV data, the land use category, “Residential (including apartments)” has the
+highest percentage of parcels in the City, and occupies 36% of developed land. “Public
+Property” ranks first in land mass, with nearly 43%% of the area due to Riparian areas and
+the Pointe Breeze acquisition. Commercial and industrial uses occupy about 31% of the
+taxable land area.
+
+Land Use by Property Class, Bordentown City
+
+
+
+
+                                                     19
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 20 of 34 Trans ID: LCV20252081194
+
+
+
+
+    Property Class                            Parcels   Area in Acres*   Percent Area
+
+    2 - Residential (four families or less)   1152      155.6                  28%
+
+    15C - Public Property                     100       236.2                 42.6%
+
+    4A - Commercial                           125       140.7                 25.3%
+
+    1 - Vacant                                33        9.1                    1.6%
+
+    4C - Apartment                            42        43.1                   7.7%
+
+    4B - Industrial                           6         36.1                   6.5%
+
+    5A - Class I Railroad Property            5         16.8                    3%
+
+    Bordentown City Totals                    1467      554.3
+
+*Excludes Public Rights-of-way
+
+Zoning
+
+One of the goals in the City's Master Plan is to enhance and support the highway
+commercial and downtown economic vitality and community activities. The current and
+anticipated demand for economic and residential growth can be met through the City's
+current zoning and redevelopment initiatives. While some changes to the residential zoning
+have been recommended, they do not hinder the ability for the City to implement this plan.
+
+Infrastructure
+
+Potable Water
+
+Bordentown Water provides potable water service to both Bordentown City and Bordentown
+Township. It has the capacity to handle new development.
+
+Wastewater Treatment
+
+Sewer Service Area - The entire City is located within an approved sewer service area Regular
+maintenance is performed on the system, however within the older sections of City, the
+storm water sewer system is in need of maintenance.
+
+The collection system and associated trunk sewers convey flow from these populated areas
+to the Bordentown Sewer Facility. The facility provides treatment on a “first-come, first-
+serve” basis and does not have any municipal allocations.
+
+NJ State Development & Redevelopment Plan
+Bordentown city is entirely within Planning area one – metropolitan. Accordingly, development
+and redevelopment are strongly encouraged in these areas.
+
+
+
+
+                                                  20
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 21 of 34 Trans ID: LCV20252081194
+
+
+
+
+                                    21
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 22 of 34 Trans ID: LCV20252081194
+
+
+
+
+III. FAIR SHARE PLAN
+
+
+This part of the Housing Element and Fair Share Plan describes how Bordentown City intends to
+meet the affordable housing obligations that have been allocated to it in the Fourth Round. As
+noted previously, the obligations are two-fold: a Present Need obligation and a Prospective
+Need obligation. Present Need has also been called the “Rehabilitation Share” and Prospective
+Need has been called “Future Need”. The Present Need obligation is reset with each round of
+affordable housing obligation based on census data. The number of deficient housing units is
+statistically determined based on certain parameters to estimate those that are occupied by
+low- and moderate-income households.
+
+The Prospective Need obligation is cumulative in that it includes the obligations from all prior
+rounds (First, Second and Third) as well as the Fourth Round that this housing plan primarily
+addresses. The concept behind Prospective Need is that there is an anticipated growth in the
+population of New Jersey in 2025-2035 which will be composed of persons in households and
+each of those households will require housing. A certain percentage of those households have
+incomes that meet the definition of low or moderate incomes.
+
+Affordable Housing Obligations
+
+
+
+            Affordable Housing Component                               Number
+            Present Need                                                    0
+            Prospective Need
+              Prior Round Obligation                                      31
+              Third Round Obligation                                     104
+              Fourth Round Obligation                                     28
+            Total Obligation                                             163
+
+Present Need Obligation
+Present Need is defined as “the number of substandard existing deficient housing units currently
+occupied by low- and moderate-income households” and “deficient housing unit” as “housing
+that (1) is over fifty years old and overcrowded, (2) lacks complete plumbing, or (3) lacks
+complete kitchen facilities.” The City's Fourth Round rehabilitation obligation is 0.
+
+Prior Round Obligation
+The Prior Round obligation is the cumulative 1987 through 1999 new construction affordable
+housing obligation. This time period corresponds to the First and Second Rounds of affordable
+housing. The Prior Round obligation as presently structured was affirmed by a decision of the NJ
+
+
+
+
+                                               22
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 23 of 34 Trans ID: LCV20252081194
+
+
+
+
+Supreme Court in 2013 decision. The City's Prior Round obligation is 33 units/credits as
+previously calculated by COAH.
+
+Third Round Prospective Obligation
+The Third Round obligation includes the “gap” portion of the Third Round (1999-2015) when no
+valid affordable housing regulations were in force and the Third Round Prospective Need (2015-
+2025) which included the 10 year period into the future starting in July 2015. In 2001, COAH
+adopted a new rule which extended the rounds from 6 to 10 years.
+
+The City's Third Round obligation for Bordentown City is 104
+
+Fourth Round Prospective Obligation
+Prospective Need is “a projection of housing needs based on development and growth which is
+reasonably likely to occur in a region or municipality.” The City’s Fourth Round Prospective
+Need of 28 units was also calculated by DCA according to the methodology described in its
+October 2024 methodology paper.
+
+Satisfying the City's Prior and Third Round Obligation
+
+
+
+
+         Obligation Period               Obligation        Satisfied Credits       Remaining Obligation
+
+Prior Round (1987–1999)                31 units         31 units               0
+
+Third Round (1999–2025)                104 units        104 credits            0
+
+Fourth Round (2025–2035)               28 units         28 units               0
+
+Total                                  163 credits      163 credits            0
+
+
+
+
+Projects Satisfying Obligation
+
+A. Prior Round (1987–1999) – 31 Units
+        Source                   Units Credited                                Notes
+
+Clare Estates (Age-
+                        8 units                         25% cap applied
+restricted)
+
+
+
+
+                                                   23
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 24 of 34 Trans ID: LCV20252081194
+
+
+
+
+        Source                 Units Credited                                   Notes
+
+                         26 credits (from 16 units      16 Units - rental bonus credits at 2:1 capped at 8
+Clare Court
+                         + 8 bonus)                     units or 25% of Obligation
+
+
+Total                    31 credits
+
+
+
+B. Third Round (1999–2025) – 104 Units
+              Source                            Units / Credited                        Notes
+
+                                                                         Total 48 capped by 25% age-
+Mission First (Eagle Shirt)           26 age-restricted units
+                                                                         restricted rule
+
+Ocean Spray Inclusionary                                                 298 Total units proposed with 20%
+                                      52 unit
+Redevelopment                                                            set-aside = 60 units
+
+Rental Bonuses                                                           Based on rental status and income
+                                      26 credits
+(2:1, capped at 26)                                                      mix compliance
+
+
+Subtotal                              104 Units / Credits                Applied to Third Round obligation
+
+
+
+
+IV.Fourth Round Obligation
+As mentioned above, the City Fourth Round Prospective Need obligation is 28 units. The
+following formulas summarize the minimum or maximum number of Fourth Round bonuses,
+affordable family rental units, senior units, low-income, and very low-income units:
+
+Bordentown City Fourth Round Formulas
+   Maximum Bonuses = 8 units
+
+        .25 (obligation) = .25 (28) = 7 units
+
+   Minimum Family Rental Units = 14 units
+
+        .50 (obligation – claimed bonuses) = .50 (28) = 14 units
+
+   Maximum Senior Units = 8 units
+
+        .30 (obligation – claimed bonuses) = .30 (28) = 8.4 units, rounded down to 8
+
+   Minimum Low-Income = 14 units
+
+
+
+                                                   24
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 25 of 34 Trans ID: LCV20252081194
+
+
+
+
+        .50 (obligation – claimed bonuses) = .50 (28) = 14 units
+
+   Minimum Very Low-Income Units = 4 units
+
+        .13 (Fourth Round obligation - bonuses) = .13 (28) = 3.64 units; rounded up to 4 units
+
+   Minimum Very Low-Income Family Rental Units = 2 units
+
+        .50 (required very low-income units) = .50 (4) = 2 units
+
+Bordentown City proposes that its Fourth Round obligation will be addressed through:
+
+
+            Strategy                         Units / Credited                          Notes
+
+
+                                                                        Balance of 22 age-restricted units
+                                                                        after the Third Round 25% age-
+Mission First (Eagle Shirt)                                             restricted rule applied are
+                                   8 age-restricted units
+or Clare Estates                                                        available. Fourth Round rule limits
+                                                                        age-restriction to 30% = 8.4 (8)
+                                                                        units.
+
+                                                                        298 Total units proposed with 20%
+Ocean Spray Inclusionary
+                                   8 units                              set-aside = 60 units total, 52
+Redevelopment
+                                                                        utilized in prior round.
+
+
+Clare Estates                      12 Supportive Housing                12 units.
+
+
+
+Bonus                              8 Eligible                            Supportive Housing bonus
+
+
+
+Subtotal                           28 Units (36 Credits)
+
+
+
+D. Site Suitability Summary
+
+Project Name            Block(s)   Lot(s)       Suitability Notes
+
+                                                13 Supportive Housing Units (2:1 bonus in prior and Third
+Clare Estates           1404       24
+                                                Round= 26 credits)
+
+
+
+
+                                                  25
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 26 of 34 Trans ID: LCV20252081194
+
+
+
+
+                                           120-unit Inclusionary Rental Project (20% = 24 affordable
+                                           units)
+
+                                           This site is an adaptive reuse and is fully developable with
+                                           no environmental constraints. The owner is a well know
+                                           affordable housing developer Community Investment
+                                           Strategies.
+
+                                           48-unit 100% senior affordable rental project (25% age
+                                           cap in Third Round and 30% age cap in Fourth = 34 units
+Mission First (Eagle
+                       1304       1        applied)
+Shirt)
+                                           Fully constructed and occupied.
+
+                                           298-unit family rental project (20% affordable = 60 units.)
+Ocean
+                       1601,1702 Various The is the redevelopment of the former Ocean Space
+Spray/Cranberry                          cranberry juice production facility. Site Plan approval
+                                         was granted February 3, 2020
+
+
+
+
+E. Other Sites Considered
+
+Name                   Block(s)   Lot(s)   Suitability Notes
+
+
+Third Street           902        20       Site is in private hands and serves as parking for the
+                                           office building across Third Street.
+
+Third & Ann            1101       5        Site is occupied but could be a future
+                                           redevelopment parcel
+Farnsworth Avenue
+                       1307       13, 16   Preexisting Building - Potential Write-down buy-
+Apartments
+                                           down in the future or Redevelopment
+
+
+
+
+                                             26
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 27 of 34 Trans ID: LCV20252081194
+
+
+
+
+V. Bordentown City's Affordable Housing Commitment and Proposed
+Mechanisms
+
+Rehabilitation
+
+The City has no Present Need obligation. The City will however continue to be a resource for
+residents, particularly those of low income status, gain access to funds through the County
+
+Inclusionary Development
+
+The City will adopt an inclusionary development policy for all qualifying projects. Resolutions
+of approval shall now contain the following standard language:
+
+     •   The applicant shall provide a set aside of 20% out of the total number of housing units
+         approved to be built. The affordable units shall be deed restricted with affordability
+         controls and affirmatively marketing as directed by the Municipal Housing
+         Administrator and shall be in compliance with UHAC (Uniform Housing and
+         Affordability Controls), except that in lieu of the requirement that 10% of all rental
+         affordable units shall be affordable at 35% or less of median income, the development
+         shall provide that 13% of all rental affordable units shall be affordable at 30% or less
+         of median income.
+
+100% Affordable
+The City will entertain 100% affordable projects but none are anticipated at this moment.
+
+Supportive and/or Special Needs Housing
+
+The City is committed to providing the most appropriate type of supportive housing and
+resources for seniors and residents with special needs. To this end, Bordentown City
+continues to embrace a variety of public-private partnerships with community and non-profit
+organizations, institutional partners and governmental departments to develop and maintain
+special needs housing/group homes within the City. Zoning within all of the City's Residential
+zones is already inclusive of special needs housing/group homes.
+
+Development Fee Ordinance/Spending Plan
+
+The City will be amending its affordable housing Development Fee Ordinance in accordance
+with the Statewide Non-residential Development Fee Act and to reflect the updated law
+rather than COAH's jurisdiction. A copy of the proposed Ordinance is included in an Appendix
+to this Plan.
+
+Market-to-Affordable Program
+
+The City may also consider creating a market-to-affordable housing program in the future,
+utilizing its Affordable Housing Trust Fund monies if necessary and if permitted by Plan
+amendment and subsequent certification, to allow the purchase or subsidy of existing market
+
+
+
+
+                                               27
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 28 of 34 Trans ID: LCV20252081194
+
+
+
+
+rate-housing units so that they may be sold or rented to low and moderate-income
+households.
+
+Fair Share Ordinance & Affirmative Marketing
+
+The City of Bordentown will prepare a Fair Share Ordinance as referenced in the rules, and in
+accordance with the Uniform Housing Affordability Controls at NJAC 5:80-26.15. Generally, the
+Fair Share Ordinance will govern the establishment of affordable units in the City, as well as
+regulating the occupancy of such units. The City’s Fair Share Ordinance covers the phasing of
+affordable units, the low/moderate income split, bedroom distribution, occupancy standards,
+affordability controls, establishing rents and prices, affirmative marketing, income qualification,
+etc.
+
+The City of Bordentown will prepare an affirmative marketing plan as referenced in COAH’s
+rules, at NJAC 5:94-7.3, and in accordance with the Uniform Housing Affordability Controls at
+NJAC 5:80-26.15. The affirmative marketing plan is a regional marketing strategy designed to
+attract buyers and/or renters of all majority and minority groups to the affordable housing units
+in the municipality. In addition to site suitability, the developer of the affordable housing
+project will be required to meet the applicable requirements of UHAC:
+
+      §     Administrative Entity. The City will require developers to engage an administrative
+            agent, as required by state regulation, to administer and affirmatively market the
+            units at the development, income-qualify applicants, place minimum 40-year
+            affordability controls on the units for the anticipated family rental units, and provide
+            long-term administration of the units in accordance with rules at N.J.A.C. 5:93-1 et
+            seq. and N.J.A.C. 5:80-26.1 et seq.
+      §     Very Low-, Low- and Moderate-Income Distribution. At least half of the affordable
+            units developed will be affordable to low-income households, with at least 13%
+            affordable to very low-income households.
+      §     Affirmative Marketing. The affordable units will be affirmatively marketed in
+            accordance with N.J.A.C. 5:93-1 et seq. and N.J.A.C. 5:80-26.1 et seq.
+      §     Controls on Affordability. As noted, the affordable units will have minimum 40-year
+            affordability controls.
+      §     Bedroom Distribution. The distribution of the number of bedrooms will follow UHAC
+            regulations.
+
+Once DCA and HMFA finalize their rule proposals (not anticipated before June 30, 2025),
+the City will also prepare an updated Affirmative Marketing Plan in accordance with
+DCA’s proposed new regulations at N.J.A.C. 5:99, UHAC’s new 2025 regulations that are
+anticipated to be released shortly, and any remaining relevant COAH rules not
+superseded by either the proposed 2025 DCA regulations or the upcoming 2025 revised
+UHAC rules. Bordentown City will adopt an Affirmative Marketing Plan for all affordable
+housing sites. The City’s Affirmative Marketing Plan, is designed to attract buyers and/or
+renters of all majority and minority groups, regardless of race, creed, color, national
+
+
+
+                                                28
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 29 of 34 Trans ID: LCV20252081194
+
+
+
+
+origin, ancestry, marital or familial status, gender, affectional or sexual orientation,
+disability, age or number of children to the affordable units located in the City.
+Additionally, the Affirmative Marketing Plan is intended to target those potentially
+eligible persons who are least likely to apply for affordable units and who reside in the
+City 's housing region, which consists of Burlington, Camden and Gloucester Counties.
+
+
+VI. Compliance
+
+In addition, per the more recently amended FHA (P.L. 2024, c.2) at N.J.S.A. 52:27D-329.1, at
+least half of very low-income units addressing a Fourth Round Prospective Need must be
+“available for families with children.” In accordance with the following formulas, the City’s
+Fourth Round obligation must consist of at least four very low-income units, two of which are
+available to families with children.
+
+    Minimum Very Low-Income Units = 4 units
+
+        .13 (Fourth Round obligation - bonuses) = .13 (28) = 3.51 units; rounded up to 4 units
+
+    Minimum Very Low-Income Family Rental Units = 2 units
+
+        .50 (required very low-income units) = .50 (4) = 2 units
+
+In accordance with Chapter 28-17-16, the City will ensure that, as part of any development or
+redevelopment agreement that includes the development of affordable housing, affordable
+units will be deed-restricted as available to households earning 30% or less of area median
+income. In addition, the City, depending on the level of affordable housing fees obtained, may
+allocate funds in its Spending Plan to assist small-scale developers to provide very low-income
+units, the individual payments for which will be the subject of a developer’s or redeveloper’s
+agreement.
+
+Multigenerational Family Housing Continuity
+
+The FHA requires an HEFSP to provide an analysis of the extent to which municipal ordinances
+and other local factors advance or detract from the goal of preserving multigenerational family
+continuity as expressed in the recommendations of the Multigenerational Family Housing
+Continuity Commission, adopted pursuant to paragraph (1) of subsection f. of 23 section 1 of
+P.L.2021, c.273 (N.J.S. 52:27D-329.20). As of May 2025, no recommendations have been issued
+by the Commission.
+
+Monitoring
+
+In accordance with the requirements of N.J.S.A. 52:27D-329.2 and -329.4 as amended by P.L.
+2024 c.2, by February 15 of each year of the Fourth Round, the Municipality will provide a
+detailed accounting through DCA’s new Affordable Housing Monitoring System (“AHMS”) of all
+affordable units constructed and construction starts during the prior calendar year, and of all
+residential and non-residential fees collected, interest earned, and other income collected and
+
+
+
+                                               29
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 30 of 34 Trans ID: LCV20252081194
+
+
+
+
+deposited into Bordentown City’s affordable housing trust fund during the prior calendar year.
+The City will also provide a detailed accounting in AHMS of all expenditures of affordable
+housing trust funds during the prior calendar year, including purposes and amounts, and
+documentation of the balance remaining in the affordable housing trust fund as of December 31
+of that year.
+
+Bordentown City or any other interested party may file an action through the Program seeking a
+realistic opportunity review at the midpoint of the certification period and shall provide for
+notice to the public, including a realistic opportunity review of any inclusionary development
+site in this Housing Element and Fair Share Plan that has not received preliminary site plan
+approval prior to the midpoint of the 10-year round. If such an action is initiated, The City may
+propose one or more alternative sites with an accompanying development plan or plans that
+provide a realistic opportunity for the same number of affordable units and are otherwise in
+compliance with the FHA and the Mount Laurel doctrine.
+
+As part of the implementation of this Housing Element and Fair Share Plan, the City will execute
+an agreement with CGP&H or another qualified Administrative Agent to administer a municipal
+rehabilitation program.
+
+Bordentown City has met its Prior, Third, and Fourth Round affordable housing obligations
+through a mix of constructed units, redevelopment plans, and innovative programs such as the
+buy-down conversion of small-scale rental buildings. The City has planned for growth that
+reflects the scale and capacity of its infrastructure and historic built environment.
+
+
+
+
+                                              30
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 31 of 34 Trans ID: LCV20252081194
+
+
+
+
+Appendix A: Maps
+
+   •   Bordentown Zoning Map
+   •   Site Suitability Map
+   •   Project Site Locations Map
+   •   Ocean Spray Redevelopment Map
+
+
+
+
+                                       31
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 32 of 34 Trans ID: LCV20252081194
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 33 of 34 Trans ID: LCV20252081194
+BUR-L-000165-25 07/23/2025 10:09:22 AM Pg 34 of 34 Trans ID: LCV20252081194
+

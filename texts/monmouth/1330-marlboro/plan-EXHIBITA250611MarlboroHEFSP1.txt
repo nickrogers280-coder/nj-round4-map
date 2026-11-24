@@ -1,0 +1,2278 @@
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 1 of 47 Trans ID: LCV20251814247
+
+
+
+
+                      MARLBORO TOWNSHIP
+               Monmouth County, New Jersey
+
+
+
+
+                 Housing Element and Fair Share Plan
+                                    June 6, 2025
+                            Revised June 12, 2025
+                                      Prepared by:
+
+
+
+
+                                      Prepared by:
+
+
+
+
+                          Laura J. Neumann, PE, PP, CME, CFM
+
+              New Jersey Professional Engineer License No. 24GE04731300
+               New Jersey Professional Planner License No: 33LI00609000
+
+The original document was appropriately signed and sealed in accordance with the Chapter 41
+                    Title 13 of the State Board of Professional Planners.
+MON-L-000313-25 06/20/2025 12:54:12 PM Pg 2 of 47 Trans ID: LCV20251814247
+
+
+
+
+                          ACKNOWLEDGMENTS:
+
+                        Mayor and Township Council
+
+                            Mayor Jonathan Hornik
+
+                     Michael J. Milman, Council President
+
+                      Juned Qazi, Council Vice President
+
+                            Antoinette M. DiNuzzo
+
+                                Michael Scalea
+
+                                Iqleen K. Virdi
+
+                    Marlboro Township Planning Board
+
+                            Mayor Jonathan Hornik
+
+                        Andrew Pargament, Chairman
+
+                       David Gagliano, Vice Chairman
+
+                            Lynn Franco, Secretary
+
+                    Councilwoman Antoinette M. DiNuzzo
+
+                      Dr. Michael Adler, Mayor Designee
+
+                                 David Fisher
+
+                                 Rohit Gupta
+
+                               Stephen Kansky
+
+                               Andrew Kessler
+
+                                 Drew Tanner
+
+                   Ronald Cucchairo, Esq. - Board Attorney
+
+             Laura Neumann, PE, PP, CME, CFM - Board Engineer
+
+                  Suzanne Rubinstein - Administrative Officer
+      MON-L-000313-25 06/20/2025 12:54:12 PM Pg 3 of 47 Trans ID: LCV20251814247
+
+
+
+
+TABLE OF CONTENTS
+Introduction ................................................................................................................................... 1
+  Location and Context .................................................................................................................. 1
+  Affordable Housing ..................................................................................................................... 2
+  Marlboro Township’s Compliance History................................................................................. 3
+Housing Plan Element .................................................................................................................. 6
+  Analysis of Demographic, Housing, and Employment Characteristics ...................................... 8
+  Demographics .............................................................................................................................. 8
+    Population ................................................................................................................................ 8
+    Population Projections ............................................................................................................. 8
+    Population Composition by Age.............................................................................................. 9
+    Households ............................................................................................................................ 11
+    Existing Housing Conditions ................................................................................................. 13
+    Housing Type and Size .......................................................................................................... 14
+    Housing Values and Contract Rents ...................................................................................... 15
+    Housing Conditions ............................................................................................................... 17
+    Housing Stock........................................................................................................................ 17
+  Employment Data ...................................................................................................................... 18
+    Employment Status ................................................................................................................ 18
+    Worker Classification ............................................................................................................ 19
+    Workforce by Sector .............................................................................................................. 19
+    Occupations by Type ............................................................................................................. 21
+    Commuting to Work .............................................................................................................. 21
+Fair Share Plan ........................................................................................................................... 23
+  Fair Share Obligation ................................................................................................................ 24
+  Present Need (Rehabilitation) Obligation ................................................................................. 25
+  Prior Round Obligations and Compliance Mechanisms (1987-1999) ...................................... 26
+  Third Round Obligation and Compliance Mechanisms ............................................................ 34
+  Fourth Round Obligations ......................................................................................................... 38
+  Fourth Round Compliance Mechanisms ................................................................................... 39
+  Consideration of Lands Suitable for Affordable Housing ........................................................ 42
+Housing Administration ............................................................................................................. 43
+  Affordable Housing Ordinance & Affirmative Marketing........................................................ 43
+  Affordable Housing Trust Fund ................................................................................................ 43
+    MON-L-000313-25 06/20/2025 12:54:12 PM Pg 4 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+INTRODUCTION
+
+L OCATION AND C ONTEXT
+Marlboro Township is 30.6 square miles in size and is located in the western part of Monmouth
+County, bordering on Middlesex County. Its neighboring municipalities are Old Bridge
+Township to the northwest, Matawan Borough and Aberdeen Township to the north, Holmdel
+Township to the northeast, Colts Neck Township to the southeast, Freehold Township to the
+south, and Manalapan Township to the southwest. The main highways servicing the Township
+are State Route 18, which bisects the Township and runs on a diagonal from northwest to
+southeast; US Highway Route 9, which crosses through Old Bridge and enters through a small
+western portion of the Township until it reaches the Manalapan border to the southwest; State
+Highway Route 79, which runs almost directly down the center of the Township; and Newman
+Springs Road (Route 520), which runs east/west through the center of the Township.
+
+
+
+
+The Township can be characterized as a developed suburban municipality and is located in State
+Planning Areas 2, 3, and 5. These planning areas include Suburban, Fringe, and Environmentally
+Sensitive areas. Marlboro does not contain any designated centers.
+
+
+
+
+                                                                                                1
+    MON-L-000313-25 06/20/2025 12:54:12 PM Pg 5 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+A FFORDABLE H OUSING
+In 1975 the New Jersey Supreme Court determined, in So. Burlington County. NAACP v.
+Township of Mount Laurel (“Mount Laurel I”) that every developing municipality in New Jersey
+had an affirmative obligation to provide a “realistic opportunity” for its fair share of low-and
+moderate-income housing. In 1983, frustrated with the lack of voluntary compliance, the
+Supreme Court sought to create an incentive for voluntary compliance in its “Mount Laurel II”
+decision. In this decision, the Court exposed municipalities that refused to comply voluntarily to
+the possibility of builder’s remedy relief. The Court also called for the state legislature to enact
+legislation that would save municipalities from the inefficiency of having the courts determine
+their affordable housing needs.
+
+In 1985 the Legislature adopted the Fair Housing Act (N.J.S.A. 52:27D-301 et. seq.) (“FHA”).
+The FHA created the New Jersey Council on Affordable Housing (COAH) and charged COAH
+with the responsibility of adopting regulations by which municipalities could determine their fair
+share responsibilities and the means by which they could satisfy those responsibilities. The
+Legislature also sought to promote voluntary compliance and empowered municipalities to
+submit to COAH’s jurisdiction and voluntarily comply under the protections of the COAH
+process.
+
+Pursuant to the FHA, COAH adopted regulations for the first housing cycle in 1986; which
+covered the years 1987 through 1993 (“First Round”) and for the second housing cycle in 1994;
+which covered the years 1993 through 1999 (“Second Round”). Under both the First and Second
+Rounds, COAH utilized what is commonly referred to as the “fair share” methodology. COAH
+utilized a different methodology, known as “growth share,” beginning with its efforts to prepare
+Third Round housing-need numbers.
+
+COAH first adopted the Third-Round rules in 2004; which were to cover the years 1999 through
+2014. The “growth share” approach created a nexus between the production of affordable
+housing and future residential and non-residential development within a municipality, based on
+the principle that municipalities should provide affordable housing opportunities proportionate to
+their market rate residential growth, and that along with employment opportunities there should
+be proportionate opportunities for affordable housing. Each municipality was required to project
+the amount of residential and nonresidential growth that would occur during the period 2004
+through 2014 and prepare a plan to provide proportionate affordable housing opportunities. The
+regulations were challenged and in January 2007, the New Jersey Appellate Division invalidated
+key aspects of COAH’s third round rules and ordered COAH to propose and adopt amendments
+to its rules to address the deficiencies it had identified.
+
+COAH adopted new Third Round rules in May of 2008 and subsequently adopted amendments
+that became effective on October 20, 2008. Changes to the Fair Housing Act were also adopted
+in July of 2008 (P.L. 2008 c. 46 on July 17, 2008). The COAH rules and regulations adopted in
+2008 were subsequently challenged, and in an October 2010 decision the Appellate Division
+invalidated the “Growth Share” methodology, and also indicated that COAH should adopt
+regulations pursuant to the “Fair Share” methodology utilized in the First and Second Rounds.
+The Supreme Court affirmed this decision in September 2013, invalidating the third iteration of
+the Third Round regulations and sustaining the invalidation of growth share, and directing
+
+
+                                                                                                  2
+      MON-L-000313-25 06/20/2025 12:54:12 PM Pg 6 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+COAH to adopt new regulations pursuant to the methodology utilized in the First and Second
+Rounds. In October of 2014 COAH was deadlocked and failed to adopt their newly revised Third
+Round regulations. Fair Share Housing Center, who was a party in the earlier cases, responded
+by filing a motion in aid of litigants’ rights with the New Jersey Supreme Court. On March 20,
+2015, the Court ruled that COAH was effectively dysfunctional, and consequently returned
+jurisdiction of affordable housing issues back to the trial courts as it had been prior to the
+creation of COAH in 1986.
+
+Since the 2015 Mt. Laurel IV decision, municipalities have turned to the courts to seek a
+declaratory judgement of their housing plans to determine whether they are meeting their
+constitutional affordable housing obligations, and to be granted immunity from any “builder’s
+remedy” lawsuits. With no COAH functioning and providing guidance to municipalities to
+determine their municipal fair share of statewide and regional obligations, a number of
+independent groups produced their own reports to determine individual obligations across the
+state. In several court decisions in 2016 and 2018, judges in Middlesex and Mercer County
+developed a methodology following closely one proposed by Fair Share Housing Center to
+determine municipal obligations. In the 2018 decision by Judge Jacobson, it was further
+determined that the initial period of the Third Round which had not been addressed (1999 –
+2015) known as the “gap period” is to be included in each municipality’s fair share calculations.
+
+In March of 2024, P.L. 2024, c.2 was signed into law establishing new procedures for
+determining statewide needs and municipal obligations for low and moderate income housing.
+This new law formally abolished COAH and established a new “Program” for resolving
+affordable housing disputes, as well as the authority to review and certify municipal fair share
+housing plans. The law required municipalities to determine their own fair share obligations by
+applying the methodology of the Jacobson decision in Mercer County as it related to the Third
+Round, and adopt a binding resolution setting those obligation numbers. The law also provided
+revisions to the crediting structures for affordable units, with changes to the types of affordable
+units that are permitted to be granted bonus credits. The law established timelines for submission
+of documents to demonstrate compliance with the Fair Housing Act.
+
+M ARLBORO T OWNSHIP ’ S C OMPLIANCE H ISTORY
+On December 24, 1985, a consent order was given to Marlboro Township which was amended in
+1990, 1993, and 1995. The consent order established the Township’s 1985-1990 fair share
+obligation at 680 units and 29 rehabilitation units. The order recognized credit for 26 previously
+rehabilitated units and 22 affordable units under the Hamilton Mobile Home Park. The Consent
+Order accounted for the following:
+
+                                   1985 Consent Order Summary
+                                                   Affordable    Approved
+  Site     Property                                                           Development Fee
+                                                      Units        RCA
+  1        Glenbrook                                   80            62                -
+  2B       Spalliero-Woodcliff                          -            99                -
+  3        Kovacs (3A, 3B, & 3C)                        -            -             $274,000
+
+
+
+
+                                                                                                    3
+      MON-L-000313-25 06/20/2025 12:54:12 PM Pg 7 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+  5A       Weitz/Kahane – Junction Trail                -           22                -
+  6&7      Penn/Fed Equity (Pointe de Jardine)         101           -                -
+  8        Schmelzer R40/30                             -            -            $502,500
+
+The Township of Marlboro submitted for second round substantive certification on April 4,
+1995. The Court order was again amended on January 21, 1997. COAH requested additional
+information to accompany the requested second round substantive certification, which eventually
+required an amended Housing Element and Fair Share Plan be adopted by the Marlboro
+Township Planning Board. This led to Marlboro Township re-petitioning for substantive
+certification on August 19, 1998.
+In 1999, COAH found two facilities previously listed for credit by the Township, the New Hope
+and Discovery facilities, were not eligible for credit. Subsequently, the Housing Element and
+Fair Share Plan was amended to address the obligation without the New Hope and Discovery
+facilities. The Township was directed by COAH to re-petition by July 31, 2004. The Planning
+Board amended the plan on July 21, 2004 and the Council approved the re-petition on July 22,
+2004. Marlboro Township remained in COAH’s jurisdiction through the adoption of a resolution
+on February 20, 2005. Prior to this resolution, the Township petitioned for third round
+substantive certification on February 16, 2005, well before the deadline, and submitted an
+updated Housing Element and Fair Share Plan addressing its 1987-2014 obligation.
+As a result of the Adoption of N.J.A.C. 5:94, Marlboro Township had to petition for substantive
+certification under the new regulations by December 31, 2008. A new Housing Element and Fair
+Share Plan was adopted by the Planning Board on December 17, 2008 and was endorsed by the
+Township Council shortly after. Fourteen objections were filed which led to mediation with all
+of the objectors. The Township prepared a 2010 Housing Element and Fair Share Plan as a
+result of the objections. However, after the 2010 Housing Element and Fair Share Plan was
+adopted by the Township, the growth share rules had been invalidated. Therefore, the Township
+never acquired third round substantive certification.
+Since the COAH had not promulgated effective rules to govern affordable housing since 1999, in
+March of 2015, in re Adoption of N.J.A.C. 5:96 & 5:97 by N.J. Council on Affordable Housing,
+221 N.J. 1 (2015), the courts determined that COAH had failed to perform its duties, and was not
+capable of functioning to serve its intended purpose. As a result, the courts resumed their role as
+the forum for determining municipal compliance with the Fair Housing Act. The FHA allows for
+municipalities to seek judicial review of affordable housing fair share plans and obtain a
+declaratory judgement and a judgement of repose finding that a municipality’s plans address
+their affordable housing obligation consistent with the Mt. Laurel doctrine.
+Pursuant to Judge Jacobson’s Mercer County decision in Re: Opinion on Fair Share
+Methodology to Implement the Mount Laurel Affordable Housing Doctrine for the Third Round
+(March 2018), the Township entered into negotiations with Fair Share Housing Center (FSHC)
+and intervenors, and reached a settlement to address the concerns of all parties. The Township is
+now seeking a declaratory judgment and judgment of repose. The Township engaged in
+mediation with both builder’s remedy plaintiffs and the Fair Share Housing Center, in
+accordance with In Re Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council on
+Affordable Housing, 221 N.J. 1 (2015). Marlboro Township and Fair Share Housing Center
+
+
+                                                                                                 4
+    MON-L-000313-25 06/20/2025 12:54:12 PM Pg 8 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+arrived at a comprehensive settlement agreement signed on January 8, 2019 which incorporated
+resolutions to numerous builder’s remedy cases that had been previously filed against Marlboro.
+In accordance with the Settlement Agreement, the Township prepared a Housing Element and
+Fair Share Plan dated November 22, 2019 to address Third Round compliance, which was
+adopted by the Township’s Planning Board and endorsed by the Township Council. Marlboro’s
+Housing Element and Fair Share Plan, and the mechanisms for compliance outlined therein were
+approved by the Court and the Township was granted a final judgement of compliance and
+repose on May 13, 2020 certifying that Marlboro’s Third Round Fair Share Plan satisfied the
+Township’s affordable housing obligations.
+In response to the March 20, 2024 amendments to the Fair Housing Act, the Township adopted
+Resolution # 2025-076 calculating a present need obligation of 5 units and a Fourth Round
+prospective need obligation of 279 units. This resolution and determination was challenged by
+Fair Share Housing Center and the New Jersey Builder’s Association. Through the Affordable
+Housing Dispute Resolution Program, the Township and the challengers agreed that Marlboro
+Township will have a Fourth Round prospective need obligation of 370 units of low and
+moderate income housing.
+This Housing Plan Element and Fair Share Plan has been prepared in accordance with the
+requirements of P.L. 2024, c. 2 to satisfy the Township’s municipal obligation to provide for its
+fair share of the regional need for low and moderate income housing for the Fourth Round period
+of 2025 – 2035.
+
+
+
+
+                                                                                                5
+    MON-L-000313-25 06/20/2025 12:54:12 PM Pg 9 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+HOUSING PLAN ELEMENT
+
+According to the Municipal Land Use Law (MLUL) (40:55D-28.b(3)), a municipality is
+required to adopt a Housing Plan Element of the Master Plan, as well as a Fair Share Plan for
+addressing its low and moderate income housing obligations in accordance with the Fair Housing
+Act (FHA). Pursuant to the Fair Housing Act, Section 10 of P.L. 1985, c. 222 (C. 52:27D-310),
+a municipality’s housing plan element shall be designed to achieve the goal of access to
+affordable housing to meet present and prospective housing needs, with attention to low- and
+moderate-income housing. This updated Housing Plan Element for Marlboro Township has been
+prepared in a manner that is consistent with the FHA and MLUL requirements, and contains the
+following, as spelled out in the FHA:
+
+   1. An inventory of the municipality's housing stock by age, condition, purchase or rental
+      value, occupancy characteristics, and type, including the number of units affordable to
+      low and moderate income households and substandard housing capable of being
+      rehabilitated, and in conducting this inventory the municipality shall have access, on a
+      confidential basis for the sole purpose of conducting the inventory, to all necessary
+      property tax assessment records and information in the assessor's office, including but not
+      limited to the property record cards;
+   2. A projection of the municipality's housing stock, including the probable future
+      construction of low- and moderate-income housing, for the next ten years, taking into
+      account, but not necessarily limited to, construction permits issued, approvals of
+      applications for development and probable residential development of lands;
+   3. An analysis of the municipality's demographic characteristics, including but not
+      necessarily limited to, household size, income level and age;
+   4. An analysis of the existing and probable future employment characteristics of the
+      municipality;
+   5. A determination of the municipality's present and prospective fair share for low- and
+      moderate-income housing and its capacity to accommodate its present and prospective
+      housing needs, including its fair share for low- and moderate-income housing; and
+   6. A consideration of the lands that are most appropriate for construction of low- and
+      moderate-income housing and of the existing structures most appropriate for conversion
+      to, or rehabilitation for, low-and moderate-income housing, including a consideration of
+      lands of developers who have expressed a commitment to provide low and moderate
+      income housing.
+   7. A map of all sites designated by the municipality for the production of low- and moderate
+      income-housing and a listing of each site that includes its owner, acreage, lot, and block;
+   8. The location and capacities and proposed water and sewer lines and facilities relevant to
+      the designated sites;
+   9. Copies of necessary applications for amendments to, or consistency determinations
+      regarding, applicable area-wide water quality management plans (including wastewater
+      management plans).
+
+
+
+                                                                                                  6
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 10 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+   10. A copy of the most recently adopted master plan and where required, the immediately
+       preceding, adopted master plan;
+   11. For each designated site, a copy of the New Jersey Freshwater Wetlands maps where
+       available. When such maps are not available, municipalities shall provide appropriate
+       copies of the National Wetlands Inventory maps provided by the U.S. Fish and Wildlife
+       Service;
+   12. A copy of appropriate, United States Geological Survey Topographic Quadrangles for
+       designated sites; and
+   13. Any other documentation pertaining to the review of the municipal housing element as
+       may be required by the appropriate authority.
+
+This Housing Plan Element and Fair Share Plan will address the Township’s obligations to
+provide a realistic opportunity for the construction of low- and moderate-income housing in
+accordance with the Fair Housing Act, the MLUL, and all guidance provided by the Department
+of Community Affairs (DCA) and the Affordable Housing Dispute Resolution Program.
+
+
+
+
+                                                                                               7
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 11 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+A NALYSIS OF D EMOGRAPHIC , H OUSING , AND E MPLOYMENT C HARACTERISTICS
+As required by N.J.S.A. 52:27D-310, all housing elements must contain a discussion of the
+municipality’s demographic, housing, and economic characteristics. The following subsections
+fulfill this requirement by providing a profile of the Townships demographic, housing and
+employment characteristics based on information from the US Census Bureau, and the New
+Jersey Department of Labor and Workforce Development.
+
+D EM OGRAPHICS
+
+POPULATION
+
+Marlboro Township has experienced moderate but consistent growth over the past few decades.
+According to the 2020 U.S Census, the Township population stood at 41,502 residents. This
+marks a 3.26 percent increase from the 40,191 residents recorded in 2010, which already
+reflected a 10.4 percent growth from the 2000 U.S. Census population figure of 36,403 residents.
+By comparison, Monmouth County’s population grew at a slower rate, increasing by 2.45
+percent from 2000 to 2010 and by 2.09 percent from 2010 and 2020. Table 1 below illustrates
+the population growth trends for both Marlboro Township and Monmouth County from 2000
+through 2020.
+
+                              Table 1: Population Trends, 2000 – 2020
+
+                                                                            Percent     Percent
+                                                                            Change      Change
+                                  2000           2010           2020        2000-2010   2010-2020
+
+
+ Marlboro Township             36,403         40,191         41,502         10.40       3.26
+
+ Monmouth County               615,301        630,380        643, 615       2.45        2.09
+
+ Source: US Census Bureau Decennial Census (Table DP-1)
+ **Projections from North Jersey Transportation Planning Authority (2050)
+
+
+
+
+POPULATION PROJECTIONS
+
+The North Jersey Transportation Planning Authority (NJTPA) prepares projections for
+population growth and decline for the entire 13 county northern New Jersey region, which
+includes Monmouth County. NJTPA projects that Marlboro Township will have a population of
+42,011 persons by the year 2050. This would represent an additional increase of approximately
+500 persons above the 2020 Census counts, or essentially a leveling off of the Township’s
+population when compared to the tremendous growth seen from the 1960’s up to 2010.
+
+
+
+
+                                                                                                    8
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 12 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+                         Figure 1: Pouplation over time in Marlboro, NJ
+ 45000                                                                                  41,502   42,011
+                                                                              40,191
+ 40000                                                               36,403
+ 35000
+                                                            27,974
+ 30000
+ 25000
+                                                   17,560
+ 20000
+ 15000                                    12,273
+                                  8038
+ 10000            5015    6359
+  5000
+     0
+                  1940    1950    1960    1970     1980     1990      2000     2010     2020     2050**
+
+
+POPULATION COMPOSITION BY AGE
+
+The age composition of Marlboro has shifted noticeably since 2000. According to the U.S.
+Census Bureau’s Decennial Census Estimates, significant changes occurred in many age groups.
+The number of elementary and pre-school-aged children has decreased significantly over this
+time period, as has the number of adults aged 35 to 44 years. Conversely, the Township has seen
+a significant increase in the number of residents aged 55 years and older. The greatest percentage
+increase occurred in the 85 years and over cohort, which grew by 166.7 percent, and in the 60 to
+64 age cohort, which increased by 133.1 percent over the same timeframe.
+
+                    Table 2: Population by Age Cohort, Marlboro, 2000 – 2020
+
+                                          2000                         2020               Percent
+                                                                                          Change
+                                 Number       Percent        Number           Percent     2000-2020
+
+ Total population                36,403       100%           41,502           100%        14.00%
+
+ Under 5 years                   2,666        7.3%           1,517            3.7%        -43.09%
+
+ 5 to 9 years                    3,017        8.3%           2,442            5.9%        -19.05%
+
+ 10 to 14 years                  3,487        9.6%           3,273            7.9%        -6.13%
+
+ 15 to 19 years                  2,448        6.7%           3,296            7.9%        34.64%
+
+ 20 to 24 years                  1,332        3.7%           2,740            6.6%        105.7%
+
+ 25 to 34 years                  3,340        9.2%           3,200            7.7%        -4.19%
+
+ 35 to 44 years                  7,097        19.5%          4,530            10.9%       -36.17%
+
+ 45 to 54 years                  6,462        17.8%          6,741            16.2%        4.31%
+
+
+
+
+                                                                                                          9
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 13 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+ 55 to 59 years                  1,906        5.2%         3,678        8.9%      92.96%
+
+ 60 to 64 years                  1,342        3.7%         3,129        7.5%      133.15%
+
+ 65 to 74 years                  1,941        5.3%         4,303        10.3%     121.69%
+
+ 75 to 84 years                  1,082        3.0%         1,898        4.6%      75.41%
+
+ 85 years and over               283          0.8%         755          1.8%      166.78%
+
+ Source: US Census Bureau, Decennial Census (Table DP-1)
+
+
+
+
+Monmouth County also saw notable shifts in the age composition of its population over the past
+two decades. There was a significant decline in the number of elementary and middle school-
+aged populations, as well as in the 25 to 35 and 35 to 44 age groups. In contrast, the percentage
+of the County’s older population, specifically those aged 55 to 64 and 65 and older grew steadily
+between 2000 and 2020. This trend mirrors that of Marlboro Township, indicating that, like the
+Township, Monmouth County is experiencing an overall aging population.
+
+                Table 3: Population by Age Cohort, Monmouth County, 2000 – 2020
+
+                                           2000                      2020         Percent
+                                                                                  Change
+                                 Number       Percent      Number       Percent   2000-2020
+
+ Total population                615,301      100%         643,615      100%      4.60%
+
+ Under 5 years                   41,998       6.8%         29,562       4.6%      -29.61%
+
+ 5 to 9 years                    47,924       7.8%         34,713       5.4%      -27.56%
+
+ 10 to 14 years                  45,951       7.5%         41,010       6.4%      -10.75%
+
+ 15 to 19 years                  37,334       6.1%         42,053       6.5%      12.64%
+
+ 20 to 24 years                  29,036       4.7%         37,764       5.9%      30.05%
+
+ 25 to 34 years                  74,522       12.1%        72,466       11.2%     -2.75%
+
+ 35 to 44 years                  113,871      18.5%        75,549       11.7%     -33.65%
+
+ 45 to 54 years                  91,477       14.9%        89,310       13.8%      -2.36%
+
+ 55 to 59 years                  32,619       5.3%         53,121       8.3%      62.85%
+
+ 60 to 64 years                  23,320       3.8%         49,235       7.6%      111.12%
+
+ 65 to 74 years                  40,847       6.6%         69,315       10.8%     69.69%
+
+
+
+
+                                                                                               10
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 14 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+ 75 to 84 years                  27,159       4.4%            33,894    5.3%       24.79%
+
+ 85 years and over               9,243        1.5%            15,623    2.4%       69.02%
+
+ Source: US Census Bureau, Decennial Census (Table DP-1)
+
+
+
+
+The median age of Marlboro Township residents has risen significantly between 2000 and 2020,
+reflecting a broader trend seen across both Monmouth County and New Jersey as the Baby
+Boomer generation continues to age. While all three, Marlboro Township, Monmouth County,
+and the State have experienced increases in median age over this period, Marlboro Township
+saw the most substantial rise. As a result, the Township now has the highest median age of the
+three populations.
+
+                                Table 4: Median Age, 2000 – 2020
+
+                                2000                   2020               Percent Change
+
+ Marlboro                       38.1                   44.6               17.06%
+
+ Monmouth County                37.8                   43.5               15.07%
+
+ New Jersey                     36.9                   39.9               8.13%
+
+ Source: US Census Bureau, Decennial Census (Table DP-1)
+
+
+
+
+HOUSEHOLDS
+
+Associated with the Township population growth is an increase in the number of households and
+household sizes. A household is defined as one or more individuals, related or not, living
+together in a single housing unit. According to the 2023 ACS 5-Year estimates, there were
+approximately 14,257 households in the Township. Of these, 35.6% were households of four or
+more people, the largest percentage, followed by 32.4% with two people, 17.1% with three
+people, and 14.6% with one person.
+
+In comparison, the County recorded 32.5% two-person households, 26.6% one-person
+households, 24.5% four-person households, and 16.4% three-person households. The
+Township’s average household size was 2.91 people, surpassing both the County’s average of
+2.55 and New Jersey’s average of 2.61, according to the ACS estimates.
+
+              Table 5: Household Characteristics Marlboro and Monmouth County
+
+                                                  Marlboro                Monmouth County
+
+                                         Number        Percent         Number       Percent
+
+
+
+
+                                                                                              11
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 15 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+ Total Households                      14,247            100%          250,195         100%
+
+ 1-person                              2,080             14.6%         66,589          26.6%
+
+ 2-persons                             4,614             32.4%         81,289          32.5%
+
+ 3-persons                             2,442             17.1%         40,929          16.4%
+
+ 4 or more persons                     5,111             35.9%         61,388          24.5%
+
+ Average Household Size                         2.91 people                      2.55 people
+
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Table S2501& B25010)
+
+
+
+
+Family households are defined as two or more individuals living together in the same residence,
+related by blood, marriage, or adoption. Of the total 14,247 households in the Township, 11,873
+(83.3%) are family households, while 2,374 (16.6%) are non-family households. In contrast,
+Monmouth County has 67.8% family households and 32.1% non-family households.
+
+Within the Township, approximately 90.1% of family households consist of married couple
+householders. Among the remaining family households, 35.7% are headed by a single male
+householder, and 64.2% are headed by a single female householder. The average family size in
+the Township is 2.91 persons. In comparison, Monmouth County has a higher percentage of
+married couple households, at 80.8%, with 5.6% male householders and 13.4% female
+householders. Further, 8.3% of the Township's households are comprised of individuals aged 65
+or older, totaling 985 households, whereas in comparison, Monmouth County has a higher
+proportion, with 13.3% of households headed by individuals aged 65 or older.
+
+                  Table 6: Household by Type, Marlboro and Monmouth County
+
+                                                        Marlboro             Monmouth County
+
+                                                Number      Percent      Number         Percent
+
+ Total Households                               14,247      100%         250,195        100%
+
+ Average Family Size                                 2.91 people                  2.55 people
+
+ Total Families                                 11,873      83.3%        169,816        67.8%
+
+        Married Couple Family                   10,709      90.1%        137,379        80.8%
+
+        With own children under 18              5,042       47.0%        68,896         50.1%
+        years
+
+        No children under 18 years              5,667       52.9%        68,483         49.8%
+
+
+
+
+                                                                                                  12
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 16 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+ Male householder, no wife present             416         3.5%          9,534          5.6%
+
+        With own children under 18             145         34.8%         4,061          42.6%
+        years
+
+        No own children under 18 years         320         76.9%         5,473          57.4%
+
+ Female householder, no husband                748         6.3%          22,903         13.4%
+ present
+
+        With own children under 18             328         43.8%         12,092         52.8%
+        years
+
+        No own children under 18 years         420         56.1%         10,811         47.2%
+
+ Nonfamily Households                          2,374       16.6%         80,379         32.1%
+
+        65 years and over                      985         8.3%          33,275         13.3%
+
+ Source: US Census Bureau, American Community Survey 5-year Estimates 2019 to 2023 (Table S1101)
+
+
+
+
+EXISTING HOUSING CONDITIONS
+
+Marlboro’s housing stock is predominantly owner-occupied and relatively new. According to the
+2023 ACS, the Township has a total of 14,539 housing units, of which 14,247 (98%) are
+occupied, and 292 (2%) are vacant. Among the occupied units, the majority 13,277 (92.8%) are
+owner-occupied, while 1,020 (7.2%) are renter-occupied. Building activity in the Township
+spiked during the periods of 1980-1989, 1990-1999, and 2000-2009. Since 2010, new
+construction has slowed considerably. The median year of construction for the Township’s
+housing is 1987.
+
+ Table 7: Housing Units in Marlboro                             Number            Percent
+
+ Total Housing Units                                            14,539            100%
+
+ Occupied Housing Units                                         14,247            98.0%
+
+        Owner Occupied                                          13,277            92.8%
+
+        Renter Occupied                                         1,020             7.2%
+
+ Vacant Housing Units                                           292               2.0%
+
+        For Rent/Rented Not Occupied                            0                 0.0%
+
+        For Sale Only                                           64                21.9%
+
+
+
+
+                                                                                                   13
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 17 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+          For Seasonal, Recreational or Occasional use                90                         30.8%
+
+          Other Vacant                                                84                         28.7%
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04 and B25004)
+
+
+
+
+                                          Figure 2: Age of Housing Stock
+
+  Built 2020 or later        35
+  Built 2010 to 2019                462
+  Built 2000 to 2009                                                      2,545
+  Built 1990 to 1999                                                                   3,077
+  Built 1980 to 1989                                                                                     4,040
+  Built 1970 to 1979                                       1,758
+  Built 1960 to 1969                                     1,623
+  Built 1950 to 1959                    601
+  Built 1940 to 1949         95
+ Built 1939 or earlier            303
+
+                         0        500      1000   1500     2000    2500         3000      3500     4000      4500
+
+
+HOUSING TYPE AND SIZE
+
+Marlboro's housing stock is predominantly comprised of single-family detached homes, making
+up approximately 81% of the Township’s total housing units. Duplexes and low-density multi-
+family units account for the majority of multi-family housing, together representing 8% of all
+units. The Township’s housing inventory is largely made up of 4-bedroom homes, which
+comprise 36.6% of all units, followed by 3-bedroom homes at 25.2% and 5-bedroom homes at
+21.9%.
+
+ Table 8: Housing Units by Type                                           Number                  Percent
+
+ Total Housing Units                                                      14,539                  100.0%
+
+          1-unit detached                                                 11,709                  80.5%
+
+          1-unit, attached                                                1,407                   9.7%
+
+          2 units                                                         95                      0.7%
+
+          3 or 4 units                                                    100                     0.7%
+
+          5 to 9 units                                                    551                     3.8%
+
+          10 to 19 units                                                  240                     1.7%
+
+
+
+
+                                                                                                                 14
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 18 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+         20 or more units                                          185               1.3%
+
+         Mobile home                                               252               1.7%
+
+         Boat, RV, Van etc                                         0                 0.0%
+
+ Bedrooms
+
+         No bedroom                                                91                0.6%
+
+         1 bedroom                                                 256               1.8%
+
+         2 bedrooms                                                2,031             14.0%
+
+         3 bedrooms                                                3,658             25.2%
+
+         4 bedrooms                                                5,320             36.6%
+
+         5 or more bedrooms                                        3,183             21.9%
+
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04)
+
+
+
+
+HOUSING VALUES AND CONTRACT RENTS
+
+According to the ACS 5-Year Estimates, the majority of housing units in Marlboro (69.9%) were
+valued at over $500,000, reflecting a higher percentage compared to the County average of
+58.4%. Table 9 provides a detailed breakdown of home values for owner-occupied units within
+the Township. Only 4.3% of Marlboro's owner-occupied homes were valued at less than
+$100,000. The median value of an owner-occupied home in the Township was $649,100, which
+exceeds the County's median.
+
+ Table 9: Value of Owner-Occupied Housing Units
+
+                                       Marlboro                            Monmouth County
+
+                                       Number            Percent           Number      Percent
+
+ Total                                 13,227            100.0%            188,578     100.0%
+
+ Less than $50,000                     310               2.3%              3,202       1.7%
+
+ $50,000 to $99,999                    161               1.2%              2,703       1.4%
+
+ $100,000 to $149,999                  108               0.8%              1,760       0.9%
+
+ $150,000 to $199,999                  258               2.0%              2,797       1.5%
+
+ $200,000 to $299,999                  405               3.1%              12,780      6.8%
+
+
+
+
+                                                                                                 15
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 19 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+ $300,000 to $499,999                  2,739             20.7%          55,119            29.2%
+
+ $500,000 to $999,999                  7,764             58.7%          88,909            47.1%
+
+ $1,000,000 and greater                1,432             11.2%          21,308            11.3%
+
+ Median Value                                    $649,100                            $566,500
+
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04)
+
+
+
+
+Rental prices in Marlboro varied widely, with the majority of rents falling within two key ranges:
+$2,000 to $2,499 and $2,500 to $2,999 per month. According to the ACS 5-Year Estimates, the
+median gross rent in Marlboro was $2,608, notably higher than the county median of $1,771.
+The largest share of renter-occupied units in Marlboro (43.3%) had rent between $2,500 and
+$2,999, compared to the county’s most common rent range of $1,500 to $1,999. Marlboro had no
+units with rents under $500 per month, while the county reported that roughly 6% of its rental
+units had rents below this threshold. Additionally, approximately 178 Marlboro units did not
+require cash rent payments, compared to 2,394 such units across the county. Table 10 on the
+following page compares Marlboro’s gross rent paid to the county’s gross rent paid according to
+the ACS 5-Year Estimates.
+
+
+
+ Table 10: Gross Rent Paid
+
+                                           Marlboro                          Monmouth County
+
+                                           Number          Percent           Number        Percent
+
+ Total                                     842             100%              59,223        100.0%
+
+ Less than $500                            0               0.0%              4,045         6.8%
+
+ $500 to $999                              39              4.6%              3,453         5.8%
+
+ $1,000 to $1,499                          29              3.4%              13,711        23.2%
+
+ $1,500 to $1,999                          29              3.4%              15,499        26.2%
+
+ $2,000 to $2,499                          244             29.0%             10,920        18.4%
+
+ $2,500 to $2,999                          369             43.8%             6,150         10.4%
+
+ $3,000 or more                            132             15.7%             5,445         9.2%
+
+ No rent paid                              178                               2,394
+
+ Median Contract Rent                                 $2,608                          $1,771
+
+
+
+
+                                                                                                     16
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 20 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04)
+
+
+
+
+HOUSING CONDITIONS
+
+According to the 2023 ACS, overcrowding is minimal in Marlboro, with approximately 0.1% (14
+units) of owner-occupied units and 3.13% (32 units) of renter-occupied units exceeding one
+person per room. The data also reveals a small number of units in the Township lacking
+complete plumbing or kitchen facilities, comprising 0.07% (11 units) and 0.30% (43 units) of the
+total units, respectively. These housing deficiencies are key factors in assessing overall housing
+conditions across the Township and determining municipal rehabilitation needs. Table 11 on the
+following page provides a detailed breakdown of housing deficiency characteristics based on the
+5-year ACS data.
+
+ Table 11: Housing Deficiency Characteristics, 2023
+
+ Housing Units with 1.01 or More Persons Per Room
+
+                                                    Count                     Percent
+
+ Owner-Occupied                                     14                        0.10%
+
+ Renter-Occupied                                    32                        3.13%
+
+ Plumbing Facilities
+
+ Total Occupied Housing Units                       14,247                    100.0%
+
+ Lacking complete plumbing facilities               11                        0.07%
+
+ Kitchen Equipment
+
+ Total Occupied Housing Units                       14,247                    100%
+
+ Lacking complete kitchen facilities                43                        0.30%
+
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables B25014, S2504)
+
+
+
+
+HOUSING STOCK
+
+According to the New Jersey Department of Community Affairs (DCA), Marlboro Township
+issued building permits for 618 new residential units between January 2013 and December 2023.
+During this period, the Township also approved 546 residential demolition permits. Subtracting
+the demolition permits from the construction permits reveals a net increase of 72 residential units
+over the same timeframe.
+
+
+
+
+                                                                                                17
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 21 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+
+
+ Table 12: Building Permits and Demolition Permits Issued 2013 – 2023
+
+ Year        1&2          Multi       Mixed            Total New       Total          Net
+            Family       Family        Use            Construction   Residential     Units
+                                                                     Demolitions     Added
+
+ 2013          31           8            0                39             4             35
+
+ 2014          5            1            0                 6             8             -2
+
+ 2015          8            0            0                 8             4              4
+
+ 2016          6            15           0                21             9             12
+
+ 2017          28           0            0                28             14            14
+
+ 2018          39          203           0                234            13            221
+
+ 2019          18           0            0                18             5             13
+
+ 2020          14           0            0                14             6              8
+
+ 2021          57           0            0                57             3             54
+
+ 2022          29           18           0                47             6             41
+
+ 2023         127           19           0                146            0             146
+
+ Total        362          264           0                618            72            546
+
+ Source: NJ DCA, Construction Reporter 2013 to 2023
+
+
+
+
+E MPLOYMENT D ATA
+
+EMPLOYMENT STATUS
+
+The 5-year ACS estimates provide data on the work activity of residents aged 16 and older.
+Marlboro Township’s working-age population was 33,244, with approximately 21,702 residents
+in the labor force. Around 34.7% of the Township’s working-age residents were not participating
+in the labor force at the time of the estimates, which is comparable to the county's 33.5% non-
+participation rate. All of the Township’s labor force were employed in civilian jobs, with no
+residents reported as members of the armed forces. The unemployment rate for Marlboro
+residents was approximately 2.3%, lower than the county’s rate of 3.5%.
+
+ Table 13: Employment Status, 2023
+
+
+
+
+                                                                                             18
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 22 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+                                                   Marlboro               Monmouth County
+
+                                           Number         Percent        Number      Percent
+
+ Population 16 years and over               33,244         100.0%        526,352     100.0%
+
+         In labor force                     21,702         65.3%         349,815      66.5%
+
+         Civilian Labor Force               21,702         65.3%         349,355      66.4%
+
+         Employed                           20,947         63.0%         331,018      62.9%
+
+         Unemployed                          755            2.3%         18,337       3.5%
+
+         Armed Forces                          0            0.0%          460         0.1%
+
+         Not in Labor Force                 11,542         34.7%         176,537      33.5%
+
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+
+
+
+WORKER CLASSIFICATION
+
+Approximately 84% of Marlboro Township’s workers were employed in private wage and salary
+positions, while 5.7% were self-employed. Government employees made up 10.5% of the
+workforce, with unpaid family workers representing about 0.1%. A detailed breakdown of
+worker classifications can be found in Table 14.
+
+ Table 14: Classification of Workers in Marlboro, 2023
+
+                                                               Number              Percent
+
+ Total                                                          20,947             100.0%
+
+ Private Wage and Salary Worker                                 17,538             83.7%
+
+ Government Worker                                              2,198              10.5%
+
+ Self-Employed Worker                                           1,188               5.7%
+
+ Unpaid Family Worker                                              23               0.1%
+
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+
+
+
+WORKFORCE BY SECTOR
+
+An analysis of employed individuals over the age of 16 by economic sector reveals a diverse
+range of industries in which Marlboro's working-age population is engaged. The largest sector,
+
+
+
+                                                                                                 19
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 23 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+comprising 24.5% of the workforce (5,139 employees), is in educational services, healthcare,
+and social assistance. Following closely, the professional, scientific, management,
+administrative, and waste management services sectors employed 20.8% of residents (4,363
+employees). The finance and insurance, real estate and rental and leasing sectors, retail trade, and
+arts, entertainment, recreation, and accommodation and food services sectors each accounted for
+approximately 13.7% (2,866 employees), 9.1% (1,916 employees), and 6% (1,252 employees) of
+the Township’s workforce, respectively.
+
+ Table 15: Workforce by Sector, 2023
+
+ Industry                                                          Number           Percent
+
+ Civilian employed population 16 years and over                    20,947           100.0%
+
+ Agriculture, forestry, fishing and hunting and mining             13               0.1%
+
+ Construction                                                      1,014            4.8%
+
+ Manufacturing                                                     1,135            5.4%
+
+ Wholesale trade                                                   636              3.0%
+
+ Retail trade                                                      1,916            9.1%
+
+ Transportation and warehousing, and utilities                     667              3.2%
+
+ Information                                                       972              4.6%
+
+ Finance and insurance, and real estate and rental and             2,866            13.7%
+ leasing
+
+ Professional, scientific, and management, and                     4,363            20.8%
+ administration and waste management services
+
+ Educational services, health care and social assistance           5,139            24.5%
+
+ Arts, entertainment, and recreation, and accommodation            1,252            6.0%
+ and food services
+
+ Other services, except public administration                      537              2.6%
+
+ Public administration                                             437              2.1%
+
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+
+
+
+                                                                                                 20
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 24 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+OCCUPATIONS BY TYPE
+
+Table 16 presents a breakdown of occupations by type within the Township’s employed civilian
+labor force. The largest segment, comprising more than half (12,957 employees), is engaged in
+management, business, science, and arts occupations. Sales and office occupations follow,
+employing nearly one-fifth (4,074 employees) of the labor force. Service occupations account for
+approximately 9.3% (1,945 employees) of the total workforce. The sector with the smallest share
+is natural resources, construction, and maintenance occupations, which make up just 4.4% (918
+employees) of the labor force.
+
+ Table 16: Occupations by Type, 2023
+
+                                                                         Number       Percent
+
+ Employed Civilian population 16 years and over                          20,947       100.0%
+
+ Management, business, science, and arts occupations                     12,957       61.9%
+
+ Service occupations                                                     1,945        9.3%
+
+ Sales and office occupations                                            4,074        19.4%
+
+ Natural resources, construction, and maintenance occupations            918          4.4%
+
+ Production, transportation, and material moving occupations             1,053        5.0%
+
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+
+
+COMMUTING TO WORK
+
+As shown in Table 17, the majority of residents (56.5%) commute to work by private
+automobile, which is slightly lower than the county's 66.8%. About 10% of residents rely on
+public transportation (excluding taxicabs), while walking to work is the least common
+commuting method, accounting for only 0.7%, compared to 1.5% in the county. Notably,
+approximately one-quarter of Township residents work from home, a significantly higher
+proportion than the county's 16.8%.
+
+According to ACS data, a majority of Township residents (58.8%) have a commute of more than
+30 minutes, which is similar to the county's 63.9%. In contrast, only about a quarter of Township
+residents have a commute of less than 20 minutes. Table 18 provides a comparison of travel
+times to work between the Township and the county.
+
+ Table 17: Means of Commute, 2023
+
+                                                 Marlboro               Monmouth County
+
+
+
+
+                                                                                                21
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 25 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+                                             Number      Percent   Number           Percent
+
+ Workers 16 years and over                   20,656      100.0%    325,092          100.0%
+
+ Car, truck, van -Drove Alone                11,694      56.6%     217,077          66.8%
+
+ Car, truck, van - Carpooled                 1,152       5.6%      23,553           7.2%
+
+ Public transportation (excluding taxicab)   2,084       10.1%     17,981           5.5%
+
+ Walked                                      153         0.7%      4,775            1.5%
+
+ Other means                                 152         0.7%      6,996            2.2%
+
+ Worked from home                            5,421       26.2%     54,710           16.8%
+
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+
+
+ Table 18: Travel Time to Work, 2023
+
+                                                Marlboro            Monmouth County
+                                             Number  Percent       Number   Percent
+
+ Less than 10 minutes                        888         5.8%      28,427       10.1%
+
+ 10 to 19 minutes                            2,888       18.9%     71,878       25.6%
+
+ 20 to 29 minutes                            2,483       16.2%     50,714       18.1%
+
+ 30 to 44 minutes                            2,945       19.3%     52,340       18.6%
+
+ 45 to 59 minutes                            1,823       11.9%     24,162       8.6%
+
+ 60 to 89 minutes                            1,937       12.7%     30,162       10.7%
+
+ 90 or more minutes                          2,271       14.9%     22,322       7.9%
+
+ Mean travel time to work (minutes)                   41.9                   33.4
+
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03, B08303)
+
+
+
+
+                                                                                             22
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 26 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+FAIR SHARE PLAN
+
+Affordable Housing regulations define a “Fair Share Plan” as follows:
+
+   "Fair share plan" means the plan or proposal that is in a form which may readily be
+   adopted, with accompanying ordinances and resolutions, pursuant to subsection f. of
+   section 3 of P.L., by which a municipality proposes to satisfy its obligation to create a
+   realistic opportunity to meet its fair share of low- and moderate-income housing needs of
+   its region and which details the affirmative measures the municipality proposes to
+   undertake to achieve its fair share of low- and moderate-income housing, as provided in
+   the municipal housing element, and addresses the development regulations necessary to
+   implement the housing element, including, but not limited to, inclusionary requirements
+   and development fees, and the elimination of unnecessary housing cost-generating
+   features from the municipal land use ordinances and regulations.”
+
+This Housing Element and Fair Share Plan satisfies all the applicable requirements set forth
+within the Municipal Land Use Law, the Fair Housing Act, and all applicable prior rules and
+regulations established by COAH as applicable.
+
+The Township’s Fair Share Plan specifically describes the completed and proposed mechanisms
+to address the Prior Round obligations, present need (Rehabilitation) obligation, and prospective
+need (Fourth Round) obligation. Marlboro Township’s present and prospective need numbers for
+the Fourth Round (2025 to 2035) were arrived at through a mediation between the Township and
+Fair Share Housing Center. As per the Mediation Agreement dated April 16, 2025, the
+Township’s affordable housing obligation has been determined to be 370 units for the Fourth
+Round period running from 2025 through 2035, in addition to the Present Need (Rehabilitation)
+obligation of 5 units.
+
+
+
+
+                                                                                               23
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 27 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+F AIR S HARE O BLIGATION
+The Township has the following cumulative affordable housing obligations:
+
+   •   Present Need (Rehabilitation) = 5 Units
+
+   •   First and Second Round (1987-1999) Prospective Need = 1,019 Credits
+
+   •   Third Round (1999-2025) Prospective Need = 1,129 Credits (Cap of 1,000)
+
+   •   Fourth Round (2025-2035) = 370 Credits
+
+Income Levels
+
+Marlboro Township is in COAH’s Region 4, which includes Monmouth, Mercer, and Ocean
+Counties. Moderate-income households are those earning between 50% and 80% of the regional
+median income. Low-income households are those with annual incomes that are between 30%
+and 50% of the regional median income. Very-low income households are a subset of “low
+income” households, and are defined as households earning 30% or less of the regional median
+income.
+
+
+
+
+                                                                                          24
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 28 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+P RESENT N EED (R EHABILITATION ) O BLIGATION
+The Township has a rehabilitation obligation of 5 units to satisfy the Present Need.
+
+Marlboro Township contracts with CGP&H to administer affordable housing properties, and has
+established its own municipal rehabilitation program managed by CGP&H to repair major
+systems of existing dwellings in the Township that are owned or occupied by low and moderate
+income households.
+
+The Township will commit to funding a rehabilitation program to ensure that at least 5 dwellings
+occupied by low or moderate income households that are in need of repairs.
+
+
+
+
+                                                                                              25
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 29 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+P RIOR R OUND (1987-1999) O BLIGATION AND C OMPLIANCE M ECHANISMS
+The Township’s prior round obligation is 1,019 units. As summarized below, the Township has
+addressed its Prior Round (1987-1999) obligation with prior cycle credits, RCA credits, family
+and senior rental credits, family and senior for-sale credits, and special and/or supportive housing
+credits.
+                     Summary of Credits from Prior Round (1987-1999)
+                       Project                            # of Credits          Bonus Credits
+ Prior Cycle Credits
+ Hamilton Mobile Home Park                                     22
+ Regional Contribution Agreements
+ RCA Credits                                                  183
+ Family Rental Credits
+ Camelot                                                       50                     50
+ Camelot II                                                    50                     50
+ Northpoint/OHAD                                               63                     63
+ El at Marlboro                                                56                     56
+ Weitz 9A                                                      24                     24
+ Weitz 9B                                                      78                     11
+ Family Sale Credits
+ Pointe de Jardin                                             101                      9
+ Buckdale                                                      9
+ Senior Rental Credits
+ Renaissance Assisted Living                                   15
+ FSP Solana                                                    9
+ Sunrise Assisted Living                                       6
+ Senior Sale Credits
+ Glenbrook                                                     80
+ Special and/or Supportive Housing Credits
+ Advancing Opportunities Newton                                4
+
+
+
+
+                                                                                                 26
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 30 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+                       Summary of Credits from Prior Round (1987-1999)
+ Project                                            # of Credits          Bonus Credits
+ Advancing Opportunities Center                              4
+ New Horizon                                                 4
+ Easter Seals Taylor                                         5
+ Easter Seals Vassar                                         3
+ Easter Seals Stratford                                      3
+ Opportunity Knocks, Inc.                                    3
+ EIHAB Human Services Union Hill                             4
+ EIHAB Human Services Eaton                                  4
+ Morganville Group Home                                      4
+ Center for Family Support                                   4
+ Renaissance Health Services                                 10
+ NJD/CARE Wabash                                             4
+ New Hope/Discovery                                          60
+ Mattie House                                                8
+ Mattie House Expansion                                      8
+ State Hospital Group Home                                   6
+ Total Credits                                              884
+ Total Bonus Credits                                                               254
+ Total Credits + Bonus                                     1138
+ Prior Round Obligation                                    1019
+ Surplus Credits                                            119
+
+Prior Cycle Credits
+   •   Hamilton Mobile Home Park (Block 147, Lot 43 – Spring Valley Road)
+       Status - Completed
+       Total Prior Cycle Credits – 22
+       Per the 1985 consent order, Hamilton Mobile Home Park qualifies under “Credits for
+       units constructed between April 1, 1980 and December 15, 1986” per N.J.A.C. 5:93-3.2.
+       Therefore, the Township will apply the 22 family for-sale units to address its Prior Round
+
+
+                                                                                              27
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 31 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+       obligation. It should be noted that affordable housing trust funds were expended to make
+       capital improvements for the septic system’s leach fields in order to continue appropriate
+       sewer service for these affordable units.
+Regional Contribution Agreement (RCA)
+   •   Regional Contribution Agreements
+       Status: Funds Transferred
+       Total RCA Credits – 183
+       A total of 183 unit RCAs with Freehold Borough and the City of Trenton were approved
+       as part of the 1985 consent agreement. The RCAs were divided into three separate
+       projects. Funded by a payment in lieu from the developer of the Kaplan Site, a 62 unit
+       RCA with the Borough of Freehold, Monmouth County was approved by COAH on
+       February 5, 1997 and amended on February 3, 1999.
+       In addition, a 99 unit RCA was approved by COAH with the City of Trenton on March 5,
+       1997. The RCA was funded with a payment in lieu from the developer of the Woodcliff
+       site per the 1985 consent order. Finally, COAH approved a 22 unit RCA, with the City
+       of Trenton on November 5, 1997. This RCA was funded by a payment in lieu from the
+       developer of the Junction Trail site.
+Family Rental Credits
+   •   Camelot (Block 132, Lot 18, 18.01 – Route 79)
+       Status – Completed
+       Total Family Rental Credits - 50
+
+       Marlboro Township is eligible to receive credit for 50 affordable rental units from the
+       Camelot development. The multi-family development encompasses approximately 15.3
+       acres and consists of 200 market rate units and 50 affordable units in nine (9) three-story
+       buildings and three (3) four-story buildings. The development has been constructed and is
+       currently occupied. Affordability controls have been established for the affordable rental
+       units for 30 years.
+
+   •   Camelot II / West (Block 150, Lots 2-4 – Route 79 at Tennent Road)
+       Status – Completed
+       Total Family Rental Credits - 50
+
+       The former Bluh and Batelli site, which is 76 acres in size, was approved for
+       development in 2016 as Camelot West. A total of 250 units have been approved for this
+       property. Of the 250 units, 200 are market rate, while 50 are affordable family rental
+       units. The development has been constructed and is currently occupied.
+
+
+
+
+                                                                                               28
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 32 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+   •   Northpoint / OHAD (Block 143, Lot 1.02 – Lloyd Road)
+       Status – Completed
+       Total Family Rental Credits - 63
+
+       The Northpointe site is approximately 47.66 acres in size and was approved for the
+       development of 285 total units in thirteen (13) three-story buildings and one (1) two-story
+       building. 222 of the total units will be market rate and 63 units will be affordable rentals.
+       Northpointe’s affordable units will consist of 12 one-bedroom units, 38 two-bedroom
+       units, and 13 three-bedroom units. The development has been constructed and is currently
+       occupied.
+
+   •   EL at Marlboro / Lennar (Block 415, Lot 22 – South Main Street)
+       Status – Substantially Completed
+       Total Family Rental Credits - 56
+
+       The site is a 33-acre property located on South Main Street. A total of 280 units, inclusive
+       of 56 affordable family rental units are proposed for this area. The development has been
+       substantially completed and is currently occupied.
+
+   •   Weitz 9A Ashbel (Block 119, Lot 16 – Texas Road)
+       Status – Approved
+       Total Family Rental Credits - 24
+
+       The site is located on Texas Road near the intersection with Greenwood Road. Proposed
+       for this site are 120 apartment units, 24 of which will be affordable family rental units.
+       The apartments will be constructed within five (5) three story buildings, each of which
+       will contain 24 apartments. Of the 24 affordable units proposed, the Township and the
+       developer will ensure that at minimum 13 percent of these units are affordable to very
+       low income households.
+
+   •   Weitz 9B Pallu (Block 146, Lots 25, 26 – Texas Road)
+       Status – Approved
+       Total Family Rental Credits - 78
+
+       The Weitz 9B project consists of two properties located along Texas Road at the
+       intersection with Wooleytown Road. Proposed for this site is 387 total apartment units,
+       78 of which will be affordable family rentals for a 20 percent affordable set aside within
+       this inclusionary development. Of the 78 affordable units proposed, the Township will
+       ensure that at minimum 13 percent of the units are affordable to very low income
+       households.
+
+
+
+
+                                                                                                 29
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 33 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+Family Sale Credits
+   •   Pointe de Jardin (Block 176, Lot 7 – Texas Road)
+       Status – Completed
+       Total Family Sale Credits - 101
+
+       The existing development consists of 302 market rate units and 101 affordable units of
+       which all are constructed and occupied. Affordability controls for the units for 30 years
+       have been established in the First Amendment to the Master Deed, recorded on March 23,
+       1992.
+
+   •   Buckdale (Block 355, Lots 6, 7 8, 9, and 11)
+       Status – Completed
+       Total Family Sale Credits - 9
+
+       The Buckdale site is located between South Main Street and Buckley Road. This project
+       includes 45 single-family residential dwellings, of which 9 units are affordable family for
+       sale units, for a 20 percent affordable set-aside.
+Senior Rental Credits
+   •   Renaissance Assisted Living / Sunset Park (Block 103, Lot 10 – Texas Road)
+       Status – Approved
+       Total Senior Rental Credits - 15
+
+       Sunset Park was approved as an assisted living facility at Texas Road and Thomas Lane.
+       As a part of the preliminary and final site plan approval, the developer will provide at
+       least 15 of their beds to be dedicated to Medicaid users as COAH equivalent units.
+
+   •   FSP Solana Chelsea (Block 176, Lots 38-41 – Route 520)
+       Status – Completed
+       Total Senior Rental Credits - 9
+
+       This assisted living facility is located at 52 Route 520. It contains 86 total assisted living
+       units, of which 9 have been reserved for Medicaid residents, and are COAH equivalent
+       units.
+
+   •   Sunrise Assisted Living (Block 355, Lot 3.01 – Route 79)
+       Status – Completed
+       Total Senior Rental Credits - 6
+
+       Located along Route 79, this inclusionary senior assisted living facility has 6 units, which
+       are dedicated to low and moderate income residents.
+
+
+
+
+                                                                                                   30
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 34 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+Senior Sale Credits
+   •   Kaplan / Glenbrook (Block 412, Lot 166; Block 413, Lot 24; Block 207, Lot 24)
+       Status – Completed
+       Total Senior Sale Credits - 80
+
+       The development consists of 308 single family attached (townhouse) units, 4 single
+       family detached homes, and 80 age-restricted affordable for-sale units (392 total units).
+       All of the units have been constructed and are currently occupied. The development was
+       subject to the 1985 consent order and to amendments in 1990 and 1995. This
+       development was also associated with a 62 unit RCA with Freehold Borough, as
+       previously mentioned. Affordability controls for these units for 30 years have been
+       established in the First Amendment to the Master Deed, recorded on September 17, 1996.
+Special or Supportive Housing Credits
+
+   •   Advancing Opportunities Newton (Block 210, Lot 12 – Newton Street)
+       Status – Completed
+       Total Special/Supportive Housing Credits - 4
+
+       This is a supportive needs facility for individuals with cerebral palsy, containing four (4)
+       bedrooms within a single family dwelling.
+
+   •   Advancing Opportunities Center (Block 162, Lot 3 – Center Street)
+       Status - Completed
+       Total Special/Supportive Housing Credits - 4
+
+       This is a supportive needs facility for individuals with cerebral palsy, containing four (4)
+       bedrooms within a single family dwelling.
+
+   •   New Horizons in Autism (Block 341, Lot 3 – Spencer Circle)
+       Status – Completed
+       Total Special/Supportive Housing Credits - 4
+
+       This is a supportive needs facility for individuals with autism, containing four (4)
+       bedrooms within a single family dwelling.
+
+   •   Easter Seals Taylor (Block 225, Lot 42 – Taylor Road)
+       Status – Completed
+       Total Special/Supportive Housing Credits - 5
+
+       This facility is a group home for the severely and persistently mentally ill, as licensed
+       and/or regulated by the NJ Department of Human Services, Division of Mental Health
+       Services (DMHS). The property is located at 28 Taylor Road, and consists of five (5)
+       bedrooms within a single family dwelling.
+
+   •   Easter Seals Vassar (Block 173, Lot 7 – Vassar Place)
+
+
+                                                                                                   31
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 35 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+       Status – Completed
+       Total Special/Supportive Housing Credits - 3
+
+       This facility is another group home operated by Easter Seals, and provides three (3)
+       bedrooms within a single family dwelling.
+
+   •   Easter Seals Stratford (Block 178, Lot 2 – Stratford Place)
+       Status – Completed
+       Total Special/Supportive Housing Credits - 3
+
+       This is the third group home operated by Easter Seals within Marlboro. It is also a three
+       (3) bedroom facility within a single-family dwelling.
+
+   •   Opportunity Knocks, Inc. (Block 167, Lot 10 – 250 Route 79)
+       Status – Completed
+       Total Special/Supportive Housing Credits – 3
+
+       This is a senior care facility consisting of three (3) bedroom facility within a single-
+       family dwelling.
+
+   •   EIHAB Human Services Union Hill (Block 299, Lot 134 – Union Hill Road)
+       Status – Completed
+       Total Special/Supportive Housing Credits – 4
+
+       This group home facility consists of four (4) bedrooms within a single family dwelling
+       unit.
+
+   •   EIHAB Human Services Eaton (Block 350, Lot 16 – Eaton Court)
+       Status – Completed
+       Total Special/Supportive Housing Credits – 4
+
+       This group home facility consists of four (4) bedrooms within a single family dwelling
+       unit.
+
+   •   Morganville Group Home (Block 113, Lot 1 – West Court)
+       Status – Completed
+       Total Special/Supportive Housing Credits – 4
+
+       This group home is owned and operated by the New Jersey Association of Deaf-Blind
+       Inc., and consists of four (4) bedrooms within a single family dwelling.
+
+
+
+
+                                                                                                  32
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 36 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+   •   Center for Family Support (Block 176, Lot 1.02 – East Frances Avenue)
+       Status – Completed
+       Total Special/Supportive Housing Credits – 4
+
+       This group home is owned by Mobility Special Care Housing Inc., and consists of four
+       (4) bedrooms within a single family dwelling.
+
+   •   NJID / CARE Wabash (Block 233, Lot 3 – Wabash Road)
+       Status – Completed
+       Total Special/Supportive Housing Credits – 4
+
+       This facility is a 4-bedroom group home which provides a living environment for
+       developmentally disabled adults. NJID was formerly known as the Cerebral Palsy
+       Association, and primarily cares for individuals with cerebral palsy. The deed for the
+       property was recorded in December of 2010.
+
+   •   New Hope / Discovery (Block 157, Lot 34.02 – Conover Road)
+       Status – Completed
+       Total Special/Supportive Housing Credits – 60
+
+       The New Hope facility provides 60 bedrooms serving as adult care and recovery.
+
+   •   Mattie House (Block 157, Lot 34.03 – Conover Road)
+       Status – Completed
+       Total Special/Supportive Housing Credits – 8
+
+       The Mattie House facility is located just north of the New Hope adult care building and
+       contains eight (8) bedrooms within a single family dwelling.
+
+   •   Mattie House Expansion (Block 157, Lot 34.03 – Conover Road)
+       Status – Proposed
+       Total Special/Supportive Housing Credits – 8
+
+       The Mattie House facility is proposed to be expanded to accommodate an additional eight
+       (8) bedrooms.
+
+   •   State Hospital Group Home (Block 159, Lot 11 – Newman Springs Road)
+       Status – Proposed
+       Total Special/Supportive Housing Credits - 6
+
+       This is the former state psychiatric hospital site, which has been closed since 1998. All
+       structures were demolished in 2015. Proposed for this site is a 6 bedroom group home
+       facility, to be constructed within two single-family structures.
+
+
+
+
+                                                                                                   33
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 37 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+T HIRD R OUND O BLIGATION AND C OMPLIANCE M ECHANISMS
+The Township’s third round obligation is 1,129 units, however, based upon the Appellate
+Division decision (Docket No. A-3344-20), it was affirmed that a Municipalities Third round
+Prospective Need obligation for the period of 1999-2025 must comply with the statutory 1,000
+unit cap set forth at N.J.S.A. 52:27D-307(e) and cannot be applied prospectively over future
+compliance rounds. As summarized below, the Township has addressed its Third Round (1999-
+2025) obligation with prior cycle credits, family and senior rental credits, family and senior for-
+sale credits, and special and/or supportive housing credits.
+                      Summary of Credits from Third Round (1999-2025)
+                       Project                            # of Credits          Bonus Credits
+ Prior Cycle Credits                                          119
+ Family Rental Credits
+ M&M at Marlboro                                               40                     32
+ Marlboro Development Group                                    20
+ The Place Phase I                                            150                     150
+ The Place Phase II                                           100                     100
+ Scattered Site Redevelopment                                 160                     24
+ Family Sale Credits
+ Pointe de Jardin Extension of Controls                       100
+ Hamilton Park Extension of Controls                           24
+ Senior Rental Credits
+ Marlboro Motor Lodge                                          90
+ Special or Supportive Housing Credits
+ Group Home Program                                            45
+ Senior Sale Credits
+ Glenbrook                                                     80
+ Special and/or Supportive Housing Credits
+ Advancing Opportunities Newton                                4
+
+
+
+
+                                                                                                 34
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 38 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+
+                    Summary of Credits from Third Round (1999-2025)
+ Project                                             # of Credits           Bonus Credits
+ Total Credits                                               848
+ Total Bonus Credits (Max. 250)                                                      250
+ Total Credits + Bonus                                       1098
+ Third Round Obligation                                      1000
+ Surplus Credits                                              98
+
+Prior Round Surplus Credits
+   •   The prior round resulted in a surplus of 119 credits which will be carried over to address
+       the third round prospective need obligation.
+Family Rental Credits
+   •   M&M at Marlboro (Block 122, Lot 27.04 – Route 79)
+       Status – Proposed
+       Total Family Rental Credits – 40
+
+       This project will include a total of 200 units, of which 40 will be set aside for low and
+       moderate income families as rentals, for a 20 percent set aside. The Township has
+       rezoned this property to permit inclusionary development on the site and to require a
+       minimum of 40 affordable family rentals. Of the 40 affordable units proposed, the
+       Township will ensure that at minimum 13 percent of the units are affordable to very low
+       income households.
+
+   •   MDG Marlboro Green / Bathgate (Block 213.01, Lot 44 – Route 79)
+       Status – Under Construction
+       Total Family Rental Credits - 20
+
+       The project includes a total of 105 units, of which 20 will be set aside for affordable
+       family rentals. Of the 20 affordable units, 13% or 3 units will be affordable to a very low
+       income household.
+
+
+
+
+                                                                                                35
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 39 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+   •   Scattered Site Redevelopment (Location Varies)
+       Status – Proposed; Approved
+       Total Family Rental Credits - 160
+
+       The Township has designated multiple properties as “areas in need of redevelopment”,
+       and adopted a redevelopment plan for each of these parcels that permits multi-family
+       development with a mandatory inclusionary set aside of 30%. The parcels included in the
+       redevelopment area are:
+
+          •   Site 1: Block 103, Lot 1
+          •   Site 2/3A/3B: Block 111, Lots 4, 10, 11, 12, 13*
+          •   Site 4/5/6: Block 146, Lots 28, 30, 31, 32, 33, 38
+          •   Site 7: Block 147, Lot 34
+          •   Site 8/9: Block 170, Lots 2, 3
+          •   Site 10: Block 172, Lot 13.01
+          •   Site 11: Block 268, Lot 79
+
+       *(Site 2/3A/3B) –The project (presently under construction) includes a total of 280 units,
+       of which 58 will be set aside for affordable family rentals.
+   •   The Place at Marlboro / Wildflower (Block 149, Lot 16.01 – Tennent Road)
+       Status –Completed
+       Total Family Rental Credits - 150
+
+       The project consists of a phased development of 100 percent affordable housing
+       development. Phase I consists of 154 rental units. The development has been constructed
+       and is currently occupied.
+
+   •   The Place at Marlboro / Wildflower II (Block 149, Lot 16.02 – Tennent Road)
+       Status – Under Construction
+       Total Family Rental Credits - 100
+
+       Phase II of the 100 percent affordable housing development consists of an additional 104
+       units to the property, which will also be family rentals.
+
+Family Sale Credits
+   •   Pointe de Jardin – 100 Credits (Extension of Controls)
+
+       There are 100 affordable units within the inclusionary, with affordability controls
+       expiring in 2022. The Township negotiated to extend the controls on the units for an
+       additional 30 years.
+
+
+
+
+                                                                                               36
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 40 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+   •   Hamilton Mobile Home Park – 24 Credits (Extension of Controls)
+
+       The Township has extended affordability controls for 24 units of family for-sale
+       affordable housing units.
+
+Senior Rental Credits
+   •   Marlboro Motor Lodge (Block 270 Lot 14 – 137 Route 9 South)
+       Status – Proposed
+       Total Senior Rental Credits - 90
+
+       The property is developed with three single-story structures which currently operate as
+       the Marlboro Motor Lodge motel, and an additional structure which is the Marlboro
+       Diner. The Township has been in negotiations with the current owner of this site for
+       many years to convert the former motor lodge into 90 affordable senior rental units. By
+       way of history, the Township adopted Ordinance 2010-018, which authorized the
+       purchase of the property for affordable housing purposes. This Ordinance was amended
+       and approved by the Township on April 18, 2024, via Ordinance 2024-013 to allow for
+       condemnation authority. In addition, on May 17, 2012, the Township adopted Ordinance
+       2012-011, appropriating $5,275,000 to acquire the property, which was subsequently
+       amended via Ordinance 2025-009, to increase the total appropriation to $6,175,000.
+       Further, on December 12, 2019, the Township adopted Ordinance 2019-14, which
+       provided an overlay zoning on the subject parcel to permit construction of 90 affordable
+       senior rental units.
+Special or Supportive Housing Credits
+   •   Group Home Program (Various Locations)
+       Status – Proposed
+       Total Special/Supportive Housing Credits - 45
+
+       The Township will support the development of a total of 45 new bedrooms within group
+       home facilities. The Township will fund these group homes partially through the use of
+       funds within the Affordable Housing Trust Fund. It is anticipated that 100 percent of the
+       bedrooms in these group homes would be available to very low income residents.
+As a result of the surplus of credits, portions of the following projects will be carried over for
+credit to the Fourth Round:
+   •   Scattered Site Redevelopment – 94 Credits
+   •   Group Home Program – 4 Credits
+
+
+
+
+                                                                                                     37
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 41 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+F OURTH R OUND O BLIGATION
+The Township has a Fourth Round (2025 – 2035) Obligation of 370 affordable units.
+The following minimum and maximum requirements must be met when addressing the Fourth
+Round Obligation:
+
+   •   Age-Restricted Units: A maximum of 30% of credits claimed by the may be age-
+       restricted, or senior housing units.
+
+          o 30% x 370 = 111
+
+          o A maximum of 111 units may be age-restricted senior housing units.
+
+   •   Family Units: A minimum of 50% of credits to satisfy the Fourth Round shall be for
+       units available to families (non-age restricted or non-special needs housing)
+
+          o 50% x 370 = 185
+
+          o A minimum of 185 units must be family units.
+
+   •   Rental Units: A minimum of 25% of credits claimed by the Township must be rental
+       units, with at least half of those rental units being available to families.
+
+          o 25% x 370 = 92.5 (round up to 93)
+
+          o A minimum of 93 units must be rental units
+
+          o A minimum of 47 units must be family rental units.
+
+   •   Income Distribution: At least 50 percent of the units addressing the Fourth Round
+       obligation shall be affordable to low-income and low-income households. At least 13%
+       of all units shall be affordable to very-low-income households.
+
+          o 50% x 370 = 185
+
+          o 13% x 370 = 48
+
+          o 185 units must be available to low income households, inclusive of 48 units
+            available to very-low income households.
+
+   •   Bonus Credits: The Township may claim bonus credits for rental units at the following
+       ratios, with a maximum of 25% of the obligation being satisfied through bonus credits:
+
+          o   A maximum of 93 bonus credits can be applied to the Fourth Round obligation.
+
+
+                                                                                              38
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 42 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+F OURTH R OUND C OMPLIANCE M ECHANISMS
+The Township shall satisfy its 370 unit Fourth Round (2025-2035) prospective need obligation
+through the following mechanisms:
+                      Summary of Credits from Fourth Round (2025-2035)
+                       Project                        # of Credits         Bonus Credits
+ Prior Cycle Credits
+ Scattered Site Redevelopment                              94                    47
+ Group Home Program                                         4                     2
+ Family Rental Credits
+ The Place Phase I                                          4                     4
+ The Place Phase II                                         4                     4
+ Scattered Site Redevelopment (Additional                  88                    44
+ Yield)
+ Senior Rental Credits
+ Glenbrook Extension of Controls                           80                    40
+ Camelot III                                               10                     9
+ Special or Supportive Housing Credits
+ Oxford House                                               8                     8
+ State Group Home                                           6                     6
+ Total Credits                                             298
+ Total Bonus Credits                                                             164
+ Total Maximum Bonus Credits Allowed                                             93
+ Total Credits + Max. Bonus Allowed                        391
+ Fourth Round Obligation                                   370
+ Surplus Credits                                           21
+Third Round Surplus Credits
+   •   Scattered Site Redevelopment – 94 Family Rental Credits
+   •   Group Home Program – 4 Special/Supportive Housing Credits
+
+
+
+
+                                                                                               39
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 43 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+Family Rental Credits
+
+   •   The Place at Marlboro / Wildflower (Block 149, Lot 16.01 – Tennent Road)
+       Status –Completed
+       Total Family Rental Credits - 4
+
+       An additional four (4) units were constructed in connection with the Phase I development
+       of the tract. The development has been constructed and is currently occupied.
+
+   •   The Place at Marlboro / Wildflower II (Block 149, Lot 16.02 – Tennent Road)
+       Status – Under Construction
+       Total Family Rental Credits - 4
+
+       An additional four (4) units were approved in connection with the Phase II development
+       of the tract.
+
+   •   Scattered Site Redevelopment Additional Yield (Location Varies)
+       Status – Proposed; Approved
+       Total Family Rental Credits - 88
+
+       As previously noted in the Third Round, the Township has designated multiple properties
+       as “areas in need of redevelopment”, and adopted a redevelopment plan for each of these
+       parcels that permits multi-family development with a mandatory inclusionary set aside of
+       30%. The Township seeks to amend the redevelopment plan to increase the maximum
+       permitted density to a yield of eight units to the acre to generate additional credits.
+
+Senior Rental Credits
+
+   •   Camelot III (Block 132, Lot 18.02)
+       Status – Proposed
+       Total Senior Rental Credits - 10
+
+       10 senior rental units are proposed to be constructed as an extension of the Camelot
+       project.
+
+   •   Glenbrook Estates / Kaplan (Block 412, Lot 307 – Thrasher Court)
+       Status - Proposed
+       Total Senior Rental Credits - 80
+
+       The Township will extend the affordability controls on 80 of the existing affordable units
+       within Glenbrook Estates and place new 30 year affordability controls on the
+       development. This project initially was occupied in 1996, and the original 30 year control
+       period is set to end in 2028.
+
+
+
+
+                                                                                              40
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 44 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+Special or Supportive Housing Credits
+
+   •   Oxford House (Block 143, Lot 8 – Woodbrook)
+       Status - Completed
+       Total Special/Supportive Housing Credits - 8
+
+       This supportive needs housing facility contains 8 bedrooms.
+
+   •   State Hospital Group Home (Block 159, Lot 11 – Newman Springs Road)
+       Status – Proposed
+       Total Special/Supportive Housing Credits - 6
+
+       This is the former state psychiatric hospital site, which has been closed since 1998. All
+       structures were demolished in 2015. Proposed for this site is a 6 bedroom group home
+       facility, to be constructed within two single-family structures.
+
+It should be noted, that the Township received inquiries from proposed developers to include
+potential inclusionary developments in the Township’s Fair Share Plan. These included:
+
+   •   100 Buckingham Street Owner LLC, Block 143, Lots 1.04 and 1.05 (formerly known as
+       Lots 1.02 & 12)
+   •   Crine Realty, Inc., Block 171, Lot 33.
+   •   Lennar (Passarella), Block 225 Lot 227.01
+   •   Regal/Werbler, Block 147 Lots 31.01 and 31.02
+   •   Fleyva, Block 168 Lots 3 and 4 and Block 160 Lots 13-15
+   •   The Sisters of the Good Shepherd (Collier Youth Services), Block 153 Lots 38 and 47
+
+The Township does not concede that the proposals received constitute a “commitment” within
+the meaning of P.L.2024, c.2. Nonetheless, the Township reviewed the proposals and
+determined that the potential mechanisms were not required to satisfy its fair share obligations
+for the Fourth Round. The Township is vested with exclusive authority and responsibility to
+develop a Housing Element and Fair Share Plan to fulfill its affordable housing obligation. The
+amendments to the New Jersey Fair Housing Act, P.L.1985, c.222 (C:52:27D-301, et al.) enacted
+pursuant to P.L.2024, c.2, confer upon the Township the mandate to solely determine the most
+appropriate mechanisms for compliance. Pursuant to N.J.S.A. 52:27D-304.1(f), a municipality’s
+plan is not subject to challenge based upon any claim that a site on real property proposed by an
+alleged interested party provides a better compliance mechanism than the mechanisms selected
+by a municipality.
+
+
+
+
+                                                                                                   41
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 45 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+C ONSIDERATION OF L ANDS S UITABLE FOR A FFORDABLE H OUSING
+The Fair Share Plan must demonstrate site suitability for proposed new units that are not yet fully
+approved, as required by N.J.A.C. 5:93 -5.3. A site is considered to be suitable for development
+with affordable housing if it is available, developable, suitable, and approvable.
+An “available site” is a site with clear title, and that is free of encumbrances which preclude
+development for low- and moderate-income housing.
+   •   Although no title search has been performed for any of the properties proposed as
+       affordable housing sites, maps indicating the likely areas of wetlands or flood hazard area
+       on all of these properties indicate minimal environmental encumbrances. Each of the sites
+       are “available” as there is sufficient land for development.
+A “developable site” is a site that has access to appropriate water and sewer infrastructure, and is
+consistent with the applicable area-wide water quality management plan and wastewater
+management plan.
+   •   All sites in the compliance plan are “developable”. All sites are within a designated sewer
+       service area, or immediately adjacent to a sewer service area whereas service could
+       feasibly be extended to the site.
+A “suitable site” is a site that is adjacent to compatible land uses, has access to appropriate
+streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4 (not in
+wetlands, flood hazard areas, steep slopes).
+   •   All sites in the compliance plan are “suitable”. All properties within the proposed overlay
+       zoning district are primarily located along major highways in the Township, and are
+       mostly located in Planning Area 2 of the State Plan. This is an area where development
+       and redevelopment are encouraged, and where lands are generally free of environmental
+       encumbrances. The surrounding lands of the overlay zones primarily consist of lower
+       density residential development, and some mixed commercial uses along the highway
+       frontages, and would not be incompatible with multi-family residential development.
+An “approvable site” is a site that may be developed for low- and moderate-income housing in a
+manner consistent with the rules or regulations of all agencies with jurisdiction over the site. A
+site may be approvable although not currently zoned for low- and moderate-income housing.
+
+   •   As a part of this plan, the Township will adopt new zoning ordinances to ensure that all
+       proposed affordable housing development on sites identified in this plan will be
+       approvable as permitted principal uses, and at appropriate housing densities in their
+       respective zoning districts.
+
+
+
+
+                                                                                                  42
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 46 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+HOUSING ADMINISTRATION
+
+A FFORDABLE H OUSING O RDINANCE & A FFIRMATIVE MARKETING
+The Township adopted Ordinance Chapter 70 in accordance with all Fair Housing Act and
+Uniform Housing Affordability Controls (UHAC) requirements.
+
+   •   All new affordable housing units will have a minimum of 50% of the units be available to
+       low income households, with at least 13% of units being available to very-low-income
+       households. No more than 50% of housing units shall be made available to moderate
+       income households.
+   •   All new construction shall be adaptable in conformance with P.L.2005, c.350/N.J.S.A.
+       52:27D-311a and -311b.
+   •   All affordable units shall fully comply with UHAC.
+   •   In inclusionary developments, the affordable units shall be integrated with the market rate
+       units.
+   •   Construction of affordable units in inclusionary developments shall be phased in
+       compliance with N.J.A.C. 5:93-5.6(d).
+   •   All affordable units shall be affirmatively marketed in accordance with UHAC and
+       applicable laws.
+   The Township has appointed a municipal staff member to serve as the designated Municipal
+   Housing Liaison. The Housing Liaison is responsible for overseeing all affordable housing
+   regulations and corresponding with administrative agent(s), the public, and all other related
+   affordable housing professionals. The Township relies on their affordable housing
+   administrator to administer all projects that do not have their own administrative agent. The
+   administrative agent, who is a consultant to the Township, is responsible for the marking, the
+   setting of sale and rental process for affordable units, income certification of applicants,
+   creation of a waiting list of income certified applicants and the initial random selection
+   process for new affordable units.
+   The Township has adopted an Affirmative Marketing Plan pursuant to N.J.A.C. 5:80-
+   26.15(f), which includes regulations for qualifications of income eligibility, price and rent
+   restrictions, bedroom distribution, affordability control periods, and unit marketing. to
+   ensure that all available affordable units are marketed to the appropriate populations.
+
+A FFORDABLE H OUSING T RUST F UND
+The Township has adopted a development fee Ordinance to create a dedicated revenue source for
+affordable housing. The Ordinance is codified in Chapter 70, Subsection 27, and imposes fees
+on all applicable residential and non-residential development. The collected development fees
+are deposited into an interest-bearing affordable housing trust fund.
+
+
+
+
+                                                                                                   43
+   MON-L-000313-25 06/20/2025 12:54:12 PM Pg 47 of 47 Trans ID: LCV20251814247
+
+
+
+Marlboro Township – Housing Plan Element and Fair Share Plan
+
+The Township will adopt by resolution an updated Spending Plan for the affordable housing trust
+fund. The Spending Plan will provide an outline of how the Township intents to utilize these
+funds to further the goals and mechanisms established in this Plan, and in accordance with prior
+COAH regulations found at N.J.A.C. 5:97 et seq, and with the Fair Housing Act. This will
+include a summary of revenues and expenditures to date from the affordable housing trust fund,
+identify mechanisms to collect revenues, project anticipated future revenues and interest, as well
+as outline all proposed spending from the trust fund. Funds will be spent on appropriate housing
+activity, affordability assistance, and administrative expenses consistent with applicable prior
+COAH regulations.
+
+In the event that funding sources identified in the Spending Plan prove to be inadequate to
+complete the affordable housing programs outlined in this Housing Plan, the Township shall
+provide sufficient funding to address any such shortfalls.
+
+
+
+
+                                                                                               44
+

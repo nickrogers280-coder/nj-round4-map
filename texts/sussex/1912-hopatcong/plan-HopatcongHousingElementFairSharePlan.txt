@@ -1,0 +1,1813 @@
+SSX-L-000078-25
+SSX-L-000078-25 06/19/2025
+                 06/26/202511:43:46
+                            8:59:19 AM
+                                    PM Pg
+                                       Pg11of
+                                            of32
+                                              27 Trans
+                                                 TransID:
+                                                       ID:LCV20251856212
+                                                          LCV20251811181
+
+
+
+
+     Hopatcong Borough
+       Housing Element
+       & Fair Share Plan
+                                                          Prepared by:
+                                      Van Cleef Engineering Associates
+
+                                                        Prepared for:
+                                                Borough of Hopatcong
+                                            Sussex County, New Jersey
+
+                                                Adopted June 17, 2025
+    SSX-L-000078-25
+    SSX-L-000078-25 06/19/2025
+                     06/26/202511:43:46
+                                8:59:19 AM
+                                        PM Pg
+                                           Pg22of
+                                                of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                              LCV20251811181
+
+
+
+
+Acknowledgements
+Mayor                                            Administrator
+Marie Galate                                     Shelby Snow
+
+Borough Council                                  Land Use Board
+Jennifer Johnson                                 Robert Rehe – Chairman
+Rachel Rodriguez                                 Jonathan Taylor – Vice Chairman
+Steve Kucevic                                    Marie Galate – Mayor
+Joseph Falconi                                   Shelby Snow – Class II
+Christine Smith                                  Steve Kucevic – Class III
+Anthony Bongiovanni                              Jonathan Kadimik – Class IV
+                                                 Richard Chiarella – Class IV
+Borough Clerk                                    Judith Kracht – Class IV
+Valerie Egan, RMC                                Andrew Diamond – Class IV
+                                                 James Mazalewski – Alternate 1
+Borough Attorney                                 Bill Wagner – Alternate 2
+John Ursin, Esq.                                 James O’Brien – Alternate 3
+
+Land Use Board Attorney                          Land Use Board Secretary
+William Haggerty, Esq.                           Amy Mejia
+
+Borough & Land Use Board Planner
+Joseph Vuich, PE, PP, CME
+
+
+
+
+Prepared by:
+
+
+___________________________________
+Joseph R. Vuich, PP
+Planner License No. 6358
+
+
+  The original of this report was signed and sealed in accordance with N.J.S.A. 45:14A-12
+   SSX-L-000078-25
+   SSX-L-000078-25 06/19/2025
+                    06/26/202511:43:46
+                               8:59:19 AM
+                                       PM Pg
+                                          Pg33of
+                                               of32
+                                                 27 Trans
+                                                    TransID:
+                                                          ID:LCV20251856212
+                                                             LCV20251811181
+
+
+
+
+Contents
+ Introduction .............................................................................................................. 2
+ History of A ordable Housing in Hopatcong Borough ................................................... 3
+ Current Planning Context ........................................................................................... 3
+ Item A: Municipal Housing Inventory ........................................................................... 5
+    Total Housing Stock, Age, and Condition .................................................................. 5
+    Housing Type and Value .......................................................................................... 6
+    Occupancy Characteristics .................................................................................... 8
+ Item B: Municipal Housing Projections ........................................................................ 9
+ Item C: Analysis of Demographic Characteristics....................................................... 10
+    Population and Households .................................................................................. 10
+    Income ................................................................................................................ 11
+ Item D: Existing and Future Employment Characteristics ............................................ 13
+    Hopatcong Borough Labor Force Analysis .............................................................. 13
+    Employment within Hopatcong Borough ................................................................ 15
+    Employment Projections ...................................................................................... 16
+ Item E: Present and Prospective Fair Share Determinations ........................................ 17
+    Regional Context .................................................................................................. 17
+    Prior Round Obligation ......................................................................................... 18
+    Fourth Round Obligation ....................................................................................... 18
+ Item F: Consideration of Appropriate Sites ................................................................ 20
+    A ordable Housing Tools and Credits .................................................................... 21
+    Vacant Land and Durational Adjustments .............................................................. 22
+    A ordable Housing Subcommittee ........................................................................ 23
+    A ordable Housing Overlay Zone .......................................................................... 23
+    Additional Compliance Mechanisms ..................................................................... 23
+ Items G, H, and I: State and Regional Consistency Requirements................................ 24
+    Multigenerational Housing Continuity Commission Consistency ............................. 24
+    Highlands Regional Master Plan Consistency ......................................................... 24
+    New Jersey State Development and Redevelopment Plan Consistency .................... 25
+
+
+
+
+                                                      1|Page
+    SSX-L-000078-25
+    SSX-L-000078-25 06/19/2025
+                     06/26/202511:43:46
+                                8:59:19 AM
+                                        PM Pg
+                                           Pg44of
+                                                of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                              LCV20251811181
+
+
+
+
+Introduction
+The need to provide a realistic opportunity for the creation of a ordable housing has been
+recognized for decades in New Jersey. In the landmark case of Southern Burlington County
+NAACP v. the Borough of Mount Laurel 67 N.J. 151 (1975), (Mount Laurel I), the New Jersey
+Supreme Court established the doctrine that New Jersey municipalities have a
+constitutional obligation to zone for a variety and choice of housing types that would be
+a ordable to low- and moderate-income households. This decision was reinforced in
+Southern Burlington County NAACP v. Borough of Mount Laurel, 92 N.J. 158, 456 A.2d 390
+(1983) (Mount Laurel II). In its ruling, the Supreme Court expanded the Mount Laurel doctrine
+by establishing the ﬁrst methodology for municipalities to establish their “fair share” of
+regional housing needs. Mount Laurel II also established the “builder’s remedy,” as an
+enforcement mechanism, empowering developers to potentially invalidate the zoning of
+municipalities that fail to provide for their fair share.
+
+In response to the Supreme Court of New Jersey’s call for a more substantive legislative
+remedy in the Mount Laurel II decision, the New Jersey Legislature adopted the Fair Housing
+Act (FHA) in 1985 (N.J.S.A. 52:270-301, et seq.). The FHA established the Council on
+A ordable Housing (COAH) as an administrative alternative to builder’s remedy lawsuits and
+the concomitant jurisdiction of the courts. COAH was given the responsibility of dividing the
+state into housing regions, determining regional and municipal fair share a ordable housing
+obligations, and adopting regulations that would establish the guidelines and approaches
+that municipalities may use in addressing their a ordable housing need. These regulations
+would be subject to regular updates, called Rounds, to ensure that municipalities remain up
+to date with the requirements of the FHA.
+
+COAH would administer a ordable housing regulations in New Jersey for the ﬁrst three
+rounds. However, di iculties in implementing in administering the Third Round since 2008
+culminated in The Supreme Court of New Jersey declaring COAH moribund in 2015. Trial
+courts resumed their role as the sole forum for evaluating municipal compliance with Mount
+Laurel regulations until 2024, when Governor Chris Murphy signed P.L. 2024, c.2., formally
+abolishing COAH and transferring its responsibilities to the Department of Community
+A airs (DCA). In October of that year, DCA prepared new a ordable housing rules and
+methodology for determining municipal share of regional housing need, beginning the
+Fourth Round.
+
+This Housing Element and Fair Share Plan for Hopatcong Borough has been prepared in
+accordance with applicable law.
+
+
+
+
+                                         2|Page
+    SSX-L-000078-25
+    SSX-L-000078-25 06/19/2025
+                     06/26/202511:43:46
+                                8:59:19 AM
+                                        PM Pg
+                                           Pg55of
+                                                of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                              LCV20251811181
+
+
+
+
+History of A ordable Housing in Hopatcong Borough
+Hopatcong Borough did not participate in the Third Round of a ordable housing obligations.
+The New Jersey Supreme Court’s declaring the Council on A ordable Housing moribund left
+the Borough without any way of determining its a ordable housing obligation. No developer
+or other interested party has brought forth a suit over the Borough’s lack of participation, nor
+has the township entered any settlement agreement for an alternative a ordable housing
+obligation determination.
+
+While the Borough has no Housing Element and Fair Share Plan for the Third Round, the
+Borough did participate in a ordable housing activities in the years covered by the round.
+This includes a HUD and USDA-sponsored housing rehabilitation program in 2006, new
+construction of 100% a ordable housing on eight municipally owned properties in 2006, and
+approvals for 21 units of supportive housing between 2002 and 2023. With the passage of
+P.L. 2024, c.2. and establishment of new rules for the Fourth Round, the Borough seeks to
+bring itself fully in compliance with any new or outstanding a ordable housing obligation.
+
+Current Planning Context
+Pursuant to both the Fair Housing Act (52:27D-310) and the Municipal Land Use Law (MLUL)
+N.J.S.A. 40:55D-28, municipalities in New Jersey are required to include a housing element
+in their master plans. The statutorily required contents of the housing element are as follows:
+
+   a. An inventory of the municipality’s housing stock by age, condition, purchase or rental
+      value, occupancy characteristics, and type, including the number of units a ordable
+      to low- and moderate-income households and substandard housing capable of being
+      rehabilitated;
+   b. A projection of the municipality’s housing stock, including the probable future
+      construction of low- and moderate-income housing, for ten years, taking into
+      account, but not necessarily limited to, construction permits issued, approvals of
+      applications for development and probable residential development of lands;
+   c. An analysis of the municipality’s demographic characteristics, including but not
+      necessarily limited to, household size, income level and age;
+   d. An analysis of the existing and probable future employment characteristics of the
+      municipality;
+   e. A determination of the municipality’s present and prospective fair share for low- and
+      moderate-income housing and its capacity to accommodate its present and
+      prospective housing needs, including its fair share for low- and moderate-income
+      housing; and
+
+
+
+
+                                          3|Page
+SSX-L-000078-25
+SSX-L-000078-25 06/19/2025
+                 06/26/202511:43:46
+                            8:59:19 AM
+                                    PM Pg
+                                       Pg66of
+                                            of32
+                                              27 Trans
+                                                 TransID:
+                                                       ID:LCV20251856212
+                                                          LCV20251811181
+
+
+
+
+f. A consideration of the lands that are most appropriate for construction of low- and
+   moderate-income housing and of the existing structures most appropriate for
+   conversion to, or rehabilitation for low- and moderate-income housing, including a
+   consideration of lands of developers who have expressed a commitment to provide
+   low- and moderate-income housing.
+g. An analysis of the extent to which municipal ordinances and other local factors
+   advance or detract from the goal of preserving multigenerational family continuity, as
+   expressed in the recommendations of the Multigenerational Family Housing
+   Continuity Commission as adopted pursuit to N.J.A.C. 52:27D-329.20.
+h. For a municipality located within the jurisdiction of the Highlands Water Protection
+   and Planning Council, established pursuant to section 4 of P.L.2004, c.120 (C.13:20-
+   4), an analysis of compliance of the housing element with the Highlands Regional
+   Master Plan of lands in the Highlands Preservation Area, and lands in the Highlands
+   Planning Area for Highlands-conforming municipalities
+i. An analysis of consistency with the State Development and Redevelopment Plan,
+   including water, wastewater, stormwater, and multi-modal transportation based on
+   guidance and technical assistance from the State Planning Commission.
+
+
+
+
+                                     4|Page
+     SSX-L-000078-25
+     SSX-L-000078-25 06/19/2025
+                      06/26/202511:43:46
+                                 8:59:19 AM
+                                         PM Pg
+                                            Pg77of
+                                                 of32
+                                                   27 Trans
+                                                      TransID:
+                                                            ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+Item A: Municipal Housing Inventory
+“An inventory of the municipality’s housing stock by age, condition, purchase or rental value,
+occupancy characteristics, and type, including the number of units a ordable to low- and
+moderate-income households and substandard housing capable of being rehabilitated;”
+
+Over 95 percent Hopatcong Borough’s housing stock consists of single-family homes. Much
+of this housing stock is aged, with over half units built prior to 1970, though deﬁciencies in
+need of rehabilitation remain low. Compared to the rest of Sussex County, a smaller share of
+Hopatcong housing stock, 10.5 percent vs. 15.1 percent, is renter-occupied.
+
+Total Housing Stock, Age, and Condition
+According to the 2023 American Community Survey 5-Year Estimates, there are 6,427
+housing units in Hopatcong Borough, comprising 10.2 percent of Sussex County’s 62,825
+housing units per the same survey. Housing development saw two major spikes in the 1950s
+and 1970s before falling o sharply. As of writing, no new units have been built since 2020.
+
+                      Hopatcong Borough: Housing Units by Year Structure Built
+     2000                                                                                             30.0%
+
+     1800
+                                                                                                      25.0%
+     1600
+
+     1400
+                                                                                                      20.0%
+     1200
+
+     1000                                                                                             15.0%
+
+      800
+                                                                                                      10.0%
+      600
+
+      400
+                                                                                                      5.0%
+      200
+
+         0                                                                                            0.0%
+              1939 or 1940 to 1950 to 1960 to 1970 to 1980 to 1990 to 2000 to 2010 to 2020 or
+              earlier  1949    1959    1969    1979    1989    1999    2009    2019    later
+    Series1    465      705      1811      1022     1478      496         200     79    171     0
+    Series2    7.2%    11.0%     28.2%    15.9%    23.0%     7.7%         3.1%   1.2%   2.7%   0.0%
+
+
+S ource: 2023 A me rican Communit y Surv ey, 5 -Year Estimat es: B25034
+
+
+
+
+                                                   5|Page
+     SSX-L-000078-25
+     SSX-L-000078-25 06/19/2025
+                      06/26/202511:43:46
+                                 8:59:19 AM
+                                         PM Pg
+                                            Pg88of
+                                                 of32
+                                                   27 Trans
+                                                      TransID:
+                                                            ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+While the overall housing stock is aged,                                 Hopatcong Borough: Overcrowded
+deﬁciencies in need of rehabilitation                                        Occupied Housing Units
+remain low. Out of 5,842 occupied housing                                      Overcrowded, 1%
+units in the Borough, only 63 units, just over
+1 percent, meet the HUD criteria for
+overcrowding (more than 1 person per
+room), with no units meeting the criteria for
+severe overcrowding (more than 1.5
+persons per room). In addition, there are 40
+units estimated to lack complete plumbing
+facilities, and 11 units estimated to lack
+complete kitchen facilities. These may or
+may not have overlap with overcrowded
+units due to limitations in data gathering.
+                                                                                Not Overcrowded, 99%
+Housing Type and Value
+                                                                 S ource: 2023 A me rican Communit y Surv ey, 5 -Ye ar
+                                                                                  Estimates, DP 04
+Over 95 percent of Hopatcong Borough’s
+housing stock consists of single-family homes. Of the portion of units in multi-family
+structures, over half are duplexes with just two units.
+
+                        Hopatcong Borough: Housing Type by Units in Structure
+
+
+
+
+                                                     Single Family, Attached              3-4 Units   5-9 Units
+                                                              1.40%                        0.65%       0.45%
+                                                                                                           10-19 Units
+                                                                                                             0.40%
+
+                                             Other                                                         20 or More Units
+    Single Family, Detached                                                                                     0.36%
+            93.95%                           4.65%
+
+
+                                                                                            2 Units
+                                                                                            2.79%
+
+
+
+
+S ource: 2023 A me rican Communit y Surv ey, 5 -Year Estimat es, DP 04
+
+
+
+
+                                                      6|Page
+     SSX-L-000078-25
+     SSX-L-000078-25 06/19/2025
+                      06/26/202511:43:46
+                                 8:59:19 AM
+                                         PM Pg
+                                            Pg99of
+                                                 of32
+                                                   27 Trans
+                                                      TransID:
+                                                            ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+The table to the right shows the distribution of                   Hopatcong Borough: Housing Size
+housing sizes in Hopatcong Borough by number                                 by Room Count
+of rooms. Median room count has increased                         # of Rooms          Total Percent
+slightly in recent years, from 6.0 in 2018                        1 Room               59       0.9
+American Community Survey estimates to 6.1 in                     2 rooms              107      1.7
+2023 estimates.                                                   3 rooms              310      4.8
+                                                                  4 rooms              901     14.0
+For the Borough’s 5,288 owner-occupied housing                    5 rooms             1031     16.0
+units, nearly half of all units are valued between                6 rooms             1396     21.7
+$300,000 and $500,000. Compared to Sussex                         7 rooms             1064     16.6
+County as a whole, the Borough has a                              8 rooms              773     12.0
+signiﬁcantly lower share of homes valued over                     9 rooms or more      786     12.2
+                                                                  Median # of Rooms        6.1
+$500,000. It’s this di erence at the top end that
+explains most of the di erence in median home      S ource: 2023 A me rican Communit y Surv ey, 5-
+                                                               Ye ar Estimates, DP 04
+prices: $318,600 for Hopatcong Borough versus
+$342,800 for Sussex County Both ﬁgures, however, represent considerable increases from
+the $240,300 and $266,000 median home values for the Borough and County, respectively,
+reported in the 2018 American Community Survey.
+
+             Hopatcong Borough vs. Sussex County: Distribution of Owner-
+                             Occupied Home Values
+                                                                          Sussex County
+
+                                                        12.3%
+                             17.0%
+
+                                       8.6%           13.0%
+
+
+
+
+                                                                                          Less than $200,000
+                                          Hopatcong                                       $200,000 to $299,999
+                                           Borough                       25.8%
+                                                                                          $300,000 to $499,999
+                                                                 30.8%                    $500,000 or more
+
+                         47.6%
+
+
+
+
+                          44.9%
+
+
+
+
+S ource: 2023 A me rican Communit y Surv ey, 5 -Year Estimat es, DP 04
+
+
+
+                                                      7|Page
+    SSX-L-000078-25
+    SSX-L-000078-25 06/19/2025
+                    06/26/202511:43:46
+                               8:59:19 AM
+                                       PM Pg
+                                          Pg10
+                                             10of
+                                                of32
+                                                   27 Trans
+                                                      TransID:
+                                                            ID:LCV20251856212
+                                                                LCV20251811181
+
+
+
+
+Occupancy Characteristics
+Approximately 82 percent of Hopatcong Borough’s housing units are owner-occupied. Total
+vacancies are estimated at 585 units, approximately 8 percent of the total. Owing to much
+of the Borough fronting Lake Hopatcong, around half of vacant units are from homes
+occupied only part of the year for seasonal or recreational use.
+
+                   Hopatcong Borough: Occupancy and Vacancy Characteristics
+
+
+
+
+                                        Renter-
+                                     Occupied, 614,                                                          Seasonal and
+                                        9.47%                                                              Recreational Use,
+                                                                                                              293, 4.52%
+
+
+
+                                     Vacant, 585, 9.02%
+
+
+              Owner-Occupied,                                                          All Other Vacant                  Not Occupied,
+               5288, 81.52%                                                            Properties, 200,                   For Sale, 55,
+                                                                                            3.08%                            0.85%
+
+
+
+
+                                                                                                               Not Occupied,
+                                                                                                                For Rent, 37,
+                                                                                                                   0.57%
+
+
+
+S ources (top and bottom): 2023 A me rican Communit y Surv ey, 5 -Year Estimates, DP 04 & B25004
+
+In terms of housing burden (deﬁned by                             Hopatcong Borough: Housing Costs
+HUD as spending 30 percent or more of                               as a Share of Monthly Income
+gross monthly income on housing),
+approximately 37 percent of units with a                                                                  Units with
+                                                                                                          Mortgages
+mortgage and 40 percent of units paying
+rent are cost burdened. This does not
+include approximately 10 percent of                                                                                    Less than 20.0 percent
+
+
+occupied units without a mortgage (i.e.                     37%                              31% 35%
+                                                                  40%                                                  20.0 to 24.9 percent
+owned outright) that also meet the
+                                                                            Units
+criteria for housing cost burden. For both                               Paying Rent
+                                                                                                                       25.0 to 29.9 percent
+
+homeowners and renters, housing
+                                                                                              9%
+burden in the Borough is distinctly                                                                                    30.0 percent or more
+
+                                                                           20%
+bimodal; most residents have either very
+                                                                    9%
+low or very high housing costs relative to                                             19%
+
+their incomes.
+
+
+
+                                                          8|Page
+    SSX-L-000078-25
+    SSX-L-000078-25 06/19/2025
+                    06/26/202511:43:46
+                               8:59:19 AM
+                                       PM Pg
+                                          Pg11
+                                             11of
+                                                of32
+                                                   27 Trans
+                                                      TransID:
+                                                            ID:LCV20251856212
+                                                                LCV20251811181
+
+
+
+
+Item B: Municipal Housing Projections
+ “A projection of the municipality’s housing stock, including            Hopatcong Borough: Housing Units
+                                                                          Authorized by Building Permits
+the probable future construction of low- and moderate-                             1&2
+                                                                         Year                Multifamily
+income housing, for ten years, taking into account, but not                       Family
+necessarily limited to, construction permits issued,                    2013         4             0
+                                                                        2014         4              0
+approvals of applications for development and probable                  2015         1              1
+residential development of lands;”                                      2016         1              0
+                                                                        2017        22             18
+Per the table on the right, Hopatcong Borough has                       2018        20             0
+authorized an additional 112 residential units since 2013.              2019         3             0
+                                                                        2020         4             0
+Approximately 40 percent of the authorized units were for
+                                                                        2021         7             0
+multifamily structures consisting of more than two units. At            2022         6             0
+least one new housing unit has been approved every year                 2023        21             0
+over the available record period, but housing activity in               Total       93             19
+
+general remains low in the Borough.                                     S ource: Ne w Jersey Departme nt
+                                                                         of Community Affairs, B uild ing
+One factor that may contribute to low housing activity is the            Permits, Ye arl y Summar y Data
+
+Borough’s low population growth. The most recent housing,
+population, and employment forecasts by the North Jersey Transportation Planning
+Authority show signiﬁcant cooling in expected population growth between assessments
+done in 2005 and 2015. Furthermore, as both of these forecasts predate the COVID-19
+pandemic, these projections do not capture the disruptive e ect the pandemic had on
+population and job growth across the State.
+
+ Hopatcong Borough: NJTPA Projection    A lack of readily developable land may also contribute to
+            Comparisons
+  Projected
+                                        low housing activity in the Borough. 32 percent of all land in
+                   2035       2050
+ Year (Year of                          the Borough is within the Highlands Preservation Area.
+  Analysis)       (2005)     (2015)
+                                        Those lands not in the Preservation Area face additional
+  Population      17,170     15,101
+ Growth Rate       0.3%       0.1%      constraints such as conﬁrmed critical wildlife habitat and
+ Households        6,440      5,854     vernal pool areas, steep slopes, and open waters. These
+ Growth Rate       0.4%       0.1%
+                                        factors place ﬁrm upper limits on the developmental
+ Employment        2,010      1,737
+ Growth Rate       1.2%       0.4%      potential of the Borough if it is to avoid encroachment on
+        S ource: North Je rsey
+                                        these and other environmental resources.
+ Transportation Pl anning Authorit y,
+    Regional Transportation Pl an
+      Municipal De mograph ic
+             Proje ctions
+
+
+
+
+                                                9|Page
+    SSX-L-000078-25
+    SSX-L-000078-25 06/19/2025
+                    06/26/202511:43:46
+                               8:59:19 AM
+                                       PM Pg
+                                          Pg12
+                                             12of
+                                                of32
+                                                   27 Trans
+                                                      TransID:
+                                                            ID:LCV20251856212
+                                                                LCV20251811181
+
+
+
+
+Item C: Analysis of Demographic Characteristics
+“An analysis of the municipality’s demographic characteristics, including but not necessarily
+limited to, household size, income level and age;”
+
+Population and Households
+The latest available American Community Survey data estimates Hopatcong Borough’s
+population at 14,470, nearly identical to the 2020 Decennial Census. Hopatcong Borough
+grew exponentially from 1940 to 1980, but population would plateau in the following
+decades and is currently in a gradual decline.
+
+                               Hopatcong Borough: Population, 1900-2023
+      18,000
+
+      16,000
+
+      14,000
+
+      12,000
+
+      10,000
+
+       8,000
+
+       6,000
+
+       4,000
+
+       2,000
+
+           0
+                                                                                                                      2023
+                 1900   1910   1920   1930   1940   1950    1960     1970       1980   1990   2000    2010     2020
+                                                                                                                      (Est.)
+    Population    75    146    179    534    660    1,173   3,391    9,052 15,531 15,586 15,888 15,147 14,362 14,470
+
+
+S ources (top and righ t): 1900- 2020 US                      Hopatcong Borough vs. Sussex County: Distribution of
+De ce nnial C e nsus, A me rican Communit y                                  Households by Size
+Survey, 5-Year E stimates, DP05, S1101 and                                                                   Sussex County
+S2501
+
+Hopatcong       Borough’s        14,470                                   23%                            22%
+                                                                             23%                     22%
+residents are divided between 5,842
+total households, of which 4,123 are
+families. Average household and                                                        Hopatcong
+                                                                                        Borough
+family size are 2.47 and 2.91,
+respectively. Both average household                                      16%
+                                                                    17%
+and average family size are in line with
+                                                                                                   39%
+their respective Sussex County
+                                                                                                     38%
+averages of 2.50 and 2.95.
+                                                            1-person        2-person     3-person        4-or-more-person
+
+
+
+                                                    10 | P a g e
+    SSX-L-000078-25
+    SSX-L-000078-25 06/19/2025
+                    06/26/202511:43:46
+                               8:59:19 AM
+                                       PM Pg
+                                          Pg13
+                                             13of
+                                                of32
+                                                   27 Trans
+                                                      TransID:
+                                                            ID:LCV20251856212
+                                                                LCV20251811181
+
+
+
+
+                                Hopatcong Borough: Population Pyramid
+
+    85 years and over                                               29       70
+       80 to 84 years                                             78         59
+       75 to 79 years                                             182        225
+       70 to 74 years                                         252                 336
+       65 to 69 years                                        339                  360
+       60 to 64 years                                   469                         462
+       55 to 59 years                           734                                      590
+       50 to 54 years                                582                                516
+       45 to 49 years                                 569                                     681
+       40 to 44 years                                 554                           469
+       35 to 39 years                             666                                         678
+       30 to 34 years                                   469                             515
+       25 to 29 years                                       399                          562
+       20 to 24 years                                   438                   296
+       15 to 19 years                                   468                  231
+       10 to 14 years                                       391                   371
+          5 to 9 years                                      392                     451
+        Under 5 years                                         305             282
+
+                     1000   800       600      400          200          0         200          400     600      800      1000
+
+                                                      Male        Female
+
+
+S ource: 2023 A me rican Communit y Surv ey, 5 -Year Estimat es, S0101
+
+Hopatcong Borough’s median age of 41.4 years old is slightly older than Sussex County’s
+median age of 44.1 years. However, the Borough’s old age dependency ratio, a measure of
+the relationship between people aged 65 and older with the 15-64 working age population,
+is signiﬁcantly lower than the County average: 19.6 percent compared to 29.8 percent.
+
+Income                                                        Selected Economic Characteristics: Hopatcong
+                                                                  Borough vs. Sussex County/New Jersey
+In terms of income, Hopatcong                                                Hopatcong                 Sussex           New
+Borough’s median household income is                                          Borough                  County          Jersey
+similar to Sussex County as a whole.                    Median
+                                                        Household             $114,057                $114,316    $101,050
+Median family income is lower than                      Income
+median family income across all of                      Median
+Sussex County, but in keeping with State                Family                $124,653                $134,187    $123,892
+                                                        Income
+averages. The Borough’s poverty rate is                 Poverty
+                                                        Rate
+                                                                                   4.2%                5.4%            9.8%
+below both County and State levels.
+                                                               S ource: 2023 A me rican Communit y Surv ey, 5 -Year
+                                                                            Estimates, S1701, S1901
+
+
+
+
+                                                     11 | P a g e
+   SSX-L-000078-25
+   SSX-L-000078-25 06/19/2025
+                   06/26/202511:43:46
+                              8:59:19 AM
+                                      PM Pg
+                                         Pg14
+                                            14of
+                                               of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+Analyzing detailed income distributions, non-family household incomes lag behind family
+households. The median non-family household income of $83,560 is about two thirds the
+median family income of $124,653. At the extreme lower end, while around 7 percent of non-
+family households have incomes below $15,000, less than 2 percent of family households
+do.
+
+           Hopatcong Borough: Distribution of Non-Family and Family
+                           Household Incomes
+ 35.0%
+
+
+ 30.0%
+
+
+ 25.0%
+
+
+ 20.0%
+
+
+ 15.0%
+
+
+ 10.0%
+
+
+  5.0%
+
+
+  0.0%
+         Less than $10,000    $15,000    $25,000    $35,000    $50,000    $75,000 $100,000 $150,000 $200,000
+         $10,000 to $14,999 to $24,999 to $34,999 to $49,999 to $74,999 to $99,999 to $149,999 to $199,999 or more
+
+                                       Non-Family Households        Families
+
+
+                     S ource: 2023 A me rican Communit y Surv ey, 5 -Year Estimat es, S1901
+
+Much of the disparity between family and non-family household income is explained by non-
+family households being smaller on average; 1.29 persons compared to 2.91 for average
+family size per the 2023 American Community Survey Five-Year Estimates. However, this
+should not be taken to mean that all non-family households are wealthier on a per-capita
+basis, and thus not of concern for a ordable housing needs. Demographics such as young
+working professionals can face di iculties forming families if priced out of homeownership.
+Similarly, seniors living alone may likely own their homes, but living on ﬁxed incomes can
+make staying in their homes unviable if increased property valuations result in higher
+property tax burden. These and other non-family households represent populations more
+vulnerable to housing costs than simple per capita income metrics would suggest.
+
+
+
+                                                 12 | P a g e
+   SSX-L-000078-25
+   SSX-L-000078-25 06/19/2025
+                   06/26/202511:43:46
+                              8:59:19 AM
+                                      PM Pg
+                                         Pg15
+                                            15of
+                                               of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+Item D: Existing and Future Employment Characteristics
+“An analysis of the existing and probable future employment characteristics of the
+municipality;”
+
+                                    Hopatcong Borough: Labor Force Estimates, 2013-2023
+Hopatcong Borough Labor                       Civilian      Resident        Total       Unemployment.
+                                   Year     Labor Force    Employment    Unemployed       Rate (%)
+Force Analysis                     2013     8,391       7,678        713            8.5
+Hopatcong Borough’s civilian       2014     8,178       7,622        556            6.8
+                                   2015     8,031       7,562        469            5.8
+labor force has held steady
+                                   2016     7,917       7,530        387            4.9
+between 2013 and 2013. This is     2017     8,020       7,634        386            4.8
+consistent      with      trends   2018     7,993       7,670        323            4.0
+
+throughout Sussex County as a      2019     8,143       7,858        285            3.5
+                                   2020     8,125       7,285        840           10.3
+whole. Barring a temporary         2021     8,042       7,496        546            6.8
+disruption        in       2020,   2022     8,185       7,845        340            4.2
+unemployment rates have been       2023     8,340       7,956        384            4.6
+                                       Sussex County: Labor Force Estimates, 2013-2023
+in decline in both the Borough
+                                              Civilian      Resident        Total       Unemployment.
+and County even as the total       Year     Labor Force    Employment    Unemployed       Rate (%)
+labor force remains constant.      2013        79,189         72,788         6,401             8.1
+                                   2014        77,258         72,319         4,939             6.4
+                                   2015        76,070         71,976         4,094             5.4
+                                   2016        75,241         71,726         3,515             4.7
+                                   2017        76,002         72,719         3,283             4.3
+                                   2018        75,967         73,080         2,887             3.8
+                                   2019        77,369         74,788         2,581             3.3
+                                   2020        76,179         69,295         6,884             9.0
+                                   2021        76,084         71,299         4,785             6.3
+                                   2022        77,614         74,621         2,993             3.9
+                                   2023        79,040         75,673         3,367             4.3
+                                           New Jersey: Labor Force Estimates, 2013-2023
+                                              Civilian      Resident         Total       Unemployment
+                                   Year     Labor Force    Employment     Unemployed       Rate (%)
+                                   2013       4,528,019      4,147,661       380,358           8.4
+                                   2014       4,493,894      4,191,318       302,576           6.7
+                                   2015       4,494,606      4,237,876       256,730           5.7
+                                   2016       4,492,821      4,271,201       221,620           4.9
+                                   2017       4,614,953      4,406,151       208,802           4.5
+                                   2018       4,604,787      4,420,713       184,074           4.0
+                                   2019       4,687,390      4,525,044       162,346           3.5
+                                   2020       4,638,386      4,200,980       437,406           9.4
+                                   2021       4,648,814      4,337,793       311,021           6.7
+                                   2022       4,736,213      4,552,563       183,650           3.9
+                                   2023       4,829,671      4,615,722       213,949           4.4
+                                          S ource: New Je rsey Department of L ab or and Workforce
+                                              Deve lopme nt: L ab or Force Es timates, 2013-2023
+
+
+
+
+                                       13 | P a g e
+     SSX-L-000078-25
+     SSX-L-000078-25 06/19/2025
+                     06/26/202511:43:46
+                                8:59:19 AM
+                                        PM Pg
+                                           Pg16
+                                              16of
+                                                 of32
+                                                    27 Trans
+                                                       TransID:
+                                                             ID:LCV20251856212
+                                                                 LCV20251811181
+
+
+
+
+In terms of employment by occupation (type of work done by employer), The management,
+business, science, and arts occupations comprise about half of the civilian labor force,
+followed by sales and o ice occupations and service occupations.
+
+                                       Hopatcong Borough: Employment by Occupation
+
+                                                                                10%
+
+
+                                                               7%
+
+
+
+
+                                                                                                                        46%
+
+
+
+                                                       25%
+
+
+
+
+                                                                                      12%
+
+              Management, business, science, and arts occupations                                 Service occupations
+
+              Sales and office occupations                                                        Natural resources, construction, and maintenance occupations
+
+              Production, transportation, and material moving occupations
+
+S ource (Top and b ottom): A me rican Communit y Surv ey, 2023 5-year Estimates, DP 03
+
+When broken down by industry (class of employer), educational services, health care, and
+social assistance are the most common industry, followed by administrative professionals.
+
+                                           Hopatcong Borough: Employment by Industry
+                                                                                0     200      400    600     800 1000 1200 1400 1600 1800 2000
+
+                       Agriculture, forestry, fishing and hunting, and mining       27
+                                                               Construction                              586
+                                                             Manufacturing                                                970
+                                                           Wholesale trade                  210
+                                                                 Retail trade                                                   1116
+                              Transportation and warehousing, and utilities                     312
+                                                                Information              158
+              Finance and insurance, and real estate and rental and leasing                                 609
+     Professional, scientific, and management, and administrative services                                                         1254
+               Educational services, and health care and social assistance                                                                                 1902
+ Arts, entertainment, and recreation, and accommodation and food services                                           859
+                               Other services, except public administration                           490
+                                                      Public administration                    276
+
+
+
+
+                                                                                14 | P a g e
+        SSX-L-000078-25
+        SSX-L-000078-25 06/19/2025
+                        06/26/202511:43:46
+                                   8:59:19 AM
+                                           PM Pg
+                                              Pg17
+                                                 17of
+                                                    of32
+                                                       27 Trans
+                                                          TransID:
+                                                                ID:LCV20251856212
+                                                                    LCV20251811181
+
+
+
+
+Employment within Hopatcong Borough
+The New Jersey Department of Labor and Workforce Development publishes annual
+Municipal Reports by Sector, but not all sectors have publicly disclosed data. Aggregate data
+shows that local private employment has pulled away from near-parity with public
+employment to just below a 2:1 ratio over a ten-year period from 2013 to 2023.
+
+                                              Hopatcong Borough: Local Employment by Sector
+ 1400
+
+
+
+ 1200
+
+
+
+ 1000
+
+
+                                                                                                                                                                772
+  800
+
+
+             574
+  600
+
+
+
+  400
+             529
+             419                                                                                                                                                420
+  200                                                                                                                                                           296
+
+
+    0
+             2013               2014           2015          2016             2017            2018         2019           2020              2021   2022         2023
+
+                                                             Private Sector                Public Sector           Public Education
+
+
+S ource (Top and b ottom): New Je rsey De partme nt of L ab or and Workforce Developme nt: Municipal R eports by
+S e ctor, 2013- 2023
+
+                                 Hopatcong Borough: Private Sector Unit Count and Average
+                                           Employment by NAICS Sector, 2023
+                                0                     20               40                     60                  80                  100          120                140
+                    Utilities       N/A
+              Construction                                       29                                                                                       121
+             Manufacturing          N/A
+           Wholesale Trade          N/A
+               Retail Trade                       15                                                                                                            129
+        Transp/Warehousing          N/A
+                Information         N/A
+         Finance/Insurance          N/A
+                Real Estate                      14                             43
+    Professional/Technical                        15                                             59
+ Admin/Waste Remediation            N/A
+                 Education                                            34                                          76
+              Health/Social               5            18
+         Arts/Entertainment                     13                                                                                      99
+             Other Services                      14              30
+              Unclassifieds                       16        23
+
+                                                                           Average Units      Average Employment
+
+
+
+
+                                                                                  15 | P a g e
+    SSX-L-000078-25
+    SSX-L-000078-25 06/19/2025
+                    06/26/202511:43:46
+                               8:59:19 AM
+                                       PM Pg
+                                          Pg18
+                                             18of
+                                                of32
+                                                   27 Trans
+                                                      TransID:
+                                                            ID:LCV20251856212
+                                                                LCV20251811181
+
+
+
+
+Employment Projections
+Few sources exist for employment projections at the                                  Hopatcong Borough: NJTPA
+municipal level. The most recent projections by North Jersey                           Employment Projection
+                                                                                     2015 Employment     1,505
+Transportation Planning Authority project an annualized                              2050 Employment     1,737
+employment growth of 0.4 percent from 2015 to 2050.                                      Annualized
+However, as NJTPA’s municipal projections rely on manual                                Employment       0.4%
+                                                                                          Change
+allocation of data collected at the county level, these ﬁgures
+                                                                                         S ource: North Je rsey
+do not necessarily relate to other labor force or employment                           Transportation Pl anning
+                                                                                          Authorit y, R egional
+projections by the New Jersey Department of Labor and                               Transportation Pl an Municipal
+                                                                                      De mographic Projections
+Workforce Development or United States Census Bureau.
+
+Absent more robust publicly available data, the next best projections involve performing
+statistical analysis on existing available data to extrapolate trends into future projections.
+Mapping lines of best ﬁt to existing New Jersey Department of Labor and Workforce
+Development data suggest that, if current trends continue, Hopatcong Borough may have a
+civilian labor force of just under 13,000 employees by 2035, with local employment reaching
+1,400 workers by the same year.
+S ource: Ne w Je rsey Departme nt of L abor and Workforce Developme nt: Lab or Force Esti mates and Municipal
+Re ports by Se ctor, 2013-2023
+
+
+
+          Hopatcong Borough: Polynomial Trendline                     Hopatcong Borough: Exponential Trendline
+           Projection of Future Civilian Labor Force                      Projection of Future Employment
+
+ 14000                                                        1600
+                                             R² = 0.3743
+
+ 12000                                                        1400
+                                                                                                   R² = 0.2831
+                                                              1200
+ 10000
+                                                              1000
+  8000
+                                                               800
+  6000
+                                                               600
+  4000
+                                                               400
+
+  2000                                                         200
+
+     0                                                           0
+
+
+
+
+                                                       16 | P a g e
+   SSX-L-000078-25
+   SSX-L-000078-25 06/19/2025
+                   06/26/202511:43:46
+                              8:59:19 AM
+                                      PM Pg
+                                         Pg19
+                                            19of
+                                               of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+Item E: Present and Prospective Fair Share Determinations
+“A determination of the municipality’s present and prospective fair share for low- and
+moderate-income housing and its capacity to accommodate its present and prospective
+housing needs, including its fair share for low- and moderate-income housing;”
+
+Updates to the New Jersey Fair Housing Act pursuant to P.L. 2024, c.2 transferred
+responsibility for developing methodology for determining municipal present and
+prospective fair share to the New Jersey Department of Community A airs. In October of
+that year, DCA published its report of A ordable Housing Fourth Round Methodology and
+Background, including initial calculations of present and prospective need for all
+municipalities. This section summarizes Hopatcong Borough’s allocation of present and
+prospective need based on DCA’s assessment and the Borough’s response thereof. It also
+includes a summary of the Borough’s response to all prior round obligations pursuant to the
+Borough’s settlement agreement with Fair Share Housing Center.
+
+Regional Context
+As part of establishing shares of present and prospective     New Jersey Housing Region 2
+need, DCA assigned all New Jersey Counties to one of six     (Essex, Sussex, Union, Warren)
+                                                              Present and Prospective Need
+housing regions. Sussex County, along with Essex, Union,
+                                                            Present Need         18,547
+and Warren County, constitute Region 2.                     Prospective Need Determination
+                                                                 2010
+DCA calculated the a ordable housing need for each                              693,844
+                                                             Households
+region based on di erent methodologies for both present          2020
+                                                                                745,108
+                                                             Households
+and prospective need. Present regional need utilized US
+                                                               Change            51,264
+Department of Housing and Urban Development data to            Regional
+estimate the share of inadequate housing (deﬁned using       Prospective
+                                                                Need             20,506
+HUD standards as homes that lack complete kitchen or          (Change /
+plumbing facilities, as well as homes more than 50 years         2.5)
+old and overcrowded). For prospective need, DCA              S ource: New Je rsey Departme nt
+                                                             of Community Affairs: Af fo rdab le
+assessed the change in total households in each region          Housing 2025- 2035 (Fourth
+between the 2010 and 2020 Decennial Census. This                 Round ) Method ology and
+                                                                       Background
+change was then divided by 2.5 on the estimate that 40
+percent of household growth came from new low-and-
+moderate-income households.
+
+
+
+
+                                       17 | P a g e
+    SSX-L-000078-25
+    SSX-L-000078-25 06/19/2025
+                    06/26/202511:43:46
+                               8:59:19 AM
+                                       PM Pg
+                                          Pg20
+                                             20of
+                                                of32
+                                                   27 Trans
+                                                      TransID:
+                                                            ID:LCV20251856212
+                                                                LCV20251811181
+
+
+
+
+Prior Round Obligation
+Hopatcong Borough did not participate in the Third Round of a ordable housing obligations.
+The New Jersey Supreme Court’s declaring the Council on A ordable Housing moribund left
+the Borough without any way of determining its a ordable housing obligation. No developer
+or other interested party has brought forth a suit over the Borough’s lack of participation, nor
+has the township entered any settlement agreement for an alternative a ordable housing
+obligation determination. Absent guidance from DCA regarding how to determine Third
+Round obligations for municipalities without a third-party settlement, this Housing Element
+makes no assumptions about the extent or status of any prior round obligations.
+
+Fourth Round Obligation
+Based on New Jersey DCA’s methodology,                            New Jersey DCA Fourth Round
+Hopatcong Borough was determined to have a                     Calculations for Hopatcong Borough
+                                                                           Present Need
+Fourth Round present need of 3 units, and a
+                                                             Total Present Need                 3
+prospective need of 306 units, for a total Fourth                       Prospective Need
+Round obligation of 309 units. The table to the right        Nonresidential Valuation Factor 0.29%
+                                                             Land Capacity Factor            2.21%
+summarizes DCA’s calculations as pertains to
+                                                             Income Capacity Factor          0.81%
+Hopatcong Borough.                                           Average Allocation Factor       1.10%
+                                                             Regional Prospective Need
+Under the provisions of P.L. 2024, c.2, Municipalities                                       20,506
+                                                             (Region 2)
+were required to either accept the present and               Prospective Need                 306
+                                                             Preliminary Fourth Round
+prospective need ﬁgures as provided by DCA, or                                                309
+                                                             Obligation
+calculation their own determination based on
+                                                              S ource: New Je rsey Department of
+methodology laid out in the law (i.e. disputes had to       Communit y Affairs : Af fordab le Housing
+                                                            2025- 2035 (Fourth Round) Method ology
+be matters of improper calculation only, not of                         and Background
+opinion), no later than January 30, 2025. The Borough
+would undertake its own assessment of both its present and perspective need. For
+prospective need, the Borough re-analyzed DCA’s land capacity data to remove any parcels
+that failed to satisfy one or more criteria for vacant developable land according to law.
+
+Based on these analyses, the Borough adopted a                  Summary of Hopatcong Borough’s
+revised Fourth Round obligation of 3 present need                    Fourth Round Obligation
+                                                                          Present Need
+and 244 prospective need. After resolving any
+                                                             Present Need                     3
+challenges, the Superior Court of New Jersey ﬁxed            Prospective Need                244
+the Borough’s Fourth Round present and prospective           Prior Round Obligation          TBD
+                                                             Total Fourth Round Obligation   247*
+need ﬁgures in agreement with the Borough’s
+                                                               * To incorporate any unmet prior round
+assessment.                                                           ob ligation once d ete rmine d
+
+
+
+
+                                            18 | P a g e
+   SSX-L-000078-25
+   SSX-L-000078-25 06/19/2025
+                   06/26/202511:43:46
+                              8:59:19 AM
+                                      PM Pg
+                                         Pg21
+                                            21of
+                                               of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+In addition to establishing methodology for determining present and prospective need, P.L.
+2024, c.2 established rules for minimum and maximum allowances for certain types of
+a ordable housing. Based on Hopatcong’s determination of present and prospective need,
+the following minimums and maximums apply:
+
+      Age-restricted housing is limited to a maximum of 30 percent (73 units) of a
+       municipality’s prospective need.
+      Bonus credits of any kind are limited to a maximum of 25 percent (61 units) of a
+       municipality’s prospective need.
+      A ordable units reserved for very low-income households must constitute a
+       minimum of 13 percent (32 units) of a municipality’s actual units created towards its
+       prospective need.
+      A ordable units available to families with children must constitute a minimum of 50
+       percent (122 units) of a municipality’s actual units created towards its prospective
+       need.
+      A ordable units for rent must constitute a minimum of 25 percent (61 units) of a
+       municipality’s actual units created towards its prospective need, with at least half (31
+       units) of a ordable rental housing made available to families with children.
+
+
+
+
+                                         19 | P a g e
+   SSX-L-000078-25
+   SSX-L-000078-25 06/19/2025
+                   06/26/202511:43:46
+                              8:59:19 AM
+                                      PM Pg
+                                         Pg22
+                                            22of
+                                               of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+Item F: Consideration of Appropriate Sites
+“A consideration of the lands that are most appropriate for construction of low- and
+moderate-income housing and of the existing structures most appropriate for conversion to,
+or rehabilitation for low- and moderate-income housing, including a consideration of lands
+of developers who have expressed a commitment to provide low- and moderate-income
+housing.”
+
+Pursuant to N.J.A.C. 5:93-1.3, sites that are designated to produce a ordable housing shall
+be available, approvable, developable, and suitable according to the following criteria:
+
+      “Available site” means a site with clear title, free of encumbrances which preclude
+       development for low- and moderate-income housing. N.J.A.C. 5:93-1.3.
+      “Approvable site” means a site that may be developed for low- and moderate-income
+       housing in a manner consistent with the rules or regulations of agencies with
+       jurisdiction over the site. A site may be approvable although not currently zoned for
+       low- and moderate-income housing.
+      “Developable site” means a site that has access to appropriate water and sewer
+       infrastructure, and is consistent with the applicable area wide water quality
+       management plan (including the wastewater plan) or is included in an amendment to
+       the area wide water quality management plan submitted to and under review by the
+       DEP.
+      “Suitable site” means a site that is adjacent to compatible land uses, has access to
+       appropriate streets and is consistent with the environmental policies delineated in
+       N.J.A.C. 5:93-4.
+
+In addition to the above qualiﬁcations, sites should be consistent with the State
+Development and Redevelopment Plan (SDRP). Sites that are located in the Metropolitan
+Planning Area 1 or Suburban Planning Area 2 of the SDRP, or are in an existing sewer service
+area, are the preferred locations for municipalities to address their fair share obligation.
+Approximately one third of Hopatcong Borough is in the Highlands Preservation Area,
+outside of the jurisdiction of the SDRP. Of the remaining land, the Borough consists primarily
+of Planning Area 5 (Environmentally Sensitive), with portions of Planning Area 4 (Rural) along
+the borders of the Preservation Area. Most of the land outside of the Highlands Preservation
+Area is a Highlands designated center, including its entire coastline with Lake Hopatcong.
+
+As required under the Fair Housing Act and the MLUL, the Township shall consider “lands of
+developers who have expressed a commitment to provide low- and moderate-income
+housing.” The Borough has not received any interest from any developer who has expressed
+a commitment to providing low- and moderate-income housing.
+
+
+                                         20 | P a g e
+    SSX-L-000078-25
+    SSX-L-000078-25 06/19/2025
+                    06/26/202511:43:46
+                               8:59:19 AM
+                                       PM Pg
+                                          Pg23
+                                             23of
+                                                of32
+                                                   27 Trans
+                                                      TransID:
+                                                            ID:LCV20251856212
+                                                                LCV20251811181
+
+
+
+
+A ordable Housing Tools and Credits
+In meeting the Borough’s a ordable housing obligations, the Fair Housing Act grants
+municipalities a variety of tools and opportunities for credit towards their prospective need.
+A municipality may receive one credit for such activities as establishing a ordability controls
+with private developers, rehabilitating existing housing units into a ordable units, or
+administering their own properties for a ordable housing, among others.
+
+In addition to regular credit-earning activities, certain development types associated with
+the most at-need populations and best development practices are eligible to receive bonus
+credits. A summary of the credits authorized by P.L. 2024, c.2 is provided in the
+accompanying table. Such bonus credits may apply for up to 25 percent of a municipality’s
+prospective need for the Round.
+
+                                                                                                                    Bonus
+                                             Development Type
+                                                                                                                   Credits:
+ Creation of LMI housing for individuals with special needs or permanent supportive housing                           1
+ Creation of LMI housing in partnership/sponsorship with a non-proﬁt housing developer                               0.5
+ Creation of LMI housing within a half-mile radius of an NJ Transit, Port Authority, or PATH rail, bus, or ferry
+                                                                                                                     0.5
+ station (one mile radius if also in a Garden State Growth Zone)
+ Creation of age-restricted housing, provided the credit is not applied to more than 10% of the units
+                                                                                                                     0.5
+ constructed in a development
+ Creation of LMI housing with at least three bedrooms, in excess of the minimum 50% of new units
+                                                                                                                     0.5
+ created for the bedroom distribution of required a ordable housing for families with children
+ Creation of LMI housing on land that was previously developed/utilized for retail, o ice, or commercial
+                                                                                                                     0.5
+ space
+ Extending an existing LMI unit’s a ordability control for a new term of a ordability                                0.5
+ Creation of LMI units as part of an 100% a ordable development, provided the municipality contributes
+                                                                                                                      1
+ either land or a minimum 3 percent of the development costs towards the project.
+ Creation of LMI housing for Very Low-Income families above the 13% of units required to be reserved for
+                                                                                                                     0.5
+ Very Low-Income families
+ Creation of LMI housing by converting an existing market rate unit into an a ordable unit                            1
+                                  S ource: P.L. 2024, c.2 (N.J.S. A . 52:270-301, e t seq.)
+
+
+
+
+                                                        21 | P a g e
+   SSX-L-000078-25
+   SSX-L-000078-25 06/19/2025
+                   06/26/202511:43:46
+                              8:59:19 AM
+                                      PM Pg
+                                         Pg24
+                                            24of
+                                               of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+Vacant Land and Durational Adjustments
+Depending on local conditions, it may not be possible for a municipality to provide su icient
+sites for meeting its a ordable housing obligations, even with bonus credits. In such cases,
+a municipality may request an adjustment of its prospective need. The Fair Housing Act
+provides for two such adjustments:
+
+      Vacant Land Adjustments, which are based on a lack of developable land due to such
+       factors as environmental constraints, deed restrictions, or preexisting plans for
+       development that remove currently vacant lands from consideration.
+      Durational Adjustments, which are based on a lack of available water and sewer
+       infrastructure, or available capacity for expanding such infrastructure.
+
+Each type of adjustment has its own advantages and disadvantages. A vacant land
+adjustment has the advantage of lowering a municipality’s total perspective need outright.
+However, vacant land adjustments require the municipality to complete an inventory of its
+developable lands to demonstrate its limited development potential. Such assessments are
+vulnerable to being revised upwards by courts calling for greater presumptive densities than
+the initial inventory would suggest.
+
+Additionally, developer interest in inclusionary developments may initiate further upwards
+revisions of prospective need based on a change in circumstances, as land previously
+considered unlikely to develop may be included. Thus, while a vacant land adjustment can
+potentially lower a municipality’s prospective need, it leaves municipalities vulnerable to
+later upwards revisions should an interested party challenge the determination.
+
+In comparison, a durational adjustment defers the obligation to provide for a municipality’s
+prospective need until suitable water and sewer infrastructure exists to support such
+development. Compared to vacant land adjustments, durational adjustments are simpler to
+determine; a municipality only needs to demonstrate its lack of available water and sewer
+infrastructure and inability to secure additional water and sewer allocation based on
+availability.
+
+However, should a municipality receive a durational adjustment, it obligates any increase in
+public water and sewer capacity to be prioritized towards satisfying its prospective need.
+Since durational adjustments do not reduce a municipality’s prospective need, this requires
+the municipality to devote such infrastructure towards satisfying its entire a ordable
+housing obligation, before approving other types of development. This can severely limit a
+municipality’s ability to expand other land uses.
+
+
+
+
+                                        22 | P a g e
+   SSX-L-000078-25
+   SSX-L-000078-25 06/19/2025
+                   06/26/202511:43:46
+                              8:59:19 AM
+                                      PM Pg
+                                         Pg25
+                                            25of
+                                               of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+A ordable Housing Subcommittee
+Hopatcong Borough is seeking a durational adjustment for its entire Fourth Round
+prospective need. At present, it is not possible for the Borough to satisfy its prospective need
+through available sites without ﬁrst establishing additional water and sewer infrastructure.
+At the same time, a lack of developer interest and unresolved questions regarding prior
+round obligations leave the Borough unable to identify appropriate sites to satisfy its
+obligation in a realistic manner.
+
+In order to begin addressing these deﬁciencies, the Borough proposes to establish an
+A ordable Housing Subcommittee. The Subcommittee will be tasked with deﬁnitive record
+of a ordable housing compliance actions within the Borough, coordinating with DCA to
+resolve ambiguities surrounding the Borough’s prior round obligation, and establishing
+criteria for site selection that, should adequate service infrastructure be developed, may
+provide available, approvable, developable, and suitable sites for providing a realistic
+opportunity for the Borough to satisfy its current and outstanding a ordable housing
+obligations.
+
+A ordable Housing Overlay Zone
+In anticipation of future Subcommittee actions, the Borough proposes to establish an
+A ordable Housing Overlay Zone. This ﬂoating zone will provide a foundation for future
+zoning amendments to permit inclusionary residential developments su icient to satisfy the
+Borough’s obligations, conditional on the establishment of adequate public water and sewer
+capacity to support such development. Where such overlays are established, the underlying
+zoning will remain in e ect until such a time as a developer expresses a commitment to
+providing low- and moderate-income housing within the designated zones.
+
+Additional Compliance Mechanisms
+The Borough will continue to seek opportunities to partner with non-proﬁt organizations for
+the rehabilitation and, on a per-site basis, construction of new a ordable housing units. The
+Borough will likewise continue to maintain its A ordable Housing Trust Fund, including a
+commitment to conform with all reporting requirements thereof.
+
+
+
+
+                                          23 | P a g e
+   SSX-L-000078-25
+   SSX-L-000078-25 06/19/2025
+                   06/26/202511:43:46
+                              8:59:19 AM
+                                      PM Pg
+                                         Pg26
+                                            26of
+                                               of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+Items G, H, and I: State and Regional Consistency Requirements
+Multigenerational Housing Continuity Commission Consistency
+“An analysis of the extent to which municipal ordinances and other local factors advance or
+detract from the goal of preserving multigenerational family continuity, as expressed in the
+recommendations of the Multigenerational Family Housing Continuity Commission as
+adopted pursuit to N.J.A.C. 52:27D-329.20.”
+
+The New Jersey State Legislature established the Multigenerational Housing Continuity
+Commission in 2021 with the passage of P.L. 2021, c.273. The Commission, created in
+response to a record number of senior deaths in nursing homes during the COVID-19
+pandemic, is tasked with informing the Governor of local incentives and barriers to seniors
+living with members of their extended family as an alternative to nursing homes. As part of
+the law, municipalities are required to review their ordinances and other factors for their
+potential to advance or detract from multigenerational living arrangements as a required
+component of the Housing Element.
+
+While Hopatcong Borough’s code doesn’t contain any explicit provisions to promote
+multigenerational family living arrangements, nothing about the Borough’s deﬁnition of a
+family or single-family dwelling is constructed to impede such arrangements as permitted
+residential uses. The Borough’s Highlands code includes a stronger deﬁnition of immediate
+family member that explicitly includes grandparents as immediate family members, but this
+word usage only pertains to activities eligible for granting municipal Highlands Act
+exemptions. Similarly deﬁning family in land use to include multi-generational
+considerations may clarify the right of multi-generational families to make such
+arrangements as a permitted residential land use.
+
+Highlands Regional Master Plan Consistency
+“For a municipality located within the jurisdiction of the Highlands Water Protection and
+Planning Council, established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an
+analysis of compliance of the housing element with the Highlands Regional Master Plan of
+lands in the Highlands Preservation Area, and lands in the Highlands Planning Area for
+Highlands-conforming municipalities”
+
+This Plan is consistent with the Highlands Regional Master Plan (RMP). Any proposed
+development within the Highlands Preservation Area will be 100% a ordable pursuant to the
+July 2024 A ordable Housing RMP Amendment to Policy 71G pertaining to case-by-case
+Highlands permit and waiver review in the Preservation Area. Additionally, per amendments
+
+
+
+
+                                        24 | P a g e
+   SSX-L-000078-25
+   SSX-L-000078-25 06/19/2025
+                   06/26/202511:43:46
+                              8:59:19 AM
+                                      PM Pg
+                                         Pg27
+                                            27of
+                                               of32
+                                                  27 Trans
+                                                     TransID:
+                                                           ID:LCV20251856212
+                                                               LCV20251811181
+
+
+
+
+to Water Availability objectives, any creation or expansion of public water and wastewater
+systems shall be limited to the Existing Community Zone of the Planning Area.
+
+Hopatcong Borough submitted its Petition for Plan Conformance for the Planning Area in
+2019. Even prior to this petition, the Borough has prepared several planning documents
+pursuant towards conformance with the Highlands Regional Master Plan. These include an
+updated Master Plan Reexamination Report, Highlands Environmental Resource Inventory,
+and Highlands Exemption Ordinance. The Borough intends to continue towards
+conformance with the Highlands Regional Master Plan.
+
+New Jersey State Development and Redevelopment Plan Consistency
+“An analysis of consistency with the State Development and Redevelopment Plan, including
+water, wastewater, stormwater, and multi-modal transportation based on guidance and
+technical assistance from the State Planning Commission.”
+
+Approximately 32 percent of the Borough is in the Highlands Preservation Area, outside of
+the jurisdiction of the State Development and Redevelopment Plan. The remainder of the
+Borough is in Planning Area 5 (Environmentally Sensitive), save for select parcels located at
+the northern and western edges of the non-Preservation Area portion in Planning Area 4
+(Metro). Most of the Borough outside of the Highlands Preservation Area, including the
+entirety of its lakeside frontage, is a State Plan Center, coinciding with a Highlands
+Designated Center of similar extents.
+
+While the Center designation is consistent with the Borough’s existing lakeside community
+character and public water and sewer infrastructure, such development potential must be
+balanced against the need to preserve and enhance the ecosystem of the State’s largest
+freshwater lake. This will entail not only limiting development outside of existing sewer
+service area but ensuring that such development and related infrastructure meets such
+design standards to prevent impacts, such as soil erosion and nitrogen deposition, known
+to degrade lake ecosystems.
+
+No rail or bus service operates directly to and from Hopatcong Borough. Residents living in
+the southern portions of the Borough can access the Morris and Essex Line and Montclair-
+Boonton Line of NJ Transit via the Lake Hopatcong Station in nearby Roxbury Township. NJ
+Transit operated a park and ride service from the downtown area, but this service no longer
+appears on their latest map. Resumption of this or a similar shuttle service between transit
+stations and the downtown may be the topic of additional feasibility studies pursuant to the
+recommendations of the State Development and Redevelopment Update.
+
+
+
+
+                                        25 | P a g e
+     SSX-L-000078-25
+     SSX-L-000078-25 06/26/2025
+                      06/19/20258:59:19
+                                 11:43:46
+                                        AMPMPgPg
+                                               291of
+                                                   of32
+                                                      3 Trans
+                                                        TransID:
+                                                              ID:LCV20251811181
+                                                                 LCV20251856212
+
+
+
+
+                                          Resolution #
+
+                        RESOLUTION OF THE LAND USE BOARD
+                          OF THE BOROUGH OF HOPATCONG
+                   ADOPTING THE FOURTH ROUND ELEMENT AND
+                      FAIR SHARE PLAN, AND SPENDING PLAN
+
+
+
+
+       WHEREAS,       the Borough    of Hopatcong    (hereinafter known   as the “Borough”)   has
+
+demonstrated a history of voluntary compliance as evidenced by its Third Round Housing Element
+
+and Fair Share Plan Record; and,
+
+       WHEREAS,       pursuant to In Re Adoption of N.J.A.C, 5:95 and 5:97, 221 N.J. 1 (2015),
+
+Mount Laurel IV, the Borough of Hopatcong filed a Declaratory Judgment Complaint in the
+
+Superior Court, Law Division, seeking, among other things, a judicial declaration that its Third
+
+Round Housing Element and Fair Share Plan be amended as necessary satisfied its fair share of the
+
+regional need for low and moderate income housing pursuant to the Mount Laurel doctrine; and,
+
+       WHEREAS, that culminated in a Court-ordered Third Round Housing Element and Fair
+
+Share Plan and Final Judgment of Compliance and Repose which precluded all Mount Laurel
+
+lawsuits, including Builder’s Remedy lawsuits, until July 1, 2025; and,
+
+       WHEREAS, on March 20, 2024, Governor Murphy signed into law P.L. 2004, ¢.2 which
+
+amended the 1985 New Jersey Fair Share Housing Act (N.J.S.A. 25:27D-301, ef seq.) (hereinafter
+
+the “Amended FHA”);    and,
+
+       WHEREAS, the Amended FHA requires, among other things, that the municipality prepare
+
+and adopt a Fourth Round Housing Element and Fair Share Plan on or before June 30, 2025; and,
+
+       WHEREAS, the Land Use Board of the Borough of Hopatcong, County of Sussex, State of
+
+New Jersey has reexamined its Master Plan pursuant to N.J.S.A. 40:55D-89 ef seq.; and
+                                                 i
+        SSX-L-000078-25
+        SSX-L-000078-25 06/26/2025
+                         06/19/20258:59:19
+                                    11:43:46
+                                           AMPMPgPg
+                                                  302of
+                                                      of32
+                                                         3 Trans
+                                                           TransID:
+                                                                 ID:LCV20251811181
+                                                                    LCV20251856212
+
+
+
+
+         WHEREAS,      as a result of the reexamination and the passage of the Amended FHA, the
+
+Land Use Board has determined to adopt a Fourth Round Housing Element and Fair Share Plan for
+
+the Borough of Hopatcong; and,
+
+         WHEREAS,      in accordance with the Amended FHA, the Borough’s Planner, Joseph R.
+
+Vuich of Van Cleef Engineering, drafted the Fourth Round Housing Element and Fair Share Plan;
+
+and,
+
+         WHEREAS,      upon notice duly provided pursuant to N.J.S.A. 40:55D-13, the Land Use
+
+Board held a public hearing on the Fourth Round Housing Element and Fair Share Plan on June 17,
+
+2025; and,
+
+         WHEREAS,      after having listened to the testimony of its Planner and having taken into
+
+account the comments of the public, the Land Use Board determined that the attached Fourth Round
+
+Housing Element and Fair Share Plan is consistent with the goals and objectives of the Township’s
+
+current Master Plan and that the adoption and implementation of the Fourth Round Housing Element
+
+and Fair Share Plan is in the public interest and protects the public health and safety, and promotes
+
+the general welfare:
+
+         NOW, THEREFORE, BE IT RESOLOVED, on this 17" day of June 2025, by the Land
+
+Use Board of the Borough of Hopatcong, County of Sussex, State of New Jersey, hereby adopts the
+
+Fourth Round Housing Element and Fair Share Housing Plan attached hereto as Exhibit A.
+
+         The undersigned Chairman of the Hopatcong Borough Land Use Board hereby certifies that
+
+the above is a true copy of the Resolution adopted by the Board at its Special Meeting of June 17,
+
+2025,                                                 |       |     )     ©    seh
+
+
+                                                          Robert Rehe, Chair ‘person.
+                                                          Borough of Hopatcong Land Use phar
+                                                  2
+     SSX-L-000078-25
+     SSX-L-000078-25 06/26/2025
+                      06/19/20258:59:19
+                                 11:43:46
+                                        AMPMPgPg
+                                               313of
+                                                   of32
+                                                      3 Trans
+                                                        TransID:
+                                                              ID:LCV20251811181
+                                                                 LCV20251856212
+
+
+
+
+       I, Amy Mejia, the Secretary of the Borough of Hopatcong Land Use Board, in the County of
+
+Sussex and State of New Jersey do hereby certify the foregoing to be a true and correct copy of a
+
+Resolution passed at a Special Meeting of the Borough of Hopatcong Land Use Board held on June
+
+17, a
+
+              IC
+Amy Mejiay Secretary
+Borough of Hopatcong Land Use Board
+

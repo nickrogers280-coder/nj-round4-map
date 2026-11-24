@@ -1,0 +1,1982 @@
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 1 of 44 Trans ID: LCV20251857570
+  MER-L-000244-25 06/26/2025 10:40:29 AM Pg 2 of 44 Trans ID: LCV20251857570
+
+
+
+
+            The Township of Robbinsville
+                            Housing Element
+                                  and
+                             Fourth-Round
+                            Fair Share Plan
+                                    (2025-2035)
+
+
+
+
+                          The County of Mercer
+
+
+
+
+    Date Prepared                                                  Adopted On
+_______________________
+       June 11, 2025                                      ______________________
+                                                                June 24, 2025
+
+
+
+
+          This document has been prepared in accordance with N.J.S.A 52:27D-310 and
+                             the Fair Housing Act P.L.1985, c.222
+  MER-L-000244-25 06/26/2025 10:40:29 AM Pg 3 of 44 Trans ID: LCV20251857570
+
+
+
+
+                                             Mayor
+                                           David Fried
+                                       Planning Board
+                                   Frank Cettina, Chair
+                                 Daniel Jackson, Vice Chair
+                                        Bill Berdan
+                                     Michael Brennan
+                                        Harsh Bhatt
+                                   Vincent J. Calcagno
+                                      Michael Caputo
+                                     Christine Ciaccio
+                                     Kathy Goodwine
+                                         Ravi Patni
+                                    Danielle Spilatore
+                                       Sanjot Savant
+                                       Regina Wilder
+                                Land Use Board Attorney:
+                                     Jerry Dasti, Esq.
+                                     Township Planner:
+                                        Stuart Wiser
+                               Land Use Board Secretary:
+                                   Tianna Thompson
+                                  Administrative Officer:
+                                    Tianna Thompson
+
+
+It is certified that all copies of this document are in conformance with the one signed and sealed by
+                           Christine Cofone, P.P, License #5517
+
+
+                        _______________________________________
+                                         Prepared by:
+                            Cofone Consulting Group, LLC
+  Christine Cofone, AICP, PP | Justin Auciello, AICP, PP | Amanda D’Addario, AICP
+                                  52 Reckless Place
+                                 Red Bank, NJ 07701
+                                    732-933-2715
+                            ccofone@cofoneconsulting.com
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 4 of 44 Trans ID: LCV20251857570
+           MER-L-000244-25 06/26/2025 10:40:29 AM Pg 5 of 44 Trans ID: LCV20251857570
+
+
+TABLE OF CONTENTS
+
+I.         Introduction                                                                                1
+      A.         Executive Summary & Introduction                                                      1
+      B.         Summary of Judicial and Legislative Background of Affordable Housing in New Jersey    2
+      C.         Affordability Requirements                                                            3
+      D.         Housing Element and Fair Share Plan Requirements                                      5
+II.        The Housing Plan Element                                                                    8
+      A.         Analysis of Housing Stock                                                             8
+                  Age of Units                                                                         8
+                  Condition of Units                                                                   9
+                  Purchase and Rental Value                                                           11
+      B.         Projected Housing Stock                                                              12
+      C.         Municipality’s Demographic Characteristics                                           13
+                  Population                                                                          13
+                  Population Age                                                                      14
+                  Household Income Level                                                              14
+                  Household Type                                                                      15
+      D.         Employment Characteristics                                                           16
+III.       Fair Share Plan                                                                            17
+      A.         Introduction                                                                         17
+      B.         Cumulative Fair Share Obligation                                                     17
+      C.         Addressing the Townships Rehabilitation Obligation                                   19
+      D.         Addressing the Township’s Affordability Assistance Obligation                        19
+      E.         Prior Round Obligation                                                               19
+      F.         Third-Round Obligation                                                               20
+      G.         Fourth-Round Obligation                                                              21
+           1.       Site Suitability Analysis                                                         23
+           2.       Group Homes                                                                       31
+           3.       Creditworthiness of Existing Affordable Housing Units                             32
+           4.       Compliance Analysis                                                               32
+           5.       Very Low / Low / Moderate Income Requirements                                     32
+           6.       Preservation of Multigenerational Family Continuity                               33
+           7.       Mandatory Set Aside Ordinance                                                     33
+           8.       Development Fee Ordinance                                                         33
+           9.       Spending Plan                                                                     34
+           10.      State Development and Redevelopment Plan Consistency                              35
+           11.      Consideration of Lands Appropriate for Affordable Housing                         36
+           12.      Cost Generation                                                                   36
+           13.      Monitoring                                                                        37
+           MER-L-000244-25 06/26/2025 10:40:29 AM Pg 6 of 44 Trans ID: LCV20251857570
+
+
+
+
+IV.        Appendix                                                                     38
+      A. All Zoning Amendments
+      B. Affordable Housing Ordinance
+      C. Set Aside Ordinance
+      D. Development Fee Ordinance
+      E. Affirmative Marketing Plan
+      F. Spending Plan
+      G. Resolution of Intent
+      H. Copies of Resolutions
+      I.    2017 Housing Element Plan
+      J.    2018 Housing Element Plan
+      K. Rehabilitation Completion Status Information
+
+
+
+
+                                                                                        2
+     MER-L-000244-25 06/26/2025 10:40:29 AM Pg 7 of 44 Trans ID: LCV20251857570
+
+                                                                        The Township of Robbinsville
+                                                          Housing Element and Fair Share Plan – 2025
+
+
+
+I.     Introduction
+
+ A. Executive Summary & Introduction
+       In 1975, the New Jersey Supreme Court decision of Southern Burlington NAACP
+       v. Mount Laurel Township ruled to outlaw exclusionary zoning, and required all
+       New Jersey municipalities to provide their “fair share” of affordable housing. This
+       decision was borne out of the recognition and acknowledgement that “disparities
+       in wealth, health, and general well-being are inextricably linked to housing access,
+       making residential segregation a public health issue” according to the Fair Share
+       Housing Center. From the Mount Laurel decision, came the Mount Laurel Doctrine,
+       which mandates that municipalities must utilize their zoning powers to provide their
+       share of the region's affordable housing.
+       In New Jersey, affordable housing is defined as units reserved for households
+       earning no more than 80% of the regional median income. With limited exceptions,
+       each unit must remain affordable for at least 30 years—and 40 years for Fourth-
+       Round rental units—typically through a deed restriction. Each qualifying unit earns
+       one credit toward a municipality’s obligation, with certain units eligible for bonus
+       credits, offering more than one credit per unit. Municipalities must also ensure a
+       mix of affordability levels (very-low, low, and moderate income) and unit sizes
+       (one-, two-, and three-bedroom) to meet compliance standards.
+       This housing plan focuses on addressing the Township’s obligations for the Fourth-
+       Round of affordable housing, as defined by an amendment to the Fair Housing Act
+       enacted in March 2024. This round covers the period from July 1, 2025, through
+       June 30, 2035. Because one of the two primary components of the affordable
+       housing obligation is cumulative, this plan also includes strategies to satisfy
+       obligations from previous rounds. As a result, readers will recognize that several
+       elements from the Township’s Third-Round Housing Element and Fair Share
+       Plan—adopted by the Planning Board on April 10, 2023—are carried forward here.
+       The 2024 amendments to the Fair Housing Act initiated a structured process with
+       specific deadlines, requiring close coordination between the Township’s
+       Governing Body and the Planning Board. These actions are necessary for any
+       municipality seeking to comply with the Mount Laurel Doctrine, which mandates
+       that all New Jersey municipalities provide a fair share of affordable housing for
+       both current and future residents.
+       To determine the number of affordable housing units each municipality must
+       provide, the Division of Community Affairs performs calculations based on existing
+       deficient housing, each region's Income Capacity Factor, the municipal population,
+       existing land capacity, and the local capacity to accommodate growth. The
+       purpose of this Housing Element and Fair Share Plan is to outline how the
+       Township of Robbinsville intends to meet its constitutionally mandated affordable
+       housing obligation.
+
+                                                                                                  1
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 8 of 44 Trans ID: LCV20251857570
+
+
+
+
+B. Summary of Judicial and Legislative Background of Affordable Housing in
+   New Jersey
+
+   New Jersey’s affordable housing framework is grounded in the landmark Mount
+   Laurel decisions, which require municipalities to provide realistic opportunities for
+   low- and moderate-income housing. The 1983 Mount Laurel II ruling introduced
+   the builder’s remedy, allowing higher-density developments with affordable units
+   even on non-zoned sites.
+
+   In response, the Legislature enacted the Fair Housing Act (FHA) in 1985,
+   establishing the Council on Affordable Housing (COAH) to manage municipal
+   compliance. COAH administered three planning rounds. The first two (1987–1993
+   and 1993–1999) assigned municipalities both rehabilitation and projected growth
+   obligations—now known as the "prior round." The Third-Round (1999–2025)
+   attempted to link housing obligations to development through a “growth share”
+   model, which was later invalidated by the courts. COAH’s failure to adopt new rules
+   led the New Jersey Supreme Court to deem the agency defunct in 2015,
+   transferring jurisdiction to the courts. Municipalities now secure plan approval
+   through declaratory judgment actions, protecting them from builder’s remedy
+   litigation.
+
+   In 2017, the Court determined that the 1999–2015 "gap period" generated a
+   separate housing obligation. Together with rehabilitation, prior round, and
+   prospective need, this gap-period need forms today’s cumulative housing
+   requirement. Subsequent legislative updates have strengthened the framework.
+   The 2008 FHA amendments eliminated regional contribution agreements and
+   introduced requirements for very low-income housing. In 2020, new transparency
+   measures required all affordable units to be listed publicly.
+
+   Most notably, Public Law 2024, Chapter 2, permanently dissolved COAH and
+   assigned the Department of Community Affairs (DCA) the task of calculating
+   Fourth-Round obligations for 2025–2035. While these figures are advisory, the law
+   established a court-based Affordable Housing Dispute Resolution Program and
+   imposed stricter standards for Housing Element and Fair Share Plans, including
+   site suitability analysis, verification of affordability controls, and evidence of
+   realistic unit delivery.
+
+   Administrative Directive #14-24, issued in December 2024, further defined these
+   requirements, mandating that municipalities document zoning, affordability
+   mechanisms, unit feasibility, and implementation strategies through formal
+   ordinances and resolutions.
+
+
+
+
+                                                                                      2
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 9 of 44 Trans ID: LCV20251857570
+
+
+
+
+C. Affordability Requirements
+
+  Under New Jersey’s Fair Housing Act (FHA), affordable housing is defined as a
+  dwelling—whether for sale or rent—that falls within the financial reach of very-low,
+  low-, or moderate-income households, as determined within each designated
+  housing region. Robbinsville is located in Region 4, which comprises Mercer,
+  Monmouth, and Ocean counties.
+
+  Moderate-income households are those earning more than 50% but less than 80%
+  of the regional median income. Low-income households earn 50% or less of the
+  regional median. Very-low-income households, a subset of the low-income
+  category, are defined as those earning no more than 30% of the regional median
+  income.
+
+  Pursuant to the Uniform Housing Affordability Controls (UHAC) at N.J.A.C. 5:80-
+  26.3 et seq., rent and sale prices for affordable housing must align with defined
+  income thresholds. Maximum rent must be affordable to households earning no
+  more than 60% of the regional median income, while the average rent must be
+  affordable to those earning no more than 52%. For ownership units, the maximum
+  sale price must be affordable to households earning up to 70% of the median
+  income, with the average sale price affordable to those earning no more than 55%.
+
+  Regional median income figures are established annually by the U.S. Department
+  of Housing and Urban Development (HUD) and serve as the basis for setting
+  affordable rents and sale prices. Following Mount Laurel IV, income limits are now
+  set by Court Order.
+
+  Income limits for all units included in the Township’s Housing Element and Fair
+  Share Plan—excluding those governed by federal programs—shall be updated
+  annually upon HUD’s publication of revised median incomes, using the following
+  process:
+
+        ● Regional income limits for Region 4 (which includes Monmouth, Mercer,
+          and Ocean Counties) shall be based on a weighted average of
+          uncapped Section 8 income limits published by HUD. This is calculated
+          by multiplying HUD’s median income for a four-person household by the
+          number of households in each county per the latest Census, summing
+          these products across the region, and dividing by the total number of
+          households in Region 4. The result is the weighted regional median
+          income for a household of four.
+
+        ● Income limits for affordable housing shall be set as follows: 80% of the
+          regional weighted median income for moderate-income households,
+          50% for low-income households, and 30% for very low-income
+
+                                                                                     3
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 10 of 44 Trans ID: LCV20251857570
+
+
+
+
+              households. These limits are adjusted by household size using HUD
+              multipliers and may not fall below the previous year’s levels.
+
+         ● The Regional Asset Limit, used to determine applicant eligibility under
+           N.J.A.C. 5:80-26.16(b)3, shall also be updated annually. The Township
+           will calculate the percentage increase in income limits year over year
+           and apply the same percentage to adjust the Regional Asset Limit. This
+           limit, too, shall not decrease from the prior year.
+
+
+         ● For 2024, income limits for all housing regions in New Jersey—
+           including Region 4—were developed jointly by the Affordable Housing
+           Professionals of New Jersey (AHPNJ) and Fair Share Housing Center
+           (FSHC), using the methodology described above. These court-
+           approved limits will be applied to Robbinsville. See Table 1 for the 2024
+           income limits for Region 4.
+
+                                           Table 1
+                  Maximum Gross Income by Household Size for Housing Region 4
+      Household Size        Very-Low                                 Low      Moderate
+      1                     $27,311                                  $45,519 $72,830
+      2                     $31,213                                  $52,022 $83,234
+      3                     $35,115                                  $58,524 $93,639
+      4                     $39,016                                  $65,027 $104,043
+      5                     $42,137                                  $70,229 $112,367
+      6                     $45,259                                  $75,431 $120,690
+      7                     $48,380                                  $80,633 $129,013
+      8                     $51,501                                  $85,836 $137,337
+      Source: Affordable Housing Professionals Of New Jersey (Ahpnj) ‐ April 12, 2024, 2024 Affordable Housing Regional Income Limits
+      By Household Size Prepared By Affordable Housing Professionals Of New Jersey.
+      Https://Ahpnj.Org/Member_Docs/Income_Limits_2024_Final.Pdf
+
+
+   The following tables present illustrative 2024 gross rents and sale prices. These
+   figures are for demonstration purposes only and do not reflect adjustments for
+   utility allowances (rentals) or variables such as mortgage rates, taxes, or other
+   financing factors (sales).
+
+                                                 Table 2
+                         Illustrative 2024 Affordable Gross Rents for Region 4
+            Household Income Levels 1 Bedroom             2 Bedroom         3 Bedroom
+
+            Moderate                               $2,060                   $2,475                    $2,850
+            Low                                    $1,280                   $1,545                    $1,785
+            Very Low                               $770                     $925                      $1,071
+            Source: 2024 Affordable Housing Pricing Calculator prepared by Affordable Housing Professionals of New Jersey
+
+
+
+
+                                                                                                                            4
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 11 of 44 Trans ID: LCV20251857570
+
+
+
+
+                                                 Table 3
+                         Illustrative 2024 Affordable Gross Sales for Region 4
+            Household Income Levels 1 Bedroom             2 Bedroom         3 Bedroom
+
+            Moderate                              $190,029                  $229,913                 $267,137
+            Low                                   $133,053                  $161,541                 $188,130
+            Very Low                              $118,909                  $144,448                 $168,378
+            Source: 2024 Affordable Housing Pricing Calculator prepared by Affordable Housing Professionals of New Jersey.
+
+
+
+
+D. Housing Element and Fair Share Plan Requirements
+
+   Under the Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.), every municipal
+   master plan must include a housing element to support its zoning ordinance.
+   Pursuant to the amended Fair Housing Act, (N.J.S.A. 52:27D-310), this Housing
+   Element and Fair Share Plan includes the following components:
+
+       a.     An inventory of the municipality’s housing stock by age, condition,
+              purchase or rental value, occupancy characteristics, and type, including
+              the number of units affordable to low- and moderate-income households
+              and substandard housing capable of being rehabilitated;
+       b.     A projection of the municipality’s housing stock, including the probable
+              future construction of low- and moderate-income housing, for the next ten
+              years, taking into account, but not necessarily limited to, construction
+              permits issued, approvals of applications for development, and probable
+              residential development of lands;
+       c.     An analysis of the municipality’s demographic characteristics, including,
+              but not necessarily limited to, household size, income level, and age;
+       d.     An analysis of the existing and probable future employment
+              characteristics of the municipality;
+       e.     A determination of the municipality’s present and prospective fair share
+              of low- and moderate-income housing and its capacity to accommodate
+              its present and prospective housing needs, including its fair share of low-
+              and moderate-income housing, as established pursuant to section 3 of
+              P.L. 2024, c.2 (C.52:27D-304.1);
+       f.     A consideration of the lands most appropriate for construction of low- and
+              moderate-income housing and of the existing structures most appropriate
+              for conversion to, or rehabilitation for, low- and moderate-income
+              housing, including a consideration of lands of developers who have
+              expressed a commitment to provide low- and moderate-income housing;
+       g.     An analysis of the extent to which municipal ordinances and other local
+              factors advance or detract from the goal of preserving multigenerational
+              family continuity as expressed in the recommendations of the
+              Multigenerational Family Housing Continuity Commission, adopted
+              pursuant to paragraph (1) of subsection f. of 23 section 1 of P.L.2021,
+              c.273 (C.52:27D-329.20); and
+                                                                                                                             5
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 12 of 44 Trans ID: LCV20251857570
+
+
+
+
+        h.   An analysis of consistency with the State Development and
+             Redevelopment Plan, including water, wastewater, stormwater, and
+             multi-modal transportation based on guidance and technical assistance
+             from the State Planning Commission.
+
+   In addition to FHA requirements, this Fourth-Round HEFSP complies with the
+   standards outlined in Administrative Directive #14-24, issued by the Administrative
+   Office of the Courts on December 13, 2024:
+
+        1.   One of the requirements for a final HEFSP is the inclusion of detailed site
+             suitability analyses, based on the best available data, for each of the un-
+             built inclusionary or 100 percent affordable housing sites in the plan as
+             well as an identification of each of the sites that were proposed for such
+             development and rejected, along with the reasons for such rejection.
+
+        2.   The concept plan for the development of each of the selected sites should
+             be overlaid on the most up to date environmental constraints map for that
+             site as part of its analysis. When the detailed analyses are completed,
+             the municipality can see what changes will be needed (either to the
+             selected sites or to their zoning) to ensure that all of the units required by
+             the settlement agreement will actually be produced. If it becomes
+             apparent that one (or more) of the sites in the plan does not have the
+             capacity to accommodate all of the development proposed for it, the
+             burden will be on the municipality either to adjust its zoning regulations
+             (height, setbacks, etc.) so that the site will be able to yield the number of
+             units and affordable units anticipated by the settlement agreement or to
+             find other mechanisms or other sites as needed to address the likelihood
+             of a shortfall.
+
+        3.   The final HEFSP must fully document the creditworthiness of all of the
+             existing affordable housing units in its HEFSP and to demonstrate that it
+             has followed all of the applicable requirements for extending expiring
+             controls, including confirmation that all of the units on which the controls
+             have been extended are code-compliant or have been rehabilitated to
+             code-compliance, and that all extended controls cover a full 30-year
+             period beginning with the end of the original control period.
+             Documentation as to the start dates and lengths of affordability controls
+             applicable to these units and applicable Affordable Housing Agreements
+             and/or deed restrictions is also required. Additionally, the income and
+             bedroom distributions and continued creditworthiness of all other existing
+             affordable units in the HEFSP must be provided.
+
+
+
+
+                                                                                         6
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 13 of 44 Trans ID: LCV20251857570
+
+
+
+
+       4.   The HEFSP must include an analysis of how the HEFSP complies with
+            or will comply with all of the terms of the executed settlement agreement.
+            Once the HEFSP has been prepared, it must be reviewed by Fair Share
+            Housing Center and the Program’s Special Adjudicator for compliance
+            with the terms of the executed settlement agreement, the FHA and
+            Uniform Housing Affordability Controls (“UHAC”) regulations. The
+            HEFSP must be adopted by the Planning Board and the implementation
+            components of the HEFSP must be adopted by the governing body.
+
+   The HEFSP must also include (in an Appendix) all adopted ordinances and
+   resolutions needed to implement the HEFSP, including:
+
+       1.   All zoning amendments (or redevelopment plans, if applicable).
+
+       2.   An Affordable Housing Ordinance that includes, among other required
+            regulations, its applicability to 100 percent affordable and tax credit
+            projects, the monitoring and any reporting requirements set forth in the
+            settlement agreement, requirements regarding very low income housing
+            and very low income affordability consistent with the FHA and the
+            settlement agreement, provisions for calculating annual increases in
+            income levels and sales prices and rent levels, and a clarification
+            regarding the minimum length of the affordability controls (at least 30
+            years, until the municipality takes action to release the controls).
+
+       3.   The adoption of the mandatory set aside ordinance, if any, and the repeal
+            of the existing growth share provisions of the code.
+
+       4.   An executed and updated Development Fee Ordinance that reflects the
+            court’s jurisdiction.
+
+       5.   An Affirmative Marketing Plan adopted by resolution that contains
+            specific directive to be followed by the Administrative Agent in
+            affirmatively marketing affordable housing units, with an updated COAH
+            form appended to the Affirmative Marketing Plan, and with both
+            documents specifically reflecting the direct notification requirements set
+            forth in the settlement agreement.
+
+       6.   An updated and adopted Spending Plan indicating how the municipality
+            intends to allocate development fees and other funds, and detailing (in
+            mini manuals) how the municipality proposes to expend funds for
+            affordability assistance, especially those funds earmarked for very low-
+            income affordability assistance.
+
+
+
+                                                                                    7
+      MER-L-000244-25 06/26/2025 10:40:29 AM Pg 14 of 44 Trans ID: LCV20251857570
+
+
+
+
+              7.   A resolution of intent to fund any shortfall in the costs of the municipality’s
+                   municipally sponsored affordable housing developments as well as its
+                   rehabilitation program, including by bonding if necessary.
+
+              8.   Copies of the resolution(s) and/or contract(s) appointing one or more
+                   Administrative Agent(s) and of the adopted ordinance creating the
+                   position of, and resolution appointing, the Municipal Affordable Housing
+                   Liaison.
+
+              9.   A resolution from the Planning Board adopting the HEFSP, and, if a final
+                   Judgment is sought before all of the implementing ordinances and
+                   resolutions can be adopted, a resolution of the governing body endorsing
+                   the HEFSP.
+
+II.      The Housing Plan Element
+
+  A. Analysis of Housing Stock
+
+         Age of Units
+         Table 4 below reflects that the housing stock in the Township comprises 6,084
+         total units, with the majority of residential development occurring between 1980
+         and 1999. Specifically, 1,592 housing units (26.2%) were constructed during the
+         1980s, followed closely by 1,738 units (28.6%) built in the 1990s, indicating a
+         period of substantial residential growth. An additional 1,260 units (20.7%) were
+         developed between 2000 and 2009, while more recent construction from 2010 to
+         2019 accounts for only 334 units (5.5%). Older housing comprises a smaller
+         portion of the overall stock, with units built prior to 1980 representing less than 20%
+         combined. Notably, there have been no new housing units reported as constructed
+         in 2020 or later. This distribution suggests that while the Township experienced its
+         most significant residential expansion in the late 20th century, new construction
+         activity has slowed in the last decade.
+
+
+
+
+                                                                                                8
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 15 of 44 Trans ID: LCV20251857570
+
+
+
+
+                                                     Table 4
+                                         Age of Housing Units
+           Dates of Construction                 Structures           Percent (%) of Total
+           1939 or earlier                       153                  2.5%
+           1940 to 1949                          109                  1.8%
+           1950 to 1959                          99                   1.6%
+           1960 to 1969                          379                  6.2%
+           1970 to 1979                          420                  6.9%
+           1980 to 1989                          1,592                26.2%
+           1990 to 1999                          1,738                28.6%
+           2000 to 2009                          1,260                20.7%
+           2010 to 2019                          334                  5.5%
+           2020 or Later                         0                    0.0%
+           Total Housing Units                   6,084                100%
+           Source: United States. Bureau of the Census, 2023 American Community Survey 5-Year
+           Estimates - “Selected Housing Characteristics”
+
+
+
+   As per the 2023 American Community Survey 5-Year Estimates, in Robbinsville,
+   361 units (5.9%) of the housing stock were built before 1960. This is generally an
+   important indicator in calculating Robbinsville's Rehabilitation Share and explains
+   why Robbinsville's Present Need (substandard housing) Share is 40 units. While
+   age of housing stock is one indicator, it is noteworthy that homes do not need to
+   be 50-years or older to be eligible for participation in the rehabilitation program.
+
+   Condition of Units
+   The first step the Division of Community affairs took in calculating the present need
+   and deficient Low- and Moderate- Income Occupied Housing was calculating the
+   “Present Need”. Present need is defined by the Affordable Housing Law as “the
+   number of substandard existing deficient housing units currently occupied by low-
+   and moderate-income (LMI) households”
+      As per the DCA affordable housing obligations for 2025-2035 Methodology and
+      Background, the third-round municipal present need calculations used three
+      factors to calculate present need:
+          “the number of housing units lacking complete kitchen facilities, the number
+          of units lacking complete plumbing facilities, and the number of
+          overcrowded units. Moreover, the Affordable Housing Law explicitly defines
+          “deficient housing units” as housing that is over 50 years and overcrowded,
+          that lacks complete plumbing, or that lacks complete kitchen facilities.”
+      In the fourth-round, the DCA used similar methodology with the same indicators
+      (lacking kitchen facilities, lacking plumbing facilities, and overcrowded units).
+
+                                                                                                9
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 16 of 44 Trans ID: LCV20251857570
+
+
+
+
+        However, in the fourth-round the DCA also took into consideration the age of
+        the housing, utilized more detailed and municipal level data (as opposed to
+        county level) therefore the information was representative of actual conditions,
+        as well as accounting for any overlaps to provide more accurate and fair
+        information.
+            •      The U.S. Census defines an overcrowded unit as “one occupied by 1.01
+                   persons or more per room (excluding bathrooms and kitchens). Units
+                   with more than 1.5 persons per room are considered severely
+                   overcrowded.”
+            •      Plumbing Facilities: Inadequate plumbing sufficient for rehabilitation is
+                   indicated by incomplete plumbing facilities, i.e., lack of hot and cold
+                   piped water, flush toilet or bathtub/shower.
+            •      Kitchen Facilities: Inadequate kitchen facilities signaling rehabilitation
+                   are indicated by the non -presence of kitchen facilitates within the unit,
+                   or the non-presence of one of three components: a sink with piped
+                   water, a stove or a refrigerator.
+
+                                                 Table 5
+                                            Person Per Room
+ Persons Per Room               Total Occupied     Owner Occupied Units                       Renter Occupied Units
+                                     Units
+ 1.01 to 1.50                46                    32                                         14
+ 1.51 to 2.00                0                     0                                          0
+ 2.01 or more                12                    0                                          12
+        Total                58                    32                                         26
+ Source: United States. Bureau of the Census, 2023 American Community Survey 5-Year Estimates - “Selected Housing
+ Characteristics”
+
+
+
+
+                                                     Table 6
+                                                Plumbing Facilities
+                                                                                              Total Units
+                With Complete Plumbing Facilities                                                  5,895
+                Lacking Complete Plumbing Facilities                                                    9
+                Source: United States. Bureau of the Census, 2023 American Community Survey 5-Year
+                Estimates - “Selected Housing Characteristics”
+
+
+
+
+                                                       Table 7
+                                                  Kitchen Facilities
+                                                                                              Total Units
+                With Complete Kitchen Facilities                                                   5,849
+                Lacking Complete Kitchen Facilities                                                   55
+                Source: United States. Bureau of the Census, 2023 American Community Survey 5-Year
+                Estimates - “Selected Housing Characteristics”
+
+
+
+   As reflected above, according to the US Census Bureau 2023 ACS Survey, there
+   are an estimated 58 total occupied units that are considered overcrowded, with
+
+                                                                                                                      10
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 17 of 44 Trans ID: LCV20251857570
+
+
+
+
+   more “severely overcrowded” (2.01 persons per room or more) units being renter
+   occupied (12 units). Moreover, there are 9 units lacking complete plumbing
+   facilities, and 55 units lacking complete kitchen facilities.
+
+   Purchase and Rental Value
+                                                   Table 8
+                           Total Occupied Housing Units
+                                   Number of Units                              Percentage
+           Owner Occupied          4,812                                        82%
+           Renter Occupied         1,092                                        18%
+           Total                   5,904                                        100%
+           Source: United States. Bureau of the Census, 2023 American Community Survey 5-Year
+           Estimates - “Selected Housing Characteristics”
+
+
+
+   Approximately 77% of the housing units within Robbinsville Township are owner
+   occupied, whereas 23% of the housing units are renter occupied.
+                                     Table 6
+                        Owner Occupied Housing Unit Values
+                               Number of Units      Percentage
+          Less than $50,000    163                  3.1%
+          $50,000 to $99,999   68                   1.3%
+          $100,000 to $149,999 89                   1.7%
+          $150,000 to $199,999 158                  3.0%
+          $200,000 to $299,999 666                  12.5%
+          $300,000 to $499,999 1,345                25.2%
+          $500,000 to $999,999 2,636                49.4%
+          1,000,000 or more    209                  3.9%
+          Total                4,812                100%
+          Median Value                                         $523,500
+          Source: United States. Bureau of the Census, 2023 American Community Survey 5-Year Estimates
+
+
+
+
+   The owner-occupied housing market consists of 4,812 units, with nearly half
+   (49.4%) valued between $500,000 and $999,999. The next largest category
+   includes homes valued between $300,000 and $499,999, comprising 25.2% of the
+   total. Approximately 12.5% of units fall within the $200,000 to $299,999 range,
+   while homes valued below $200,000 collectively make up 9.10% of the market.
+   High-value homes exceeding $1 million account for 3.9% of the total. The median
+   home value is $523,500, indicating that more than half of the homes are valued
+   above this amount.
+
+
+
+
+                                                                                                         11
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 18 of 44 Trans ID: LCV20251857570
+
+
+
+
+                                                      Table 9
+                                            Occupied Units Paying Rent
+           Gross Monthly Rent                      Number of Units                          Percentage
+           Less than $500                          0                                        0%
+           $500 to $999                            106                                      9.7%
+           $1,000 to $1,499                        157                                      14.4%
+           $1,500 to $1,999                        359                                      32.9%
+           $2,000 to $2,499                        339                                      31.0%
+           $2,500 to $2,999                        16                                       1.5%
+           $3,000 or more                          70                                       6.4%%
+           No Rent Paid                            45                                       4.1%
+           Total                                   1,092                                    100%
+           Median Value                                                                                   $1,863
+           Source: United States. Bureau of the Census, 2023 American Community Survey 5-Year Estimates
+
+   Based on table 9 above, the majority of renter-occupied housing units in the
+   Borough fall within the mid- to upper-range rent categories. Specifically, 32.9% of
+   units have a gross monthly rent between $1,500 and $1,999, followed closely by
+   31.0% of units renting for $2,000 to $2,499. An additional 14.4% of units fall within
+   the $1,000 to $1,499 range, while only 9.7% of units are rented for less than $1,000
+   per month. High-end rentals—those with rents of $2,500 or more—account for a
+   combined 7.9% of the rental market. Notably, no units were reported to rent for
+   less than $500. Approximately 4.1% of occupied units reported no rent paid. The
+   median gross monthly rent across all occupied rental units is $1,863.
+   Anecdotally, the prior figure appears to be low. To develop a more accurate
+   estimate of average rental costs within the Township, fifteen properties were
+   evaluated using rental platforms such as Zillow, Apartments.com, Realtor.com,
+   and Trulia. The data indicate that the overall average monthly rent for one- to three-
+   bedroom units is approximately $2,358. When examining individual unit types, the
+   average monthly rent is $1,869 for a one-bedroom unit, $2,456 for a two-bedroom
+   unit, and $2,750 for a three-bedroom unit as of May 2025.
+
+B. Projected Housing Stock
+   According to the 2025 Year-to-Date building permit summaries provided by the
+   New Jersey Labor Market and Workforce Development division, sourced by the
+   U.S Census bureau, the Township of Robbinsville authorized 30 total single-family
+   units to be built in 2024. The Township of Robbinsville authorized 0 units to be built
+   that were multi-family. However, as per resolution number 2025-060, the Township
+   of Robbinsville has accepted their DCA calculated affordable housing obligation,
+   and fully intends to satisfy that obligation within the fourth-round.
+
+
+                                                                                                                   12
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 19 of 44 Trans ID: LCV20251857570
+
+
+
+
+   Robbinsville will address the future construction of low-and-moderate income
+   housing as outlined in the Fair Share Plan section herein.
+
+C. Municipality’s Demographic Characteristics
+
+   Population
+   As illustrated in Table 10 below, Robbinsville Township has experienced steady
+   population growth over the last century, with several notable periods of rapid
+   expansion. Significant growth occurred in the 1950s and 1970s, when the
+   population increased by 35 percent and 53.6 percent, respectively. The 1990s saw
+   the population rise by nearly 67 percent, and the early 2000s continued this trend
+   with a 76.7 percent increase. These decades of rapid growth were followed by a
+   slower pace in the 2010s, with a 32.8 percent increase from 2000 to 2010, and a
+   more modest 13.4 percent growth from 2010 to 2020.
+
+                                                           Table 10
+                     Robbinsville Township Population Characteristics 1900-2020
+
+                   Year                              Population                                     %±
+                   1900                                                   1,157                               2.80%
+                   1910                                                   1,090                               −5.8%
+                   1920                                                   1,161                               6.50%
+                   1930                                                   1,347                              16.00%
+                   1940                                                   1,365                               1.30%
+                   1950                                                   1,843                              35.00%
+                   1960                                                   2,156                              17.00%
+                   1970                                                   3,311                              53.60%
+                   1980                                                   3,487                               5.30%
+                   1990                                                   5,815                              66.80%
+                   2000                                                  10,275                              76.70%
+                   2010                                                  13,642                              32.80%
+                   2020                                                  15,476                              13.40%
+           Source: United States. Bureau of the Census Historical Data, 2023 American Community Survey 5-Year Estimates;
+           Robbinsville Township was formerly named Washington Township of Mercer County (2007) Washington Township
+           population data was utilized.
+
+
+
+   According to the U.S. Census data, Robbinsville Township's population in 2010
+   was 13,642, and by 2020, it had grown to 15,476. The historical data shows that
+   Robbinsville Township will likely experience a period of more stable growth moving
+   forward. The projected population increase over the next several decades is
+   expected to be more modest, following the trends of slower growth observed in
+   recent years. Table 1, Robbinsville Township Population Characteristics 1900-
+   2020 illustrates these trends, highlighting a continued but slower pace of
+   population growth in the Township.
+
+
+
+
+                                                                                                                           13
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 20 of 44 Trans ID: LCV20251857570
+
+
+
+
+   Population Age
+   As illustrated in Table 11, the age cohort breakdown of Robbinsville Township
+   residents shows some notable differences when compared to Mercer County as a
+   whole. Robbinsville has a higher percentage of school-aged children, particularly
+   in the 5 to 9 years and 10 to 14 years age groups, with 7.7% and 8.7%,
+   respectively, compared to 5.4% and 7.1% in Mercer County. Additionally,
+   Robbinsville has a higher proportion of adults aged 40 and above, especially in the
+   40 to 44 years and 45 to 49 years age ranges, where Robbinsville's percentages
+   are 9.3% and 9.7%, respectively, compared to 7.4% and 6.6% in Mercer County.
+   These differences suggest that Robbinsville has a higher number of families with
+   children and a more substantial middle-aged adult population. A breakdown of the
+   population by age for Robbinsville and Mercer County is provided below.
+
+                                      Table 11
+                           Population Comparison By Age
+                                   Robbinsville        Mercer County
+                                    Township
+                              Number     Percentage Number Percentage
+           Under 5 years     547        3.5%        21,033         5.5%
+           5 to 9 years      1,181      7.7%        20,521         5.4%
+           10 to 14 years    1,342      8.7%        26,935         7.1%
+           15 to 19 years    1,241      8%          26,452         6.9%
+           20 to 24 years    589        3.8%        26,496         6.9%
+           25 to 29 years    460        3%          22,837           6%
+           30 to 34 years    738        4.8%        23,709         6.2%
+           35 to 39 years    801        5.2%        21,396         5.6%
+           40 to 44 years    1,432      9.3%        28,358         7.4%
+           45 to 49 years    1,503      9.7%        25,229         6.6%
+           50 to 54 years    1,363      8.8%        25,834         6.8%
+           55 to 59 years    1,444      9.4%        22,927           6%
+           60 to 64 years    1,067      6.9%        26,572           7%
+           65 to 69 years    712        4.6%        20,395         5.3%
+           70 to 74 years    405        2.6%        16,733         4.4%
+           75 to 79 years    196        1.3%        10,156         2.7%
+           80 to 84 years    214        1.4%        8,324          2.2%
+           85 years and over 197        1.3%        7,764            2%
+           Total             15,432     100%        381,671       100%
+           Median Age        41         -           40.2     -
+           Source: United States. Bureau of the Census, 2023 American Community Survey 5-Year Estimates
+
+
+   Household Income Level
+   As measured in the 2017 ACS five-year estimates, Robbinsville Township had a
+   higher median household income than Mercer County as a whole. The median
+   household income in Robbinsville was $118,190, which is significantly higher than
+
+
+                                                                                                          14
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 21 of 44 Trans ID: LCV20251857570
+
+
+
+
+   the County's median income of $80,776. Approximately 9.6% of households in
+   Robbinsville had an income of less than $35,000, while around 63.4% of
+   households had an income greater than $100,000. Furthermore, over 24% of
+   Robbinsville households earned more than $200,000 annually, which is notably
+   higher than the County's proportion of high-income households. This indicates a
+   relatively affluent population within Robbinsville compared to Mercer County as a
+   whole.
+                                                           Table 12
+                                           Households by Income in 2023
+                                                 Robbinsville Township                     Mercer County
+                                                 Number          Percentage           Number          Percentage
+              Less than $10,000                   159.408                2.7          9067.996               6.20
+              $10,000 to $14,999                  100.368                1.7          4095.224               2.80
+              $15,000 to $24,999                  289.296                4.9          6727.868               4.60
+              $25,000 to $34,999                  153.504                2.6           8775.48                  6
+              $35,000 to $49,999                  301.104                5.1         14479.542               9.90
+              $50,000 to $74,999                   531.36                9.0         18721.024              12.80
+              $75,000 to $99,999                   324.72                5.5         14187.026               9.70
+              $100,000 to $149,999                832.464               14.1         26033.924              17.80
+              $150,000 to $199,999               1068.624               18.1         15503.348              10.60
+              $200,000 or more                   2131.344               36.1         28812.826              19.70
+              Less than $10,000                   159.408                2.7          9067.996               6.20
+              $10,000 to $14,999                  100.368                1.7          4095.224               2.80
+            Median income (dollars)              $162,813                              $96,152
+            Mean income (dollars)                $184,169                             $133,495
+
+            Source: United States. Bureau of the Census, 2023 American Community Survey 5-Year Estimates
+
+
+
+   Household Type
+   Family households are classified by the U.S. Census Bureau as two or more persons
+   living in the same household, related by blood, marriage, or adoption. As shown in the
+   table below, 63% of all households in Robbinsville Township are family households,
+   with an average household size of 3.15 persons. Of these, 55% are married-couple
+   families, 6% are female householder families with no husband present, and 2% are
+   male householder families with no wife present. Non-family households make up 19%
+   of the total, with 17% consisting of individuals living alone.
+
+
+
+
+                                                                                                                    15
+   MER-L-000244-25 06/26/2025 10:40:29 AM Pg 22 of 44 Trans ID: LCV20251857570
+
+
+
+
+                                                              Table 13
+                                                      Households by Type in 2023
+                   Household Type                                                                        Number     Percent
+                   Total Households                                                                       5,904         100
+                   Family Households (families)                                                           3,694          63
+                    Married-couple family                                                                 3,224          55
+                    Female householder, no husband present                                                 340            6
+                    Male householder, no wife present                                                      130            2
+                   Nonfamily households                                                                   1,118          19
+                    Householder living alone                                                              1,005          17
+                    Householders 65 years and over                                                         358            6
+                   Source: United States. Bureau of the Census, 2023 American Community Survey 5-Year Estimates
+
+
+
+   D. Employment Characteristics
+         There are an estimated 8,449 Robbinsville Township residents over the age of 16
+         that make up the Townships labor force. There is a near-balanced workforce
+         gender distribution with females holding more positions. The top three industries
+         employing the highest percentage of the workforce are Professional, scientific, and
+         technical services (15.92%) with 1,345 employees, Finance and insurance
+         (13.49%) with 1,140 employees, and Health care and social assistance (11.29%)
+         with 954 employees.
+                                                              Table 14
+                                     Employed Persons 16 Years and Over
+Industry                                                 Total No. of                            Male      Female   Percent of
+                                                         People                                                     Total
+Agriculture, forestry, fishing, hunting & mining         12                                      12        0        0.14%
+Construction                                             314                                     213       101      3.72%
+Manufacturing                                            888                                     494       394      10.51%
+Wholesale Trade                                          223                                     117       106      2.64%
+Retail Trade                                             559                                     358       201      6.62%
+Transportation and Warehousing                           279                                     245       34       3.30%
+Utilities                                                133                                     110       23       1.57%
+Information                                              316                                     155       161      3.74%
+Finance and Insurance                                    1,140                                   734       406      13.49%
+Real estate and rental and leasing                       52                                      31        21       0.62%
+Professional, scientific and technical services          1,345                                   793       552      15.92%
+Management of companies and enterprises                  40                                      17        23       0.47%
+Administrative and support and waste management          301                                     64        237      3.56%
+services
+Educational services                                     663                                     200       463      7.85%
+Health care and social assistance                        954                                     203       751      11.29%
+Arts, Entertainment and Recreation                       201                                     106       95       2.38%
+Accommodation and food services                          287                                     101       186      3.40%
+Other services except public administration              167                                     69        98       1.98%
+Public administration                                    575                                     345       230      6.81%
+Total                                                    8,449                                   4,367     4,802    100%
+Source: United States. Bureau of the Census, 2023 American Community Survey 5-Year Estimates
+
+
+
+
+                                                                                                                                 16
+       MER-L-000244-25 06/26/2025 10:40:29 AM Pg 23 of 44 Trans ID: LCV20251857570
+
+
+
+
+III.      Fair Share Plan
+
+   A. Introduction
+
+          In March 2024, Governor Murphy signed P.L.2024, c.2—landmark legislation
+          aimed at ensuring every New Jersey municipality meets its constitutional obligation
+          to provide affordable housing. The law requires municipalities to update their
+          Master Plans and revise zoning and land use regulations to support both the
+          creation of new affordable housing and the rehabilitation of substandard units.
+
+          This section of Robbinsville’s Housing Element and Fair Share Plan outlines how
+          the Township will meet its Fourth-Round obligations, which include both Present
+          Need and Prospective Need. Present Need—also known as the Rehabilitation
+          Share—is recalculated each round using census data to estimate the number of
+          substandard homes currently occupied by low- and moderate-income households.
+          Based on updated methodology in the amended Fair Housing Act, statewide
+          Fourth-Round need is set at 84,698 units. Of that, Region 4 (Mercer, Monmouth,
+          and Ocean Counties) is responsible for 13,822 units, with allocations made to each
+          municipality, including Robbinsville.
+
+          According to the DCA, Robbinsville’s Fourth-Round obligation includes 40 Present
+          Need units and 336 Prospective Need units. The Township formally accepted
+          these numbers by way of resolution, resolution number 2025-060 included in
+          Appendix G.
+
+   B. Cumulative Fair Share Obligation
+          The Township of Robbinsville has a “Present Need” affordable housing obligation
+          of 40 units, and a “Prospective Need” affordable housing obligation of 336 units for
+          the 2025 – 2035 Fourth-Round. By way of resolution (Resolution Number 2025-
+          060) on January 30, 2025, the Township accepted both the present and the
+          prospective need unit obligations.
+          Prior to the acceptance of the Fourth-Round obligation, the Township had entered
+          a Court-approved settlement agreement on October 17, 2018 that stipulated the
+          Fair Share obligation for the period of 1987 through July 1, 2025, which included
+          a Present Need of 16 units for rehabilitation, a Third-Round obligation (1999-2025)
+          of 638 units, and a Prior Round obligation (1987-1999) of 293 units.
+          As reflected in the Townships 2018 Housing Element and Fair Share Plan, and the
+          Third Amended Settlement Agreement dated February 22, 2018, Robbinsville
+          successfully created sufficient realistic opportunities for the provision of low- and
+          moderate-income housing through July 1, 2025 to satisfy its Fair Share Housing
+          Obligation up until this Fourth-Round. (the 2017 and 2018 HEFSP are attached
+          within this document under Appendix I).
+                                                                                            17
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 24 of 44 Trans ID: LCV20251857570
+
+
+
+
+         Present Need refers to “the number of substandard existing deficient
+         housing units currently occupied by low- and moderate-income
+         households.” A “deficient housing unit” is “housing that (1) is over fifty years
+         old and overcrowded, (2) lacks complete plumbing, or (3) lacks complete
+         kitchen facilities.” Robbinsville’s Present Need obligation is 40 units.
+         Prior Round Obligation covers the cumulative affordable housing
+         requirement for new construction from 1987 through 1999, encompassing
+         both the First and Second Rounds of planning. This obligation framework
+         was upheld by the New Jersey Supreme Court in 2013. Robbinsville’s Prior
+         Round obligation, as calculated by COAH, is 293 units.
+         Third-Round Obligation includes two components: the “gap period” from
+         1999 to 2015, during which no valid affordable housing regulations were in
+         place, and the Prospective Need from 2015 to 2025, reflecting projected
+         demand over a ten-year period beginning in July 2015. In 2001, COAH
+         formally extended the duration of housing rounds from six to ten years.
+   Mercer County’s Third-Round Gap and Prospective Need figures were established
+   by Judge Mary C. Jacobson in the March 8, 2018 decision Opinion on Fair Share
+   Methodology to Implement the Mount Laurel Affordable Housing Doctrine for the
+   Third-Round. This ruling—commonly referred to as the “Jacobson Methodology”—
+   set a binding framework for municipalities in Mercer County and was later
+   extended statewide through amendments to the Fair Housing Act. Under this
+   methodology, Robbinsville was assigned a Third-Round obligation of 638 units.
+         Prospective Need refers to projected housing demand based on expected
+         development and population growth in a region or municipality.
+         Robbinsville’s Fourth-Round Prospective Need, as determined by the New
+         Jersey Department of Community Affairs (DCA) using the methodology
+         detailed in its October 2024 report, is 336 units.
+   Table 15 presents the break-down of the Cumulative 1987-2025 Obligation,
+   totaling 1,307.
+
+
+                                         Table 15
+                              Cumulative 1987-2035 Obligation
+               Fourth-Round
+                 Present Need                            40
+                 Prospective Need                        336
+               Third-Round                               638
+               Prior Round                               293
+               Total Cumulative Obligation (1987-2035)   1,307
+
+
+                                                                                      18
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 25 of 44 Trans ID: LCV20251857570
+
+
+
+
+C. Addressing the Townships Rehabilitation Obligation
+   In satisfying it’s present need of 40 units to be rehabilitated, the Township of
+   Robbinsville operates an affordable housing rehabilitation program that provides
+   eligible applicants with deferred payment, 0% interest loans of up to $20,000 that
+   require no monthly payments but do require repayment of the loan principal when
+   the home is sold or title transferred. Rehabilitation focuses on major systems and
+   code violations.
+   Since April 1, 2010, Robbinsville has completed the rehabilitation of seven units.
+   The remaining nine units will be fulfilled either through an existing contract with
+   Community Action Services or by utilizing credits from rehabilitation efforts related
+   to the Mercer Mobile Home Park. All rehabilitated units are required to meet
+   applicable code standards, have a minimum investment of $10,000 per unit, and
+   remain affordable for at least ten years. Refer to Appendix K for rehabilitation
+   completion information to date.
+
+D. Addressing the Township’s Affordability Assistance Obligation
+   In order to address the Township’s affordability assistance obligation, the
+   Township has an Emergency Repair/Energy Efficiency Assistance program for the
+   affordable housing properties in Robbinsville. This is done as affordability
+   assistance. This helps currently recertified income eligible owners of affordable
+   units, homeowners that would not have the funds necessary to keep their
+   properties up to code. The township provides loans up to $20,000 that are interest
+   free, no monthly payments and are forgiven if the homeowner remains in the
+   affordable property for 6 years.
+
+E. Prior Round Obligation
+   For the Prior Round Obligation, Robbinsville was required to provide 293
+   affordable housing units, which includes a 73-unit rental obligation. The Township
+   has met this obligation through a combination of for-sale units, group homes, rental
+   developments, and regional contribution agreements. Foxmoor developments
+   provided a substantial portion of the for-sale units, while Project Freedom added
+   35 general occupancy rental apartments. Group homes across various sites
+   contributed 24 bedrooms. Additionally, Robbinsville had entered into a regional
+   contribution agreement with Trenton, resulting in 11 rental units being credited to
+   the Prior Round. The Township also received a seven-unit reduction through a
+   substantial compliance credit.
+   For further information on the prior round, refer to Appendix I attached within this
+   document.
+
+
+
+                                                                                     19
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 26 of 44 Trans ID: LCV20251857570
+
+
+
+
+F. Third-Round Obligation
+
+   The Third-Round Obligation, established through a settlement agreement with Fair
+   Share Housing Center, required Robbinsville to provide 638 affordable units by
+   2025. This includes 160 rental units and allows for a maximum of 159 age-
+   restricted units. Further, 13 percent of all units constructed after July 1, 2008, must
+   be reserved for very low-income households.
+
+   To date, Robbinsville has already built or preserved 333 units toward this
+   obligation. These include affordable rentals in Sharbell’s Town Center and
+   Springside developments, extended affordability controls at Foxmoor, affordable
+   sales units at Sharbell Union Lofts, additional RCA units, and multiple group
+   homes. An assisted living facility, Rose Hill, also contributes with 14 Medicaid
+   Waiver apartments.
+
+                                                      Table 16
+           Project Name                           Type                             Number of Units
+           Sharbell (Town Center)                 Family Rentals                   26
+           Foxmoor                                Extend Controls – Family Sales   181
+           Sharbell Union Lofts                   Family Sales                     8
+           RCA*                                   13 Rentals / 4 Non Rentals       17
+           Foxmoor                                Family Sales                     31
+           203 Robbinsville-Edinburg              Group Home                       4
+           165 Robbinsville-Edinburg              Group Home                       4
+           Sharbell Springside                    Family Rentals                   38
+           Rose Hill                              Medicaid Bedrooms                14
+           154 Robbinsville-Allentown             Group Home                       4
+           14 Vahlsing                            Group Home                       4
+           2230 Route 22                          Group Home                       2
+           Total                                                                   333 (Built)
+           *Applied pre July 1, 2008 portion of the Third Round Obligation
+
+
+   To meet the remainder of its obligation, Robbinsville has added 146 more
+   affordable units. A major component of this strategy involved acquiring 70 units at
+   the Mercer Mobile Home Park. Additionally, Robbinsville intends to develop 45
+   family rental units as part of a mixed-use redevelopment project at Town Center
+   South, under a plan led by Capodagli Property Company. This project replaces
+   previously considered sites and will contribute significantly toward meeting
+   affordable family rental needs. Furthermore, 19 new group home bedrooms will be
+   created throughout the Period of Repose, and two smaller projects—Robbinsville
+   Commons II and a site at 2320 Route 33—will yield a total of 12 additional family
+   rental units.
+
+
+
+                                                                                                     20
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 27 of 44 Trans ID: LCV20251857570
+
+
+
+
+   To fulfill its 638-unit requirement, Robbinsville also relies on 159 rental bonus
+   credits, earned primarily through the inclusion of family rentals and group homes.
+   The combined total of built units, proposed developments, and bonus credits
+   reaches 649 units, slightly exceeding the target obligation by 11 credits.
+
+   The Township’s plan fully complies with income targeting and family housing
+   requirements. At least 260 of the units are allocated for low or very low-income
+   households, surpassing the required 240. Of the rental units, 172 are affordable,
+   with 121 designated for families. In total, 412 units in the plan are family-oriented,
+   well above the minimum threshold. Robbinsville has ensured that no more than 25
+   percent of all affordable units across the Prior and Third-Round obligations are
+   age-restricted.
+
+   Table 17 below illustrates how the Township has intended to meet its 638 unit
+   obligation.
+
+                                             Table 17
+ Project Name                         Type                 Number of Units
+ Mercer Mobile Home Park              Family Sales                                             70
+ Town Center South (Project           Family / Disabled       52 out of 72 total Family/ Disabled
+ Freedom)                             Rentals                                             Rentals
+ Group Homes (New)                    Bedrooms                                                 19
+ Town Center                          Family Rentals                                            5
+ Market to Affordable                 Family Sales                                              3
+ Robbinsville Commons II (King)       Family Rentals                                            7
+                              Total                                               157 (Proposed)
+                      Rental Bonus                                                           159
+                       Grand Total                                                           649
+
+
+   For further information on the third-round, refer to Appendix I attached within this
+   document.
+
+G. Fourth-Round Obligation
+   The Township is fulfilling its affordable housing obligation through a multifaceted
+   approach, which includes proposed inclusionary housing projects, the application
+   of carryover credits from prior affordable developments, the extension of
+   affordability controls on existing inclusionary units, and the use of development
+   bonuses for transit-oriented, age-restricted, and group home projects.
+   As previously stated, the DCA calculated that the Township of Robbinsville has a
+   “Present Need” affordable housing obligation of 40 units, and a “Prospective Need”
+   affordable housing obligation of 336 units for the 2025 – 2035 Fourth-Round.
+
+
+
+                                                                                         21
+  MER-L-000244-25 06/26/2025 10:40:29 AM Pg 28 of 44 Trans ID: LCV20251857570
+
+
+
+
+      The Township has approved, or been working to approve a number of sites to
+      contribute to satisfying the 336-unit obligation, as well an ongoing rehabilitation
+      program that provides interest free loans of up to $20,000 with no monthly
+      payments and repayment is deferred until the homeowner sells the home, to
+      address the 40 units under present need.
+      Table 18 below illustrates how the Township intends to meet their 336 unit
+      obligation to satisfy the Fourth-Round.
+                                           Table 18
+                                Fourth-Round Proposed Projects
+Project Name          Block   Lot(s)        No. of Affordable Units   Project Status
+Mercer Mobile         1       59.01         70                        Fully Approved per Consent
+Home Park                                                             Order
+Sharbell Gordon       21      27.01 & 27.02    56                     Board Approval; In
+Simpson                                                               Resolution Compliance
+Kushner Capodagli     1       65.02            38                     Named Redeveloper. Town
+                                                                      is committed to the
+                                                                      Amendment to make this an
+                                                                      As-of-Right Development.
+                                                                      Resolution No. 2024-129;
+                                                                      2024-187
+Gordon Road AHA       21      27.03            6
+Group Homes           N/A     N/A              27
+Extension of          N/A     N/A              66                     All are being taken pursuant
+Controls                                                              to Judge Jacobsons
+                                                                      directives in Third-Round
+                     Total Before Bonuses      263
+                    Transit Bonus for MMHP     15
+ Age Restricted Bonus for Kushner Capodagli    28
+                 Municipal Sponsored Bonus     3
+                        Group Homes Bonus      27
+                               Overall Total   336
+           Fourth-Round Prospective Need       336
+
+
+      As reflected above, the Townships Fourth-Round Prospective Need obligation is
+      336 units. The following table illustrates the formulas that summarize the minimum
+      or maximum number of Fourth-Round bonuses, affordable family rental units,
+      senior units, low-income, and very low-income units:
+
+
+
+
+                                                                                                 22
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 29 of 44 Trans ID: LCV20251857570
+
+
+
+
+                                          Table 19
+                                                                        Requirement
+          Maximum Bonuses                                               84
+            .25 x (obligation) = .25 x 336 =                            84
+          Minimum Family Rental Units                                   132
+            .50 x (obligation – maximum bonuses) = .50 x (336 - 84)     131.5
+          Maximum Senior Units                                          76
+            .30 x (obligation – maximum bonuses) = .30 x (336 - 84)     75.6
+          Minimum Low-Income                                            132
+            .50 x (obligation – maximum bonuses) = .50 x (336 - 84)     131.5
+          Minimum Very Low-Income                                       33
+            .13 x (obligation – maximum bonuses) = .13 x (336 - 84)     32.76
+          Minimum Very Low-Income Family Rental Units                   132
+            .50 x (required very low-income units) = .50 x (336 - 84)   131.5
+
+
+ 1. Site Suitability Analysis
+   One of the requirements for a final HEFSP is the inclusion of detailed site suitability
+   analyses, based on the best available data, for each of the un-built inclusionary or
+   100% affordable housing sites in the plan. In accordance with the Council on
+   Affordable Housing’s site suitability criteria found at N.J.A.C. 5:93-1.3, all sites to
+   be used for affordable housing purposes must be “available, approvable,
+   developable, and suitable,” as follows:
+      •    “Available site” means a site with clear title, free of encumbrances which
+           preclude development for low- and moderate-income housing.
+      •    “Approvable site” means a site that may be developed for low- and
+           moderate-income housing in a manner consistent with the rules or
+           regulations of agencies with jurisdiction over the site. A site may be
+           approvable although not currently zoned for low- and moderate-income
+           housing.
+      •    “Developable site” means a site that has access to appropriate water and
+           sewer infrastructure, and is consistent with the applicable area wide water
+           quality management plan (including the wastewater plan) or is included in
+           an amendment to the area wide water quality management plan submitted
+           to and under review by the DEP.
+      •    “Suitable site” means a site that is adjacent to compatible land uses, has
+           access to appropriate streets and is consistent with the environmental
+           policies delineated in N.J.A.C. 5:93-4.
+
+   In addition to the above qualifications, it is also sound planning for sites to be
+   consistent with the State Development and Redevelopment Plan. Sites that are
+   located in “Planning Area 1: Metropolitan” or “Planning Area 2: Suburban” of the
+   State Development and Redevelopment Plan, or are located in an existing sewer
+   service area, are the preferred location for municipalities to address their fair
+   share obligations.
+
+   The following pages provide a site suitability analysis for each of the proposed
+
+                                                                                       23
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 30 of 44 Trans ID: LCV20251857570
+
+
+
+
+   sites that will be included within the Township’s Fourth-Round.
+   Sharbell Gordon, LLC
+
+
+
+
+                                                   SOURCE: GOOGLE EARTH AERIAL IMAGERY DATED APRIL 2022,
+                                                                    BOUNDARY IS APPROXIMATE, NOT EXACT
+
+
+   Project Location: Block 26, Lots 6.02, 6.03, & 6.04; Block 21, Lot 27.01 & 27.02
+   Project Proposal: Sharbell Gordon, LLC proposes a mixed-use development
+   containing 206 garden apartments, 100 townhome units, with a shopping center
+   market and retail component. For purposes of this housing plan, the
+   development proposes a set aside of 56 affordable units.
+   Site Suitability Analysis:
+      •   Available: There is no title or deed restriction encumbrances or other
+          hindrances that would preclude an inclusionary development.
+
+      •   Approvable: The proposed development is supported by local, regional, and
+          state planning policies. The overall site is located within the State Planning
+          Area “PA2 - Suburban Planning Area”. Block 26, Lots 6.02, 6.03, & 6.04 are
+          currently vacant, and contain no buildings or significant structures. A
+          manmade reservoir exists central to the overall site. Block 21, Lots 27.01,
+          & 27.02 contain a manmade reservoir. Surrounding the property are single-
+          family and multi-family residential developments, with limited commercial
+          properties to the north, east, and west, along US Route 130. The addition
+          of a mixed-use shopping center, retail and residential development would
+
+                                                                                                   24
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 31 of 44 Trans ID: LCV20251857570
+
+
+
+
+           complement the existing development of the area, fostering a diverse and
+           synergistic relationship between uses while meeting all applicable
+           regulatory requirements for development approval.
+
+      •    Developable: Per publicly available information provided by NJDEP GIS
+           Maps modified Agricultural Wetlands, as well as Herbaceous Wetlands
+           exist within isolated portions of the site. These conditions exist on only a
+           percentage of the site within an isolated area, which does not hinder
+           development. The presence of wetlands on a site does not render the site
+           “un-developable”. The applicant is able and willing to comply with all state
+           regulations regarding the presence of wetlands. Additionally, the site is not
+           within a flood zone.
+
+           The site is located approximately 120 feet southeast of the Aqua NJ -
+           Hamilton Square water service area; located within the Jersey Central
+           Power & Light service area for electricity; located within the Public Service
+           Electric and Gas Co. service area for natural gas; and located within the
+           Hamilton Township Department of Water Pollution Control for Sewer
+           Service. The Township of Hamilton has confirmed sewer capacity within a
+           letter dated November 22, 2024. Therefore, there are utility services that
+           are already provided, or can be provided to the site to accommodate the
+           development.
+
+      •    Suitable: The proposed inclusionary development would be compatible with
+           the existing residential properties within the surrounding area, as well as the
+           highway commercial businesses along Route 130. Additionally, the site
+           includes direct access to Route 130, which provides access to other local
+           and state highways such as Route 206, I-195 and I-295. The site is large
+           enough to accommodate the required number of parking spaces for the
+           development. From a site planning perspective, there is an appropriate
+           amount of open space proposed on the site, which is clear evidence of the
+           site not being or appearing overdeveloped.
+
+   In addition to site suitability, the developer of the affordable housing project will
+   be required to meet the applicable requirements of UHAC:
+
+       •   Administrative Entity: In compliance with Article 28-17 of the Township
+           Code and applicable state regulations, the Township will require the
+           residential developer to retain a qualified administrative agent. This agent
+           will be responsible for overseeing the affordable housing program at the
+           development, including affirmatively marketing the units, verifying
+           applicant income eligibility, applying a minimum 40-year affordability
+           control on rental units, and managing the long-term compliance and
+           administration of the units. These responsibilities will be carried out in
+           accordance with the requirements of N.J.A.C. 5:93-1 et seq. and N.J.A.C.
+           5:80-26.1 et seq.
+
+                                                                                       25
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 32 of 44 Trans ID: LCV20251857570
+
+
+
+
+       •   Low/Moderate Income Split: In accordance with the Uniform Housing
+           Affordability Controls (UHAC) set forth in N.J.A.C. 5:80-26.1, at least 50%
+           of the affordable units produced will be designated for low-income
+           households. Additionally, no less than 13% of all affordable units will be
+           reserved for very low-income households, ensuring compliance with state
+           mandates.
+
+       •   Affirmative Marketing: All affordable units will be marketed in accordance
+           with the affirmative marketing requirements outlined in N.J.A.C. 5:93-1 et
+           seq. and N.J.A.C. 5:80-26.1 et seq., to ensure fair and broad outreach to
+           eligible populations.
+
+       •   Controls on Affordability: The Township’s agreement with the site
+           developer will mandate that all affordable units be subject to deed
+           restrictions ensuring affordability for a minimum of 30 years, in accordance
+           with the provisions of N.J.A.C. 5:93 et seq. and the Uniform Housing
+           Affordability Controls (UHAC) outlined in N.J.A.C. 5:80-26.1.
+
+       •   Bedroom Distribution: The configuration and distribution of bedrooms
+           within the affordable units will adhere to the standards established under
+           the Uniform Housing Affordability Controls (UHAC).
+
+   Kushner Capodagli – Autumn at Robbinsville
+
+
+
+
+                                    SOURCE: GOOGLE EARTH AERIAL IMAGERY DATED JUNE 2022, BOUNDARY IS APPROXIMATE
+
+
+
+
+                                                                                                        26
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 33 of 44 Trans ID: LCV20251857570
+
+
+
+
+   Project Location: Block 1, Lot 65.02
+   Project Proposal: Capodagli Property Company, LLC proposes an inclusionary
+   housing development that will provide 250 age-restricted affordable housing
+   units. For purposes of this housing plan, the development proposes a set aside
+   of 38 affordable units.
+   Site Suitability Analysis:
+
+      •   Available: There is no title or deed restriction encumbrances or other
+          hindrances that would preclude an inclusionary development.
+
+      •   Approvable: The proposed development is supported by local, regional,
+          and state planning policies. The site is located within the State Planning
+          Area “PA2 - Suburban Planning Area”. Currently, the site is vacant, and
+          contains no buildings or significant structures. Surrounding the property are
+          single-family and multi-family residential developments, and Robbinsville
+          Town Center located to the north. commercial development exists to the
+          east and west along Route 33. The addition of an inclusionary residential
+          development would provide the area with diverse housing options, that
+          support the surrounding commercial uses.
+
+      •   Developable: Per publicly available information provided by NJDEP GIS
+          Maps Deciduous Wooded Wetlands exist along small portions of the east,
+          south, and west property lines. Additionally, Freshwater Forested / Shrub
+          Wetlands exist isolated to the eastern portion of the site. As noted, these
+          conditions exist on only a percentage of the site within isolated areas,
+          which does not hinder development. The presence of wetlands on a site
+          does not render the site “un-developable”. The applicant is able and willing
+          to comply with all state regulations regarding the presence of wetlands.
+          Additionally, the site is not within a flood zone. Additionally, the site is not
+          within a flood zone.
+
+          The site is located within the Aqua NJ - Hamilton Square water service
+          area; located within the Jersey Central Power & Light service area for
+          electricity; located within the Public Service Electric and Gas Co. service
+          area for natural gas; and located within the Hamilton Township Department
+          of Water Pollution Control for Sewer Service. Therefore, there are utility
+          services that are already provided to accommodate the development.
+
+      •   Suitable: The proposed inclusionary development would be compatible
+          with the Town Center, as well as the existing residential and commercial
+          properties within the surrounding area. Additionally, the site includes direct
+          access to New Jersey Highway 33, which provides access to other local
+          and state highways such as Route 130, Route 206, I-195 and I-295.
+
+   In addition to site suitability, the developer of the affordable housing project will
+                                                                                       27
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 34 of 44 Trans ID: LCV20251857570
+
+
+
+
+   be required to meet the applicable requirements of UHAC:
+
+       •   Administrative Entity: In compliance with Article 28-17 of the Township
+           Code and applicable state regulations, the Township will require the
+           residential developer to retain a qualified administrative agent. This agent
+           will be responsible for overseeing the affordable housing program at the
+           development, including affirmatively marketing the units, verifying
+           applicant income eligibility, applying a minimum 40-year affordability
+           control on rental units, and managing the long-term compliance and
+           administration of the units. These responsibilities will be carried out in
+           accordance with the requirements of N.J.A.C. 5:93-1 et seq. and N.J.A.C.
+           5:80-26.1 et seq.
+
+       •   Low/Moderate Income Split: In accordance with the Uniform Housing
+           Affordability Controls (UHAC) set forth in N.J.A.C. 5:80-26.1, at least 50%
+           of the affordable units produced will be designated for low-income
+           households. Additionally, no less than 13% of all affordable units will be
+           reserved for very low-income households, ensuring compliance with state
+           mandates.
+
+       •   Affirmative Marketing: All affordable units will be marketed in accordance
+           with the affirmative marketing requirements outlined in N.J.A.C. 5:93-1 et
+           seq. and N.J.A.C. 5:80-26.1 et seq., to ensure fair and broad outreach to
+           eligible populations.
+
+       •   Controls on Affordability: The Township’s agreement with the site
+           developer will mandate that all affordable units be subject to deed
+           restrictions ensuring affordability for a minimum of 30 years, in accordance
+           with the provisions of N.J.A.C. 5:93 et seq. and the Uniform Housing
+           Affordability Controls (UHAC) outlined in N.J.A.C. 5:80-26.1.
+
+       •   Bedroom Distribution: The configuration and distribution of bedrooms
+           within the affordable units will adhere to the standards established under
+           the Uniform Housing Affordability Controls (UHAC).
+
+
+
+
+                                                                                    28
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 35 of 44 Trans ID: LCV20251857570
+
+
+
+
+                      Gordon Road Affordable Housing Alliance
+
+
+
+
+   It should be noted that this site was represented within the prior round, but
+   ultimately was not utilized to satisfy the Township’s obligation, not because it was
+   not suitable, but because the Township elected to pursue “other housing options”
+   as per the 2017 Housing Element Plan found within APPENDIX I. Therefore, it
+   was established that this site meets the site suitability criteria for inclusionary
+   housing.
+   Project Location: Block 21, Lot 27.03
+   Project Proposal: Gordon Road Affordable Housing Alliance proposes an
+   inclusionary housing development that will provide 6 single-family affordable
+   housing units.
+   Site Suitability Analysis:
+
+      •   Available: There is no title or deed restriction encumbrances or other
+          hindrances that would preclude an inclusionary development.
+
+      •   Approvable: The proposed development is supported by local, regional, and
+          state planning policies. The site is located within the State Planning Area
+
+                                                                                    29
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 36 of 44 Trans ID: LCV20251857570
+
+
+
+
+           “PA 4B – Rural Environmentally Sensitive”. Currently, the site is vacant, and
+           contains no buildings or significant structures. Surrounding the property are
+           single-family and multi-family residential developments, with limited
+           commercial properties to the north, east, and west, along US Route 130.
+           The addition of a mixed-use shopping center, retail and residential
+           development would complement the existing development of the area,
+           fostering a diverse and synergistic relationship between uses while meeting
+           all applicable regulatory requirements for development approval.
+
+      •    Developable: Per publicly available information provided by NJDEP GIS
+           there are no wetlands that exist on the site, and the site is not within a flood
+           zone.
+
+           The site is located approximately 1,087 FT southeast of the Aqua NJ -
+           Hamilton Square water service area; located within the Jersey Central
+           Power & Light service area for electricity; located within the Public Service
+           Electric and Gas Co. service area for natural gas; and located within the
+           Hamilton Township Department of Water Pollution Control for Sewer
+           Service. Therefore, there are utility services that are already provided, or
+           can be provided to the site to accommodate the development.
+
+      •    Suitable: The proposed inclusionary development would be compatible with
+           the existing residential properties within the surrounding area, as well as the
+           highway commercial businesses along Route 130. Additionally, the site is
+           located approximately 993 FT southeast of Route 130, which provides
+           access to other local and state highways such as Route 206, I-195 and I-
+           295.
+
+   In addition to site suitability, the developer of the affordable housing project will
+   be required to meet the applicable requirements of UHAC:
+
+       •   Administrative Entity: In compliance with Article 28-17 of the Township
+           Code and applicable state regulations, the Township will require the
+           residential developer to retain a qualified administrative agent. This agent
+           will be responsible for overseeing the affordable housing program at the
+           development, including affirmatively marketing the units, verifying
+           applicant income eligibility, applying a minimum 30-year affordability deed
+           restriction for sales units, and managing the long-term compliance and
+           administration of the units. These responsibilities will be carried out in
+           accordance with the requirements of N.J.A.C. 5:93-1 et seq. and N.J.A.C.
+           5:80-26.1 et seq.
+
+       •   Low/Moderate Income Split: In accordance with the Uniform Housing
+           Affordability Controls (UHAC) set forth in N.J.A.C. 5:80-26.1, at least 50%
+           of the affordable units produced will be designated for low-income
+           households. Additionally, no less than 13% of all affordable units will be
+
+                                                                                        30
+  MER-L-000244-25 06/26/2025 10:40:29 AM Pg 37 of 44 Trans ID: LCV20251857570
+
+
+
+
+                  reserved for very low-income households, ensuring compliance with state
+                  mandates.
+
+              •   Affirmative Marketing: All affordable units will be marketed in accordance
+                  with the affirmative marketing requirements outlined in N.J.A.C. 5:93-1 et
+                  seq. and N.J.A.C. 5:80-26.1 et seq., to ensure fair and broad outreach to
+                  eligible populations.
+
+              •   Controls on Affordability: The Township’s agreement with the site
+                  developer will mandate that all affordable units be subject to deed
+                  restrictions ensuring affordability for a minimum of 30 years, in accordance
+                  with the provisions of N.J.A.C. 5:93 et seq. and the Uniform Housing
+                  Affordability Controls (UHAC) outlined in N.J.A.C. 5:80-26.1.
+
+              •   Bedroom Distribution: The configuration and distribution of bedrooms
+                  within the affordable units will adhere to the standards established under
+                  the Uniform Housing Affordability Controls (UHAC).
+
+    2. Group Homes
+        Table 20 below outlines the group home projects developed throughout the
+        Township, reflecting the community’s ongoing commitment to providing
+        supportive housing options. Various organizations—including Eden Acres, Eden
+        Autism, Community Options, Advancing Opportunities, Arc Mercer, Serv, and
+        Hillside Development—have established group homes of varying sizes, with
+        capacities ranging from small two-bedroom residences to larger facilities. These
+        homes have been incorporated across multiple affordable housing rounds, with
+        many providers participating in more than one round. The projects listed
+        contribute a total of 27 bedrooms toward the municipality’s Fourth Round
+        affordable housing obligation, highlighting a continued investment in inclusive and
+        supportive residential opportunities.
+
+                                              Table 20
+                                      Group Home Projects
+Block   Lot               Provider                        No. of   Prior   Third     Fourth
+                                                        Bedrooms   Round   Round     Round
+22      25                Eden Acres                   6           4       2         2
+28.03   6                 Eden Acres                   4           4       -         -
+25.06   42                Eden Acres                   4           4       -         -
+28.08   2                 Eden Autism                  4           -       4         -
+28.01   2                 Eden Autism                  4           -       4         4
+3.44    1.01 C0615        Eden Autism                  2           -       2         -
+30      24                Eden Autism                  4           -       4         -
+6       23                Community Options            4           4       -         -
+3.01    6.18 C191         Community Options            2           2       -         -
+5       11                Advancing Opportunities      4           4       -         -
+34      9                 Arc Mercer                   4           -       4         -
+
+                                                                                              31
+  MER-L-000244-25 06/26/2025 10:40:29 AM Pg 38 of 44 Trans ID: LCV20251857570
+
+
+
+
+28.10 8              Arc Mercer                 4           4         -          -
+5       2.02         Serv                       4           -         4          -
+5       2.02         Serv                       52          28        24         -
+5       25.02 C131   Community Options          2           -         -          2
+8.01    58           Eden                       5           -         -          5
+8.01    58           Eden                                   28        24
+8.04    11           Eden                       4           -         -          4
+5.02    1            Arc Mercer                 6           -         -          6
+28.12 6              Hillside Development       4           -         -          4
+Total Fourth Round                                                               27
+
+
+
+    3. Creditworthiness of Existing Affordable Housing Units
+       The Township of Robbinsville has continued to utilize the State’s Affordable
+       Housing Monitoring System (AHMS, formerly CMT), in accordance with the
+       requirements of the Fair Housing Act and recent amendments under P.L. 2024,
+       c.2. The Township remains in full compliance with its statutory obligations related
+       to the reporting of affordable housing unit activity and Affordable Housing Trust
+       Fund revenues and expenditures. Robbinsville will continue to use this State-
+       administered system as the primary method for meeting its annual reporting
+       requirements and ensuring transparency and accountability in the administration
+       of its affordable housing program.
+
+    4. Compliance Analysis
+       The Township of Robbinsville has consistently demonstrated a commitment to
+       advancing the development of affordable housing. This Housing Element and
+       Fair Share Plan outlines the comprehensive strategies and mechanisms the
+       Township will implement to fulfill its cumulative affordable housing obligation.
+
+    5. Very Low / Low / Moderate Income Requirements
+       In accordance with the amended Fair Housing Act (P.L. 2008, c.46),
+       municipalities are required to ensure that a minimum of 13% of all affordable
+       housing units approved and constructed (or planned for construction) after July
+       17, 2008, are reserved for very low-income households. Furthermore, under the
+       most recent amendment to the Fair Housing Act (P.L. 2024, c.2), codified at
+       N.J.S.A. 52:27D-329.1, at least 50% of the very low-income units intended to
+       fulfill Fourth-Round Prospective Need must be designated for families with
+       children. To meet these obligations, the Township will incorporate deed
+       restrictions into any development or redevelopment agreement involving
+       affordable housing to ensure that units are made available to households earning
+       no more than 30% of the area median income. Additionally, subject to the
+       availability of affordable housing trust funds, the Township may allocate
+       resources through its Spending Plan to support small-scale developers in
+                                                                                       32
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 39 of 44 Trans ID: LCV20251857570
+
+
+
+
+    delivering very low-income units. The specific terms of such financial support will
+    be outlined in individual developer or redeveloper agreements.
+
+ 6. Preservation of Multigenerational Family Continuity
+    Pursuant to the amended Fair Housing Act, the Housing Element and Fair Share
+    Plan must include an analysis of how municipal ordinances and local factors
+    support or hinder the goal of preserving multigenerational family continuity, as
+    outlined in the recommendations of the Multigenerational Family Housing
+    Continuity Commission (P.L.2021, c.273; N.J.S.A. 52:27D-329.20). The
+    Commission’s stated objective is to enable senior citizens to remain in the homes
+    of extended family members, thereby strengthening multigenerational living
+    arrangements.
+    As of April 2025, the Commission has not issued formal recommendations.
+    Nonetheless, a review of the Robbinsville Land Use Ordinance indicates that the
+    municipality supports this goal. The Township defines “family” in the Land Use
+    Ordinance as: “One or more persons related by blood, marriage, civil union,
+    domestic partnership, adoption or guardianship, or not more than six persons not
+    so related occupying a dwelling unit and living as a single housekeeping unit.”
+    This definition clearly permits senior citizens to reside with younger generations.
+    Accordingly, the Township’s Ordinance advances, rather than detract from,
+    multigenerational family continuity.
+
+ 7. Mandatory Set Aside Ordinance
+    The Mandatory Set Aside Ordinance adopted and included as Exhibit F in the
+    Third-Round HEFSP will be repealed due to the unintended consequences of
+    such ordinance. More specifically, there are occasions where prospective
+    residential housing developers retreated from pursuing projects due to the
+    requirements of the ordinance. Had those developments been permitted to move
+    forward without an affordable housing set aside but rather a contribution, much
+    needed infusions into the Affordable Housing Trust Fund would have been
+    realized. As such, in accordance with the agreement reached with Fair Share
+    Housing Center, the Ordinance will be repealed.
+
+ 8. Development Fee Ordinance
+    Robbinsville first adopted its development fee ordinance in 2011, with the most
+    recent amendment adopted in 2017 (refer to Appendix I). The ordinance is
+    codified at §142-96 of the Township Code. It authorizes the collection of
+    residential development fees equal to 1.5% of the equalized assessed value of
+    new residential construction and additions, and non-residential development fees
+    equal to 2.5% of the equalized assessed value of new non-residential
+    construction and additions. Once the New Jersey Department of Community
+
+
+                                                                                    33
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 40 of 44 Trans ID: LCV20251857570
+
+
+
+
+    Affairs (DCA) and the New Jersey Housing and Mortgage Finance Agency
+    (HMFA) finalize their proposed rule changes—anticipated no earlier than June
+    30, 2025—the Township will prepare an updated development fee ordinance.
+    This revised ordinance will be consistent with the forthcoming regulations under
+    N.J.A.C. 5:99, the expected 2025 updates to the Uniform Housing Affordability
+    Controls (UHAC), any applicable Council on Affordable Housing (COAH) rules
+    not superseded by the new DCA or UHAC regulations, and will also reflect the
+    terms of the court-approved Third-Round agreement with the Fair Share Housing
+    Center (FSHC).
+
+ 9. Spending Plan
+    Following the finalization of rule proposals by the New Jersey Department of
+    Community Affairs (DCA) and the New Jersey Housing and Mortgage Finance
+    Agency (HMFA)—which is not expected prior to June 30, 2025—the Township
+    will develop an updated Spending Plan. This plan will be prepared in accordance
+    with DCA’s anticipated new regulations under N.J.A.C. 5:99, the forthcoming
+    2025 amendments to the Uniform Housing Affordability Controls (UHAC), and
+    any existing Council on Affordable Housing (COAH) regulations that remain
+    applicable and are not superseded by the new DCA or UHAC rules. Additionally,
+    the updated Spending Plan will incorporate provisions necessary to comply with
+    the terms of the court-approved Third-Round agreement with the Fair Share
+    Housing Center (FSHC).
+    The forthcoming Spending Plan will outline projected revenue sources, the
+    process for revenue collection, and the intended allocation of those funds. It will
+    be developed in accordance with the applicable substantive rules. All funds
+    collected will be deposited into the Township’s Affordable Housing Trust Fund
+    and may be utilized to support eligible affordable housing activities, including but
+    not limited to:
+      •   New construction of affordable housing units and related development
+          costs;
+      •   Extensions or improvements of roads and infrastructure directly serving
+          affordable housing development sites;
+      •   Acquisition and/or improvement of land to be used for affordable housing;
+      •   Purchase of affordable housing units for the purpose of maintaining or
+          implementing affordability controls;
+      •   Maintenance and repair of affordable housing units;
+      •   Repayment of municipal bonds issued to finance low- and moderate-
+          income housing activity; and
+      •   Any other activity as specified in the approved spending plan.
+    A minimum of 30% of development fee revenues – excluding those expended
+    after July 17, 2008, when affordability assistance became a statutory
+
+                                                                                     34
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 41 of 44 Trans ID: LCV20251857570
+
+
+
+
+    requirement under the Fair Housing Act – must be allocated toward providing
+    affordability assistance for low- and moderate-income households residing in
+    affordable units identified in the municipality’s Fair Share Plan. Of that portion, at
+    least one-third must specifically support very low-income households.
+    Additionally, no more than 20% of the annual development fee revenue may be
+    used for administrative purposes. This includes, but is not limited to,
+    compensation and benefits for municipal staff or payments to consultants
+    engaged in the preparation or implementation of rehabilitation programs, new
+    construction initiatives, housing elements and fair share plans, or affirmative
+    marketing strategies. It should be noted that the 30% affordability assistance
+    requirement may be subject to change, pending adoption of new regulations
+    currently under consideration by the New Jersey Department of Community
+    Affairs (DCA) or the New Jersey Housing and Mortgage Finance Agency
+    (HMFA). The Township will comply with any revisions to the applicable legal and
+    regulatory framework once they are enacted.
+    In order to address the Township’s affordability assistance obligation in Round
+    4, the Township will continue its Emergency Repair/Energy Efficiency Assistance
+    Program for the affordable housing properties in Robbinsville. This helps the
+    current owners of affordable units that would not have the funds necessary to
+    keep their properties up to code. The Township provides loans to currently
+    income eligible owners of affordable properties up to $20,000 that are interest
+    free, no monthly payments and are forgiven if the homeowner remains in the
+    affordable property for 6 years.
+
+ 10. State Development and Redevelopment Plan Consistency
+    This Housing Element and Fair Share Plan aligns with the 2001 State
+    Development and Redevelopment Plan (SDRP) and the draft proposed update.
+    The projects and zoning strategies outlined herein create a realistic opportunity
+    for the development of affordable housing. In accordance with the SDRP,
+    Planning Area 2 (PA2)—the Suburban Planning Area is prioritized for providing
+    much of the state’s future development, and concentrating growth in Centers and
+    compact areas. Robbinsville is located within PA2, rendering it a suitable and
+    consistent location for affordable housing development. Advancing affordable
+    housing in PA2 furthers the SDRP’s overarching objective of concentrating
+    growth in established centers with existing infrastructure.
+
+
+
+
+                                                                                       35
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 42 of 44 Trans ID: LCV20251857570
+
+
+
+
+                The Township of Robbinsville Planning Areas Map
+
+
+
+
+         Source: New Jersey Department of State Office of Planning Advocacy Locator Map
+
+
+
+ 11. Consideration of Lands Appropriate for Affordable Housing
+    The properties identified in this plan, as well as in the previous Housing Element
+    and Fair Share Plan (HEFSP) for the Third-Round, has been determined by the
+    Planning Board—through careful analysis and evaluation—to offer the most
+    viable opportunity for redevelopment into multi-family and mixed-use inclusionary
+    development to help satisfy Robbinsville’s affordable housing obligations.
+
+ 12. Cost Generation
+    The Township has reviewed its Land Development Ordinance and related land-
+    use provisions to identify and eliminate any unnecessary cost-generating
+    standards. No such provisions have been identified to date. To ensure continued
+
+                                                                                          36
+MER-L-000244-25 06/26/2025 10:40:29 AM Pg 43 of 44 Trans ID: LCV20251857570
+
+
+
+
+    compliance, development applications involving affordable housing will be
+    reviewed for consistency with the Township Code, the Residential Site
+    Improvement Standards (N.J.A.C. 5:21-1 et seq.), the Municipal Land Use Law
+    (N.J.S.A. 40:55D-40.1 through -40.7), and the Fair Housing Act's prohibition on
+    unnecessary cost-generating features.
+    The Township will comply with the procedural requirements set forth in N.J.A.C.
+    5:93-10.1(a) and (b), as well as with N.J.A.C. 5:93-10.3 and -10.4 concerning
+    special studies and escrow accounts for development applications containing
+    affordable housing.
+
+ 13. Monitoring
+    Pursuant to the requirements set forth in N.J.S.A. 52:27D-329.2 and 329.4, as
+    amended by P.L. 2024, c.2, the Municipality will submit an annual report by
+    February 15 of each year during the Fourth-Round. This report will be filed
+    through the New Jersey Department of Community Affairs’ (DCA) newly
+    established Affordable Housing Monitoring System (AHMS). The submission will
+    include a comprehensive accounting of all affordable housing units completed or
+    under construction in the preceding calendar year, along with a record of all
+    residential and non-residential development fees collected, interest accrued, and
+    other revenues deposited into Township’s Affordable Housing Trust Fund during
+    that period. The Township will also provide a detailed report on all expenditures
+    from the trust fund, including specific amounts, purposes, and the remaining fund
+    balance as of December 31 of the prior year.
+    Additionally, the Township—or any other interested party—may initiate a realistic
+    opportunity review through the AHMS Program at the midpoint of the Fourth-
+    Round certification period. Public notice will be required, and the review will
+    include an evaluation of any inclusionary development site listed in this Housing
+    Element and Fair Share Plan that has not received preliminary site plan approval
+    by the midpoint of the 10-year cycle. In the event such a review is initiated, the
+    Township may identify and propose one or more alternative sites, along with
+    detailed development plans, that offer a realistic opportunity to deliver the same
+    number of affordable units and meet the standards of the Fair Housing Act and
+    Mount Laurel doctrine.
+
+
+
+
+                                                                                   37
+      MER-L-000244-25 06/26/2025 10:40:29 AM Pg 44 of 44 Trans ID: LCV20251857570
+
+
+
+
+IV.      Appendix
+
+  A. All Zoning Amendments
+
+
+  B. Affordable Housing Ordinance
+
+
+  C. Set Aside Ordinance
+
+
+  D. Development Fee Ordinance
+
+
+  E. Affirmative Marketing Plan
+
+
+  F. Spending Plan
+
+
+  G. Resolution of Intent
+
+
+  H. Copies of Resolutions
+
+
+  I. 2017 Housing Element Plan
+
+
+  J. 2018 Housing Element Plan
+
+
+  K. Rehabilitation Completion Status Information
+
+
+
+
+                                                                                    38
+

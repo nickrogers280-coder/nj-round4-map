@@ -1,0 +1,1875 @@
+ HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 1 of 69 Trans ID: LCV20262180774
+
+
+
+
+                             2026
+ PERIODIC REEXAMINATION REPORT OF THE
+MASTER PLAN & DEVELOPMENT REGULATIONS
+                   &
+          AMENDMENTS TO THE
+            LAND USE PLAN &
+  HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+                      Clinton Township
+                Hunterdon County, New Jersey
+                            July 31, 2026
+                       Adopted August 17, 2026
+                   HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 2 of 69 Trans ID: LCV20262180774
+
+                                COMMUNITY PLANNING                                                      PRINCIPALS:
+
+
+  b a
+                                LAND DEVELOPMENT AND DESIGN                                Joseph H. Burgis PP, AICP
+                                LANDSCAPE ARCHITECTURE                             Edward Snieckus, Jr. PP, LLA, ASLA
+                                                                                              David Novak PP, AICP
+
+
+
+
+B U R G I S
+A S S O C I A T E S,   I N C.
+
+
+
+
+2026
+P ERIODIC R EEXAMINATION R EPORT OF THE
+M ASTER PLAN & DEVELOPMENT R EGULATIONS &
+AMENDMENTS TO THE L AND USE P LAN &
+H OUSING P LAN E LEMENT & F AIR S HARE P LAN
+
+Township of Clinton
+Hunterdon County, New Jersey
+
+
+Prepared for:
+Township of Clinton Planning Board
+BA# 4378.10
+
+
+
+
+The original document was appropriately signed and sealed on July 31, 2026 in accordance with N.J.S.A.
+45:14A-12.
+
+
+
+_______________________________
+Thomas Behrens, Jr., P.P., AICP
+Professional Planner #6323
+HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 3 of 69 Trans ID: LCV20262180774
+
+
+
+
+             CLINTON TOWNSHIP PLANNING BOARD MEMBERS
+
+                          Kevin Cimei, Chairman
+                     Thomas McCaffrey, Vice Chairman
+                            Brian Mullay, Mayor
+                        William Glaser, Councilman
+                              Sandra Butcher
+                                John Higgins
+                             Suzanne Kleinhans
+                        Michael Aversa, 1st Alternate
+                       Richard Grube, 2nd Alternate
+
+                        TOWNSHIP ADMINISTRATOR
+
+                                William Close
+
+                           TOWNSHIP ATTORNEY
+
+                        Trishka Waterbury Cecil, Esq.
+                        Mason, Griffin & Pierson, PC
+
+                      PLANNING BOARD SECRETARY
+
+                             Candace DeJianne
+
+          PLANNING BOARD & AFFORDABLE HOUSING ATTORNEY
+
+                              Jonathan Drill, Esq.
+                     Stickel, Koenig, Sullivan & Drill, LLC
+
+                           TOWNSHIP ENGINEER
+
+                 Stanley Schrek, PE, AIA, PP, CME, LEED AP
+                   Van Cleef Engineering Associates, LLC
+
+                           TOWNSHIP PLANNER
+
+                           Tom Behrens, PP, AICP
+                            Burgis Associates, Inc.
+HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 4 of 69 Trans ID: LCV20262180774
+                           HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 5 of 69 Trans ID: LCV20262180774
+
+
+
+
+Table of Contents
+
+I.           Introduction ..................................................................................................................................................................................... 1
+       1.1           Executive Summary ....................................................................................................................................................................... 1
+       1.2           Legal Requirements for Planning ............................................................................................................................................. 2
+       1.3           Legal Requirements for Reexamination Reports.................................................................................................................. 3
+       1.4           Previous Planning Documents .................................................................................................................................................. 4
+II.          2023 Reexamination Reports Major Problems & Objectives; ................................................................................................. 6
+             Extent to Which Issues Have Been Addressed .......................................................................................................................... 6
+       2.1           Development Regulations Discussed in 2023 Reexamination Report ........................................................................... 6
+       2.2           Planning Issues Discussed in 2023 Reexamination Report ............................................................................................... 9
+       2.3           2006 Land Use Plan Goals & Objectives .............................................................................................................................. 12
+       2.4           2015 Reexamination Report Goals & Objectives................................................................................................................ 15
+       2.5           2020 Land Use Plan Element Goals & Objectives ............................................................................................................. 15
+       2.6           2021 Land Use Plan Element Goals & Objectives .............................................................................................................. 16
+       2.7           2023 Land Use Plan Element Amendment.......................................................................................................................... 16
+III.         Changes in Assumptions, Policies & Objectives ..................................................................................................................... 17
+       3.1           Affordable Housing .................................................................................................................................................................... 17
+       3.2           Highlands Regulations............................................................................................................................................................... 18
+       3.3           State Development & Redevelopment Plan ....................................................................................................................... 19
+       3.4           Climate Change-Related Hazard Vulnerability Assessment (CCRHVA) ...................................................................... 19
+       3.5           Wastewater Management Plan (WMP) ................................................................................................................................ 19
+IV. Specific Changes Recommended.............................................................................................................................................. 20
+       4.1           Affordable Housing .................................................................................................................................................................... 20
+       4.2           Proposed Rezoning.................................................................................................................................................................... 20
+V.           Redevelopment Recommendations ......................................................................................................................................... 23
+VI. Electric Vehicle (EV) Charging Infrastructure Policies ........................................................................................................... 24
+VII. Amendment to the Land Use Plan Element ........................................................................................................................... 25
+       7.1           Purpose and Scope .................................................................................................................................................................... 25
+       7.2           Land Use Plan Amendments ................................................................................................................................................... 25
+                       HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 6 of 69 Trans ID: LCV20262180774
+
+
+
+VIII. Amendment to the Fourth Round Housing Element & Fair Share Plan ........................................................................... 29
+    8.1         Purpose and Scope .................................................................................................................................................................... 29
+    8.2         Housing Element......................................................................................................................................................................... 29
+    8.3         Fair Share Plan ............................................................................................................................................................................. 29
+Appendix................................................................................................................................................................................................ 39
+HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 7 of 69 Trans ID: LCV20262180774
+              HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 8 of 69 Trans ID: LCV20262180774
+
+
+
+
+I.       INTRODUCTION
+
+1.1      EXECUTIVE SUMMARY
+
+The term ‘master plan’ is defined by the Municipal Land Use Law (“MLUL”) (N.J.S.A. 40:55D-1 et seq.) as ‘a composite of
+one or more written or graphic proposals for the development of the municipality.” In accordance with the MLUL, the
+preparation and adoption of a master plan is a primary function of the municipality’s Planning Board which is
+responsible for establishing the land use policies, goals and objectives intended to achieve the future vision of the
+community. The master plan serves as the basis for the municipality’s land use and zoning ordinances which must be
+consistent with the provisions of the plan. To encourage consistency between these policy and regulatory documents,
+and address any changes in local and broader conditions, the MLUL requires the Planning Board to conduct a periodic
+reexamination or analysis of the master plan and development regulations at least once every 10 years.
+
+This 2026 Reexamination Report of the Master Plan and Development Regulations and Amendment to the Township’s
+Land Use Plan Element and Housing Element and Fair Share Plan (“HE&FSP”) are intended to address emerging land
+use issues and updates to the Township’s Fourth Round affordable housing compliance plan as that process has
+evolved. The Planning Board’s specific recommendations and land use policies contained herein are summarized as
+follows:
+
+        Implement the terms of the Settlement Agreement with Fair Share Housing Center signed by FSHC on July 7,
+         2026, signed by the Township on July 10, 2026 and filed via eCourts on July 13, 2026 attached hereto.
+
+        Review and confirmation of recommendations and land use policies in the 2023 Reexamination Report, 2006
+         Land Use Plan Element as amended and 2026 Housing Element and Fair Share Plan.
+
+        Recommendation to place the area of the existing PUD Planned Unit Development Overlay Zone developed
+         as the Beaver Brook Country Club and associated townhouse development within a new PUD Planning Unit
+         Development Zone that removes the current underlying RR-4S Zone designation which is no longer applicable.
+
+        Recommendation to create a new PUD-AHO Planned Unit Development Affordable Housing Overlay Zone to
+         facilitate residential or mixed-use development of Block 79.02 Lots 7, 7.1100 and 7.4100 currently located in the
+         PUD Planned Unit Development Overlay Zone.
+
+        Recommendation to remove Block 79.02 Lots 23, 23.01 and 23.02 from the PUD Overlay Zone to remain solely
+         in their current underlying RR-4S Zone designations.
+
+        Identify the extension of affordability controls for the 3 existing units at 142 West Main Street and 35 units at
+         The Mews as plan mechanisms in the Township’s Fourth Round HE&FSP as amended.
+
+This 2026 Reexamination Report is generally consistent with the land use policies and goals of the Township’s previous
+planning documents, particularly its 2023 Reexamination Report, 2006 Land Use Plan Element as amended and 2026
+Housing Element and Fair Share Plan. The recommendations set forth in this report are intended to preserve and
+enhance the rural character of the community, protect existing residential and environmentally sensitive areas, promote
+economic development in appropriate locations and provide affordable housing as detailed herein.
+
+
+                                                           2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                                  Clinton Township | 1
+             HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 9 of 69 Trans ID: LCV20262180774
+
+
+
+1.2      LEGAL REQUIREMENTS FOR PLANNING
+
+The MLUL establishes the legal requirements and criteria for the preparation of a master plan and reexamination report.
+The Planning Board is responsible for the preparation of a master plan and amendments thereto which establish the
+land use policies of the municipalities. The master plan gives the community the legal basis to control development in
+the municipality through the adoption of development ordinances that are designed to implement the plan’s policies
+and recommendations.
+
+The MLUL identifies the required contents of a master plan which include the following:
+
+    1.     A statement of objectives, principals, assumptions, policies and standards upon which the constituent
+           proposals for the physical, economic and social development of the municipality are based.
+
+    2.     A land use plan element that takes into account physical features, identifying the existing and proposed
+           location, extent and intensity of development for residential and non-residential purposes, and states the
+           relationship of the plan to any proposed zone plan and zoning ordinance.
+
+    3.     A housing plan and recycling plan prepared by the municipality.
+
+In addition, the MLUL identifies several other plan elements that may be incorporated into a comprehensive master
+plan document, such as: circulation, open space, recreation, community facilities, and historic preservation plan
+elements. These elements are optional.
+
+The Planning Board is also responsible for the preparation of a reexamination report of the master plan and
+development ordinances which serves as an analysis of the current land use policies and regulations, which may also
+include recommended amendments to those documents. The MLUL was amended in May 2011 to require planning
+boards to prepare a reexamination report at least once every ten years. Previously, planning boards were required to
+prepare such a review at least once every six years.
+
+It is the Clinton Township Planning Board’s intent to amend the Township’s Land Use Plan and Housing Plan Elements
+to implement certain recommendations contained in this 2026 Reexamination Report and establish same as land use
+policy. In accordance with N.J.S.A. 40:55D-28a, “the planning board may prepare and, after public hearing, adopt or
+amend a master plan or component parts thereof, to guide the use of lands within the municipality in a manner which
+protects public health and safety and promotes the general welfare. The Township’s master plan amendments
+incorporated in this document have been prepared and implemented accordingly.
+
+
+
+
+2
+            HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 10 of 69 Trans ID: LCV20262180774
+
+
+
+1.3     LEGAL REQUIREMENTS FOR REEXAMINATION REPORTS
+
+The following section details the statutory requirements of a periodic reexamination report, as prescribed in Section
+40:55D-89 of the MLUL. This section of the statute mandates the report must address, at a minimum, the following
+components:
+
+   1.      The major problems and objectives relating to land development in the municipality at the time of the
+           adoption of the last reexamination report;
+
+   2.      The extent to which such problems and objectives have been reduced or have increased subsequent to
+           such date;
+
+   3.      The extent to which there have been significant changes in the assumptions, policies and objectives forming
+           the basis for the master plan or development regulations as last revised, with particular regard to the density
+           and distribution of population and land use, housing conditions, circulation, conservation of natural
+           features, energy conservation, collection, disposition and recycling of designated recyclable materials, and
+           changes in State, County and municipal policies and objectives;
+
+   4.      The specific changes recommended for the master plan or development regulations, if any, including
+           underlying objectives, policies and standards, or whether a new plan or regulation should be prepared;
+
+   5.      The recommendations of the Planning Board concerning the incorporation of redevelopment plans
+           adopted pursuant to the "Local Redevelopment and Housing Law," into the land use plan element of the
+           municipal Master Plan, and recommended changes, if any, in the local development regulations necessary
+           to effectuate the redevelopment plans of the municipality; and
+
+   6.      The recommendations of the Planning Board concerning locations appropriate for the development
+           of public electric vehicle infrastructure, including, but not limited to, commercial districts, areas
+           proximate to public transportation and transit facilities and transportation corridors, and public rest
+           stops; and recommended changes, if any, in the local development regulations necessary or
+           appropriate for the development of public electric vehicle infrastructure.
+
+
+
+
+                                                          2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                                 Clinton Township | 3
+              HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 11 of 69 Trans ID: LCV20262180774
+
+
+
+1.4    PREVIOUS PLANNING DOCUMENTS
+
+
+In 1962, Clinton Township adopted its first comprehensive Master Plan which has since been updated on a regular basis
+to address the evolving development interests in the municipality and region, including the preservation of the
+Township’s agricultural heritage, changing development patterns, affordable housing and inclusion in the New Jersey
+Highlands Region, among other notable considerations. The Planning Board adopted the Township’s most recent
+comprehensive Reexamination Report of the Master Plan and Development Ordinances in 2023 with amendments to
+the Land Use Plan Element and Housing Element and Fair Share Plan.
+
+Clinton Townshi’s adopted master plan documents include the following:
+
+       1962            Master Plan
+       1976            Master Plan
+       1983            Master Plan
+       1991/1992       Land Use Plan, Circulation Plan, Water & Sanitary Sewer Plan, Community Facilities Plan,
+                       Recreation and Open Space Plan, Conservation Plan, Historic Preservation Plan, Recycling Plan
+       1999            Master Plan Reexamination Report (included new Land Use Plan Element and Circulation Plan)
+       2000            Master Plan
+       2000            Housing Element and Fair Share Plan
+       2001            Bicycle Element included in the Circulation Plan Element
+       2003            Open Space and Recreation Plan
+       2004            Housing Element and Fair Share Plan (amended in 2005)
+       2005            Master Plan Reexamination Report
+       2005            Stormwater Management Plan
+       2006            Land Use Plan Element
+       2007            Housing Element and Fair Share Plan
+       2010            Housing Element and Fair Share Plan
+       2015            Reexamination of the Master Plan
+       2015            Housing Element and Fair Share Plan
+       2016            Beaver Brook Homestead Redevelopment Plan
+       2016            Housing Element and Fair Share Plan
+       2017            Former Municipal Building Redevelopment Plan (first adopted in 2015)
+       2018            Housing Element and Fair Share Plan (per settlement agreement with Fair Share Housing
+                       Center)
+       2018            Land Use Plan Element Amendment (adjusted for consistency with 2018 Housing Element)
+       2018            Open Space and Recreation Plan
+       2020            Periodic Reexamination Report of the Master Plan & Development Regulations & Land Use Plan
+                       Element Amendment
+       2021            Periodic Reexamination Report of the Master Plan & Development Regulations
+       2021            Amendment to the Land Use Plan Element
+
+4
+       HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 12 of 69 Trans ID: LCV20262180774
+
+
+
+2021           Amendment to the Housing Element and Fair Share Plan
+2023           Periodic Report of the Master Plan & Development Regulations; Amendments to the Land Use
+               Plan and Housing Plan Elements of the Master Plan
+2025           Housing Element & Fair Share Plan
+2025           Climate Change-Related Hazard Vulnerability Assessment (CCRHVA)
+2026           Amended Housing Element & Fair Share Plan
+
+
+
+
+                                              2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                     Clinton Township | 5
+              HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 13 of 69 Trans ID: LCV20262180774
+
+
+
+
+II.        2023 REEXAMINATION REPORTS MAJOR PROBLEMS & OBJECTIVES;
+           EXTENT TO WHICH ISSUES HAVE BEEN ADDRESSED
+As part of the overall master plan reexamination analysis, the MLUL requires an identification of the major problems
+and objectives related to land development at the time of adoption of the previous Reexamination Report as well as
+the extent to which those problems and objectives have reduced or increased since the adoption of the last report.
+Clinton Township’s major land use problems and objectives identified in the Township’s 2023 Reexamination Reports
+of the Master Plan and Development Ordinances as summarized below. This 2026 Reexamination Report affirms the
+Township’s land use goals and objectives contained in its 2006 Master Plan and 2018, 2020 and 2023 Land Use Plan
+Element Amendments.
+
+
+
+2.1        DEVELOPMENT REGULATIONS DISCUSSED IN 2023 REEXAMINATION REPORT
+
+      1.     OB-1 Zone (North of Route 513/West Main Street). As recommended in the 2005 Reexamination Report,
+             the OB-1 Zone on the west side of Route 31 and north of Route 513 was rezoned in June 2006 to the RC
+             Zone District, a newly created district which replaced the R-1 District. The rezoning of the area in question
+             from the OB-1 Zone to the RC Zone was challenged and ultimately upheld by the Superior Court. However,
+             the Court ruling was amended in August 2011 to require a single parcel, Block 68 Lot 3, revert back to its
+             original OB-1 Zone designation based on a 1999 Consent Order that settled prior litigation. The amended
+             Court ruling stipulated that the Township could seek relief from the 1999 Consent Order to allow the
+             rezoning if the owner of Lot 3 failed to submit a complete development application for the property within
+             a reasonable amount of time. Map 4 on page 27 depicts the area in question with surrounding zoning
+             designations.
+
+             2023 Policy Statement. To date, no development application has been filed for the site since the Court’s
+             2011 ruling. In addition, the property has since changed ownership. The Township intends to work with the
+             current property owner in rezoning the parcel back to the RC Zone as intended in the 2006 zone change.
+             It is noted that Court approval is required to address the aforementioned litigation prior to any rezoning or
+             ordinance adoption for the property.
+
+             2026 Policy Statement. The Township’s 2023 policy statement remains valid.
+
+      2.     Sexually Oriented Businesses. The Zoning Ordinance should be reviewed and revised, if necessary, in
+             accordance with the applicable case law.
+
+             2026 Policy Statement. This recommendation has yet to be addressed and remains valid.
+
+      3.     Unclear definitions. Review and revise unclear definitions in the zoning ordinance, including those related
+             to restaurants, fast-food restaurants and convenience stores.
+
+             2026 Policy Statement. The Township Code was amended in June 2024 by Ordinance No. 1202-2024 to
+             create several new conditional uses and associated definitions for fast-food restaurants, combined motor
+             vehicle filling station and convenience stores and self-storage facilities. The ordinance definitions were
+             updated to distinguish between different types of restaurants, including fast-food restaurants, take-out
+             restaurants and traditional restaurants. In addition, definitions were added for ‘warehouse’ and ‘distribution
+
+6
+     HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 14 of 69 Trans ID: LCV20262180774
+
+
+
+     center/facility’ uses which are now prohibited. The Planning Board recommends the ordinance be further
+     amended to define uses currently permitted in various zones but not defined in the ordinance.
+
+4.   Noise control. Revise noise control standards in order to address potential conflicts between adjoining land
+     uses.
+
+     2026 Policy Statement. This recommendation has yet to be addressed and remains valid. NJDEP generally
+     governs noise standards in New Jersey. The Planning Board recommends the Township repeal its existing
+     noise ordinance at Chapter 178 of the Township Code and adopt a new noise ordinance based on the
+     NJDEP model noise ordinance.
+
+5.   Conservation easements. Formulate recommendations from draft ordinance prepared by Environmental
+     Commission to create a reasonable and enforceable ordinance.
+
+     2026 Policy Statement. This recommendation that predates the 2023 Reexamination Report has yet to be
+     addressed and remains valid.
+
+6.   Warehouse and Distribution Uses. The Planning Board recommends the Township address the recent
+     increase in developing warehouse and distribution uses along Routes 78, 22 and 31 by establishing a town-
+     wide prohibition of such principal permitted uses. Land in Hunterdon County along Route 78 has been
+     recognized as an alternative to other warehousing and distribution centers in New Jersey given its relative
+     proximity to the coastal ports of entry and highway access to the west. It is the Township’s intent to
+     discourage and prohibit the development of such uses, particularly in those areas of the Township but also
+     in general, as the Township’s roadway infrastructure and access to Interstate Route 78 cannot support the
+     truck traffic typified by such uses. In doing so, it is recommended that such targeted zones, including the
+     C-2 and ROM-3 Zones and/or a new commercial - research, office, manufacturing zone along Route 22,
+     be amended to specifically prohibit warehouse and distribution uses. The Township’s land use definitions
+     should be revised to define ‘warehouse’ and ‘distribution’ uses as they are not currently addressed in the
+     ordinance.
+
+     2023 Policy Statement. This issue remains valid. The Planning Board maintains the intent to discourage
+     and prohibit the development of warehouse and distribution uses in the Township as the Township’s
+     roadway infrastructure cannot support the truck traffic generated from such uses and does not provide
+     adequate connectivity to Route 31, 22 and 78. The Zoning Ordinance was amended in 2020 to include
+     definitions for ‘distribution center/facility’ and ‘warehouse’. The recently created C-ROM Zone located
+     along Route 22 specifically prohibits warehouse and distribution uses. The Planning Board recommends
+     the proposed Highway Commercial Zone along route 31 contain a similar prohibition as well as all other
+     nonresidential zones.
+
+     2026 Policy Statement. The Township adopted Ordinance No. 1202-2024 in June 2024 that establishes a
+     Township-wide prohibition of warehouse and distribution centers or facilities and created new definitions
+     for both uses. The prohibition of these uses remains valid due to intensity of such uses deemed
+     incompatible with the Township’s existing land use pattern, intensity of truck and vehicle traffic which the
+     local road network is not designed to support, current safety issues at local road and highway intersections,
+     noise and emissions.
+
+
+                                                   2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                          Clinton Township | 7
+          HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 15 of 69 Trans ID: LCV20262180774
+
+
+
+
+    7.    Amendment to the C-1 Zone to Add a Floor Area Requirement. In the 2020 Reexamination Report, the
+          Planning Board recommended the Township amend the C-1 Commercial District to include a maximum
+          floor area limitation as the zone does not currently have such a restriction.
+
+          2023 Policy Statement. This recommendation is no longer valid. The Planning Board recommends the
+          creation of a new Highway Commercial Zone which would incorporate the existing C-1 Zones along Route
+          31 and would not have a maximum floor area requirement. The Board also recommends the remaining C-
+          1 Zone immediately south of the Annandale Train Station be revised to the OB-2 Zone.
+
+          2026 Policy Statement. The 2020 recommendation to introduce a new floor area ratio requirement in the
+          C-1 Commercial District is no longer valid and eliminated as a recommendation. The Township adopted
+          Ordinance No. 1202-2024 in June 2024 creating a new HC Highway Commercial District that consolidated
+          prior C-1, OB-1 and other areas along Route 31. That ordinance also rezoned the former C-1 Zone
+          immediately south of the Annandale Train Station to the OB-2 Office Business 2 Zone.
+
+    8.    Vacate Portion of Hoffman Road. In 2020, the Planning Board recommended the Township vacate the
+          undeveloped “paper street” identified as a portion of Hoffman Road on Township maps located
+          immediately west of Patrick McGheran School. Neither the Township or Board of Education have any
+          intention of developing this land as a public road. Upon vacating the roadway, adjacent property owners
+          will have the opportunity to purchase the land and create parcels with greater development viability.
+
+          2026 Policy Statement. This recommendation remains valid.
+
+    9.    Intersection of Petticoat Lane and Route 22. The 2020 Reexamination Report noted that because of
+          planned future projects which will generate substantial additional traffic at this intersection, the Planning
+          Board recommends that the Township petition NJDOT to widen Petticoat Lane at the signalized intersection
+          with Route 22 as part of the approval process for these projects. This would allow for multiple turning lanes
+          to alleviate peak hour traffic on Petticoat Lane heading toward Route 22. Similar regional roadway
+          connections to Routes 31 and 22 (for example Route 31 and Regional Road) should be evaluated for
+          potential improvements to create safer conditions and mitigate traffic on those roads subject to NJDOT
+          approval.
+
+          2026 Policy Statement. This recommendation remains valid.
+
+    10.   Bikeways. The 2020 Reexamination Report stated that in an effort to promote multimodal transportation
+          alternatives, the Township should consider installing bikeways or bike lanes along appropriate roadways of
+          adequate width and safety that provide connections between amenities and sites of significance within the
+          community. Such bikeways may also connect to any existing or proposed bike trails or off-road tracks that
+          have become popular destinations.
+
+          2023 Policy Statement. This recommendation remains valid. The Township should consider implementing
+          a complete street policy in appropriate locations to provide safe and efficient means for vehicular,
+          pedestrian, bike and public transportation traffic.
+
+
+
+
+8
+          HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 16 of 69 Trans ID: LCV20262180774
+
+
+
+         2026 Policy Statement. This recommendation remains valid. The Township should consider implementing
+         a complete street policy in appropriate locations to provide safe and efficient means for vehicular,
+         pedestrian, bike and public transportation traffic. It is noted that Hunterdon County is in the process of
+         preparing a County-wide Bicycle Plan.
+
+
+2.2    PLANNING ISSUES DISCUSSED IN 2023 REEXAMINATION REPORT
+
+  1.     Utilities. As noted in the 2020 Reexamination Report, the availability of water and sewer capacity in the
+         Township remains severely constrained. The Township is legally obligated to prioritize the allocation of any
+         available water and sewer capacity to the several affordable housing developments as specified in the
+         Township’s Third Amendment to its Settlement Agreement with Fair Share Housing Center. Areas of the
+         Township reliant on private wells are now subject to more stringent NJDEP and Highlands regulations
+         limiting the locations and extent to which water can be extracted from the ground based on a variety of
+         environmental constraints and Highlands designations such as ‘water deficit areas.’ Similarly, the locations
+         and capacities of on-site septic and treatment facilities are constrained by NJDEP and Highlands regulations.
+         The Township has prepared an updated Wastewater Management Plan (“WMP”) which is currently in review
+         with the NJDEP.
+
+         2026 Policy Statement. The availability of water and sewer utilities in Clinton Township remains severely
+         constrained and is a significant limiting factor to future development in the Township. The Township's
+         WMP as a chapter of Hunterdon County's WMP was adopted on February 20, 2026.
+
+  2.     Highlands Plan Conformance. The 2015 Reexamination Report identified a number of Plan Conformance
+         task items to be completed subsequent to the Highlands Council’s approval of the Township’s Petition for
+         Plan Conformance on June 18, 2015. Many of these conformance tasks have been completed, including
+         adoption of a Highlands Land Use Ordinance, Housing Element & Fair Share Plan, Water Conservation
+         Management Plan and Land Use Plan Amendments that incorporates the Township’s conformance with
+         the Highlands Regional Master Plan. A separate Highlands Master Plan Element is no longer required as
+         the Township’s various master plan documents incorporate applicable Highlands master plan
+         considerations and would otherwise be redundant.
+         Outstanding Highlands conformance tasks and optional master plan elements are as follows:
+
+         A. .Highlands Environmental Resource Inventory (ERI). The Township prepared an Environmental
+            Resource Inventory as a component of its June 2015 Petition for Highlands Plan Conformance. This
+            document served as an update from the Township’s 2002 Natural Resources Inventory. The 2015
+            Reexamination Report recommended finalizing and adopting the 2015 ERI as an amendment to the
+            2002 Natural Resources Inventory and as a component of the Master Plan. The recommendation has
+            yet to be addressed and remains valid.
+
+          B. Sustainable Economic Plan Element. An economic development plan element is an optional Master
+             Plan element, the structural components of which are set forth in the MLUL as follows:
+                 “considers all aspects of economic development and sustained economic vitality, including (a) a
+                 comparison of the types of employment expected to be provided by the economic development to be
+                                                       2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                              Clinton Township | 9
+          HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 17 of 69 Trans ID: LCV20262180774
+
+
+
+                   promoted with the characteristics of the labor pool resident in the municipality and nearby areas and
+                   (b) an analysis of the stability and diversity of the economic development to be promoted.” (N.J.S.A.
+                   40:55 D-28)
+
+             The implementation schedule included in the Township’s approved Petition for Highlands Plan
+             Conformance included the adoption of a Sustainable Economic Plan Element which promotes
+             appropriate sustainable and environmentally compatible economic development. The Township
+             should consider preparing such a document to advance the Township’s goals of maintaining a stable
+             economy and a favorable property tax base.
+
+          C. Agricultural Retention/Farmland Preservation Plan Element. A farmland preservation plan is an optional
+             Master Plan element required to address the following components:
+
+             (1)    An inventory of farm properties and a map illustrating significant areas of agricultural land;
+
+             (2) A statement showing that municipal ordinances support and promote agriculture as a business;
+                 and
+
+             (3) A plan for preserving as much farmland as possible in the short term by leveraging monies made
+                 available through the Farmland Preservation Planning Incentive Grant program which may include
+                 option agreements, installment purchases, and donations of permanent development easements,
+                 among other techniques.
+
+             The implementation schedule set forth in the Township’s Petition for Highlands Plan conformance
+             included the adoption of an Agricultural Retention/Farmland Preservation Plan Element to promote the
+             Township’s goal of preserving farmland and supporting farming operations in the community.
+
+          D. Stream Corridor Protection/Restoration Plan. The 2015 Reexamination Report recommended the
+             preparation of a plan to protect and restore streams in the Township and to mitigate the impacts of
+             future land use on its various water resources. In addition, it was recommended that implementing
+             ordinances, such as a stream corridor ordinance, should also be adopted as needed. As the Township’s
+             Petition for Highlands Conformance was approved by the Highlands Council in June 2015, the Township
+             will address development impacts to streams and other environmentally sensitive features in
+             accordance with the Highlands Regional Master Plan.
+
+          E. Wastewater Management Plan. The Water Quality Management Planning Rules (N.J.A.C. 7:15) adopted
+             by the New Jersey Department of Environmental Protection (“NJDEP”) requires that all areas of New
+             Jersey are addressed by Wastewater Management Plans (“WMP”). The Township's updated WMP
+             was adopted as a chapter of the Hunterdon County WMP on February 20, 2026.
+
+     3.   Parks and Open Space. The 2015 Reexamination Report indicated that the majority of the Township’s
+          parkland and preserved open space was limited to residential zones with few sites located in nonresidential
+          zones. It was recommended that the Township’s Land Use Plan be revised to create a separate land use
+          district for parkland and open space sites and implemented through amendments to the Land Use
+          Regulations Ordinance and Zoning Map.
+
+
+
+10
+     HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 18 of 69 Trans ID: LCV20262180774
+
+
+
+     2023 Policy Statement. The Township prepared a new Open Space and Recreation Plan on December 17,
+     2018. The recreation and open space inventory (“ROSI”) includes several new parcels acquired by the
+     Township for public use since the adoption of the 2015 Reexamination Report. The Township remains
+     committed to preserving strategic lands for public purposes and in particular, parcels that contribute to
+     larger areas of contiguous open space, environmentally sensitive areas and those along major corridors to
+     preserve the bucolic character of the community. Since 2015, the Township has acquired several large
+     pieces of land along Route 31 for the purposes of preservation. The Planning Board recommends updating
+     the Zoning Map to indicate the locations of significant preserved lands in the Township of at least several
+     acres.
+
+     2026 Policy Statement. These recommendations remain valid for the purposes of identifying preserved
+     land and future land use planning. The Township continues to evaluate opportunities to preserve scenic,
+     agricultural and environmentally sensitive land for public benefit, manage pressure for new development
+     and support the State’s goal of preserving potable water resources in the Highlands Region.
+
+5.   Checklist Requirements. The Township’s land use ordinance does not currently include checklist
+     requirements for amended site plan or amended subdivisions applications. The land use ordinance should
+     be revised to require application checklists for both types of development proposals.
+
+     2026 Policy Statement. This has yet to be addressed and remains a valid recommendation.
+
+6.   Buffer Requirements. The 2015 Reexamination Report included a recommendation to clarify buffer
+     requirements and address any gaps in buffer requirements to include regulations for certain types of
+     development which do not currently have any buffer requirements such as nonresidential uses in a
+     residential zone. The Planning Board recommended the development of clearer and comprehensive
+     approach in revising the Township’s buffer requirements and standards.
+
+     2026 Policy Statement. This has yet to be addressed and remains and valid recommendation. It is noted
+     that conformance with the Highlands regulations includes supplemental buffer requirements from
+     environmentally sensitive resources but does not adequately address the concerns of the Planning Board.
+     As such, further analysis is required to determine the extent to which the Township’s buffer requirements
+     should be amended.
+
+
+
+
+                                                  2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                        Clinton Township | 11
+              HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 19 of 69 Trans ID: LCV20262180774
+
+
+
+2.3       2006 LAND USE PLAN GOALS & OBJECTIVES
+
+The Township’s 2006 Land Use Plan goals and objectives are listed below, which are affirmed by this 2023
+Reexamination Report. The Township’s Master Plan continues to incorporate the purposes of the Municipal Land Use
+Law set forth in N.J.S.A. 40:55D-2.
+
+Land Use and Management
+
+     1.   To maintain the special character of the countryside that has made the Township an attractive place for many
+          generations, and manage future development to preserve the rural character, including the Township's
+          meandering streams and brooks, open fields and pastures, tree shaded streets, and rolling landscape.
+
+     2. To continue the Township's proactive planning for open space retention and agricultural preservation.
+
+     3. To provide for a reasonable balance among various land uses.
+
+     4. To continue land use policies that promote controlled development.
+
+     5. To establish development densities and intensities at levels which do not exceed the carrying capacity of the
+        natural and built environment, and which respond to the limitations established by groundwater quality and
+        quantity.
+
+     6. To encourage the development of necessary public services, such as utilities, community facilities and
+        recreation, at a reasonable cost in response to the land use plan element.
+
+     7. To establish a system whereby necessary capital improvements can be programmed and planned in advance,
+        and land can be reserved to meet future needs for open space and community facilities.
+
+     8. ·To offer flexibility in development techniques which recognize new approaches that are responsive to evolving
+        demographic and economic needs.
+
+     9. To provide for desirable non-residential development in appropriate areas of the Township that will
+        complement the existing character of the community and which will aid in broadening the local tax base.
+
+     10. To provide for reductions in the scale and intensity of non-residential development, due to the overzoning of
+         non-residential zones in the past, the necessary open space preservation of non-residential zones, and the
+         differential development capability of properties in the non-residential zones based on environmental
+         limitations.
+
+Natural Resources
+
+     1.   To protect environmental resources including steep slopes, ridgelines, pristine watersheds, trout streams,
+          wetlands, stream corridors, potable water reservoirs, aquifers, rivers, habitats of threatened and endangered
+          species and unique natural systems.
+
+
+
+12
+            HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 20 of 69 Trans ID: LCV20262180774
+
+
+
+   2. To promote the protection of biological diversity through the maintenance of large continuous tracts and
+      corridors of recreation, forest, flood plain and other open space lands.
+
+   3. To continue the acquisition of important open space through the use of the Township's open space tax and
+      other sources of funding.
+
+   4. To promote the development and adoption of resource management standards to manage land use activities
+      in a manner that protects and maintains natural resources for the future use and enjoyment of generations to
+      come.
+
+   5. To identify and manage stream corridor buffer areas adequate to maintain undisturbed vegetation and to
+      maintain and improve water quality, wildlife corridors and opportunities for passive and active recreation.
+
+   6. To ensure that development involving steep slopes is required to meet design standards which enhance the
+      attractiveness of the site.
+
+   7. To promote the maintenance of groundwater supply and quality through the adoption of aquifer management
+      programs, including relevant standards for wellhead protection programs.
+
+   8. To limit new development served by on-site waste disposal systems to locations ·and densities where surface
+      and groundwater sources are protected.
+
+   9. To preserve significant masses of contiguous land which contribute to the rural and agricultural character of
+      the Township.
+
+   10. To protect and enhance opportunities for agricultural activities on lands appropriate for such uses.
+
+Transportation
+
+   1.   To encourage proactive planning and regulation to ensure the adequacy of transportation facilities for planned
+        future development, including the establishment of appropriate street design standards, the establishment of
+        public/private partnerships for funding mechanisms, the coordination of transportation modes to
+        accommodate changing commuter patterns, and the establishment of park and ride facilities and shuttle
+        service'.
+
+   2. To guide development to support subsidized rail transport for people and materials movement, and to de-
+      emphasize further highway development or extension into agricultural or scenic areas.
+
+   3. To establish transportation policies and programs that improve connection between housing and employment,
+      including vehicular and pedestrian travel and bicycle paths.
+
+   4. To promote transit alternatives in new and existing development to reduce traffic congestion, including share
+      rides, taxis, car/van pools, dial-a-ride, and flextime.
+
+   5. To manage and program development in rural areas so that traffic will not exceed the capacity of the existing
+      rural road network to provide safe, efficient and convenient traffic movements during peak traffic periods.
+
+                                                         2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                               Clinton Township | 13
+               HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 21 of 69 Trans ID: LCV20262180774
+
+
+
+
+     6. To promote the design and development of roadway improvements necessary to serve major population and
+        employment sectors of the Township.
+
+     7. To encourage transportation funding for maintenance of the existing transportation system, rather than
+        encouraging new systems in rural areas.
+
+     8. To establish road access management plans for arterial highways.
+
+Recreation and Open Space
+
+     1.   To prepare and maintain recreation and open space master plans to establish and enhance recreational lands
+          and public open space; to ensure linkages of public spaces through the use of greenways, blueways, paths and
+          bikeways; and, to establish as the highest priority for public acquisition, areas of unique recreational or scenic
+          value, or environmental sensitivity.
+
+     2. To encourage the public acquisition of areas of exceptional recreational value or scenic value, or environmental
+        sensitivity, at all levels of government, with priority given to acquisition of land to meet present and future
+        demand for resource-oriented recreation.
+
+     3. To provide tax benefits and limit liability for private owners who permit public use through participation in the
+        State's open lands program.
+
+     4. ·To devise appropriate strategies for the public and private ownership and maintenance of open space and
+        recreation lands.
+
+Housing
+
+     1.   To provide a reasonable diversity and balance of housing types to meet evolving needs, within a reasonable
+          commuting distance of places of employment.
+
+     2. To promote and support development and redevelopment of affordable housing, particularly in areas served
+        by public transportation which connect to areas of employment.
+
+     3. To discourage the extension of growth-inducing infrastructure and inclusionary development into rural areas.
+
+Cultural Resources
+
+     1.   To promote public policies designed to preserve and rehabilitate historic resources and districts.
+
+     2. To provide land use regulations and planning strategies which acknowledge and permit special treatment for
+        historic landscapes, districts, sites, and structures by including appropriate setbacks, buffers and other design
+        criteria.
+
+
+
+
+14
+            HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 22 of 69 Trans ID: LCV20262180774
+
+
+
+2.4     2015 REEXAMINATION REPORT GOALS & OBJECTIVES
+
+The Township’s 2020 Reexamination Report affirmed the land use objectives cited in the Township’s 2015 Reexamination
+Report, including the following in no particular order:
+
+   1.      Preserve farmland and support farming operations in the community.
+
+   2.      Protect environmentally sensitive areas through open space acquisition and development regulations.
+
+   3.      Address housing needs, especially for low and moderate-income housing.
+
+   4.      Address continued growth in traffic on major highway corridors and local roads while maintaining scenic
+           character of the roadway.
+
+   5.      Address demands and needs for community facilities and services.
+
+   6.      Maintain a stable economy and a favorable property tax base despite limited growth in non-residential
+           development.
+
+
+2.5     2020 LAND USE PLAN ELEMENT GOALS & OBJECTIVES
+
+The Township’s 2020 Reexamination Report affirmed the objectives cited in the Township’s 2015 Reexamination Report,
+including the following in no particular order:
+
+   1.      Promote investment in commercial and nonresidential uses along developed areas of Route 31 north of
+           Hibbler Road and south of Route 513 (West Main Street) and along the Township’s Route 22 frontage.
+
+   2.      Encourage cohesive commercial and mixed-use development and redevelopment in suitably zoned
+           locations along the Township’s Route 31 and 22 corridors through the assemblage of small lots, shared
+           parking configurations and by minimizing the number of driveways on those roadways to reduce the
+           number of vehicular conflict points and preserve the established rural character along those roadways.
+
+   3.      Prohibit warehouse and distribution uses particularly in the vicinity of the Route 78, 22 and 31 corridors as
+           the Township’s roadway infrastructure lacks adequate highway access to support the truck circulation and
+           additional traffic generated by such uses.
+
+   4.      Promote tourism of the Township’s agricultural, historic and public recreation resources as a means of job
+           creation, support of the local tax base and economy and preservation of such resources which contribute
+           to the Township’s rural character.
+
+   5.      Promote economic development that adheres to the Township’s design guidelines and functionally and
+           aesthetically enhances its primary roadways in a manner consistent with the community’s agricultural
+           heritage.
+
+
+
+                                                         2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                               Clinton Township | 15
+              HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 23 of 69 Trans ID: LCV20262180774
+
+
+
+2.6       2021 LAND USE PLAN ELEMENT GOALS & OBJECTIVES
+
+The Township’s 2021 Land Use Plan Element Amendment did not contain any new goals or objectives.
+
+
+2.7       2023 LAND USE PLAN ELEMENT AMENDMENT
+
+The Township’s 2023 LUP Amendment included the following goal:
+
+     1.   To limit the development of fast-food restaurants with drive-thru facilities on Routes 31 and 22 where such
+          establishments are permitted as conditional uses and prohibit such uses in other areas of the Township to
+          mitigate the traffic, curb cuts, signage, lighting and visual clutter typically associated with such uses which
+          features are deemed to be inconsistent with the established character of the Township.
+
+
+
+
+16
+             HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 24 of 69 Trans ID: LCV20262180774
+
+
+
+
+III. CHANGES IN ASSUMPTIONS, POLICIES & OBJECTIVES
+The MLUL requires reexamination reports to address “the extent to which there have been significant changes in the
+assumptions, policies and objectives forming the basis for the master plan or development regulations as last revised,
+with particular regard to the density and distribution of population and land uses, housing conditions, circulation,
+conservation of natural resources, energy conservation, collection, disposition and recycling of designated recycling
+materials, and changes in State, county and municipal policies and objectives.” This section provides an overview of
+legislative and regulatory changes impacting Clinton Township since the adoption of its last Reexamination Report in
+2023.
+
+
+3.1     AFFORDABLE HOUSING
+
+On March 20, 2024, Governor Murphy signed Bill A4/S50 into law, which significantly amended the Fair Housing Act
+(“FHA”) creating a new framework for determining municipal affordable housing obligations and compliance for the
+Fourth Round (2025-2035) and beyond . The amendments to the FHA (commonly referred to as the “FHA-2”) eliminated
+the Council on Affordable Housing (“COAH”), kept superior oversight of the trial courts once again responsible for
+approving municipal HE&FSPs, and created a new entity to act as an intermediary in resolving disputes and reviewing
+municipal plans known as the Affordable Housing Dispute Resolution Program (“the Program“). The Program consists
+of retired Mount Laurel Judges with the discretion to hire “Special Adjudicators“ (formerly “Special Masters”) to assist in
+their processing of municipal compliance plans and third party challenges to those plans. The FHA-2 also incorporates
+the Department of Community Affairs (“DCA”) and the Administrative Office of the Courts (“AOC”) in the process.
+
+The DCA was designated by the FHA-2 as the entity responsible for calculating the State’s and regional affordable
+housing needs as well as each municipality’s present and prospective fair share obligations pursuant to the
+methodology set forth in the unpublished Jacobson Decision from the Third Round. However, the FHA-2 makes it clear
+that these numbers are advisory and non-binding, and that each municipality is required to determine its own obligation
+numbers utilizing the same methodology. Significant to Clinton Township, the FHA-2 establishes special consideration
+for conforming Highlands municipalities in the calculation of affordable housing obligations and compliance
+requirements, which generally must adhere to the Highlands Regional Master Plan and associated Land Use Capability
+Zones.
+
+The Program was tasked to process any disputes or challenges to the determination of municipal affordable housing
+obligations and compliance plans and issue recommendations to the Superior Court judges who are responsible for
+issuing final compliance certifications. Such compliance certification grants municipalities immunity from all exclusionary
+zoning lawsuits until the end of the Fourth Round on July 30, 2035.
+
+
+
+
+                                                           2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                                 Clinton Township | 17
+               HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 25 of 69 Trans ID: LCV20262180774
+
+
+
+3.2       HIGHLANDS REGULATIONS
+
+
+The following is summary of changes to Highlands regulations impacting Clinton Township since the adoption of the
+2023 Reexamination Report:
+
+     1.   Affordable Housing RMP Amendment
+
+          In response to the Fair Housing Act amendments adopted by the State in March 2024, the Highlands Council
+          adopted Addendum 2024-3: Highlands Affordable Housing Amendment to the Highlands Regional Master
+          Plan (“RMP”) in April 2024 which establishes criteria for determining appropriate locations for affordable housing
+          development based on the goals, objectives and policies of the RMP, including Land Use Capability Zone
+          designations. To further assist municipalities in addressing their Fourth Round affordable housing obligations,
+          the Highlands Council issued a Highlands Municipal Build-Out Update on November 1, 2024. The Build-Out
+          Update specifies the procedures and criteria for conducting a municipal build-out analysis as required by the
+          Fair Housing Act for conforming Highlands municipalities in addressing their affordable housing obligations.
+          The Township’s Build-Out Analysis is a component of the Township’s Fourth Round Vacant Land Analysis (“VLA”)
+          and determination of its Realistic Development Potential (“RDP”) which enabled the Township to adjust its
+          Fourth Round Prospective Need Obligation of 150 units calculated by the DCA.
+
+     2. Land Use Capability Zone (LUCZ) Updates
+
+          In 2024, the Highlands Council adopted Addendum 2024-2: Highlands Land Use Capability Zone (LUCZ) Map
+          Technical Report Update to reflect updates to the underlying data used to create the Highlands LUCZ mapping,
+          which modified some prior LUCZ designations in the Township.
+
+     3. Highlands Land Use Ordinance.
+
+          Clinton Township adopted Ordinance No. 1205-2024 in December 2024 establishing a new Highlands Land
+          Use Ordinance contained in Part 11, Highlands Land Use Regulations, of Chapter 165, Land Use Regulations of
+          the Township Code. This ordinance was based on the new model Highlands Land Use Ordinance made
+          available in October 2024 and replaced the Township’s original Highlands Land Use Ordinance adopted in
+          2021.
+
+     4. Water Conservation Management Plan
+
+          Clinton Township has prepared a Water Conservation Management Plan in accordance with the Highlands
+          Regional Master Plan to adjust the Township’s Water Quality Management Plan (“WQMP”) as needed to
+          facilitate development in the Township’s Highlands Center Areas. The Township’s plan is pending Highlands
+          Council review which is anticipated to be finalized shortly.
+
+     5. Policy Standards for Warehousing in the New Jersey Highlands Region
+
+          The Highlands Council adopted RMP Amendment 2042-1 establishing Highlands Policy Standards for
+          Warehousing in the New Jersey Highlands Region to supplement the warehouse development guidelines issued
+          by the New Jersey State Planning Commission in September 2022 are intended to help Highlands municipalities
+
+18
+             HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 26 of 69 Trans ID: LCV20262180774
+
+
+
+        and counties apply the provisions of the Highlands Regional Master Plan (RMP) when considering warehouse
+        or similar developments in their communities. Grant funding is available to support the implementation of these
+        standards.
+
+
+
+3.3     STATE DEVELOPMENT & REDEVELOPMENT PLAN
+
+
+In December 2025, New Jersey adopted a new State Development and Redevelopment Plan (“SDRP”), the prior version
+of which was adopted in 2001. The plan is intended to guide funding throughout the State and serve as an advisory
+document regarding land use issues and policies. It recognizes the special nature of the Highlands Region wherein
+Clinton Township is a conforming municipality. As such, the Highlands RMP Land Use Capability Zone Map shall serve
+as the State Plan Map for the Highlands Region, including Clinton Township. Affordable housing and other land use
+matters in the Township must take into consideration the Highlands RMP and compliance thereof as applicable. In
+addition, Highlands conforming municipalities and their respective master plans and associated regulations shall be
+considered to have received the equivalent of plan endorsement from the State Planning Commission as stated in the
+SDRP.
+
+
+3.4     CLIMATE CHANGE-RELATED HAZARD VULNERABILITY ASSESSMENT (CCRHVA)
+
+The Municipal Land Use Law (“MLUL”) was amended (N.J.S.A. 40:55D-28b.(2)(h)) by the State Legislature in 2021 to
+include a climate change-related hazard vulnerability assessment with the adoption of a municipal land use plan
+element of the master plan. These assessments require several components, including: 1) an analysis of current and
+future threats and vulnerabilities related to natural hazards in the municipality; 2) build-out analysis that considers such
+vulnerabilities; 3) identification of critical facilities and infrastructure; 4) assessment if natural hazards on the master plan;
+5) strategies and design standards to address vulnerabilities; 6) policy statement incorporating the CCRHVA into the
+municipal master plan; and 7) utilization of the most current natural hazard projections and data from NJDEP. The
+Clinton Township Planning Board adopted the Township’s first CCRHVA on August 18, 2025 fulfilling this statutory
+requirement. That document is available on the Township’s website.
+
+
+3.5     WASTEWATER MANAGEMENT PLAN (WMP)
+
+As noted in Township's 2023 Reexamination Report the Township prepared a new Wastewater Management Plan that
+had been pending in NJDEP review. The Township's WMP is a chapter of Hunterdon County's WMP. In accordance
+with the NJDEP letter dated February 20, 2026, the WMP was adopted on February 20, 2026.
+
+
+
+
+                                                               2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                                     Clinton Township | 19
+               HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 27 of 69 Trans ID: LCV20262180774
+
+
+
+
+IV. SPECIFIC CHANGES RECOMMENDED
+The MLUL requires the identification of specific changes recommended for the master plan or development regulations,
+if any, including changes to the underlying objectives, policies and standards, or whether an entirely new master plan
+or development regulations should be prepared. This 2026 Reexamination Report includes several land use policy
+recommendations as set forth below.
+
+
+
+
+4.1       AFFORDABLE HOUSING
+
+
+The Planning Board recommends the implementation of the Township’s Fourth Round Settlement Agreement with Fair
+Share Housing Center signed July 10, 2026, the conditions of which are more fully described in the Amendment to the
+Township’s Fourth Round HE&FSP herein and Settlement Agreement attached hereto. These amendments include the
+extension of affordability controls of the 3 existing units at 142 West Main Street and 35 existing affordable units at The
+Mews site and the creation of a new PUD-AHO Planned Unit Development Affordable Housing Overlay Zone to
+facilitate up to 200 residential units requiring a 20% affordable housing set-aside (up to 40 affordable housing units)
+described below.
+
+
+
+4.2       PROPOSED REZONING
+
+
+The Planning Board recommends certain properties be rezoned in the manner described below.
+
+     1.   Replace existing PUD Overlay Zone with new PUD Zone
+
+
+          The PUD Planned Unit Development Overlay was originally created as a development option over the former
+          SR Zone now RR-4S Zone in the area of the Township southwest of the intersection of Routes 78 and 31. The
+          PUD Overlay Zone was intended to facilitate the development of a golf club, surrounding residential
+          development and commercial development along Route 31. The site has since been developed as the Beaver
+          Brook Country Club with a golf course, surrounding townhouse development and office and retail uses along
+          Route 31. As this area is now fully developed in accordance with the PUD Overlay Zone the site’s zoning should
+          be updated accordingly. This includes recognition of the existing 706 total units developed on the site as the
+          maximum permitted number of units and elimination of the current maximum permitted density of 3 dwelling
+          units per acre as the site is fully developed. This includes areas designated as golf course open space as
+          depicted on the approved site plans which preclude any future development.
+
+          The Planning Board recommends that all property currently located in the PUD Overlay Zone, except for Block
+          79.02 Lots 23, 23.01 and 23.02 developed with single-family dwellings, be removed from the underlying RR-4S
+          Zone and PUD Overlay Zone and placed in a new PUD Planned Unit Development Zone. Block 79.02 Lots 23,
+          23.01 and 23.02 shall retain their current RR-4S Zone designations applicable to their respective existing single-
+          family development and removed from the PUD Overlay Zone. The PUD Overlay Zone shall be eliminated in
+          its entirety.
+
+20
+       HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 28 of 69 Trans ID: LCV20262180774
+
+
+
+
+   The proposed rezoning is depicted in the Proposed Rezoning Map that follows.
+
+2. Creation of new PUD-AHO Zone
+
+
+   In accordance with the Township’s Fourth Round Settlement Agreement with Fair Share Housing Center further
+   described in the Amendment to the HE&FSP contained herein, the Planning Board recommends the creation
+   of a new PUD-AHO Planned Unit Development Affordable Housing Overlay Zone encompassing Block 79.02
+   Lots 7, 7.1100 and 7.4100. This area of the current PUD Overlay Zone comprises a land area of approximately
+   19.5 acres along Route 31 with frontage on Country Club Drive. The site is developed with three buildings,
+   including two office buildings and a retail building with shared site access and parking. Undeveloped areas of
+   the property are impacted by environmental constraints.
+
+   The PUD-AHO is intended to facilitate residential and/or mixed-use development to include up to 200
+   residential units relocated from the current PUD Overlay Zone area with a mandatory 20% affordable housing
+   set-aside, or up to 40 low and moderate-income units In accordance with the Township’s Fourth Round
+   Settlement Agreement with Fair Share Housing Center. The draft PUD-AHO Zone requirements are attached
+   hereto in the Appendix as Exhibit A of the FSHC Settlement Agreement.
+
+   The proposed rezoning is depicted in the Proposed Rezoning Map that follows.
+
+3. General Ordinance Amendments
+
+      The definitions contained in Section 165-4, Land Use Regulations, of the Township Code should be
+       amended to include the permitted uses listed in all zones that are not currently defined.
+
+
+
+
+                                                    2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                          Clinton Township | 21
+     HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 29 of 69 Trans ID: LCV20262180774
+
+
+
+                                Proposed Rezoning Map
+
+
+
+
+22
+            HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 30 of 69 Trans ID: LCV20262180774
+
+
+
+
+V.     REDEVELOPMENT RECOMMENDATIONS
+The MLUL requires reexamination reports to include “recommendations of the Planning Board concerning the
+incorporation of redevelopment plans adopted pursuant to the ‘Local Redevelopment and Housing Law’ (LRHL).” The
+LRHL sets forth the statutory framework for municipalities to designate “areas in need of redevelopment,” prepare and
+adopt redevelopment plans and facilitate the improvement of those redevelopment areas accordingly. No
+redevelopment sites are contemplated as of the adoption of this report.
+
+
+
+
+                                                        2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                             Clinton Township | 23
+             HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 31 of 69 Trans ID: LCV20262180774
+
+
+
+
+VI. ELECTRIC VEHICLE (EV) CHARGING INFRASTRUCTURE POLICIES
+Pursuant to Bill S606 enacted by the State Legislature in 2019, the MLUL was amended to require municipalities to plan
+for electric vehicle (EV) charging infrastructure including identifying locations where such facilities may be located. The
+Township continues to study appropriate locations and the feasibility of installing EV charging infrastructure in public
+locations. It is noted that the Township Mayor and Council adopted an ordinance which now permits EV charging
+stations and facilities as permitted in nonresidential and multifamily zones. The ordinance further stipulates that such
+facilities are not permitted outdoors in single-family and townhouse developments.
+
+The Township must adhere to the current State model ordinance regulating EV charging facilities until such time it
+adopts a municipal ordinance creating standards for location, signage, dimensions and other “reasonable” standards
+as permitted by State law.
+
+
+
+
+24
+            HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 32 of 69 Trans ID: LCV20262180774
+
+
+
+
+VII. AMENDMENT TO THE LAND USE PLAN ELEMENT
+
+7.1     PURPOSE AND SCOPE
+
+The Municipal Land Use Law (MLUL), N.J.S.A. 40:55D-62a, requires every municipality with a zoning ordinance to adopt
+a master plan containing, at a minimum, a land use plan element and housing plan element. This 2026 Amendment
+to Clinton Township’s 2006 Land Use Plan Element (“LUP”) of the Master Plan was prepared to implement the land use
+goals, objectives and policies recommended in the Township’s 2026 Reexamination Report of the Master Plan and
+Development Regulations contained in this document. This LUP Amendment affirms the land use goals and objectives
+of Clinton Township’s 2006 Land Use Plan Element of the Master Plan and 2018, 2020 and 2023 Land Use Plan Element
+Amendments. In addition, this Amendment is consistent with the amendments to the Township’s 2026 Housing Element
+and Fair Share Plan included in this document.
+
+
+
+
+7.2     LAND USE PLAN AMENDMENTS
+
+The following amendments are hereby incorporated into Clinton Township’s Land Use Plan Element of the Master Plan:
+
+   1.   Replace existing PUD Overlay Zone with new PUD Zone
+
+        The PUD Planned Unit Development Overlay was originally created as a development option over the former
+        SR now RR-4S Zones in the area of the Township southwest of the intersection of Routes 78 and 31. The PUD
+        Overlay Zone was intended to facilitate the development of a golf club, surrounding residential development
+        and commercial development along Route 31. The site has since been developed as the Beaver Brook Country
+        Club with a golf course, surrounding townhouse development and office and retail uses along Route 31. As
+        this area is now fully developed in accordance with the PUD Overlay Zone the site’s zoning should be updated
+        accordingly to reflect the existing 706 residential units and remove the current maximum permitted gross
+        density of 3 dwelling units per acre which is no longer applicable. This includes areas designated as golf course
+        open space as depicted on the approved site plans which preclude any future development.
+
+        All property currently located in the PUD Overlay Zone, except for Block 79.02 Lots 23, 23.01 and 23.02
+        developed with single-family dwellings, should be removed from the underlying RR-4S Zone and PUD Overlay
+        Zone and placed in a new PUD Planned Unit Development Zone. Block 79.02 Lots 23, 23.01 and 23.02 should
+        retain their current RR-4S Zone designations applicable to their respective existing single-family development
+        and removed from the PUD Overlay Zone. The PUD Overlay Zone should be eliminated in its entirety.
+
+        The proposed rezoning is depicted in Proposed Rezoning Map that follows.
+
+
+
+
+                                                          2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                               Clinton Township | 25
+            HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 33 of 69 Trans ID: LCV20262180774
+
+
+
+     2. Creation of new PUD-AHO Zone
+
+
+        In accordance with the Township’s Fourth Round Settlement Agreement with Fair Share Housing Center further
+        described in the Amendment to the HE&FSP contained herein, the Planning Board recommends the creation
+        of a new PUD-AHO Planned Unit Development Affordable Housing Overlay Zone encompassing Block 79.02
+        Lots 7, 7.1100 and 7.4100. This area of the current PUD Overlay Zone comprises a land area of approximately
+        19.5 acres along Route 31 with frontage on Country Club Drive. The site is developed with three buildings,
+        including two office buildings and a retail building with shared site access and parking. Undeveloped areas of
+        the property are impacted by environmental constraints.
+
+
+        The PUD-AHO is intended to facilitate residential and/or mixed-use development to include up to 200
+        residential units relocated from the current PUD Overlay Zone area with a mandatory 20% affordable housing
+        set-aside, or up to 40 low and moderate-income units to satisfy a portion of the Township’s Fourth Round
+        affordable housing obligation. In accordance with the Township’s Fourth Round Settlement Agreement with
+        Fair Share Housing Center. The draft PUD-AHO Zone requirements are attached hereto in the Appendix as
+        Exhibit A of the FSHC Settlement Agreement.
+
+
+        The proposed rezoning is depicted in Proposed Rezoning Map that follows.
+
+
+
+
+26
+HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 34 of 69 Trans ID: LCV20262180774
+
+
+
+                           Proposed Rezoning Map
+
+
+
+
+                                    2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                         Clinton Township | 27
+             HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 35 of 69 Trans ID: LCV20262180774
+
+
+
+     3. Climate Change Hazard Vulnerability Assessment
+
+        The Municipal Land Use Law (“MLUL”) was amended (N.J.S.A. 40:55D-28b.(2)(h)) by the State Legislature in
+        2021 to include a climate change-related hazard vulnerability assessment with the adoption of a municipal land
+        use plan element of the master plan. These assessments require several components, including: 1) an analysis
+        of current and future threats and vulnerabilities related to natural hazards in the municipality; 2) build-out
+        analysis that considers such vulnerabilities; 3) identification of critical facilities and infrastructure; 4) assessment
+        if natural hazards on the master plan; 5) strategies and design standards to address vulnerabilities; 6) policy
+        statement incorporating the CCRHVA into the municipal master plan; and 7) utilization of the most current
+        natural hazard projections and data from NJDEP. The Clinton Township Planning Board in collaboration with
+        the Township’s emergency response personnel and DPW adopted the Township’s first CCRHVA on August 18,
+        2025 fulfilling this statutory requirement. The Township’s CCRHVA shall be utilized to inform the Township’s
+        land use decision making and capital expenditures.
+
+        The Township’s 2025 Climate Change-Related Hazard Vulnerability Assessment is available on the Township
+        website.
+
+
+
+
+28
+              HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 36 of 69 Trans ID: LCV20262180774
+
+
+
+
+VIII. AMENDMENT TO THE FOURTH ROUND HOUSING ELEMENT & FAIR SHARE PLAN
+
+8.1    PURPOSE AND SCOPE
+
+The Municipal Land Use Law (MLUL), (N.J.S.A. 40:55D-62a) requires every municipality with a zoning ordinance to adopt
+a master plan containing, at a minimum, a land use plan element and housing plan element. This August 2026
+Amendment updates Clinton Township’s Fourth Round Housing Element and Fair Share Plan (“HE&FSP”) first adopted
+June 30, 2025 and amended March 2, 2026 to ensure consistency with the Township’s Fourth Round Settlement
+Agreement with Fair Share Housing Center (“FSHC”) last signed by the Township on July 10, 2026 (see Appendix).
+
+
+8.2    HOUSING ELEMENT
+There are no updates to the Housing Element portion of the Township’s Fourth Round Amended HE&FSP adopted in
+March 2026.
+
+
+
+8.3    FAIR SHARE PLAN
+
+The Township’s fair share obligations as set forth in its Fourth Round Settlement Agreement with Fair Share Housing
+Center include a Fourth Round Present Need (Rehabilitation Obligation) of 0, Prior Round Obligation (1987-1999) of
+335, Third Round Obligation of 337 and Fourth Round Prospective Need Obligation (2025-2025) of 150.
+
+
+
+
+                                                        2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                             Clinton Township | 29
+              HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 37 of 69 Trans ID: LCV20262180774
+
+
+
+     1.   Prior Round Obligation (1987-1999)
+
+
+          The Township’s Prior Round Obligation of 335 has been met with the following plan mechanisms:
+
+
+
+                 MECHANISM                    TYPE          UNITS   BONUS    TENURES         STATUS
+
+             Prior Cycle Credits (Pre-
+                                                 -           13       0                      Complete
+                      1986)
+
+                 RCA with New
+                                          RCA                108      0         RCA          Complete
+                  Brunswick
+
+                 Village Green at                                              Family
+                                          Inclusionary        4       0                      Complete
+                   Annandale                                                   Rental
+
+                                                                                Senior
+                    The Mews              Inclusionary       35       3                      Complete
+                                                                               Housing
+
+                                                                               Special
+                 CRC Longview             Group Home          4       4                       Pending
+                                                                               Needs
+                                          Gut
+                                          Rehabilitation;                      Family
+              142 West Main Street                            3       2                      Complete
+                                          100%                                 Rental
+                                          Affordable
+                                          100%
+                                          Affordable                           Family
+              Willows at Annandale                           66      66                      Complete
+                                          (Municipally                         Rental
+                                          Sponsored
+                                                                               Family
+             Annandale Village, LLC       Inclusionary        1       0                      Approved
+                                                                               Rental
+                                          100%
+                                          Affordable                           Family
+                 Clinton Woods                               26       0                      Complete
+                                          (Municipally                         Rental
+                                          Sponsored)
+
+
+                             Total: 335                      260     75
+
+
+
+
+30
+        HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 38 of 69 Trans ID: LCV20262180774
+
+
+
+2. Third Round Obligation (1999-2025)
+
+   The Township’s Third Round Obligation of 337 is met with the following plan mechanisms:
+
+
+          MECHANISM               TYPE          UNITS     BONUS       TENURES          STATUS
+
+                                                                                       Site Plan
+                                                                        Family
+       Headley Farm Estate    Inclusionary        104         0                       Application
+                                                                        Rental
+                                                                                       Pending
+                                                                        Family         Zoning
+          108 Alton Place     Inclusionary        28          0
+                                                                        Rental         Adopted
+
+        Greyrock Crossing                                               Family        Site Plan
+                              Inclusionary         3          0
+          (AH-10 Zone)                                                  Rental        Approved
+                                                                                       Zoning
+      Grayrock Road (AH-10                                              Family         Adopted
+                              Inclusionary         4          0
+              Zone)                                                     Rental        Durational
+                                                                                      Adjustment
+                              100%
+                              Affordable                                Family
+          Clinton Woods                           58         58                        Complete
+                              (Municipally                              Rental
+                              Sponsored)
+                              100%
+                              Affordable                                Family         Under
+      Willows at Spruce Run                       80          0
+                              (Municipally                              Rental       Construction
+                              Sponsored)
+                              Municipally
+                                                                        Special        Under
+      Willows at Spruce Run   Sponsored            2          0
+                                                                        Needs        Construction
+                              Group Home
+
+
+                    Total: 337                    279        58
+
+
+
+
+                                                  2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                        Clinton Township | 31
+            HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 39 of 69 Trans ID: LCV20262180774
+
+
+
+     6. Fourth Round Obligation (2025-2035)
+
+        The Township’s Fourth Round Prospective Need Obligation is 150 but has been adjusted by the Township’s
+        Fourth Round Vacant Land Adjustment (“VLA”) which results in a Fourth Round Realistic Development Potential
+        (“RDP”) of 54 units. The Township’s utilization of its VLA, which included consideration of its Highlands Build-
+        Out Analysis as required by the Fair Housing Act as amended March 2024, remains disputed by FSHC. Both
+        parties agreed for the purposes of settlement to forego formal adjudication of this dispute. The parties agreed
+        that the Township does not have any sewer and/or water capacity in that the Town of Clinton (separate and
+        independent of the Township) provides water service for development in the Township, and the Clinton
+        Township Sewer Authority (separate and independent of the Township) provides sewer disposal service for
+        development in the Township. The parties further agreed that there are limitations on certain sites to have
+        sewer and water access because of Highlands Council restrictions. In other words, certain sites may appear to
+        be vacant and developable but are prohibited from development because of restrictions from the Highlands
+        Regional Master Plan and the Highlands Council.
+
+        In accordance with the terms of the Township’s Fourth Round Settlement Agreement with FSHC, the Township
+        will also extend the affordability controls of the 3 existing affordable units at 142 West Main Street and 35
+        existing affordable units at The Mews and adopt a new PUD-AHO Planned Unit Development Affordable
+        Housing Overlay Zone that provides a 40-unit affordable housing set-aside.
+
+        The Township’s Fourth Round settlement agreement plan mechanisms in accordance with the Fourth Round
+        Settlement Agreement with FSHC last signed July 10, 2026 are indicated in the table below. The details of
+        these plan mechanisms can be found in the Township’s March 2026 HE&FSP.
+
+
+
+
+32
+ HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 40 of 69 Trans ID: LCV20262180774
+
+
+
+                   Plan Mechanisms to Address 54-unit Fourth Round RDP
+
+
+   MECHANISM                 TYPE        UNITS       BONUS       TENURES           STATUS
+
+9 Main Street/Village                                              Family         Site Plan
+                          Inclusionary     2             1
+       Green                                                       Rental         Approved
+                           100%
+ Willows at Spruce        Affordable                               Special         Under
+                                           8             8
+       Run                (Municipally                             Needs         Construction
+                          Sponsored)
+                          100%
+ Willows at Spruce        Affordable                               Family          Under
+                                           6             0
+       Run                (Municipally                             Rental        Construction
+                          Sponsored)
+                          100%
+                          Affordable                               Family         Site Plan
+Willows at Grayrock                        25            6
+                          (Municipally                             Rental         Approved
+                          Sponsored)
+
+
+              Total: 54                    41           13
+
+
+
+
+                          Fourth Round Settlement Agreement Plan Mechanisms
+
+
+   MECHANISM                 TYPE        UNITS       BONUS       TENURES           STATUS
+
+    Extension of
+                                                                   Family
+Affordability Controls    Inclusionary     3             0                         Existing
+                                                                   Rental
+ (142 W. Main St.)
+    Extension of
+                                                                    Senior
+Affordability Controls    Inclusionary     35            0                         Existing
+                                                                   For Sale
+    (The Mews)
+                                                                   Family
+  PUD-AHO Zone            Inclusionary     40            0                      To be rezoned
+                                                                   Rental
+
+
+
+              Total: 78                    78            0
+
+
+
+
+                                                2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                     Clinton Township | 33
+               HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 41 of 69 Trans ID: LCV20262180774
+
+
+
+The following amendments are hereby incorporated into Clinton Township’s Fourth Round Housing Element and Fair
+Share Plan and shall supersede the plan mechanisms contained in the Township’s March 2026 HE&FSP, as applicable:
+
+     1.   Creation of new PUD-AHO Zone
+
+          In accordance with the Township’s Fourth Round Settlement Agreement with Fair Share Housing Center, the
+          Planning Board recommends the creation of a new PUD-AHO Planned Unit Development Affordable Housing
+          Overlay Zone encompassing Block 79.02 Lots 7, 7.1100 and 7.4100. This area of the current PUD Overlay Zone
+          comprises a land area of approximately 19.5 acres along Route 31 with frontage on Country Club Drive. The
+          site is developed with three buildings, including two office buildings (vacant Ingersoll building and Concourse
+          office condos) and a retail building (Concourse Shops at Beaver Brook) with shared site access and parking.
+          Undeveloped areas of the property are impacted by environmental constraints. It is noted that the site is located
+          in the Township’s Annadale Highlands Center with good regional access and close proximity to North
+          Hunterdon High School located immediately south of the site.
+
+
+          The PUD-AHO is intended to facilitate residential and/or mixed-use development of the site to include up to
+          200 residential units (100 units per +/- 10 ac site) with a mandatory 20% affordable housing set-aside, or up to
+          40 low and moderate-income units to consistent with the Township’s Settlement Agreement with FSHC. The
+          Overlay Zone will have a maximum building height limitation of 3 stories. The permitted maximum density and
+          height limitations are consistent with the unique characteristics of these two development sites, surrounding
+          existing planned land development and the Township’s other existing affordable housing districts.            It is
+          anticipated that this ordinance will be adopted by Fall 2026. The draft PUD-AHO Zone requirements are
+          attached hereto in the Appendix as Exhibit A of the FSHC Settlement Agreement. The proposed rezoning is
+          depicted in Proposed Rezoning Map that follows.
+
+
+          Recognizing that the Township has no available sewer capacity and no water capacity, the Township will provide
+          reasonable assistance to prospective developer(s) in obtaining additional water and sewer capacity for the
+          redevelopment of the two sites for inclusionary development because both sites currently have enough water
+          and sewer capacity for their currently zoned uses but not enough to convert the sites from office and retail use
+          to inclusionary residential development which requires more capacity beyond the current site allocations.
+
+
+          Pursuant to the FSHC Settlement Agreement, if and when a proposed residential or mixed-use development
+          on this property is approved and constructed, the Township will be entitled to additional bonus credits to
+          contribute toward its Fourth Round Prospective Need Obligation provided the Township does not exceed the
+          statutory bonus cap of 25%.
+
+
+          Finally, the Settlement Agreement recognizes all of the constraints impacting the site including: sewer and water
+          capacity, Highlands regulations, environmental constraints, and the existing development on the properties
+          including ownership structure and building construction pose challenges to the redevelopment of the site. The
+          density proposed on these sites are some of the highest densities in the Township, especially in light of the fact
+
+34
+     HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 42 of 69 Trans ID: LCV20262180774
+
+
+
+that the developable portion of the Ingersoll portion of the site (Lot 7) is approximately 5-acres while the site is
+approximately 10-acres in size. The parties agreed that all of these factors shall be taken into consideration in
+the event the Township’s compliance certification is the subject of a midpoint review challenge because the
+Ingersoll site and/or the Concourse site do not redevelop by the 5-year midpoint review. Further, the Township
+shall not be deemed to be in violation of the FSHC Settlement Agreement if the Ingersoll site and/or the
+Concourse do not redevelop by the 5-year midpoint review and/or by the end of the Fourth-Round in July,
+2035.
+
+
+
+
+                                                    2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                         Clinton Township | 35
+     HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 43 of 69 Trans ID: LCV20262180774
+
+
+
+                                Proposed Rezoning Map
+
+
+
+
+36
+        HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 44 of 69 Trans ID: LCV20262180774
+
+
+
+2. Extension of Affordability Controls
+
+   The Township will make reasonable efforts to extend the affordability controls of the 3 existing affordable units
+   at 142 West Main Street that will expire in 2031 and 35 existing senior affordable housing units at The Mews
+   that will expire from November 20, 2032 to December 3, 2034 in accordance with the Township’s Fourth Round
+   Settlement Agreement with FSHC. The Township will not be required to pay more than $25,000 per extension
+   of controls on a unit, the payments of which shall be made from the Township’s Affordable Housing Trust Fund,
+   with no payments having to be made out of the Township’s general funds. The $25,000 cap shall include the
+   costs for repairs to a unit to enable it to obtain a certificate of continued occupancy and/or to bring the unit up
+   to code.
+
+   The extensions of controls for the 35 units in the Mews would be a first extension for those units. The extension
+   of controls for the 3 units located at 142 West Main Street would be a second extension for those units. The
+   original deed restrictions for the 142 West Main Street units were recorded in 1994 and set to expire on
+   December 31, 2024 but were extended by the Township in 2001 and will expire on April 1, 2031. The parties
+   recognize that while the Township completed an extension of controls in 2001 that led to these units expiring
+   in 2031, the Township has never received any credit for extending controls beyond the original thirty (30) year
+   deed restriction and thus, these units are eligible for extension of control credit now. The Township will seek to
+   extend the period of controls of the units at these two sites for a 30-year period.
+
+   It is understood that if the owner(s) / landlord of any or all units do not agree to extend the controls after being
+   offered reasonable financial compensation as defined above, the Township shall not be deemed to be in
+   violation of its Fourth Round Settlement Agreement with FSHC.
+
+3. Challenges to Fourth Round HE&FSP
+
+   The Township’s Fourth Round Fair Share Plan as amended addresses its various affordable housing obligations
+   with a variety of mechanisms that conform with the Highlands RMP. In accordance with the FHA-2 and
+   applicable COAH regulations, the Township is entitled to select development sites and plan mechanisms
+   deemed most appropriate for the community in satisfying its affordable housing obligations. Nevertheless, the
+   Township received three challenges to its June 2025 HE&FSP pursuant to the FHA-2 mediation process that
+   were evaluated through the Affordable Housing Dispute Resolution Program.
+
+   To date, the Township successfully reached a settlement agreement with FSHC last signed by the Township on
+   July 10, 2026, but has not resolved the challenges to its Fourth Round HE&FSP from CNC Ventures (Beaver
+   Brook Country Club) and ExxonMobil. The reasons stated in Section 4.4 of the Township’s March 2026 HE&FSP
+   as to why the ExxonMobil and CNC Ventures sites are not included in the Township’s Fair Housing Plan remain
+   valid.
+
+
+
+
+                                                       2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                                            Clinton Township | 37
+             HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 45 of 69 Trans ID: LCV20262180774
+
+
+
+     4. Consistency with Other Plans
+
+        The only new plan mechanisms identified herein that were not included in the adopted March 2026 Amended
+        HE&FSP are the extension of affordability controls at 142 West Main Street and The Mews sites and creation of
+        the new PUD-AHO Zone. It is noted that these are all developed sites, two of which include housing. The
+        Township’s Fourth Round HE&FSP as amended remains consistent with the Township’s Land Use Plan Element
+        of the Master Plan, Highlands Regional Master Plan and State Development and Redevelopment Plan (“SDRP”)
+        as more fully discussed in the March 2026 HE&FSP. The SDRP recognizes the special nature of the Highlands
+        Region and as such, generally refers municipalities in the region to comply with the Highlands RMP and
+        associated Land Use Capability Zones.
+
+
+
+
+38
+      HNT-L-000049-25 08/18/2026 1:35:47 PM Pg 46 of 69 Trans ID: LCV20262180774
+
+
+
+
+APPENDIX
+
+
+
+
+                                         2026 Reexamination Report & Amendments to the LUP & HE&FSP
+                                                                              Clinton Township | 39
+HNT-L-000049-25
+HNT-L-000049-25 08/18/2026
+                07/13/20261:35:47
+                           3:57:11PM
+                                  PM Pg
+                                     Pg 1
+                                        47of
+                                           of23
+                                              69 Trans
+                                                 TransID:
+                                                       ID:LCV20261840146
+                                                           LCV20262180774
+HNT-L-000049-25
+HNT-L-000049-25 08/18/2026
+                 07/13/20261:35:47
+                           3:57:11PM
+                                   PM Pg
+                                      Pg 2
+                                         48of
+                                            of23
+                                               69 Trans
+                                                  TransID:
+                                                        ID:LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25
+HNT-L-000049-25 08/18/2026
+                07/13/20261:35:47
+                           3:57:11PM
+                                  PM Pg
+                                     Pg 3
+                                        49of
+                                           of23
+                                              69 Trans
+                                                 TransID:
+                                                       ID:LCV20261840146
+                                                           LCV20262180774
+HNT-L-000049-25
+HNT-L-000049-25 08/18/2026
+                 07/13/20261:35:47
+                           3:57:11PM
+                                   PM Pg
+                                      Pg 4
+                                         50of
+                                            of23
+                                               69 Trans
+                                                  TransID:
+                                                        ID:LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25
+HNT-L-000049-25 08/18/2026
+                 07/13/20261:35:47
+                           3:57:11PM
+                                   PM Pg
+                                      Pg 5
+                                         51of
+                                            of23
+                                               69 Trans
+                                                  TransID:
+                                                        ID:LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25
+HNT-L-000049-25 08/18/2026
+                 07/13/20261:35:47
+                           3:57:11PM
+                                   PM Pg
+                                      Pg 6
+                                         52of
+                                            of23
+                                               69 Trans
+                                                  TransID:
+                                                        ID:LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25
+HNT-L-000049-25 08/18/2026
+                 07/13/20261:35:47
+                           3:57:11PM
+                                   PM Pg
+                                      Pg 7
+                                         53of
+                                            of23
+                                               69 Trans
+                                                  TransID:
+                                                        ID:LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25
+HNT-L-000049-25 08/18/2026
+                 07/13/20261:35:47
+                           3:57:11PM
+                                   PM Pg
+                                      Pg 8
+                                         54of
+                                            of23
+                                               69 Trans
+                                                  TransID:
+                                                        ID:LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25
+HNT-L-000049-25 08/18/2026
+                 07/13/20261:35:47
+                           3:57:11PM
+                                   PM Pg
+                                      Pg 9
+                                         55of
+                                            of23
+                                               69 Trans
+                                                  TransID:
+                                                        ID:LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 10
+                                         56 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 11
+                                         57 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 12
+                                         58 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 13
+                                         59 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 14
+                                         60 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 15
+                                         61 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 16
+                                         62 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 17
+                                         63 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 18
+                                         64 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 19
+                                         65 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 20
+                                         66 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 21
+                                         67 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 22
+                                         68 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+HNT-L-000049-25 07/13/2026
+                08/18/2026 3:57:11
+                           1:35:47 PM Pg 23
+                                         69 of 23
+                                               69 Trans ID: LCV20261840146
+                                                            LCV20262180774
+

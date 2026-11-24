@@ -1,0 +1,2835 @@
+     MON-L-000357-25 06/13/2025 10:25:20 AM Pg 1 of 62 Trans ID: LCV20251751368
+
+
+
+
+2025 FOURTH ROUND
+HOUSING PLAN
+HOUSING ELEMENT & FAIR SHARE PLAN
+LITTLE SILVER BOROUGH
+MONMOUTH COUNTY
+NEW JERSEY
+
+
+
+
+ADOPTED BY THE PLANNING BOARD
+JUNE 12, 2025
+
+
+
+
+PREPARED BY:
+
+
+
+
+____________________________
+ELIZABETH MCMANUS, PP, AICP, LEED AP
+NEW JERSEY PROFESSIONAL PLANNER LICENSE 5915
+KYLE + MCMANUS ASSOCIATES
+A SIGNED AND SEALED ORIGINAL IS ON FILE WITH THE BOROUGH CLERK
+     MON-L-000357-25 06/13/2025 10:25:20 AM Pg 2 of 62 Trans ID: LCV20251751368
+
+
+
+
+                                        BOROUGH PLANNING BOARD
+                                                   Paul Perfetto, Chair
+                                                 Dane Mihlon, Vice Chair
+                                                 Robert C. Neff, Jr., Mayor
+                                        Don Galante, Council Representative
+                                            Kevin Burke, Borough Administrator
+                                                     John T. Chimento
+                                                        Joe Loftus
+                                                      Craig Orlando
+                                                      Glenn Talavera
+                                                 Kelly Cullen, Alternate 1
+                                                Kim Montella, Alternate 2
+                                        Lauren Greifenstein, Board Secretary
+                                       Colleen Mayer, Acting Board Secretary
+                                        Marc Leckstein, Esq. – Board Attorney
+                                    Gregory S. Blash, P.E., P.P. – Board Engineer
+
+
+                                                 BOROUGH COUNCIL
+                                                 Robert C. Neff, Jr., Mayor
+                                                      Kevin Brennan
+                                                   Christopher Faherty
+                                                       Don Galante
+                                                      Elizabeth Giblin
+                                                        Chris Smith
+                                                      Laurette Vilardi
+                                  Meghan Ann Bennett, Esq. – Borough Attorney
+                             Michael J. Edwards, Esq. – Affordable Housing Attorney
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN
+ADOPTED JUNE 12, 2025
+     MON-L-000357-25 06/13/2025 10:25:20 AM Pg 3 of 62 Trans ID: LCV20251751368
+
+
+
+
+Table 43: Long-term Population, Household and Employment Forecasts
+                                                  Little    Monmouth
+                          Metric                                           NJTPA
+                                                  Silver     County
+ 2015 Population                                  5,928      629,185     6,688,013
+ 2050 Population                                  6,206      669,624     7,743,120
+ Annualized % Population Change 2015-2050         0.13%       0.18%        0.42%
+ 2015 Household                                   2,158      235,513     2,444,799
+ 2050 Household                                   2,308      259,244     2,868,943
+ Annualized % Household Change 2015-2050          0.19%       0.27%        0.46%
+ 2015 Employment                                  2,330      262,372     2,910,458
+ 2050 Employment                                  2,528      293,290     3,375,651
+ Annualized % Employment Change 2015-2050         0.23%       0.32%        0.42%
+                                                                       Source: NJTPA
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                              PAGE 27
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+      MON-L-000357-25 06/13/2025 10:25:20 AM Pg 4 of 62 Trans ID: LCV20251751368
+
+
+
+
+                                                         TABLE OF CONTENTS
+
+Introduction & Executive Summary ............................................................................................................. 1
+Affordable Housing in New Jersey................................................................................................................ 3
+   The Compliance Process ........................................................................................................................... 6
+   Affordability Requirements ...................................................................................................................... 7
+   Overview of Compliance Requirements ................................................................................................... 8
+Affordable Housing in Little Silver .............................................................................................................. 10
+Consideration of Lands Most Appropriate for Affordable Housing............................................................ 11
+Opportunity for Multigenerational Housing .............................................................................................. 12
+Demographic, Housing & Employment Analysis ........................................................................................ 12
+Affordable Housing Obligation & Satisfaction ............................................................................................ 12
+   Rehabilitation Obligation & Satisfaction ................................................................................................ 13
+   First & Second Rounds Obligation .......................................................................................................... 13
+   Third Round Obligation .......................................................................................................................... 13
+   Fourth Round Obligation ........................................................................................................................ 13
+   Vacant Land Adjustment ........................................................................................................................ 14
+       First, Second and Third Rounds Vacant Land Adjustment.................................................................. 14
+       Fourth Round Vacant Land Adjustment ............................................................................................. 15
+       Satisfaction of the RDP ....................................................................................................................... 16
+       Satisfaction of the Unmet Need ......................................................................................................... 21
+Consistency with the State Development and Redevelopment Plan ......................................................... 27
+Affordable Housing Administration & Affirmative Marketing.................................................................... 27
+Affordable Housing Trust Fund .................................................................................................................. 28
+
+
+Appendices
+     1. Housing, Demographic & Employment Analysis
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN
+ADOPTED JUNE 12, 2025
+     MON-L-000357-25 06/13/2025 10:25:20 AM Pg 5 of 62 Trans ID: LCV20251751368
+
+
+
+
+INTRODUCTION & EXECUTIVE SUMMARY
+Since the 1975 New Jersey Supreme Court decision known as “Mount Laurel I,” New Jersey municipalities
+have had a constitutional obligation to provide opportunities for creation of low and moderate housing
+homes. This 1975 decision led to a body of case law, legislative changes and rulemaking by a state agency
+that, collectively, is now referred to as the “Mount Laurel Doctrine”. Through these actions, New Jersey
+municipalities have been assigned a specific number of affordable homes that must be created or planned
+for creation to have “satisfied” their constitutional obligation, referred to as their affordable housing
+obligation. The purpose of this Housing Element and Fair Share Plan (hereinafter the “Plan”) is to present
+how Little Silver Borough will satisfy its constitutional obligation.
+Affordable housing in New Jersey is defined as homes that are reserved for households with incomes not
+more than 80% of the regional median income. Each affordable home, depending on the age and type of
+housing, must remain reserved for low and moderate income households for up to 40 years and it is
+typically enforced by a deed restriction. Each affordable home is eligible for one “credit” against the
+obligation and certain homes are eligible for “bonus credits,” which provide more than one credit per
+home. In addition to providing the minimum number of credits, municipalities must ensure diversity in
+the home type (at least half of the homes must be available to families and the remaining may be reserved
+for seniors and those with special needs), diversity in the level of affordability (very low, low and moderate
+income homes), and diversity in the size of affordable homes (one, two and three bedroom homes).
+Participation in this process, and therefore satisfaction of the affordable housing obligation, can be
+achieved voluntarily or involuntarily. However, voluntary compliance is heavily incentivized.
+Municipalities that do not successfully participate may be vulnerable to exclusionary zoning litigation,
+which is defined as litigation based on alleged noncompliance with the Fair Housing Act, or the Mount
+Laurel doctrine, and includes builder’s remedies. A builder’s remedy is a litigation tool that grants a
+developer the right to construct what is typically a multi-family development on land that was not zoned
+to permit the use or the residential density desired by the developer, provided a “substantial” percentage
+of the homes are reserved for low and moderate income households. Little Silver seeks to avoid this
+possibility and has already taken substantial steps to do so.
+This Plan supersedes all previously adopted housing plans and will serve as the foundation for the
+Borough’s application filing with the New Jersey Affordable Housing Dispute Resolution Program and the
+request for a Compliance Certification.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                               PAGE 1
+ADOPTED JUNE 12, 2025
+     MON-L-000357-25 06/13/2025 10:25:20 AM Pg 6 of 62 Trans ID: LCV20251751368
+
+
+
+
+As detailed in this Plan, the Borough – like all New Jersey municipalities – has four components of its
+affordable housing obligation. Each component of the Borough’s obligation is identified below.
+    §    Rehabilitation Obligation: 0
+         The rehabilitation obligation can be defined as an estimate of the number of deteriorated homes
+         existing in Little Silver that are occupied by low- and moderate-income households. This
+         component is also referred to as the “present need”.
+    §    First & Second Rounds Obligation: 197
+         The first and second rounds obligation can be defined as the cumulative 1987 through 1999 new
+         construction affordable housing obligation. This component is also referred to as the “prior
+         round” obligation.
+    §    Third Round Obligation: 230
+         The third round obligation can be defined as the 1999 through 2025 new construction affordable
+         housing obligation.
+    §    Fourth Round Obligation: 98
+         The fourth round obligation can be defined as the 2025-2035 new construction affordable housing
+         obligation. The current round of affordable housing, now the fourth round, is also referred to as
+         the “prospective need”.
+Vacant land adjustments are a compliance tool for municipalities whose obligations are outsized as
+compared to the availability of developable land. The Borough received a vacant land adjustment for the
+previous rounds and continues the adjustment in the fourth round. The adjustment results in a realistic
+development potential (hereinafter “RDP”) and an unmet need. The RDP represents the portion of the
+new construction affordable housing obligation that can theoretically be addressed with inclusionary
+development (defined as a mix of market and affordable homes) on lots identified as being developable
+in the vacant land analysis. The unmet need is calculated as the difference between the total obligation
+and the RDP.
+The Borough’s vacant land adjustment for the first, second and third rounds resulted in an RDP of 21. This
+fourth round housing plan increases the RDP to 25.
+The 0 rehabilitation obligation does not require affordable housing strategies.
+The Borough’s RDP will be satisfied with a combination of existing and planned inclusionary development,
+100% affordable housing development and accessory apartments. The unmet need is satisfied with
+overlay zoning throughout the Borough that promotes inclusionary development.
+Adoption of this Housing Element and Fair Share Plan and complete implementation of the strategies
+described above to meet the affordable housing obligation will yield a Compliance Certification and
+protect the Borough from builder’s remedy litigation through July 2035, the maximum time available.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                           PAGE 2
+ADOPTED JUNE 12, 2025
+     MON-L-000357-25 06/13/2025 10:25:20 AM Pg 7 of 62 Trans ID: LCV20251751368
+
+
+
+
+AFFORDABLE HOUSING IN NEW JERSEY
+In its landmark 1975 decision, now referred to as “Mount Laurel I,” the NJ Supreme Court ruled that
+developing municipalities have a constitutional obligation to provide variety and choice of housing types
+affordable to low- and moderate-income households. In its 1983 “Mount Laurel II” decision, the NJ
+Supreme Court extended the regional fair share obligation to all municipalities with any “growth area” as
+designated in the State Development Guide Plan (NJDCA 1978) and determined that each municipality
+would have to establish its fair share obligation and provide zoning strategies to create a realistic
+opportunity for fulfilment of the fair share obligation. Mount Laurel II also gave developers, under
+appropriate circumstances, the opportunity to secure a builder’s remedy. A builder’s remedy is a litigation
+tool that grants a developer the right to develop what is typically a multi-family development on land that
+was not zoned to permit the use or the residential density desired by the developer, provided a
+“substantial” percentage of the homes are reserved for low and moderate income households. Little Silver
+seeks to avoid this possibility and has already taken substantial steps to do so.
+In 1985, the Legislature enacted the Fair Housing Act in response to Mount Laurel II. The Fair Housing Act
+created the Council on Affordable Housing (hereinafter “COAH”) as an administrative alternative to
+compliance in a court proceeding. The Legislature conferred “primary jurisdiction” on COAH and charged
+COAH with promulgating regulations to establish housing regions, to estimate the state’s low- and
+moderate-income housing needs, set criteria and guidelines for municipalities to determine and satisfy
+their affordable housing obligation, and to create a process for the review and approval of appropriate
+housing elements and fair share plans. Approval of a municipal housing element and fair share plan by
+COAH was referred to as “substantive certification” and it provided protection from builder’s remedy
+litigation during the period which the housing element and fair share plan addresses (i.e. the round).
+COAH created the criteria and guidelines for municipalities to determine and address their respective
+affordable housing obligation. COAH originally established a formula for determining municipal affordable
+housing obligation for the six-year period between 1987 and 1993 (N.J.A.C. 5:92-1 et seq.), which became
+known as the “first round.” These rules established the first round rehabilitation obligation (also referred
+to as the “present need”) and the first round new construction obligation.
+The first round formula was superseded by COAH regulations in 1994 (N.J.A.C. 5:93-1.1 et seq.). The 1994
+regulations recalculated a portion of the first round 1987-1993 affordable housing obligations for each
+municipality and computed the additional municipal affordable housing need from 1993 to 1999 using
+1990 U.S. Census data. The regulations COAH adopted in 1994 to identify a municipality’s “cumulative”
+obligations for the first and second rounds are known as “the second round” regulations. Under
+regulations adopted for the third round, the obligation of municipalities to create new affordable housing
+for the first and second rounds was referred to as the “prior round” obligation.
+On December 20, 2004, COAH’s first version of the third round rules became effective some five years
+after the end of the second round in 1999. At that time, the third round was defined as the time from
+1999 to 2014 but condensed into an affordable housing delivery period from January 1, 2004 through
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                             PAGE 3
+ADOPTED JUNE 12, 2025
+     MON-L-000357-25 06/13/2025 10:25:20 AM Pg 8 of 62 Trans ID: LCV20251751368
+
+
+
+
+January 1, 2014. The third round rules marked a significant departure from the methods utilized in COAH’s
+earlier rounds by creating a “growth share” approach that linked the production of affordable housing to
+residential and non-residential development within a municipality.
+The growth share approach and the rules in which it was created, was the subject to significant litigation
+and was ultimately overturned by the New Jersey Appellate Court. On January 25, 2007, the New Jersey
+Appellate Court decision, In re Adoption of N.J.A.C. 5:94 and 5:95, 390 N.J. Super. 1, invalidated key
+elements of the first version of the third round rules, including the growth share approach. COAH issued
+revised rules on June 2, 2008 (as well as a further rule revision effective on October 20, 2008). Included in
+the 2008 rules was a recalculation of the cumulative first and second rounds obligation to account for
+updated data addressing secondary sources (filtering, demolitions, and residential conversions). Just as
+various parties challenged COAH’s initial third round regulations, parties challenged COAH’s 2008 revised
+third round rules. On October 8, 2010, the Appellate Division issued its decision, In re Adoption of N.J.A.C.
+5:96 and 5:97, 416 N.J. Super. 462, with respect to the challenge to the second iteration of COAH’s third
+round regulations. The Appellate Division upheld the COAH regulations that assigned rehabilitation and
+first and second rounds obligations to each municipality but invalidated the regulations by which the
+agency assigned housing obligations in the third round, finding that the Agency continued to utilize a
+growth share approach, albeit an amended approach.
+COAH sought a stay from the NJ Supreme Court of the deadline to issue new third round housing rules set
+forth by the Appellate Division. Additionally, there were various challenges to the Appellate Division’s
+2010 decision. On September 26, 2013, the NJ Supreme Court upheld the Appellate Court decision in In
+re Adoption of N.J.A.C. 5:96 and 5:97 by New Jersey Council On Affordable Housing, 215 N.J. 578 (2013),
+and ordered COAH to prepare the necessary rules. Subsequent delays in COAH’s rule preparation and
+ensuing litigation led to the NJ Supreme Court, on March 14, 2014, setting forth a schedule for adoption.
+Although ordered by the NJ Supreme Court to adopt revised new rules on or before October 22, 2014,
+COAH deadlocked 3-3 at its October 20th meeting and failed to adopt the draft rules it had issued on April
+30, 2014. In response, Fair Share Housing Center (hereinafter “FSHC”) filed a motion in aid of litigant’s
+rights with the NJ Supreme Court.
+On March 10, 2015, the NJ Supreme Court issued a ruling on the Motion In Aid of Litigant’s Rights (In re
+Adoption of N.J.A.C. 5:96 & 5:97, 221 NJ 1, aka “Mount Laurel IV”). This long-awaited decision provided a
+new direction for how New Jersey municipalities were to comply with the constitutional requirement to
+provide their fair share of affordable housing. The Court transferred responsibility to review and approve
+housing elements and fair share plans from COAH to designated Mount Laurel trial judges. The implication
+was that municipalities were required to apply to Superior Court with a Declaratory Judgement Action,
+instead of to COAH, if they wished to be protected from exclusionary zoning litigation, including builder’s
+remedy. These trial judges, with the assistance of an appointed Special Adjudicator to the Court, reviewed
+municipal plans much in the same manner as COAH previously did.
+While the NJ Supreme Court’s decision set a process in motion for towns to address their third round
+obligations, it did not assign those obligations. Instead, the task was completed by the trial courts.
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                              PAGE 4
+ADOPTED JUNE 12, 2025
+     MON-L-000357-25 06/13/2025 10:25:20 AM Pg 9 of 62 Trans ID: LCV20251751368
+
+
+
+
+However, the NJ Supreme Court did direct that the method of determining municipal affordable housing
+obligations were to be “similar to” the methodologies used in the first and second round rules and
+municipalities should rely on COAH’s 1993 second round rules (N.J.A.C. 5:93) and certain components of
+COAH’s 2008 regulations that were specifically), as well as the Fair Housing Act (N.J.S.A. 52:27D – 301 et
+seq.), in their preparation of third round housing elements and fair share plans.
+FSHC, a public interest advocacy organization in New Jersey devoted exclusively to promoting the
+production of housing affordable to low and moderate income households, was permitted to serve as an
+interested party in every municipal Declaratory Judgment Action. In this role the organization calculated
+municipal affordable housing obligations and offered to settle with municipalities. Such settlements
+addressed the municipal affordable housing obligation, compliance strategies and other terms intended
+to promote affordable housing production. Most municipalities that filed a Declaratory Judgment Action
+settled with FSHC, finding it to be in their best interest. The typical alternative to settlement with FSHC
+was conducting a trial in Superior Court to determine the municipal affordable housing obligation.
+In addition to the State agency activity and judicial decisions through 2015, the New Jersey Legislature
+amended the Fair Housing Act in 2008 (P.L. 2008, c. 46, often referred to as the “Roberts Bill”, or “A500”).
+This amendment established a statewide 2.5% nonresidential development fee, prohibited new regional
+contribution agreements (hereinafter “RCAs”), required that 13% of all new affordable homes be
+restricted to very low income households (30% of median income), and added a requirement that
+municipalities had to commit to spend development fees within four (4) years of the date of collection.
+Additionally, the Fair Housing Act was amended in 2013 (P.L. 2013, c. 6) to permit municipalities to enter
+into an agreement with a developer or development owner to provide a preference for veterans who
+served in time of war or other emergency to occupy up to 50% of the affordable homes in a particular
+development. The preference is applicable to the first 90 of the 120 days of initial marketing and
+thereafter may on a special waiting list for future available affordable homes in the development. These
+amendments to the Fair Housing Act are not promulgated in any valid COAH regulations.
+On March 20, 2024, an amendment to the Fair Housing Act was adopted (P.L. 2024, c.2.). This amendment
+creates significant changes to the fourth round of affordable housing, and all subsequent rounds. Such
+changes include the process in which municipalities obtain protection from builder’s remedy litigation –
+including but not limited to the elimination of COAH and the creation of the Affordable Housing Dispute
+Resolution Program, the methodology to calculate municipal prospective need obligations, and the
+administration of affordable homes. However, the Fair Housing Act does not create or direct the creation
+of new rules that would provide further guidance, instead it states municipalities shall rely on rules
+adopted by COAH, unless contradicted by statute or binding court decisions, for municipal crediting,
+adjustments and compliance strategies. One notable example of contradiction is the generation of and
+use of bonus credits. See the sections that follow for additional information regarding this amendment to
+the Fair Housing Act.
+The Affordable Housing Dispute Resolution Program (hereinafter the “Program”) is a program within the
+judiciary made up of an odd number of Judges with a minimum of 3 and not to exceed 7. The Program,
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                             PAGE 5
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 10 of 62 Trans ID: LCV20251751368
+
+
+
+
+in its discretion and in accordance with Rules of Court, may consult or employ services of one or more
+special adjudicators or staff to assist it in rendering determinations, resolving disputes, and facilitating
+communication among municipalities and interested partes. The Program is responsible for reviewing
+municipal affordable housing obligations, housing plans, and conducting mediation. However, final
+determinations of compliance, disputes, and other issues, as well as Court orders may only be issued by a
+County-level housing judge.
+In addition to changes addressing the compliance process and elimination of COAH, the amendment also
+revised minimum affordability controls for rental homes from 30 years to 40 years and those for extension
+of affordability controls from 30 years to as little as 20 years, provided the total control period is not less
+than 60 years. It also created new roles for the Department of Community Affairs (hereinafter “DCA”),
+including calculation of non-binding rehabilitation and prospective need affordable housing obligations,
+oversight and adoption of rules regulating municipal affordable housing trust funds, municipal housing
+liaisons and affordable housing administrative agents, as well as oversight of affordable housing
+administration. The amendment also directed the New Jersey Housing and Mortgage agency to revise the
+Uniform Housing Affordability Control Rules (N.J.A.C. 5:80-26.1 et seq.).
+
+
+The Compliance Process
+The first step in a municipality’s compliance process is to establish the affordable housing obligation. The
+first, second and third round obligations are already established by COAH or Superior Court, as applicable.
+Only the rehabilitation obligation and current prospective need, the fourth round obligation, are subject
+to the determination.
+The methodology and formulas each municipality must rely upon to determine its rehabilitation, and
+fourth round obligation (as well as subsequent round obligations) are set forth within N.J.S.A. 52:27D-
+304.1 thru -304.3 of the Fair Housing Act. The March 8, 2018 unpublished decision of the Superior Court,
+Law Division, Mercer County, In re Application of Municipality of Princeton (“Jacobson Decision”) is also
+to be referenced as to datasets and methodologies that are not explicitly addressed in N.J.S.A. 52:27D-
+304.3. Notwithstanding the methodology set forth in the Fair Housing Act, the Act also required the DCA
+to release a non-binding report calculating obligations for each municipality in the State.
+The following provides an overview of the process and deadlines associated with the fourth round.
+    §    Establishing the Affordable Housing Obligation
+              §    October 20, 2024: DCA Regional and Municipal Fair Share Obligation Report Issued.
+              §    January 31, 2025: Deadline for municipalities to adopt a binding resolution committing
+                   to the affordable housing obligation and seeking a Compliance Certification through
+                   participation in the Program.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                PAGE 6
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 11 of 62 Trans ID: LCV20251751368
+
+
+
+
+              §    February 28, 2025: Deadline for an interested party to challenge the municipality’s
+                   determination of its obligation to the Program. It shall apply “an objective assessment
+                   standard”.
+              §    March 1, 2025: The municipality’s determination of its obligation will be established by
+                   default if no challenge.
+              §    March 31, 2025: The Program must issue a decision on the obligation challenge.
+    §    Obtaining a Compliance Certification
+              §    June 30, 2025: Municipality shall adopt a Housing Plan and propose drafts of ordinances
+                   and resolutions to implement the plan.
+              §    August 31, 2025: Deadline for an interested party to file a challenge of the Housing Plan
+                   with the Program. If no challenge by this date the Program will begin review of the
+                   Housing Plan for consistency with the FHA.
+              §    December 31, 2025: Deadline for a municipality to settle any challenge or provide an
+                   explanation as to why it will not make all, or some of the changes brought by the
+                   challenge.
+              §    March 15, 2026: Municipality to amend the Housing Plan and implement the agreed upon
+                   revisions resulting from a challenge and adopt all pertinent ordinances. The Housing Plan
+                   and adopted ordinances shall be immediately filed with the Program.
+    §    Ongoing Compliance
+              §    Midpoint (2030): Action by municipality or interested party filed to seek a realistic
+                   opportunity review of any developments that have not moved forward.
+
+
+Affordability Requirements
+Affordable housing is defined under New Jersey’s Fair Housing Act as a dwelling, either for sale or rent,
+that is within the financial means of households of low- or moderate-income, as is measured within each
+housing region. Little Silver is in Region 4, which includes Monmouth, Ocean and Mercer counties.
+Moderate-income households are those with annual incomes greater than 50%, but less than 80% of the
+regional median income. Low-income households are those with annual incomes that are 50% or less than
+the regional median income. Very low-income households are a subset of “low-income” households and
+are defined as those with incomes 30% or less than the regional median income.
+The Uniform Housing Affordability Controls (hereinafter “UHAC”) at N.J.A.C. 5:80-26.3(d) and (e) requires
+that the maximum rent for a qualified home be affordable to households with incomes 70% or less than
+the median income for the region, provided the development includes 13% or more very low income
+homes. The average rent must be affordable to households with incomes no greater than 52% of the
+median income. The maximum sale prices for affordable homes must be affordable to households with
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                             PAGE 7
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 12 of 62 Trans ID: LCV20251751368
+
+
+
+
+incomes 70% or less than the median income. The average sale price must be affordable to a household
+with an income of 55% or less than the median income.
+The regional median income is defined using the federal income limits established by Department of
+Housing and Urban Development (hereinafter “HUD”) on an annual basis. In the spring of each year, HUD
+releases updated regional income limits, and it is from these income limits that the rents and sale prices
+for affordable homes are derived. The following table reflects the 2025 affordable housing regional
+income limits for Region 4.
+
+                  2025 Income Limits for Region 4 (Monmouth, Ocean and Mercer Counties)
+
+    Household Income                  1-Person            2-Person           3-Person             4-Person             5-Person
+         Levels                      Household           Household          Household            Household            Household
+            Median                     $94,300            $107,700           $121,200             $134,600             $145,400
+          Moderate                     $75,440             $86,160            $96,960             $107,680             $116,320
+
+              Low                      $47,150             $53,850            $60,600              $67,300              $72,700
+           Very Low                    $28,290             $32,310            $36,360              $40,380              $43,620
+  Source: UHAC 2025 Affordable Housing Regional Income Limits by Household Size, Last updated May 5, 2025, by New Jersey Housing and
+  Mortgage Finance Agency (NJHMFA).
+
+
+
+Overview of Compliance Requirements
+There are extensive requirements that municipalities must ensure their affordable housing strategies
+satisfy to be eligible for a Compliance Certification. Furthermore, those requirements vary by round. The
+following provides a brief and summarized overview of the requirements.
+     §    Rental Obligation. Not less than 25% of the affordable homes addressing the obligation of a round
+          must be for rent.
+     §    Family Obligation. Not less than 50% of affordable homes addressing the obligation of a round
+          must be available to families, meaning they are not restricted to a particular population. This
+          obligation does not apply to the first and second rounds.
+     §    Family Rental Obligation. Not less than 50% of the homes meeting the rental obligation of a round
+          must be available to families, meaning they are not restricted to a particular population. This
+          obligation does not apply to the first and second rounds.
+     §    Senior Maximum. Up to 30% of affordable homes addressing the obligation of a round may be
+          reserved for seniors. The maximum was 25% for the first, second and third rounds.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                                        PAGE 8
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 13 of 62 Trans ID: LCV20251751368
+
+
+
+
+    §    Income Distribution of Affordable Homes
+              §    Very Low Income Obligation. Not less than 13% of affordable homes created or approved
+                   on or after July 1, 2008 must be reserved for very low income households (30% or less
+                   than the regional median income). Very low income homes are a subset of low income
+                   homes.
+              §    Family Very Low Income Obligation. Not less than 50% of the homes meeting the very low
+                   income obligation must be available to families, meaning they are not restricted to a
+                   particular population.
+              §    Low Income Obligation. Not less than 50% of affordable homes in any development must
+                   be reserved for low income households (50% or less than the regional median income,
+                   which includes very low income homes). The remaining may be available to moderate
+                   income households (51-80% of regional median income).
+    §    Bedroom Distribution of Affordable Homes
+              §    The total bedrooms within the affordable homes in any development must be not less
+                   than twice the number of affordable homes. This requirement does not apply to the first,
+                   second or third round.
+              §    Studio and 1-bedroom Homes. Not more than 20% of homes in any development.
+              §    2-bedroom Homes. Not less than 30% of homes in any development.
+              §    3-bedroom Homes. Not less than 20% of homes in any development.
+              §    The above requirements do not apply to special needs housing or senior housing.
+              §    Senior developments are subject to a modified bedroom distribution such that the total
+                   bedrooms within the affordable homes must be not less than the number of affordable
+                   homes.
+              §    Senior and supportive housing developments with 20 or more affordable homes shall
+                   have not less than 5% 2-bedroom and 3-bedroom affordable homes. This requirement
+                   does not apply to the first, second or third round.
+    §    Bonus Credits
+              §    No more than 25% of the obligation for each round.
+              §    Only one type of bonus credit may be applied to a home.
+              §    Rental bonus credits (1.0) are only applicable to the first, second and third rounds.
+              §    The following home types are eligible for 1.0 bonus credit in the fourth round.
+                        §    Supportive and special needs. Note that special needs often receive credit for
+                             each bedroom.
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                  PAGE 9
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 14 of 62 Trans ID: LCV20251751368
+
+
+
+
+                        §    Market to affordable (conversion of a market rate home to an affordable home).
+                        §    100% affordable developments: Homes within 100% development provided the
+                             municipality the land or a minimum of 3% of the development costs.
+              §    The following affordable home types are eligible for 0.5 bonus credit in the fourth round.
+                        §    Partnership with non-profit.
+                        §    Proximity to transit: homes within ½ mile of transit (rail, bus, ferry).
+                        §    Senior: limited to 10% of the affordable age-restricted homes provided which is
+                             capped at 30% of the obligation.
+                        §    Homes with at least three bedrooms above the minimum number required by the
+                             bedroom distribution.
+                        §    Redevelopment for homes on land that was previously utilized for retail, office or
+                             commercial use.
+                        §    Extension of affordability controls on rental housing only, provided the
+                             municipality funds the cost for the preservation.
+                        §    Very Low-Income homes above the 13% required.
+
+
+AFFORDABLE HOUSING IN LITTLE SILVER
+In November 2000, the Planning Board adopted, and the Borough endorsed its first Housing Element and
+Fair Share Plan. The Borough petitioned COAH for Prior Round substantive certification on December 21,
+2000. The 2000 Housing Element and Fair Share Plan requested a second round vacant land adjustment.
+On September 29, 2005 COAH staff issued a "COAH Report Requesting Additional Information". Although
+COAH was no longer processing petitions for Prior Round substantive certification at this point, Little Silver
+had committed to seek Round 3 substantive certification before the end of the year. On November 25,
+2005, the Borough adopted a third round Housing Element and Fair Share Plan that reflected COAH’s
+findings as well as COAH’s 2004 Third Round Rules. The Plan was subsequently submitted to COAH as part
+of an updated petition for substantive certification. COAH did not complete its processing of the Borough's
+petition before January 25, 2007 when the Appellate Division invalidated some of the key provisions of
+the 2004 Rules upon which the Borough based the 2005 plan.
+In December 2008, the Planning Board adopted, and the Borough endorsed an amended third round
+Housing Element and Fair Share Plan that was consistent with COAH’s 2008 Third Round Rules. The
+Borough again petitioned COAH on December 30, 2008 for third round substantive certification. On March
+27, 2009, COAH declared the petition complete and on April l, 2009. In accordance with COAH staff’s 2005
+report, the Borough's 2008 plan addressed the vacant land adjustment, as well as a growth share
+obligation. April 16, 2010, COAH issued a "Pre-mediation Report Requesting Additional Information" in
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                               PAGE 10
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 15 of 62 Trans ID: LCV20251751368
+
+
+
+
+response to the one objection received from Fair Share Housing Center (FSHC). COAH's "Pre-mediation
+Report" found that the Borough's RDP should be 21 and the unmet need 176. Before COAH completed
+the processing of Little Silver's petition for substantive certification of its 2008 plan, the Appellate Division
+invalidated various regulations upon which the Borough based that plan.
+To its credit, instead of awaiting COAH's certification, the Borough planned for affordable housing. In
+doing so it adopted the requisite ordinances, and the Planning Board issued various approvals to enable
+development of the inclusionary housing development known as "Carriage Gate Homes" and which fulfills
+a substantial portion of the Borough’s RDP.
+In response to the March 10, 2015 NJ Supreme Court decision (In re Adoption of N.J.A.C. 5:96 & 5:97, 221
+NJ 1, aka “Mount Laurel IV”), the Borough filed on July 2, 2015 a Declaratory Judgment Action and Motion
+for Temporary Immunity in Superior Court. This action entered the Borough into the process of
+determining its third round affordable housing obligation and how it would be satisfied. Additionally, the
+Borough later received immunity from builder’s remedy litigation while doing so.
+To avoid a lengthy trial on the Borough’s affordable housing obligation and, potentially, a second trial on
+how that obligation would be satisfied, Little Silver and FSHC came to terms in a Settlement Agreement
+that set forth the Borough’s affordable housing obligation and preliminary compliance plan. This
+Settlement Agreement was executed on June 12, 2018 and approved by the Hon. Jamie S. Perri, J.S.C. on
+September 18, 2018. It established the 21 third round RDP and set forth various zoning strategies to meet
+the RDP and unmet need.
+The Borough adopted a third round housing plan that implemented the terms of the Settlement
+Agreement on March 7, 2019. A compliance hearing was held on May 23, 2019, during which the Court
+approved the housing plan. The Borough received an Order of Judgment of Compliance and Repose on
+May 24, 2019.
+The Borough adopted a resolution committing to the rehabilitation and fourth round obligations on
+January 27, 2025. The Village’s submission received no objections. On April 1, 2025, the Hon. Linda Grasso
+Jones, J.S.C. issued an order establishing the Borough’s rehabilitation and fourth round obligations of 0
+and 98, respectively.
+
+
+CONSIDERATION OF LANDS MOST APPROPRIATE FOR AFFORDABLE HOUSING
+As part of this Plan, the Borough considered land that is appropriate for the construction of low- and
+moderate-income housing. Little Silver has limited capacity for future development due to its built-out
+conditions. Notwithstanding, one developer contacted the Borough to offer their site for inclusion the
+Borough’s fourth round housing plan:
+    §    1 Sycamore Avenue (Block 54, Lots 37, 38, 42, 43): The developer contacted the Borough seeking
+         zoning to permit additional density on the 1.07 acre site. It was formerly developed with
+         commercial and residential uses. This site, excluding Lot 37 was included the 2018 Settlement
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                 PAGE 11
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 16 of 62 Trans ID: LCV20251751368
+
+
+
+
+         Agreement with FSHC, as well as the 2019 third round Housing Plan, as an unmet need strategy.
+         The existing zoning, IHO-7 permits 11 du/ac. The Borough subsequently added Lot 37 to the IHO-
+         7. The developer is requesting an increase in the permitted density of 11 du/ac, which
+         accommodates 11 homes, to that which is necessary to accommodate 13 homes in an inclusionary
+         development. The increased density is accommodated in this fourth round Housing Plan.
+A portion of Borough’s housing stock may be appropriate for conversion or rehabilitation for affordable
+housing. Such conversions are most appropriate for Borough homes that are moderate in size, as opposed
+to those Borough homes that are very significant in size, to enable building and site maintenance costs
+that are proportionate to the household’s income. Group homes and accessory apartments are also
+appropriate for many of Little Silver’s single-family homes, and attached and multi-family affordable
+housing developments may be appropriate where opportunities for such development or redevelopment
+arises (in addition to those areas which are already zoned for inclusionary development). The Borough’s
+mandatory set-aside ordinance will capture such opportunities.
+
+
+OPPORTUNITY FOR MULTIGENERATIONAL HOUSING
+The Fair Housing Act requires “an analysis of the extent to which municipal ordinances and other local
+factors advance or detract from the goal of preserving multigenerational family continuity as expressed
+in the recommendations of the Multigenerational Family Housing Continuity Commission”. As of the date
+of this Housing Plan there have been no recommendations by the Multigenerational Family Housing
+Continuity Commission in which to provide an analysis. However, the Commission has the primary goal of
+enabling senior citizens to reside at the homes of their extended families, thereby preserving and
+enhancing multigenerational family continuity. Borough land use policies are not in conflict with this goals
+and much of the Borough’s housing stock is large enough to accommodate multigenerational living.
+
+
+DEMOGRAPHIC, HOUSING & EMPLOYMENT ANALYSIS
+See Appendix 1 to the Housing Plan for this analysis.
+
+
+AFFORDABLE HOUSING OBLIGATION & SATISFACTION
+Fourth round housing plans must address four components of a municipality’s affordable housing
+obligation. These include the rehabilitation obligation to improve substandard housing occupied by low-
+and moderate-income households, the first and second round obligation of new construction from 1987
+to 1999, third round obligation of new construction from 1999 to 2025, and the fourth round obligation
+of new construction from 2025 to 2035.
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                            PAGE 12
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 17 of 62 Trans ID: LCV20251751368
+
+
+
+
+Rehabilitation Obligation & Satisfaction
+The rehabilitation obligation can be defined as an estimate of the number of deteriorated homes existing
+in Little Silver that are occupied by low- and moderate-income households. The Fair Housing Act, N.J.S.A.
+52:27D-304.3.b., describes present need as being determined by “estimating the existing deficient
+housing units currently occupied by low- and moderate-income households within the municipality,
+following a methodology comparable to the methodology used to determine third round present need,
+through the use of datasets made available through the federal decennial census and the American
+Community Survey, including the Comprehensive Housing Affordability Strategy dataset thereof.” The
+DCA calculated municipal present need obligations in Affordable Housing Obligations for 2025-2035
+(Fourth Round) Methodology and Background, released on or about October 18, 2024. This DCA Report
+calculated a rehabilitation obligation of 0 for the Borough. This obligation was assigned by the Hon. Linda
+Grasso Jones, J.S.C via an Order dated April 1, 2025.
+The Borough’s 0 rehabilitation obligation does not require, nor is the Borough proposing, strategies to
+address this component.
+
+
+First & Second Rounds Obligation
+Little Silver Borough’s first and second rounds new construction obligation, also referred to as the prior
+round obligation, is 197. This obligation is defined as the cumulative new construction obligation from
+1987 through 1999 (1987-1993 is the first round; 1993-1999 is the second round). The Borough’s
+obligation was published by COAH in 2008 and originally calculated in 1993-1994 pursuant to N.J.A.C 5:93.
+
+
+Third Round Obligation
+This obligation of 230 is defined as the new construction obligation for 1999-2025. The third round
+obligation was established by the Borough’s 2018 Settlement Agreement with FSHC and is based upon a
+30% reduction of the obligation calculated in a report prepared by Dr. David N. Kinsey, PhD, FAICP, New
+Jersey Low and Moderate Income Housing Obligations for 1999-2015 Calculated Using the NJ COAH Prior
+Round (1987-1999) Methodology, dated May 2016. The obligation was confirmed Order issued by the
+Hon. Jamie S. Perri, J.S.C. on September 18, 2018.
+
+
+Fourth Round Obligation
+Little Silver’s fourth round obligation (also referred to as the prospective need) is 98. This obligation is
+defined as the new construction obligation for 2025-2035. The Fair Housing Act, N.J.S.A. 52:27D-304.3.b.,
+describes the obligation as a “projection of housing needs based on development and growth which is
+reasonably likely to occur in a region or a municipality, as the case may be, as a result of actual
+determination of public and private entities. Prospective need shall be determined by the methodology
+set forth pursuant to sections 6 and 7 of P.L.2024, c. 2 (C.52:27D-304.2 and C.52:27D-304.3) for the fourth
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                            PAGE 13
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 18 of 62 Trans ID: LCV20251751368
+
+
+
+
+round and all future rounds of housing obligations”. The methodology to calculate the obligation begins
+with determining the need for affordable housing in which the municipality is located. That regional need
+is then allocated to each municipality in the region, excluding qualified urban aid municipalities, based on
+an average of three factors: 1) equalized nonresidential valuation factor, which serves as a proxy for the
+municipal share of the region’s change in employment during the previous affordable housing round, 2)
+income capacity factor, which is the municipal share of the region’s median household income, and 3)
+land capacity factor, which is the municipal share of the region’s developable land.
+The DCA calculated municipal fourth round obligations in Affordable Housing Obligations for 2025-2035
+(Fourth Round) Methodology and Background, released on or about October 18, 2024. This DCA Report
+calculated a fourth round obligation of 98 for the Borough. On April 1, 2025, the Hon. Linda Grasso Jone,
+J.S.C. issued an order establishing the Borough’s fourth round obligation of 98.
+
+
+Vacant Land Adjustment
+A vacant land adjustment is available to those municipalities, such as Little Silver, that cannot satisfy their
+entire affordable housing obligation using inclusionary housing due to a lack of vacant and developable
+land. The adjustment process is set forth in COAH's rules and is supplemented by related case law. More
+specifically, it is a downward adjustment of the obligation to reflect the number of affordable homes a
+municipality could theoretically create through new inclusionary development on vacant or underutilized
+land, presuming a density and set-aside consistent with COAH's rules.
+The downward adjusted obligation is known as the realistic development potential, or "RDP". Requesting
+this adjustment does not require the municipality to zone or build on the land identified as developable.
+Notwithstanding, the municipality's Housing Plan must identify compliance strategies that can produce
+enough affordable homes and bonus credits to satisfy the RDP. The difference between the RDP and the
+calculated new construction obligation is referred to as the unmet need. COAH’s rules, N.J.A.C. 5:97-5.4(b)
+or N.J.A.C. 5:93-4.2(h), do not require any specific unmet need strategy. Instead, they state one or any
+combination of strategies may be required and do not provide a required quantity of strategies or
+affordable homes. The strategies cited include accessory apartments, market to affordable, overlay
+zoning, redevelopment with affordable housing and adoption of a development fee ordinance. Unlike the
+RDP, the unmet need does not need to be fully satisfied; instead, the Borough must create adequate
+opportunities for future affordable housing.
+
+First, Second and Third Rounds Vacant Land Adjustment
+The Borough’s obligation for the first, second and third rounds, 427, exceeded the amount of vacant and
+developable land. The Borough conducted a vacant land adjustment of its first, second and third rounds
+obligation as part of its 2018 Settlement with FSHC; it was later reflected in the 2019 third round housing
+plan. This vacant land adjustment was approved by Superior Court in its Order approving the Settlement
+Agreement dated September 18, 2018 and the Order of Judgment of Compliance and Repose dated May
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                               PAGE 14
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 19 of 62 Trans ID: LCV20251751368
+
+
+
+
+24, 2019. While it adjusts the 3 rounds, it is often referred to as the “third round RDP” or “third round
+vacant land adjustment”.
+The Borough continues its vacant land adjustment into the fourth round since the fourth round obligation,
+as well as the previous rounds’ obligations, exceeds the vacant and developable land available.
+
+Fourth Round Vacant Land Adjustment
+Review of approvals issued by the Planning Board and Zoning Board, anticipated development and
+construction permits indicate there is no development activity that occurred since the Borough’s third
+round RDP was calculated that is eligible to generate a fourth round RDP. Two anticipated developments
+generate RDP - those at 1 Sycamore Avenue and 43 Birch Avenue.
+     1. 1 Sycamore Avenue (Block 54, Lots 37, 38, 42, 43): The developer contacted the Borough seeking
+        zoning to permit additional density on the 1.07 acre site. There are no environmental constraints
+        on the site. The site was formerly developed with commercial uses and residential uses. This site,
+        excluding Lot 37 was included the 2018 Settlement Agreement with FSHC, as well as the 2019
+        third round Housing Plan, as an unmet need strategy. The zoning, IHO-7 permits 11 du/ac. The
+        Borough subsequently added Lot 37 to the IHO-7. The developer is requesting an increase in
+        permitted density from 11 du/ac, which accommodates 11 homes, to that which is necessary to
+        accommodate 13 homes in an inclusionary development. This Housing Plan transfers the site
+        from the category of third round unmet need to RDP, not only generating RDP obligation but also
+        satisfying RDP with the enhanced inclusionary zoning.
+     2. 43 Birch Avenue (Block 55, Lot 29): This Borough owned site will be redeveloped from a single-
+        family home to a small 100% affordable housing development of 6 homes. There are no
+        environmental constraints on the .43 acre site.
+The addition of these two sites increases the Borough’s RDP from 21 to 25. See the following table for
+more detail.
+
+                                              RDP Calculation
+
+                                                       Area        Density        Units         RDP
+
+                      Round 3 RDP                                                               21.00
+
+           43 Birch Ave. (Block 55, Lot 29)            0.43          n/a            6           1.20
+
+  1 Sycamore Ave. (Block 54, Lots 37, 38, 42, 43)      1.07          12.5         13.38         2.67
+
+                                                                                     Total      24.87
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                          PAGE 15
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 20 of 62 Trans ID: LCV20251751368
+
+
+
+
+Satisfaction of the RDP
+The Borough satisfies its RDP with family sale and rental affordable homes.
+
+                                               Satisfaction of 25 RDP
+
+                                                     Affordable    Bonus      Total
+      Development                     Type                                                Bonus Type
+                                                       Homes       Credits   Credits
+
+                                  Inclusionary                                           Smart Growth
+       Carriage Gate                                     8              3      11
+                                   Family Sale                                             (Round 3)
+
+     43 Birch Ave.             100% Affordable                                         100% Affordable
+                                                         3              1      4
+  Habitat for Humanity           Family Sale                                              (Round 4)
+
+     43 Birch Ave.             100% Affordable
+                                                         3              0      3
+  Habitat for Humanity          Family Rental
+
+ Accessory Apartments            Family Rental           4              0      4
+
+                                  Inclusionary
+     1 Sycamore Ave.                                     3              0      3
+                                     Family
+
+                                             Total      21              4      25
+
+
+Carriage Gate Homes
+Carriage Gate Homes is an existing family sale inclusionary housing development located on Block 58, Lots
+56-60 at the corner of Oceanport Avenue and East Avenue. The development includes 39 townhomes, 8
+of which are affordable. The site is 4.45 acres located in the ARAH zone. The gross residential density is 9
+du/ac (8.76 rounded up). The development was originally approved as an age restricted development in
+2007, which required a rezoning, but received an amended approval to permit conversion to a family
+inclusionary development. The 8 affordable homes are composed of 6 two-bedroom homes and 2 three-
+bedroom homes. In addition to construction of affordable homes, the development also conserved of 9.7
+acres (68% of the total site acreage), the majority of which is environmentally constrained.
+The affordable homes are consistent with the Uniform Housing Affordability Control rules, N.J.A.C. 5:26-
+1 et seq., including but not limited to the bedroom distribution requirements and affordability controls of
+at least 30 years. The affordable homes are administered by the Borough’s administrative agent.
+In addition to the 8 affordable housing credits (one for each affordable home), this development is also
+eligible for smart growth bonus credits in the amount of 0.33 bonus credits per home. This type of bonus
+credit was introduced in COAH’s 2008 rules at N.J.A.C. 5:97-3.18 and was upheld in the 2010 Appellate
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                            PAGE 16
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 21 of 62 Trans ID: LCV20251751368
+
+
+
+
+Division Decision (See In re Adoption of N.J.A.C. 5:96 and 5:97, 416 N.J. Super. 462 (App. Div. 2010)), as
+well as in the 2015 Supreme Court Decision (In re Adoption of N.J.A.C. 5:96 & 5:97 by N.J. Council on
+Affordable Housing, 221 N.J. 1 (2015)). This development meets the criteria for the smart growth bonus
+credit in that its set-aside exceeds 20%, the affordable homes are on-site, all are available to families, and
+the development meets COAH’s site suitability standards. Accordingly, this development is eligible for 11
+credits: 1 credit per home and 2.64 smart growth bonus credits (8 x 0.33). This development received 11
+credits in the Borough’s 2019 Judgment of Repose.
+
+43 Birch Avenue
+The site at 43 Birch Avenue, Block 55, Lot 29, is a .43 acre site along Birch Avenue that is owned by the
+Borough. It is developed with a single-family home. The Borough will partner with Monmouth County
+Habitat for Humanity for development of a small 100% affordable housing development on the site that
+will consist of 3 buildings, containing a total of 6 homes – 3 owner-occupied homes, each on the first floor,
+and 3 renter-occupied homes, each on the second floor. Three of the homes will be moderate income and
+3 will be low income. The affordable homes shall be restricted, regulated and administered consistent
+with the Borough’s affordable housing regulations, the Uniform Housing Affordability Controls rules
+(N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall
+include but is not limited to affordability controls, income distribution, bedroom distribution, and phasing.
+
+
+
+
+                       Bir
+                          ch                B55 L29
+                             A   ve                                                             Bra
+                                   .
+                                                                                                 nch
+                                                                                                   Av
+                                                                                                      e.
+
+
+
+
+  43 Birch Avenue Site
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                              PAGE 17
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 22 of 62 Trans ID: LCV20251751368
+
+
+
+
+The site is suitable for affordable housing pursuant to N.J.A.C. 5:97-3.13, as follows:
+    §    “Available site” means a site with clear title, free of encumbrances which preclude development
+         for low and moderate income housing.
+         The site has a clear title and has no encumbrances which would preclude the development.
+    §    “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate
+         streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+         The site is in the western portion of the Borough, in an area with a mix of single-family homes,
+         commercial uses and townhomes. Single-family homes are adjacent on either side along Birch
+         Avenue and to the rear. Commercial uses, which are predominantly offices, are located across
+         Birch Avenue from the site and along much of the western side of Birch Avenue. Townhomes are
+         just over a third of a mile to the north at the end of Birch Avenue. The site has frontage and access
+         to Birch Avenue. There are no environmental constraints associated with the site.
+    §    “Developable site” means a site that has access to appropriate water and sewer infrastructure,
+         and is consistent with the applicable areawide water quality management plan (including the
+         wastewater management plan) or is included in an amendment to the areawide water quality
+         management plan submitted to and under review by DEP.
+         The Two Rivers Water Reclamation Authority (TRWRA) provides public sewer to the site and New
+         Jersey American Water provides public water to the site.
+    §    “Approvable site” means a site that may be developed for low and moderate income housing in a
+         manner consistent with the rules or regulations of all agencies with jurisdiction over the site. A site
+         may be approvable although not currently zoned for low and moderate income housing.
+         The site appears to be developable consistent with the Residential Site Improvement Standards,
+         N.J.A.C. 5:21. It does not contain any historic or architecturally important structures and is not
+         within an historic zone.
+    §    In addition to determining whether the sites and proposed development are suitable pursuant to
+         the above definitions, COAH’s rules, in N.J.A.C. 5:97-3.13, provide guidance as to where in the state
+         inclusionary housing in encouraged. COAH’s rules rely on the 2001 State Development and
+         Redevelopment Plan (SDRP) for this guidance and state Planning Areas 1, 2, and Centers are the
+         preferred location to address municipal affordable housing obligations.
+         The site is in Planning Area 1, the Metropolitan Planning Area. As such, its redevelopment for
+         affordable housing is consistent with the guidance provided in N.J.A.C. 5:93-5.4.
+These 6 affordable homes will generate one credit per home, as well as 1 bonus credit. The bonus applies
+to one of the affordable homes in a 100% affordable housing development that the municipality
+contributes toward the cost of the development, as per N.J.S.A. 52:27D-311.k.(8). Little Silver will
+contribute land as well as money from the affordable housing trust fund.
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                PAGE 18
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 23 of 62 Trans ID: LCV20251751368
+
+
+
+
+Accessory Apartment Program
+Accessory apartments are self-contained dwellings that are accessory to a principal use, such as a single-
+family home. Unlike most forms of affordable housing, accessory apartments must only remain affordable
+for a period of 10 years and there is no required bedroom distribution. The Borough will work with its
+affordable housing administrator to ensure the homes are affirmatively marketed to the housing region
+and otherwise consistent with Uniform Housing Affordability Control rules, N.J.A.C. 5:26-1.
+The housing stock in Little Silver lends itself to the establishment of accessory apartments, as the homes
+are large and older compared to the County and the State. Seventeen percent of the Borough’s homes
+were constructed prior to 1939 and 51% were constructed between prior to 1950; this can be compared
+to 30% of the County housing stock and 38% of the State housing stock that was constructed prior to
+1950. Additionally, nearly 68% of the Borough’s housing stock has 6 or more rooms, compared to 35% of
+the County housing stock and 15% of the State housing stock. These older housing homes with 6 or more
+rooms may be particularly appropriate for the creation of an accessory apartment.
+The Borough utilizes 4 accessory apartments to satisfy a portion of the RDP. Accessory apartments will be
+permitted in R-1, R-1A, and R-2 zones, as well as the B-1 zone where lots front along Church Street. This
+program was included in the Borough’s third round Housing Plan but did not yield affordable homes.
+Notwithstanding, this program remains appropriate for the Borough due to its larger homes and larger lot
+zones (minimum lot sizes for the R-1, R-1A and R-2 zones range from 60,000 s.f. to 25,000 sf) and lack of
+vacant land. The Borough will reduce this program to 4 apartments, from 10 as per the third round
+Housing Plan, will expand the area to include the entirety of the R-2 zones (the third round Housing Plan
+limited it to only lots in the R-2 zone that have frontage on Rumson Road) and will increase each category
+of subsidy by 50% such that the Borough will offer $75,000 for moderate income homes, $90,000 for low
+income homes, and $105,000 for very low income homes. These subsidies range from triple to more than
+5 times the minimum subsidies cited in COAH’s third round rules (N.J.A.C. 5:97-6.8.(b).2) which are
+$20,000 for a low income home and $25,000 for a moderate income home. Lastly, the Borough will
+conduct significant marketing to attract applicants to the program. These changes, as well as the 60%
+reduction in the size of the program, create a realistic opportunity for 4 accessory apartments.
+
+1 Sycamore Avenue
+This development is a 1.07 acre site that consists of Block 54, Lots 37, 38, 42, 43. As noted herein the
+developer contacted the Borough seeking zoning to permit additional density on the 1.07 acre site. The
+site was formerly developed with commercial uses and residential uses. This site, excluding Lot 37, was
+included the 2018 Settlement Agreement with FSHC, as well as the 2019 third round Housing Plan, as an
+unmet need strategy. At the request of the developer, the Borough subsequently expanded the zone size
+with the addition of Lot 37 to the IHO-7. The existing zone permits 11 du/ac. The developer is requesting
+an increase in density to accommodate 13 homes, rather than the 11 homes currently permitted.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                          PAGE 19
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 24 of 62 Trans ID: LCV20251751368
+
+
+
+
+The site is at the intersection of Sycamore Avenue and Willow Drive. It is less than 500 feet from the Train
+Station, and proximate to a variety of commercial uses, single family homes and the Carriage Gate
+inclusionary development. The site will be developed with 13 townhomes of which 3 will be affordable
+homes – a density of 12.15 du/ac and required set-aside of 20%, but an effective set-aside of 23%. The
+affordable homes shall be restricted, regulated and administered consistent with the Borough’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited
+to affordability controls, income distribution, bedroom distribution, and phasing.
+The site is suitable for affordable housing pursuant to N.J.A.C. 5:97-3.13, as follows:
+    §    “Available site” means a site with clear title, free of encumbrances which preclude development
+         for low and moderate income housing.
+         The site has a clear title and has no encumbrances which would preclude the development.
+    §    “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate
+         streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+         The site is in the southwestern portion of the Borough, in an area with a mix of commercial uses,
+         single-family homes, townhomes and the Borough’s train station. Single-family homes are to the
+         northeast and rear along Willow Drive. The Carriage Gate townhomes are a few hundred feet to
+         the south. Commercial uses, which include retail, services and restaurants, are located across and
+         along Sycamore Avenue and Willow Drive, as well as other nearby streets. The site has frontage
+         and access to both Sycamore Avenue and Willow Drive. There are no environmental constraints
+         associated with the site.
+    §    “Developable site” means a site that has access to appropriate water and sewer infrastructure,
+         and is consistent with the applicable areawide water quality management plan (including the
+         wastewater management plan) or is included in an amendment to the areawide water quality
+         management plan submitted to and under review by DEP.
+         The Two Rivers Water Reclamation Authority (TRWRA) provides public sewer to the site and New
+         Jersey American Water provides public water to the site.
+    §    “Approvable site” means a site that may be developed for low and moderate income housing in a
+         manner consistent with the rules or regulations of all agencies with jurisdiction over the site. A site
+         may be approvable although not currently zoned for low and moderate income housing.
+         The site appears to be developable consistent with the Residential Site Improvement Standards,
+         N.J.A.C. 5:21. It does not contain any historic or architecturally important structures and is not
+         within an historic district.
+    §    In addition to determining whether the sites and proposed development are suitable pursuant to
+         the above definitions, COAH’s rules, in N.J.A.C. 5:97-3.13, provide guidance as to where in the state
+         inclusionary housing in encouraged. COAH’s rules rely on the 2001 State Development and
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                PAGE 20
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 25 of 62 Trans ID: LCV20251751368
+
+
+
+
+         Redevelopment Plan (SDRP) for this guidance and state Planning Areas 1, 2, and Centers are the
+         preferred location to address municipal affordable housing obligations.
+         The site is in Planning Area 1, the Metropolitan Planning Area. As such, its redevelopment for
+         affordable housing is consistent with the guidance provided in N.J.A.C. 5:93-5.4.
+
+
+
+
+                                                          B54 L37         Willow Dr.
+                                                      B54 L38
+                Bra
+                  nch                                           B54 L42
+                        .
+                    Av e
+                                                      B54 L43
+
+
+
+
+                                                               e.
+                                                           v                      ean
+                                                       reA                      Oc
+                                                     o
+                                                  cam                                  po
+                                            S   y
+                                                                                       rt A
+                                                                                        ve.
+
+
+
+
+1 Sycamore Avenue Site
+
+
+Satisfaction of the Unmet Need
+The Borough adopted 7 overlay zone zones and a mandatory set-aside ordinance as its strategy to address
+the third round unmet need. One of these zones – the IHO-7 zone, is now included in the RDP as the 1
+Sycamore Avenue development. The densities and related zone standards for the remaining 6 districts
+were crafted to reflect the Borough’s modest density character, which consists almost entirely of one and
+two story buildings, as well as the need for affordable housing.
+
+Inclusionary Housing Overlay 1 (IHO-1)
+This 4.61 acre area is located along Birch Avenue at Block 30.01, Lot 4. The existing use is a tennis
+recreation center. The zoning permits development of townhomes and multi-family uses at a maximum
+density of 15 units per acre. The affordable housing set-aside shall be 20% and all affordable homes shall
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                          PAGE 21
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 26 of 62 Trans ID: LCV20251751368
+
+
+
+
+be restricted, regulated and administered consistent with the Borough’s affordable housing regulations,
+the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair
+Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited to affordability controls,
+income distribution, bedroom distribution, and phasing.
+
+Inclusionary Housing Overlay 2 (IHO-2)
+This 4.4 acre area is located the intersection of Ayres Lane and Eastborne Drive at Block 75, Lot 6.1. The
+existing use is the NJ Transit train station parking lot. The zoning permits mixed use development with
+multi-family residential uses at a maximum density of 15 units per acre. The affordable housing set-aside
+shall be 20% and all affordable homes shall be restricted, regulated and administered consistent with the
+Borough’s affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-
+26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is
+not limited to affordability controls, income distribution, bedroom distribution, and phasing.
+
+Inclusionary Housing Overlay 3 (IHO-3)
+This 5.4 acre area is located on Block 73, Lots 1.01, 10, and 10.1 and Block 74, Lots 1, 1.1, 2, 4, 6, 11, and
+12. These lots have frontage on Oceanport Avenue, Conover Place, Eastview Avenue, and Silverside
+Avenue. The sites currently host a variety of commercial uses. The zoning permits a mix of townhomes
+and multi-family homes at a maximum density of 11 units per acre. The affordable housing set-aside shall
+be 20% and all affordable homes shall be restricted, regulated and administered consistent with the
+Borough’s affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-
+26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is
+not limited to affordability controls, income distribution, bedroom distribution, and phasing.
+
+Inclusionary Housing Overlay 4 (IHO-4)
+This 1.33 acre area is located along Birch Avenue at Block 30.01, Lots 136 and 137. The existing use is an
+auto garage. The zoning permits development of townhomes and multi-family uses at a maximum density
+of 11 units per acre. The affordable housing set-aside shall be 20% and all affordable homes shall be
+restricted, regulated and administered consistent with the Borough’s affordable housing regulations, the
+Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing
+Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited to affordability controls, income
+distribution, bedroom distribution, and phasing.
+
+Inclusionary Housing Overlay 5 (IHO-5)
+This 3.93 acre area is located along Sycamore Avenue at Block 30.2, Lots 25, 26, and 27. The existing use
+is a lumber and home supply store. The zoning permits development of townhomes and multi-family uses
+at a maximum density of 13 units per acre. The affordable housing set-aside shall be 20% and all affordable
+homes shall be restricted, regulated and administered consistent with the Borough’s affordable housing
+regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                              PAGE 22
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 27 of 62 Trans ID: LCV20251751368
+
+
+
+
+Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited to affordability
+controls, income distribution, bedroom distribution, and phasing.
+
+Inclusionary Housing Overlay 6 (IHO-6)
+
+This 2.47 acre area is located along Prospect Avenue at Block 48, Lot 13, 17, 18, 19, and 21. The existing
+uses consist of small offices. The zoning permits development of townhomes and multi-family uses at a
+maximum density of 9 units per acre. The affordable housing set-aside shall be 20% and all affordable
+homes shall be restricted, regulated and administered consistent with the Borough’s affordable housing
+regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New
+Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited to affordability
+controls, income distribution, bedroom distribution, and phasing.
+
+Mandatory Set-aside Ordinance
+
+This ordinance requires all multi-family residential development which is not currently permitted but
+receives approval for construction or new zoning to provide a 15% affordable housing set-aside where the
+affordable homes are for rent and a 20% affordable housing set-aside where the affordable homes are for
+sale. All affordable homes shall be restricted, regulated and administered consistent with the Borough’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited
+to affordability controls, income distribution, bedroom distribution, and phasing.
+
+Additional Fourth Round Unmet Need
+The Borough will expand its unmet need strategies with the White Road Overlay to account for the
+additional unmet need of 94 (98 total obligation – 4 RDP = 94). The additional site is significant in size,
+given the typically small sizes of commercial and residential lots in the Borough. The new strategy,
+described in more detail below, is a 6.84 acre site on White Road and is referred to as IHO-8. At this size,
+the overlay zoning permits 88 total homes, including 18 affordable homes. This strategy, in addition to
+the IHO zones adopted during the third round, address Little Silver’s unmet need obligation.
+COAH’s rules, N.J.A.C. 5:97-5.4(b) or N.J.A.C. 5:93-4.2(h), do not require any specific unmet need strategy.
+Instead, they state one or any combination of strategies may be required and do not provide a required
+quantity of strategies or affordable homes. The strategies cited include accessory apartments, market to
+affordable, overlay zoning, redevelopment with affordable housing and adoption of a development fee.
+Little Silver relies upon 7 overlay zones, one of which is newly proposed and significantly exceeds the size
+of each other overlay zone, as well as the mandatory set-aside ordinance.
+The Fair Housing Act, N.J.S.A. 52:27D-310.1, now states municipalities that receive a vacant land
+adjustment shall identify sufficient parcels to likely to redevelop during the current round to address at
+least 25% of the prospective need obligation that has been adjusted with realistic zoning or demonstrate
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                              PAGE 23
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 28 of 62 Trans ID: LCV20251751368
+
+
+
+
+why the municipality is unable to do so. The Borough satisfies this requirement through the new overlay
+zoning that far exceeds 25% of the fourth round RDP of 4 (25 fourth round RDP – 21 third round RDP = 4).
+This finding reflects the Borough’s legal interpretation that the 25% calculation is based upon the RDP,
+since the “prospective need obligation that has been adjusted” is 4 in this case. That notwithstanding, this
+Housing Plan includes substantial, additional overlay zoning to address unmet need.
+The White Road Overlay is realistic zoning as it offers multi-family and townhome inclusionary
+development at 13 du/ac to a site that is not permitted to be developed with residential use. Additionally,
+the residential uses located adjacent to the site are within the R-3 zone, which permits single-family
+homes on approximate half-acre lots. The density of 13 du/ac is more than 6 times the residential density
+that surrounds the site, making this a unique opportunity in the immediate area and Little Silver as a
+whole. This density is appropriate since it supports development of townhomes, stacked townhomes, and
+multi-family housing that is not out of scale with the surrounding single-family homes, facilitates adequate
+buffers and setbacks to adjacent residences and rail line along the western boundary, and allows for
+retention or development of office uses if so desired by the developer. Additionally, the density of 13
+du/ac is the highest density permitted in the Borough, except for IHO-2, the train station parking lot, and
+IHO-5, located a half mile from the train station, both of which are assigned a density of 15 du/ac.
+IHO-8 White Road Overlay
+The Borough will expand its unmet need strategies to include a 6.84 acre site along White Road. The site,
+which consists of Block 30, Lots 1, 2.301, 2.411, 2.101, is occupied with three office buildings and surface
+parking. The site will receive overlay zoning that permits inclusionary townhomes, stacked townhomes,
+and multi-family development at 13 du/ac and requires a 20% affordable housing set-aside. Office uses
+will also be permitted.
+All affordable homes shall be restricted, regulated and administered consistent with the Borough’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited
+to affordability controls, income distribution, bedroom distribution, and phasing.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                              PAGE 24
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 29 of 62 Trans ID: LCV20251751368
+
+
+
+
+  IHO-8 White Road Overlay Zone
+
+
+Distribution of Affordable Homes
+
+In addition to meeting the total 25 RDP, the Borough must also meet a rental obligation, maximum senior
+homes, family obligation, and the very low income obligation.
+Maximum Bonus
+    §    Maximum bonus credits = 25% (RDP) | .25 (25) = 6.25, rounded to down to 6
+    §    The RDP is satisfied with 4 bonus credits – 3 smart growth bonus credits from the third round and
+         1 100% affordable bonus credits from the fourth round. Note that the 3 smart growth bonus
+         credits were approved in the 2019 Judgment of Repose and the 1 fourth round bonus credit
+         applies only to increased RDP generated for the fourth round.
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                          PAGE 25
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 30 of 62 Trans ID: LCV20251751368
+
+
+
+
+Minimum Rental
+    §    Minimum rental units = 25% (units meeting the RDP) | .25 (21) = 5.25, rounded up to 6
+    §    The Borough exceeds this requirement with 7 rental homes meeting the RDP from the 43 Birch
+         Avenue development and the accessory apartments. All the Borough’s unmet need strategies may
+         be developed with rental homes.
+Maximum Senior
+    §    Maximum age-restricted units = 30% (units meeting the RDP) (25% in the third round) | .3 (21) =
+         6.3, rounded down to 6
+    §    None of the Borough’s affordable homes addressing the RDP or unmet need are restricted to
+         seniors.
+Minimum Family
+    §    Minimum family units = 50% (units meeting the RDP) | .5 (21) = 10.5, rounded up to 11
+    §    All the homes meeting the RDP are family homes. None of the Borough’s unmet need strategies
+         require non-family homes.
+Minimum Family Rental
+    §    Minimum family rental = 50% (rental obligation) | .5 (6) = 3, rounded up to 3
+    §    The Borough exceeds this requirement with 7 family rental homes meeting the RDP from the 43
+         Birch Avenue development and the accessory apartments. None of the Borough’s unmet need
+         strategies require owner-occupied homes or non-family homes.
+Minimum Very Low Income
+    §    Minimum very low income units = 13% (fourth round units created or approved on or after July
+         1, 2008) | .13 (13) = 1.69 rounded up to 2
+    §    The Borough exceeds this requirement with the accessory apartment program, the 43 Birch
+         Avenue development, and the 1 Sycamore Site. The Borough’s unmet need strategies will provide
+         the required very low income homes.
+Minimum Family Very Low Income
+    §    Minimum family very low income units = 50% (very low income obligation) | .5 (2) = 1
+    §    The Borough exceeds this requirement with the accessory apartment program, the 43 Birch
+         Avenue development, and the 1 Sycamore Site. The Borough’s unmet need strategies will provide
+         the required very low income homes and none require non-family homes.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                        PAGE 26
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 31 of 62 Trans ID: LCV20251751368
+
+
+
+
+CONSISTENCY WITH THE STATE DEVELOPMENT AND REDEVELOPMENT PLAN
+The Borough is in Planning Area 1, the Metropolitan Planning Area. Development and redevelopment with
+affordable housing is consistent with the goals and policies of the 2001 State Development and
+Redevelopment Plan. In fact, Planning Area 1 is a preferred location for affordable housing pursuant to
+5:93-5.4.
+
+
+AFFORDABLE HOUSING ADMINISTRATION & AFFIRMATIVE MARKETING
+Little Silver Borough’s Affordable Housing Ordinance and affirmative marketing plan is in part, but will be
+further amended to be, consistent with the Fair Housing Act , the Uniform Housing Affordability Control
+Rules, N.J.A.C. 5:80-26.1 et seq., and the Division of Local Planning Services Fair Housing Act Rules, N.J.A.C.
+5:99. As of the adoption of this Housing Plan, the latter two are in the process of being amended.
+The Borough’s Affordable Housing Ordinance, Article XI of the Borough Code governs the establishment
+of affordable homes in the Borough as well as regulating the occupancy of such homes. The Borough’s
+Affordable Housing Ordinance addresses the phasing of affordable homes, the low/moderate income
+split, bedroom distribution, occupancy standards, affordability controls, establishing rents and prices,
+affirmative marketing, income qualification, etc. All newly created affordable homes, with limited
+exceptions, will comply with the affordability control period of 30 years for sale homes or 40 years for
+rental homes, as required by the Fair Housing Act and the Uniform Housing Affordability Control Rules.
+The Borough created the position of the Municipal Housing Liaison and appointed a staff member to the
+position. The consultant affordable housing administrator overseeing any affordable housing
+development will conduct the administration and affirmative marketing of the applicable affordable
+housing sites. The affirmative marketing plan will be designed to attract buyers and/or renters of all
+majority and minority groups, regardless of race, creed, color, national origin, ancestry, marital or familial
+status, gender, affectional or sexual orientation, disability, age or number of children to the affordable
+homes located in the Borough. Additionally, the affirmative marketing plan is intended to target those
+potentially eligible persons who are least likely to apply for affordable homes and who reside in the
+Borough’s housing region, Region 4 consisting of Monmouth, Ocean and Mercer counties.
+The affirmative marketing plan provides regulations for qualification of income eligibility, price and rent
+restrictions, bedroom distribution, affordability control periods, and marketing in accordance with
+N.J.A.C. 5:80-26.1 et seq. This plan must be adhered to by all private, non-profit, and municipal developers
+of affordable housing and must cover the period of deed restriction or affordability controls on each
+affordable home.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                               PAGE 27
+ADOPTED JUNE 12, 2025
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 32 of 62 Trans ID: LCV20251751368
+
+
+
+
+AFFORDABLE HOUSING TRUST FUND
+A development fee ordinance creating a dedicated revenue source for affordable housing was first
+approved by COAH on March 21, 2001 and most recently approved by Superior Court on October 23, 2024
+as part of the Borough’s Final Judgement of Compliance and Repose. The ordinance, which is Section 190-
+144 of the Borough Code creates a dedicated revenue source for affordable housing in the form of
+residential and nonresidential development fees and establishes and regulates the affordable housing
+trust fund. The ordinance requires residential development fees in the amount of 1.5% of the equalized
+assessed value of the residential development and nonresidential development fees in the amount of
+2.5% of the equalized assessed value of the nonresidential development.
+The Borough’s Spending Plan discusses anticipated revenues, collection of revenues, and the use of
+revenues. Collected revenues are placed in the Borough’s Affordable Housing Trust fund and may
+dispensed for the use of eligible affordable housing activities including, but not limited to:
+    §    Rehabilitation program activities.
+    §    New construction of affordable housing homes and related development costs.
+    §    Extension of expiring affordability controls.
+    §    Purchase market rate homes for conversion to affordable housing homes.
+    §    Extensions or improvements of roads and infrastructure directly serving affordable housing
+         development sites.
+    §    Acquisition and/or improvement of land to be used for affordable housing.
+    §    Maintenance and repair of affordable housing.
+    §    Repayment of municipal bonds issued to finance low- and moderate-income housing activity.
+    §    Any other activity as specified in the approved spending plan.
+As required by the Fair Housing Act, the Borough will expend a portion of its collected development fees
+on affordability assistance to enhance affordability of affordable homes. Additionally, no more than 20%
+of the revenues collected from development fees each year, shall be expended on administration,
+including, but not limited to, salaries and benefits for municipal employees or consultant fees necessary
+to prepare or implement a rehabilitation program, a new construction program, a housing element and
+fair share plan, and/or an affirmative marketing program.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+FOURTH ROUND HOUSING PLAN                                                                         PAGE 28
+ADOPTED JUNE 12, 2025
+MON-L-000357-25 06/13/2025 10:25:20 AM Pg 33 of 62 Trans ID: LCV20251751368
+  MON-L-000357-25 06/13/2025 10:25:20 AM Pg 34 of 62 Trans ID: LCV20251751368
+
+
+
+
+APPENDIX 1.
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+2025 FOURTH ROUND HOUSING PLAN
+HOUSING ELEMENT & FAIR SHARE PLAN
+BOROUGH OF LITTLE SILVER
+MONMOUTH COUNTY
+NEW JERSEY
+     MON-L-000357-25 06/13/2025 10:25:20 AM Pg 35 of 62 Trans ID: LCV20251751368
+
+
+
+
+                                                           TABLE OF CONTENTS
+
+Table 1: Population Trends (1920-2020) ...................................................................................................... 1
+Table 2: Population by Age and Sex ............................................................................................................. 2
+Table 3: Population Change by Age, 2013 to 2023....................................................................................... 2
+Table 4: Household Size ............................................................................................................................... 3
+Table 5: Family and Nonfamily Households ................................................................................................. 3
+Table 6: Educational Attainment .................................................................................................................. 4
+Table 7: Race and Ethnicity .......................................................................................................................... 4
+Table 8: Household Income .......................................................................................................................... 5
+Table 9: Poverty Rate ................................................................................................................................... 6
+Table 10: Unemployment Rate.................................................................................................................... 6
+Table 11: Class of Worker ............................................................................................................................. 7
+Table 12: Occupation ................................................................................................................................... 7
+Table 13: Industry......................................................................................................................................... 8
+Table 14: Means of Transport to Work ........................................................................................................ 9
+Table 15: Travel Time to Work ..................................................................................................................... 9
+Table 16: Total Vehicles Available .............................................................................................................. 10
+Table 17: Total Population in Occupied Housing Units by Tenure ............................................................. 10
+Table 18: Occupancy Status ....................................................................................................................... 11
+Table 19: Vacancy Status ............................................................................................................................ 11
+Table 20: Units in Structure ........................................................................................................................ 12
+Table 21: Units in Structure by Tenure....................................................................................................... 12
+Table 22: Year Structure Built..................................................................................................................... 13
+Table 23: Number of Bedrooms, Housing Stock......................................................................................... 13
+Table 24: Number of Rooms Per Home ...................................................................................................... 14
+Table 25: Housing Quality Indicators.......................................................................................................... 15
+Table 26: Year Moved In............................................................................................................................. 16
+Table 27: Mortgage Status ......................................................................................................................... 16
+Table 28: Home Values ............................................................................................................................... 17
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+     MON-L-000357-25 06/13/2025 10:25:20 AM Pg 36 of 62 Trans ID: LCV20251751368
+
+
+
+
+Table 29: Home Sales ................................................................................................................................. 17
+Table 30: Residential Tax Assessments ...................................................................................................... 18
+Table 31: Burden of Housing Costs, All Households ................................................................................... 18
+Table 32: Burden of Housing Costs, Owner-Occupied Housing ................................................................. 19
+Table 33: Monthly Costs, Homeowners with a Mortgage .......................................................................... 19
+Table 34: Monthly Costs, Homeowners without a Mortgage .................................................................... 20
+Table 35: Burden of Housing Costs, Renter-Occupied Housing ................................................................. 20
+Table 36: Gross Rent .................................................................................................................................. 21
+Table 37: Total Housing Permits Issued Per Year, 2004-2023 .................................................................... 21
+Table 38: Total Housing Permits Issued by Type, 2004-2023 ..................................................................... 22
+Table 39: Demolition Permits, 2004-2023.................................................................................................. 23
+Table 41: Net Housing Permits, 2004-2023 ................................................................................................ 24
+Table 42: Building Permits, Nonresidential Construction, 2004-2023 ....................................................... 25
+Table 43: Long-term Population, Household and Employment Forecasts ................................................. 27
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 37 of 62 Trans ID: LCV20251751368
+
+
+
+
+DEMOGRAPHIC ANALYSIS
+The largest population increases in Little Silver’s history came in the middle of the twentieth century. In
+the 1940s, the number of residents jumped, increasing by 77.3% (Table 1). Growth further accelerated
+during the 1950s, when the population of the community doubled, rising to 5,202 persons, a 100.5%
+increase. Population growth slowed during the 1960s, with the community only adding residents at an
+15.5% clip. The number of residents actually declined in the 1970s, with the population dropping by 7.7%.
+Population levels recovered somewhat in the 1980s, when it rebounded by 3.1%, followed by a larger
+7.8% increase in the 2000s. After the turn of the century, however, Little Silver again saw a net loss of
+residents, when the number of persons living in the borough slipped by 3.6%. To a certain extent, the
+borough regained residents in the 2010s, when it recorded an increase of 3.0%. As of 2020, 6,131 persons
+called Little Silver home.
+
+It should be noted here that, although the total population data in Table 1 is drawn from the Decennial
+U.S. Census survey, all subsequent Census Bureau data contained herein comes from the 2019-2023
+American Community Survey (ACS), which is calculated as a 5-year estimate.
+
+Table 1: Population Trends (1920-2020)
+                       Little Silver          Monmouth County                New Jersey
+    Year
+                    Total        % Change     Total      % Change         Total      % Change
+    1940           1,464              --     161,238          --       4,160,165          --
+    1950           2,595           77.3%     225,327       39.7%       4,835,329       16.2%
+    1960           5,202          100.5%     334,401       48.4%       6,066,782       25.5%
+    1970           6,010           15.5%     459,379       37.4%       7,171,112       18.2%
+    1980           5,548           -7.7%     503,173        9.5%       7,365,011        2.7%
+    1990           5,721            3.1%     553,124        9.9%       7,730,188        5.0%
+    2000           6,170            7.8%     615,301       11.2%       8,414,350        8.9%
+    2010           5,950           -3.6%     630,380        2.5%       8,791,894        4.5%
+    2020           6,131            3.0%     643,615        2.1%       9,288,944        5.7%
+            Source: Census Bureau, Decennial Census; NJ Dept. of Labor and Workforce Development
+
+Table 2 shows the population cohorts in Little Silver as of 2023. The distribution is relatively balanced,
+with slightly more men than women living in the borough, 50.9% to 49.1%. The largest age group are
+persons 35 to 54 years of age, who make up 24.7% of the population. Notably, the cohort of persons 55
+to 64 years of age has the second largest population, totaling 19.2% of community members. The senior
+population is similarly large, with 18.4% of residents 65 years of age and older. Interestingly, the
+population of younger adults, those between the ages of 20 and 34, is relatively small, constituting only
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                          PAGE 1
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 38 of 62 Trans ID: LCV20251751368
+
+
+
+
+12.4% of persons in the borough. Approximately a quarter of the population is under the age of 20, almost
+entirely children and dependents. Children under the age of 5 comprise 7.2% of the population, while
+persons 5 to 19 years of age compose 18.0% of residents. Overall, the median age in Little Silver is 46.8.
+
+Table 2: Population by Age and Sex
+                               Total Population                            Male                        Female
+          Age Group                                    % of                        % of                      % of
+                                   Number                         Number                      Number
+                                                    Population                  Population                Population
+
+ Under 5 years of age                 441            7.2%           294          9.5%           147           4.9%
+ 5 to 19 years of age                1,097          18.0%           541         17.4%           556          18.6%
+ 20 to 34 years of age                758           12.4%           435         14.0%           323          10.8%
+ 35 to 54 years of age               1,507          24.7%           703         22.6%           804          26.9%
+ 55 to 64 years of age               1,169          19.2%           632         20.3%           537          18.0%
+ 65+ years of age                    1,124          18.4%           501         16.1%           623          20.8%
+ Total                               6,096         100.0%          3,106       100.0%          2,990        100.0%
+ Median age                                    46.8                        44.6                         48.5
+                                              Source: Census Bureau, 2019-2023 5-Year American Community Survey
+
+The population of Little Silver is growing older. Between 2013 and 2023, the two oldest cohorts increased
+by 641 persons (Table 3). At the same time, the rest of the population decreased by 494 persons.
+Consequently, the median age moved upward, rising from 43.1 to 46.8 years of age. The two youngest
+age groups, residents under 5 and from 5 to 19 years of age, both declined in size, sinking by 0.7% and
+21.1%, respectively. The largest percentage drop was among persons 35 to 54 years of age. Hence, the
+composition of the community could shift from families to retirees in the years to come.
+
+Table 3: Population Change by Age, 2013 to 2023
+                                             2013                        2023            Change, 2013 to 2023
+         Age Group                              %, Total                    %, Total          Total
+                                  2013                           2023                                   % Change
+                                               Population                  Population        Change
+ Under 5 years of age              444               7.5%         441            7.2%           -3        -0.7%
+ 5 to 19 years of age             1,391             23.4%        1,097          18.0%         -294       -21.1%
+ 20 to 34 years of age             471               7.9%         758           12.4%          287        60.9%
+ 35 to 54 years of age            1,991             33.5%        1,507          24.7%         -484       -24.3%
+ 55 to 64 years of age             783              13.2%        1,169          19.2%          386        49.3%
+ 65+ years of age                  859              14.5%        1,124          18.4%          265        30.8%
+ Total                            5,939                --        6,096             --          157        2.6%
+ Median Age                                  43.1                        46.8                  3.7          --
+                                               Source: 2009-2013, 2019-2023 5-Year American Community Survey
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                                       PAGE 2
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 39 of 62 Trans ID: LCV20251751368
+
+
+
+
+The average household in Little Silver has 2.71 persons, above the county average of 2.64 persons (Table
+4). Two-person households are the most numerous household size, composing 35.7% of all households,
+while one-person households only number 14.6% of households in all. Three-person households make up
+a relatively large share of the community, accounting for 24.0% of households, more than the county- and
+statewide shares, 16.4% and 17.1%, respectively. The community also has a higher-than-average share of
+4-person households, which account for 19.1% of households. Larger households are relatively less
+prevalent, with households of 5 or more persons constituting just 6.6% of households in the borough. By
+comparison, households with 5 or more persons comprise 9.0% of households in Monmouth County and
+10.2% of households in New Jersey.
+
+Table 4: Household Size
+                                             Little Silver       Monmouth County                 New Jersey
+        Household Size
+                                      Total             %          Total           %           Total          %
+ 1-person household                    329           14.6%        66,589       26.6%         918,897      26.4%
+ 2-person household                    803           35.7%        81,289       32.5%        1,081,842     31.1%
+ 3-person household                    541           24.0%        40,929       16.4%         594,946      17.1%
+ 4-person household                    430           19.1%        39,131       15.6%         530,520      15.3%
+ 5-person household                    149            6.6%        15,144        6.1%         218,492      6.3%
+ 6-person household                     0             0.0%        4,654         1.9%          79,678      2.3%
+ 7+-person household                    0             0.0%        2,459         1.0%          53,980      1.6%
+ Total households                     2,252         100.0%       250,195      100.0%        3,478,355    100.0%
+ Average Household Size                         2.71                     2.55                       2.61
+                                                             Source: 2019-2023 5-Year American Community Survey
+
+Little Silver is a place rich in family, with family households accounting for 78.8% of all households in the
+borough (Table 5). Statewide, family households constitute only 67.8% of households. Family households
+have 3.04 persons on average, below the comparable averages for Monmouth County and New Jersey,
+3.12 and 3.19 persons. At the same time, nonfamily households are relatively large, comprising 1.30
+persons on average, compared to 1.20 and 1.22 persons in the county and state, respectively.
+
+Table 5: Family and Nonfamily Households
+                                                                              Monmouth
+                    Household Type                           Little Silver                  New Jersey
+                                                                               County
+
+ Total family households                                        78.8%           67.9%          67.8%
+ Total nonfamily households                                     21.2%           32.1%          32.2%
+
+ Average household size, family households                       3.04            3.12           3.19
+ Average household size, nonfamily households                    1.30            1.20           1.22
+                                                                             Source: 2019-2023 5-Year ACS
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                                   PAGE 3
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 40 of 62 Trans ID: LCV20251751368
+
+
+
+
+Little Silver residents have exceptionally high rates of educational attainment. Of all residents at least 25
+years of age, a stunning 79.8% have at least a bachelor’s degree while 36.9% have a graduate or
+professional degree (Table 6). Even for Monmouth County, where 50.6% of residents have at least a
+bachelor’s degree, these figures stand out. In all, 99.1% have earned a high school diploma. Given the
+strong relationship between educational attainment and income, the high levels of education play a major
+role in shaping the borough’s economy.
+
+Table 6: Educational Attainment
+                                                                             Monmouth
+            Highest level of education                       Little Silver                  New Jersey
+                                                                              County
+
+ Less than 9th grade                                            0.9%             2.5%           4.6%
+ 9th to 12th grade, no diploma                                  0.0%             3.4%           4.7%
+ High school graduate (includes equivalency)                    8.9%            21.4%          25.7%
+ Some college, no degree                                        7.1%            15.0%          15.3%
+ Associate's degree                                             3.4%             7.2%           6.7%
+ Bachelor's degree                                             42.9%            30.9%          25.8%
+ Graduate or professional degree                               36.9%            19.7%          17.1%
+ High school graduate or higher                                99.1%            94.2%          90.7%
+ Bachelor's degree or higher                                   79.8%            50.6%          42.9%
+                                                                             Source: 2019-2023 5-Year ACS
+
+White persons who are not Hispanic comprise 96.7% of the population (Table 7). This surpasses the
+percentage for Monmouth County, where 72.1% of the population is white and not Hispanic. Another
+1.5% of the community is Hispanic and white, the same share as the borough’s Hispanic population
+overall. The Census Bureau did not find any Black persons who completed the American Community
+Survey in Little Silver. Meanwhile, Asian-Americans account for an estimated 0.6% of residents. Persons
+of multiple races constitute 1.2% of residents, well below the 7.6% counted within Monmouth County.
+
+Table 7: Race and Ethnicity
+                                                             Monmouth
+         Race and Ethnicity                  Little Silver                    New Jersey
+                                                              County
+
+ Non-Hispanic                                   98.5%            87.3%          78.1%
+   White                                        96.7%            72.1%          51.9%
+   Black                                         0.0%             5.9%          12.3%
+   Asian                                         0.6%             5.3%           9.8%
+   Other Race Alone                              0.0%             0.8%           0.8%
+   Two or more Races                             1.2%             3.3%           3.2%
+ Hispanic (All Races)                            1.5%            12.7%          21.9%
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                                   PAGE 4
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 41 of 62 Trans ID: LCV20251751368
+
+
+
+
+                                                               Monmouth
+         Race and Ethnicity                  Little Silver                    New Jersey
+                                                                County
+
+    Hispanic, White                             1.5%              4.0%            5.0%
+    Hispanic, Black                             0.0%              0.3%            0.7%
+    Hispanic, Other                             0.0%              4.0%            8.9%
+    Hispanic, Two or More Races                 0.0%              4.3%            7.4%
+                                                               Source: 2019-2023 5-Year ACS
+
+
+
+
+SOCIOECONOMIC ANALYSIS
+Little Silver is an affluent community. According to the most recent American Community Survey, 55.1%
+of households have an income of at least $200,000 (Table 8). As such, the median household income is
+$220,746, almost double the figure for Monmouth County, $123,715. For its part, the mean household
+income for households in the borough is $297,321. Given the upward skew of the mean, it’s reasonable
+to conclude that Little Silver is home to a small number of extraordinarily high-earning households.
+Another 25.3% of households have an income between $100,000 and $199,999. Altogether, 80.4% of
+households have an income of $100,000 or greater. As for those with fewer means, 9.8% of households
+have an income less than $50,000. This is well below the figure in the larger county and state, 21.0% and
+25.2%, respectively.
+
+Table 8: Household Income
+
+                                                                Monmouth
+          Household Income                     Little Silver                   New Jersey
+                                                                 County
+
+ Less than $25,000                                5.2%             9.7%          11.9%
+ $25,000-$50,000                                  4.6%            11.3%          13.3%
+ $50,000-$100,000                                 9.6%            20.3%          24.3%
+ $100,000-$200,000                               25.3%            31.2%          29.7%
+ More than $200,000                              55.1%            27.7%          20.7%
+ Median Household Income                        $220,746         $122,727       $101,050
+ Mean Household Income                          $297,321         $168,016       $140,299
+                                                               Source: 2019-2023 5-Year ACS
+
+The poverty rate for Little Silver is only 2.4% (Table 9). This is well below the county poverty rate of 6.4%.
+Seniors, however, are more vulnerable to poverty, with a poverty rate of 6.9%, practically on par with the
+countywide rate, 7.0%. The community fares much better when it comes to child poverty. According to
+the American Community Survey, no children in the borough live in poverty.
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                            PAGE 5
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 42 of 62 Trans ID: LCV20251751368
+
+
+
+
+Table 9: Poverty Rate
+                                                             Monmouth
+                Indicator                    Little Silver                  New Jersey
+                                                              County
+ Poverty Rate, Overall                          2.4%            6.4%            9.8%
+ Poverty Rate, Under 18 years old               0.0%            7.1%           13.3%
+ Poverty Rate, Seniors                          6.9%            7.0%            9.5%
+                                                             Source: 2019-2023 5-Year ACS
+
+Over the past decade, Little Silver workers have had an easier time finding jobs than their peers in the rest
+of the county and state. During this time, the municipal unemployment rate stayed consistently below
+the state- and countywide rates. In the 2010s, the unemployment rate trended downward, reaching a low
+of 2.0% in 2019. The unemployment rate subsequently shot up to 5.9% in 2020, with the advent of Covid,
+before tapering back down to 4.1% in 2021 and 2.3% in 2022. Even in 2020, Little Silver withstood the
+economic disruption from the pandemic far better than the rest of the county and state, where the
+unemployment rate spiked respectively to 8.5% and 9.4% in 2020. The data indicate that employment
+and, by extension, household finances are relatively stable.
+
+Table 10: Unemployment Rate
+                                Monmouth
+   Year       Little Silver                     New Jersey
+                                 County
+   2013           5.6%              7.7%            8.4%
+   2014           4.5%              6.1%            6.7%
+   2015           3.9%              5.1%            5.7%
+   2016           3.3%              4.4%            4.9%
+   2017           3.0%              4.0%            4.5%
+   2018           2.8%              3.5%            4.0%
+   2019           2.0%              3.1%            3.5%
+   2020           5.9%              8.5%            9.4%
+   2021           4.1%              5.9%            6.7%
+   2022           2.3%              3.5%            3.9%
+   2023           2.9%              3.8%            4.4%
+      Source: NJ Dept. of Labor and Workforce Development
+
+For-profit companies employ 73.3% of the borough’s working population, higher than the share at the
+state- or county-level (Table 11). The municipality also has a very high percentage of self-employed
+residents, 18.2% in all. The relatively high number of self-employed residents suggests the presence of
+entrepreneurs and workers with specialized talent who can work for themselves. An additional 6.2% of
+employed residents are government workers, under half the share in Monmouth County, 14.6%. Non- and
+not-for-profit employees, meanwhile, comprise 2.3% of the employed population.
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                           PAGE 6
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 43 of 62 Trans ID: LCV20251751368
+
+
+
+
+Table 51: Class of Worker
+                                                             Monmouth
+             Class of Worker                 Little Silver                     New Jersey
+                                                              County
+
+ For-profit company employee                    73.3%           68.6%            69.2%
+ Not-for-profit employee                         2.3%            6.6%             7.6%
+ Government Worker                               6.2%           14.6%            14.2%
+ Self-employed, business owner                   9.0%            5.0%             3.9%
+ Self-employed, contractor                       9.2%            5.3%             5.1%
+                                                             Source: 2019-2023 5-Year ACS
+
+Data for various occupation types (Table 12) reinforces how relatively skilled the Little Silver workforce is
+compared to overall population. Irrespective of the industry, 62.9% of employed residents work in a
+management, business, science, or arts position. These are individuals who possess the specialized level
+of skills and knowledge required for these roles. Workers in positions that require fewer skills compose a
+relatively small share of the working population. Only 2.5% of Little Silver workers work in production,
+transportation, and moving, compared to 7.1% in Monmouth County and 11.3% in New Jersey. More
+residents work in natural resources, construction, and maintenance occupations, 5.3%, which is still a
+smaller share than the 6.9% recorded at both the state and county level. Workers in service occupations
+comprise 7.2% of the employed population, well under the respective totals for the county and state.
+
+Table 62: Occupation
+                                                                                 Monmouth
+                         Occupation                            Little Silver                   New Jersey
+                                                                                  County
+
+ Management, business, science, and arts                          62.9%            51.6%          46.9%
+ Service occupations                                               7.2%            13.7%          14.8%
+ Sales and office occupations                                     22.0%            20.7%          20.0%
+ Natural resources, construction, and maintenance                 5.3%              6.9%           6.9%
+ occupations
+ Production, transportation, and material moving                  2.5%              7.1%          11.3%
+                                                                                Source: 2019-2023 5-Year ACS
+
+Little Silver residents are employed in all of the major industrial sectors, but the professional, scientific,
+and management sector is especially critical to the local economy. This sector employs 22.0% of Little
+Silver’s employed population, significantly higher than the county- and statewide rates, 17.0% and 15.4%,
+respectively. (Table 13) According to the US Bureau of Labor Statistics, these are “activities that require a
+high degree of expertise and training” and encompass professions as disparate as the law, accounting,
+and engineering. The financial sector also figures prominently. Of working residents, 22.2% work in the
+finance, insurance, and real estate sector, compared to 10.3% statewide. The community has a higher-
+than-average share of residents who work in the information and arts, entertainment, and recreation
+sectors, 4.3% and 6.2%. Interestingly, the community also has a relatively large share of persons who work
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                                 PAGE 7
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 44 of 62 Trans ID: LCV20251751368
+
+
+
+
+in the construction industry, 7.7%, not to mention the wholesale trade, where 6.5% of employed Little
+Silver residents work.
+
+Table 73: Industry
+                                                                             Monmouth
+                             Industry                        Little Silver                   New Jersey
+                                                                              County
+
+ Agriculture, forestry, fishing and hunting, and mining         0.0%            0.3%             0.3%
+
+ Construction                                                   7.7%            7.6%             6.4%
+
+ Manufacturing                                                  2.9%            7.7%             9.8%
+
+ Wholesale trade                                                6.5%            2.8%             3.4%
+
+ Retail trade                                                   6.1%            8.3%             8.7%
+
+ Transportation and warehousing, and utilities                  3.2%            4.5%             6.9%
+
+ Information                                                    4.3%            3.7%             2.9%
+
+ Finance and insurance, and real estate and rental and
+                                                                22.2%           12.3%           10.3%
+ leasing
+ Professional, scientific, and management, and
+                                                                22.0%           17.0%           15.4%
+ administrative and waste management services
+
+ Educational services                                           8.9%            9.9%             8.9%
+
+ Health care and social assistance                              7.0%            12.9%           13.3%
+
+ Arts, entertainment, and recreation, and
+                                                                6.2%            4.5%             4.8%
+ accommodation and food services
+
+ Other services except public administration                    1.8%            3.1%             3.5%
+
+ Public administration                                          1.2%            5.3%             5.3%
+
+                                                                              Source: 2019-2023 5-Year ACS
+
+Over a quarter of workers residing in Little Silver, 26.7%, work from home (Table 14). This greatly outpaces
+the share for Monmouth County, 16.8% and New Jersey as a whole, 15.0%. A majority of working
+residents, 60.6%, get to work by car, including 56.3% who drive to work alone. Yet, Little Silver residents
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                          PAGE 8
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 45 of 62 Trans ID: LCV20251751368
+
+
+
+
+are less likely to get to work by car, compared to their peers in Monmouth County, as 74.0% of the
+employed population in the county get to work by car. Mass transit riders make up a relatively large
+portion of the working population, 11.2%, surpassing the respective state- and countywide shares, 8.5%
+and 5.5%. Some workers walk to work, 1.5% overall, matching the countywide rate.
+
+Table 14: Means of Transport to Work
+                                                                   Monmouth
+            Means of Transport                  Little Silver                      New Jersey
+                                                                    County
+
+ Drove alone                                       56.3%             66.8%             63.7%
+ Carpooled                                          4.3%              7.2%              7.7%
+ Public transportation                             11.2%              5.5%              8.5%
+ Walked                                             1.5%              1.5%              2.6%
+ Bicycle                                            0.0%              0.5%              0.3%
+ Taxicab, motorcycle, or other means                0.0%              1.7%              2.1%
+ Worked from home                                  26.7%             16.8%             15.0%
+                                                                     Source: 2019-2023 5-Year ACS
+
+A sizable number of Little Silver commuters have to deal with longer trips to work than those who
+commute from elsewhere. A sizable percentage, 22.4%, have commutes of an hour or longer, well
+surpassing the respective shares for New Jersey and Monmouth County (Table 15). Another 3.5% have a
+commute that lasts at least 45 minutes while 13.6% have a commute that lasts a minimum of 30 minutes.
+All told, 39.5% of Little Silver commuters have a commute of at least 30 minutes. Little Silver commuters
+require more time to get to work on average, 36.3 minutes, compared to 32.8 minutes for Monmouth
+County commuters overall. Clearly, the segment of working residents with very long commutes is inflating
+the community’s average. A large percentage of residents have comparatively short commutes.
+Altogether, 52.3% have a commute of less than 20 minutes, compared to 34.5% for the state of New
+Jersey.
+
+Table 15: Travel Time to Work
+                                                                Monmouth
+                Travel Time                  Little Silver                   New Jersey
+                                                                 County
+
+ Less than 10 minutes                           23.9%            11.4%          9.9%
+ 10 to 14 minutes                               19.2%            12.8%         11.5%
+ 15 to 19 minutes                                9.2%            12.9%         13.1%
+ 20 to 29 minutes                                8.2%            16.8%         19.6%
+ 30 to 44 minutes                               13.6%            19.2%         21.9%
+ 45 to 59 minutes                                3.5%             9.4%          9.9%
+ 60 or more minutes                             22.4%            17.4%         14.2%
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                           PAGE 9
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 46 of 62 Trans ID: LCV20251751368
+
+
+
+
+                                                                    Monmouth
+                Travel Time                    Little Silver                          New Jersey
+                                                                     County
+       Mean travel time to work
+                                                     36.3              32.8              30.9
+              (minutes)
+                                                                    Source: 2019-2023 5-Year ACS
+
+Little Silver is auto dependent with pedestrian and bicycle facilities being inconvenient for reaching almost
+every destination. As such, it makes sense that workers would have more vehicles at their disposal than
+those elsewhere. Households possessing three or more vehicles represent 38.6% of households (Table
+16). This easily exceeds the respective shares for county and state, 37.6% and 30.3%. Another 56.0% of
+households have two motor vehicles. In other words, 94.6% of households have two automobiles or more.
+One-car households account for only 5.4% of those in the borough, far less than the 16.6% in the
+remainder of the county and 23.3% statewide. The Census Bureau found did not find any households that
+lacked an automobile.
+
+Table 16: Total Vehicles Available
+                                                       Monmouth
+        Total Vehicles              Little Silver                          New Jersey
+                                                        County
+
+ No vehicle                            0.0%                  1.9%              6.4%
+ 1 vehicle                             5.4%                 16.6%             23.3%
+ 2 vehicles                            56.0%                43.9%             39.9%
+ 3 or more vehicles                    38.6%                37.6%             30.3%
+                                                     Source: NJ 2019-2023 5-Year ACS
+
+
+
+HOUSING ANALYSIS
+The vast majority of residents live in owner-occupied homes. Altogether, 97.5% of residents live in owner-
+occupied housing units (Table 17). Approximately one in forty residents live in a rental, or 2.5% of the
+population. The municipality’s owner-occupied share far exceeds the percentage at the state level, 63.7%.
+It also surpasses the percentage in Monmouth County, 75.4%.
+
+Table 17: Total Population in Occupied Housing Units by Tenure
+                                               Monmouth
+        Tenure              Little Silver                           New Jersey
+                                                County
+
+ Owner-Occupied                97.5%                75.4%             63.7%
+ Renter-Occupied                2.5%                24.6%             36.3%
+                                                       Source: 2019-2023 5-Year ACS
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                           PAGE 10
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 47 of 62 Trans ID: LCV20251751368
+
+
+
+
+There are relatively few vacant housing units in Little Silver. To be specific, 4.3% of housing units in the
+municipality are vacant whereas, countywide, 7.2% of units are vacant (Table 18). While the low vacancy
+rate surely boosts home values, it shows that housing in Monmouth County is very hard to come by.
+Housing experts generally consider a vacancy rate of approximately 7% to be optimal in the sense that
+vacant housing units find buyers and renters in a timely manner while the cost of housing remains
+relatively stable.
+
+Table 18: Occupancy Status
+
+                                                      Monmouth
+       Occupancy Status               Little Silver                     New Jersey
+                                                       County
+
+ Occupied                                95.7%           92.8%            92.1%
+ Vacant                                   4.3%            7.2%             7.9%
+                                                      Source: 2019-2023 5-Year ACS
+
+Notably, homes used only for seasonal or recreational purposes constitute a sizable share of the vacant
+housing stock, 42.0% (Table 19). This is close to the percentage for Monmouth County, 51.7%, a place
+with a large number of second homes and homes rented to people visiting the Jersey Shore. Some of the
+vacant homes in the borough are for sale and, thus, waiting to be purchased. The remainder, 41.0%, are
+vacant for other reasons.
+
+Table 19: Vacancy Status
+                                                                         Monmouth
+                   Vacancy Status                       Little Silver                   New Jersey
+                                                                          County
+
+ For rent                                                   0.0%            11.4%          16.0%
+ Rented, not occupied                                       0.0%             2.9%           2.7%
+ For sale only                                             17.0%             7.8%           6.4%
+ Sold, not occupied                                         0.0%             4.1%           4.1%
+ For seasonal, recreational, or occasional use             42.0%            51.7%          43.7%
+ For migrant workers                                        0.0%             0.0%           0.0%
+ Other vacant                                              41.0%            22.1%          27.1%
+                                                                         Source: 2019-2023 5-Year ACS
+
+The housing stock in Little Silver is composed overwhelmingly of single-family homes, 98.2% (Table 20).
+This far outstrips the respective shares for New Jersey and Monmouth County, 75.6% and 62.7%,
+respectively. Most of the one-family residences are detached houses, which account for 85.5% of housing,
+while a sizable number of homes are one-family attached residences, 12.2%. Multifamily buildings with 5
+to 9 units account for the remaining 1.6% of homes.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                               PAGE 11
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 48 of 62 Trans ID: LCV20251751368
+
+
+
+
+Table 20: Units in Structure
+
+                                                    Monmouth
+       Housing Type             Little Silver                    New Jersey
+                                                     County
+
+ 1, detached                       85.5%             66.1%            52.7%
+ 1, attached                       12.2%              9.5%            10.0%
+ 2                                  0.0%              2.8%             8.6%
+ 3 or 4                             0.7%              3.6%             6.1%
+ 5 to 9                             1.6%              3.7%             4.7%
+ 10 to 19                           0.0%              4.1%             4.9%
+ 20 to 49                           0.0%              2.6%             4.2%
+ 50 or more                         0.0%              6.5%             7.9%
+ Mobile home                        0.0%              1.1%             0.9%
+ Boat, RV, van, etc.                0.0%              0.0%             0.0%
+                                                Source: 2019-2023 5-Year ACS
+
+In Little Silver, even the rental stock is comprised of single-family homes, with a little over half of rentals,
+53.3%, located in one-family detached residences while the remainder, 46.4%, are in one-family attached
+structures. As for owner-occupied housing, 88.2% of homes are in one-family detached residences (Table
+21). A further 9.3% is in one-family attached houses while 1.8% are in buildings of 5 to 9 units.
+
+Table 81: Units in Structure by Tenure
+                                    Little Silver            Monmouth County              New Jersey
+      Housing Type             Owner-   Renter-           Owner-          Renter-    Owner-   Renter-
+                              Occupied Occupied          Occupied        Occupied   Occupied Occupied
+
+ 1, detached                    88.2%         53.6%          82.9%         18.3%      77.1%        11.7%
+ 1, attached                     9.3%         46.4%           9.6%          8.8%      10.2%         8.4%
+ 2                               0.0%          0.0%           0.7%          8.6%       4.6%        15.5%
+ 3 or 4                          0.8%          0.0%           0.9%         11.3%       1.7%        13.8%
+ 5 to 9                          1.8%          0.0%           1.5%         10.4%       1.4%        10.6%
+ 10 to 19                        0.0%          0.0%           1.3%         12.5%       1.2%        11.4%
+ 20 to 49                        0.0%          0.0%           0.8%          8.2%       1.0%         9.7%
+ 50 or more                      0.0%          0.0%           1.3%         20.9%       1.8%        18.4%
+ Mobile home                     0.0%          0.0%           1.0%          1.0%       1.1%         0.4%
+ Boat, RV, van, etc.             0.0%          0.0%           0.0%          0.0%       0.0%         0.1%
+ Total                         100.0%        100.0%          100.0%       100.0%      100.0%      100.0%
+                                                                               Source: 2019-2023 5-Year ACS
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                                PAGE 12
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 49 of 62 Trans ID: LCV20251751368
+
+
+
+
+As mentioned above, most of Little Silver’s population growth occurred during the second half of the
+twentieth century. Still, the borough has a relatively large share of homes built before 1940, 17.0%,
+compared to 13.5% in Monmouth County (Table 22). A further 5.0% built in the 1940s (Table 22).
+Development did not begin in earnest until the 1950s, when 29.0% of present-day residences were built.
+An additional 16.9% of homes in Little Silver were built in the 1960s. Housing construction subsequently
+slowed, with 8.2% of homes built in the 1970s, 4.5% in the 1980s, and 8.5% in the 1990s. Just over a tenth
+of the housing stock was erected in the twenty-first century, as 3.7% of units date to the 2000s and 7.2%
+to the 2010s.
+
+Table 92: Year Structure Built
+                                                    Monmouth
+    Year Structure Built          Little Silver                    New Jersey
+                                                     County
+
+ Built 2020 or later                   0.0%             0.6%           0.6%
+ Built 2010 to 2019                    7.2%             5.8%           5.8%
+ Built 2000 to 2009                    3.7%             9.4%           9.1%
+ Built 1990 to 1999                    8.5%            11.3%           9.1%
+ Built 1980 to 1989                    4.5%            15.8%          11.9%
+ Built 1970 to 1979                    8.2%            13.2%          12.4%
+ Built 1960 to 1969                   16.9%            14.0%          13.0%
+ Built 1950 to 1959                   29.0%            12.3%          14.1%
+ Built 1940 to 1949                    5.0%             4.2%           6.7%
+ Built 1939 or earlier                17.0%            13.5%          17.5%
+                                                    Source: 2019-2023 5-Year ACS
+
+Homes in Little Silver are large relative to the housing stock in the rest of the county and state. Overall,
+58.7% of homes in the municipality have four bedrooms or more (Table 23). This surpasses the respective
+figures for New Jersey and Monmouth County, 25.6% and 35.7%. Another 31.5% of homes have three
+bedrooms. Only 9.8% of residences have two bedrooms or less. In contrast, 35.3% of homes in Monmouth
+County have two bedrooms or less, while statewide, the figure is 42.7%,
+
+Table 23: Number of Bedrooms, Housing Stock
+
+                                                      Monmouth
+       Total Bedrooms               Little Silver                      New Jersey
+                                                       County
+
+ No bedroom                            0.0%              1.7%             3.0%
+ 1 bedroom                             0.0%             12.6%            14.2%
+ 2 bedrooms                            9.8%             21.0%            25.5%
+ 3 bedrooms                            31.5%            29.0%            31.8%
+ 4 bedrooms                            43.4%            26.5%            19.7%
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                          PAGE 13
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 50 of 62 Trans ID: LCV20251751368
+
+
+
+
+                                                       Monmouth
+       Total Bedrooms               Little Silver                       New Jersey
+                                                        County
+
+ 5 or more bedrooms                    15.3%               9.2%             5.9%
+                                                          Source: 2009-2013 5-Year ACS
+
+The total rooms data from the American Community Survey also indicates that housing in Little Silver
+tends to be relatively spacious. Approximately three in ten homes, 29.4%, have nine or rooms (Table 24).
+Overall, the median Little Silver residence has 8 rooms. Countywide, the median number of rooms per
+unit is only 6.4 rooms, with only 21.3% of residences having 9 units or more. At the state level, the median
+number of rooms per unit is 5.7 rooms while only 15.2% of housing units have 9 rooms or more. The data
+do indicate a scarcity of less spacious options. Homes with five rooms or less account for just 6.4% of units
+in the borough compared to 37.3% of units countywide. The community’s single-family character and high
+incomes surely contribute to the expansiveness of the homes built in the borough.
+
+Table 24: Number of Rooms Per Home
+                                                    Monmouth
+       Total Rooms              Little Silver                      New Jersey
+                                                     County
+
+ 1 room                             0.0%                1.6%           2.7%
+ 2 rooms                            0.0%                2.6%           3.0%
+ 3 rooms                            0.0%                8.1%          10.5%
+ 4 rooms                            1.5%               12.1%          15.2%
+ 5 rooms                            4.9%               12.9%          15.8%
+ 6 rooms                            8.5%               14.6%          15.4%
+ 7 rooms                           17.3%               13.0%          12.0%
+ 8 rooms                           38.3%               13.9%          10.4%
+ 9 rooms or more                   29.4%               21.3%          15.2%
+ Median rooms                        8.0                 6.4            5.7
+                                                    Source: 2019-2023 5-Year ACS
+
+The borough’s housing stock is in excellent condition (Table 25). This is most apparent in the metric for
+overcrowding. The survey found no homes had an occupants per room ratio greater than 1. Although
+0.9% of households lacked complete kitchen facilities, the Census found that no Little Silver households
+lacked complete plumbing facilities or telephone service. or kitchen facilities. Similarly, no households
+lacked fuel for heating their home. The vast majority of homes are supplied with natural gas from a utility,
+88.6%, while 5.6% are heated with electricity. The remaining 4.4% of households use oil for heating.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                           PAGE 14
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 51 of 62 Trans ID: LCV20251751368
+
+
+
+
+Table 25: Housing Quality Indicators
+
+                                                             Monmouth
+            Home Heating Fuel                Little Silver                  New Jersey
+                                                              County
+
+ Utility gas                                    88.6%           80.9%          73.3%
+ Bottled, tank, or LP gas                        0.8%            1.7%           2.5%
+ Electricity                                     5.6%           12.9%          15.6%
+ Fuel oil, kerosene, etc.                        4.4%            3.3%           6.8%
+ Coal or coke                                    0.0%            0.0%           0.0%
+ Wood                                            0.0%            0.1%           0.3%
+ Solar energy                                    0.0%            0.2%           0.2%
+ Other fuel                                      0.6%            0.4%           0.5%
+ No fuel used                                    0.0%            0.5%           0.8%
+             Lacking facilities
+ Lacking complete plumbing facilities           0.0%            0.2%            0.3%
+ Lacking complete kitchen facilities            0.9%            0.8%            0.8%
+ No telephone service available                 0.0%            0.8%            0.9%
+           Occupants Per Room
+ 1.00 or less                                  100.0%           98.3%          96.3%
+ 1.01 to 1.50                                   0.0%             1.2%           2.4%
+ 1.51 or more                                   0.0%             0.5%           1.3%
+                                                             Source: 2019-2023 5-Year ACS
+
+Most householders moved into their home during the twenty-first century. In total, 74.6% of
+householders moved into their home since the beginning of 2000 (Table 26). Approximately 22.5% of
+householders have moved into their dwelling since 2017. Almost a third, 32.5%, moved into their homes
+between 2010 and 2017 while 18.7% moved in between 2000 and 2009. Just over a quarter of
+householders, 26.4%, moved into their present home before the turn of the century. More than half of
+these householders, 15.5% of householders overall, moved into their residence in the 1990s while just
+over a tenth of householders, 10.9%, have been in their house since before 1990.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                    PAGE 15
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 52 of 62 Trans ID: LCV20251751368
+
+
+
+
+Table 26: Year Moved In
+                                                             Monmouth
+           Year Moved In                 Little Silver                     New Jersey
+                                                              County
+
+ Moved in 2021 or later                       3.7%             6.8%           8.3%
+ Moved in 2018 to 2020                       18.8%            18.8%          20.6%
+ Moved in 2010 to 2017                       32.5%            28.6%          28.6%
+ Moved in 2000 to 2009                       18.7%            19.5%          19.2%
+ Moved in 1990 to 1999                       15.5%            14.2%          11.4%
+ Moved in 1989 and earlier                   10.9%            12.1%          11.9%
+                                                         Source: 2009-2013 5-Year ACS
+
+
+
+HOUSING MARKET ANALYSIS
+A relatively high percentage of homeowners in Little Silver, 72.3%, have a mortgage (Table 27). This well
+surpasses the figure for Monmouth County, 64.4%. Only 26.7% of homeowners in the borough do not
+have a mortgage.
+
+Table 27: Mortgage Status
+
+                                                               Monmouth
+           Mortgage Status                   Little Silver                    New Jersey
+                                                                County
+
+ With a mortgage                                72.3%             64.4%          64.4%
+ Without a mortgage                             27.7%             35.6%          35.6%
+                                                               Source: 2019-2023 5-Year ACS
+
+Home values in Little Silver are enviable (Table 28). Overall, 36.6% homes are valued in excess of
+$1,000,000, more than three times the share for Monmouth County, 11.3%, and almost six times the
+statewide share of 6.6%. An additional 25.9% have a value of at least $750,000 and less than $1,000,000.
+In other words, 62.5% of owner-occupied residences are valued at $750,000 or above. By comparison,
+only 26.7% of owner-occupied homes in Monmouth County have a value of at least $750,000. Another
+quarter of homes in the borough, 25.1%, have a value between $500,000 and $749,999. As for the
+remaining homes, only 12.4% have a value of less than $500,000, far below the corresponding figures for
+the county and state, 41.5% and 61.8%, respectively. Needless to say, the median home value in Little
+Silver, $870,700, outdistances the median values for New Jersey and Monmouth County, $427,600 and
+$566,500, by a considerable degree.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                       PAGE 16
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 53 of 62 Trans ID: LCV20251751368
+
+
+
+
+Table 28: Home Values
+
+                                                               Monmouth
+              Home Value                       Little Silver                    New Jersey
+                                                                County
+
+ Less than $100,000                               2.3%             3.1%            4.4%
+ $100,000 to $299,999                             1.5%             9.2%           23.6%
+ $300,000 to $499,999                             8.6%            29.2%           33.8%
+ $500,000 to $749,999                            25.1%            31.7%           23.0%
+ $750,000 to $999,999                            25.9%            15.4%            8.6%
+ $1,000,000 or more                              36.6%            11.3%            6.6%
+ Median home value                              $870,700         $566,500        $427,600
+                                                               Source: 2019-2023 5-Year ACS
+
+Home prices have surged in the last decade, particularly in the last five years. Since 2016, when the
+average sales price was $623,024, prices have risen by 53.5%. As of 2024, the average sales price stood at
+$956,310 (Table 29). Prices have soared throughout Monmouth County, climbing by 73.7% since 2015.
+Meanwhile, the volume of homes sold has plunged in borough and county alike. The decline has been
+especially marked in Little Silver. In each of the last four years, the number of home sales has been below
+the levels recorded prior to the pandemic. Countywide, 2,750 homes were sold in 2024, the lowest level
+in over a decade. Given that home prices are skyrocketing, the decline in home sales must be because
+fewer homeowners are moving. If fewer homes are put on the market, then home prices will probably
+maintain their rise.
+
+Table 29: Home Sales
+                         Little Silver                    Monmouth County
+   Year          Total                                 Total
+                              Avg Sales Price                      Avg Sales Price
+                 Sales                                 Sales
+
+   2015            81            $678,844              6,146          $478,821
+   2016            38            $623,024              3,029          $483,506
+   2017            42            $693,495              3,679          $495,743
+   2018            55            $712,531              3,813          $533,873
+   2019            47            $702,315              3,558          $512,214
+   2020            47            $748,983              3,357          $544,180
+   2021            34            $802,216              4,407          $638,158
+   2022            20            $730,615              3,600          $677,266
+   2023            15           $1,011,633             2,776          $729,440
+   2024            25            $956,310              2,760          $831,577
+                                         Source: NJ Division of Taxation, NJ Treasury
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                         PAGE 17
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 54 of 62 Trans ID: LCV20251751368
+
+
+
+
+The rise in home values has affected home assessments as well. Since 2016, the average assessment has
+risen from $647,339 to $920,326 (Table 30). The rise keeps assessed values in line with the sharp increase
+in home prices. A similar trend has played out in Monmouth County as a whole, as the average residential
+assessment increased to $715,263 in 2024.
+
+Table 100: Residential Tax Assessments
+
+               Total Lots,        Average         Total Lots,              Average
+   Year
+               Little Silver     Assessment    Monmouth County            Assessment
+
+   2016           2,326            $647,339          211,934               $445,876
+   2020           2,351            $682,951          213,716               $503,341
+   2024           2,347            $920,326          214,709               $715,263
+                                              Source: NJ Division of Taxation, NJ Treasury
+
+The share of households that are deemed cost-burdened, those spending 30% or more of household
+income on housing costs, is below the share in the wider county, with 23.9% of Little Silver households
+cost-burdened compared to 30.2% in Monmouth County (Table 31). Another 20.4% of households spend
+between 20% and 29% of their income on housing. More than half of households in the borough, 55.1%,
+spend less than 20% of their income on housing costs, a higher share than in Monmouth County, where
+41.9% of households spend less than 20% of their income on housing.
+
+Table 31: Burden of Housing Costs, All Households
+
+                                                                      Monmouth
+    Housing Costs as % of Household Income           Little Silver                     New Jersey
+                                                                       County
+
+ Less than 20% of household income                      55.1%            41.9%               39.3%
+ 20 to 29% of household income                          20.4%            21.6%               22.9%
+ 30% or more of household income                        23.9%            34.5%               35.7%
+ Zero or negative income                                 0.0%             0.7%                1.1%
+ No cash rent                                            0.7%             1.2%                1.1%
+                                                                      Source: 2019-2023 5-Year ACS
+
+Homeowners are under less financial strain than renters. Of all homeowners, a quarter, 25.0%, spend at
+least 30% of their income on housing (Table 32). Of the remaining households, 54.6% spend less than 20%
+of their income on housing, above the share for Monmouth County, while 20.5% of homeowners allocate
+between 20% and 29% of their income towards the cost of housing.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                            PAGE 18
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 55 of 62 Trans ID: LCV20251751368
+
+
+
+
+Table 112: Burden of Housing Costs, Owner-Occupied Housing
+
+                                                                             Monmouth
+    Housing Costs as % of Household Income                   Little Silver                    New Jersey
+                                                                              County
+
+ Less than 20% of household income                              54.6%           49.4%            48.1%
+ 20 to 29% of household income                                  20.5%           22.7%            22.7%
+ 30% or more of household income                                25.0%           27.2%            28.5%
+ Zero or negative income                                         0.0%            0.7%             0.6%
+                                                                                 Source: 2019-2023 5-Year ACS
+
+In terms of monthly costs, 86.8% of households with a mortgage pay $3,000 or more on housing (Table
+33). This greatly outpaces the comparable rate for Monmouth County, 51.2%. The median monthly cost
+of housing, $3,936, significantly outstrips the countywide media, $3,037. Steep housing costs are an issue
+that plagues all of New Jersey, where the median monthly cost for homeowners with a mortgage is $2,767.
+
+Table 33: Monthly Costs, Homeowners with a Mortgage
+                                                             Monmouth
+       Monthly housing costs                 Little Silver                   New Jersey
+                                                              County
+
+ Less than $500                                 0.0%            0.2%            0.4%
+ $500 to $999                                   0.0%            1.3%            1.8%
+ $1,000 to $1,499                               0.0%            4.6%            6.6%
+ $1,500 to $1,999                               4.6%            9.9%           13.7%
+ $2,000 to $2,499                               5.4%           16.0%           17.7%
+ $2,500 to $2,999                               3.1%           16.8%           17.0%
+ $3,000 or more                                86.8%           51.2%           42.7%
+ Median monthly housing cost                   $3,936          $3,037          $2,787
+                                                             Source: 2019-2023 5-Year ACS
+
+Monthly housing costs are necessarily lower for those households without a mortgage. Still, housing costs
+are relatively high for these households as well. These expenditures go towards taxes, insurance
+payments, utilities, and other fees. In all, 82.9% of Little Silver households without a mortgage pay $1,000
+per month or more in housing costs (Table 34). This exceeds the countywide share of 75.9% and the
+statewide share of 67.1%. For homeowners without a mortgage, the median monthly cost is so high that
+the Census’s data application simply defaults to an assigned value, ‘$1,500+’. Of remaining households,
+5.5% of spend between $800 and $1,000 per month on housing while 11.6% spend between $600 and
+$800 a month.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                                 PAGE 19
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 56 of 62 Trans ID: LCV20251751368
+
+
+
+
+Table 34: Monthly Costs, Homeowners without a Mortgage
+
+                                                             Monmouth
+        Monthly housing costs                Little Silver                  New Jersey
+                                                              County
+
+ Less than $250                                 0.0%            2.0%            1.9%
+ $250 to $399                                   0.0%            1.3%            2.6%
+ $400 to $599                                   0.0%            3.0%            5.0%
+ $600 to $799                                  11.6%            5.3%            8.8%
+ $800 to $999                                   5.5%           12.5%           14.6%
+ $1,000 or more                                82.9%           75.9%           67.1%
+ Median monthly housing costs                 $1,500+          $1,312          $1,205
+                                                             Source: 2019-2023 5-Year ACS
+
+Interestingly, the American Community Survey found no households in renter-occupied housing who were
+cost-burdened (Table 35). In comparison, 49.9% of renting households countywide are cost-burdened.
+Roughly two-thirds of renters, 66.0%, spend less than 20% of their income on housing costs. Meanwhile,
+18.6% of households spend between 20% and 29% of their income on housing costs. It is important to
+note that 15.5% of households in renter-occupied housing do not have cash rent.
+
+Table 35: Burden of Housing Costs, Renter-Occupied Housing
+
+                                                                         Monmouth
+   Housing Costs as % of Household Income                Little Silver                  New Jersey
+                                                                          County
+
+ Less than 20% of household income                           66.0%          22.8%           23.8%
+ 20 to 29% of household income                               18.6%          21.7%           23.1%
+ 30% or more of household income                              0.0%          49.9%           48.3%
+ Zero or negative income                                      0.0%           1.7%            1.9%
+ No cash rent                                                15.5%           3.9%            2.9%
+                                                                         Source: 2019-2023 5-Year ACS
+
+The financial stability renters enjoy is not due to Little Silver landlords asking for lower rents. As a matter
+of fact, the median rent is so high that the Census web application again defaulted to an assigned value,
+‘$3,500+’ (Table 36). In other words, the median rent is more than twice the median for New Jersey as a
+whole, $1,653. All told, 54.4% of renting households spend at least $3,000 a month on housing. This
+dwarfs the share who pay such a sum in the county as a whole, 9.2%.
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                               PAGE 20
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 57 of 62 Trans ID: LCV20251751368
+
+
+
+
+Table 36: Gross Rent
+
+                                                      Monmouth
+          Gross Rent                Little Silver                    New Jersey
+                                                       County
+
+ Less than $500                          23.2%           6.8%           6.3%
+ $500 to $999                            0.0%            5.8%           8.7%
+ $1,000 to $1,499                        22.0%          23.2%          26.3%
+ $1,500 to $1,999                        0.0%           26.2%          28.5%
+ $2,000 to $2,499                        0.0%           18.4%          15.9%
+ $2,500 to $2,999                        0.0%           10.4%           6.7%
+ $3,000 or more                          54.9%           9.2%           7.6%
+ Median rent                            $3,500+         $1,771         $1,653
+                                                     Source: 2019-2023 5-Year ACS
+
+
+
+DEVELOPMENT TRENDS
+In the last 20 years, Borough staffers have approved building permits on average for the construction of
+12 housing units annually (Table 37). On an average basis at least, the rate at which permitting has
+occurred has marginally slowed in the past decade, with building permits for 10 housing units approved
+per year.
+
+Table 37: Total Housing Permits Issued Per Year, 2004-2023
+
+                                              Monmouth
+           Year               Little Silver                      New Jersey
+                                               County
+
+           2004                    10               2,461          39,238
+           2005                    23               2,581          39,688
+           2006                    10               2,009          32,048
+           2007                    13               1,939          25,948
+           2008                    13               1,200          16,338
+           2009                    18                896           11,145
+           2010                     4                806           11,885
+           2011                    10                806           11,882
+           2012                     7               1,034          15,270
+           2013                    36               1,425          18,795
+           2014                    18               1,367          22,896
+           2015                    40               1,176          19,503
+           2016                     5               1,901          24,170
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                      PAGE 21
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 58 of 62 Trans ID: LCV20251751368
+
+
+
+
+                                                  Monmouth
+           Year               Little Silver                      New Jersey
+                                                   County
+
+         2017                       10              1,729             25,961
+         2018                        7              1,828             26,048
+         2019                        2              1,262             30,770
+         2020                        4              1,642             26,680
+         2021                        6              1,622             30,044
+         2022                        5              1,384             31,792
+         2023                        6              1,663             21,682
+    10 Year Average                 10              1,545             25,304
+    20-Year Average                 12              1,537             24,089
+                                         Source: NJ Dept. of Community Affairs
+
+All but one of the housing permits issued since 2004 have been for one- and two-family residences (Table
+38). This deviates sharply from regional and state-level building patterns. Over the last 10 years for which
+we have data, multifamily development accounted for 37.7% of the building permits issued on by
+Monmouth County municipalities on an average annual basis. Statewide, multifamily projects have been
+responsible for 62.7% of homes permitted in the last decade.
+
+Table 38: Total Housing Permits Issued by Type, 2004-2023
+                        Little Silver                    Monmouth County                     New Jersey
+
+   Year        1-2                       Mixed-     1-2                   Mixed-     1-2                   Mixed-
+                       Multifamily                          Multifamily                      Multifamily
+              Units                       Use      Units                   Use      Units                   Use
+
+   2004        10            0               0     2,012       437             12   27,103     11,383       752
+   2005        23            0               0     1,883       681             17   26,715     12,687       286
+   2006        10            0               0     1,340       666             3    20,090     11,760       198
+   2007        13            0               0     1,025       892             22   14,235     11,553       160
+   2008        13            0               0     798         364             38   8,960      7,102        276
+   2009        18            0               0     663         229             4    6,776      4,309        60
+   2010         4            0               0     616         190             0    6,934      4,733        218
+   2011        10            0               0     636         170             0    6,236      5,184        462
+   2012         7            0               0     660         366             8    6,700      8,527        43
+   2013        34            0               2     1,198       217             10   9,666      8,998        131
+   2014        17            0               0     1,009       334             24   10,678     11,909       309
+   2015        40            0               0     829         340             7    9,470      9,989        44
+   2016         5            0               0     833        1,057            11   8,885      15,217       68
+   2017        10            0               0     912         792             25   9,201      16,146       614
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                                    PAGE 22
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 59 of 62 Trans ID: LCV20251751368
+
+
+
+
+                           Little Silver                   Monmouth County                   New Jersey
+
+   Year        1-2                         Mixed-    1-2                   Mixed-    1-2                   Mixed-
+                           Multifamily                       Multifamily                     Multifamily
+              Units                         Use     Units                   Use     Units                   Use
+
+   2018         7               0              0    860         958          10     9,026      16,811       211
+   2019         2               0              0    785         471          6      8,954      21,762        54
+   2020         4               0              0    911         716          15     8,673      17,950        57
+   2021         6               0              0    1,064       556          2      10,479     19,471        94
+   2022         5               0              0    1,093       280          11     9,163      21,913       716
+   2023         6               0              0    1,291       368          4      9,552      11,538       592
+ 10-Year
+               10               0              0    959         587          12     9,408      16,271       276
+ Average
+ 20-Year
+               12               0              0    1,021       504          11     11,375     12,447       267
+ Average
+                                                                             Source: NJ Dept. of Community Affairs
+
+Over the last two decades, Little Silver has issued an average of 7 demolition permits for homes annually
+(Table 39). One- and two-family dwellings accounted for most of the demolished units, but some units in
+mixed-use buildings were demolished as well. In total, permits have been approved for the demolition of
+131 one- and two-family units and 9 mixed-use units, or 140 units overall. It should be observed that
+demolition permits been approved in spurts, with spikes in the number of permits occurring in 2013, 2017,
+and 2021.
+
+Table 39: Demolition Permits, 2004-2023
+                                                    Mixed-
+   Year        1-2 Family           Multifamily                  Total
+                                                     Use
+   2004               5                    0           0          5
+   2005               6                    0           0          6
+   2006               4                    0           0          4
+   2007               8                    0           0          8
+   2008               4                    0           0          4
+   2009               2                    0           0          2
+   2010               4                    0           0          4
+   2011               7                    0           0          7
+   2012               6                    0           0          6
+   2013               21                   0           4          25
+   2014               5                    0           5          10
+   2015               7                    0           0          7
+   2016               5                    0           0          5
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                                    PAGE 23
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 60 of 62 Trans ID: LCV20251751368
+
+
+
+
+                                                Mixed-
+   Year        1-2 Family       Multifamily                 Total
+                                                 Use
+  2017              10                0            0          10
+  2018              7                 0            0          7
+  2019              3                 0            0          3
+  2020              2                 0            0          2
+  2021              18                0            0          18
+  2022              4                 0            0          4
+  2023              3                 0            0          3
+  Total            131                0            9         140
+ 10-Year
+                   6.4                0           0.5        6.9
+ Average
+ 20-Year
+                   6.55               0          0.45         7
+ Average
+                                Source: NJ Dept of Community Affairs
+
+
+Adjusting for demolition, the municipality has permitted, on net, an average of 5.35 housing units annually
+since 2004 (Table 41). If measured by housing type, 5.65 one- and two-family homes were permitted on
+net while there was a net loss of mixed-use units, with -0.35 units lost per year. The housing stock has
+expanded more slowly in the most recent decade, when 3.4 homes were permitted every year on average.
+
+Table 121: Net Housing Permits, 2004-2023
+                                                Mixed-
+   Year        1-2 Family       Multifamily                 Total
+                                                 Use
+   2004             5                 0             0               5
+   2005             17                0             0              17
+   2006             6                 0             0               6
+   2007             5                 0             0               5
+   2008             9                 0             0               9
+   2009             16                0             0              16
+   2010             0                 0             0               0
+   2011             3                 0             0               3
+   2012             1                 0             0               1
+   2013             13                0            -2              11
+   2014             12                0            -5               8
+   2015             33                0             0              33
+   2016             0                 0             0               0
+   2017             0                 0             0               0
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                         PAGE 24
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 61 of 62 Trans ID: LCV20251751368
+
+
+
+
+                                                   Mixed-
+   Year        1-2 Family          Multifamily                    Total
+                                                    Use
+  2018                0                  0               0                 0
+  2019               -1                  0               0                -1
+  2020                2                  0               0                 2
+  2021              -12                  0               0              -12
+  2022                1                  0               0                 1
+  2023                3                  0               0                 3
+  Total             113                  0              -7            107
+ 10-Year
+                    3.8                  0           -0.5             3.4
+ Average
+ 20-Year
+                    5.65                 0          -0.35          5.35
+ Average
+                                   Source: NJ Dept of Community Affairs
+
+
+A relatively small amount of nonresidential development has been constructed in Little Silver during the
+twenty-first century (Table 42). Most years come and go without any office construction. When office
+construction does occur, the borough typically permits less than 10,000 square feet of new office space
+annually. On average, 630 square feet of office space has been permitted in the last 20 years. Meanwhile,
+no retail construction has been permitted in the borough in the last two decades. Other types of
+nonresidential development have been constructed, albeit only modest amount. Overall, an average of
+4,730 square feet of nonresidential construction has occurred per year, excluding office, retail, and
+multifamily uses.
+
+Table 132: Building Permits, Nonresidential Construction, 2004-2023
+                      Little Silver                Monmouth County
+   Year
+             Office       Retail      Other    Office        Retail         Other
+
+   2004         0           0          796     776,676       380,576     2,660,341
+   2005       4,903         0         2,261    672,563       531,289     1,305,901
+   2006         0           0         6,275    937,008       197,248     2,316,072
+   2007         0           0         3,481    968,794       400,940     1,505,602
+   2008         0           0         1,752    318,481       414,612        896,526
+   2009         0           0          112     293,900       61,926      1,107,128
+   2010       3,374         0         1,430    343,680       282,233        594,300
+   2011         0           0          591     320,603       104,300        563,100
+   2012         0           0         3,261    249,063       233,940        752,636
+   2013         0           0         16,370   340,222       177,855        674,444
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                       PAGE 25
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+    MON-L-000357-25 06/13/2025 10:25:20 AM Pg 62 of 62 Trans ID: LCV20251751368
+
+
+
+
+                      Little Silver                    Monmouth County
+   Year
+             Office     Retail        Other       Office     Retail       Other
+
+   2014         0          0            0        282,481    312,136      579,801
+   2015         0          0          2,800      384,157    160,413      648,336
+   2016         0          0           480       547,984    145,787     1,651,202
+   2017         0          0          27,796     412,057    110,882     1,523,056
+   2018         0          0            0        414,509    265,417     1,438,184
+   2019        320         0            0        306,076    115,411      979,768
+   2020         0          0          27,200     374,497    169,029      984,296
+   2021         0          0            0        641,091     34,786     3,417,673
+   2022         0          0            0        193,054     16,849     1,795,919
+   2023       4,000        0            0        380,772    173,552     1,224,061
+ 20-Year
+               630         0          4,730      457,883    214,459     1,330,917
+ Average
+                           *Excludes multifamily and dormitory construction
+                                               Source: NJ Dept. of Community Affairs
+
+
+
+PLANNING PROJECTIONS
+Monmouth County is served by the North Jersey Transportation Planning Authority (NJTPA), one of New
+Jersey’s three metropolitan planning organizations. NJTPA calculates population and employment
+projections to anticipate the long-range planning needs of the North Jersey portion of the New York
+metropolitan area.
+
+The agency forecasts that Little Silver and Monmouth County will have lower population and household
+growth than the rest of NJTPA coverage area (Table 43). Specifically, Little Silver is projected to have an
+annualized growth of 0.19% for households and 0.13% for population. The forecast growth is lower for
+population as household sizes are expected to increase, which would continue a decades-long trend. As
+projected, 2,308 households and 6,206 residents would live in the borough by 2050. The forecast growth
+is marginally higher in Monmouth County overall, whose population NJTPA expects to grow by 40,439
+persons and 23,731 households by 2050. This represents an annualized growth rate of 0.27% for
+households and 0.18% for population. The growth rates for the county and borough fall short of those
+forecast for NJTPA’s jurisdiction overall, 0.46% and 0.42%, respectively. The agency also forecasts
+employment in Little Silver to grow at a slower clip than the region overall, with an annualized growth
+rate of 0.23%. This would translate to a net increase of 198 workers
+
+
+
+
+BOROUGH OF LITTLE SILVER, MONMOUTH COUNTY                                                         PAGE 26
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+

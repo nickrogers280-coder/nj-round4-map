@@ -1,0 +1,2147 @@
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 1 of 52 Trans ID: LCV2026679557
+
+
+
+
+Amended Fourth Round (2025 – 2035)
+HOUSING ELEMENT AND FAIR SHARE PLAN
+TOWNSHIP OF EAST BRUNSWICK
+Middlesex County, New Jersey
+
+Prepared for:
+Township of East Brunswick
+Planning Board
+1 Jean Walling Civic Center Drive
+East Brunswick, New Jersey 08816
+
+Prepared by:
+Phillips Preiss Grygiel Leheny Keller LLC
+Planning and Real Estate Consultants
+70 Hudson Street, Suite 5B
+Hoboken, New Jersey 07030
+
+
+Adopted by the Township of East Brunswick Planning Board:
+
+
+
+
+__________________________
+Kate Keller, PP, AICP
+New Jersey Professional Planner License #6280
+
+
+The original copy of this document was signed and sealed in
+accordance with N.J.S.A. 45:14 A-1 et seq.
+                  MID-L-000119-25 03/16/2026 12:21:37 PM Pg 2 of 52 Trans ID: LCV2026679557
+
+
+
+
+TABLE OF CONTENTS
+Introduction
+I.         Affordable Housing in New Jersey and East Brunswick ...........................................................................3
+      A.       Mount Laurel I & Mount Laurel II........................................................................................................................................ 3
+      B.       Fair Housing Act & Establishment of COAH ....................................................................................................................... 3
+      C.       COAH Third Round................................................................................................................................................................ 3
+      D.       Amended Fair Housing Act & Fourth Round ...................................................................................................................... 4
+II.        Housing Element/Fair Share Plan Requirements.....................................................................................6
+III.       Housing Stock and Demographic Analysis ................................................................................................7
+      A.       Housing Stock Inventory ...................................................................................................................................................... 7
+      B.       General Population Characteristics.................................................................................................................................. 11
+      C.       Household Characteristics ................................................................................................................................................ 12
+      D.       Income Characteristics ...................................................................................................................................................... 12
+      E.       Employment Characteristics ............................................................................................................................................. 13
+      F.       Growth Trends and Projections ......................................................................................................................................... 16
+      G.       Multigenerational Housing Continuity.............................................................................................................................. 17
+IV.        East Brunswick Township Fair Share Plan ............................................................................................. 19
+      A.       Satisfaction Of Prior and Third Round Obligation (1987–2025)................................................................................... 19
+      B.       Calculation Of Fourth Round Obligation (2025–2035) ................................................................................................. 23
+      C.       Compliance Plan To Address Fourth Round Obligation (2025–2035) ......................................................................... 26
+      D.       Site Suitability Analysis for 100% Affordable and Inclusionary Sites ............................................................................ 31
+      E.       Realistic Opportunity for Undeveloped Third Round Sites ............................................................................................. 44
+      F.       Applicability of Bonus Credits for the Fourth Round ....................................................................................................... 45
+      G.       Other Requirements of the Amended FHA. ..................................................................................................................... 46
+V.         Consistency with the State Development and Redevelopment Plan................................................... 47
+Appendixes.......................................................................................................................................................... 48
+                MID-L-000119-25 03/16/2026 12:21:37 PM Pg 3 of 52 Trans ID: LCV2026679557
+
+
+
+
+LIST OF TABLES
+Table 1. Housing Units by Occupancy Status, 2023 ............................................................................................................................ 7
+Table 2. Housing Units by Number of Units in Structure, 2023 ............................................................................................................ 7
+Table 3. Housing Units by Age, 2023 .................................................................................................................................................. 8
+Table 4. Housing Units by Number of Rooms for East Brunswick and Middlesex County, 2023 ............................................................ 8
+Table 5. Housing Values, Owner Occupied, 2013 ................................................................................................................................ 9
+Table 6. Housing Values, Owner Occupied, 2023 ................................................................................................................................ 9
+Table 7. Comparison of East Brunswick and Middlesex County, Monthly Rental Cost, 2023 .............................................................. 10
+Table 8. Monthly Housing Costs as % of Household Income in the Past 12 Months – Owner Occupied Housing Units, 2023 .............. 10
+Table 9. Monthly Housing Costs as a % of Household Income in the Past 12 Months – Renter Occupied Housing Units, 2023 ........... 11
+Table 10. Selected Quality Indicators, Occupied Housing Stock, 2023 ............................................................................................. 11
+Table 11. Population Growth ............................................................................................................................................................ 11
+Table 12. Comparison of Age Distribution, 2010-2020 .................................................................................................................... 12
+Table 13. Household and Family Income by Income Brackets for East Brunswick & Middlesex County, 2023 .................................... 13
+Table 14. Employment Status, East Brunswick ................................................................................................................................. 13
+Table 15. Employment by Occupation, East Brunswick, 2023 ........................................................................................................... 14
+Table 16. Distribution of Employment by Industry, East Brunswick Township Residents, 2023........................................................... 14
+Table 17. Distribution by Class of Worker, Township of East Brunswick, 2023 .................................................................................... 14
+Table 18. Private Sector Employment in East Brunswick by Industry Sector, 2012, 2017, 2022 ........................................................ 15
+Table 19. Residential New Building Permits, East Brunswick, 2013-2023 ........................................................................................ 16
+Table 20. Non-Residential Certificates of Occupancy by Square Foot, East Brunswick, 2013-2023 .................................................. 16
+Table 21. Prior Round Affordable Housing Credits. ........................................................................................................................... 19
+Table 22. Credits Applied to Gap Period and Third Round Prospective Need Obligation..................................................................... 20
+Table 23. Township of East Brunswick Fourth Round Affordable Housing Obligation ......................................................................... 25
+Table 24: Satisfying the Fourth Round .............................................................................................................................................. 26
+Table 25: Third Round Undeveloped Inclusionary Sites to Remain in Fourth Round ........................................................................... 44
+ MID-L-000119-25 03/16/2026 12:21:37 PM Pg 4 of 52 Trans ID: LCV2026679557
+
+
+
+
+ACKNOWLEDGMENTS
+TOWNSHIP OF EAST BRUNSWICK
+Mayor and Council
+Mayor Brad J. Cohen
+Dana Zimbicki, Council President
+Dinesh Behal, Councilman Vice President
+Kevin McEvoy, Councilman
+James Wendell, Councilman
+Dana Winston, Councilwoman
+
+Planning Board
+Shawn Taylor, Chair                           Mayor Brad J. Cohen
+Muhammad Hashmi, Vice Chair                   Joseph Criscuolo, Twp. Administrator
+Kevin McEvoy, Council Rep.                    Steve Philips
+Laurence Reiss, Secretary                     Chris Prenovost
+Adam Neary                                    Rick Burghli, Alt. Member
+Mary Pan                                      Maria Mueller, Alt. Member
+
+Staff & Consultants
+Joseph Criscuolo
+Township Administrator
+Susan Fein
+Housing Specialist & Executive Director, East Brunswick Community Housing Corporation
+Keith T. Kipp
+Director of Planning and Engineering
+Anthony Iannucci, Esq.
+Joseph Palombit, Esq.
+Corrine Tighe, Esq.
+Hoagland, Longo, Moran, Dunst & Doukas, LLP
+Township Affordable Housing Counsel
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 5 of 52 Trans ID: LCV2026679557
+
+
+
+
+Introduction
+This Housing Element and Fair Share Plan has been prepared on behalf of the Township of East Brunswick,
+Middlesex County, in accordance with the New Jersey Municipal Land Use Law per N.J.S.A. 40:55D-28b(3) and
+the Fair Housing Act (N.J.S.A. 52:27D-301 [2024]) as amended, applicable rules established by the Council on
+Affordable Housing (“COAH”), and the Administrative Office of the Courts Directive #14-24. This document
+addresses the Township’s plans to address its 2025-2035 obligation to provide its fair share of the regional
+need for affordable housing. This Fourth Round Housing Element and Fair Share Plan will be submitted to the
+Affordable Housing Dispute Resolution Program and subsequently to Superior Court for a determination as to
+its compliance with the requirements.
+
+The Municipal Land Use Law, N.J.S.A. 40:55D-1 et seq., requires that a municipal master plan include a Housing
+Element in order for the municipality to exercise the power to zone and regulate land use. The Housing Element
+and Fair Share Plan is adopted by the Township Planning Board and endorsed by the governing body. It is
+intended to achieve the goal of meeting the Township’s obligation to plan and regulate land use to provide for
+a fair share of the regional need for affordable housing.
+
+East Brunswick remains committed to meeting its constitutional obligation to provide, through its land use
+regulations, a realistic opportunity for a fair share of the region’s present and prospective needs for housing for
+low- and moderate-income families. This Housing Element and Fair Share Plan document outlines how the
+Township will address its affordable housing obligations.
+
+
+
+
+                                                                                                                 2
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 6 of 52 Trans ID: LCV2026679557
+
+
+
+
+I.      Affordable Housing in New Jersey and East Brunswick
+
+A. MOUNT LAUREL I & MOUNT LAUREL II
+In 1975 the Supreme Court of New Jersey issued the decision South Burlington County N.A.A.C.P. v. Township
+of Mount Laurel, 67 N.J. 151 (1975), commonly known as “Mount Laurel I,” which ruled that the developing
+municipalities in the State of New Jersey exercising their zoning power, in general, had a constitutional obligation
+to provide a realistic opportunity for the construction of their fair share of the region’s low- and moderate-income
+housing needs.
+
+In 1983, the Supreme Court refined that constitutional obligation in South Burlington County N.A.A.C.P. v.
+Township of Mount Laurel, 92 N.J. 158 (1983) (“Mount Laurel II”) to apply to those municipalities having any
+portion of their boundaries within the growth area as shown on the State Development Guide Plan.
+
+B. FAIR HOUSING ACT & ESTABLISHMENT OF COAH
+In 1985, the New Jersey Legislature adopted, and the Governor signed, the Fair Housing Act (“FHA”) N.J.S.A.
+52:2D-301 et seq. which transformed the judicial doctrine that had become known as the “Mount Laurel
+doctrine” into a statutory one and provided an alternative administrative process in which municipalities could
+elect to participate in order to establish a Housing Element and Fair Share Plan (“HEFSP”) that would satisfy its
+constitutional obligation by creating an administrative agency known as the Council on Affordable Housing
+(“COAH”) to develop regulations to define the obligation and implement it. COAH proceeded to adopt regulations
+for First Round obligations applicable from 1987 to 1993 and Second Round obligations that created a
+cumulative obligation from 1987 to 1999.
+
+C. COAH THIRD ROUND
+COAH first proposed Third Round substantive and procedural rules in 2003, but due to multiple legal challenges,
+these rules were not adopted until 2008. However, the Third Round rules adopted in 2008 were challenged in
+an appeal entitled In the Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council on
+Affordable Housing, 416 N.J. Super. 462 (App. Div. 2010) (the “2010 Case”). In October 2010, the Appellate
+Division determined, among other things, that the methodology in the rules adopted in 2008 was invalid and
+that COAH should adopt regulations utilizing methodologies similar to the ones utilized in the First and Second
+Rounds, i.e. 1987-1999.
+
+In 2013, the Supreme Court of New Jersey affirmed the Appellate Division’s invalidation of the third iteration of
+the Third Round regulations, sustained their determination that the growth share methodology was invalid, and
+directed COAH to adopt new regulations based upon the methodology utilized in the First and Second Rounds,
+In the Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council on Affordable Housing, 215
+N.J. 578 (2013) (the “2013 Case”). COAH proceeded to propose such regulations in accordance with the
+schedule established by the New Jersey Supreme Court in the 2013 Case. On October 20, 2014, COAH
+deadlocked with a 3-3 vote and failed to adopt the revised Third Round regulations. Due to COAH’s failure to
+adopt the revised regulations and subsequent inaction, Fair Share Housing Center (“FSHC”), a party in the 2010
+Case and the 2013 Case, filed a motion with the New Jersey Supreme Court to enforce litigant’s rights.
+
+On March 10, 2015, the New Jersey Supreme Court issued its decision on FSHC’s motion. In the Matter of the
+Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council on Affordable Housing, 221 N.J. (2015) found that
+
+                                                                                                                  3
+         MID-L-000119-25 03/16/2026 12:21:37 PM Pg 7 of 52 Trans ID: LCV2026679557
+
+
+
+
+the COAH administrative process had become non-functioning and, as a result, returned primary jurisdiction
+over affordable housing matters to the trial courts. In doing so, the Supreme Court declined to adopt a specific
+methodology or formula to calculate the Third Round affordable housing obligations of the municipalities and
+instead set forth a transitional process for municipalities to file a declaratory judgment action with the trial
+courts seeking to declare their housing plans as constitutionally compliant to seek protection and repose from
+exclusionary zoning litigation.
+
+East Brunswick’s Participation in the Third Round
+The 2015 Supreme Court decision recognized that many municipalities attempted to address their affordable
+housing obligations in 2008 by preparing a housing element and fair share plan and petitioning COAH for
+substantive certification of the plan. Through no fault of its own, East Brunswick, like a number of other
+municipalities, did not receive substantive certification of its 2008 plan due to inaction by COAH and
+subsequent legal challenges. Such towns were considered “participating municipalities” and afforded an
+opportunity to prepare a new housing element and fair share plan to address its affordable housing obligations.
+East Brunswick subsequently filed a declaratory judgment with the Superior Court in July 2015 seeking a
+declaration of its compliance with the Mount Laurel doctrine and FHA in accordance with the decision in the
+2015 Case. The Township reached a settlement with FSHC, which was memorialized in an agreement between
+the two parties dated December 29, 2016. East Brunswick subsequently received a Judgment of Compliance
+and Repose from the Superior Court on March 21, 2017.
+
+D. AMENDED FAIR HOUSING ACT & FOURTH ROUND
+On March 20, 2024, Governor Phil Murphy signed into law P.L. 2024, c.2, an Amendment to the 1985 Fair
+Housing Act (hereinafter “Amended FHA” or “Act”). The Amended FHA eliminated COAH, and it set forth
+standards by which the fair share of municipalities must be established for the Fourth Round covering the period
+July 1, 2025, through June 30, 2035, and for subsequent rounds. It also created the Affordable Housing Dispute
+Resolution Program (the “Program”) to oversee disputes and provide for mediation. The Amended FHA also
+established a timeline by which government entities and municipalities are required to act including the
+following:
+
+§                       Per the Amended FHA, the New Jersey Department of Community Affairs (“DCA”) was
+    required to determine the obligation of all municipalities based upon the standards in the Amended FHA
+    and to issue a non-binding report no later than October 20, 2024, setting forth its estimates of each
+    municipality’s non-binding obligation based upon those standards. DCA issued their report setting forth
+    their estimates of each municipality’s non-binding obligation on October 18, 2024.
+§                         The Amended FHA permits municipalities the choice to either accept the DCA
+    determination of their obligation described above, or to provide their own determination based upon the
+    standards in the Amended FHA. Municipalities were required to adopt a binding resolution of its Fourth
+    Round obligation by January 31, 2025. If the municipality met this January 31 deadline, the municipality’s
+    determination of its obligation would be established by default and would bear a presumption of validity
+    beginning on March 1, 2025, as the municipality’s obligation for the fourth round, unless challenged by an
+    interested party on or before February 28, 2025.
+§                       The deadline for an interested party to file a challenge with the Program regarding a
+    municipality’s determination of its Fourth Round obligation was February 28, 2025. Any challenge was
+
+
+                                                                                                              4
+         MID-L-000119-25 03/16/2026 12:21:37 PM Pg 8 of 52 Trans ID: LCV2026679557
+
+
+
+
+    required to state with particularity how the municipal calculation failed to comply with the Amended FHA
+    and include the challenger’s own calculation of the fair share obligations.
+§                     The Program was required to consider a challenge and resolve a dispute initiated by an
+    interested party no later than March 31, 2025.
+§                   A municipality is required to adopt a housing element and fair share plan and propose drafts
+    of the appropriate zoning and other ordinances and resolutions to implement its present and prospective
+    obligations. The plan must be filed with the Program. Any municipality that does not adopt a housing
+    element and fair share plan by June 30, 2025, shall lose its immunity from builders’ remedy lawsuits.
+§                      An interested party may file a challenge with the Program on or before August 31, 2025,
+    alleging that the municipality’s fair share plan and housing element are not in compliance with the Amended
+    FHA or the Mount Laurel doctrine. Any interested party that files a challenge shall specify with particularity
+    which sites or elements of the municipal fair share plan do not comply with the Amended FHA or the Mount
+    Laurel doctrine, and the basis for alleging such noncompliance. If a municipality’s fair share plan and
+    housing element is not challenged on or before August 31, 2025, then the program shall apply an objective
+    standard to conduct a limited review of the fair share plan and housing element for consistency and to
+    determine whether it enables the municipality to satisfy the fair share obligation, applies compliant
+    mechanisms, meets the threshold requirements for rental and family units, does not exceed limits on other
+    unit or category types, and is compliant with the Amended FHA and the Mount Laurel doctrine.
+§                             The program shall facilitate communication between the municipality and any
+    interested parties for a challenge and provide the municipality until December 31, 2025, to commit to
+    revising its fair share plan and housing element in compliance with the changes requested in the challenge,
+    or provide an explanation as to why it will not make all of the requested changes, or both. Upon resolution
+    of a challenge, the program shall issue compliance certification, conditioned on the municipality’s
+    commitment, as necessary, to revise its fair share plan and housing element in accordance with the
+    resolution of the challenge. The program may also terminate immunity if it finds that the municipality is not
+    determined to come into constitutional compliance at any point in the process.
+§                      The requirement to adopt all implementing ordinances to effectuate the HEFSP as set
+    forth in and incorporating any changes from the program, shall be adopted on or before March 15, 2026.
+    Failure to meet the March 15 deadline shall result in the municipality losing immunity from exclusionary
+    zoning litigation.
+This Housing Element and Fair Share Plan has been prepared pursuant to all applicable laws and regulations
+and addresses East Brunswick’s affordable housing compliance.
+
+
+
+
+                                                                                                                5
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 9 of 52 Trans ID: LCV2026679557
+
+
+
+
+II. Housing Element/Fair Share Plan Requirements
+In accordance with the Municipal Land Use Law (N.J.S.A 40:55D-1, et seq.), a municipal Master Plan must
+include a housing element as the foundation for the municipal zoning ordinance. Pursuant to the Amended Fair
+Housing Act, a municipality’s housing element must be designed to provide access to affordable housing to
+meet present and prospective housing needs, with particular attention to low- and moderate-income housing.
+The housing element must contain at least the following, as per the Amended FHA at N.J.S.A. 52:27D-310:
+a. An inventory of the municipality’s housing stock by age, condition, purchase or rental value, occupancy
+   characteristics, and type, including the number of units affordable to low- and moderate-income households
+   and substandard housing capable of being rehabilitated;
+b. A projection of the municipality’s housing stock, including the probable future construction of low- and
+   moderate-income housing, for the next ten years, taking into account, but not necessarily limited to,
+   construction permits issued, approvals of applications for development, and probable residential
+   development of lands;
+c. An analysis of the municipality’s demographic characteristics, including, but not necessarily limited to,
+   household size, income level, and age;
+d. An analysis of the existing and probable future employment characteristics of the municipality;
+e. A determination of the municipality’s present and prospective fair share of low- and moderate- income
+   housing and its capacity to accommodate its present and prospective housing needs, including its fair share
+   for low- and moderate-income housing as established pursuant to section 3 of P.L.2024, c.2 (C.52:27D-
+   304.1);
+f.   A consideration of the lands that are most appropriate for construction of low- and moderate-income
+     housing and of the existing structures most appropriate for conversion to, or rehabilitation for, low- and
+     moderate-income housing, including a consideration of lands of developers who have expressed a
+     commitment to provide low- and moderate-income housing;
+g. An analysis of the extent to which municipal ordinances and other local factors advance or detract from the
+   goal of preserving multigenerational family continuity as expressed in the recommendations of the
+   Multigenerational Family Housing Continuity Commission, pursuant to N.J.S.A. 52:27D-329.20f.(1);
+h. For a municipality located within the jurisdiction of the Highlands Water Protection and Planning Council1,
+   established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an analysis of compliance of the housing
+   element with the Highlands Regional Master Plan of lands in the Highlands Preservation Area, and lands in
+   the Highlands Planning Area for Highlands-conforming municipalities; and
+i.   An analysis of consistency with the State Development and Redevelopment Plan, including water,
+     wastewater, stormwater, and multi-modal transportation based on guidance and technical assistance from
+     the State Planning Commission.
+
+
+
+
+1 As East Brunswick is not located within the jurisdiction of the Highlands Water Protection and Planning Council, this
+
+information is not required nor included herein.
+                                                                                                                     6
+            MID-L-000119-25 03/16/2026 12:21:37 PM Pg 10 of 52 Trans ID: LCV2026679557
+
+
+
+
+III. Housing Stock and Demographic Analysis
+
+A. HOUSING STOCK INVENTORY
+In 2023, there were 17,524 housing units in the Township of East Brunswick, of which 552, or roughly 3%, were
+vacant. Of the 16,972 occupied units, nearly 81% were owner occupied and approximately 19% were renter
+occupied. Table 1, Housing Units by Occupancy Status, 2023, illustrates this occupancy status in 2023.
+
+Table 1. Housing Units by Occupancy Status, 2023
+                         Housing Units               Owner Occupied        Renter Occupied
+ Occupied                        16,972                    13,716                   3,256
+ Vacant                               552                     -                        -
+ Total                           17,524                       -                        -
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+Approximately 75.5% of the Township’s total housing stock consists of single-family dwellings, of which 65% are
+single-family detached units.7 Structures with two to four units comprise nearly 6% of the total housing stock,
+approximately 9% of which consists of housing with 20 or more units. Note that the table below does not capture
+many of the newer multi-family dwellings that have been constructed, or are under construction, in the Township
+at present. See Table 2, Housing Units by Number of Units in Structure, 2023, for a detailed explanation of the
+Township’s housing units.
+
+Table 2. Housing Units by Number of Units in Structure, 2023
+ Number of Units              Total                          Percent
+ 1, Detached                                11,410                     65.1%
+ 1, Attached                                1,816                      10.4%
+ 2                                           512                       2.9%
+ 3 or 4                                      496                       2.8%
+ 5 to 9                                      702                       4.0%
+ 10 to 19                                    967                       5.5%
+ 20+                                        1,599                      9.1%
+ Mobile Home                                 22                        0.1%
+ Other                                        0                        0.0%
+ Total                                      17,524                     100%
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+Table 3, Housing Units by Age, 2023, illustrates the age of the Township’s housing stock. The plurality of the
+housing units (i.e., 21%) were built in the ten-year time period ranging from 1980 to 1989. Similarly,
+approximately 21% of the Township’s housing units were built in the years since 1990, however, less than 0.1%
+was constructed following the year 2000. Again, note that the table below does not capture many of the newer
+multi-family dwellings that have been constructed, or are under construction, in the Township at present.
+
+
+
+                                                                                                             7
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 11 of 52 Trans ID: LCV2026679557
+
+
+
+
+Table 3. Housing Units by Age, 2023
+ Year Built                     Total Units                        Percent
+ 2020 or later                                 20                               0.1%
+ 2010 to 2019                                 986                               5.6%
+ 2000 to 2009                                 885                               5.1%
+ 1990 to 1999                                 1,798                            10.3%
+ 1980 to 1989                                 3,711                            21.2%
+ 1970 to 1979                                 2,471                            14.1%
+ 1960 to 1969                                 3,268                            18.6%
+ 1950 to 1959                                 3,113                            17.8%
+ 1940 to 1949                                 487                               2.8%
+ Before 1940                                  785                               4.5%
+ Total                          17,524                             100%
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+*Please note that the ACS provides estimates of Census data. The ACS shows that 20 housing units were built since 2020 in East
+Brunswick (Table 3). However, the Department of Community Affairs’ Permit Activity Data & Dashboards, which reports on municipal
+permits & certificates of occupancy, indicated that 275 units were built.
+
+Table 4, Comparison of Housing Units by Number of Rooms for the Township of East Brunswick and Middlesex
+County, 2023, shows, with regard to housing units in East Brunswick, 17% have between one and three rooms;
+32% have between four and six rooms; and 35% have seven or more rooms. The median number of rooms per
+unit in East Brunswick is 6.7, which is higher than that of Middlesex County at 5.6 rooms.
+
+Table 4. Housing Units by Number of Rooms for East Brunswick and Middlesex County, 2023
+                         Number of Units in         Percent of Units in      Number of Units in   Percent of Units in
+ Rooms
+                         East Brunswick             East Brunswick           Middlesex County     Middlesex County
+ 1                                126                       0.7%                    6,646                 2.1%
+ 2                                323                       1.8%                    9,417                 3.0%
+ 3                              1,568                       8.9%                   36,289                11.5%
+ 4                              1,984                      11.3%                   49,664                15.7%
+ 5                              2,062                      11.8%                   52,928                16.7%
+ 6                              2,139                      12.2%                   50,553                16.0%
+ 7                              2,601                      14.8%                   38,455                12.1%
+ 8                              2,879                      16.4%                   34,057                10.8%
+ 9+                             3,842                      21.9%                   38,624                12.2%
+ Total                   17,524                     100%                     316,633              100%
+
+
+                                        East Brunswick                             Middlesex County
+ Median Rooms per Unit                                     6.7                                    5.6
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+
+
+
+                                                                                                                                   8
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 12 of 52 Trans ID: LCV2026679557
+
+
+
+
+Tables 5 and 6, Housing Values, Owner Occupied, 2013 and 2023, respectively, show that the median housing
+value of owner occupied housing units in East Brunswick increased 34% between 2013 and 2023. During this
+time, the median housing value in Middlesex County increased by 33%. In 2013, East Brunswick’s median
+housing value of $372,200 was 12% higher than that of Middlesex County ($330,000). In 2023, East
+Brunswick’s median housing value of $499,300 was roughly 13% higher than that of Middlesex County
+($439,300). Therefore, housing in Middlesex County as a whole has been relatively more affordable than in
+East Brunswick.
+
+Table 5. Housing Values, Owner Occupied, 2013
+                           Number in East         Percent in East       Number in            Percent in
+ Housing Value
+                           Brunswick              Brunswick             Middlesex County     Middlesex County
+ Less than $50,000                  238                  1.7%                  3,836                2.1%
+ $50,000 to $99,999                 80                   0.6%                  3,416                1.8%
+ $100,000 to $149,999               473                  3.3%                  6,328                3.4%
+ $150,000 to $199,999               784                  5.5%                 11,017                5.9%
+ $200,000 to $299,999             2,635                  18.6%                51,385               27.6%
+ $300,000 to $499,999             7,231                  51.2%                83,867               45.1%
+ $500,000 to $999,999             2,596                  18.4%                24,802               13.3%
+ $1,000,000 or more                 97                   0.7%                  1,228                0.7%
+ Total                     14,134                 100.0%                185,879              100.0%
+ 2013 Median Value         $372,200                                     $330,000
+Source: American Community Survey, 2009-2013 (Table DP04 Selected Housing Characteristics)
+
+Table 6. Housing Values, Owner Occupied, 2023
+                           Number in East         Percent in East       Number in            Percent in
+ Housing Value
+                           Brunswick              Brunswick             Middlesex County     Middlesex County
+ Less than $50,000                  190                  1.4%                  4,112                2.1%
+ $50,000 to $99,999                 76                   0.6%                  2,241                1.2%
+ $100,000 to $149,999               120                  0.9%                  2,815                1.5%
+ $150,000 to $199,999               306                  2.2%                  4,396                2.3%
+ $200,000 to $299,999             1,542                  11.2%                23,362               12.0%
+ $300,000 to $499,999             4,641                  33.8%                86,661               44.7%
+ $500,000 to $999,999             6,539                  47.7%                65,317               33.7%
+ $1,000,000 or more                 302                  2.2%                  5,059                2.6%
+ Total                            13,716                100.0%                196,353              100.0%
+ 2023 Median Value                          $499,300                                    $439,300
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+Monthly rental cost in East Brunswick ($2,080) is somewhat higher than the monthly rental cost for Middlesex
+County ($1,810). In East Brunswick, approximately 78% of renters pay $1,500 or more per month in rent,
+whereas almost 8% pay less than $1000. Similarly, approximately 71% of Middlesex County renters pay $1,500
+or more per month in rent, and nearly 9% pay less than $1,000. Notably, just over 15% of renters in East
+
+                                                                                                                9
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 13 of 52 Trans ID: LCV2026679557
+
+
+
+
+Brunswick pay over $3,000 a month in rent, whereas only approximately 5% of renters in Middlesex County pay
+the same. See Table 7, Comparison of the Township of East Brunswick and Middlesex County, Monthly Rental
+Cost, 2023, for additional details. Again, housing in East Brunswick has been relatively less affordable than in
+the county as a whole.
+
+Table 7. Comparison of East Brunswick and Middlesex County, Monthly Rental Cost, 2023
+                            Number in East        Percent in East       Number in               Percent in
+ Monthly Rent
+                            Brunswick             Brunswick             Middlesex County        Middlesex County
+ No Rent Paid                       112                     -                  3,421                        -
+ Less than $500                     170                   5.4%                 4,968                     4.6%
+ $500 to $999                       70                    2.2%                 4,691                     4.3%
+ $1,000 to $1,499                   454                  14.4%                 21,863                   20.2%
+ $1,500 to $1,999                   766                  24.4%                 36,441                   33.7%
+ $2,000 to $2,499                   701                  22.3%                 26,270                   24.3%
+ $2,500 to $2,999                   502                  16.0%                 9,099                     8.4%
+ $3,000 or more                     481                  15.3%                 4,894                     4.5%
+ Total                             3,144                100.0%                108,226                   100.0%
+ Median Rent                                  $2,080                                        $1,810
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+In 2023, approximately 25% of East Brunswick owner occupied households contributed 30% or more of their
+income towards monthly housing costs, whereas 50% of East Brunswick owner occupied households put less
+than 20% of their income towards monthly housing costs. See Table 8, Monthly Housing Costs as percentage
+of Household Income in the Past 12 Months – Owner Occupied Units, 2023, for further information.
+
+Table 8. Monthly Housing Costs as Percentage of Household Income in the Past 12 Months – Owner Occupied
+Housing Units, 2023
+ Household Income              Less than 20 percent       20 to 29 percent             30 percent or more
+ Less than $20,000                         0.0%                     0.0%                        2.5%
+ $20,000 - $34,999                         0.0%                     0.1%                        2.5%
+ $35,000 - $49,999                         0.3%                     0.7%                        3.2%
+ $50,000 - $74,999                         1.0%                     2.6%                        5.1%
+ $75,000 or more                          48.8%                     21.6%                       11.2%
+Source: American Community Survey, 2019-2023 (Table S2503 Financial Characteristics)
+
+In 2023, 44% of East Brunswick renter occupied households contributed 30% or more of their household
+income towards monthly rental costs, whereas only roughly 20% of East Brunswick renter occupied households
+contributed less than 20%. See Table 9, Monthly Housing Costs as a Percentage of Household Income in the
+Past 12 Months – Renter Occupied Units, 2023, for further information.
+
+
+
+
+                                                                                                                   10
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 14 of 52 Trans ID: LCV2026679557
+
+
+
+
+Table 9. Monthly Housing Costs as a Percentage of Household Income in the Past 12 Months – Renter Occupied
+Housing Units, 2023
+                                 Less than 20 percent           20 to 29 percent                  30 percent or more
+ Less than $20,000                          0.0%                             2.0%                            10.6%
+ $20,000 - $34,999                          0.0%                             0.3%                              8.8%
+ $35,000 - $49,999                          0.0%                             0.0%                              5.7%
+ $50,000 - $74,999                          0.4%                             0.6%                              6.7%
+ $75,000 or more                           20.0%                           23.3%                             12.3%
+
+
+ Zero or Negative Income         5.8%
+ No Cash Rent                    3.4%
+Source: American Community Survey, 2019-2023 (Table S2503 Financial Characteristics)
+
+East Brunswick has 0 housing units that lack complete plumbing facilities and 694 units that are considered
+overcrowded (defined as having 1.01 or more persons per room). The Township has 103 units that have no
+telephone service available and 10 units that lack complete kitchen facilities. See Table 10, Selected Quality
+Indicators, Occupied Housing Stock, 2023, for further information.
+
+Table 10. Selected Quality Indicators, Occupied Housing Stock, 2023
+                  Overcrowded              No Telephone Service         Lacking Complete            Lacking Complete
+                                           Available                    Plumbing                    Kitchen Facilities
+ Units                     694                      103                              0                          10
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+B. GENERAL POPULATION CHARACTERISTICS
+The population of East Brunswick has increased overall from 43,548 persons in 1990 to 49,715 persons in
+2020, with the largest rate of growth (7.4%) between 1990 and 2020. Middlesex County’s population has also
+increased at a similar rate between 1990 and 2020, most recently exhibiting a 6.6% increase between 2010
+and 2020. See Table 11, Population Growth.
+
+Table 11. Population Growth
+                                                   % Change                         % Change                     % Change
+                         1990        2000                             2010                           2020
+                                                   (1990-2000)                      (2000-2010)                  (2010-2020)
+ East Brunswick            43,548       46,756          7.4%           47,512            1.6%         49,715           4.6%
+ Middlesex County          671,780      750,162         11.7%         809,858            8.0%         863,162          6.6%
+Source: 1990, 2000, 2010, & 2020 U.S. Census
+
+From 2010 through 2020, there were shifts in the age distribution of East Brunswick. The age groups which
+saw the largest increases in population between 2010 and 2020 were ages 65-74 (1,533 persons or a 44%
+increase), 55-64 (1,026 persons or a 16% increase), 25-34 (888 persons or 22%). The population group aged
+45-54 decreased significantly by 1,585 persons or an 18% decrease. See Table 12, Comparison of Age
+Distribution, 2010-2020, for additional details.
+
+
+
+                                                                                                                               11
+           MID-L-000119-25 03/16/2026 12:21:37 PM Pg 15 of 52 Trans ID: LCV2026679557
+
+
+
+
+Table 12. Comparison of Age Distribution, 2010-2020
+ Age Group           2010               Percent             2020                Percent             Percent Change
+ Under 5                    2,190              4.6%                2,229              4.5%                1.8%
+ 5-14                       6,783             14.3%                6,518              13.1%               -3.9%
+ 15-24                      5,958             12.5%                6,385              12.8%               7.2%
+ 25-34                      4,131              8.7%                5,019              10.1%               21.5%
+ 35-44                      6,781             14.3%                6,431              12.9%               -5.2%
+ 45-54                      8,816             18.6%                7,231              14.5%              -18.0%
+ 55-64                      6,431             13.5%                7,457              15.0%               16.0%
+ 65-74                      3,457              7.3%                4,990              10.0%               44.3%
+ 75+                        2,965              6.2%                3,455              6.9%                16.5%
+ Total               47,512             100.0%              49,715              100.0%              -
+Source: 2010 and 2020 U.S. Census (2020 - Table DP1 Profile Of General Population And Housing Characteristics)
+
+C. HOUSEHOLD CHARACTERISTICS
+A household is defined by the U.S. Census Bureau as those persons who occupy a single room or group of rooms
+constituting a housing unit; however, these persons may or may not be related. As a subset of households, a
+family is identified as a group of persons including a householder and one or more persons related by blood,
+marriage or adoption, all living in the same household. In 2023, there were          occupied households in
+East Brunswick, with an average of                                and an average of                        .
+Approximately 67% of the households were comprised of married couples with or without children, and 20% of
+East Brunswick households are non-family households, which includes individuals, roommates, and other
+groups. (Source: ACS 2019-2023, Table S1101 & S2501).
+
+D. INCOME CHARACTERISTICS
+Households in East Brunswick have on average, notably higher incomes than that of Middlesex County as a
+whole. Annual median income for East Brunswick households in 2023 was $140,769, whereas annual median
+income for households in Middlesex County was $109,028. Table 13, Household and Family Income by Income
+Brackets for East Brunswick and Middlesex County, 2023, further illustrates these findings by noting the
+number of households in each of the income categories.
+
+The percentage of persons and household below the poverty level, as defined by the 2023 American Community
+Survey, equates to approximately   of all East Brunswick Residents. This is lower than the County as a whole,
+wherein almost 9% of County residents were living below the poverty level in 2023. (Source: ACS 2019-2023,
+Table S1701)
+
+
+
+
+                                                                                                                     12
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 16 of 52 Trans ID: LCV2026679557
+
+
+
+
+Table 13. Household and Family Income by Income Brackets for East Brunswick & Middlesex County, 2023
+                                  East Brunswick                                 Middlesex County
+                                  Households           Percent                   Households         Percent
+ Less than $5,000                        376                 2.2%                      6,310              2.1%
+ $5,000 to $14,999                       459                 2.7%                     11,086              3.6%
+ $15,000 to $24,999                      365                 2.1%                     13,810              4.5%
+ $25,000 to $34,999                      489                 2.9%                     12,665              4.1%
+ $35,000 to $49,999                      767                 4.5%                     22,016              7.2%
+ $50,000 to $74,999                     1,476                8.7%                     38,152              12.5%
+ $75,000 to $99,999                     1,684                9.9%                     36,214              11.8%
+ $100,000 to $149,999                   3,347               19.7%                     59,875              19.6%
+ $150,000 or more                       8,009               47.2%                     105,482             34.5%
+ Total                            16,972               100.0%                    305,610            100.0%
+ Median Income                    $140,769                                       $109,028
+Source: American Community Survey, 2019-2023 (Table S2503 Financial Characteristics)
+
+E. EMPLOYMENT CHARACTERISTICS
+Table 14, Employment Status, East Brunswick, indicates the number of Township residents 16 years and over
+who are in the labor force, the type of labor force (i.e., civilian or armed forces) and employment status.
+Approximately 67% of East Brunswick residents 16 and over are in the labor force and, among those in the labor
+force, all are in the civilian labor force. Of the residents in the civilian labor force, approximately 95% are
+employed and approximately 5% are unemployed.
+
+Table 14. Employment Status, East Brunswick
+                                     Number                      Percent
+ Population 16 years and over                 38,623                         -
+ In Labor Force                               25,944                       67.2%
+ Civilian Labor Force                         25,944                       67.2%
+ Employed                                     24,751                       64.1%
+ Unemployed                                    1,193                       3.1%
+ Not in Labor Force                           12,679                       32.8%
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics)
+
+Table 15, Employment by Occupation, East Brunswick, 2023, identifies the occupations of employed persons.
+While East Brunswick residents work in a variety of industries, 58% of employed residents work in Management,
+Business, Science, and Arts Occupations; 17% are employed in Sales and Office-related occupations; and 11%
+are employed in Service-related occupations.
+
+Table 16, Distribution of Employment by Industry, Township Residents, 2023, shows the distribution of
+employment by industry for employed East Brunswick residents. The three industries to capture the largest
+segments of the population were: the Educational, Health, and Social Services sector at nearly 26%; the
+Professional, Scientific, Management, Administrative, and Waste Management Services sector at 16%; and the
+Financing, Insurance, Real Estate, Renting, and Leasing sector at 12%.
+                                                                                                                  13
+           MID-L-000119-25 03/16/2026 12:21:37 PM Pg 17 of 52 Trans ID: LCV2026679557
+
+
+
+
+Table 15. Employment by Occupation, East Brunswick, 2023
+ Job Sector                                                             Number                   Percent
+ Management, Business, Science, and Arts Occupations                         14,415                        58.2%
+ Service                                                                         2,766                     11.2%
+ Sales and Office                                                                4,235                     17.1%
+ Natural Resources, Construction, and Maintenance                                1,223                     4.9%
+ Production, Transportation, and Material Moving                                 2,112                     8.5%
+ Total                                                                  24,751                   100.0%
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics)
+
+Table 16. Distribution of Employment by Industry, East Brunswick Township Residents, 2023
+ Job Sector                                                  Number              Percent
+ Agriculture, Forestry, Fishing and Hunting, and Mining           19                     0.1%
+ Construction                                                    1,172                   4.7%
+ Manufacturing                                                   2,116                   8.5%
+ Wholesale Trade                                                 568                     2.3%
+ Retail Trade                                                    2,447                   9.9%
+ Transportation and Warehousing, and Utilities                   1,252                   5.1%
+ Information                                                     831                     3.4%
+ Financing, Insurance, Real Estate, Renting, & Leasing           3,004                   12.1%
+ Professional, Scientific, Management, Administrative, and
+                                                                 3,977                   16.1%
+ Waste Management Services
+ Educational, Health and Social Services                         6,387                   25.8%
+ Arts, Entertainment, Recreation, Accommodation and Food
+                                                                 1,207                   4.9%
+ Services
+ Public Administration                                           885                     3.6%
+ Other                                                           886                     3.6%
+ Total                                                          24,751               100.0%
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics)
+
+Of the employed residents, approximately 79% are private wage and salary workers; 15% are government
+workers; and 6% are self-employed. See Table 17, Distribution by Class of Worker, 2023, for additional details.
+
+Table 17. Distribution by Class of Worker, Township of East Brunswick, 2023
+                                                             Number          Percent
+ Private Wage and Salary Workers                               19,494                    78.8%
+ Government Workers                                             3,719                    15.0%
+ Self-employed in own not incorporated business workers         1,499                    6.1%
+ Unpaid family workers                                           39                      0.2%
+ Total                                                         24,751                100.0%
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics)
+
+
+
+                                                                                                                   14
+             MID-L-000119-25 03/16/2026 12:21:37 PM Pg 18 of 52 Trans ID: LCV2026679557
+
+
+
+
+The New Jersey Department of Labor and Statistics tracks covered employment throughout the State. See Table
+18, Private Sector Employment in East Brunswick by Industry Sector, 2012, 2017, 2022, for additional details.
+According to the New Jersey Department of Labor and Statistics, there were 26,063 jobs in East Brunswick in
+2022 (the most recently available data year). Health Care and Social Assistance Services (4,284 jobs); Retail
+Trade (3,717 jobs); Professional, Scientific and Technical Services (2,943 jobs); and Educational Services
+(2,719 jobs) were the largest sectors of employment. Table 18 also shows the number of employees by sector
+in East Brunswick in 2012 and 2017. The largest decrease in local employment between 2012 and 2022 was
+in the Retail Trade sector, which experienced a decrease of 811 jobs (or almost 18% decrease). The sector with
+the largest local employment increase between 2012 and 2022 was Professional, Scientific, and Technical
+Services, which experienced an increase of 898 jobs (or 44%).
+
+Table 18. Private Sector Employment in East Brunswick by Industry Sector, 2012, 2017, 2022
+                                                    2012                 2017                     2022
+ PRIVATE SECTOR JOBS                                COUNT     SHARE      COUNT       SHARE        COUNT        SHARE
+ Agriculture, Forestry, Fishing & Hunting, Mining     15        0.1%         14         0.1%            54       0.2%
+ Mining, Quarrying, and Oil/Gas Extraction             9        0.0%         3          0.0%            4        0.0%
+ Utilities                                            19        0.1%         79         0.3%            4        0.0%
+ Construction                                         559       2.2%        886         3.3%           837       3.2%
+ Manufacturing                                        652       2.6%        709         2.6%           667       2.6%
+ Wholesale Trade                                     1,092      4.4%       1,128        4.2%           1,799     6.9%
+ Retail Trade                                        4,528     18.1%       4,290       15.9%           3,717    14.3%
+ Transportation & Warehousing                        1,990      7.9%       1,486        5.5%           1,576     6.0%
+ Information                                          218       0.9%        273         1.0%           202       0.8%
+ Finance and Insurance                               1,021      4.1%       1,034        3.8%           781       3.0%
+ Real Estate and Rental & Leasing                     212       0.8%        289         1.1%           224       0.9%
+ Professional, Scientific & Technical Services       2,045      8.2%       2,806       10.4%           2,943    11.3%
+ Management of Companies & Enterprises                316       1.3%       1,869        6.9%           404       1.6%
+ Administration & Support, Waste Management
+                                                     1,818      7.2%       1,839        6.8%           1,774     6.8%
+ and Remediation
+ Educational Services                                2,383      9.5%       2,882       10.7%           2,719    10.4%
+ Health Care and Social Assistance                   4,190     16.7%       3,449       12.8%           4,284    16.4%
+ Arts, Entertainment, and Recreation                  382       1.5%        364         1.3%           392       1.5%
+ Accommodation & Food Services                       2,111      8.4%       2,241        8.3%           2,302     8.8%
+ Other Services (Excluding Public Administration)     985       3.9%        837         3.1%           876       3.4%
+ Public Administration                                540       2.2%        494         1.8%           504       1.9%
+ TOTAL PRIVATE SECTOR                                25,085    100.0%      26,972      100.0%      26,063       100.0%
+Source: State of New Jersey Department of Labor and Workforce Development Local Employment Dynamics;
+
+
+
+
+                                                                                                                         15
+            MID-L-000119-25 03/16/2026 12:21:37 PM Pg 19 of 52 Trans ID: LCV2026679557
+
+
+
+
+F. GROWTH TRENDS AND PROJECTIONS
+1. Residential Trends and Projections
+According to the New Jersey Construction Reporter, between 2013 and 2023, East Brunswick issued 735
+certificates of occupancy: 99 for one and two family dwelling units, 629 for multifamily dwelling units and 7 for
+mixed use dwelling units. See Table 19, Residential Certificates of Occupancy, 2013-2023.
+
+Table 19. Residential New Building Permits, East Brunswick, 2013-2023
+                  2013      2014    2015    2016    2017     2018     2019     2020      2021      2022       2023      Total
+ 1 & 2 Family         1      11       16      11     12       35       3        16        25          17         27     174
+ Multifamily          1         0     48      3       0       0       400       3         0           9          177    641
+ Mixed Use            0         0     2       1       3       0        0        1         0           0           0     7
+ Total            2         11      66      15      15       35       403      20        25        26         204       822
+Source: New Jersey Construction Reporter
+
+As shown in this table, new residential construction in the Township has been predominately multi-family in
+nature, inclusive of inclusionary housing development. The Township has encouraged the development of these
+projects in an effort to provide its regional fair share of affordable housing. Aside from these projects, the
+Township anticipates little additional multifamily housing development. This is due in part to the lack of
+developable vacant land within the sewer service area and which is not subject to environmental constraints.
+
+2. Non-Residential Trends and Projections
+According to the New Jersey Construction Reporter, between 2013 and 2023, East Brunswick issued certificates
+of occupancy for a total of ±516,321 square feet of non-residential building space. See Table 20, Non-
+Residential Certificates of Occupancy, 2013-2023, for additional details. Specifically, 185,865 square feet of
+hotel/motel were certified in 2021 and 2022, and 60,174 square feet of warehouse/storage was certified in
+2023. Note that the table below does not capture all new approved retail and mixed-use development has been
+constructed, or is under construction, in the Township at present, including as part of Third Round sites.
+
+Table 20. Non-Residential Certificates of Occupancy by Square Foot, East Brunswick, 2013-2023
+               2013       2014      2015    2016    2017     2018     2019      2020      2021            2022         2023     Total
+Office          5,580     6,440     3,253    0      13,358        0   13,302    8,050          1             0          663     50,647
+Retail         21,606     15,168     1       1      26,079        0     0            0         1             0           0      62,856
+A-1            33,800       0        0       0        0           0     0            0         0             0           0      33,800
+A-2              0        2,584      0      2,029   5,310         0     0            0         0           3,033         0      12,956
+A-3              0          0        0       0      3,261         0     0            0         0             0           0      3,261
+Hotel/
+                 0          0        0       0        0           0     0            0    82,125          103,740        0      185,865
+Motel
+Education        0          0        0       0      16,509    847     12,412         0         0           71,662        0      101,430
+Storage          0          0        1       0        1           1     0            0         0             0         60,171   60,174
+Utility /
+                256         0        0       0        2           1     1            0        3,840        1,232         0      5,332
+Misc.
+TOTAL          61,242     24,192    3,255   2,030   64,520   849      25,715    8,050     85,967          179,667      60,834   516,321
+
+
+                                                                                                                                        16
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 20 of 52 Trans ID: LCV2026679557
+
+
+
+
+Source: New Jersey Construction Reporter
+
+3. Capacity for Growth
+East Brunswick has the capacity to meet its Fair Share Obligation. New non-residential construction is expected
+to continue on trend as indicated by Planning and Zoning Board applications and approvals, for which
+development fees have been collected. Customary or ordinary improvements to the existing infrastructure,
+including but not limited to public wastewater and public water, will be completed as necessary.
+
+The Township anticipates that a portion of its Fair Share Obligation will be accommodated on vacant land, but
+the majority of new residential units, particularly multifamily units, will occur on sites that are currently improved
+but may be expanded or redeveloped for housing. Much of this obligation will be met through the redevelopment
+of commercial areas along the Route 18 corridor, where New Jersey Department of Transportation has been
+undertaking massive infrastructure upgrades.
+
+G. MULTIGENERATIONAL HOUSING CONTINUITY
+Multigenerational housing is becoming a desired housing option in the State due to rising housing costs and an
+aging population. Housing for multigenerational families is necessary to offer a diverse housing stock and to
+account for population trends. Multigenerational housing can provide an opportunity for residents to age in
+place, save on costs associated with housing, and provide in-house care for an older adult or persons with
+disabilities. Additionally, multigenerational housing is a more sustainable approach to meeting housing
+obligations as there is no need for the construction of new homes in order to provide housing for additional
+individuals.
+
+On November 8, 2021, the Senate and General Assembly of the State of New Jersey adopted C.52:27D-
+329.209, which established the Multigenerational Family Housing Continuity Commission. The commission is
+allocated within the Department of Community Affairs. The duties of the commission include: preparing and
+adopting recommendations on how State government, local government, community organizations, private
+entities, and community members may most effectively advance the goal of enabling senior citizens to reside
+at the homes of their extended families, thereby preserving and enhancing multigenerational family continuity,
+through the modification of State and local laws and policies in the areas of housing, land use planning, parking
+and streetscape planning, and other relevant areas.
+
+The bill requires that a municipality's housing element shall be designed to achieve the goal of access to
+affordable housing to meet present and prospective housing needs, with particular attention to low- and
+moderate-income housing, and shall contain, among other requirements:
+         An analysis of the extent to which municipal ordinances and other local factors advance or
+         detract from the goal of preserving multigenerational family continuity as expressed in the
+         recommendations of the Multigenerational Family Housing Continuity Commission.
+
+This language is included in the Amended FHA at N.J.S.A. 52:27D-310. It should be noted that at the time of
+the preparation of this Housing Element and Fair Share Plan, the commission has made no recommendations.
+That said, East Brunswick is committed to promoting multigenerational family continuity through the provision
+of a variety of housing options offered to a variety of income levels in a manner consistent with the regulations.
+In recent years, East Brunswick has increased the diversity of its housing stock with the approval of several
+independent and assisted living facilities that provide a continuity of care for Township residents. New
+
+
+                                                                                                                   17
+         MID-L-000119-25 03/16/2026 12:21:37 PM Pg 21 of 52 Trans ID: LCV2026679557
+
+
+
+
+multifamily housing, including Legacy Place, offers elevator accessible units. Affordable units restricted to
+seniors were also constructed as part of the Third Round Housing Plan (e.g., Oak Creek II).
+
+East Brunswick residents can also participate, if eligible, in Greater Middlesex & Morris Habitat for Humanity’s
+Aging in Place program which provides support relating to home modifications that improve the mobility,
+accessibility and safety of a home or energy efficiency repairs and improvements. Such improvements include
+installing wheelchair ramps; installing chair lifts on stairways; securing handrails and grab bars; changing
+faucets and door knobs to levers; installing handheld and/or slidebar showerheads; adding LED light fixtures
+to basement stairs; repairing sidewalks; and other accessibility or weatherization improvements
+
+The Township is committed to supporting inclusive housing opportunities that meet the needs of residents at
+every stage of life, actively prioritizing thoughtful planning and following population trends.
+
+
+
+
+                                                                                                             18
+            MID-L-000119-25 03/16/2026 12:21:37 PM Pg 22 of 52 Trans ID: LCV2026679557
+
+
+
+
+IV. East Brunswick Township Fair Share Plan
+
+A. SATISFACTION OF PRIOR AND THIRD ROUND OBLIGATION (1987–2025)
+Per the Amended FHA at N.J.S.A. 52:27D-304.1.3.a(f)(2)(a), as part of its housing element and fair share plan,
+the municipality shall include an assessment of the degree to which the municipality has met its fair share
+obligation from the prior rounds of affordable housing obligations as established by prior court approval, or
+approval by COAH, and determine to what extent this obligation is unfulfilled or whether the municipality has
+credits in excess of its prior round obligations. East Brunswick had the following affordable housing prospective
+need obligations for the 1987-2025 compliance periods:
+      •     Prior Round (1987-1999):
+      •     Third Round (1999-2025):
+
+1. Prior Round (1987-1999) Obligation: 648 Units
+East Brunswick had a Prior Round prospective need obligation of 648 units, as detailed in the East Brunswick
+Housing Element and Fair Share Plan adopted October 18, 1995, and revised November 6, 1996. East
+Brunswick was granted Second Round Substantive Certification by the Council on Affordable Housing (COAH)
+on June 4, 1997. The Township addressed this obligation through credits at the projects detailed below and
+summarized in Table 21, Prior Round Affordable Housing Credits.
+
+Table 21. Prior Round Affordable Housing Credits.
+                                                           AFFORDABLE   BONUS         TOTAL
+ DEVELOPMENT NAME              TYPE / MECHANISM                                                      STATUS
+                                                           UNITS        CREDITS       CREDITS
+ Halls Corner                     Age-Restricted Rental          153          0             153       Complete
+ Victory Gardens                          Rental                 12           0             12        Complete
+ Summerhill Road                       Group Home                 4           0             4         Complete
+ Two River Road                        Family Rental             4            4             8         Complete
+ Oak Creek I                              Senior                 79          26             105       Complete
+ Society Hill East II               Family For-Sale              29           0             29        Complete
+ The Club                        Age-Restricted For-Sale         21           0             21        Complete
+ Summerhill Meadows                 Family For-Sale              35           0             35        Complete
+ Fox Meadows                        Family For-Sale              29           0             29        Complete
+ Kingswood Station                  Family For-Sale              64           0             64        Complete
+ Crosspointe                        Family For-Sale              41           0             57        Complete
+ Windsong                           Family For-Sale              62           0             62        Complete
+ Country Woods                      Family For-Sale              65           0             65        Complete
+ Kingswood Station II               Family For-Sale              26           0             26        Complete
+                               TOTAL                       640          30            670
+As of the Third Round Housing Element and Fair Share Plan, the Township had created 735 units, which met
+and exceeded the Prior Round Obligation by 87 units, which were carried forward to the Third Round obligation.
+
+
+
+
+                                                                                                              19
+           MID-L-000119-25 03/16/2026 12:21:37 PM Pg 23 of 52 Trans ID: LCV2026679557
+
+
+
+
+Table 22. Credits Applied to Gap Period and Third Round Prospective Need Obligation
+                                                                               AFFORDABL   BONUS     TOTAL
+ DEVELOPMENT NAME                       TYPE / MECHANISM                                                        STATUS
+                                                                               E UNITS     CREDITS   CREDITS
+ CREDITS IDENTIFIED IN THIRD ROUND FAIR SHARE PLAN
+ Carry-Over from Prior Round                                                      87                             Complete
+                       Crosspointe             Inclusionary Zoning                16                             Complete
+                     Timberhollow              Inclusionary Zoning                26                             Complete
+            Commons at Kingwood                Inclusionary Zoning                24                             Complete
+                           EBCHC               Market-to-Affordable               21                             Complete
+ EBCHC                                   Market-to-Affordable Family Rental       48                             Complete
+ Allies                                  Supportive/Special Needs Rental           3                             Complete
+ Triple C Housing                        Supportive/Special Needs Rental           5                             Complete
+ Community Options                       Supportive/Special Needs Rental           3                             Complete
+ EIHAB Human Services, Inc.              Supportive/Special Needs Rental           4                             Complete
+ Remed Recovery Care                     Supportive/Special Needs Rental           8                             Complete
+ Oakcreek II                              100% Affordable Age-Restricted          40                             Complete
+ Various Projects                        Extension of Affordability Controls      322                            Complete
+ Arisa                                       Inclusionary Family Rental           20                             Complete
+ Alfieri (Hidden Oak Woods)                  Inclusionary Family Rental           55                             Approved
+ Zielinski (Cranbury Rd)                     Inclusionary Zoning - VGII           17                              Rezoned
+ Bailes (Cranbury Rd South)                  Inclusionary Zoning - VGII           20                              Rezoned
+ Kelemen (Rues Lane)                          Inclusionary Zoning - TG            36                              Rezoned
+ HD Summerhill (Mack-Cali)                   Inclusionary Family Rental           24                             Complete
+ Route 18 Redevelopment                                                           115
+                                                                                                                  Partially
+          Tices Lane (Legacy Place)          Inclusionary Family Rental
+                                                                                                                 Complete
+                    Vermella Phase II        Inclusionary Family Rental                                          Approved
+ Rental Bonus (Total)                                                                        260
+                                        TOTAL THIRD ROUND CREDIT OBLIGATION                          1067
+                                        TOTAL CONSTRUCTED/APPROVED                                   994
+ ADDITIONAL CREDITS TO ADDRESS FOURTH ROUND
+ EIHAB (Site 2)                          Supportive/Special Needs Rental           3          3            6     Complete
+ Aplus Care (Sites 1, 2, & 3)            Supportive/Special Needs Rental          10         10            20    Complete
+ EBCHC                                   Market-to-Affordable Family Rental       10         10            20    Complete
+ Commons at Kingswood Station            Extension of Affordability Controls       9                       9     Complete
+                                                                                                                   Under
+ Tices Lane (Legacy Place)                   Inclusionary Family Rental            4          4            8
+                                                                                                                Construction
+                                        ADDITIONAL CREDITS OVER THIRD ROUND PLAN                     63
+
+
+
+
+                                                                                                                          20
+         MID-L-000119-25 03/16/2026 12:21:37 PM Pg 24 of 52 Trans ID: LCV2026679557
+
+
+
+
+2. Satisfaction of Third Round Obligation (1999–2025)
+East Brunswick had a Third Round prospective need obligation of 1067 units, as set forth in the Third Round
+Housing Element and Fair Share Plan as based on a settlement agreement reached In the Matter of the
+Application of the Township of East Brunswick for Substantive Certification of its Obligations Under the Fair
+Housing Act, Docket No. MID-L-4013-15, dated July 28, 2016. The Third Round Plan proposed to satisfy this
+obligation though a variety of compliance mechanisms, including rezoning to assure the economic viability of
+inclusionary developments; extension of affordability controls; redevelopment; rehabilitation of properties; the
+market-to-affordable program with the East Brunswick Community Housing Corporation (EBCHC), provision of
+special needs housing, and collection of development fees, as summarized in Table 22.
+
+STATUS OF THIRD ROUND PROJECTS
+As shown in Table 22, the Township was generally successful in meeting its Third Round obligation of 1,067
+units through the above-referenced compliance mechanisms. To date, the Township has effectuated approval
+and/or construction of the vast majority of its Third Round obligation. A total of 994 of the 1,067 Third Round
+Credits have been approved and/or constructed. Additional credits were also realized above the proposed Third
+Round obligation set forth in the plan, as indicated in Table 22. The projects/sites that are not yet complete
+remain viable and continue to present a realistic opportunity for the development of affordable housing in
+accordance with the Third Round Plan.
+
+The remaining 73 units represent three inclusionary (3) sites –the Zielinski, Bailes, and Kelemen tracts – that
+remain unbuilt with no development approvals in place. Another site, Alfieri/Hidden Oak Woods, has been
+approved for inclusionary development containing 55 affordable rental units, but has not yet been constructed.
+As described below, a settlement agreement is in place that is anticipated to lead to the construction of these
+units. The Township’s Fourth Round Plan will continue to provide for the realistic construction of these 73 units
+(credits) that were not built as part of the Third Round.
+
+        ZIELENSKI, CRANBURY ROAD | 9.96 AC
+        BLOCK 88, LOT 18.01
+        This site is located in the VG-II Village Green Zone. As part of the Third Round compliance, the VG-II
+        Zone was amended to allow multi-family and apartments at a residential density of 9 units per acre,
+        where 6 units per acre was previously permitted. The minimum required tract area was decreased to
+        7.5 acres and a mandatory 20% affordable housing set aside was required. The site was anticipated
+        to yield up to 87 dwelling units, including 17 affordable units, and remains viable for development.
+
+        BAILES, 491 CRANBURY ROAD | 11.42 AC
+        BLOCK 87, LOTS 12.06, 12.07, 12.08, 12.16, 12.17
+        This site is also located in the VG-II Village Green Zone. As part of the Third Round compliance, the VG-
+        II Zone was amended to allow multi-family and apartments at a residential density of 9 units per acre,
+        where 6 units per acre was previously permitted. The minimum required tract area was decreased to
+        7.5 acres and a mandatory 20% affordable housing set aside was required. The site was anticipated
+        to yield up to 102 dwelling units, including 20 affordable units, and remains viable for development.
+
+
+
+
+                                                                                                              21
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 25 of 52 Trans ID: LCV2026679557
+
+
+
+
+        KELEMEN, 600 RUES LANE | 15.22 AC
+        BLOCK 87.33, LOT 1.02
+        This site is located in the TG Town Green Village Green Zone, which permits planned single-family,
+        townhouse and multifamily development at a density of 12 units to the acre, with a mandatory 20%
+        affordable housing set aside. The zoning also permits office and retail uses as part of mixed-use
+        developments to serve residents of the site and surrounding neighborhood. The site was anticipated to
+        yield up to 182 dwelling units, including 36 affordable units, and remains viable for development.
+
+        ALFIERI / HIDDEN OAK WOODS | 41.06 AC
+        BLOCK 29.01, LOTS 37, 38, 39, 40, 41, 42; BLOCK 29.06, LOTS 1, 2, 3, 4, 5, 6, 7
+        This tract is situated near Tices and Harts Lane and comprises ±41 acres. The developer initially
+        intervened in the Township’s Third Round declaratory judgement in 2015. In July 2016, the Township
+        reached a settlement agreement (“Third Round Settlement Agreement”) with the intervenors, including
+        Alfieri. Pursuant to this agreement, the Township adopted the MDR Multiple Dwelling/Apartment District
+        Zone for this tract, which replaced the former industrial, office, and manufacturing zoning, in order to
+        permit 275 non-aged restricted residential rental units with a 20% mandatory affordable housing set-
+        aside (55 units). The total permitted gross tract density is 6.7 acres and at minimum of 50% of the tract
+        is required to be open space.
+        Hidden Oak Woods, LLC filed a Planning Board application in December 2017 for preliminary and final
+        major site plan approval, to consist of seven four-story buildings comprising 275 rental units with a 20%
+        (55-unit) set aside. This application was denied by the Planning Board on February 13, 2019, and
+        memorialized on April 24, 2019. The applicant appealed this decision, and a ruling was issued in their
+        favor on February 24, 2020, thereby vacating the Planning Board's denial of plaintiff's site plan
+        application2. The application returned the Planning Board on limited remand for the Board to approve
+        minor bulk variances and other reasonable conditions. The Planning Board granted this approval on
+        June 10, 2020, per Resolution #18-07 (included in Appendix B). The prior settlement agreement and
+        court orders remain valid and the subject property remains suitable for the approved inclusionary
+        development as approved.
+
+
+
+
+2 On appeal from the Township, the Appellate Division of Superior Court subsequently upheld the lower court’s ruling in an
+
+order dated July 30, 2021.
+                                                                                                                      22
+         MID-L-000119-25 03/16/2026 12:21:37 PM Pg 26 of 52 Trans ID: LCV2026679557
+
+
+
+
+B. CALCULATION OF FOURTH ROUND OBLIGATION (2025–2035)
+The Township’s affordable housing obligation is comprised of two components: a Present Need (or
+Rehabilitation) obligation; and a Prospective Need obligation. The Present Need obligation is defined as the
+number of substandard existing deficient housing units in the municipality currently occupied by low- and
+moderate-income (LMI) households. The Prospective Need is a projection of the need for low- and moderate-
+housing based on development and growth which is reasonably likely to occur in a region or a municipality.
+
+1.    DCA Estimate of Fourth Round Obligations.
+On October 18, 2024, the New Jersey Department of Community Affairs (DCA) issued a report (“DCA Report”)
+calculating statewide and regional affordable housing needs, including nonbinding municipal obligations, based
+upon its interpretations of the standards for the determination of fair share obligations in the Amended FHA.
+These non-binding determination of each municipality’s Fourth Round (2025 - 2035) affordable housing
+obligations were released on October 18, 2024. The DCA Report interpreted the Amended FHA to set the
+Township’s Present Need at 170 and its Fourth Round Prospective Need (new construction) obligation at 314.
+As noted, the DCA Report’s numbers were non-binding. As such, the Amended FHA set a deadline of January
+31, 2025, for municipalities to adopt a binding resolution setting forth either their acceptance of the DCA
+determination of their obligations or, in the alternative, the municipal determination of their Fourth Round
+obligations based on the Amended FHA standards.
+
+PRESENT NEED
+The DCA Report determined a non-binding Present Need obligation of 170 for the Township of East Brunswick.
+Present need, also known as the rehabilitation obligation, is defined in the Amended FHA as the number of
+substandard existing deficient housing units in the municipality currently occupied by low- and moderate-
+income (LMI) households. The Township accepted this obligation.
+
+PROSPECTIVE NEED
+The DCA Report determined a non-binding Prospective Need obligation for East Brunswick of 314. As described
+in the DCA Report, municipal Prospective Need obligations are calculated as a share of the region in which the
+municipality is located; Region 3, in which East Brunswick is located, includes Hunterdon, Middlesex and
+Somerset Counties. As established by the Amended FHA, the regional Prospective Need is calculated by
+establishing the increase in households in the region between the 2020 and 2010 federal decennial Census
+and dividing the household change increase by 2.5 to estimate the number of low- and moderate-income
+households (and the number of homes needed to address same).
+The Prospective Need for Region 3 was 11,604, with this need allocated to municipalities throughout the region.
+However, “Qualified Urban Aid Municipalities3” are exempt from addressing Prospective Need, which increases
+the remaining municipalities’ obligations. Regional Prospective Need is then allocated across the non-qualified
+urban aid municipalities in the region by applying three factors:
+
+
+
+
+3 Qualified Urban Aid Municipalities are determined based on a formula that varies between each Fair Share Round. For
+
+the Fourth Round, the municipalities in Region 3 are Carteret, New Brunswick, Perth Amboy, and Woodbridge.
+                                                                                                                  23
+ MID-L-000119-25 03/16/2026 12:21:37 PM Pg 27 of 52 Trans ID: LCV2026679557
+
+
+
+
+EQUALIZED NONRESIDENTIAL VALUATION
+This factor is the change in nonresidential property valuations in the municipality from 1999 to 2023
+divided by the regional total change in nonresidential valuations, with the intent to shift housing to
+municipalities experiencing employment growth. This factor for East Brunswick is 3.09%.
+
+INCOME CAPACITY
+This factor incorporates median household income figures to measure the extent to which a
+municipality’s income level differs from that of the lowest-income municipality in its housing region, with
+the intent to shift portions of the obligation to municipalities with higher household incomes. This factor
+is 3.44% for East Brunswick.
+
+LAND CAPACITY
+This factor is intended to determine the total acreage that is developable in a municipality as a
+proportion of developable acreage in the Region. This is determined by utilizing the most recent land
+use / land cover data from the New Jersey Department of Environmental Protection (NJDEP), in
+combination with the most recently available MOD-IV Property Tax List data from the Division of Taxation
+in the Department of the Treasury and construction permit data from DCA. The calculation is supposed
+to exclude lands subject to development limitations, including but not limited to existing developed land,
+lands with environmental constraints, and lands deeded for open space purposes. “Weighting factors”
+as specified in the Amended FHA were applied to developable lands based on the planning area type in
+which such land was located. East Brunswick is located in Planning Areas 1, 4, and 5, for which the DCA
+applied respective weights of 1, 0, and 0. A weight of 1 corresponds to no reduction in developable land
+and a weight of 0 corresponds to no developable land. This factor was determined to be 1.69% for East
+Brunswick.
+The DCA issued the data that was the basis for the land capacity factor on November 27th. While this
+data was intended to heed the methodology set forth in the Amended FHA, the land area contained in
+the dataset was described as an “estimate of the area of developable land, within municipal and
+regional boundaries, that may accommodate development. It is important to note that the identified
+areas could be over or under inclusive depending on various conditions and that municipalities are
+permitted to provide more detailed mappings as part of their participation in the Affordable Housing
+Dispute Resolution Program."
+
+AVERAGE ALLOCATION FACTOR
+The Equalized Nonresidential Valuation Factor, Land Capacity Factor and Income Capacity Factor for
+each municipality were averaged to determine an Average Allocation Factor, which is the basis for
+municipal Prospective Need. East Brunswick’s Average Allocation Factor per the non-binding DCA
+Report was 2.71%, which resulted in a Prospective Need of 314.
+
+
+
+
+                                                                                                        24
+         MID-L-000119-25 03/16/2026 12:21:37 PM Pg 28 of 52 Trans ID: LCV2026679557
+
+
+
+
+2.   Township Determination of Fourth Round Obligation
+The Amended FHA set a deadline of January 31, 2025, for municipalities to adopt a binding resolution setting
+forth the Fourth Round Present and Prospective Need numbers. East Brunswick’s Mayor and Council adopted
+Resolution #25-763 on January 6, 2025, committing to Township’s Fourth Round obligations as Present Need
+of 170 and municipally determined Prospective Need of 265, based on a recalculation of the Land Capacity
+Factor to account for methodological errors in the DCA report. This resolution was filed with the State’s
+Affordable Housing Dispute Resolution Program and published on the Township’s website as required by the
+Amended FHA. The Township filed a declaratory judgment in the Superior Court of New Jersey on January 8,
+2025, within 48 hours of adoption of the resolution, as required by the Amended FHA.
+The Township did not dispute DCA’s calculation of the Township’s Equalized Nonresidential Allocation Factor or
+Income Capacity Allocation Factor. However, the Township did contest DCA’s calculation of the Land Capacity
+Allocation Factor, impacting the overall Average Allocation Factor. The Township found that the DCA Per the
+Township’s determination, the Prospective Need obligation was calculated to be lower than the DCA’s non-
+binding obligation due to issues with DCA’s calculations. Specifically, the Land Capacity factor is based on an
+acreage that categorizes a number of areas in the Township as “developable” when in reality they are not. The
+areas identified as developable in the DCA’s calculation of the Land Capacity factor was overinclusive and the
+land capacity allocation was reduced from 175 acres to 44.7 acres, resulting in a decrease in land capacity
+factor from 1.69% to 0.44% of the Region 3 share. When all factors were reallocated, the Township’s Average
+Allocation Factor was reduced from 2.71% to 2.29%, reducing the Prospective Need from 314 to 265.
+
+3.   Challenge and Settlement of Fourth Round Obligation
+The New Jersey Builders’ Association (NJBA) filed a timely challenge to East Brunswick’s filing on February 26,
+2025, which challenged the proposed reduction in the Township’s Prospective Need number on the basis of
+land capability factor. The Township and NJBA subsequently engaged in proceedings through the Affordable
+Housing Dispute Resolution Program that were managed by Program Member Hon. Mary C. Jacobson, J.S.C.
+(Ret.), who subsequently appointed Elizabeth McManus, PP, AICP, as a special adjudicator. A settlement
+conference was held on March 27, 2025, during which NJBA strictly supported the DCA number of 314.
+Mediation was not successful, and Program Member Jacobson heard arguments from both parties during a
+session on that same date.
+Program Member Jacobson issued her written Report and Program Recommendation on April 8, 2025, which
+recommended a Prospective Need of 296 units of affordable housing. The Report and Recommendations were
+accepted and adopted in their entirety in a decision and order issued by Hon. Thomas Daniel McCloskey, J.S.C.,
+the Mount Laurel vicinage judge, on April 24, 2025. Based on this order, the Township’s Fourth Round (2025 –
+2035) Prospective Need is set at 296.
+
+               Table 23. Township of East Brunswick Fourth Round Affordable Housing Obligation
+               As adjusted by 4/24/2025 order of Hon. Thomas Daniel McCloskey, J.S.C.
+               Present Need (Rehab):      170
+               Prospective Need:          296
+
+
+
+
+                                                                                                            25
+            MID-L-000119-25 03/16/2026 12:21:37 PM Pg 29 of 52 Trans ID: LCV2026679557
+
+
+
+
+C. COMPLIANCE PLAN TO ADDRESS FOURTH ROUND OBLIGATION (2025–2035)
+1.    Present Need
+East Brunswick Township has a rehabilitation share obligation of one hundred and seventy (170) units. In prior
+rounds, East Brunswick has met the majority of its obligation in conjunction with The East Brunswick Community
+Housing Corporation. The East Brunswick Community Housing Corporation (EBCHC) is a non-profit corporation
+whose purpose is to provide affordable housing for low- and very low-income households in the Township. As of
+2025, EBCHC owns and manages 81 affordable rental units. This is a municipally sponsored, 100% affordable
+family rental program. All units are perpetually deed restricted, with housing units that are primarily thirty years
+old or more. The tenants are income-certified annually and must be earning below 50% of regional median
+income. The projects consist of remediation of deficient windows and furnaces, dilapidated kitchens and
+bathrooms in the low income rental program. Water heaters were replaced proactively to prevent water damage
+to the units and neighboring units. East Brunswick will also continue to participate in programs such as the
+Middlesex County Housing Rehabilitation Program4 and Community Development Block Grant Program. It will
+also create a program to provide for rehabilitation of existing units which will be funded through its affordable
+housing trust fund and other sources, as funds become available.
+
+2.    Prospective Need
+As noted above, the Township has a Fourth Round Prospective Need Obligation of 296 units that must be
+provided in the 2025-2035 period. The Fourth Round Prospective Need obligation will be addressed as shown
+in Table 24 below.
+
+Table 24: Satisfying the Fourth Round
+                                    Type / Mechanism                        Affordable Units   Max. Bonus Credits    Max. Credits
+ Commons at Kingswood Station        Extension of Affordability Controls           9                                       9
+ EBCHC                               Market-to-Affordable Family Rental            20                  20                 40
+ EIHAB (Site No. 2)                  Supportive/Special Needs Housing              3                    3                  6
+ Aplus Care (Sites No. 1, 2, & 3)    Supportive/Special Needs Housing              10                  10                  20
+ Tices Lane (Legacy Place)                Carry-Over Family Rental                 4                    4                  8
+ Care One                                     Assisted Living                      10                                      10
+ Brightview EB Urban Renewal                  Assisted Living                      10                                      10
+ CSH/Benchmark Senior Living                  Assisted Living                      10                                      10
+                                           100% Affordable /
+ Sixth Street Municipal Site                                                       28                  28                 52
+                                          Municipally Sponsored
+ Inclusionary Rezoning Sites                Inclusionary Zoning                   118                   9                 127
+                                    TOTAL AFFORDABLE UNITS:                       222
+                                    MAXIMUM BONUS CREDITS:                                             74*
+                                         TOTAL FOURTH ROUND PROSPECTIVE NEED:                                             296
+                                                                  *Subject to bonus cap of 25% of prospective need (25% x 296 = 74)
+
+
+
+4 The Middlesex County Owner-Occupied Housing Rehabilitation Program is administered by CGP&H on behalf of the
+
+County: https://hip.cgph.net/middlesex-county-housing-rehabilitation-program/
+
+                                                                                                                                26
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 30 of 52 Trans ID: LCV2026679557
+
+
+
+
+The Fourth Round Plan will also continue to provide a realistic opportunity for development of at least 73
+affordable units on the unbuilt inclusionary sites from the Third Round, as detailed in the previous section. In
+addition, 63 credits have been identified over and above the Third Round Plan, which can be used to address
+the Fourth Round per C.52:27D-304.1.5 Below, we offer a description of proposed compliance mechanisms, as
+well as the number of units/credits and anticipated and the status of each.
+
+EXTENSION OF AFFORDABILITY CONTROLS
+9 CREDITS | COMPLETE
+As part of the Third Round, the Township undertook an aggressive and highly successful effort in 2015 and
+2016 to extend the affordability controls on 322 residential units throughout the Township that were otherwise
+going to revert to market rate following the expiration of their initial 20- or 30-year control period. In October
+2024, the Township extended the affordability controls on 9 additional affordable for-sale units within the
+Kingswood Station development that were extended as part of the Third Round. As in the Third Round, the
+Township exercised their legitimate right to prevent the repayment option under the 95/5 rule per the provisions
+of the existing deed restrictions or master deeds. The Township Resolution extending the affordability controls
+is included in Appendix H.
+
+MARKET TO AFFORDABLE PROGRAM
+20 UNITS + 20 BONUS = 40 CREDITS | PARTIALLY COMPLETE
+The Township, in conjunction with the non-profit East Brunswick Community Housing Corporation (EBCHC)
+remains committed to acquiring market rate units during the Fourth Round for conversion to affordable family
+rentals. The Third Round Plan committed to the conversion 48 market rate to affordable units during the years
+1999 to 2025, of which 10 had yet to be completed as of the time of the 2016 Plan adoption. Since then, the
+Township and EBCHC have acquired 20 new units, leaving a surplus of 10 that may carry forward into the Fourth
+Round. The Township will acquire 10 additional units over the remainder of the 2025-2035 period, for a total
+Fourth Round goal of 20 market-to-affordable conversions.
+
+All newly created affordable units will be priced to be affordable to families annually earning between 30% and
+50% of median income, with a portion further restricted as very low-income units to families earning less than
+30% of median annual income. The mix will be between one, two and three bedroom units as needed by the
+demographics of the community. As in the past, the units will be owned and managed by the EBCHC for the
+duration of the deed restriction and will be affirmatively marketed in accordance with UHAC requirements. The
+Administrative Agent for the program is the Executive Director of East Brunswick Community Housing
+Corporation, who oversees the program in accordance with UHAC regulations. While funding needs are varied
+based on the individual characteristics of each transaction, units are typically acquired using a combination of
+monies from the Affordable Housing Trust Fund, State & County financing, and mortgages.
+Market-to-affordable conversion units had previously been eligible for one-to-one bonus credits in the Third
+Round if the units were deed restricted for family rentals. The Amended FHA provides a one-to-one bonus credit
+
+
+
+
+5 [i]f a municipality has credits in excess of its prior round obligations, and such excess credits represent housing that will
+
+continue to be deed-restricted and affordable through the current round, the municipality may include such housing, and
+applicable bonus credits, towards addressing the municipality’s new calculation of prospective need.”
+                                                                                                                           27
+         MID-L-000119-25 03/16/2026 12:21:37 PM Pg 31 of 52 Trans ID: LCV2026679557
+
+
+
+
+for any market-to-affordable units created as part of the Fourth Round. A list of existing deed-restricted units
+managed by EBCHC is included in Appendix H.
+
+1. SUPPORTIVE & SPECIAL NEEDS HOUSING
+13 BEDROOMS + 13 BONUS = 26 CREDITS | COMPLETE
+Thirteen (13) permanent rental supportive and special needs housing bedrooms have been established in the
+Township, in addition to the 12 bedrooms that were part of the Third Round Plan. The 13 bedrooms are located
+within 4 residences throughout the Township and are operated by licensed residential service providers in
+accordance with the New Jersey Department of Human Services Office of Licensing. A list of all existing
+supportive and special needs developments in the Township is included in Appendix H.
+
+2. ASSISTED LIVING FACILITIES
+30 CREDITS
+Since 2017, three assisted living facilities have been approved in the Township. In accordance with N.J.S.A.
+26:2H-12.16 et seq., a new assisted living residence licensed on or after September 1, 2001, shall attain a
+level of occupancy by Medicaid-eligible persons of at least 10 percent of its total beds which is based on the
+total beds allocated in the CN. Per N.J.A.C. 5:93-5.16, these beds may count toward a municipality’s fair share
+obligation.
+
+        CAREONE AT EAST BRUNSWICK ASSISTED LIVING | 10 MEDICAID BEDS
+        BLOCK 321.18, LOT 40.02 | COMPLETE
+        In February 2018, Care One received amended preliminary and final site plan approval with variances
+        from the Zoning Board of Adjustment to construct a 106-unit assisted living facility located at 664-666
+        Cranbury Road, designated as Block 321.18, Lot 40.01 on the Township tax maps. In New Jersey,
+        assisted living residences are licensed by the Long Term Care Licensing Program of the Division of Long
+        Term Care Systems. As part of the licensing process the facility must receive a certificate of need (“CN”),
+        which Care One received for the approved 106-bed facility per CN ER#180203-12-37, dated 8/3/2018.
+        As the CN is for 106 beds, there are 10 Medicaid beds at Care One at East Brunswick which qualify as
+        affordable units. The CN is provided in Appendix H.
+
+        BRIGHT VIEW SENIOR LIVING | 10 MEDICAID BEDS
+        BLOCK 321.18, LOT 40.02 | APPROVED + UNDER CONSTRUCTION.
+        In February 2025, Brightview East Brunswick Urban Renewal, LLC received preliminary and final major
+        site plan approval from the Planning Board to construct a senior citizen congregate living, assisted living
+        and memory care facility consisting of 175 units with 209 beds. The subject property is located at 509
+        Cranbury Road and is designated as Block 87, Lot 10.07 on the Township tax maps. The site was the
+        subject of the Cranbury Road and Ryders Lane Redevelopment Plan, adopted 2024, which specifically
+        permitted the proposed use. Brightview will be providing 10 Medicaid beds (10% of overall assisted
+        living beds) in accordance with State regulations. As of February 2026, site work has commenced on
+        the property.
+
+
+
+
+                                                                                                                28
+ MID-L-000119-25 03/16/2026 12:21:37 PM Pg 32 of 52 Trans ID: LCV2026679557
+
+
+
+
+EAST BRUNSWICK ASSISTED LIVING | 10 MEDICAID BEDS
+BLOCK 87, LOTS 20.01 & 3.09 | APPROVED
+In December 2023, Capitol Seniors Housing (CSH) received preliminary and final site plan approval &
+subdivision approval with variances from the Zoning Board of Adjustment to construct a three-story,
+100-bed assisted living facility at 566 Ryders Lane (Block 87, Lot 20.01 and 3.09) in accordance with
+CN ER#2022-09305-12-01, dated 9/28/2023. The facility will provide the 100 beds within 87 units
+and 10%, or 10, beds will be reserved for Medicaid patients in accordance with State regulations In July
+2025, a contract purchaser, Benchmark Senior Living, sought and received limited amended
+preliminary and final site plan approval from the Zoning Board in order to effectuate development of the
+project.
+
+
+
+
+                                                                                                     29
+           MID-L-000119-25 03/16/2026 12:21:37 PM Pg 33 of 52 Trans ID: LCV2026679557
+
+
+
+
+3. 100% AFFORDABLE DEVELOPMENT WITH MUNICIPAL CONTRIBUTION
+SIXTH STREET MUNICIPAL SITE | APPROX. 28 UNITS + UP TO 28 BONUS CREDITS = 56 CREDITS
+          BLOCK   LOT
+          32      7.01 7.02
+          66      5, 6, 7, 8, 9, 10.01, 11.01, 12.01, 13.01
+          73      1.01
+East Brunswick will address a portion of its Fourth Round obligation through a 100% affordable development
+in collaboration with a nonprofit housing developer on a municipally owned property. The 13.1 acre tract is
+located on the west side of Route 18 within a residential area served by Icker Avenue, Davison Avenue, and
+Sixth Street. The site was formerly the Middlesex Metro Bus Company depot prior to Township acquisition in
+foreclosure proceedings circa 1998. It is anticipated that a minimum of 28 affordable family rental units would
+be constructed on the site. A complete site suitability analysis is provided in the next section.
+
+4.       FOURTH ROUND INCLUSIONARY HOUSING PROJECTS
+The Township proposes to rezone three (3) privately-owned tracts for inclusionary development that will yield at
+least 118 affordable units plus the remainder of the Township’s eligible bonus credits, as applicable to
+commercial redevelopment. If all other mechanisms are completed, approximately 9 bonus credits would be
+earned. Inclusionary zoning will be accomplished via Redevelopment Plan and/or zoning amendment. The three
+proposed inclusionary sites are as follows:
+     §    Arisa II: 250 new family rental units in proposed MSMXD District, with 20% affordable set-aside within
+          zone (minimum 43 new credits)
+     §    Brunswick Square Mall: Minimum of 300 rental and/or sale units with 20% affordable set-aside
+          (minimum 60 credits), with possibility of supportive or special needs housing
+     §    660 Cranbury Road: ±40 townhouse or stacked townhouse units with 20% affordable set-aside (±8
+          credits)
+A description of each site’s proposed conceptual development is described in the next section. Draft zoning is
+included in            .
+
+
+
+
+                                                                                                             30
+           MID-L-000119-25 03/16/2026 12:21:37 PM Pg 34 of 52 Trans ID: LCV2026679557
+
+
+
+
+D. SITE SUITABILITY ANALYSIS FOR 100% AFFORDABLE AND INCLUSIONARY SITES
+The site suitability of each project is provided in the next section, including maps. In accordance with the
+requirements of N.J.A.C 5:93-5.3, municipalities shall designate sites that are:
+
+       •              , i.e., have clear title and is free of encumbrances which preclude development);
+
+       •             , i.e., adjacent to compatible land uses, have access to appropriate streets, and are
+             consistent with the environmental policies of N.J.A.C. 5:93-4;
+
+       •                 , i.e., have access to appropriate water and sewer infrastructure and are consistent with
+             the areawide water quality management plan.
+       •               , i.e., can be developed in a manner consistent with the rules or regulations of all
+             agencies with jurisdiction over the site;
+       •     Align with the                                               (“SDRP”), per N.J.A.C. 5:93-5.4.
+
+N.J.A.C. 5:93-1.3 and N.J.A.C. 5:93:5.5 establish further documentation required for proposed 100% affordable
+sites with municipal contributions in order to demonstrate municipal control of a site and address other areas
+of concern related to site suitability, as follows:
+
+A municipality may elect to provide low and moderate income units through a municipally sponsored
+construction program. A municipally sponsored construction program shall address four major areas of
+concern. It shall document that there is municipal control of the site(s); an administrative mechanism to
+construct the proposed housing; a funding plan and evidence of adequate funding capacity; and timetables for
+construction of the units. More specifically, the following minimum documentation shall be submitted:
+
+   1. The municipality shall demonstrate that it has control or has the ability
+   2. An                            shall be submitted for the development indicating who will income qualify
+      applicants and administer the units once they are occupied. The municipality may contract with an
+      outside agency to provide these functions, provided a written agreement between the administrative
+      agency and the municipality is submitted to the Council.
+   3. The municipality shall submit detailed information demonstrating that it has
+                  The municipality shall demonstrate that it has control or has the ability to control the site(s).
+      Control may be in the form of outright ownership or an option on the property;
+   4. A                                       , shall be submitted for each step in the development process:
+      including preparation of a site plan, granting of municipal approvals, applications for State and Federal
+      permits, selection of a contractor and construction. The construction schedule shall provide for
+      construction to begin within two years of substantive certification.
+
+
+
+
+                                                                                                                31
+        MID-L-000119-25 03/16/2026 12:21:37 PM Pg 35 of 52 Trans ID: LCV2026679557
+
+
+
+
+1. 100% AFFORDABLE FAMILY RENTAL | SIXTH STREET MUNICIPAL SITE
+This site is a 13.1 acre tract is located on the west side of Route 18, between a residential and industrial area,
+bound by Icker Avenue, Davison Avenue, and Sixth Street. The site was formerly the Middlesex Metro Bus
+Company depot prior to Township acquisition in foreclosure proceedings circa 1998.
+
+SITE SUITABILITY: SIXTH STREET MUNICIPAL SITE
+Block / Lot:    32 / 7.02, 7.02               Address:        Sixth Street & Davison Ave        Former Zoning:       I/M
+                66 / 5, 6, 7, 8, 9, 10.01,
+                11.01, 12.01, 13.01                                                             Proposed Zoning      TH/AH
+                73 / 1.01
+Acreage:        13.1                          Density:        3 DU/acre based on gross          Unit Type(s):        Townhouses
+                                                              acreage (±6 DU/acre based                              Stacked flats
+                                                              on developable acreage)                                Family rentals
+Total Units:    Max. 30                       Set Aside:      100% Affordable                   Affordable Units:    Max. 30
+Current Use:    Vacant; Former bus            Potential       1-for-1: 100% affordable with     Potential Bonus      Max. 30
+                depot                         Bonus Type:     municipal contribution            Credits:
+
+
+The Township of East Brunswick has owned this property since acquiring it in foreclosure proceedings in 1998. The Township has
+engaged in environmental remediation of the site. To the Township’s knowledge, there are no legal encumbrances that preclude
+development of this site for affordable housing.
+
+
+The proposed townhouse development would be located adjacent to a small-lot single-family neighborhood to the north and east.
+The site has frontage on Sixth Street near its intersections with Icker Avenue and Davison Avenue, which provide connectivity to the
+surrounding area, including commercial uses on and near Route 18. The Sawmill Brook and its associated wetlands and riparian
+areas are located to the west and north of the site, where the environmental constrains will provide a substantial natural buffer of
+over 400 feet from the I/M Zone along Harts Lane to the west. As shown on the aerial map (see                 ), the site includes areas
+that are delineated as wetlands within the western and northern portions of the site. However, these environmental constraints will
+not preclude the proposed affordable housing development and will provide the enhanced screening as discussed. Development
+on the site is proposed to be limited to ±3 units per gross acre or ±6 units per net acre, which is comparable to the density of the
+surrounding residential area. There are no historic or architecturally important sites or buildings on the property or in the immediate
+vicinity that will impact or be impacted by the development of affordable housing.
+
+
+The site has access to appropriate water and sewer infrastructure and there is sufficient capacity to serve the proposed project.
+
+
+The Township will rezone the site to permit the proposed project. The development can be accommodated outside of the regulated
+riparian zone, wetlands, or required associated buffers. The site can be developed consistent with the Residential Site Improvement
+Standards (RSIS) and other state regulations such as those of NJ Department of Environmental Protection (NJDEP).
+
+
+The SDRP designates the property as the Metropolitan Planning Area (PA-1). The intention of the Metropolitan Planning Area is to
+provide for much of the State’s future development in a compact form and is the preferred location for affordable housing
+development, particularly the redevelopment of existing improved sites - in this case, a long-vacant municipally owned site.
+
+
+
+
+                                                                                                                                   32
+MID-L-000119-25 03/16/2026 12:21:37 PM Pg 36 of 52 Trans ID: LCV2026679557
+
+
+
+
+ The Township of East Brunswick is the outright owner of the entire tract.
+
+
+ The nonprofit site developer will own and operate the development in accordance with an agreement to be determined in
+ the future, which may include an administrative agent. All units shall be income restricted and affirmatively marketed in
+ accordance with the requirements of UHAC, the Amended FHA, or successive legislative.
+
+
+ The Township of East Brunswick will provide the development site in accordance with an agreement to be determined. The
+ nonprofit developer will seek financing from governmental (County, State, Federal) resources as applicable to the project.
+ The Township has adequate Affordable Housing Trust Fund moneys available to supplement, as needed.
+
+
+ Will be developed and provided as part of the compliance process. Construction will be completed in the timely manner
+ set forth by State guidelines.
+
+
+
+
+                                                                                                                     33
+                MID-L-000119-25 03/16/2026 12:21:37 PM Pg 37 of 52 Trans ID: LCV2026679557
+
+FIGURE 1: SIXTH STREET MUNICIPAL SITE
+Aerial Context & Environmental Constraints
+Block 32, Lots 7.01 & 7.02; Block 66, Lots 5, 6, 7, 8, 9, 10.01, 11.01, 12.01, 13.01; Block 73, Lot 1.01
+
+
+
+
+                                                                                            ENVIRONMENTAL CONSTRAINTS
+                                                                                                 Steep Slopes
+                                                                                                 Wetlands
+
+
+                                                                                        0                   250 ft
+
+
+TOWNSHIP OF EAST BRUNSWICK | FOURTH ROUND (2025-2035) HOUSING ELEMENT & FAIR SHARE PLAN
+                MID-L-000119-25 03/16/2026 12:21:37 PM Pg 38 of 52 Trans ID: LCV2026679557
+
+FIGURE 1A: SIXTH STREET MUNICIPAL SITE
+Tax Map
+Block 32, Lots 7.01 & 7.02; Block 66, Lots 5, 6, 7, 8, 9, 10.01, 11.01, 12.01, 13.01; Block 73, Lot 1.01
+
+
+
+
+TOWNSHIP OF EAST BRUNSWICK | FOURTH ROUND (2025-2035) HOUSING ELEMENT & FAIR SHARE 0
+                                                                                  PLAN                     250 ft
+         MID-L-000119-25 03/16/2026 12:21:37 PM Pg 39 of 52 Trans ID: LCV2026679557
+
+
+
+
+2. INCLUSIONARY ZONING | ARISA II SITE, MAIN STREET
+BLOCK 149, LOTS 2.02, 3.02, AND 4
+The Arisa II tract is located on the south side of Main Street to the north of Duhernal Lake, west of Route 18,
+near the Township’s border with the Borough of Spotswood and the Township of Old Bridge. The site was
+historically developed with the Anheuser Busch yeast production factory before its sale in 1988 and subsequent
+closure in 1995. The property was rezoned SCMXD, Senior Citizen Mixed Use Planned Development, in 2002
+from I/M Industrial Manufacturing. The overall tract measures approximately 28 acres in area, though
+significant areas of wetlands and flood plains are present in the southerly portion of the property that limit the
+developable area to ±13.2 acres.
+The portion of the site closest to Main Street was a Third Round inclusionary development site wherein the
+developer, Arisa Realty Co., initially obtained approval for 163 senior residential units in 2005 with an affordable
+housing component. The Developer sought to convert the project to a non-age restricted development in
+accordance with the conversion legislation of 2010. The development was subsequently approved for 133 non-
+age restricted apartments and townhomes at a gross density of 4.19 DU/acre with the provision of 20 affordable
+units within the apartment portion of the project including 12 moderate income units, 7 low income units and
+1 very low income unit as part of the Third Round Plan. At present, 63 apartments have been constructed on
+adjacent Block 150, Lot 34.01, including the 20 affordable units.
+In 2025, the Developer approached the Township regarding a new prospective inclusionary development on the
+remainder of the site. The site is suitable for inclusionary development, as detailed in the next section. The
+environmentally constrained areas have been considered in project design and approved unit yield.
+
+The site is presently located in the SCMXD zone, which permits a maximum of 5 units per gross acre. Permitted
+uses in the zone include residential development in a variety of housing types including townhomes and
+apartments, offices, personal services, instructional studios, banks and medical facilities including physician's
+offices. The Township will adopt new zoning that replaces the SCMXD District with a new Main Street Mixed-Use
+District (MSMXD) and provides for 250 new units on this portion of the property, with a required 20% zone-wide
+set-aside for affordable housing.
+
+
+
+
+                                                                                                                 36
+        MID-L-000119-25 03/16/2026 12:21:37 PM Pg 40 of 52 Trans ID: LCV2026679557
+
+
+
+
+SITE SUITABILITY: ARISA II - MAIN STREET
+Block / Lot:     149 / 2.02, 3.02, 4             Address:      Main Street                     Current Zoning:       SCMXD
+                                                                                               Proposed Zoning:      MSMXD
+Acreage:         28                              Density:      ±9 units per acre               Unit Type(s):         Multifamily
+Developable      ±13.2 (wetlands/                                                                                    Family rentals
+Acres:           floodplain)
+Total Units:     Max. 250                        Set Aside:    20% Affordable (district        Affordable Units:     Min. 43
+                                                               total)
+Current Use:     Vacant
+
+
+To the Township’s knowledge, there are no legal encumbrances that preclude development of this site for inclusionary
+development. The Developer has provided documentation that access can be obtained across an adjacent Conrail parcel for both
+primary and emergency use.
+
+
+The proposed development would be located on the south side of Main Street, adjacent to the Developer’s existing multi-family
+project, and in the vicinity of single-family development on the north side of Main Street. There are a mix of uses, including retail,
+also located within walking distance. The site will be accessed from Main Street and is less than a quarter mile from Route 18.
+There are approximately 14 acres of environmental constraints on the site; however, these are located away from the Main Street
+frontage and there is a large, contiguous developable upland area (see               ). The environmental constraints have been
+considered in project design and approved unit yield and will not preclude development. There are no historic or architecturally
+important sites or buildings on the property or in the immediate vicinity that will impact or be impacted by the development of
+affordable housing.
+
+
+The site has access to appropriate water and sewer infrastructure and there is sufficient capacity to serve the proposed project.
+
+
+The Township will rezone the site to permit the proposed project to effectuate the production of affordable housing. The
+development can be accommodated outside of the regulatory floodway, floodplains, and any required associated buffers. The site
+can be developed consistent with the Residential Site Improvement Standards (RSIS) and other state regulations such as those of
+the New Jersey Department of Environmental Protection (NJDEP).
+
+
+The SDRP designates the property as the Metropolitan Planning Area (PA-1). The intention of the Metropolitan Planning Area is to
+provide for much of the State’s future development in a compact form and is the preferred location for affordable housing
+development, particularly the redevelopment of existing improved sites; e.g., this former industrial property in a developed area.
+
+
+
+
+                                                                                                                                   37
+                MID-L-000119-25 03/16/2026 12:21:37 PM Pg 41 of 52 Trans ID: LCV2026679557
+
+FIGURE 2: ARISA II
+Aerial Context & Environmental Constraints
+Block 149, Lots 2.02, 3.02, & 4 | Main Street (CR-615) & Taft Place
+
+
+
+
+                                                                                               18
+
+
+
+
+                                                                                     ENVIRONMENTAL CONSTRAINTS
+                                                                                          Flood Hazard Areas
+                                                                                          Steep Slopes
+                                                                                          Wetlands
+
+                                                                                    0         250 ft
+
+
+
+TOWNSHIP OF EAST BRUNSWICK | FOURTH ROUND (2025-2035) HOUSING ELEMENT & FAIR SHARE PLAN
+                MID-L-000119-25 03/16/2026 12:21:37 PM Pg 42 of 52 Trans ID: LCV2026679557
+
+FIGURE 2A: ARISA II
+TAX MAP
+Block 149, Lots 2.02, 3.02, & 4 | Main Street (CR-615) & Taft Place
+
+
+
+
+TOWNSHIP OF EAST BRUNSWICK | FOURTH ROUND (2025-2035) HOUSING ELEMENT & FAIR SHARE PLAN
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 43 of 52 Trans ID: LCV2026679557
+
+
+
+
+3. INCLUSIONARY ZONING / REDEVELOPMENT PLAN | BRUNSWICK SQUARE MALL
+BLOCK 131, LOTS 7.01, 20.01, 20.03, 20.04, 21.02, 21.03, 21.04, 22.01, 23.01, 24.01
+The Township proposes to meet a portion of its Fourth Round Obligation with inclusionary residential
+development on the Brunswick Square Mall site as part of a mixed-use redevelopment project. The Brunswick
+Square Mall was constructed in the 1970s and has not been substantially modernized since then. The site was
+determined to be a Condemnation Area in Need of Redevelopment by the Township Council per Resolution #25-
+139 on March 24, 2025. It is anticipated that a redevelopment plan will be prepared to reflect the proposed
+mixed-use development, including a required affordable housing set-aside component, to be adopted by
+September 30, 2026.
+
+  3. BRUNSWICK SQUARE MALL REDEVELOPMENT
+  Block / Lot:    131 / 7.01, 20.01,            Address:        State Route 18 & Rues Lane         Current Zoning:       HC-2 & OP-1
+                  20.03, 20.04, 21.02,
+                  21.03, 21.04, 22.01,                                                             Draft Zoning          Redevelopment
+                  23.01, 24.01                                                                                           Plan TBD.
+  Acreage:        81.43                         Density:        Net acreage of redevelopment       Unit Type(s):         TBD
+                                                                area to be determined.
+                                                                                                                         Family rentals
+  Total Units:    TBD                           Set Aside:      20% Affordable                     Affordable Units:     TBD
+  Current Use:    Brunswick Square Mall         Potential       0.5 credits for redevelopment      Potential Bonus       TBD
+                  and Pad Sites                 Bonus Type:     of commercial site                 Credits:
+
+
+  To the Township’s knowledge, there are no legal encumbrances that preclude inclusionary development on this site.
+
+
+  This project is intended to be developed on a portion to be determined of the existing Brunswick Square Mall, which is an 81-acre
+  enclosed shopping mall located on the west side of Route 18 north of Rues Lane (see                 . The site is centrally located within
+  the Township and greater region and would have direct access to a number of important Township roadways. Bus service is also
+  available on Route 18. Land uses in the vicinity are varied in nature, including a school to the west, commercial uses along Route
+  18 and Summerhill Road, and single-family residential development to the north. There are no known environmental constraints on
+  the site. As only a portion of the site’s 81 acres are intended to be redeveloped for residential use, the overall residential
+  development density will to be determined in discussion with the developer to achieve a mutually beneficial plan that effectuates
+  the Township’s production of affordable housing. There are no historic or architecturally important sites or buildings on the property
+  or in the immediate vicinity that will impact or be impacted by the development of affordable housing.
+
+
+  The site has access to appropriate water and sewer infrastructure and there is sufficient capacity to serve the proposed project.
+
+
+  The Township will prepare a Redevelopment Plan for the site to permit the proposed project. The site can be developed consistent
+  with the Residential Site Improvement Standards (RSIS) and other state regulations such as those of the New Jersey Department of
+  Environmental Protection (NJDEP).
+
+
+  The SDRP designates the property as the Metropolitan Planning Area (PA-1). The intention of the Metropolitan Planning Area is to
+  provide for much of the State’s future development in a compact form and is the preferred location for affordable housing
+  development, particularly the redevelopment of existing improved sites – in this case, a shopping mall that is one of the Township’s
+  most visible sites.
+
+
+
+
+                                                                                                                                      40
+                      MID-L-000119-25 03/16/2026 12:21:37 PM Pg 44 of 52 Trans ID: LCV2026679557
+
+
+
+
+FIGURE 3: BRUNSWICK SQUARE MALL REDEVELOPMENT
+Aerial Context
+Block 131, Lots 7.01, 20.01, 20.03, 20.04, 21.02, 21.03, 21.04, 22.01, 23.01 & 24.01
+
+
+
+
+                                                                                 23.01
+                                                                    22.01
+
+                                                            21.02
+                                                                                                   21.03
+
+                                                                                   21.04
+
+
+                                                                                                             7.01
+                                                                                       BLOCK 131
+
+                                                                                               20.01
+
+
+
+
+                                                                                                           20.03
+
+                                                                                                                        20.04
+
+
+
+
+                                                                                                                    0           500’
+
+
+
+
+TOWNSHIP OF EAST BRUNSWICK | FOURTH ROUND (2025-2035) HOUSING ELEMENT & FAIR SHARE PLAN
+                      MID-L-000119-25 03/16/2026 12:21:37 PM Pg 45 of 52 Trans ID: LCV2026679557
+
+
+
+
+FIGURE 3: BRUNSWICK SQUARE MALL REDEVELOPMENT
+Tax Map
+Block 131, Lots 7.01, 20.01, 20.03, 20.04, 21.02, 21.03, 21.04, 22.01, 23.01 & 24.01
+
+
+
+
+TOWNSHIP OF EAST BRUNSWICK | FOURTH ROUND (2025-2035) HOUSING ELEMENT & FAIR SHARE PLAN
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 46 of 52 Trans ID: LCV2026679557
+
+
+
+
+4. INCLUSIONARY ZONING | 660 CRANBURY ROAD
+The Township seeks to continue its support for high quality housing options in appropriate areas of the
+Township. This site is located along a portion of the Cranbury Road that has experienced a transition of land
+uses that bely the underlying R-1 zoning, including commercial uses and planned unit residential development.
+The site measures ±3.4 acres and is currently developed with a single-family residential dwelling.
+
+  660 Cranbury Road
+  Block / Lot:    321.18 / 40.01               Address:        660 Cranbury Road                 Current Zoning:      R-1
+                                                                                                 Draft Zoning         TH-3
+  Acreage:        ±3.4                         Density:        12 DU/acre                        Unit Type(s):        Townhouses,
+                                                                                                                      stacked flats
+                                                                                                                      Family rentals
+  Total Units:    ±40                          Set Aside:      20% Affordable                    Affordable Units:    ±8
+  Current Use:    Single-Family Residential    Potential       -                                 Potential Bonus      -
+                                               Bonus Type:                                       Credits:
+
+
+  To the Township’s knowledge, there are no legal encumbrances that preclude development of this site for affordable housing.
+
+
+  The proposed development is located on a portion of Cranbury Road that is characterized by a mix of uses, including townhouses,
+  small-lot single-family dwellings, the Park Chateau banquet venue, and Care One’s East Brunswick Assisted Living facility, which is
+  on the adjacent lot to the southwest (see            ). The site is along an arterial roadway that is proximate to similar residential
+  development and other main Township roadways that provide access to employment centers, retail uses, and open space. A
+  substantial buffer will be required to serve as a transition between the proposed townhouse development and single-family
+  residential uses to the northeast. There are no known environmental constraints on the site. There are no historic or architecturally
+  important sites or buildings on the property or in the immediate vicinity that will impact or be impacted by the development of
+  affordable housing.
+
+
+  The site has access to appropriate water and sewer infrastructure and there is sufficient capacity to serve the proposed project.
+
+
+  The Township will rezone the site to permit the proposed project. The site can be developed consistent with the Residential Site
+  Improvement Standards (RSIS) and other state regulations such as those of the New Jersey Department of Environmental
+  Protection (NJDEP).
+
+
+  The SDRP designates the property as the Metropolitan Planning Area (PA-1). The intention of the Metropolitan Planning Area is to
+  provide for much of the State’s future development in a compact form and is the preferred location for affordable housing
+  development.
+
+
+
+
+                                                                                                                                      43
+              MID-L-000119-25 03/16/2026 12:21:37 PM Pg 47 of 52 Trans ID: LCV2026679557
+
+FIGURE 4: 660 Cranbury Road
+Aerial Context
+Block 321.18, Lot 40.01
+
+
+
+
+                                      Cranbury Road (CR-535)
+
+
+
+
+                                                                                          Autumn Lane
+
+
+
+
+  0                          300 ft
+
+TOWNSHIP OF EAST BRUNSWICK | FOURTH ROUND (2025-2035) HOUSING ELEMENT & FAIR SHARE PLAN
+              MID-L-000119-25 03/16/2026 12:21:37 PM Pg 48 of 52 Trans ID: LCV2026679557
+
+FIGURE 4A: 660 Cranbury Road
+Tax Map
+Block 321.18, Lot 40.01
+
+
+
+
+                                  CRANBURY ROAD (CR-535)
+
+
+
+
+TOWNSHIP OF EAST BRUNSWICK | FOURTH ROUND (2025-2035) HOUSING ELEMENT & FAIR SHARE PLAN
+          MID-L-000119-25 03/16/2026 12:21:37 PM Pg 49 of 52 Trans ID: LCV2026679557
+
+
+
+
+E. REALISTIC OPPORTUNITY FOR UNDEVELOPED THIRD ROUND SITES
+Per the Amended FHA, the municipality shall demonstrate how any sites that were not built in the prior round
+continue to present a realistic opportunity for construction of affordable housing, which may include proposing
+changes to the zoning or dedication of municipal trust fund dollars.
+
+Table 25: Third Round Undeveloped Inclusionary Sites to Remain in Fourth Round
+                                          Type / Mechanism          Affordable Units   Bonus Credits   Total Credits
+ Zielinski (Cranbury Rd)               Inclusionary Zoning - VGII         17                 -              17
+ Bailes (Cranbury Rd South)            Inclusionary Zoning - VGII         20                 -              20
+ Kelemen (Rues Lane)                   Inclusionary Zoning - TG           36                 -              36
+                                                                                                            73
+
+ZIELENSKI, CRANBURY ROAD – BLOCK 88, LOT 18.01
+BAILES, 491 CRANBURY ROAD – BLOCK 87, LOTS
+These sites are located in the VG-II Village Green Zone. The VG-II Zone was initially adopted in the 1970s and
+was amended as part of Third Round compliance to allow multi-family and apartments in addition to single-
+family dwellings and reduce the minimum required acreage from 40 acres to 7 acres. The permitted density
+was increased from 6 to 9 dwelling units per acre with a required minimum of 20% of the total units to be
+affordable units.
+The Zielinski site is anticipated to yield up to 87 dwelling units, including 17 affordable units. The Bailes site is
+anticipated to yield up to 102 dwelling units, including 20 affordable units. Both sites continue to present a
+realistic opportunity for construction of affordable housing in the Fourth Round. In order to effectuate
+development, the Township will periodically review the bulk and design standards of the VG-II Zone to determine
+whether any amendments are warranted to meet current housing preferences and market trends while
+remaining consistent with surrounding residential neighborhoods.
+
+KELEMEN – 600 RUES LANE
+This site is located in the TG Town Green Village Green Zone, which permits planned single-family, townhouse
+and multifamily development at a density of 12 units to the acre, with a mandatory 20% affordable housing set
+aside. The TG Zone was initially adopted in the 1970s and was amended through Third Round compliance. In
+2017, the zoning was amended to reduce the required minimum lot area to 10 acres. The zoning also permits
+office and retail uses as part of mixed-use developments to serve residents of the site and surrounding
+neighborhood.
+This site is located at the intersection of Cranbury Road and Rues Lane near the Township Municipal Complex.
+The site was anticipated to yield up to 182 dwelling units, including 36 affordable units and continues to present
+a realistic opportunity for construction of affordable housing in the Fourth Round. In order to effectuate
+development, the Township will periodically review the bulk and design standards of the VG-II Zone to determine
+whether any amendments are warranted to meet current housing preferences and market trends while
+remaining consistent with surrounding residential neighborhoods.
+
+
+
+
+                                                                                                                   44
+        MID-L-000119-25 03/16/2026 12:21:37 PM Pg 50 of 52 Trans ID: LCV2026679557
+
+
+
+
+F. APPLICABILITY OF BONUS CREDITS FOR THE FOURTH ROUND
+Any new development or extension of affordability controls may yield bonus credits. The bonuses included in
+the amended FHA for the Fourth Round are as follows:
+
+   •                               : One unit of credit and one bonus credit for each unit of low- or moderate-
+       income housing for individuals with special needs or permanent supportive housing, as those terms are
+       defined in section 2 of P.L. 2004, c.70 (C.34:1B-21.24).
+   •                                      : One unit of credit and one-half bonus credit for each low- or
+       moderate-income ownership unit created in partnership sponsorship with a non-profit housing
+       developer.
+   •          : One unit of credit and one-half bonus credit for each unit of low- or moderate-income housing
+       located within a one-half mile radius (or one-mile radius for projects located in a Garden State Growth
+       Zone), surrounding a New Jersey Transit Corporation, Port Authority Transit Corporation, or Port Authority
+       Trans-Hudson Corporation rail, bus, or ferry station, measured from the closest point on the outer
+       perimeter of the station, including any associated park-and-ride lot, to the closest point of the housing
+       project property.
+
+   •                  One unit of credit and one-half bonus credit for a unit of age-restricted housing, provided
+       that a bonus credit for age-restricted housing shall not be applied to more than 10% of the units of age-
+       restricted housing constructed in compliance with the Uniform Housing Affordability Controls
+       promulgated by the New Jersey Housing and Mortgage Finance Agency in a municipality that count
+       towards the municipality's affordable housing obligation for any single 10-year round of affordable
+       housing obligations.
+
+   •                                 : One unit of credit and one-half bonus credit for each unit of low- or
+       moderate-income family housing with at least three bedrooms above the minimum number required by
+       the bedroom distribution.
+   •                                  : One unit of credit and one-half bonus credit for a unit of low- or
+       moderate-income housing constructed on land that is or was previously developed and utilized for retail,
+       office, or commercial space.
+   •                        : One unit of credit and one-half bonus credit for each existing low- or moderate-
+       income rental housing unit for which affordability controls are extended for a new term of affordability,
+       in compliance with the Uniform Housing Affordability Controls, and the municipality contributes funding
+       towards the costs necessary for this preservation.
+
+   •                                             : One unit of credit and one bonus credit for each unit of low-
+       or moderate-income housing in a 100% affordable housing project for which the municipality either
+       contributes property without which the project would not be feasible, or makes contributions from the
+       municipal affordable housing trust fund that cover no less than 3% of the project cost.
+   •                                     One unit of credit and one-half bonus credit for each unit of very low-
+       income housing for families above the 13% of units required to be reserved for very low-income housing
+       pursuant to section 7 of P.L.2008, c.46 (C.52:27D-329.1).
+
+
+
+                                                                                                              45
+             MID-L-000119-25 03/16/2026 12:21:37 PM Pg 51 of 52 Trans ID: LCV2026679557
+
+
+
+
+    •                            One unit of credit and one bonus credit for each unit of low- or moderate-income
+            housing created by transforming an existing rental or ownership unit from a market rate unit to an
+            affordable housing unit.
+For the Fourth Round and beyond, a municipality shall not receive more than one type of bonus credit for any
+unit, and a municipality shall not be permitted to satisfy more than 25% of its prospective need obligation with
+the use of bonus credits.
+
+G. OTHER REQUIREMENTS OF THE AMENDED FHA.
+The Township will address the following requirements pursuant to the Amended FHA:
+
+        •                                  The Township will require that 13% of all units referenced in this plan,
+             except those units that were constructed or granted preliminary or final site plan approval prior to July
+             1, 2008, to be very low-income units, with half of the very low-income units being available to families.
+        •                           At least 50% of the units addressing the Fourth Round Prospective Need will
+             be affordable to very low-income and low-income households, with the remainder affordable to
+             moderate-income households. Two of the units 100 Candlewood Drive will be affordable to low-income
+             households and three of the bedrooms at the group homes will address the remainder of this
+             requirement.
+        •                                   At least 25% of the Fourth Round Prospective Need will be met through
+             rental units, including at least half in rental units available to families.
+
+        •                                  At least half of the units addressing the Fourth Round Prospective Need
+             in total must be available to families.
+
+        •                                                  The Township does not anticipate any age-restricted
+             development at this time. However, if age-restricted units are developed, the Township will comply with
+             an age-restricted cap of 30%.
+
+        •                                       All units shall include the required bedroom distribution, and be
+             governed by controls on affordability and affirmatively marketed in conformance with the Uniform
+             Housing Affordability Controls N.J.A.C. 5:80-26.1 et seq. or any successor regulation.
+
+
+
+
+                                                                                                                   46
+         MID-L-000119-25 03/16/2026 12:21:37 PM Pg 52 of 52 Trans ID: LCV2026679557
+
+
+
+
+V. Consistency with the State Development and Redevelopment Plan
+The New Jersey State Development and Redevelopment Plan (SDRP) was originally adopted in 1992. The
+purpose of the SDRP according to the State Planning Act at N.J.S.A. 52:18A-200(f) is to:
+        Coordinate planning activities and establish Statewide planning objectives in the following areas: land
+        use, housing, economic development, transportation, natural resource conservation, agriculture and
+        farmland retention, recreation, urban and suburban redevelopment, historic preservation, public
+        facilities and services, and intergovernmental coordination.
+The State Plan is not a regulation, but a policy guide, and is meant to coordinate planning activities and
+development throughout the state. At the municipal level, master plans are required to be evaluated and, if
+necessary, modified to reflect policies of the State Plan. The State Plan is also important when the State makes
+infrastructural and other investment decisions, i.e., determining where State funds should be expended.
+A revised version of the plan was adopted by the State Planning Commission in 2001. While required by the
+State Planning Act to be revised and re-adopted every three years, the SDRP had not been revised and
+readopted since 2001 until 2025. On December 17, 2025, the State Planning Commission readopted the
+revised SDRP, which set forth the following comprehensive goals:
+        •   Promote economic growth that benefits all residents of New Jersey
+        •   Provide an adequate supply of housing for residents of all ages and incomes in communities of their
+            choosing that meet their needs and offer ready access to the full range of supportive goods and services
+        •   Economic opportunity through nation-leading infrastructure
+        •   Revitalize and recenter the state’s underutilized developed areas
+        •   Effectively address the adverse impacts of global climate change
+        •   Protect, maintain, and restore the state’s natural and water resources and ecosystems
+        •   Protect the environment; prevent and clean up pollution
+        •   Protect, enhance, and improve access to areas with exceptional archeological, historic, cultural, scenic,
+            open space, and recreational value
+        •   Implement equitable planning practices to promote thriving communities for all New Jerseyans
+        •   Foster sound and integrated planning and implementation at all levels Statewide
+At the time of adoption, the State Planning Commission and Office of Planning Advocacy postponed State Plan
+map changes through 2026, with no timetable set as of yet. As such, the designations as shown within the
+2001 SDRP Policy Map remain applicable. East Brunswick is located predominately within the Metropolitan
+Planning Area (PA-1), and all proposed Fourth Round sites are located within PA-1. The State Plan utilizes
+planning areas aspart of the framework for implementing Statewide goals and policies. For PA-1, the State Plan
+has four major aims: (1) to provide for much of the state’s future redevelopment; (2) to revitalize cities and
+towns and promote growth in compact forms; (3) to stabilize older suburbs and redesign areas of sprawl; and
+(4) to protect the character of existing stable communities.
+
+The East Brunswick Housing Element and Fair Share Plan recognizes the need to encourage development and
+redevelopment on the limited developable land in the Township in its continuous efforts to provide affordable
+housing. This Housing Plan promotes higher density development in appropriate locations served by existing
+infrastructure and proximate to transit, stores and services, and is therefore consistent with the State Plan.
+
+
+                                                                                                                  47
+

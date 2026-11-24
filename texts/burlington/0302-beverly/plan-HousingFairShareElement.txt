@@ -1,0 +1,2555 @@
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 1 of 52 Trans ID: LCV20251627585
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 2 of 52 Trans ID: LCV20251627585
+
+
+CITY OF BEVERLY 2025-2035 FOURTH ROUND HOUSING PLAN ELEMENT
+                     AND FAIR SHARE PLAN
+
+
+                   City of Beverly Common Council
+
+                           Randy Miller, Mayor
+                     Robert Bancroft, Council President
+                      Riccardo Dale, Councilmember
+                    Robert Lowden, Jr., Councilmember
+                      Kelsey Snively, Councilmember
+                    Bernadine Williams, Councilmember
+
+         Richard Wolbert, City Administrator/Public Safety Director
+             Caitlin D’Alfonso, RMC, Municipal Clerk/Registrar
+                 Thomas J. Coleman, III, Esq., City Attorney
+
+                    City of Beverly Land Use Board
+                             John Haaf, Chair
+                      Cynthia Robertson, Vice Chair
+                          Randy Miller, Class I
+                       Robert Lowden, Jr., Class II
+                         Diane Benson, Class IV
+                         Barbara Kelly, Class IV
+                      Robertina Kinniebrew, Class IV
+                           Paul Lucca, Class IV
+                        Richard Wolbert, Class III
+                        Paul Sanders, Alternate 1
+
+                         Board Staff and Consultants
+                Caitlin D’Alfonso, Land Use Board Secretary
+                 Charles D. Petrone, Esq., Board Solicitor
+          William H. Kirchner, P.E., C.M.E., N-2, Board Engineer
+        Mark A. Remsa, P.P., L.L.A., A.I.C.P, A.S.L.A., Board Planner
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 3 of 52 Trans ID: LCV20251627585
+
+
+
+
+                           TABLE OF CONTENTS
+Description                                                                   Page
+Introduction                                                                     1
+       I.      Housing Element and Fair Share Plan Requirements                  1
+       II.     Organization                                                      2
+Housing Plan Element                                                             3
+       I.      Inventory of Housing Stock                                        3
+               A. Age of Housing Stock                                           3
+               B. Housing Units in Structure                                     3
+               C. Number of Rooms in Housing Units                               4
+               D. Number of Bedrooms in Housing Units                            5
+               E. Occupied Housing Units and Housing Tenure                      5
+               F. Occupants per Room in Housing Units                            6
+               G. Selected Housing Unit Characteristics                          7
+               H. Value of Owner-Occupied Housing Units                          8
+               I. Mortgage Status and Selected Monthly Owner-Occupied Costs      9
+               J. Gross Monthly Rent                                           11
+       II.     Projection of Housing Stock                                     12
+       III.    Analysis of Demographic Characteristics                         15
+               A. Number of Persons by Age and Sex                             15
+               B. Household Size and Type                                      16
+               C. Household Characteristics and Poverty Level                  18
+       IV.     Analysis of Existing and Probable Future Employment             20
+               A. Employment Characteristics                                   20
+               B. Commuting to Work                                            22
+               C. Labor Force Estimates                                        22
+               D. Employment and Wages                                         24
+               E. Probable Future Population                                   25
+               F. Probable Future Employment                                   26
+Fair Share Plan                                                                27
+       I.      Introduction                                                    27
+       II.     Definitions                                                     28
+       III.    Present Need, 2025-2035                                         29
+       IV.     Prior Third Round Obligation, 1999-2025                         29
+       V.      Prospective Need, 2025-2035                                     29
+               A. Consideration of Lands Appropriate for Affordable Housing    29
+                   1. Sewer Service Availability                               29
+                   2. Evaluation of Potential Inclusionary Sites               31
+                       a. Site 1 – Proposed Ordinance, Waterfront, Block 947,
+                           Lots 1 and 2, Block 948, Lot 1, and Vacation of
+                           Segment of Laurel Street                            31
+                       b. Site 2 – Existing Affordable Dwelling, 219 Broad
+                           Street                                              33
+                       c. Site 3 – Existing Affordable Age-Restricted          33
+                           Development, Beverly Commons                        33
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 4 of 52 Trans ID: LCV20251627585
+
+
+CITY OF BEVERLY 2025-2035 FOURTH ROUND HOUSING PLAN ELEMENT
+                     AND FAIR SHARE PLAN
+
+Description                                                                   Page
+                     d. Site 4 – Existing Redevelopment Plan, Block 1280,
+                         Lots 1 and 2                                          33
+                     e. Site 5 – Existing Redevelopment Plan, Block 1280,
+                         Lots 6.01 and 6.02                                    34
+                     f. Site 6 – Proposed Ordinance, Cooper Street and
+                         Church Street, Block 1171, Lot 1                      35
+              B. Mechanisms for Fourth-Round Compliance                        36
+                  1. Existing Affordable Housing                               36
+                     a. 219 Broad Street, Existing Affordable Four-Bedroom
+                         Dwelling                                              37
+                     b. Beverly Commons, Existing Affordable Age-
+                         Restricted Development                                37
+                  2. Current Redevelopment Plan for Inclusionary Housing       37
+                  3. Proposed Ordinance for Inclusionary Housing               38
+                  4. Proposed Ordinance for Affordable Housing                 38
+                  5. Mandatory Affordable Housing Set-Aside Ordinance          38
+                  6. Plan Implementation Mechanisms                            39
+                     a. Administrative Mechanisms                              39
+                     b. Requirements for New Construction of Affordable
+                         Housing                                               39
+              C. Summary of Fourth-Round Compliance                            39
+                  1. Present Need, 2025-2035                                   40
+                  2. Prior Third-Round Obligation, 1999-2025                   40
+                  3. Fourth-Round Prospective Need, 2025-2035                  40
+       VI.    Multigenerational Family Housing Analysis                        42
+       VII.   State Development and Redevelopment Plan Consistency Analysis    43
+
+                                    Appendices
+Description                                                                  Page
+Appendix A, Township Council Resolution No. 2025-37                           48
+Appendix B, Court Order Fixing Municipal Obligations for “Present Need”
+       and “Prospective Need” for the Fourth Round Housing Cycle              50
+Appendix C, Site Evaluations                                                  53
+Appendix D, Proposed WD-2 Waterfront Development Inclusionary Housing
+       Zoning District                                                        91
+Appendix E, Affordability Deed Restriction for Block 625, Lot 8, 219 Broad
+       Street                                                                 94
+Appendix F, Marketing Material for the Sale of 219 Broad Street to a Low-
+       Income Household                                                      130
+Appendix G, HMFA Affordability Restriction for Beverly Commons               131
+Appendix H, City of Beverly Redevelopment Plan, 2022 Amendment for
+       Block 1280 & 1587 Between Chestnut & Elizabeth Street From
+       Railroad Avenue to Pine Street                                        140
+Appendix I, Ordinance No. 2023-9, Ordinance of the Common Council
+       Amending the Redevelopment Plan for Block 1280 in the City of Beverly 150
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 5 of 52 Trans ID: LCV20251627585
+
+
+CITY OF BEVERLY 2025-2035 FOURTH ROUND HOUSING PLAN ELEMENT
+                     AND FAIR SHARE PLAN
+
+Description                                                                  Page
+Appendix J, Ordinance No. 2025-1, Ordinance Amending the 2007
+       Redevelopment Plan As Amended for Block 1280, Lots 1, 2, 6.01 and
+       6.02, to Address a Prospective Redeveloper’s Obligation to Provide
+       Affordable Housing                                                    159
+Appendix K, Proposed Ordinance, Coooper Street and Church Street, Block
+       1171, Lot 1                                                           163
+Appendix L, City Council Resolution 2025-16, Appointing Administrative Agent 164
+Appendix M, City Council Resolution No. 205-26, Appointing Housing Liaison 165
+Appendix N, Proposed Ordinance Amending Chapter 126 Affordable Housing       166
+
+                                         Tables
+Description                                                                 Page
+Housing Plan Element
+H-1: Age of Housing Units                                                      3
+H-2: Housing Units in Structure                                                4
+H-3: Number of Rooms per Housing Unit                                          4
+H-4: Number of Bedrooms per Housing Unit                                       5
+H-5: Occupied Housing Units by Tenure                                          6
+H-6: Occupants per Room                                                        6
+H-7: Home Heating Methods                                                      7
+H-8: Selected Characteristics for Occupied Units                               8
+H-9: Value of Owner-Occupied Housing Units                                     8
+H-10: Selected Monthly Owner-Occupied Costs (SMOC) with a Mortgage             9
+H-11: Selected Monthly Owner-Occupied Costs (SMOC) without a Mortgage         10
+H-12: Selected Monthly Owner Costs as a Percentage of Household Income
+       (SMOCAPI): Housing Units with a Mortgage                               10
+H-13: Selected Monthly Owner Costs a Percentage of Household Income
+       (SMOCAPI): Housing Units without a Mortgage                            11
+H-14: Gross Monthly Rent                                                      12
+H-15: Gross Monthly Rent as a Percentage of Household Income (GRAPI)          12
+H-16: Residential Certificates of Occupancy (Cos), Pemberton Township         13
+H-17: Number of Persons by Age and Sex                                        15
+H-18: Household and Family Size and Type                                      17
+H-19: Household Income                                                        19
+H-20: Percentage of Persons and Family Whose Income in the Past 12 Months
+       Were Below the Poverty Level                                           19
+H-21: Employment Status                                                       20
+H-22: Civilian Employment Characteristics by Occupation                       21
+H-23: Civilian Employment Characteristics by Industry                         21
+H-24: Commuting to Work                                                       22
+H-25: Annual Average Labor Force Estimates (1996-2023)                        23
+H-26: Annual Employment and Wage Data by Sector, 2023, Pemberton
+       Township                                                               24
+H-27: Annual Employee and Total Wage Data by Private Sector, 2023,
+       Pemberton Township                                                     25
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 6 of 52 Trans ID: LCV20251627585
+
+
+CITY OF BEVERLY 2025-2035 FOURTH ROUND HOUSING PLAN ELEMENT
+                     AND FAIR SHARE PLAN
+
+Description                                                                  Page
+H-28: Population and Employment Forecasts                                     25
+
+Fair Share Plan
+FSP-1: Minimum and Maximum Requirements for Fourth Round Prospective
+       Need                                                                   41
+FSP-2: Credit Allocation for Affordable Mechanisms for Fourth Round
+       Prospective Need                                                       42
+FSP-3: Fourth Round Summary                                                   42
+
+                                      Figures
+Description                                                                  Page
+Housing Plan Element
+H-1: Population and Employment Forecast, Beverly City                         14
+
+                                       Maps
+Description                                                                  Page
+Fair Share Plan
+FSP-1: Beverly City Zoning Districts and Sewer Service Areas                  30
+FSP-2: Potential Sites for Affordable Housing Shown on 2013 Zoning Map        32
+FSP-3: Google Earth Showing Distance Between Site 4 and Light Rail Station    34
+FSP-4: Google Earth Showing Distance Between Site 5 and Light Rail Station    35
+FSP-5: Google Earth Showing Distance Between Site 6 and Light Rail Station    36
+FSP-6: 2001 Policy Map of the State Development and Redevelopment Plan,
+       Beverly City and Surrounding Areas Encircled                           44
+FSP-7: Enlargement of Portion of Quadrangle 94 Showing SDRP Planning
+       Areas in Beverly City                                                  45
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 7 of 52 Trans ID: LCV20251627585
+
+
+          BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+INTRODUCTION
+
+I. HOUSING PLAN ELEMENT AND FAIR SHARE PLAN REQUIREMENTS
+
+The New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.), C.52:27D-310 Essential
+components of municipality's housing element states that “A municipality's housing
+element shall be designed to achieve the goal of access to affordable housing to meet
+present and prospective housing needs, with particular attention to low- and moderate-
+income housing, and shall contain at least:
+
+   a. An inventory of the municipality's housing stock by age, condition, purchase or
+      rental value, occupancy characteristics, and type, including the number of units
+      affordable to low and moderate income households and substandard housing
+      capable of being rehabilitated, and in conducting this inventory the municipality
+      shall have access, on a confidential basis for the sole purpose of conducting the
+      inventory, to all necessary property tax assessment records and information in the
+      assessor's office, including but not limited to the property record cards;
+
+   b. A projection of the municipality's housing stock, including the probable future
+      construction of low- and moderate-income housing, for the next ten years, taking
+      into account, but not necessarily limited to, construction permits issued, approvals
+      of applications for development and probable residential development of lands;
+
+   c. An analysis of the municipality's demographic characteristics, including but not
+      necessarily limited to, household size, income level, and age;
+
+   d. An analysis of the existing and probable future employment characteristics of the
+      municipality;
+
+   e. A determination of the municipality's present and prospective fair share for low-
+      and moderate-income housing and its capacity to accommodate its present and
+      prospective housing needs, including its fair share for low- and moderate-income
+      housing, as established pursuant to section 3 of P.L.2024, c.2(C.52:27D-304.1);
+
+   f. A consideration of the lands that are most appropriate for construction of low- and
+      moderate-income housing and of the existing structures most appropriate for
+      conversion to, or rehabilitation for, low- and moderate-income housing, including
+      a consideration of lands of developers who have expressed a commitment to
+      provide low- and moderate-income housing;
+
+   g. An analysis of the extent to which municipal ordinances and other local factors
+      advance or detract from the goal of preserving multigenerational family continuity
+      as expressed in the recommendation of the Multigenerational Family Housing
+      Continuity Commission, adopted pursuant to paragraph (1) of subsection f. of
+      section 1 of P.L.2021, c.273 (C.52:27D-329.20);
+
+
+
+
+                                           1
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 8 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+   h. For a municipality located within the jurisdiction of the Highlands Water Protection
+      and Planning Council, established pursuant to section 4 of P.L.2004, c120
+      (C.13:20-4), an analysis of compliance of the housing element with the Highlands
+      Regional Master Plan of lands in the Highlands Preservation Area, and lands in the
+      Highlands Planning Area for Highlands-conforming municipalities. This analysis
+      shall include consideration of the municipality’s most recent Highlands Municipal
+      Build Out Report, consideration of opportunities for redevelopment of existing
+      developed lands into inclusionary or 100 percent affordable housing, or both, and
+      opportunities for 100 percent affordable housing in both the Highlands Planning
+      Area and Highlands Preservation Area that are consistent with the Highlands
+      regional master plan; and
+
+   i. An analysis of consistency with the State Development and Redevelopment Plan,
+      including water, wastewater, stormwater, and multi-modal transportation based on
+      guidance and technical assistance from the State Planning Commission.
+
+II. ORGANIZATION
+
+This Housing Plan Element and Fair Share Plan (HPEFSP) is organized in the following
+manner:
+
+   •   Housing plan element – It consists of following subsections of C.52:27D-310
+       Essential components of municipality's housing element: a. an inventory of the
+       municipality’s housing stock; b. a projection of the municipality's housing stock; c.
+       an analysis of the municipality's demographic characteristics; and d. an analysis of
+       the existing and probable future employment characteristics of the municipality.
+
+   •   Fair share plan – It excludes subsection i of C.52:27D-310 because Beverly City is
+       not located within the jurisdiction of the Highlands Water Protection and Planning
+       Council, and consists of the following subsections of C.52:27D-310: e. a
+       determination of the municipality's present and prospective fair share for low- and
+       moderate-income housing and its capacity to accommodate its present and
+       prospective housing needs; f. consideration of the lands that are most appropriate
+       for the provision of affordable housing; g. an analysis of the extent to which
+       municipal ordinances and other local factors advance or detract from the goal of
+       preserving multigenerational family continuity; and i. an analysis of consistency
+       with the State Development and Redevelopment Plan.
+
+   •   Supporting information, data and documents are provided in the appendices.
+
+
+
+
+                                            2
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 9 of 52 Trans ID: LCV20251627585
+
+
+            BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+HOUSING PLAN ELEMENT
+
+       I.      INVENTORY OF HOUSING STOCK
+
+               A. Age of Housing Stock
+
+According to the American Community Survey (ACS) prepared and published by the U.S.
+Census Bureau, Beverly City was estimated to have 943 housing units in 2023. Table H-
+1 shows the amount of housing units by the years they were built in Beverly and Burlington
+County. Forty-two and four-tenths percent of the housing units in the City were built 1939
+or earlier. Slightly more than one-quarter of the City’s housing units were built from 1950
+to 1959. More than three-quarters of the housing units in Beverly were constructed prior
+to 1960. After 1959, the years 1990 to 1999 saw the largest growth in housing when 6.5%
+of the units were built. Four percent of the City’s housing units were built after 1999 with
+0.4% of units constructed 2020 or later.
+
+                         Table H-1: Age of Housing Units
+                          Beverly City             Burlington County
+         Year Built       Estimate     Share       Estimate       Share
+         Total Units          943        100.0%       186,753     100.0%
+         Pre 1939             400         42.4%        19,850      10.6%
+         1940-1949             74          7.8%         4,743       2.5%
+         1950-1959            253         26.8%        19,452      10.4%
+         1960-1969             36          3.8%        27,421      14.7%
+         1970-1979             40          4.2%        32,498      17.4%
+         1980-1989             41          4.3%        24,016      12.9%
+         1990-1999             61          6.5%        23,611      12.6%
+         2000-2009             21          2.2%        20,487      11.0%
+         2010-2019             13          1.4%        10,750       5.8%
+         2020 or later          4          0.4%         3,925       2.1%
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+Almost 80% of the housing stock in Burlington County was built from 1950 to 2009, with
+double-digit percentages of housing units having been built every 10 years throughout this
+60-year period and a peak of 17.4% occurring between 1970 and 1979. Prior to 1950, 13.1%
+of the County’s housing stock was constructed, with 10.6% built 1939 or earlier. Dwelling
+units built after 2019 comprised 2.1% of the County’s housing stock.
+
+               B. Housing Units in Structure
+
+Table H-2 indicates the number of housing units in the various types of structures in the
+City and Burlington County. Structures having one unit made up 83.5% of Beverly’s
+housing stock, of which 68.0% and 15.5% were detached and attached, respectively.
+Structures with 2 units represented less than two percent of the City’s housing stock.
+Multifamily structures having 3 or more units comprised 14.6% of the dwelling units in
+Beverly. Specifically, 8.8% of the structures had 3 to 9 units, and 1.8% contained 20 or
+
+
+                                             3
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 10 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+more units. The City had no multifamily structures consisting of 10 to 19 units and no
+housing units in mobile homes, boats, recreation vehicles or vans.
+
+                       Table H-2: Housing Units in Structure
+                                     Beverly City           Burlington County
+   Type of Structure             Estimate        Share     Estimate      Share
+   Total Units                     943          100.0%     186,753      100.0%
+   1-Unit, Detached                641           68.0%      118,943      63.7%
+   1-Unit, Attached                146           15.5%       26,271      14.1%
+   2 Units                          18            1.9%        2,398       1.3%
+   3 or 4 Units                     83            8.8%        7,834       4.2%
+   5 to 9 Units                     38            4.0%        9,264       5.0%
+   10 to 19 Units                    0            0.0%        8,563       4.6%
+   20 to More Units                 17            1.8%       11,316       6.1%
+   Mobile Home                       0            0.0%        2,077       1.1%
+   Boat, RV, Van, etc.               0            0.0%         87         0.0%
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+Burlington County had 77.8% of its housing stock consisting of one unit, less than
+Beverly’s composition. The County had 1.3% of its housing stock having two units in a
+structure compared to Beverly’s share of 1.9%. About one-fifth (19.9%) of the County’s
+housing stock consisted of multi-family units (3 or more units per structure) compared to
+almost 15% of Beverly’s housing stock consisting of multi-family housing. One and one-
+tenth percent of the County’s housing units included mobile homes versus none in Beverly.
+
+              C. Number of Rooms in Housing Units
+
+                   Table H-3: Number of Rooms per Housing Unit
+                                     Beverly City          Burlington County
+   Number of Rooms
+                                Estimate        Share     Estimate      Share
+   Total Units                     943         100.0%      186,753     100.0%
+   1                                 0           0.0%        2,765       1.5%
+   2                                 0           0.0%        2,215       1.2%
+   3                                83           8.8%       13,043       7.0%
+   4                               110          11.7%       18,208       9.7%
+   5                               191          20.3%       24,471      13.1%
+   6                               115          12.2%       31,753      17.0%
+   7                               251          26.6%       27,913      14.9%
+   8                                98          10.4%       28,319      15.2%
+   9 or more                        95          10.1%       38,066      20.4%
+   Median Rooms                    6.3                        6.5
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+The number of rooms per housing unit for Beverly and the County is shown in Table H-3.
+The median number of rooms in Beverly’s housing stock was 6.3 whereby 38.8% of the
+
+
+                                           4
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 11 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+housing units had 6 and 7 rooms (12.2% and 26.6%, respectively). Housing units with 8
+and 9 or more rooms respectively made up 10.4% and 10.1% of the City’s units. None of
+the City housing units had one room or two rooms. Approximately one-fifth of Beverly’s
+housing units had 3 and 4 rooms (8.8% and 11.7%, respectively). Housing units with 5
+rooms made up 20.3% of the City’s housing stock.
+
+Burlington County’s median number of rooms per housing unit was slightly higher than
+Beverly’s – 6.5 rooms versus 6.3 rooms. Slightly more than one-fifth of the County’s
+housing stock had 9 or more rooms. Just under one-half of the County’s housing stock
+consisted of units with 6 to 8 rooms; with units having 9 or more rooms included, two-
+thirds of its housing stock had 6 or more rooms. One and five-tenths percent of the
+County’s housing units had one room whereas Beverly had no such housing units. While
+the City had no two-room housing units, the County had 1.2% of its units with two rooms.
+
+              D. Number of Bedrooms in Housing Units
+
+Table H-4 indicates the number of bedrooms per housing unit in Beverly and the County.
+Most of the housing stock (62.7%) consisted of 3 and 4 bedrooms, with 31.7% having 3
+bedrooms and 31.0% 4 bedrooms. A little more than a quarter of the housing stock had 2
+bedrooms, and 6.9% of the housing units had one bedroom. Two and eight-tenths percent
+of the housing units had 5 or more bedrooms, and no housing units had zero bedrooms.
+
+                 Table H-4: Number of Bedrooms per Housing Unit
+                                     Beverly City          Burlington County
+    Number of Bedrooms
+                                Estimate        Share     Estimate      Share
+    Total Units                    943         100.0%      186,753     100.0%
+    0                                0           0.0%        2,885       1.5%
+    1                               65           6.9%       16,790       9.0%
+    2                              261          27.7%       41,657      22.3%
+    3                              299          31.7%       62,186      33.3%
+    4                              292          31.0%       53,316      28.5%
+    5 or more                       26           2.8%        9,919       5.3%
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+One-third of the County’s housing units had three bedrooms, similar to Beverly (31.7%).
+Where Beverly had no units without bedrooms, 1.5% of the County’s housing stock did.
+Nine percent of the County’s housing units had one bedroom versus Beverly’s 6.9%. More
+than one-fifth of the County’s housing units had 2 bedrooms. Four-bedroom housing units
+made up 28.5% of the County’s housing stock versus Beverly’s 31.0%. The County had
+almost twice the share of units with five or more bedrooms (5.3%) than Beverly (2.8%).
+
+              E. Occupied Housing Units and Housing Unit Tenure
+
+The vacancy rate for Beverly’s total housing units was 12.3% based on 116 units of the
+total 943 units were unoccupied. Housing occupancy and tenure for the City and the
+County are provided in Table H-5. Of the 827 occupied housing units in the City, 827
+
+
+                                           5
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 12 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+(87.7%) were occupied and 116 (12.3%) were vacant. According to the U.S. Census
+Bureau, the Beverly’s homeowner vacancy rate was 1.9% and the rental vacancy rate 0.0%.
+Respectively, owner-occupied units and renter-occupied comprised approximately three-
+quarters and one quarter of the City’s occupied housing units. The average household size
+of owner-occupied housing units was 3.19, and the average for renter-occupied housing
+units was 2.50.
+
+                    Table H-5: Occupied Housing Units by Tenure
+                         Beverly City                  Burlington County
+                                        Household                             Household
+                                          Size                                  Size
+ Unit Type     Estimated     Share       (Avg.)      Estimated      Share      (Avg.)
+ Total
+ Units           827       100.0%        3.01      179,477    100.0%        2.55
+ Owner-
+ Occupied        610        73.8%        3.19      137,492     76.6%        2.70
+ Renter-
+ Occupied        217        26.2%        2.50       41,985     23.4%        2.07
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+With a total of 186,753 total housing units Burlington County had 7,276 unoccupied units
+that resulted in a vacancy rate of 3.9%, which was about three times less than Beverly’s
+vacancy rate of 12.3% and was almost two times less than the statewide vacancy rate of
+7.0% for New Jersey. Given all municipalities included, the County appeared to have a
+somewhat constrained supply of housing units whereas Beverly had ample housing units
+to absorb from the market.
+
+The County’s respective average owner-occupied and renter-occupied household sizes of
+2.70 and 2.07 were approximately one-half persons less than those of Beverly (3.19 and
+2.50, respectively).
+
+               F. Occupants per Room in Housing Units
+
+Table H-6 provides occupants per room in housing units in Beverly City and Burlington
+County. Very few of the housing units in the City had overcrowding where only 2.5% of
+the units had 1.01 to 1.50 occupants per room and 96.7% had one occupant or less per room.
+
+                         Table H-6: Occupants per Room
+                                     Beverly City           Burlington County
+   Occupants Per Room           Estimate        Share     Estimate       Share
+   Total Units                     827         100.0%      179,477      100.0%
+   1.00 or Less                    800          96.7%      176,873       98.5%
+   1.01 to 1.50                     21           2.5%       1,768         1.0%
+   1.51 or More                      6           0.7%        836          0.5%
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+
+
+                                            6
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 13 of 52 Trans ID: LCV20251627585
+
+
+            BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+Compared to Beverly City, Burlington County had a similarly high share of units with a
+room occupied by one or less persons (98.5% for County and 96.7% for City), and slightly
+less units occupied by 1.01 to 1.50 persons per room (1.0% for the County and 2.5% for
+the City). Beverly had 0.7% of its occupied units with 1.51 occupants per room while the
+County had 0.5% of its units with this occupancy.
+
+               G. Selected Housing Unit Characteristics
+
+Selected housing unit characteristics (home heating methods, and lacking complete
+plumbing and kitchen facilities, and telephone service) for Beverly and the County are
+provided in the following Tables H-7 and H-8.
+
+                         Table H-7: Home Heating Methods
+                                      Beverly City         Burlington County
+   Fuel Type                     Estimate        Share    Estimate      Share
+   Total Units                      827         100.0%     179,477     100.0%
+   Utility Gas                      531          64.2%     125,350      69.8%
+   Bottled, Tank or LP Gas            0           0.0%       4,167       2.3%
+   Electricity                      206          24.9%      36,479      20.3%
+   Fuel Oil, Kerosene, etc.          81           9.8%      10,572       5.9%
+   Coal or Coke                       0           0.0%         0         0.0%
+   Wood                               0           0.0%        548        0.3%
+   Solar                              5           0.6%        760        0.4%
+   Other Fuels                        0           0.0%       1,146       0.6%
+   No Fuel Used                       4           0.5%        455        0.3%
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+Ninety-nine and five-tenths percent (99.5%) of the occupied housing units in Beverly
+utilized some type of modern fuel; only 0.5% of those units had no fuel used; none relied
+on coal or coke, wood, or other fuels. Of those units using modern fuel types, 64.2%
+consumed utility gas, 24.9% utilized electricity, 0.5% relied on solar for heat. Nine and
+eight-tenths relied on fuel (fuel oil, kerosene or similar fuel) delivered to the housing units.
+
+Similar to Beverly’s percentage, 99.3% of the housing units in the County consumed
+modern fuel types, with the only differences 0.4% used solar heating and 0.6% other fuels.
+Approximately 90.1% of County housing units relied on fuel delivered by utilities: 69.8%
+by utility gas, and 20.3% by electricity. A smaller portion of County units (8.5%) relied
+on delivered fuels: 2.3% bottled, tank or LP gas; 5.9% fuel oil, kerosene or similar fuel;
+and 0.3% wood. Only 0.3% of County units used no fuel.
+
+Of the 827 occupied housing units in Beverly none lacked complete plumbing and kitchen
+facilities and 18 (2.2%) had no telephone service. Comparatively, Burlington County had
+0.6% of its housing units lacking plumbing facilities, 0.5% without complete kitchen
+facilities, 0.7% having no telephone service.
+
+
+
+
+                                               7
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 14 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+              Table H-8: Selected Characteristics for Occupied Units
+                                              Beverly City     Burlington County
+Selected Characteristic                    Estimate Share Estimate Share
+Total Units                                  827      100.0% 179,477 100.0%
+Lacking Complete Plumbing Facilities           0       0.0%      1,024      0.6%
+Lacking Complete Kitchen Facilities            0       0.0%       893       0.5%
+No Telephone Service                          18       2.2%      1,304      0.7%
+ Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+              H. Value of Owner-Occupied Housing Units
+
+The value of owner-occupied housing units in Beverly and the County is provided in Table
+H-9. The respective median values of owner-occupied housing units in the City and
+County were $190,100 and $358,000. Of the 610 owner-occupied units in the City 37.9%
+were valued between $200,000 to $299,999. Comparatively, 22.6% of Burlington
+County’s 137,492 owner-occupied units had same value range. Thirty-seven and four-
+tenths percent of Beverly’s units were valued $150,000 to $199,999 whereas 7.1% of the
+County’s were in this range. Almost 40% of the County’s units were valued $300,000 to
+$499,999 while almost 5% of the City’s were. A little more than one-fifth of the County’s
+units were in the $500,000 to $999,999 range; 1.1% of Beverly’s units were valued in this
+range. Three percent of the County’s units had a value of $1,000,000 or more; none in the
+City had this value. Units valued $100,000 to $149,999 comprised 17.2% of the City’s
+owner-occupied units and 2.1% of the County’s units. The County had 2.4 times more
+units valued under $100,000 than the City did. Units valued less than $50,000 made up
+0.8% of the units in the City and 3.0% of those in the County. One percent of the units in
+Beverly were valued $50,000 to $99,999 while 1.4% in the County were in this range.
+
+                Table H-9: Value of Owner-Occupied Housing Units
+                                      Beverly City        Burlington County
+      Value                      Estimate        Share    Estimate Share
+      Total Units                   610         100.0%     137,492 100.0%
+      Less than $50,000               5           0.8%       4,154     3.0%
+      $50,000 to $99,999              6           1.0%       1,977     1.4%
+      $100,000 to $149,999          105          17.2%       2,855     2.1%
+      $150,000 to $199,999          228          37.4%       9,719     7.1%
+      $200,000 to $299,999          231          37.9%      31,028    22.6%
+      $300,000 to $499,999           28           4.6%      54,315    39.5%
+      $500,000 to $999,999            7           1.1%      30,479    22.2%
+      $1,000,000 or more              0           0.0%       2,965     3.0%
+      Median (Dollars)           $190,100                 $358,000
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+
+
+
+                                            8
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 15 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+              I. Mortgage Status and Selected Monthly Owner-Occupied Costs
+
+Mortgage status and selected monthly owner-occupied costs for Beverly City and
+Burlington County are provided in Tables H-10, 11, 12 and 13.
+
+Of the 610 owner-occupied housing units in Beverly 417 (68.4%) had a mortgage.
+Comparatively, 66.1% of the owner-occupied housing units in the County had a mortgage.
+Table H-10 provides selected monthly costs for owner-occupied housing units with a
+mortgage. Respective median selected monthly costs for owner-occupied units with a
+mortgage for Beverly and the County were $1,823 and $2,270. Fifty-eight and five-tenths
+percent (58.5%) of those housing units in the City had selected monthly owner costs $1,500
+to $1,999 more whereas the 21.2% in County had such costs. Almost one-quarter of the
+housing units with a mortgage in the County had selected monthly owner-occupied costs
+ranging from $2,000 to $2,499 whereas 17.7% in Beverly had such costs. Eleven and
+three-tenths percent of the owner-occupied units in Beverly had costs ranging from $1,000
+to $1,499 whereas 12.7% of the County units had such costs. Almost 16% of the County
+units had costs $2,500 to $2,999 while 6.0% of the City’s units did. In Beverly, no owner-
+occupied units with a mortgage with monthly costs $3,000 or more comprised 5.8% of the
+City’s units and 22.8% of the County’s. Six percent of Beverly’s units had costs $2,500 to
+$2,999 whereas 15.9% of the County’s units had such costs No owner-occupied units with
+a mortgage had monthly costs less than $500; 0.6% of the County’s units did. Only 0.7%
+of the City’s units had monthly costs $500 to $999 while 2.3% of the County’s units had
+monthly costs within this range. The percentages of City and County units with monthly
+costs ranging from $1,000 to $1,499 were similar: 11.3% for the City; and 12.7% for the
+County.
+
+  Table H-10: Selected Monthly Owner-Occupied Costs (SMOC) with a Mortgage
+                                           Beverly City       Burlington County
+  Monthly Owner Cost                  Estimate       Share    Estimate     Share
+  Housing with a Mortgage                417        100.0%    137,492     100.0%
+  Less than $500                           0          0.0%       518        0.6%
+  $500 to $999                             3          0.7%      2,092       2.3%
+  $1,000 to $1,499                        47         11.3%     11,525      12.7%
+  $1,500 to $1,999                       244         58.5%     19,248      21.2%
+  $2,000 to $2,499                        74         17.7%     22,361      24.6%
+  $2,500 to $2,999                        25          6.0%     14,469      15.9%
+  $3,000 or More                          24          5.8%     20,732      22.8%
+  Median (Dollars)                      $1,823                 $2,270
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+Selected monthly costs for owner-occupied housing units without a mortgage are provided
+in Table H-11. The median selected monthly owner-occupied costs for units without a
+mortgage were relatively the same: $961 for Beverly, and $992 for the County. Beverly
+had no units with such monthly costs less than $400; 4.1% of the units in the County had
+such monthly costs. The respective shares of selected monthly owner-occupied costs
+$1,000 or more for units without a mortgage for Beverly and the County were 47.2% and
+
+
+                                            9
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 16 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+49.3%. Almost 30% of the owner-occupied units without a mortgage in Beverly had
+selected monthly costs ranging from $800 to $999 whereas the County had 20.7%. Eight
+and eight-tenths percent (8.8%) of such units in Beverly had monthly costs from $600 to
+$799; the County had 16.1% of its units with this monthly cost range.
+
+Table H-11: Selected Monthly Owner-Occupied Costs (SMOC) without a Mortgage
+                                           Beverly City       Burlington County
+Monthly Owner Cost                   Estimate        Share   Estimate      Share
+Housing without a Mortgage               193        100.0%     46,547     100.0%
+Less than $250                             0          0.0%       492        1.1%
+$250 to $399                               0          0.0%      1,382       3.0%
+$400 to $599                              28         14.5%      4,619       9.9%
+$600 to $799                              17          8.8%      7,489      16.1%
+$800 to $999                              57         29.5%      9,624      20.7%
+$1000 or More                             91         47.2%     22,941      49.3%
+Median (Dollars)                        $961                    $992
+ Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+     Table H-12: Selected Monthly Owner Costs as a Percentage of Household
+                Income (SMOCAPI): Housing Units with a Mortgage
+                                           Beverly City       Burlington County
+  Percentage      of     Household
+  Income                             Estimate        Share   Estimate      Share
+  Housing Units with a Mortgage
+  (Excluding       Units    Where
+  SMOCAPI Cannot be Computed)            417        100.0%     90,470     100.0%
+  Less than 20.0 Percent                 232         55.6%     38,260      42.3%
+  20.0 to 24.9 Percent                    57         13.7%     13,902      15.4%
+  25.0 to 29.9 Percent                    68         16.3%     10,346      11.4%
+  30.0 to 34.9 Percent                    11          2.6%      6,635       7.3%
+  35.0 Percent or More                    49         11.8%     21,327      23.6%
+  Not Computed                             0           (X)       475         (X)
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+Another way to understand selected monthly owner-occupied costs is to analyze data for
+the percentage of monthly household income that the costs consume. Table H-12 provides
+these data for owner-occupied housing units with a mortgage. Such housing units in
+Beverly totaled 417. For the County those units totaled 90,470. Mortgage industry
+standards consider monthly costs 30% and less of monthly household income to be
+desirable because at such levels a household would avoid financial stress. Eighty-five and
+six-tenths percent (85.6%) of the owner-occupied housing units with a mortgage in Beverly
+had selected monthly costs less than 30% of their monthly household incomes. The County
+had 69.1% of its units with the same level of monthly household income consumption.
+Approximately 14.4% of the owner-occupied housing units with a mortgage in Beverly
+had selected monthly costs that consumed 30% or more of their monthly household income.
+For the County 30.9% of its units were estimated to have selected monthly costs that were
+
+
+                                           10
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 17 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+30% or more of their monthly household income. Comparatively, the statewide share of
+such levels of monthly costs was 31.8%.
+
+Table H-13 provides selected monthly owner-occupied costs for housing units without a
+mortgage as a percentage of household income for Beverly and the County. Compared to
+15.6% of the County’s owner-occupied units without a mortgage that had selected monthly
+cost 30% or more of monthly household income, Beverly had 8.2% of such units with the
+same levels of costs.
+
+     Table H-13: Selected Monthly Owner Costs as a Percentage of Household
+               Income (SMOCAPI): Housing Units without a Mortgage
+                                           Beverly City       Burlington County
+  Percentage       of    Household
+  Income                             Estimate        Share   Estimate      Share
+  Housing Units with a Mortgage
+  (Excluding       Units    Where
+  SMOCAPI Cannot be Computed)            183        100.0%     45,846     100.0%
+  Less than 10.0 percent                  60         32.8%     17,051      37.2%
+  10.0 to 14.9 percent                    22         12.0%      8,956      19.5%
+  15.0 to 19.9 percent                    53         29.0%      6,240      13.6%
+  20.0 to 24.9 percent                    25         13.7%      3,627       7.9%
+  25.0 to 29.9 percent                     8          4.4%      2,827       6.2%
+  30.0 to 34.9 percent                     7          3.8%      2,287       5.0%
+  35.0 percent or more                     8          4.4%      4,858      10.6%
+  Not computed                            10           (X)       701         (X)
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+              J. Gross Monthly Rent
+
+Occupied housing units paying rent for Beverly and the County are provided in Table H-
+14. Total units paying a gross monthly rent for the City and the County were 212 and
+40,681, respectively.
+
+The median gross monthly rent paid in the County ($1,671) was approximately 1.4 times
+greater than what was paid in Beverly. Comparatively, the statewide gross monthly rent
+was $1,667. No units in the City paid a gross monthly rent of $3,000 or more whereas 6.1%
+of the units in the County did. The percentages of units in the City and the County paying
+gross month rents between $2,000 and $2,499 were relatively the same: 17.0% in the City;
+and 17.7% in the County. Units paying gross monthly rents ranging from $1,000 to $1,499
+represented 28.3% of the units in Beverly and 30.4% in the County. Those units paying
+within the rent range $1,500 to $1,999 comprised 18.4% of the City’s units and 26.6% of
+the County’s. Two and eight-tenths percent of the units in Beverly paid $2,500 to $2,999
+whereas 8.7% in the County did. The percentage of units in the City (25.9%) paying gross
+month rents between $500 and $999 were 3.4 times greater than the percentage in the
+County (7.6%), and the percentage of City units (7.5%) paying less than $500 was 2.6
+times greater than percentage in the County (2.9%).
+
+
+                                           11
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 18 of 52 Trans ID: LCV20251627585
+
+
+             BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+
+                         Table H-14: Gross Monthly Rent
+                                    Beverly City        Burlington County
+       Gross Monthly Rent      Estimate        Share    Estimate      Share
+       Total Units                212         100.0%     40,681      100.0%
+       Less than $500              16           7.5%      1,187        2.9%
+       $500 to $999                55          25.9%      3,082        7.6%
+       $1,000 to $1,499            60          28.3%     12,372       30.4%
+       $1,500 to $1,999            39          18.4%     10,811       26.6%
+       $2,000 to $2,499            36          17.0%      7,209       17.7%
+       $2,500 to $2,999             6           2.8%      3,532        8.7%
+       $3,000 or More               0           0.0%      2,488        6.1%
+       Median (Dollars)          $1,179                  $1,671
+       No Rent Paid                 5                     1,304
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+Table H-15 provides gross monthly rent as a percentage of household income for Beverly
+and the County. According to residential rental industry standards, gross monthly rents
+that consume more than 30% of a household’s monthly gross income are considered to
+contribute toward financial stress of households. Forty-six and seven-tenths percent
+(46.7%) of the City’s housing units experienced gross monthly rents 30% or more of their
+monthly gross income. For the County 53.3% of the units had rents 30% or more of such
+income. Gross monthly rents that exceeded 35% or more of household monthly income
+were 34.0% of the units in Beverly and 43.3% in the County.
+
+      Table H-15: Gross Monthly Rent as a Percentage of Household Income
+                                     (GRAPI)
+                                          Beverly City       Burlington County
+  Value                             Estimate        Share    Estimate     Share
+  Occupied Units Paying Rent
+  (Excluding Units where GRAPI
+  Cannot be Computed)                   212        100.0%     40,337     100.0%
+  Less than 15.0 Percent                 40         18.9%      4,931      12.2%
+  15.0 to 19.9 Percent                   15          7.1%      4,303      10.7%
+  20.0 to 24.9 Percent                   20          9.4%      5,191      12.9%
+  25.0 to 29.9 Percent                   38         17.9%      4,408      10.9%
+  30.0 to 34.9 Percent                   27         12.7%      4,053      10.0%
+  35.0 Percent or More                   72         34.0%     17,451      43.3%
+  Not Computed                            5           (X)      1,648        (X)
+  Source: Selected Housing Characteristics, 2019-2023 ACS 5-Year Estimates (DP04)
+
+       II.     PROJECTION OF HOUSING STOCK
+
+The Fair Housing Act requires a housing plan element include a 10-year projection of
+new housing units in the following manner:
+
+
+                                          12
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 19 of 52 Trans ID: LCV20251627585
+
+
+            BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+
+       A projection of the municipality's housing stock, including the probable
+       future construction of low[-] and moderate[-]income housing, for the next
+       ten years, taking into account, but not necessarily limited to, construction
+       permits issued, approvals of applications for development and probable
+       residential development of lands. (N.J.S.A. 52:27D-310b)
+
+This housing plan element provides a 10-year projection of new housing units for Beverly
+City utilizing the 10-year average of certificates of occupancy (COs) issued for residential
+units and assessing the projection with the results of a buildout analysis for the municipality.
+
+Table H-16 shows the COs issued from 2014 to 2023 as recorded by the New Jersey
+Department of Community Affairs. The average for the COs issued during this 10-year
+period was 0.2. Given that Beverly’s 2023 housing stock consisted of 827 units and the
+annual issuance of 12.55 COs, the projected number of additional housing units from 2024
+to 2035 is expected to be 3 increasing Beverly’s housing stock to 830 housing units as
+calculated below.
+
+                      12 years X 0.2 units/year= 2.4 units, say 3 units
+                       827 units2023 + 3 units2024-2035 = 830 units2035
+
+                         Table H-16: Residential Certificates of
+                              Occupancy (COs), Beverly City
+                                     Year         COs Issued
+                                     2014               0
+                                     2015               0
+                                     2016               0
+                                     2017               1
+                                     2018               1
+                                     2019               0
+                                     2020               0
+                                     2021               0
+                                     2022               0
+                                     2023               0
+                              10-Year Average          0.2
+                       Source: NJ Department of Community Affairs,
+                      Certificates of Occupancy Yearly Summary Data
+
+The Delaware Valley Regional Planning Commission (DVRPC), the bi-state metropolitan
+planning organization (MPO) for the Philadelphia region that includes Beverly City,
+regularly publishes population and employment forecasts for the municipalities in its
+region. On its website, DVRPC published 2015-2050 population and employment
+forecasts for Beverly, which is provided in Figure H-1. DVRPC projects the City’s 2035
+population to be 2,488. Assuming the City’s persons per household remains at 3.01, the
+projected number of occupied housing units would remain at 827 and therefore Beverly’s
+housing stock would stay at 943 housing units as calculated below.
+
+
+                                              13
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 20 of 52 Trans ID: LCV20251627585
+
+
+             BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+
+               2,4882035 Population / 3.01Person/Household = 8272035 Occupied Housing Units
+   8272035 Occupied Housing Units – 8272023 Occupied Housing Units = 02035-2023 Change Occupied Housing Units
+          9432023 Housing Units + 02035-2023 Change Occupied Housing Units = 9432035 Housing Units
+
+
+                     Figure H-1: Population and Employment Forecasts
+                                       Beverly City
+
+
+
+
+Source: https://www.dvrpc.org/webmaps/popempforecasts/ , viewed February 11, 2025.
+
+
+In 2023, the City Council adopted an ordinance amending the 2023 Amendment to the City
+of Beverly Redevelopment Plan, Block 1280, Lots 1, 2, 6.01 and 6.02. This amendment
+provides for a maximum of 54 new multifamily dwelling units that would replace 3 existing
+dwellings units resulting in a net increase of 51 units. Given recent developer interest in
+developing the 54 housing units, it is reasonable to assume these multifamily units would
+be constructed by 2035 thereby increasing the City’s 2035 housing stock to 994 units as
+calculated in the following manner:
+
+        9432023 Housing Units + 54New Housing Units - 3Existing Housing Units = 9942035 Housing Units
+
+
+
+
+                                                      14
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 21 of 52 Trans ID: LCV20251627585
+
+
+              BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+The range of the 2035 housing unit projection increase is 0 to 51 resulting in a range of
+2035 housing units of 943 to 994.
+
+       III.     ANALYSIS OF DEMOGRAPHIC CHARACTERISTICS
+
+                A. Number of Persons by Age and Sex
+
+Table H-18 provides the number of persons by age and sex for Beverly City and Burlington
+County. Beverly’s 2023 population and median age were estimated to be 2,489 and 40.0
+years, respectively. The County’s respective population and median age were 469,167 and
+41.8 years. Beverly’s median age was 1.8 years less than the County’s.
+
+                   Table H-17: Number of Persons by Age and Sex
+                                         Beverly City     Burlington County
+    Age Group                        Estimate Share Estimate Share
+    Total                              2,489     100.0% 469,167 100.0%
+    Less than 5                         116        4.7%    24,156     5.1%
+    5 to 9                               84        3.4%    25,648     5.5%
+    10 to 14                            204        8.2%    27,805     5.9%
+    15 to 19                             92        3.7%    27,296     5.8%
+    20 to 24                            278       11.2%    26,146     5.6%
+    25 to 34                            299       12.0%    59,949    12.8%
+    35 to 44                            349       14.0%    62,669    13.4%
+    45 to 54                            371       14.9%    59,973    12.8%
+    55 to 59                            191        7.7%    35,767     7.6%
+    60 to 64                            159        6.4%    31,509     6.7%
+    65 to 74                            250       10.0%    51,105    10.9%
+    75 to 84                             70        2.8%    28,888     6.2%
+    85+                                  26        1.0%     8,256     1.8%
+    Median                              40.0                 41.8
+
+   Sex                               Estimate Share Estimate Share
+   Total                              2,489     100.0% 449,192 100.0%
+   Male                                864       42.5%    231,976    49.4%
+   Female                             1,170      57.5%    237,191    50.6%
+Source: Demographic and Housing Estimates, 2019-2023 ACS 5-Year Estimates (DP05)
+
+Beverly’s age distribution was significantly different than the County’s for several age
+cohorts. Persons aged 75 years and over represented 3.8% of the City’s population whereas
+they made up 8.0% of the County’s population. Younger persons between the ages 10 and
+14 comprised 8.2% of Beverly’s population while they represented 5.9% of the County’s
+population. The age cohort less than 5 years for the City and the County differed by only
+0.4 percentage points (4.7% for Beverly, 5.1% for the County). The County had a higher
+percentage of the age group 5 to 9 than the City (5.5% for the County, 3.4% for the City).
+Persons aged 15 to 19 comprised the respective percentages 3.7% and 5.8% for Beverly
+
+
+
+                                           15
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 22 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+and the County. The City’s age group 20 to 24 years was exactly 2 times larger than the
+County’s. The age cohorts 25 to 34, 35 to 44, 55 to 59, 60 to 64, and 65 to 74 for Beverly
+and the County were relatively the same, varying by 0.1 to 0.9 percentage points.
+
+The County’s shares of males and females was significantly different than Beverly’s. In
+the County females and males represented 50.6% and 49.4% of the population, respectively.
+Females in Beverly comprised a greater share of the population at 57.5% and males
+represented 42.5%.
+
+              B. Household Size and Type
+
+The US Census Bureau defines family, family household, household, married-couple, and
+nonfamily household in the following manner (https://www.census.gov/programs-
+surveys/cps/technical-documentation/subject-definitions.html#family):
+
+       “Family” – A family is a group of two people or more (one of whom is the
+       householder) related by birth, marriage, or adoption and residing together;
+       all such people (including related subfamily members) are considered as
+       members of one family. Beginning with the 1980 Current Population
+       Survey, unrelated subfamilies (referred to in the past as secondary families)
+       are no longer included in the count of families, nor are the members of
+       unrelated subfamilies included in the count of family members. The number
+       of families is equal to the number of family households; however, the count
+       of family members differs from the count of family household members
+       because family household members include any non-relatives living in the
+       household.
+
+       “Family household” – A family household is a household maintained by a
+       householder who is in a family (as defined above) and includes any
+       unrelated people (unrelated subfamily members and/or secondary
+       individuals) who may be residing there. The number of family households
+       is equal to the number of families. The count of family household members
+       differs from the count of family members, however, in that the family
+       household members include all people living in the household, whereas
+       family members include only the householder and his/her relatives. See the
+       definition of family.
+
+       “Household” – A household consists of all the people who occupy a housing
+       unit. A house, an apartment or other group of rooms, or a single room, is
+       regarded as a housing unit when it is occupied or intended for occupancy as
+       separate living quarters; that is, when the occupants do not live with any
+       other persons in the structure and there is direct access from the outside or
+       through a common hall.
+
+       A household includes the related family members and all the unrelated
+       people, if any, such as lodgers, foster children, wards, or employees who
+
+
+
+                                            16
+    BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 23 of 52 Trans ID: LCV20251627585
+
+
+                   BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+            share the housing unit. A person living alone in a housing unit, or a group
+            of unrelated people sharing a housing unit such as partners or roomers, is
+            also counted as a household. The count of households excludes group
+            quarters. There are two major categories of households, "family" and
+            "nonfamily". (See definitions of Family household and Nonfamily
+            household).
+
+            “Household, nonfamily” – A nonfamily household consists of a
+            householder living alone (a one-person household) or where the
+            householder shares the home exclusively with people to whom he/she is not
+            related.
+
+            “Married couple” – A married couple, as defined for census purposes, is a
+            husband and wife enumerated as members of the same household. The
+            married couple may or may not have children living with them. The
+            expression "husband-wife" or "married-couple" before the term
+            "household," "family," or "subfamily" indicates that the household, family,
+            or subfamily is maintained by a husband and wife. The number of married
+            couples equals the count of married-couple families plus related and
+            unrelated married-couple subfamilies.
+
+    Other family household means a family maintained by someone other than a married
+    couple.
+
+                        Table H-18: Household and Family Size and Type
+                                    Beverly City                            Burlington County
+                        Occupied       Owner        Renter       Occupied
+                         Units         Units        Units         Units        Owner Units      Renter Units
+Subject                 Estimate      Estimate     Estimate      Estimate       Estimate         Estimate
+Occupied      Housing
+Units                      827          490           138         179,477         137,492           41,985
+Household Size          Est/Share    Est/Share     Est/Share    Est/Share       Est/Share         Est/Share
+1-person                161/19.5%    100/16.4%     61/28.1%    45,865/25.6%    27,595/20.1%     18,270/43.5%
+2-persons               222/26.8%    168/27.5%     54/24.9%    60,551/33.7%    47,620/34.6%     12,931/30.8%
+3-persons               146/17.7%    115/18.9%     31/14.3%    31,654/17.6%    26,057/19.0%      5,597/13.3%
+4 or more-persons       298/36.0%    227/37.2%     71/32.7%    41,407/23.1%    36,220/26.3%      5,187/12.4%
+Average Household
+Size                      3.01          3.19         2.50          2.55            2.70             2.07
+                                                                                 103,381/
+Family Household        628/75.9%    490/80.3%     138/63.6%   122,832/68.4%      75.2%         19,451/46.3%
+Married-Couple
+Family                  371/44.9%    338/55.4%     33/15.2%    92,133/51.3%    81,966/59.6%     10,167/24.2%
+Other Family
+Households              257/31.1%    152/24.9%     105/48.4%   30,699/17.1%    21,415/15.6%     9,284/22.1%
+Non-Family
+Households              199/24.1%    120/19.7%     79/36.4%    56,645/31.6%    34,111/24.8%     22,534/53.7%
+         Source: Occupancy Characteristics, 2019-2023 ACS 5-Year Estimates (S2501);
+            Average Household Size of Occupied Housing Units by Tenure (B25010)
+
+
+
+                                                    17
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 24 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+Household sizes and types for occupied housing units in Beverly City and Burlington
+County are provided in Table H-19. Beverly’s average household, owner-occupied and
+renter-occupied household sizes (3.01, 3.19, and 2.50 persons) were larger than Burlington
+County’s (2.55, 2.70 and 2.07 persons). Beverly’s percentages of one-person and two-
+person household units (19.5% and 26.8%) were less than the County’s percentages (25.6%
+and 33.7%). The percentages of three-person household units were relatively the same for
+Beverly (17.7%) and the County (17.6%). The City had a much higher percentage of four-
+or more-person households (36.0%) than the County (23.1%). The patterns of differences
+in percentages of household sizes by owner and renter units for the City and County were
+similar to the percentages for occupied units in both jurisdictions. Respectively, the
+percentages of one-person and two-person owner and renter units in Beverly were less than
+the percentages in the County. As a matter of fact, the County’s percentage of one-person
+renter households (43.5%) was about 1.5 times the City’s percentage. The percentage of
+two-person renter households in the County (34.6%) was 7.1 percentage points greater than
+Beverly’s (27.5%). One-tenth percentage point separated the percentage of three-person
+owner households in the City (18.9%) from the percentage in the County (19.0%). One
+percentage point differentiated three-person renter households in the City (14.3%) from the
+County’s percentage (13.3%). There were greater percentages of four- or more-person
+households owning and renting in Beverly (37.2% and 32.7%, respectively) than in the
+County (26.4%f and 12.4%, respectively).
+
+Family households resided in three-quarters of the occupied housing units in Beverly
+whereas a little more than two-thirds occupied units in the County. More than half of those
+units were occupied by married-couple families in the City and the County. Other family
+households in Beverly resided in almost one third of those units; in the County, less than a
+fifth of those units were occupied by other family households. Almost one-quarter of the
+occupied units in Beverly were inhabited by non-family households, and this type of
+households occupied just under a third of these units in the County.
+
+Eighty and three-tenths percent of the City’s owner units were occupied by family
+households whereas 75.2% of the County’s unit had this occupancy. Family households
+represented 63.6% of the rental units in the City and 46.3% of the County’s rental units.
+Other family households occupied 24.9% of Beverly’s owner units and 15.6% of the
+County’s; they respectively represented 48.4% and 22.1% of the rental units of the City
+and the County. Almost one-fifth of the owner units in Beverly were occupied by non-
+family households whereas almost one-quarter of these units in the County were occupied
+by them. Non-family households in Beverly and the County respectively occupied 36.4%
+and 53.7% of their rental units.
+
+               C. Income Characteristics and Poverty Level
+
+Table H-20 provides household income for Beverly City and Burlington County. Beverly’s
+median and mean household incomes were $92,807 and $109,072, respectively. For the
+County the respective median and mean household incomes were $102,532 and $130,686.
+The household income range that represented the largest share of the household incomes
+in Beverly was $75,000-$99,999 at 23.3%. The next greatest percentage of Beverly’s
+
+
+
+                                            18
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 25 of 52 Trans ID: LCV20251627585
+
+
+             BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+household income was 15.6% held the income range $150,000-$199,999. The County’s
+greatest share of household income was 20.5% that fell within the $100,000-$149,999
+income range, followed by 13.8% having an income range of $100,000-$149,999 and 13.4%
+falling within the $50,000-$74,999 range. The next greatest percentage in the County was
+17.7% held by the $200,000 or more range. Three income ranges were clustered around
+the range that held the greatest percentage in the County: $75,000-$99,999 at 13.7%,
+$150,000-$199,999 at 13.4%, and $50,000-$74,999 at 13.0%. Beverly households earning
+$200,000 or more represented the respective 11.9% of all households. Eight percent of the
+County’s households had an income range of $35,000-$49,999 compared to 5.1% of the
+City’s households. Beverly had percentages of households with incomes ranging from
+$25,000 to $34,999 (7.3%) and $10,000 to $14,999 (5.7%) that were greater than the
+County (5.0% and 2.0%, respectively). Conversely, the County had higher percentages of
+households with income ranges $15,000-$24,999 (3.8%) and less than $10,000 (3.0%) than
+the City (2.8% and 1.2%, respectively).
+
+                            Table H-19: Household Income
+    Income and Benefits                     Beverly City        Burlington County
+    (In 2017 Inflation-Adjusted Estimate of                    Estimate of
+    Dollars                           Households Share Households Share
+    Total Households                       827       100.0%      179,477     100.0%
+    Less than $10,000                       10         1.2%        5,321       3.0%
+    $10,000-14,999                          47         5.7%        3,558       2.0%
+    $15,000-24,999                          23         2.8%        6,894       3.8%
+    $25,000-34,999                          60         7.3%        8,951       5.0%
+    $35,000-49,999                          42         5.1%       14,349       8.0%
+    $50,000-74,999                         111        13.4%       23,315      13.0%
+    $75,000-99,999                         193        23.3%       24,565      13.7%
+    $100,000-149,999                       114        13.8%       36,715      20.5%
+    $150,000-199,999                       129        15.6%       24,051      13.4%
+    $200,000 or More                        98        11.9%       31,758      17.7%
+    Median Household Income              $92,807                $102,532
+    Mean Household Income               $109,072                $130,686
+    Source: Selected Economic Characteristics, 2019-2023 ACS 5-Year Estimates (DP03)
+
+                   Table H-20: Percentage of People and Families whose
+                Income in the Past 12 Months was Below the Poverty Level
+                                         Beverly City     Burlington County
+              All People                  332/13.4% 1       31,041/6.8% 2
+              All Families                  16.6%                4.5%
+    Source: Selected Economic Characteristics, 2019-2023 ACS 5-Year Estimates (DP03);
+             Poverty Status in the Past 12 Months, ACS 5-Year Estimates (S1701)
+
+1
+  The percentage of 13.4% of persons below the poverty level is based on a population of 2,483 for whom
+poverty status was determined (S1701).
+2
+  The percentage of 6.8% of persons below the poverty level is based on a population of 458,479 for whom
+poverty status was determined (S1701).
+
+
+                                                  19
+  BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 26 of 52 Trans ID: LCV20251627585
+
+
+               BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+
+  Table H-21 provides the percentage and people whose income in the past 12 months were
+  below the poverty level. In Beverly 13.4% of all people had such incomes below the
+  poverty level. In the County 6.8% did. Of the families in the two jurisdictions, 16.6% in
+  Beverly had such incomes and 4.5% in the County did.
+
+         IV.     ANALYSIS OF             EXISTING        AND      PROBABLE          FUTURE
+                 EMPLOYMENT
+
+                 A. Employment Characteristics
+
+  The employment status of persons 16 years and over residing in Beverly City and
+  Burlington County is provided in Table H-22. In Beverly this population consisted of
+  2,081 persons while it included 385,610 persons in the County. The City’s labor force
+  comprised 54.8% of persons 16 years and over, which was 12.2 percentage points less than
+  the County’s labor force. The City’s civilian labor force was 53.8% of the population 16
+  years and over, which was 12.3 percentage points less than the County’s. Approximately
+  one-half of the City’s population 16 years and over was employed whereas 63.4% in the
+  County was employed. Persons unemployed in the City was 3.7%, which was one
+  percentage greater than for the County. Those employed in the Armed Forces represented
+  1.0% of the City’s population of 16 years and over whereas they were 0.9% in the County.
+  Almost one-half of persons 16 years and over residing in the City were not in the labor
+  force; one-third of this population in the County was not in the labor force.
+
+                              Table H-21: Employment Status
+                                                  Beverly City        Burlington County
+Occupation                                  Estimate       Share    Estimate      Share
+Population 16 years and over                   2,081      100.0%     385,610     100.0%
+In labor force                                 1,141       54.8%     258,282      67.0%
+Civilian labor force                           1,120       53.8%     254,987      66.1%
+    Employed                                   1,044       50.2%     244,566      63.4%
+    Unemployed                                   76         3.7%      10,421       2.7%
+Armed Forces                                     21         1.0%       3,295       0.9%
+Not in labor force                              940        45.2%     127,328      33.0%
+    Source: Selected Economic Characteristics, 2019-2023 ACS 5-Year Estimates (DP03)
+
+  Civilian employment characteristics by occupation are provided in Table H-23.
+  Management, business, science and arts occupations represented the greatest share of the
+  those employed in the civilian labor force residing in Beverly (37.2%) and the County
+  (48.7%). Persons employed in service occupations represented 13.5% of the County’s
+  civilian labor force while those persons in that occupation were 15.8% of the City’s civilian
+  labor force. The percentages of sales and office occupations for Beverly and the County
+  were 18.8% and 21.7%, respectively. The share of natural resources, construction, and
+  maintenance occupations in the County (5.8%) was less than the City’s share (9.8%).
+  Beverly’s percentage of production, transportation, and material moving occupations
+  (18.5%) was almost 8.3 percentage points greater than the County’s (10.2%).
+
+
+                                               20
+  BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 27 of 52 Trans ID: LCV20251627585
+
+
+             BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+
+              Table H-22: Civilian Employment Characteristics by Occupation
+                                                 Beverly City        Burlington County
+Occupation                                 Estimate       Share    Estimate      Share
+Civilians Employed, 16 years and over         1,044      100.0%     244,566     100.0%
+Management, business, science, and arts
+Occupations                                    388        37.2%     119,167      48.7%
+Service occupations                            165        15.8%      32,907      13.5%
+Sales and office occupations                   196        18.8%      53,127      21.7%
+Natural resources, construction, and
+maintenance occupations                        102         9.8%      14,303       5.8%
+Production, transportation, and material
+moving occupations                             193        18.5%      25,062      10.2%
+   Source: Selected Economic Characteristics, 2019-2023 ACS 5-Year Estimates (DP03)
+
+
+                Table H-23 Civilian Employment Characteristics by Industry
+                                                  Beverly City      Burlington County
+Industry                                     Estimate      Share   Estimate      Share
+Civilian employed population
+16 years and over                             1,044       100.0%    244,566     100.0%
+Agriculture, forestry, fishing, hunting,
+and mining                                       0          0.0%       186        0.1%
+Construction                                   104         10.0%     13,002       5.3%
+Manufacturing                                   99          9.5%     18,737       7.7%
+Wholesale trade                                 21          2.0%      5,686       2.3%
+Retail trade                                    68          6.5%     28,329      11.6%
+Transportation and warehousing, and
+utilities                                       56          5.4%     16,567       6.8%
+Information                                     21          2.0%      5,020       2.1%
+Finance, insurance, real estate,
+rental, and leasing                             33          3.2%     19,059       7.8%
+Professional, scientific, management,
+administrative and waste management
+services                                       118         11.3%     29,745      12.2%
+Educational services, health care,
+and social assistance                          367         35.2%     61,343      25.1%
+Arts,       entertainment,       recreation,
+accommodation, and food services                31          3.0%     17,488       7.2%
+Other      services,      except     public
+administration                                  26          2.5%     10,687       4.4%
+Public administration                          100          9.6%     18,717       7.7%
+   Source: Selected Economic Characteristics, 2019-2023 ACS 5-Year Estimates (DP03)
+
+
+
+
+                                          21
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 28 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+Table H-24 provides civilian employment characteristics by industry for Beverly City and
+Burlington County. The industries that had the four greatest percentages of employment
+for the civilian labor force in the City were education services, health care, and social
+assistance (35.2%); professional, scientific, management administrative and waste
+management services (11.3%); construction (10.0%); and public administration (9.6%).
+Comparatively, the County’s percentages of these four industries were 25.1%, 12.2%, 5.3%,
+and 7.7%. Manufacturing employed 9.5% of the City’s civilian employed population
+whereas it employed 5.3% of the County’s. Finance, insurance, real estate, rental, and
+leasing employed 7.8% in the County and 3.2% in the City. Retail trade in the County
+employed 11.6%, which was almost twice as much as in the City (6.5%). In the County
+arts, entertainment, recreation, accommodation, and food services employed more than two
+times than Beverly (7.2% in the County, 3.0% in the City). Industries that employed
+similar percentages for the two jurisdictions were: wholesale trade (2.0% for the City, 2.3%
+for the County); information (2.0% for the City, 2.1% for the County); and agriculture,
+forestry, fishing, hunting and mining (0.0% for the City, 0.1% for the County).
+
+               B. Commuting to Work
+
+                           Table H24: Commuting to Work
+                                           Beverly City     Burlington County
+    Industry                            Estimate Share Estimate Share
+    Workers 16 years and over            1,008    100.0% 242,647 100.0%
+    Car, truck, or van-drove alone        791      78.5%    184,912     76.2%
+    Car, truck, or van-carpooled           90       8.9%     11,508      4.7%
+    Public transportation (no taxicabs)    27       2.7%      4,718      1.9%
+    Walked                                 10       1.0%      1,465      0.6%
+    Other means                            25       2.5%      2,217      0.9%
+    Worked at home                         65       6.4%     37,827     15.6%
+    Mean travel time to work
+    (minutes)                             34.5                 29.5
+Source: Selected Economic Characteristics, 2019-2023 ACS 5-Year Estimates (DP03)
+
+Commuting to work characteristics for workers 16 years and over residing in Beverly City
+and Burlington County are provided in Table H-25. Workers in Beverly had a longer mean
+travel time to work (34.5 minutes) than the County’s workers (29.5 minutes). A smaller
+percentage of workers in the City worked from home (6.4%) than those in the County
+(15.6%). Those driving alone from Beverly to work represented 78.5% of its workers; for
+the County 76.2% drove alone. A greater percentage of workers from Beverly van- or
+carpooled to work (8.9%) than the County (4.7%). A slightly greater percentage from the
+City (2.7%) used public transportation to get to work than the County (1.9%). One percent
+of workers from Beverly walked to work while 0.9% from the County did. Those from the
+City using other means to get to work represented 2.5% of its workers; regarding the
+County 0.9% used other means.
+
+
+
+
+                                            22
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 29 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+              C. Labor Force Estimates
+
+Annual average labor force estimates, as provided by the New Jersey Department of Labor,
+for Beverly City and unemployment rates for the City and the County are provided in Table
+H-26. From 2004 to 2023, Beverly’s labor force peaked at 1,676 in 2008 and bottomed at
+1,257 in 2016. Leading up to 2008, the City’s unemployment rates ranged from 9.0% to
+9.7% while the County’s rates extended from 3.8% to 4.2%. In 2008, the advent of the
+Great Recession, the City’s unemployment was 11.5% and peaked at 18.9% in 2009. The
+County’s unemployment rates for 2008 and 2009 were 4.9% and 8.4%, respectively. From
+2008 to 2013, the City’s unemployment rates remained in double digits from a low of 11.5%
+in 2008 to a high of 18.9% in 2009 (rows shaded dark gray), staying high at 18.7% in 2010
+and 2011, and finally easing to 12.4% in 2013. The County’s unemployment rate peaked
+at 9.0% in 2010 and eased to 7.6% in 2013. Prior to 2014, the City’s unemployment rates
+were significantly higher than the County’s: around 5 percentage points higher from 2004
+to 2007; 10.5 percentage points higher in 2009 and 2010; and 3.6 and 4.8 percentage points
+higher in 2012 and 2013, respectively.
+
+          Table H-25: Annual Average Labor Force Estimates (1990-2023)
+                               Beverly City
+                                                               Unemployment Rate
+                                                                         Burlington
+       Year      Labor Force    Employed       Unemployed   Beverly City  County
+       2004         1,504        1,367            137          9.1%        4.1%
+       2005         1,548        1,408            140          9.0%        3.9%
+       2006         1,574        1,421            153          9.7%        4.2%
+       2007         1,539        1,400            139          9.0%        3.8%
+       2008         1,579        1,398            181          11.5%       4.9%
+       2009         1,676        1,360            316          18.9%       8.4%
+       2010         1,481        1,205            276          18.7%       9.0%
+       2011         1,481        1,205            276          18.7%       8.7%
+       2012         1,329        1,165            164          12.3%       8.7%
+       2013         1,318        1,155            163          12.4%       7.6%
+       2014         1,278        1,153            125          9.8%        6.4%
+       2015         1,274        1,177             97          7.6%        5.3%
+       2016         1,257        1,173             84          6.7%        4.5%
+       2017         1,289        1,212             77          6.0%        4.1%
+       2018         1,277        1,208             69          5.4%        3.8%
+       2019         1,292        1,233             59          4.6%        3.3%
+       2020         1,283        1,201             82          6.4%        8.2%
+       2021         1,283        1,201             82          6.4%        5.3%
+       2022         1,313        1,260             53          4.0%        3.3%
+       2023         1,354        1,282             72          5.3%        3.9%
+  Source: NJ Dept. of Labor, Annual Average Labor Force Estimates by Municipality
+                                    (2004-2023)
+
+After 2013, the unemployment rates for both jurisdictions continued to drop – 4.0% for the
+City in 2022, and 3.3% for the County in 2019 and 2022 – and then in 2023 respectively
+increased to 5.3% and 3.9% for the City and County. The difference between the
+unemployment rates for the two jurisdictions continued to narrow after 2013. In 2014, the
+
+
+                                              23
+    BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 30 of 52 Trans ID: LCV20251627585
+
+
+               BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+    City’s unemployment rate was 3.4 percentage points higher. After being higher than the
+    County’s rates for 15 years, Beverly’s unemployment rate was 1.8 percentage points less
+    in 2020 (row shaded light gray). From 2021 to 2023, Beverly’s unemployment rates were
+    around one percentage point higher than the County’s rates.
+
+                  D. Employment and Wages
+
+    Table H-27 provides annual Beverly’s employment and wage data for 2023 as published
+    by the New Jersey Department of Labor. These data report quarterly employment and
+    corresponding annual and weekly wages by North American Industrial Classification
+    System (NAICS) sectors. No private sector data are provided for the following industrial
+    sectors in Beverly: wholesale trade; transportation/warehousing; finance/insurance;
+    professional/technical;  administrative/waste      remediation;      arts/entertainment;
+    accommodations/food service; and unclassified.
+
+           Table H-26: Annual Employment and Wage Data by Sector, 2023
+                                  Beverly City
+                                          Employment                   Wages
+NAICS Sectors                   March June Sept. Dec. Avg. Annual Weekly
+Local Government Totals                 145     146     122     140     132    $49,382     $950
+Local Government Education              86       84      63      80      73    $60,473    $1,163
+Private Sector Totals                  1,082    946     869     661     991    $41,189     $792
+Construction                             6        8       4       6       6    $34,522     $664
+Manufacturing                           30       28      28      26      28    $45,245     $870
+Retail Trade                            37       35      40      39      39    $23,642     $455
+Health/Social                           29       30      28      30      30    $20,275     $390
+Other Services                          22       24      30      27      26    $28,692     $522
+       Source: NJ Dept. of Labor, Quarterly Census of Employment and Wages (QCEW),
+                      Municipal Report by Sector (NAICS-based, 2023)
+
+    The average annual number of persons employed in local government in the City in 2023
+    was 132, earning an annual and weekly wages of $49,382 and $950, respectively. An
+    annual average of 73 persons worked in Local Government Education having respective
+    annual and weekly wages of $60,473 and $1,163, which were the highest among local
+    government and private sector.
+
+    Among the industries in the private sector, manufacturing had the highest wages: $45,245
+    annually and $870 weekly. The next highest wage-earning industrial sector was
+    construction providing $34,522 and $664 in annual and weekly wages, respectively. The
+    remaining three sectors provided annual earnings in the $20,000s. Other services had
+    annual and weekly wages of $28,692 and $522, respectively. Retail trade followed with
+    an annual wage of $23,641 and a weekly wage of $455. The lowest wage-earning industry
+    in the city was health care/social services having annual and weekly wages of $20,275 and
+    $390, respectively.
+
+
+
+
+                                               24
+  BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 31 of 52 Trans ID: LCV20251627585
+
+
+             BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+  Table H-28 provides annual private sector employers by NAICS sector in Beverly and the
+  total wages they paid in 2023. A total of 65 private sector employer establishments were
+  recorded in City, paying wages totaling $8,151,363. Health care/social services had the
+  most private sector establishments (22), and the second lowest total wages paid ($301,486).
+  Manufacturing had the least number of establishments (3) but paid the highest total wages
+  ($1,278,165), which comprised 15.7% of total wages paid by private sector establishments.
+  Four retail trade establishments existed paying a total of $914,138 in total wages, the
+  second highest and 11.2% of the total wages paid. Other services followed retail trade in
+  total wages paying $745,982 with 7 establishments. Construction, consisting of 5
+  establishments, paid the lowest total wages ($207,130).
+
+      Table H-27: Annual Employer and Total Wage Data by Private Sector, 2023
+                                       Beverly City
+   NAICS Sectors                               Establishments        Total Wages
+   Private Sector Totals                             65               $8,151,363
+   Construction                                       5                $207,130
+   Manufacturing                                      3               $1,278,165
+   Retail Trade                                       4                $914,138
+   Health/Social                                     22                $301,486
+   Other Services                                     7                $745,982
+     Source: NJ Dept. of Labor, Quarterly Census of Employment and Wages (QCEW),
+                      Municipal Report by Sector (NAICS-based, 2023)
+
+                 E. Probable Future Population
+
+  Section III.B Projection of Households provided DVRPC’s 2035 population projection for
+  the Beverly: 2,488, which indicates the City’s population would not increase from 2023.
+  Table H-29 provides population and employment forecasts for Beverly and the County.
+
+                   Table H-28: Population and Employment Forecasts
+                           Beverly City                           Burlington County
+                                   Absolute   Percent                        Absolute   Percent
+               2020       2035     Change     Change     2020       2035     Change     Change
+Population     2,479      2,488       9         0.0%    447,971    474 401   26,430       5.9%
+Employment      366        433       67        18.3%    241,044    265,316   24,272      10.1%
+    Sources: County- and Municipal-Level Population and Employment Forecasts, 2015-
+                                 2050 (DVRPC, ibid.)
+
+  Notwithstanding DVRPC’s population projection of no increase for the City, Section III.B.
+  provided a high-end 2035 projection household units for Beverly. This projection assumed
+  the average household size for Beverly would remain at 3.01 persons. Under this analysis
+  the City’s 2035 population increase would be, as calculated below.
+
+          54 Projected Units2035 X 3.01 Persons/Projected Unit = 162.5 Persons2035,
+                                     say 163 Persons2035
+
+
+
+                                              25
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 32 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+Adding the 163 projected persons would increase the City’s 2035 population projection to
+2,652, as determined below.
+
+             163 Persons2035 + 2,489 Population2023 = 2,652 Population2035
+
+Beverly’s ranges of 2035 population projections are low-end 2,489 and high-end 2,652.
+
+               F. Probable Future Employment
+
+Table H-29 contains DVRPC’s 2020-2035 employment forecast. In 2020 Beverly was
+estimated to have 366 jobs, and it was forecasted to have 433 jobs. The New Jersey
+Department of Labor reported the City had 1,123 jobs (991 private-sector jobs and 132
+government jobs) in 2023 (Table H-27). Given this information, it appears that Beverly
+has already achieved the DVRPC employment forecast for 2035. Adding the DVRPC
+forecasted increase of 67 jobs for 2035 to Beverly’s 2023 1,123 jobs would result in a 2035
+projection of 1,190 jobs for the City, calculated in the following manner:
+
+         1,123 Jobs2023 + 67 Projected Jobs2035 = 1,190 Total Projected Jobs2035
+
+
+
+
+                                            26
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 33 of 52 Trans ID: LCV20251627585
+
+
+            BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+FAIR SHARE PLAN
+
+   I.      INTRODUCTION
+
+This fourth-round fair share plan (FSP) for Beverly City addresses the following
+subsections of C.52:27D-310 of the New Jersey Fair Housing Act:
+
+   •    e. A determination of the municipality's present and prospective fair share for low-
+        and moderate-income housing and its capacity to accommodate its present and
+        prospective housing needs, including its fair share for low- and moderate-income
+        housing…
+   •    f. consideration of the lands that are most appropriate for construction of low- and
+        moderate-income housing and of the existing structures most appropriate for
+        conversion to, or rehabilitation for, low- and moderate-income housing, including
+        a consideration of lands of developers who have expressed a commitment to
+        provide low- and moderate-income housing…
+   •    g. An analysis of the extent to which municipal ordinances and other local factors
+        advance or detract from the goal of preserving multigenerational family continuity
+        as expressed in the recommendation of the Multigenerational Family Housing
+        Continuity Commission…
+   •    i. An analysis of consistency with the State Development and Redevelopment Plan,
+        including water, wastewater, stormwater, and multi-modal transportation based on
+        guidance and technical assistance from the State Planning Commission.
+
+A municipality’s fourth-round affordable housing obligation consists of the following three
+components:
+
+   •    Present Need, also known as the Rehabilitation Share
+   •    Prior Third Round Obligation, 1999-2025
+   •    Present Need, 2025-2035
+
+In October 2024, the New Jersey Department of Community Affairs (NJDCA) published
+“Fair Share Housing Obligations for 2025-37 (Fourth Round)” for all municipalities in
+New Jersey. On January 21, 2025, the Beverly City Council (Council) adopted Resolution
+No. 2025-37 (Appendix A contains copy of the resolution) agreeing with NJDCA’s
+affordable housing obligation for the City. A court order fixing the following fourth round
+obligation was issued on April 8, 2025 (Appendix B):
+
+   •    Present Need is 15 dwelling units
+   •    Prospective Need is 19 dwelling units
+
+Beverly City is located within Housing Region 5, which consists of Burlington, Camden
+and Gloucester Counties.
+
+This FSP is the plan Beverly City proposes “to satisfy its obligation to create a realistic
+opportunity to meet its fair share of low- and moderate-income housing needs of its region
+
+
+                                            27
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 34 of 52 Trans ID: LCV20251627585
+
+
+            BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+and which details the affirmative measures [it] proposes to undertake to achieve its fair
+share of low- and moderate-income housing, as provided in the municipal housing element,
+and addresses the development regulations necessary to implement the housing element…”
+It is organized in the following manner:
+
+   •     Definitions
+   •     Present Need
+   •     Prior Third Round Obligation, 1999-2025
+   •     Present Need, 2025-2035
+   •     Multigenerational Family Housing Analysis
+   •     State Development and Redevelopment Plan Consistency Analysis
+
+   II.      DEFINITIONS
+
+In addition to the definitions set forth in New Jersey law, the following definitions are
+highlighted for this FSP:
+
+   “Affordable” means a sales price or rent within the means of a low- or moderate-income
+   household as defined in N.J.A.C. 5:97-9.
+
+   “Inclusionary development” means a development containing both affordable units and
+   market-rate units. This term includes, but is not necessarily limited to: new
+   construction, the conversion of a non-residential structure to residential and the creation
+   of new affordable units through the reconstruction of a vacant residential structure.
+
+   “Low-income housing” means housing affordable according to federal Department of
+   Housing and Urban Development or other recognized standards for home ownership
+   and rental costs and occupied or reserved for occupancy by households with a gross
+   household income equal to 50 percent or less of the median gross household income
+   for households of the same size within the housing region in which the housing is
+   located.
+
+   “Moderate-income housing” means housing affordable to affordable according to
+   federal Department of Housing and Urban Development or other recognized standards
+   for home ownership and rental costs and occupied or reserved for occupancy by
+   households with a gross household income equal to more than 50 percent but less than
+   80 percent of the median gross household income for households of the same size
+   within the housing region in which the household is located.
+
+   “Supportive and special needs housing” means a structure or structures in which
+   individuals or households reside, as delineated in N.J.A.C. 5:97-6.10, previously
+   referred to as alternative living arrangements.
+
+   “UHAC” means the Uniform Housing Affordability Controls set forth in N.J.A.C.
+   5:80-26.
+
+
+
+                                             28
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 35 of 52 Trans ID: LCV20251627585
+
+
+             BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+   “Very-low income” means 30 percent or less of the median gross household income
+   for households of the same size within the housing region in which the household is
+   located, based upon the U.S. Department of Housing and Urban Development’s (HUD)
+   Section 8 Income Limits (uncapped) averaged across counties for the housing region.
+
+   III.      PRESENT NEED, 2025-2035
+
+Beverly City agrees that its 2025-2035 Present Need, which is NJDCA’s estimation of
+deficient housing units occupied by low- and moderate-income households in the City, is
+15 housing units (see Appendix A for Resolution 2025-37. To address its Present Need,
+Beverly City will continue utilizing its current Rehabilitation Program that is available to
+low- and moderate-income households to rehabilitate their deficient housing units. The
+Rehabilitation Program will provide at least $10,000 in hard costs for rehabilitating each
+deficient housing unit, totaling at least $150,000. The Program will be funded primarily
+by the City’s current Small Cities Program and supplemented by the City’s Housing Trust
+Fund, which will be established in 2025 (no developer’s fees have been collected to date).
+The Rehabilitation Program will comply with N.J.A.C. 5:93-5.2 and all current
+amendments. A copy of the proposed Rehabilitation Program Manual was provided as a
+separate document for the City’s compliance.
+
+   IV.       PRIOR THIRD ROUND OBLIGATION, 1999-2025
+
+Beverly City had no Prior Third Round Prospective Need obligation.
+
+   V.        PROSPECTIVE NEED, 2025-2035
+
+As indicated in Resolution R2025-37, Beverly City agrees that its 2025-2035 Prospective
+Need is 19 housing units. To demonstrate how the City addresses its Prospective Need,
+this FSP is presented in the following manner:
+
+   •      Consideration of lands appropriate for affordable housing
+   •      Mechanisms for addressing the Prospective Need
+   •      Summary of affordable housing credits, including bonuses, for addressing the
+          Prospective Need
+
+                A. Consideration of Lands Appropriate for Affordable Housing
+
+                    1. Sewer Service Availability
+
+Sanitary sewer service is essential for providing affordable housing that is typically
+developed at higher densities. Map FSP-1 shows Map 4M-2: Beverly Zoning Districts,
+which was taken from Burlington County’s 2017 Wastewater Management Plan. The areas
+shaded gray indicate sewer service areas overlaid on the City’s 2017 zoning districts.
+
+Almost the entire City is located in sewer service areas, with the exception of the
+environmentally sensitive areas situated along the Delaware River. The sites proposed for
+
+
+                                            29
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 36 of 52 Trans ID: LCV20251627585
+
+
+          BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+providing affordable housing are located in sewer service areas; their approximate
+locations are indicated as “orange stars” on Map FSP-1.
+
+        Map FSP-1: Beverly City Zoning Districts and Sewer Service Areas
+
+
+                         Proposed
+                         Ordinance                              Adopted
+                         Waterfront                             Redevelopment
+                                                                Plan, Block 1280,
+                                                                Lots 1 & 2
+     219 Broad St.
+
+
+
+
+       Beverly
+       Commons
+
+
+
+
+                                                                       Proposed
+                                                                       Ordinance
+                                            Adopted                    Cooper &
+                                            Redevelopment              Church
+                                            Plan, Block 1280,          Streets
+                                            Lots 6.01 & 6.02
+
+
+
+
+                                       30
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 37 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+                  2. Evaluation of Potential Inclusionary Sites
+
+Map FSP-2 shows six potential sites for the production of affordable housing to address
+Beverly City’s fourth-round affordable housing obligation. They are identified as follows:
+
+       Description         Site No.          Block/Lot Numbers             Total      Area
+       (Acres)
+       Waterfront Ordinance 1                947/1 & 2                           2.04
+       Proposed                              948/1                               1.40
+                                             Laurel Street                       1.48
+                                                                           Total 4.92
+
+       219 Broad Street          2           625/8                                 0.09
+       Existing 4-Bedroom
+       Dwelling
+
+       Beverly Commons           3           626/2.02                              2.74
+       Existing Affordable
+       Age-Restricted Devel-
+       opment
+
+       Redevelopment Plan        4           1280/1, 2                             0.85
+       Ordinance Adopted         5           1280/6.01 & 6.02                      0.42
+
+       Cooper Street and         6           1171/1                                0.42
+       Church Street
+       Proposed Ordinance
+
+Each site is evaluated in the following manner:
+
+   •   Site control
+   •   Site suitability: available, suitable, developable, and approvable for development
+   •   Site documentation : general description, New Jersey Development and
+       Redevelopment Plan planning area(s), residential density, and sewer service area
+       and capacity
+
+Appendix C contains the evaluations of the six sites for producing affordable housing. The
+locations of the six sites are shown on Map FSP-2 that is based on the City’s 2013 Zoning
+Map. The conclusion of the evaluations is that the sites are suitable for production of
+affordable housing. The evaluations are summarized in subsections (1) through (6) that
+follow. Map FSP-2 shows the locations of six sites for the production of affordable housing
+
+                      a. Site 1 – Proposed Ordinance, Waterfront, Block 947, Lots
+                         1and 2, Block 948, Lot 1, and Vacation of Segment of Laurel
+                         Street
+
+
+
+
+                                            31
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 38 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+Site 1, which consists of Block 947, Lots 1 and 2, Block 948, Lot 1 and a segment of Laurel
+Street and contains approximately 5 acres, is located along the City’s waterfront. Beverly
+City owns Site 1. A few years ago, the City removed the pavement and curbs from the
+segment of Laurel Street that is situated between Block 947 and 948. To connect the two
+blocks, Beverly City must vacate this segment of Laurel Street. Site 1 is located within a
+sewer service area and has public sanitary sewer and water utilities in surrounding streets.
+The site lacks wetlands. According to Federal Emergency Management Agency Map
+34005C0108F, Site 1 is partially located within a 100-year flood hazard area of the
+Delaware River. The Coastal Vulnerability Assessment Report, Beverly City, NJ prepared
+by the Delaware Valley Regional Planning Commission (DVRPC) and dated December
+2017, in the year 2100, “up to four feet of flooding is anticipated” on Site 1 (15). The
+DVRPC report indicates the City “plans to develop [the site] as residential or mixed-use”
+and Beverly City “plans to require parking on the first floor and use the baseline NJDEP
+rules for construction in a floodplain” (ibid.). While Site 1 is anticipated to experience
+flooding, the site will be designed to comply with NJDEP requirements to have residences
+located on upper floors and adequate access for residents to leave the housing during a
+flooding event. Further, Site 1 is one of the few larger developable parcels remaining in
+the City. It is ideal for inclusionary housing.
+
+  Map FSP-2: Potential Sites for Affordable Housing Shown on 2013 Zoning Map
+
+
+                                                        Site 1
+
+
+
+                                             Site 2
+
+
+
+                       Site 3
+
+                                                                      Site 6
+
+                                                        Site 4
+
+                                                      Site 5
+
+
+
+
+The ordinance proposed for Site 1 will provide for a total of 100 housing units of which 15
+(a 15% setaside) will be deed restricted as affordable and the balance market-rate units.
+
+
+                                            32
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 39 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+Appendix D contains a copy of the proposed Waterfront Development ordinance for Site
+1. The ordinance will permit a maximum residential density of approximately 20 units per
+acre and buildings having four stories with parking on the ground floors of the buildings.
+A small component of the ground floor of at least one building will provide for commercial
+uses facing the Delaware River.
+
+                       b. Site 2 – Existing Affordable Dwelling, 219 Broad Street
+
+Site 2, which is owned by Syreeta Wilson, contains an existing detached single-family
+dwelling that has four bedrooms, is served by public sanitary sewer and water utilities, and
+is located outside flood hazard areas. The site is known as Block 625, Lot 8, located at 219
+Broad Street, and contains about 0.09 acres. It is deed-restricted for affordability
+(Appendix E) and is currently being marketed for sale to qualified low-income households
+(Appendix F) contains a copy of the marketing material for the site). When sold to a low-
+income household, the site will be deed-restricted for affordability for 40 years.
+
+                       c. Site 3 – Existing Affordable Age-Restricted Development,
+                          Beverly Commons
+
+Site 3 contains an existing affordable age-restricted apartment building known as Beverly
+Commons. It is identified as Block 626, Lot 2.02; its address is 620 Third Street. The site
+contains 2.74 acres. Twenty-four housing units exist in the building. The site is currently
+served by public sanitary sewer and water utilities, is located in a sewer service area. It
+contains no wetlands and is not situated within a flood hazard area. Beverly Commons,
+LLC owns and operates the affordable age-restricted development. An HMFA restriction
+for affordability of the site remains in effect until December 7, 2038 (Appendix G), which
+is beyond the City’s four-round obligation that ends December 31, 2035. Site 3 already
+provides affordable housing for older persons.
+
+                       d. Site 4 – Existing Redevelopment Plan, Block 1280, Lots 1 and
+                          2
+
+Site 4, identified as Block 1280, Lots 1 and 2, is included in the City of Beverly
+Redevelopment Plan, 2022 Amendment for Blocks 1280 & 1587 between Chestnut &
+Elizabeth Streets from Railroad Avenue to Pine Street (2022 Redevelopment Plan)
+(Appendix H), which amended the 2007 City of Beverly Redevelopment Plan. The 2002
+Redevelopment Plan requires a 20-percent affordable housing setaside and an alternative
+in lieu of an affordable housing deed restriction fee equal to 2.5% of the equalized assessed
+value of land and improvements. The City Council adopted Ordinance 2023-9 (Appendix
+I) amending the 2022 Redevelopment Plan with the 2023 Amendment to the City of Beverly
+Redevelopment Plan, Block 1280, Lots 1, 2, 5.01 and 6.02 (2023 Redevelopment Plan).
+The 2023 Redevelopment Plan provided for a maximum density of 41.4 units per acres that
+would yield a maximum of 35 dwelling units and an affordable housing setaside of 20
+percent providing for 7 affordable dwelling units. On March 11, 2025, the City Council
+adopted Ordinance 2025-1 (Appendix J) to change the affordable housing setaside to 15
+percent, which would provide for 5 affordable housing units.
+
+
+
+                                             33
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 40 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+
+Site 4 is bounded by Cooper, Pine and Chestnut Streets and is currently occupied by two
+single-family dwellings on an oversized lot containing 0.85 acres. It is situated within a
+sewer service area and is currently served by public sanitary sewer and water utilities. Fldsj
+At Beverly, LLC owns the site. According to Google Earth, the distance between Site 4
+and the RiverLINE light rail passenger station is approximately 453 feet as shown on FSP-
+3. The site will provide for 5 affordable housing units as part of an inclusionary
+development that would total 35 housing units of which 30 would be market-rate units. To
+provide the 35 units the existing dwelling will be razed. Site 4 is ideal for providing
+inclusionary housing – it is in short walking distance to a light rail station.
+
+Map FSP-3: Google Earth Showing Distance Between Site 4 and Light Rail Station
+
+
+
+
+                                  Enlargement
+
+
+
+
+Source: Google Earth
+
+
+                       e. Site 5 – Existing Redevelopment Plan, Block 1280, Lots 6.01
+                          and 6.02
+
+Site 5, which is identified as Block 1280, Lots 6.01 and 6.02, extends from Cooper Street
+to Chestnut Street and contains 0.42 acres. A single-family dwelling exists in the site.
+
+
+                                             34
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 41 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+Fldsj At Beverly, LLC owns the site. The site is located approximately 211 feet from the
+RiverLINE light rail passenger station as shown on Map FSP-4, which is based on Google
+Earth. Site 5 is currently served by public sanitary sewer and water utilities and is located
+within a sewer service area. It possesses no wetlands or other environmental constraints.
+
+Site 5 is included in the Redevelopment Plan that regulates Site 4 as discussed above. It is
+subject to the same 15-percent affordable housing setaside. The Redevelopment Plan
+permits up to 19 housing units of which 3 would be affordable. To provide these housing
+units the existing dwelling would be demolished. The site is ideal for providing
+inclusionary housing that is in short walking distance to a light rail station.
+
+Map FSP-4: Google Earth Showing Distance Between Site 5 and Light Rail Station
+
+
+
+
+                                       Enlargement
+
+
+
+
+Source: Google Earth
+
+
+                       f. Site 6 – Proposed Ordinance, Cooper Street and Church
+                          Street, Block 1171, Lot 1
+
+Site 6, which is identified as Block 1171, Lot 1, is bounded by three roads that form the
+corners of Cooper and Church Streets and Elizabeth and Church Streets. The site contains
+
+
+                                             35
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 42 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+0.42 acres on which a dwelling exists. It is currently served by public sanitary sewer and
+water utilities. The site is located in a sewer service area and has no wetlands or
+environmental constraints. It, too, is in walking distance to the RiverLINE light rail
+passenger service – approximately 1,081 feet away according to Google Earth as shown on
+Map FSP-5. 466 Cooper St LLC owns the site.
+
+An ordinance will be adopted to require 12 affordable housing units on Site 6 (Appendix
+K). The site is ideal for providing affordable housing that is in walking distance to a light
+rail station.
+
+Map FSP-5: Google Earth Showing Distance Between Site 6 and Light Rail Station
+
+
+
+
+Source: Google Earth
+
+
+               B. Mechanisms for Fourth-Round Compliance
+
+To satisfy its fourth-round Prospective Need of 19 affordable housing units, Beverly City
+has implemented the following mechanisms:
+
+
+
+
+                                             36
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 43 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+                   1. Existing Affordable Housing
+
+                       a. 219 Broad Street, Existing Affordable Four-Bedroom
+                          Dwelling
+
+Beverly City is in the process of selling an existing deed-restricted affordable single-family
+dwelling, which has four bedrooms and is located at 219 Broad Street, to a low-income
+household.
+
+                                       Block/Lot      Total Area                Housing Units
+Description            Site No.        Numbers          (Acres)       M-R       Afford.
+        Total
+219 Broad Street          2            625/8               0.09         0          1
+1
+Exist. Dwelling
+
+                       b. Beverly Commons, Existing Affordable Age-Restricted
+                          Development
+
+Beverly Commons is an existing affordable age-restricted development that has 24 rental
+housing units. Its 30-year affordability restriction expires December 7, 2038, which is after
+the City’s fourth round obligation ends December 31, 2035. Given the law’s limitation on
+accruing credit for age-restricted affordable units (30% of the City’s Prospective Need [30%
+x 19 units = 6 units]), the City claims credit for 6 affordable age-restricted units.
+
+                                       Block/Lot      Total Area                Housing Units
+Description         Site No.           Numbers          (Acres)       M-R       Afford.
+       Total
+Beverly Commons        3               626/2.02            2.74          0        24
+24
+Existing Affordable                                                   Credits      6
+6
+Age-Restr. Develop.
+
+                   2. Current Redevelopment Plan for Inclusionary Housing
+
+The current Redevelopment Plan for Sites 4 and 5 provides for inclusionary housing, which
+would total 54 rental housing units consisting of 46 market-rate units and 8 affordable
+units – a 15-percent setaside – on a total of 1.27 acres yielding an overall density of 42.5
+units per acre. The breakdown of the housing units is provided below.
+
+                                       Block/Lot      Total Area                Housing Units
+Description        Site No.            Numbers          (Acres)       M-R       Afford.
+       Total
+Redevelopment Plan    4                1280/1, 2           0.85        30         5
+35
+
+
+
+                                               37
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 44 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+Ordinance Adopted         5           1280/6.01 &         0.42        16       3
+19
+                                      6.02        Total   1.27        46       8
+54
+
+                   3. Proposed Ordinance for Inclusionary Housing
+
+Site 1 is included in The City of Beverly Redevelopment Plan (2007 Redevelopment Plan),
+which was dated October 16, 2007. The 2007 Redevelopment Plan lacks specificity vis-à-
+vis providing affordable housing Beverly City intends to amend the 2007 Redevelopment
+Plan by adopting an ordinance that would provide for inclusionary housing on Site 1. The
+housing composition would consist of 85 market-rate rental units and 15 affordable family
+rental units totaling 100 units on approximately 4.92 acres yielding a density of
+approximately 20 units per acre. The affordable housing setaside would be 15 percent for
+rental units. To provide inclusionary housing on the site City Council would be required
+to vacate a segment of Laurel Street right-of-way.
+
+                                      Block/Lot       Total Area            Housing Units
+Description         Site No.          Numbers           (Acres)     M-R     Afford.
+       Total
+Waterfront Ordinance 1                947/1 & 2           2.04
+Proposed                              948/1               1.40
+                                      Laurel Street       1.48
+                                                Total     4.92        85       15
+100
+
+                   4. Proposed Ordinance for Affordable Housing
+
+Site 6 is included in the 2007 Redevelopment Plan. The City intends to adopt an ordinance
+that amends the 2007 Redevelopment Plan that would provide for 12 affordable family
+rental units on Site 6, which contains 0.42 acres. The overall density would be 28.57 units
+per acre.
+
+                                      Block/Lot       Total Area            Housing Units
+Description        Site No.           Numbers           (Acres)     M-R     Afford.
+       Total
+Cooper Street and     6               1171/1              0.42        0        12
+12
+Church Street
+Proposed Ordinance
+
+                   5. Mandatory Affordable Housing Set-Aside Ordinance
+
+Beverly City will adopt an ordinance for a mandatory affordable housing set-aside
+provision that would apply to any residential development, including the residential portion
+of a mixed-use project, which consists of 5 or more new residential units at a density of 6
+
+
+
+                                             38
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 45 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+or more units per acre and that result from any use or density variance pursuant to N.J.S.A.
+40:55D-70(d). Further, this provision applies to any residential development, including
+the residential portion of a mixed-use project, which consists of 50 or more new residential
+units at a density of 6 or more units per acre that results from any rezoning or the adoption
+of a new or amended redevelopment/rehabilitation plan.
+
+The ordinance will require a 20-percent setaside of for-sale affordable housing and 15-
+percent setaside of rental affordable housing in an applicable residential development. The
+City commits to ensure that the affordable housing setaside requirement is enforced by the
+City’s Land Use Planning Board in its capacity as a planning board and a zoning board of
+adjustment.
+
+                   6. Plan Implementation Mechanisms
+
+                       a. Administrative Mechanisms
+
+In compliance with its third-round affordable housing settlement with FSHC, Beverly
+prepared the following documents to administer mechanisms to address its affordable
+housing obligation:
+
+   •   Affordability Assistance Manual
+   •   Affirmative Fair Housing Marketing Plan
+   •   Housing Rehabilitation Program Manual
+
+All of these documents were provided separately for the City’s fourth-round affordable
+housing obligation compliance. In addition, Beverly City prepared a Spending Plan that
+was submitted separately.
+
+On January 7, 2025, the Beverly City designated, by Resolution R2025-16 (Appendix L),
+CGPH Community, Grants, Planning & Housing as the City’s Affordable Housing
+Administrative Agent. The City Council adopted Resolution R2025-26 (Appendix M)
+designating City Administrator Richard Wolbert as its Municipal Housing Liaison on
+January 7, 2025.
+
+                       b. Requirements for New Construction of Affordable Housing
+
+The following requirements shall apply to the new construction of affordable housing:
+
+       (a) All of the affordable units shall fully comply with the Uniform Housing
+           Affordability Controls, N.J.A.C. 5:80-26.1, et seq. (“UHAC”), including but
+           not limited to the required bedroom and income distribution, with the sole
+           exception that 13 percent of the affordable units within each bedroom
+           distribution shall be required to be for very low income households earning
+           30percent or less of median income pursuant to the Fair Housing Act (FHA).
+
+
+
+
+                                             39
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 46 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+       (b) All of the affordable units shall be subject to affordability controls, as defined
+           under current law: 40 years for newly created affordable rental units; and 30
+           years for affordable for-sale units.
+
+       (c) In inclusionary developments, the affordable units shall be fully integrated with
+           the market-rate units, and the affordable units shall not be concentrated in
+           separate building(s) or in separate area(s) or floor(s) from the market-rate units.
+           In buildings with multiple dwelling units, affordable units shall be generally
+           distributed within each building with market-rate units. The residents of the
+           affordable units shall have full and equal access to all of the entryways,
+           amenities, common areas, and recreation areas and facilities as the residents of
+           the market-rate units.
+
+       (d) Construction of the affordable units in inclusionary developments shall be
+           phased in compliance with N.J.A.C. 5:93-5.6(d).
+
+       (e) The affordable units shall be affirmatively marketed in accordance with UHAC
+           and applicable law. The affirmative marketing shall include the community and
+           regional organizations identified in this agreement, and it shall also include
+           posting of all affordable units on the New Jersey Housing Resource Center
+           website in accordance with applicable law.
+
+       (f) All new construction units shall be adaptable in conformance with P.L.2005,
+           c.350/N.J.S.A. 52:27D-311a and -311b and all other applicable law.
+
+Appendix N contains the proposed amendments to Chapter 126 Affordable Housing to
+provide for mandatory set-asides for affordable housing in new construction.
+
+               C. Summary of Fourth-Round Compliance
+
+Beverly City complies with its fourth-round affordable housing obligation as it relates to
+its Present Need, Prior Third-Round Obligation, and Fourth-Round Prospective Need as
+summarized below.
+
+                   1. Present Need, 2025-2035
+
+Beverly City will establish a Rehabilitation Program to address its Present Need of 15
+housing units. Its Spending Plan provides for $150,000 to rehabilitate the 15 housing units.
+The City will supplement its Rehabilitation Program funding with the City’s Small Cities
+Program as needed.
+
+                   2. Prior Third-Round Obligation, 1999-2025
+
+Beverly City had no third-round Prospective Need.
+
+                   3. Fourth-Round Prospective Need, 2025-2035
+
+
+
+                                             40
+      BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 47 of 52 Trans ID: LCV20251627585
+
+
+                 BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+
+      Beverly City’s fourth-round Prospective Need is 19 units Table FSP-1 demonstrates the
+      City’s proposal for providing affordable housing complies with the minimum and
+      maximum affordable housing requirements in the fourth round.
+
+                      Table FSP-1: Minimum and Maximum Requirements for
+                                 Fourth Round Prospective Need
+                       Required                                                                 Total
+Requirements             Total     Site 1 Site 2  Site 3   Site 4 Site 5 Site 6                Provided
+Min. 50% Affordable
+Family Units
+(19 Units X 0.50)          10          15        1         0         5         3        12       36
+Min. 25% Rentals
+(35 Units X 0.25)           5          15        0         6         5         3        12       41
+Max. 30% Age-
+Restricted
+(19 Units X 0.30)           6          0         0         6         0         0        0         6
+Min. 13% Very Low-
+Income
+(19 Units X 0.13)           3          2         0         4         1         1        2        10
+Min. 50% Very Low-
+Income Families (3
+Units X 0.50)               2          2         0         0         1         1        2        10
+
+      Site 1 – Block 947, Lots 1and 2, Block 948, Lot 1, and Vacation of Segment of Laurel
+      Street, Proposed Ordinance Amending Redevelopment Plan
+      Site 2 – 219 Broad Street
+      Site 3 – Beverly Commons, Age-Restricted
+      Site 4 – Block 1280, Lots 1 and 2, Existing Redevelopment Plan
+      Site 5 – Block 1280, Lots 6.01 and 6.02, Existing Redevelopment Plan
+      Site 6 – Block 1171, Lot 1, Proposed Ordinance Amending Redevelopment Plan
+
+      The maximum amount of bonus credits permitted for the fourth round is 25 percent of the
+      Prospective Need. For Beverly City the maximum bonus credits are 5 as calculated below.
+
+           19 Units Prospective Need X 0.25 = 4.75 Bonus Credits, rounded to 5 Bonus Credits
+
+      Table FSP-2 summarizes Beverly City’s total of 47 affordable housing credits.
+
+      With a conservative amount of 47 affordable housing credits applied toward its fourth-
+      round Prospective Need, Beverly City would accrue a surplus of 28 affordable housing
+      credits that would apply toward its future rounds of Prospective Need.
+
+
+
+
+                                                  41
+           BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 48 of 52 Trans ID: LCV20251627585
+
+
+                       BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+                       Table FSP-2: Credit Allocation for Affordable Mechanisms for
+                                     Fourth Round Prospective Need
+
+                                           Status                           Bonus         Bonus
+             Mechanism                                 Type       Units     Ratio         Credits   Total
+Site 1, Ordinance Amending               Proposed     Family
+                                                                   15        N/A               0     15
+Redevelopment Plan                        Zoning      Rental
+                                         Existing     Family
+Site 2, 219 Broad Street                                           1         N/A               0     1
+                                           Unit      For-Sale
+                                                       Age-                 24 A-R
+                                          Existing
+Site 3, Beverly Commons                              Restricted    6      Units x 10%          1     7
+                                           Units
+                                                      Rental                  x½
+                                                                            8 Units
+                                                                           within ½
+Sites 4 & 5, Existing Redevelopment      Zoning In    Family
+                                                                   8        mile to            4     12
+Plan                                       Place      Rental
+                                                                          Light Rail x
+                                                                               ½
+Site 6, Ordinance Amending               Proposed     Family
+                                                                   12        N/A               0     12
+Redevelopment Plan                        Zoning      Rental
+Total                                                              42                          5     47
+
+
+          The following table summarizes the methods Beverly City will use to meet and exceed its
+          Third-Round obligation. These locations are shown Map FS-2: Potential Sites for
+          Affordable Housing Shown on 2013 Zoning Map.
+
+
+                                       Table FS-3: Third Round Summary
+                             19   Third Round Obligation
+                            -15   Site 1, Ordinance Amending Redevelopment Plan
+                             -1   Site 2, 219 Broad Street
+                             -7   Site 3, Beverly Commons
+                            -12   Sites 4 & 5, Existing Redevelopment Plan
+                            -12   Site 6, Ordinance Amending Redevelopment Plan
+                           -28    Remaining Obligation
+
+
+              VI.      MULTIGENERATIONAL FAMILY HOUSING ANALYSIS
+
+          The New Jersey Fair Housing Act (C.52:27D-310g.) requires the following analysis
+          pertaining to multigenerational family housing:
+
+                    An analysis of the extent to which municipal ordinances and other local
+                    factors advance or detract from the goal of preserving multigenerational
+
+
+
+
+                                                      42
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 49 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+       family continuity as expressed in the recommendation of the
+       Multigenerational Family Housing Continuity Commission…
+
+Beverly City’s Chapter 20 Zoning is silent on multigenerational family housing. For clarity,
+adding provisions to permit multigenerational housing in various residential zoning
+districts would be required. Beverly City anticipates undertaking an update to its master
+plan. It would be prudent to include in the planning process for the master plan update an
+analysis for determining which residential zoning districts would be appropriate to provide
+for multigenerational housing.
+
+   VII.    STATE   DEVELOPMENT                   AND     REDEVELOPMENT              PLAN
+           CONSISTENCY ANALYSIS
+
+The New Jersey Fair Housing Act (C.52:27D-310i.) requires the following analysis
+pertaining to the consistency of the HPEFSP with the current 2001 The New Jersey State
+Development and Redevelopment Plan (SDRP):
+
+       An analysis of consistency with the State Development and Redevelopment
+       Plan, including water, wastewater, stormwater, and multi-modal
+       transportation based on guidance and technical assistance from the State
+       Planning Commission.
+
+Map FSP-3 provides a copy of the Policy Map of the SDRP with the approximate location
+of Beverly City and surrounding areas encircled. Map FSP-4 is an enlargement of
+Quadrangle 94 showing SDRP planning areas for Beverly City. Beverly City is located in
+the Metropolitan Planning Area (AP1) and the Designated Town (DT) Beverly-Delanco-
+Edgewater Park.
+
+The SDRP’s intention for PA1 is to (190):
+
+   •   Provide for much of the state’s future redevelopment;
+   •   Revitalize cities and towns;
+   •   Promote growth in compact forms;
+   •   Stabilize older suburbs;
+   •   Redesign areas of sprawl; and
+   •   Protect the character of existing stable communities.
+
+Site 2, 219 Broad Street contains a detached single-family dwelling that Habitat for
+Humanity rehabilitated for the purpose of selling it to a low-income household. Site 3,
+Beverly Commons comprises the former home for retired nuns that was gut-rehabilitated
+and now offers affordable age-restricted rental units. The rehabilitation of these sites
+promotes the revitalization and stabilization of Beverly City and protects the character of
+the City.
+
+
+
+
+                                            43
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 50 of 52 Trans ID: LCV20251627585
+
+
+         BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+ Map FSP-6: 2001 Policy Map of the State Development and Redevelopment Plan
+               Beverly City and Surrounding Areas Encircled
+
+
+
+
+                                    44
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 51 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+                Map FSP-7: Enlargement of Portion of Quadrangle 94
+                  Showing SDRP Planning Areas in Beverly City
+
+
+
+
+                                        Not to Scale
+
+                                           Legend
+
+
+
+
+Sites 4 and 5 are regulated by a current redevelopment plan that provides for an increase
+in residential density that will provide for some of Beverly City’s future development,
+promotes growth in a compact form as multifamily dwellings, helps to revitalize and
+stabilize the City, and avoids sprawl.
+
+Currently, Site 1 is an underutilized portion of the City’s waterfront – prime area for future
+compact development. An ordinance amending the 2007 Redevelopment Plan will provide
+for higher density, compact development in the form of multifamily dwellings. The
+development of Site 1 will provide a significant amount of the City future growth (100
+housing units), which will help to revitalize and stabilize the community.
+
+The redevelopment of Site 6 requires amending the 2007 Redevelopment Plan to provide
+for 12 affordable units that would replace a single dwelling. The new units would be in a
+
+
+                                             45
+BUR-L-000176-25 05/30/2025 11:56:40 AM Pg 52 of 52 Trans ID: LCV20251627585
+
+
+           BEVERLY CITY HOUSING ELEMENT & FAIR SHARE PLAN
+
+
+compact form at a higher density. Redeveloping Site 6 would help to revitalize and
+stabilize Beverly City.
+
+In conclusion, the Beverly City’s proposal to provide affordable housing on the six sites is
+consistent with the following statewide goals and strategies of the SDRP:
+
+       Goal #1: Revitalize the State’s cities and towns
+       Goal #2: Conserve the State’s natural resources and systems
+       Goal #3: Promote beneficial economic growth, development and renewal for all
+       residents of New Jersey
+       Goal #4: Protect the environment, prevent and clean up pollution
+       Goal #5: Provide adequate housing at a reasonable cost
+       Goal #6: Provide adequate housing at a reasonable cost
+       Goal #7: Preserve and enhance area with historic, cultural, scenic, open space and
+       recreational value
+       Goal #8: Ensure sound and integrated planning and implementation statewide
+
+
+
+
+                                            46
+

@@ -1,0 +1,1581 @@
+MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 1 of 38 Trans ID: LCV20251813437
+
+
+
+
+                  Mount Olive
+                     Township
+             Housing Element
+             & Fair Share Plan
+                                                           Prepared by:
+                                       Van Cleef Engineering Associates
+
+                                                         Prepared for:
+                                              Township of Mount Olive
+                                             Morris County, New Jersey
+
+                                                 Adopted June 19, 2025
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 2 of 38 Trans ID: LCV20251813437
+
+
+
+
+Acknowledgements
+Mayor                                            Business Administrator
+Joe Nicastro                                     Andrew Tatarenko
+
+Town Council                                     Planning Board
+Alex Roman                                       Howie Weiss
+John Ferrante                                    Catherine Natafalusy
+Colleen Labow                                    Brian Schaechter
+John Mania                                       David Scapicchio
+Greg Stewart                                     Dan Nelson
+Chuck Aaron                                      John Batsch
+Mary Lalama                                      Jamie Shanaphy
+                                                 Erik Bradley
+Township Attorney                                John Mania
+Fred Semrau                                      William Galop
+                                                 Joe Nicastro
+Planning Board Attorney                          Ken Forlenza
+Jim Bryce
+                                                 Planning Board Secretary &
+Township & Planning Board Planner                Municipal Housing Liaison
+Michael Vreeland                                 Sara Murphy
+
+
+
+
+Prepared by:
+
+___________________________________
+Michael Vreeland, PP
+Planner License No.5823
+
+
+
+  The original of this report was signed and sealed in accordance with N.J.S.A. 45:14A-12
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 3 of 38 Trans ID: LCV20251813437
+
+
+
+
+Contents
+ Introduction .............................................................................................................. 1
+ History of Affordable Housing in Mount Olive Township ................................................ 2
+ Current Planning Context ........................................................................................... 4
+ Item A: Municipal Housing Inventory ........................................................................... 5
+    Housing Stock, Age, and Condition.......................................................................... 5
+    Housing Type and Value .......................................................................................... 6
+    Occupancy Characteristics .................................................................................... 8
+ Item B: Municipal Housing Projections ........................................................................ 9
+ Item C: Analysis of Demographic Characteristics....................................................... 10
+    Population and Households .................................................................................. 10
+    Income ................................................................................................................ 11
+ Item D: Existing and Future Employment Characteristics ............................................ 13
+    Labor Force Analysis ............................................................................................ 13
+    Employment ........................................................................................................ 15
+    Employment Projections ...................................................................................... 16
+ Item E: Present and Prospective Fair Share Determinations ........................................ 17
+    Fourth Round Obligation ....................................................................................... 17
+    Mandatory Obligation Subsets .............................................................................. 18
+    Available Bonus Credits ........................................................................................ 18
+    Prior Obligation .................................................................................................... 20
+    Additional Affordable Housing Actions................................................................... 22
+ Item F: Consideration of Appropriate Sites ................................................................ 23
+    Fourth Round Inclusionary and 100% Affordable Sites ............................................ 24
+    100 % Affordable .................................................................................................. 24
+    Additional Compliance Mechanisms ..................................................................... 26
+ Items G, H, and I: State and Regional Consistency Requirements................................ 29
+    Multigenerational Housing Continuity Commission Consistency ............................. 29
+    Highlands Regional Master Plan Consistency ......................................................... 29
+  MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 4 of 38 Trans ID: LCV20251813437
+
+
+
+
+   New Jersey State Development and Redevelopment Plan Consistency .................... 30
+Appendices ............................................................................................................. 31
+   Appendix A – Spending Plan .................................................................................. 32
+   Appendix B – C-1 Affordable Housing Overlay District ............................................. 33
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 5 of 38 Trans ID: LCV20251813437
+
+
+
+
+Introduction
+The need to provide a realistic opportunity for the creation of affordable housing has been
+recognized for decades in New Jersey. In the landmark case of Southern Burlington County
+NAACP v. the Township of Mount Laurel 67 N.J. 151 (1975) (Mount Laurel I), the New Jersey
+Supreme Court established the doctrine that New Jersey municipalities have a
+constitutional obligation to zone for a variety and choice of housing types that would be
+affordable to low- and moderate-income households. This decision was reinforced in
+Southern Burlington County NAACP v. Township of Mount Laurel, 92 N.J. 158 (1983)(Mount
+Laurel II). In its ruling, the Supreme Court expanded the Mount Laurel doctrine by
+establishing the ﬁrst methodology for municipalities to establish their “fair share” of regional
+housing needs. Mount Laurel II also established the “builder’s remedy,” as an enforcement
+mechanism, empowering developers to potentially invalidate the zoning of municipalities
+that fail to provide for their fair share.
+
+In response to the Supreme Court of New Jersey’s call for a more substantive legislative
+remedy in the Mount Laurel II decision, the New Jersey Legislature adopted the Fair Housing
+Act (FHA) in 1985 (N.J.S.A. 52:270-301, et seq.). The FHA established the Council on
+Affordable Housing (COAH) as an administrative alternative to builder’s remedy lawsuits and
+the concomitant jurisdiction of the courts. COAH was given the responsibility of dividing the
+state into housing regions, determining regional and municipal fair share affordable housing
+obligations, and adopting regulations that would establish the guidelines and approaches
+that municipalities may use in addressing their affordable housing need. These regulations
+would be subject to regular updates, called Rounds, to ensure that municipalities remain up
+to date with the requirements of the FHA.
+
+COAH would administer affordable housing regulations in New Jersey for the ﬁrst three
+rounds. However, difficulties in implementing and administering the Third Round culminated
+in the Supreme Court of New Jersey declaring COAH moribund in 2015 in the case entitled
+and In re N.J.A.C. 5:96 and 5:97, 221 N.J. 1 (2015)(“Mount Laurel IV”). Trial courts resumed
+their role as the sole forum for evaluating municipal compliance with Mount Laurel
+regulations until 2024, when Governor Murphy signed P.L. 2024, c.2. (“FHA-2”). Under FHA-
+2, the New Jersey Legislature formally abolished COAH, created the Affordable Housing
+Dispute Resolution Program (“Program”) to resolve disputes on municipal affordable
+housing obligations and compliance and to enforce the FHA, established a new process for
+municipal compliance with the FHA, and transferred certain responsibilities to the
+Department of Community Affairs (DCA), including calculating and publishing estimates on
+regional and municipal affordable housing obligations. In October of 2024, the DCA
+published its initial report on its non-binding estimates of Fourth Round regional and
+
+
+
+                                          1|Page
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 6 of 38 Trans ID: LCV20251813437
+
+
+
+
+municipal affordable housing obligations. In December 2024, the Administrative Office of
+the Courts issued Directive #14-24 (“Directive #14-24”), which implements the Program In
+March 2025, the DCA published for adoption new “Fair Housing Act” rules related to
+spending plans under N.J.A.C. 5:99.
+
+This Housing Element and Fair Share Plan (“HEFSP”) for Mount Olive Township has been
+prepared in accordance with applicable law including N.J.S.A. 52:27D-310 of the FHA, as
+amended by FHA-2, and N.J.S.A. 40:55D-28 of the Municipal Land Use Law (MLUL), and AOC
+Directive #14-24.
+
+History of Affordable Housing in Mount Olive Township
+Pursuant to the passage of the Fair Housing Act, Mount Olive Township prepared and
+adopted its ﬁrst HEFSP in August of 1986. The plan reﬂected the fact that the Township had
+reached a settlement with the Public Advocate in its then-ongoing affordable housing
+litigation. The resulting Court approved settlement agreement provided the Township with a
+six-year period of repose.
+
+Following the expiration of the repose period, the Township began to prepare a new HEFSP.
+This plan, adopted on July 18, 1996, was prepared as basis for petitioning the Council on
+Affordable Housing (COAH) for substantive certiﬁcation status covering the years 1987
+through 1991. After adopting the HEFSP, the Township was subject to a Builder’s Remedy
+lawsuit in 1997. The Court would dismiss the suit on February 4, 1999, and COAH would
+grant the Township Second Round substantive certiﬁcation on September 1, 1999.
+
+When COAH’s third round began, the Township adopted a new HEFSP on November 10,
+2005, to cover the cumulative obligation from 1987 through 2014. The Township would
+petition COAH for Third Round certiﬁcation on December 2, 2005. COAH would issue a
+comprehensive report on the plan on August 17, 2006, requesting revisions to the adopted
+plan. These revisions were completed and the amended plan was resubmitted to COAH on
+November 9, 2006.
+
+However, while COAH found the revised plan satisfactory and scheduled a public hearing for
+approval, the Courts invalidated COAH’s Third Round rules on January 25, 2007. The
+Township would prepare a new HEFSP in response to COAH’s modiﬁed rules, and petition
+for Third Round certiﬁcation again on November 5, 2009. COAH acknowledged the receipt
+of the petition on January 8, 2010, but the Court’s would strike down key components of the
+rules on October 8, 2010. In the end, COAH would fail to adopt revised Third Round rules
+before the Court ordered deadline, and the Court would declare COAH moribund on March
+15, 2015, when it decided Mount Laurel IV, leaving the Township without substantive
+certiﬁcation for the Third Round.
+
+
+                                        2|Page
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 7 of 38 Trans ID: LCV20251813437
+
+
+
+
+In response to the New Jersey Supreme Court’s instructions in Mount Laurel IV, the Township
+ﬁled a declaratory judgment action in Morris County Superior Court entitled: In the Matter of
+the Application of the Township of Mount Olive, Docket No.: MRS-L-1634-15 (“2015 Action”).
+During the 2015 Action, the Township entered negotiations with representatives of the Fair
+Share Housing Center (FSHC) to prepare new affordable housing obligation numbers and
+seek Court-approval for an accepted fair share obligation and Housing Element and Fair
+Share Plan. This resulted in a July 20, 2017 settlement agreement which established the
+Township’s as having a cumulative obligation for the Third Round and served as the basis for
+the adoption of a new Third Round HEFSP that was adopted by the Township on December
+21, 2017. The Court would issue an Order on Fairness and Preliminary Compliance on
+August 18, 2017 in the Township’s 2015 Action. On March 18, 2018 the Court entered a Final
+Judgment of Compliance for the Township’s Third Round HEFSP and the Township’s
+implementing ordinances and spending plan in the Township’s 2015 Action.
+
+In accordance with FHA-2, on January 21, 2025 the Township Council of the Township of
+Mount Olive timely adopted a resolution setting forth its Fourth Round gross unadjusted
+present need affordable housing obligation of ninety-nine (99) and a Fourth Round gross
+unadjusted prospective need of two-hundred and eighty-six (286). Then on January 23, 2025
+the Township ﬁled a Complaint for Declaratory Relief and uploaded its Fourth Round
+Resolution to the Affordable Housing Dispute Resolution Program (“Program”) in
+accordance with FHA-2 and Directive #14-24. The Township’s Fourth Round action is now
+pending with the Program and the Court in the case entitled: In the Matter of the Application
+of the Township of Mount Olive, Docket No.: MRS-L-00180-25 (“2025 Action”)
+
+Both the New Jersey Builders Association and Fair Share Housing Center ﬁled challenges to
+the Township’s Fourth Round Prospective Need Obligation calculation. Following a
+settlement conference with representatives from Fair Share Housing Center, an agreement
+was reached to settle the Township’s Fourth Round gross/unadjusted Prospective Need
+Obligation at 317.
+
+By order entered by Morris/Sussex County Mt. Laurel Judge, the Honorable Janine M. Allen,
+J.S.C., in the Township’s 2025 Action, the Township has a Fourth Round gross/unadjusted
+Present Need obligation of ninety-nine (99) and a Fourth Round gross/unadjusted
+Prospective Need Obligation of three-hundred and seventeen (317). The Township’s Fourth
+Round Housing Element and Fair Share Plan has now been prepared in accordance with
+same.
+
+
+
+
+                                         3|Page
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 8 of 38 Trans ID: LCV20251813437
+
+
+
+
+Current Planning Context
+Pursuant to both the Fair Housing Act (52:27D-310) and the Municipal Land Use Law (MLUL)
+N.J.S.A. 40:55D-28, municipalities in New Jersey are required to include a housing element
+in their master plans. The statutorily required contents of the housing element are as follows:
+
+   a. An inventory of the municipality’s housing stock by age, condition, purchase or rental
+      value, occupancy characteristics, and type, including the number of units affordable
+      to low- and moderate-income households and substandard housing capable of being
+      rehabilitated;
+   b. A projection of the municipality’s housing stock, including the probable future
+      construction of low- and moderate-income housing, for ten years, taking into
+      account, but not necessarily limited to, construction permits issued, approvals of
+      applications for development and probable residential development of lands;
+   c. An analysis of the municipality’s demographic characteristics, including but not
+      necessarily limited to, household size, income level and age;
+   d. An analysis of the existing and probable future employment characteristics of the
+      municipality;
+   e. A determination of the municipality’s present and prospective fair share for low- and
+      moderate-income housing and its capacity to accommodate its present and
+      prospective housing needs, including its fair share for low- and moderate-income
+      housing;
+   f. A consideration of the lands that are most appropriate for construction of low- and
+      moderate-income housing and of the existing structures most appropriate for
+      conversion to, or rehabilitation for low- and moderate-income housing, including a
+      consideration of lands of developers who have expressed a commitment to provide
+      low- and moderate-income housing;
+   g. An analysis of the extent to which municipal ordinances and other local factors
+      advance or detract from the goal of preserving multigenerational family continuity, as
+      expressed in the recommendations of the Multigenerational Family Housing
+      Continuity Commission;
+   h. For a municipality located within the jurisdiction of the Highlands Water Protection
+      and Planning Council, an analysis of compliance of the housing element with the
+      Highlands Regional Master Plan of lands in the Highlands Preservation Area, and
+      lands in the Highlands Planning Area for Highlands-conforming municipalities; and
+   i. An analysis of consistency with the State Development and Redevelopment Plan,
+      including water, wastewater, stormwater, and multi-modal transportation based on
+      guidance and technical assistance from the State Planning Commission.
+
+
+
+                                          4|Page
+     MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 9 of 38 Trans ID: LCV20251813437
+
+
+
+
+Item A: Municipal Housing Inventory
+“An inventory of the municipality’s housing stock by age, condition, purchase or rental value,
+occupancy characteristics, and type, including the number of units affordable to low- and
+moderate-income households and substandard housing capable of being rehabilitated;”
+
+Approximately two-thirds of Mount Olive Township’s housing stock consists of single-family
+homes. Much of this housing stock is aged, with about a third of all units built prior to 1970,
+though deﬁciencies in need of rehabilitation remain low. Compared to the rest of Morris
+County, a greater share of Mount Olive housing stock, 38 % vs. 26 %, is renter-occupied.
+
+Housing Stock, Age, and Condition
+According to the 2023 American Community Survey 5-Year Estimates, there are 11,414
+housing units in Mount Olive Township, comprising 5.7 % of Morris County’s 198,611
+housing units per the same survey. Housing development peaked in the 1970s, with new
+construction falling off sharply after 2010.
+
+                Mount Olive Township: Housing Units by Year Structure Built
+     3000                                                                                             30.0%
+
+
+
+     2500                                                                                             25.0%
+
+
+
+     2000                                                                                             20.0%
+
+
+
+     1500                                                                                             15.0%
+
+
+
+     1000                                                                                             10.0%
+
+
+
+       500                                                                                            5.0%
+
+
+
+            0                                                                                         0.0%
+                1939 or 1940 to 1950 to 1960 to 1970 to 1980 to 1990 to 2000 to 2010 to 2020 or
+                earlier  1949    1959    1969    1979    1989    1999    2009    2019    later
+    Total        583     500      976     1663     2777      1449        1452   1273    667     74
+    Percent      5.1%    4.4%    8.6%     14.6%    24.3%    12.7%    12.7%      11.2%   5.8%   0.6%
+
+
+S ource: 2023 American Communit y Su rv ey, 5 -Year Estimat es: B25034
+
+
+
+
+                                                   5|Page
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 10 of 38 Trans ID: LCV20251813437
+
+
+
+
+The existence of deﬁcient housing units                             Mount Olive Township: Overcrowded
+remains an issue in the Township, though                                 Occupied Housing Units
+overall deﬁciency rates are in line with                                     Overcrowded, 2%
+County averages. An estimated 184 units,
+approximately 2 %, in the Township meet
+the HUD criteria for overcrowding (more
+than 1 person per room), including 20 units
+classiﬁed as severely overcrowded (more
+than 1.5 persons per room). Additionally,
+there are an estimated 84 units lacking
+complete kitchen facilities, some of which
+may overlap with overcrowded units due to
+limits in data gathering. No units lack
+complete plumbing facilities.
+                                                                              Not Overcrowded, 98%
+Housing Type and Value
+                                                               S ource: 2023 American Communit y Su rv ey, 5 -Year
+                                                                               Estimates, DP04
+Mount Olive Township’s housing stock is
+split approximately two to one between single-family and multi-family structures. Just under
+a quarter of the total housing stock is in multi-family structures of ten or more units.
+
+            Mount Olive Township: Housing Type by Units in Structure
+    Single Family,
+      Attached                                       2 Units
+        2.92%                                        1.56%
+
+
+
+
+                                                                                          10-19 Units
+                                                                                            14.63%
+
+    Single Family,                  Other
+      Detached                     35.78%                                     5-9 Units                 20 or More
+       59.74%                                                                  5.61%                      Units
+                                                                                                          8.78%
+                                                                                          3-4 Units
+                                                                                           6.76%
+
+
+
+
+S ource: 2023 American Communit y Su rv ey, 5 -Year Estimat es, DP04
+
+
+
+
+                                                   6|Page
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 11 of 38 Trans ID: LCV20251813437
+
+
+
+
+The table to the right shows the distribution of                Mount Olive Township: Housing Size
+housing sizes in Mount Olive Township by                                   by Room Count
+number of rooms. Median room count has                          # of Rooms          Total      %
+increased slightly in recent years, from 6.0 in                 1 Room               122       1.1
+2018 American Community Survey estimates to                     2 rooms              242       2.1
+6.2 in 2023 estimates. Part of this trend, however,             3 rooms             1620      14.2
+is explained by the Township eliminating over 100               4 rooms             1773      15.5
+                                                                5 rooms             1372      12.0
+1-room dwelling units over that period.
+                                                                6 rooms              775       6.8
+For the Township’s 6,587 owner-occupied                         7 rooms             1388      12.2
+housing units, greater than half of the units are               8 rooms             1580      13.8
+valued at less than $500,000. This contrasts with               9 rooms or more     2542      22.3
+                                                                Median # of Rooms         6.2
+Morris County as a whole, where nearly 60 % of
+owner-occupied homes are valued upwards of          S ource: 2023 American Communit y Su rv ey, 5-
+                                                                Year Estimates, DP04
+$500,000. This is reﬂected in a nearly $100,000
+split in median home values: $460,200 for Mount Olive township versus $557,0000 for Morris
+County Both ﬁgures, however, represent considerable increases from the $363,500 and
+$256,700 median home values for the Township and County, respectively, reported in the
+2018 American Community Survey.
+
+            Mount Olive Township vs. Morris County: Distribution of
+                       Owner-Occupied Home Values
+                                      3.7%                         Morris County
+                                              7.0%
+
+                                     4.0%
+                                             9.0%
+
+
+
+                  38.1%                                                            Less than $200,000
+
+                              Mount Olive                                          $200,000 to $299,999
+                               Township                    31.6%                   $300,000 to $499,999
+          57.7%                                                                    $500,000 or more
+
+                                               48.9%
+
+
+
+
+S ource: 2023 American Communit y Su rv ey, 5 -Year Estimat es, DP04
+
+
+
+
+                                                     7|Page
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 12 of 38 Trans ID: LCV20251813437
+
+
+
+
+Occupancy Characteristics
+Approximately 60 % of Mount Olive Township’s 11,414 housing units are owner-occupied.
+Total vacancies are estimated at 188 units, approximately 2 % of the total. Of the vacant
+properties, approximately 40 % are units for sale or rent without an occupant, with the rest
+being vacant homes not for sale, rent, temporary use, or utilized for seasonal workers.
+
+                  Mount Olive Township: Occupancy and Vacancy
+                                 Characteristics
+                     Renter-Occupied,
+                       4314, 38.0%               Vacant, 188, 1.7%
+                                                                              All Other Vacant
+                                                                            Properties, 107, 0.9%
+
+
+
+
+                                                                                 Not
+                                                                            Occupied, For
+                                                                            Rent, 49, 0.4%
+             Owner-Occupied,
+               6857, 60.4%
+                                                                                         Not Occupied, For
+                                                                                          Sale, 32, 0.3%
+
+
+S ources (top and bottom): 2023 American Communit y Surv ey, 5 -Year Estimates, DP04 & B25004
+
+In terms of housing burden (deﬁned by HUD as spending 30 % or more of gross monthly
+income on housing), approximately 25
+                                            Mount Olive Township: Housing Costs
+% of units with a mortgage and 38 % of
+                                                 as a Share of Monthly Income
+units paying rent are cost burdened.
+                                                                     Units with
+This does not include approximately 5 %                              Mortgages
+of occupied units without a mortgage
+                                            25%
+(i.e. owned outright) that also meet the                                        Less than 20.0
+                                                                            percent
+criteria for housing cost burden. Since                       29%
+                                             38%                   43%
+the 2018 American Community Survey,                   Units
+                                                                                20.0 to 24.9
+                                                                            percent
+owner-occupied housing burden has                     Paying
+                                                       Rent
+                                                                                25.0 to 29.9
+held relatively consistent, but renter                                      percent
+                                         15%                 16%
+burden has increased sharply from the
+                                                    17%                         30.0 percent or
+22 % estimated that year.                                                   more
+                                                                     17%
+
+
+
+
+                                                 8|Page
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 13 of 38 Trans ID: LCV20251813437
+
+
+
+
+Item B: Municipal Housing Projections
+ “A projection of the municipality’s housing stock, including            Mount Olive Township: Housing Units
+                                                                           Authorized by Building Permits
+the probable future construction of low- and moderate-                               1&2
+                                                                          Year                 Multifamily
+income housing, for ten years, taking into account, but not                         Family
+necessarily limited to, construction permits issued,                      2013        110            0
+                                                                          2014        79             0
+approvals of applications for development and probable                    2015        70             0
+residential development of lands;”                                        2016        64            57
+                                                                          2017        76             0
+Per the table on the right, Mount Olive Township has                      2018        100            0
+authorized an additional 946 residential units since 2013.                2019        90             0
+Approximately 13 % of the authorized units were for                       2020        74            26
+multifamily structures consisting of more than two units.                 2021        100           28
+                                                                          2022        67             0
+Housing starts declined dramatically in 2023. Absent more
+                                                                          2023         5             0
+recent data, it remains to be seen if this represents an outlier          Total       835           111
+or the start of a new trend towards reduced housing activity              S ource: New Jersey Departm ent
+                                                                           of Communit y Affairs, Building
+in the Township.                                                           Permits, Yearl y Summary Data
+
+One factor that may contribute to cooling housing activity is
+the Township’s low population growth. While population growth in the Township remains on
+track with projections by the North Jersey Transportation Planning Authority, the projected
+rate of annual increase is lower than the regional average. Additionally, what was initially
+projected to be a comparatively high employment growth rate in 2005 has since been revised
+downwards to below the regional average.
+
+ Mount Olive Township: NJTPA Projection   A lack of readily developable land may also contribute to
+              Comparisons
+  Projected
+                                          low housing activity in the Township. 79 % of all land in the
+                   2035        2050
+ Year (Year of                            Township is within the Highlands Preservation Area. Those
+  Analysis)       (2005)      (2015)
+                                          lands not in the Preservation Area can also face additional
+  Population      26,410      30,322
+ Growth Rate       0.1%        0.1%       constraints. These factors place ﬁrm upper limits on the
+ Households       10,540      11,736      developmental potential of the Township if it is to avoid
+ Growth Rate       0.3%        0.2%
+                                          encroachment on these and other environmental
+ Employment       12,170      11,316
+ Growth Rate       1.0%        0.3%       resources.
+        S ource: North Jersey
+ Transportation Planning Authorit y,
+    Regional Transportation Plan
+      Municipal Demographic
+             Projections
+
+
+
+
+                                                  9|Page
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 14 of 38 Trans ID: LCV20251813437
+
+
+
+
+Item C: Analysis of Demographic Characteristics
+“An analysis of the municipality’s demographic characteristics, including but not necessarily
+limited to, household size, income level and age;”
+
+Population and Households
+The latest available American Community Survey data estimates Mount Olive Township’s
+population at 28,964, nearly identical to the 2020 Decennial Census. Mount Olive Township
+grew rapidly starting in the 1960s, and while growth has slowed since 2010 the most recent
+ACS estimate is still a record high for the Township’s population.
+
+                       Mount Olive Township: Population, 1900-2023
+     35,000
+
+     30,000
+
+     25,000
+
+     20,000
+
+     15,000
+
+     10,000
+
+      5,000
+
+          0
+                                                                                                                       2023
+               1900    1910    1920    1930    1940    1950    1960   1970    1980    1990   2000      2010     2020
+                                                                                                                       (Est.)
+    Population 1,221   1,160   1,008   1,235   1,526   2,597   3,807 10,394 18,748 21,282 24,193 28,117 28,886 28,964
+
+
+S ources (top and right): 190 0-2020 US Decennial
+Census, American Communit y Survey, 5-Year                            Mount Olive Township vs. Morris County:
+Estimates, DP05 and S1101                                               Distribution of Households by Size
+
+Mount Olive Township’s 29,249 residents                                                                                  Morris
+                                                                                                                         County
+are divided between 11,171 total                                                                                25%
+                                                                             25%
+households, of which 8,064 are families.                                        25%                      22%
+
+Average household and family size are
+2.59 and 3.05, respectively. Average
+                                                                                         Mount Olive
+household size is nearly identical to the                                                 Township
+
+Morris County average of 2.61. Average
+family size is slightly lower than the                                        20%
+                                                                        18%                              33%
+County average of 3.17.
+                                                                                                          32%
+
+
+                                                                   1-person    2-person      3-person         4-or-more-person
+
+
+
+                                                        10 | P a g e
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 15 of 38 Trans ID: LCV20251813437
+
+
+
+
+                          Mount Olive Township: Population Pyramid
+     85 years and over                                            206 162
+         80 to 84 years                                             80 294
+         75 to 79 years                                          285      450
+         70 to 74 years                                        425        463
+         65 to 69 years                               841                       712
+         60 to 64 years                               858                            1122
+         55 to 59 years                       1297                                    1155
+         50 to 54 years                       1279                                 958
+         45 to 49 years                                 711                          1113
+         40 to 44 years                         1114                              928
+         35 to 39 years                          1058                               1062
+         30 to 34 years                         1151                               1021
+         25 to 29 years                                 700                        1033
+         20 to 24 years                                   559                    848
+         15 to 19 years                                 732                    733
+         10 to 14 years                        1216                            744
+           5 to 9 years                               912                               1349
+         Under 5 years                                   685                   708
+                      1500         1000           500                0                500        1000          1500
+
+                                                     Male      Female
+
+
+S ource: 2023 American Communit y Su rv ey, 5 -Year Estimat es, S0101
+
+Mount Olive Township’s median age of 39.9 years old is signiﬁcantly younger than Morris
+County’s median age of 43.1 years. The Township’s old age dependency ratio, a measure of
+the relationship between people aged 65 and older with the 15-64 working age population,
+is also lower than the County average: 21.3 % compared to 30.9 %.
+
+Income
+In terms of income, Mount Olive                             Selected Economic Characteristics: Mount Olive
+                                                                Township vs. Morris County/New Jersey
+Township’s median household and
+                                                                          Mt. Olive          Morris         New
+family incomes are higher than the State                                  Township           County        Jersey
+average, but lower than Morris County as                Median
+a whole. The Township’s poverty rate,                   Household        $119,931           $134,929     $101,050
+                                                        Income
+however, is lower than both County and                  Median
+State averages.                                         Family           $149,301           $168,431     $123,892
+                                                        Income
+                                                        Poverty
+                                                        Rate
+                                                                            3.6%               5.8%         9.8%
+                                                               S ource: 2023 American Communit y Su rv ey, 5 -Year
+                                                                            Estimates, S1701, S1901
+
+
+
+
+                                                  11 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 16 of 38 Trans ID: LCV20251813437
+
+
+
+
+Analyzing detailed income distributions, non-family household incomes lag considerably
+behind family households. The median non-family household income of $71,012 is less than
+half the median family income of $149,301. At the extreme lower end, while around 10 % of
+non-family households have incomes below $15,000, less than 2 % of family households do.
+
+          Mount Olive Township: Distribution of Non-Family and Family
+                            Household Incomes
+ 35.0%
+
+
+ 30.0%
+
+
+ 25.0%
+
+
+ 20.0%
+
+
+ 15.0%
+
+
+ 10.0%
+
+
+  5.0%
+
+
+  0.0%
+         Less than $10,000    $15,000    $25,000    $35,000    $50,000    $75,000 $100,000 $150,000 $200,000
+         $10,000 to $14,999 to $24,999 to $34,999 to $49,999 to $74,999 to $99,999 to $149,999 to $199,999 or more
+
+                                       Non-Family Households        Families
+
+
+                     S ource: 2023 American Communit y Su rv ey, 5 -Year Estimat es, S1901
+
+The nearly 100 % premium in family vs. non-family household income helps illustrate the
+Township’s particular need for affordable housing in ways that a simple median income
+metric for all households might otherwise conceal. Groups such as young workforce
+entrants who have yet to form families and seniors living alone on ﬁxed incomes exert a
+demand for affordable housing that isn’t apparent from the perspective of established family
+households, even as the Township’s reported poverty rate remains low. Relatively high rates
+of low and very-low-income non-family households may also indicate other groups, such as
+the permanently disabled or drug addicts, who require special consideration for shelter.
+
+
+
+
+                                                 12 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 17 of 38 Trans ID: LCV20251813437
+
+
+
+
+Item D: Existing and Future Employment Characteristics
+“An analysis of the existing and probable future employment characteristics of the
+municipality;”
+
+                                    Mount Olive Township: Labor Force Estimates, 2013-2023
+Labor Force Analysis                           Civilian     Resident        Total       Unemployment.
+                                    Year     Labor Force   Employment    Unemployed       Rate (%)
+Mount Olive Township’s civilian     2013        15,538        14,491         1,047            6.7
+labor force grew by about 5 %       2014        15,404        14,598          806             5.2
+between 2013 and 2013. This is      2015        15,417        14,722          695             4.5
+                                    2016        15,455        14,823          632             4.1
+slower than New Jersey as a
+                                    2017        15,760        15,183          577             3.7
+whole, but faster than the Morris   2018        15,791        15,257          534             3.4
+County average. Like most of the    2019        16,036        15,570          466             2.9
+
+country, unemployment spiked        2020        15,667        14,409         1,258            8.0
+                                    2021        15,704        14,815          889             5.7
+during the COVID-19 pandemic,       2022        16,038        15,509          529             3.3
+but would soon recover and is       2023        16,363        15,735          628             3.8
+currently in line with County              Morris County: Labor Force Estimates, 2013-2023
+                                               Civilian     Resident        Total       Unemployment.
+averages.                           Year     Labor Force   Employment    Unemployed       Rate (%)
+                                    2013       264,216        247,611        16,605           6.3
+                                    2014       261,190        248,086        13,104           5.0
+                                    2015       260,137        248,914        11,223           4.3
+                                    2016       259,565        249,498        10,067           3.9
+                                    2017       264,573        255,195        9,378            3.5
+                                    2018       263,695        255,399        8,296            3.1
+                                    2019       267,830        260,529        7,301            2.7
+                                    2020       261,177        241,666        19,511           7.5
+                                    2021       262,393        248,469        13,924           5.3
+                                    2022       268,634        260,117        8,517            3.2
+                                    2023       273,903        263,900        10,003           3.7
+                                            New Jersey: Labor Force Estimates, 2013-2023
+                                               Civilian      Resident        Total      Unemployment
+                                    Year     Labor Force    Employment    Unemployed      Rate (%)
+                                    2013       4,528,019     4,147,661       380,358          8.4
+                                    2014       4,493,894     4,191,318       302,576          6.7
+                                    2015       4,494,606     4,237,876       256,730          5.7
+                                    2016       4,492,821     4,271,201       221,620          4.9
+                                    2017       4,614,953     4,406,151       208,802          4.5
+                                    2018       4,604,787     4,420,713       184,074          4.0
+                                    2019       4,687,390     4,525,044       162,346          3.5
+                                    2020       4,638,386     4,200,980       437,406          9.4
+                                    2021       4,648,814     4,337,793       311,021          6.7
+                                    2022       4,736,213     4,552,563       183,650          3.9
+                                    2023       4,829,671     4,615,722       213,949          4.4
+                                           S ource: New Jersey Departm ent of Labor and Workforce
+                                               Development: Labor Force Estimates, 2013-2023
+
+
+
+
+                                       13 | P a g e
+     MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 18 of 38 Trans ID: LCV20251813437
+
+
+
+
+In terms of employment by occupation (type of work done by employer), The management,
+business, science and arts occupations comprise about half of the civilian labor force,
+followed by sales and office occupations and service occupations
+
+                            Mount Olive Township: Employment by Occupation
+
+                               10%
+
+
+                7%
+                                                                                                           Management, business, science, and arts
+                                                                                                        occupations
+                                                                                                           Service occupations
+
+                                                                                                             Sales and office occupations
+                                                                                    49%
+                                                                                                           Natural resources, construction, and maintenance
+      21%                                                                                               occupations
+                                                                                                           Production, transportation, and material moving
+                                                                                                        occupations
+
+
+
+
+                             13%
+
+
+
+S ource (Top and bottom): American Communit y Surv ey, 2023 5-year Estimates, DP03
+
+When broken down by industry (class of employer), educational services, health care, and
+social assistance are the most common employer, followed by manufacturing.
+
+                                                     Mount Olive Township: Employment by Industry
+                                                                                0         500         1000     1500      2000       2500      3000   3500
+
+                       Agriculture, forestry, fishing and hunting, and mining         220
+                                                               Construction                             966
+                                                             Manufacturing                                                             2473
+                                                           Wholesale trade                  452
+                                                                 Retail trade                                                   2143
+                              Transportation and warehousing, and utilities                       730
+                                                                Information                     548
+              Finance and insurance, and real estate and rental and leasing                                   1202
+     Professional, scientific, and management, and administrative services                                                   1971
+               Educational services, and health care and social assistance                                                                           3306
+ Arts, entertainment, and recreation, and accommodation and food services                                       1296
+                               Other services, except public administration                 445
+                                                      Public administration                            883
+
+
+
+
+                                                                                14 | P a g e
+        MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 19 of 38 Trans ID: LCV20251813437
+
+
+
+
+Employment
+The New Jersey Department of Labor and Workforce Development publishes annual
+Municipal Reports by Sector, but estimates were not published for the Township for 2020 or
+2021 due to data quality issues. Aggregate data shows that local employment, both public
+and private sector, has remained consistent over a ten-year period from 2013 to 2023.
+
+                                  Mount Olive Township: Local Employment by Sector
+                   14000
+
+                   12000                                                                                                                               10764
+                              10607
+
+                   10000
+
+
+
+
+  Total Employed
+                    8000
+
+                    6000
+
+                    4000
+
+                    2000       1182                                                                                                                    1209
+
+                                  833                                                                                                                    904
+                       0
+                               2013        2014                2015            2016    2017         2018         2019     2020   2021      2022        2023
+
+                                                        Private Sector                  Public Sector               Public Education
+
+S ource (Top and bottom): New Jersey Department of Labor and Workforce Development: Municipal Reports by
+S ector, 2013-2023
+
+                           Mount Olive Township: Private Sector Unit Count and Average Employment by NAICS
+                                                              Sector, 2023
+                                           0                   200              400         600            800          1000     1200      1400          1600
+                           Construction                 65
+                                                                                                                  851
+                        Manufacturing              33
+                                                                                                                                               1,404
+                      Wholesale Trade               46
+                                                                                                           741
+                            Retail Trade                 72
+                                                                                                                                           1,338
+                   Transp/Warehousing              23
+                                                                                                                                   1,186
+                            Information        13
+                                                                   163
+                    Finance/Insurance              27
+                                                                    173
+                             Real Estate       13
+                                                         76
+          Professional/Technical                         76
+                                                                                      454
+ Admin/Waste Remediation                                55
+                                                                                                        725
+                              Education        8
+                                                        64
+                           Health/Social                     100
+                                                                                              588
+                    Arts/Entertainment         8
+                                                              123
+                        Other Services                  56
+                                                                         211
+                                               20
+                           Unclassifieds        25
+
+
+
+                                                                          Average Units       Average Employment
+
+
+
+                                                                                      15 | P a g e
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 20 of 38 Trans ID: LCV20251813437
+
+
+
+
+Employment Projections
+Few sources exist for employment projections at the                                    Mount Olive Township: NJTPA
+municipal level. The most recent projections by North Jersey                              Employment Projection
+                                                                                        2015 Employment     10,100
+Transportation Planning Authority project an annualized                                 2050 Employment     11,316
+employment growth of 0.3 % from 2015 to 2050. However, as                                   Annualized
+NJTPA’s municipal projections rely on manual allocation of                                 Employment        0.3%
+                                                                                             Change
+data collected at the county level, these ﬁgures do not
+                                                                                             S ource: North Jersey
+necessarily relate to other labor force or employment                                      Transportation Planning
+                                                                                              Authorit y, Regional
+projections by the New Jersey Department of Labor and                                   Transportation Plan Municipal
+                                                                                          Demographic Projections
+Workforce Development or United States Census Bureau.
+
+Absent more robust publicly available data, an alternate projection method involves
+performing statistical analysis on existing available data to extrapolate possible trends into
+future projections. Mapping lines of best ﬁt to existing New Jersey Department of Labor and
+Workforce Development data suggest that, if current trends continue, Mount Olive Township
+may have a civilian labor force of just under 19,000 employees by 2035. Local employment
+is projected to remain nearly static, but the lack of data for 2020 and 2021 signiﬁcantly
+reduces the predictive capability of such analysis.
+
+          Mount Olive Township: Polynomial Trendline                  Mount Olive: Exponential Trendline Projection of
+           Projection of Future Civilian Labor Force                                Future Employment
+
+ 20000                                                        12000
+ 19000                                    R² = 0.7079
+ 18000                                                        11500
+ 17000                                                                                                     R² = 0.0006
+ 16000                                                        11000
+ 15000
+ 14000                                                        10500
+ 13000
+ 12000                                                        10000
+ 11000
+ 10000                                                         9500
+
+
+
+                              Year                                                            Year
+
+S ource: New Jersey Departm ent of Labor and Workforce Development: Labor Force Esti mates and Municipal
+Reports by Sector, 2013-2023
+
+
+
+
+                                                       16 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 21 of 38 Trans ID: LCV20251813437
+
+
+
+
+Item E: Present and Prospective Fair Share Determinations
+“A determination of the municipality’s present and prospective fair share for low- and
+moderate-income housing and its capacity to accommodate its present and prospective
+housing needs, including its fair share for low- and moderate-income housing;”
+
+With the passage of P.L.2024, c.2 each municipality is responsible for determining its present
+and prospective need affordable housing obligations. The Department of Community Affairs
+(“DCA”) is responsible to conduct a calculation and publish a report of regional and
+municipal prospective need and the municipal present need. Each municipality may take
+into consideration the DCA calculations when determining its Fourth-Round affordable
+housing obligations. However, P.L. 2024, c. 2 explicitly makes clear that the calculations and
+determinations set forth in the DCA’s report are not binding.
+
+This section summarizes Mount Olive Township’s present and prospective need affordable
+housing obligations in the DCA’s non-binding report, the Township’s analysis and response
+and the Affordable Housing Dispute Resolution Program mediation agreement and order
+entered by the Morris/Sussex Mount Laurel Judge, the Honorable Janine M. Allen, J.S.C.,
+entered in the Township’s 2025 Action.
+
+P.L.2024, c.2 requires municipalities to address any remaining unfulﬁlled prior round
+obligation before addressing Fourth Round affordable housing obligations. A status
+summary of the Township’s prior round obligation is also included.
+
+Fourth Round Obligation
+The DCA released its non-binding report entitled “Affordable Housing Obligations for 2025-
+2035 (Fourth Round}”. The DCA report concluded that Mount Olive Township’s estimated
+non-binding fair share obligations for the Fourth Round include a present need of 99 units
+and a prospective need of 459 units.
+
+The Township undertook its own assessment and ﬁled a resolution of participation before
+the Program. The assessment and resolution proposed fair share obligations for the Fourth
+Round include a present need of 99 units and a prospective need of 286 units.
+
+FSHC ﬁled an objection to the resolution and contended that Mount Olive Township should
+be required to utilize calculations prepared by FSHC setting the Township’s gross Fourth
+Round prospective need obligation at 367 units.
+
+The Township and FSHC entered into a mediation                   Mount Olive Township:
+                                                           Fourth Round Obligation Summary
+agreement to settle the Township’s gross Forth
+                                                         Present Need                   99
+Round prospective need obligation in the amount of       Prospective Need              317
+317 units, which was adopted by Order of the Court.      Total Obligation              416
+
+
+                                         17 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 22 of 38 Trans ID: LCV20251813437
+
+
+
+
+Mandatory Obligation Subsets
+In addition to establishing methodology for determining present and prospective need, P.L.
+2024, c.2 established rules for minimum and maximum allowances for certain types of
+affordable housing. Based on Mount Olive’s present and prospective need, the following
+minimums and maximums apply as calculated based on the Fourth Round
+gross/unadjusted Prospective Need Obligation of 317:
+
+   •   Minimum Family Units: 159
+       Affordable units available to families with children must constitute a minimum of 50
+       % of a municipality’s actual units created towards its prospective need (including at
+       least 40 family rental see below).
+   •   Minimum Rental Units: 79
+       Affordable units for rent must constitute a minimum of 25 % of a municipality’s
+       actual units created towards its prospective need, with at least 50 % (40 unit) of
+       affordable rental housing made available to families with children.
+   •   Minimum Very Low Income Units: 42
+       Affordable units reserved for very low-income households must constitute a
+       minimum of 13 % of a municipality’s actual units created towards its prospective
+       need, with at least 7 % (23 units) made available to persons with children.
+   •   Maximum Age Restricted Units: 95
+       Affordable age-restricted housing is limited to a maximum of 30 % of a
+       municipality’s prospective need.
+   •   Maximum Bonus Credit Units: 79
+       Bonus credits of any kind are limited to a maximum of 25 % of a municipality’s
+       prospective need.
+
+Available Bonus Credits
+The 2024 amendments to the Fair Housing Act also provided the types of affordable housing
+development eligible for bonus credits against a municipality’s Prospective Need
+obligations. The choice among these incentives is up to municipality and the municipality
+may opt for only one bonus type per affordable housing unit.
+
+The following activities are eligible to receive 1 bonus credit per affordable unit provided:
+
+   •   Creation of permanent supportive housing for individuals with special needs.
+   •   Creation of 100% affordable housing developments, provided the municipality
+       contributes either land or at least 3 % of the project cost via the municipality’s
+       Affordable Housing Trust Fund.
+
+
+
+                                          18 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 23 of 38 Trans ID: LCV20251813437
+
+
+
+
+   •   Conversion of existing market-rate units to affordable housing by establishing
+       affordability controls.
+
+The following activities are eligible to receive one half bonus credit per affordable unit
+provided:
+
+   •   Creation of affordable ownership units in partnership sponsorship with a non-proﬁt
+       housing developer.
+   •   Creation of affordable housing within a half-mile radius of an NJ Transit, Port
+       Authority, or PATH rail, bus, or ferry station (one mile radius if also in a Garden State
+       Growth Zone)
+   •   Creation of age-restricted housing, subject to a cap of not more than 10 % of the age-
+       restricted units constructed.
+   •   Creation of each three-bedroom unit in excess of the three-bedroom requirements in
+       the Uniform Housing Affordability Controls.
+   •   Conversion of property previously developed/utilized for retail, office, or commercial
+       space to affordable housing.
+   •   Extension of an existing rental unit’s affordability controls for a new term.
+   •   Creation of more housing affordable to very low-income households in excess of the
+       minimum 13% required.
+
+
+
+
+                                         19 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 24 of 38 Trans ID: LCV20251813437
+
+
+
+
+Prior Obligation
+The 2017 settlement agreement and HEFSP set forth the Township’s cumulative
+rehabilitation share of 139 units, cumulative prospective need of 679 units and provided
+mechanisms to address these obligations. Of this prospective need, prior round obligation
+comprised 45 units and Third Round Prospective Need comprised the remaining 634 units.
+
+The table on the following page summarizes projects undertaken within the Township to
+satisfy the prior cumulative perspective need. As demonstrated in the table, the Township
+has addressed prior round obligations. Additional information regarding the status of
+projects in progress is provided below:
+
+Continental Crossing – Block 105 Lot 1; Block 106 Lots 2 & 3: This project is located within
+the inclusionary FTZ-4 zone district. The 494-unit residential project obtained Preliminary
+Major Subdivision and Preliminary Site Plan approval for Phases 1-3 as well as Final Major
+Subdivision and Final Site Plan approval for Phase 1 in 2023 (Planning Board application PB-
+22-12). Phase 1 includes 60 affordable units, Phase 2 includes 16 affordable units and Phase
+3 includes 24 affordable units. A Phase I Developer’s Agreement has been executed. Phase
+I construction has commenced and model unit occupancy is anticipated in the third quarter
+of this year.
+
+Stonewald Court Drive – Block 3203 Lot 21 & 28: This project is located within the 100%
+affordable R-8 zone district. The 7-unit residential project obtained Preliminary and Final
+Major Subdivision approval in 2024 (Planning Board application PB-24-03). A Developer’s
+Agreement has been executed and the Township anticipates conveyancing the 7 affordable
+unit building lots to Morris Habitat for Humanity in the third quarter of this year.
+
+Village Green Residential Expansion – Block 102 Lot 4: This project is located within the
+R-5 zone district. The 186 residential unit project obtained Preliminary and Final Site Plan
+approval in 2025 (Planning Board application PB-24-07). The project includes creating 37
+affordable units, which will meet the shortfall number of units proposed in the above listed
+two sites.
+
+For present need, the Township has participated in rehabilitation programs to help ﬁnance
+home repairs, including the Morris County Department of Community Development
+program as well as Habitat for Humanity’s Home Repair and Community Revitalization
+Program, which was approved in 2024.
+
+
+
+
+                                        20 | P a g e
+    MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 25 of 38 Trans ID: LCV20251813437
+
+
+
+
+            Mount Olive Township: Prior Round Obligation and Compliance Summary
+ Prior Round Obligation                                                45    Status
+ Glenside Drive (Rental)                                               4    Complete
+ Rose House Building 1 (Rental)                                        4    Complete
+ Rose House Building 2 (Rental)                                        4    Complete
+ Woodﬁeld (Family Rental)                                              11   Complete
+ Abiding Peace (A/R Rental)                                            11   Complete
+                                                 Sub-Total Credits     34
+                                               Rental Bonus Credits    11
+                                                      Total Credits    45
+ Third Road Prospective Need                                          634
+                                                Family Rental
+ Woodﬁeld                                                              61   Complete
+ Mountain Ridge (Mount Olive Mews)                                     54   Complete
+ Regency (Marveland Crescent)                                          57   Complete
+ Village Green Residential Expansion**                                 37   Approved
+                                                 Sub-Total Credits    209
+                                                Age Restricted
+ Abiding Peace (Rental)                                                49   Complete
+ Mount Olive Manor (Rental)                                            50   Complete
+ Paragon Village (Ind Living Rentals)                                  14   Complete
+                                              Sub-Total Credits       113
+                                     Supportive and Special Needs
+ Locust Street                                                        4     Complete
+ River Road                                                           11    Complete
+ Pleasant Hill Road                                                   5     Complete
+ Gold Mine Road                                                       3     Complete
+ Mt. Olive Road                                                       2     Complete
+ Rigenbach Lane                                                       2     Complete
+ Paragon Village (Assisted Living)                                    15    Complete
+                                           Sub-Total Credits          42
+                                     Family Owner-Occupied
+ Continental Crossing (FTZ-4 General Development Plan)**              100   Phase I U/C
+ Stonewald Court Drive (Cobblestone)**                                 7     Approved
+ Morris Habitat for Humanity (Wallman Way)                             2     Complete
+ Morris Habitat for Humanity (Lozier Road)                             1     Complete
+ Morris Habitat for Humanity (Hatakawanna Terrace)                     1     Complete
+ Dorlan (Mine Hill Road)                                               1     Complete
+                                           Sub-Total Credits          112
+                                                        Units         476
+                                        Rental Bonus Credits          158
+                                                Total Credits         634
+**Project currently approved and in progress
+
+
+
+
+                                                 21 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 26 of 38 Trans ID: LCV20251813437
+
+
+
+
+Additional Affordable Housing Actions
+The Township has implemented additional mechanisms to capture affordable housing
+opportunities. These include establishing an Affordable Housing Trust Fund and associated
+development fees, as well as Affordable Accessory Apartment Zoning for the RR-AA and RR-
+A zone districts.
+
+
+
+
+                                      22 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 27 of 38 Trans ID: LCV20251813437
+
+
+
+
+Item F: Consideration of Appropriate Sites
+“A consideration of the lands that are most appropriate for construction of low- and
+moderate-income housing and of the existing structures most appropriate for conversion to,
+or rehabilitation for low- and moderate-income housing, including a consideration of lands
+of developers who have expressed a commitment to provide low- and moderate-income
+housing.”
+
+Pursuant to N.J.A.C. 5:93-1.3, sites that are designated to produce affordable housing shall
+be available, approvable, developable, and suitable according to the following criteria:
+
+   •   “Available site” means a site with clear title, free of encumbrances which preclude
+       development for low- and moderate-income housing. N.J.A.C. 5:93-1.3.
+   •   “Approvable site” means a site that may be developed for low- and moderate-income
+       housing in a manner consistent with the rules or regulations of agencies with
+       jurisdiction over the site. A site may be approvable although not currently zoned for
+       low- and moderate-income housing.
+   •   “Developable site” means a site that has access to appropriate water and sewer
+       infrastructure, and is consistent with the applicable area wide water quality
+       management plan (including the wastewater plan) or is included in an amendment to
+       the area wide water quality management plan submitted to and under review by the
+       DEP.
+   •   “Suitable site” means a site that is adjacent to compatible land uses, has access to
+       appropriate streets and is consistent with the environmental policies delineated in
+       N.J.A.C. 5:93-4.
+
+In addition to the above qualiﬁcations, it is also sound planning for sites to be consistent
+with the State Development and Redevelopment Plan (SDRP). Sites that are located in the
+Metropolitan Planning Area 1 or Suburban Planning Area 2 of the SDRP, or are in an existing
+sewer service area, are the preferred locations for municipalities to address their fair share
+obligation. Approximately 79% of Mount Olive Township is located in the Highlands
+Preservation Area, outside of the jurisdiction of the SDRP. Of the remaining land, the
+Township has portions of Planning Area 1 along its border with Roxbury Township, as well as
+an extension of Planning Area 1 from Netcong Borough along International Drive. The
+remaining lands of the Township are in the Environmentally Sensitive Planning Area 5.
+
+While preparing this HEFSP the Township considered lands and existing structures that are
+most appropriate for construction of, conversion to or rehabilitation for affordable housing.
+As part of this analysis, Mount Olive Township representatives had discussions with various
+entities that expressed an interest in providing affordable housing within the Township.
+
+
+                                         23 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 28 of 38 Trans ID: LCV20251813437
+
+
+
+
+Fourth Round Inclusionary and 100% Affordable Sites
+Village Green Commercial Property - Block 102, Lot 4.01: This ±8-acre parcel is developed
+with a shopping center. The Township adopted Ordinance # 12-2025 to create a "C-1
+Affordable Housing Overlay District" for the property. This overlay district creates an
+opportunity to redevelop the property for the construction of up to 80 units of age restricted
+housing, including 16 affordable units (20 % affordable set aside). The units to be
+constructed on this site shall be required to comply with the provisions of the FHA-2, the
+Uniform Housing Affordability Controls at N.J.A.C. 5:80-26.1 et seq. and the Township’s
+affordable housing ordinances.
+
+Budd Lake Motel & Kennedy’s - Block 102, Lots 9 & 10: This ±2.2-acre parcel is developed
+with a motel and bar/grill. The Township intends to create an Affordable Housing Overlay
+District for the property. This overlay district will create an opportunity to redevelop the
+property and construct 20 units of age restricted housing, including 4 affordable units (20%
+affordable set aside).
+
+100 % Affordable
+Mt. Olive Parkade - Block 8100, Lot 38): This ±30-acre parcel is developed with a shopping
+center. The Township adopted a Resolution # 453-25 authorizing submission of a petition to
+the Highlands Council for Designation of a Highlands Redevelopment area. Highlands
+Council staff reviewed the application and issued a favorable recommendation report. The
+application is being noticed for public comment. The Highlands Council will schedule a
+public hearing after the public comment period.
+
+The Township intends to create an Affordable Housing Overlay District for the property. This
+overlay district will create an opportunity to develop the property and construct a 100 %
+affordable housing project with 25 affordable units.
+
+3100 Continental Drive - Block 301, Lot 4): This ±57 acre Township owned parcel is
+undeveloped. The parcel is located within: State Planning Area 2 (Suburban), sewer service
+area and within ½ mile of train service. The Township discussed utilizing this parcel for a
+Fourth Round development with Fair Share Housing Center during the Affordable Housing
+Dispute Resolution Program settlement conference, and recognition of same was included
+in the stipulated settlement agreement entered into between the Township and Fair Share
+Housing Center
+
+The Township intends to create an Affordable Housing Overlay District for the property. This
+overlay district will create an opportunity to develop the property and construct a 100 %
+affordable housing project with 109 affordable units.
+
+
+
+                                         24 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 29 of 38 Trans ID: LCV20251813437
+
+
+
+
+The following ﬁgures illustrate the above noted parcels.
+
+
+
+
+                                        25 | P a g e
+MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 30 of 38 Trans ID: LCV20251813437
+MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 31 of 38 Trans ID: LCV20251813437
+MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 32 of 38 Trans ID: LCV20251813437
+MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 33 of 38 Trans ID: LCV20251813437
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 34 of 38 Trans ID: LCV20251813437
+
+
+
+
+Additional Compliance Mechanisms
+Rehabilitation Program: The Township will continue its partnership with Habitat for
+Humanity, for the rehabilitation of low and moderate-income housing units.
+
+Extension of Affordability Controls Program: The Township intends to create an Extension
+of Affordability Controls program that will permit the Township to provide a subsidy to owners
+of properties whose affordability controls will be expiring during the Fourth Round period
+between July 1, 2025 and June 30, 2035 in exchange for extending the affordability controls
+in accordance with the provisions of the ﬁnal adopted version of the Uniform Housing
+Affordability Controls, N.J.A.C. 5:80-26.1 et seq., (UHAC) which is expected to be adopted in
+ﬁnal form by the end of the 2025 calendar year.
+
+This program will be used to extend the affordable controls on at least 72 rental units
+constructed as part of the Woodﬁeld (Camelot) At Mount Olive prior round inclusionary
+project. The 30-year affordable controls for these units are currently due to expire in 2032.
+The Township will establish an extension of affordability controls program to extend the
+control period for these affordable units in accordance with the ﬁnal version of the UHAC to
+be adopted by the end of the 2025 calendar year.
+
+Accessory Apartment Program: The Township intends to create an affordable accessory
+apartment program that will permit the Township to provide grants to owners of properties
+who create affordable accessory apartments.
+
+This program will be used to create an opportunity to develop 12 affordable accessary
+apartments in the RR-AA and RR-A zone districts.
+
+The Township will also continue its partnership with Habitat for Humanity, for the
+construction of low and moderate-income housing units in other locations as deemed
+appropriate.
+
+The Township expects to satisfy its prospective need through a combination of these
+mechanisms over a ten-year period.
+
+Should any combination of affordable housing activity over the course of the Round produce
+additional credits in excess of the Township’s Fourth Round obligations, such credits will be
+reserved towards the need of subsequent Rounds.
+
+The following table summarizes Fourth Round mechanisms, credits and potential bonus
+credits:
+
+
+
+
+                                         26 | P a g e
+      MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 35 of 38 Trans ID: LCV20251813437
+
+
+
+
+                       Mount Olive Township: Fourth Round Credit Summary
+
+                                                                   Potential   Affordable   Potential
+                     Existing       Proposed
+      Site                                         Mechanism        Build-        Units      Bonus
+                       Use             Use
+                                                                     Out           (%)       Credits
+Village Green
+Commercial          Commercial
+                                       Age         Inclusionary                    16           8
+Property             Shopping                                         80
+                                    Restricted     Overlay Zone                  (20%)      (0.5/unit)
+Block 102             Center
+Lot 4.01
+Mt. Olive Parkade   Commercial
+                                      Family          100%                        25
+Block 8100           Shopping                                         25
+                                      Rental       Overlay Zone                 (100%)
+Lot 38                Center
+3100 Continental
+Drive                                 Family          100%                        109          109
+                    Vacant Land                                      109
+Block 301                             Rental       Overlay Zone                 (100%)      (1.0/unit)
+Lot 4
+Budd Lake Motel
+                    Commercial
+& Kennedy’s                            Age         Inclusionary                    4            2
+                    Motel, Bar &                                      20
+Block 102                           Restricted     Overlay zone                  (20%)      (0.5/unit)
+                       Grill
+Lots 9 &10
+                                                        Subtotal     234          154         119
+                                                                                                36
+                            Extension of Affordability Controls Program           72
+                                                                                            (0.5/unit)
+                                          Accessory Apartments Program            12
+
+                                                   Affordable Unit Subtotal       238
+
+                                                                       Bonus Credit Cap        79
+                                   TOTAL (Affordable Unit Subtotal + Bonus Credit Cap)        317
+
+
+
+
+                                                 27 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 36 of 38 Trans ID: LCV20251813437
+
+
+
+
+The table below summarizes compliance with mandatory obligation subset requirements.
+
+      Mount Olive Township: Fourth Round Subset Compliance Summary
+
+                                            Required              Proposed
+       Mandatory Obligation
+                                          Actual Units*             Units
+
+ Minimum Family Units                          159                    159
+
+    Minimum Family Units (rental)               40                    40
+
+ Minimum Rental Units                           79                    79
+
+      Minimum Rental Units (family)             40                    40
+ Minimum Very Low Income Units                  42                    42
+    Minimum Very Low Income Units
+                                                23                    23
+                    (with children)
+ Maximum Age Restricted Units                   95                    20
+ Max Bonus Credit Units                         79                    79
+ * Except where noted, actual units do not include bonus credits. The targets and
+ obligations are to be tracked and enforced throughout the Fourth Round as part of
+ site plan review and approval.
+
+
+
+
+                                           28 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 37 of 38 Trans ID: LCV20251813437
+
+
+
+
+Items G, H, and I: State and Regional Consistency Requirements
+Multigenerational Housing Continuity Commission Consistency
+“An analysis of the extent to which municipal ordinances and other local factors advance or
+detract from the goal of preserving multigenerational family continuity, as expressed in the
+recommendations of the Multigenerational Family Housing Continuity Commission as
+adopted pursuit to N.J.A.C. 52:27D-329.20.”
+
+The New Jersey State Legislature established the Multigenerational Housing Continuity
+Commission in 2021 with the passage of P.L. 2021, c.273. The Commission, created in
+response to a record number of senior deaths in nursing homes during the COVID-19
+pandemic, is tasked with informing the Governor of local incentives and barriers to seniors
+living with members of their extended family as an alternative to nursing homes. As part of
+the law, municipalities are required to review their ordinances and other factors for their
+potential to advance or detract from multigenerational living arrangements as a required
+component of the Housing Element. To date, it is unclear what laws, if any the Commission
+has adopted.
+
+While Mount Olive Township’s code doesn’t contain any explicit provisions to promote
+multigenerational family living arrangements, nothing about the Township’s deﬁnition of a
+family or single-family dwelling is constructed to impede such arrangements as permitted
+residential uses. The Township has an accessory apartment program, but while such units
+are sometimes used in other states to provide multigenerational housing, it is against the
+provisions of the program to restrict accessory units to extended family members for
+affordable housing purposes.
+
+Highlands Regional Master Plan Consistency
+“For a municipality located within the jurisdiction of the Highlands Water Protection and
+Planning Council, established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an
+analysis of compliance of the housing element with the Highlands Regional Master Plan of
+lands in the Highlands Preservation Area, and lands in the Highlands Planning Area for
+Highlands-conforming municipalities”
+
+This Plan is consistent with the Highlands Regional Master Plan (RMP). Mount Olive Township
+is primarily relying on 100% affordable projects and other techniques that place less stress
+on infrastructure and are encouraged to reduce impact on the ecosystem and water
+resources. Redevelopment projects with a residential component include a 20% affordable
+set aside.
+
+
+
+
+                                        29 | P a g e
+   MRS-L-000180-25 06/20/2025 11:52:00 AM Pg 38 of 38 Trans ID: LCV20251813437
+
+
+
+
+Most site have identiﬁed regional multimodal opportunities throughout the Highlands
+transportation network and existing interfaces with roadway-transit networks. Areas with
+existing development that are also served by multimodal transportation opportunities
+support RMP policies as lands potentially appropriate for development and redevelopment
+in support of smart growth principles.
+
+Mount Olive Township submitted its Petition for Plan Conformance for all lands lying in the
+Preservation Area on December 8, 2009. Since then, The Township has prepared several
+planning documents pursuant towards conformance with the Highlands Regional Master
+Plan. These include the Highlands Master Plan Element and Land Use Ordinance, Municipal
+Build-Out Report, and Highlands Exemption Ordinance. The Township intends to continue
+towards conformance with the Highlands Regional Master Plan.
+
+New Jersey State Development and Redevelopment Plan Consistency
+“An analysis of consistency with the State Development and Redevelopment Plan, including
+water, wastewater, stormwater, and multi-modal transportation based on guidance and
+technical assistance from the State Planning Commission.”
+
+Approximately 79 % of the Township is in the Highlands Preservation Area, outside of the
+jurisdiction of the State Development and Redevelopment Plan. The remainder of the
+Township lies within Planning Area 5 (Environmentally Sensitive), except for select parcels
+located near the border with Roxbury Township in Planning Area 1 (Metro) and additional
+parcels extending from the border with Netcong Borough in Planning Area 2 (Suburban). No
+part of the Township is a designated Center, either by the Highlands Council or Office of
+Planning Advocacy.
+
+Mount Olive Station, located in the International Trade Center near I-80, provides access to
+the NJ Transit Morris and Essex and Montclair-Boonton lines.
+
+
+
+
+                                        30 | P a g e
+

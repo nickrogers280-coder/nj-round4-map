@@ -1,0 +1,1781 @@
+      WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 1 of 39 Trans ID: LCV20251738366
+
+
+
+
+Fourth Round
+Housing Element
+& Fair Share Plan
+Township of White
+
+
+
+
+May 30, 2025
+Prepared for:                 Prepared by:
+                                                                    Colliers Engineering & Design
+                                                                             Shelbourne at Warren
+                                                                       53 Frontage Road, Suite 110
+Township of White             _______________________________
+                                                                      Hampton, New Jersey 08827
+Warren County, New Jersey     Daniel N. Bloch, P.P., AICP, EADA
+                              NJ Planner License No. 33LI00610700
+                                                                               Main: 908.238.0900
+                                                                          Colliersengineering.com
+WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 2 of 39 Trans ID: LCV20251738366
+
+
+
+
+                                                               Fourth Round
+       Housing Element & Fair Share Plan
+                                                                 Township of White
+                                                                          Warren County, New Jersey
+
+
+
+
+                                            Adopted by the Planning Board: _____________
+
+
+
+                                   Endorsed by the Township Committee: _____________
+
+
+
+
+                             The original of this report was signed and sealed in accordance with NJSA 45:14A-12.
+                                                                                                       WHL0012
+
+
+                                                                                                         Page i
+       WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 3 of 39 Trans ID: LCV20251738366
+
+
+
+
+Table of Contents
+I.     Introduction ................................................................................................................................................ 1
+            Affordable Housing History ................................................................................................................. 1
+            Municipal Summary ............................................................................................................................... 4
+            Affordable Housing Goals ...................................................................................................................... 5
+            Affordable Housing Obligation .............................................................................................................. 5
+HOUSING ELEMENT .......................................................................................................................................... 6
+II.    Required Content of Housing Element ................................................................................................... 6
+III.   Population Demographics ........................................................................................................................ 8
+            Age Distribution of Population............................................................................................................... 9
+            Household Size & Type ......................................................................................................................... 10
+            Income & Poverty Status ...................................................................................................................... 11
+IV.    Housing Demographics...........................................................................................................................13
+            Housing Type ........................................................................................................................................ 13
+            Occupancy Status ................................................................................................................................. 13
+            Value & Rent of Housing Stock ............................................................................................................. 14
+            Condition of Housing Stock .................................................................................................................. 15
+V.     Employment Demographics ...................................................................................................................18
+            Occupational Characteristics ............................................................................................................... 18
+            Employment Projections ...................................................................................................................... 18
+            In-Place Employment by Industry ........................................................................................................ 19
+            Travel Time to Work.............................................................................................................................. 20
+VI.    Projection of Housing Stock ...................................................................................................................21
+VII. Capacity for Fair Share ............................................................................................................................22
+            Land Capacity ....................................................................................................................................... 22
+            Utility Capacity...................................................................................................................................... 22
+            Appropriate Locations for Affordable Housing ................................................................................... 23
+            Potential Affordable Housing Developers............................................................................................ 23
+            Anticipated Development Patterns ...................................................................................................... 23
+            Highlands Regional Master Plan Compliance ..................................................................................... 25
+            State Development & Redevelopment Plan Consistency..................................................................... 25
+            Multigenerational Family Continuity Evaluation................................................................................. 26
+FAIR SHARE PLAN ...........................................................................................................................................27
+VIII. Required Content of Fair Share Plan.....................................................................................................27
+
+                                                                                                                                                            Page ii
+      WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 4 of 39 Trans ID: LCV20251738366
+
+
+
+
+          Regional Income Limits ........................................................................................................................ 27
+IX.   Affordable Housing Obligation ..............................................................................................................29
+          Four-Part Obligation ............................................................................................................................ 29
+X.    Mechanisms & Credits ............................................................................................................................30
+          Rehabilitation Credits ........................................................................................................................... 30
+          Prior Round Credits .............................................................................................................................. 30
+          Third Round Credits.............................................................................................................................. 31
+          Fourth Round Credits ........................................................................................................................... 31
+          Summary of Mechanisms & Credits .................................................................................................... 34
+XI.   Appendix ...................................................................................................................................................35
+
+
+
+
+                                                                                                                                                         Page iii
+      WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 5 of 39 Trans ID: LCV20251738366
+
+
+
+
+I.        Introduction
+According to the New Jersey Fair Housing Act of 1985 (L. 1985, c. 222, s. 1, eff. July 2, 1985), a Housing
+Plan Element shall be designed to achieve the goal of access to affordable housing to meet present
+and prospective housing needs, with particular attention to low- and moderate-income housing.
+
+This report is the Township of White’s Housing Element and Fair Share Plan (“HEFSP”) for the period
+between 2025 and 2035 (known as the Fourth Round). White Township seeks to voluntarily comply
+with its constitutional obligation to provide a realistic opportunity for affordable housing. This HEFSP
+is prepared utilizing the Prior Round Rules1, Third Round Rules2 (as applicable), and the amendments
+implemented in P.L. 2024, c.2. Each municipality in the State has a four-part obligation:
+
+     1.   Rehabilitation Obligation
+     2.   Prior (First and Second Round) Obligations (1987-1999)
+     3.   Third Round Obligation (1999–2025)
+     4.   Fourth Round Obligation (2025-2035)
+
+Affordable Housing History
+Mount Laurel Doctrine
+Affordable housing planning in New Jersey dates back to 1975, when the New Jersey Supreme Court
+ruled in Southern Burlington County NAACP v. the Township of Mount Laurel 67 N.J. 151 (1975), 336 A.2d
+713, that each municipality within New Jersey has a constitutional obligation to provide a realistic
+opportunity for the construction of their fair share of affordable housing. This landmark decision is
+commonly referred to as “Mount Laurel I” or the “Mount Laurel Doctrine”. The court found that
+Mount Laurel Township’s zoning ordinance only permitted one type of housing—single-family
+detached dwellings, while all other types of multi-family housing, such as garden apartments,
+townhomes, or mobile home parks, were prohibited, which the court determined resulted in
+economic discrimination and exclusion of substantial segments of the area population, and
+therefore the zoning ordinance was unconstitutional and invalid.
+
+In 1983, the New Jersey Supreme Court issued another monumental decision in Southern Burlington
+County NAACP v. Mt. Laurel, 92 N.J. 158 (1983) 456 A.2d 390, which became known as the “Mount
+Laurel II” decision. In this case, the Supreme Court upheld and expanded upon the Mount Laurel I
+decision. Mount Laurel II clarified that the constitutional obligation applies to all municipalities, not
+just the “developing” municipalities as referenced in Mount Laurel I. Each municipality is required to
+establish zoning that provides a realistic opportunity for the construction of affordable housing to
+comply with the municipality’s fair share obligation. Mount Laurel II established the “Builder’s
+Remedy” as a judicial mechanism to enforce the Mount Laurel Doctrine. A Builder’s Remedy lawsuit
+allows a plaintiff (typically a developer) to challenge a municipality’s zoning ordinance if it fails to
+create a realistic opportunity to provide affordable housing units to meet the constitutional fair
+share obligation.
+
+
+
+1
+  NJAC 5:91 (Procedural) and NJAC 5:93 (Substantive) Rules. They can be found at:
+New Jersey Department of Community Affairs | Second Round Regulations
+2
+ NJAC 5:96 (Procedural) and NJAC 5:97 (Substantive) Rules, which can be found at:
+https://nj.gov/dca/dlps/hss/thirdroundregs.shtml
+
+                                                                                                   Page 1
+     WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 6 of 39 Trans ID: LCV20251738366
+
+
+
+
+In 1985, the Fair Housing Act (“FHA”) was enacted in response to the court decisions, which provided
+an administrative process for municipal compliance. The FHA also created the New Jersey Council on
+Affordable Housing (“COAH”), which was the governmental agency responsible for promulgating
+municipal obligations, adopting regulations, and administering the compliance process.
+
+Prior Rounds (1993-1999)
+Under COAH, the First Round of affordable housing spanned from 1987 to 1993, followed by the
+Second Round from 1993 to 1999. The First Round Substantive Rules were enacted under N.J.A.C.
+5:92 and the Second Round Substantive Rules were enacted under N.J.A.C. 5:93.
+
+White Township’s Prior Round Compliance
+White Township petitioned COAH for second round substantive certification on January 23, 1995. On
+June 7, 1995, White Township received second round substantive certification from COAH.
+
+On December 10, 2004, COAH granted a motion requesting extended substantive certification for
+White Township through December 20, 2005, which was subsequently extended by COAH to
+December 31, 2008 for all municipalities.
+
+Third Round (1999-2025)
+The Third Round of affordable housing commenced in 1999, which was supposed to end in 2018;
+however, due to numerous legal challenges and court orders, the Third Round was ultimately
+extended through 2025.
+
+The first version of COAH’s Third Round Substantive Rules was enacted under N.J.A.C. 5:94 in 2004.
+This version of the rules was challenged and in January 2007 the Appellate Court issued a decision
+requiring COAH to revise its rules.
+
+In October 2008, COAH adopted numerous amendments to its substantive and procedural
+regulations to address the Third Round fair housing requirements. The Third Round methodology,
+adopted in September 2008, required that a municipality’s fair share consist of three elements: the
+1) rehabilitation share, 2) any remaining Prior Round obligation that was not provided for, and 3) the
+Growth Share or Third Round, which is based upon one affordable housing unit for every four
+market-rate units built and one affordable unit for every 16 new jobs created. In addition to these
+new rules, COAH assigned new rehabilitation, Prior Round and Third Round obligation numbers to
+each municipality. Additionally, the State legislature passed Assembly Bill A-500 (now P.L. 2008),
+which made significant changes to COAH’s rules.
+
+In 2009, appeals were filed regarding the new Third Round Rules’ growth share methodology. The
+case worked its way through the Appellate Division and finally went before the Supreme Court. The
+Supreme Court issued a decision on September 26, 2013, finding that the key set of rules
+establishing the growth share methodology as the mechanism for calculating “fair shares” was
+inconsistent with the FHA and the Mount Laurel Doctrine. The Supreme Court instructed COAH “to
+adopt new third round rules that use a methodology for determining prospective need similar to the
+methodologies used in the first and second rounds,” within five months, which was later extended
+to November 2014.
+
+In July 2014, COAH proposed new Third Round under N.J.A.C. 5:98 and 5:99. However, the new rules
+were never formally adopted by COAH.
+
+
+                                                                                                Page 2
+        WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 7 of 39 Trans ID: LCV20251738366
+
+
+
+
+After COAH failed to promulgate its revised rules by the November 2014 deadline, the Supreme
+Court made a ruling on March 10, 2015, which allows for judicial review for constitutional
+compliance, as was the case before the FHA was enacted. The ruling allowed low- and moderate-
+income families and their advocates to challenge exclusionary zoning in court, rather than having to
+wait for COAH to issue rules that may never come. The process provides a municipality that had
+sought to use the FHA’s mechanisms the opportunity to demonstrate constitutional compliance to a
+court’s satisfaction before being declared noncompliant and then being subjected to the remedies
+available through exclusionary zoning litigation, including a builder’s remedy.
+
+The transitional process created by the Supreme Court tracked the FHA procedures for compliance.
+In this regard, the process permitted municipalities to file a Declaratory Judgment Action during a
+30-day window between June 8 and July 8, 2015 that sought an adjudication as to their fair share.
+This would enable the municipality to comply voluntarily with its constitutional obligation to provide
+a realistic opportunity for the construction if its fair share of the regions’ low- and moderate-income
+households.
+
+On January 18, 2017, the Supreme Court ruled that municipalities are responsible for obligations
+accruing during the so-called “gap period,” the period between 1999 and 2015. However, the Court
+stated that the gap obligation should be calculated as a never-before calculated component of
+Present Need (also referred to as Rehabilitation Obligation), which would serve to capture Gap
+Period households that were presently in need of affordable housing as of the date of the Present
+Need calculation (i.e. that were still income eligible, were not captured as part of traditional present
+need, were still living in New Jersey and otherwise represented a Present affordable housing need).
+
+Between 2015 and 2024, municipalities that elected to voluntarily comply with their constitutional
+obligation participated in mediation sessions, reached settlement agreements, adopted Housing
+Element and Fair Share Reports, and most municipalities concluded the process with a judgment of
+repose and compliance (“JOR”) from the courts. As a result of COAH’s inability to function, the Third
+Round period spanned from 1999 to 2025, a 26-year long period as opposed to the 6-year periods
+for the first and second rounds. The Third Round is set to expire on June 30, 2025.
+
+White Township’s Third Round Compliance
+On December 12, 2005, White Township petitioned COAH for third round substantive certification
+pursuant to N.J.A.C. 5:94. COAH granted third round substantive certification on January 10, 2007.
+
+Pursuant to the March 10, 2015 Supreme Court Order, White Township filed a motion with the court
+on July 7, 2015 seeking a Declaratory Judgement that the municipality has fulfilled its constitutional
+obligation to provide affordable housing.
+
+On December 8, 2016, White Township entered into a Settlement Agreement with the Fair Share
+Housing Center to memorialize the terms of settlement of the Township’s affordable housing
+obligations. The Settlement Agreement outlined White Township’s affordable housing obligations as
+follows:
+
+    ▪     Rehabilitation Share: 23 units
+    ▪     Prior Round Obligation: 16 units
+    ▪     Third Round Prospective Need: 0 units
+
+
+
+
+                                                                                                   Page 3
+     WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 8 of 39 Trans ID: LCV20251738366
+
+
+
+
+On March 9, 2017, a Fairness Hearing was held and the Honorable Judge Miller found the Settlement
+Agreement to be fair and deemed it to be preliminarily in compliance with the Township’s affordable
+housing fair share obligation. The Township adopted a Housing Element & Fair Share Plan on July 11,
+2017 to address the affordable housing obligations. The Township has not yet had a Final
+Compliance Hearing and, therefore, no Final Order of Judgment of Compliance and Repose (“JOR”)
+has been issued of the Third Round.
+
+Fourth Round (2025-2035)
+On March 20, 2024, Governor Murphy signed legislation that dramatically modified the State’s
+affordable housing regulations. The 75-page bill, known as A4, abolished COAH, modified the
+process of affordable housing compliance, amended bonus credits, and, among other changes, set
+forth several important deadlines. P.L. 2024, c.2 (“Amended FHA”) charged the Department of
+Community Affairs (“DCA”) with the preparation of Fourth Round obligations and set forth aggressive
+timelines for compliance. In October 2024, DCA published a report on its calculations of regional
+need and municipal present need (Rehabilitation Obligation) and prospective fair share obligations
+(Fourth Round Obligation). The report is entitled “Affordable Housing Obligation of 2025-2035
+(Fourth Round) Methodology and Background”.
+
+The DCA calculated White Township’s present need obligation as 100 units and its Fourth Round
+prospective need obligation as 322 units. Municipalities were required to adopt a binding resolution
+outlining their present and prospective fair share obligations by January 31, 2025. On January 30,
+2025, the Township Committee adopted Resolution 2025-14 accepting the DCA’s calculations of the
+Township’s present need of 100 units but seeking a downward adjustment of the 322-unit
+prospective need obligation to a recommended 53 units based on errors with the DCA land capacity
+analysis identified by the Township.
+
+The Township also filed a “Complaint for a Declaratory of Compliance with the Fair Housing Act” as
+part of the compliance certification process outlined in the Director of the Administrative Office of
+the Courts Directive #14-24.
+
+During the 30-day challenge window, White Township received a challenge to the Township’s
+calculations from the Fair Share Housing Center (“FSHC”) and the New Jersey Builder’s Association
+(“NJBA”). The Township and the Challengers entered into mediation through the Affordable Housing
+Dispute Resolution Program (“the Program”) and ultimately agreed that White Township’s
+prospective need obligation shall be 237 units. The Honorable Judge Miller, J.S.C. issued an order on
+April 8, 2025 ordering that White Township’s present need shall be 100 units and the prospective
+need for the Fourth Round housing cycle shall be 237 units (Docket No. WRN-L-64-25).
+
+Municipal Summary
+White Township contains approximately 27.8 square miles (or 17,793 acres), situated in the mid-
+western part of Warren County, New Jersey along the east banks of the Delaware River. White
+Township shares municipal borders with Belvidere Town, Knowlton Township, Hope Township,
+Liberty Township, Oxford Township, Washington Township, and Harmony Township, all of which are
+within Warren County. White Township is traversed by US Route 46 and County Route 519, both of
+which provide access to I-80.
+
+White Township is a predominantly rural and sparsely developed community.
+
+
+
+                                                                                                 Page 4
+     WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 9 of 39 Trans ID: LCV20251738366
+
+
+
+
+White Township is situated entirely within the Highlands Region, with 7,801 acres being located
+within the Highlands Preservation Area and 9,992 acres within the Highlands Planning Area.
+
+According to the 2001 State Development and Redevelopment Plan (SDRP) Policy Map, 8,662 acres
+of White Township are situated in the PA4 Rural Planning Area, 330 acres in the PA4B
+Rural/Environmentally Sensitive Planning Area, and 10 acres are situated in PA5 Environmentally
+Sensitive Planning Area. The SDRP also designates 698 acres of White Township as Parks and
+Natural Areas.
+
+The White Township Future Wastewater Service Area (“FWSA”) Map was adopted by the NJDEP as an
+amendment to the Warren County Pequest Municipal Utilities Authority (“MUA”) Wastewater
+Management Plan on May 7, 2013. The FWSA Map allows for extended sewer service to existing
+developed areas along US Route 46 and County Route 519. The vast majority of properties in White
+Township, including many properties within the sewer service area, are served by on-site septic
+systems. Pursuant to the NJDEP Wastewater Management Planning Rules (N.J.A.C. 7:15), where
+individual subsurface sewage disposal systems will be utilized, the proposed development must not
+exceed the 2.0 mg/L nitrate planning standard. NJDEP estimates indicate that the residential density
+required to comply with the 2.0 mg/L standard in White Township would be between 4.3 and 5.2
+acres per dwelling unit per, depending on the watershed.
+
+Affordable Housing Goals
+It is the overall goal of the HEFSP, in combination with the Land Use Plan, to provide the planning
+context in which access to low and moderate income housing can be provided in accordance with
+the requirements of the Fair Housing Act and the laws of the State of New Jersey, while respecting
+the character and density of White Township.
+
+According to the White Township 2020 Master Plan Reexamination Report, two of the overarching
+goals of the Master Plan are to “Preserve and enhance the rural character of White Township” and to
+“Provide a wide range of housing opportunities for current and prospective residents of the
+Township.” These two goals are critical in the preparation of this Housing Element and Fair Share
+Plan. While White Township is a strong proponent of affordable housing, at the same time the
+Township seeks to maintain its rural atmosphere.
+
+Affordable Housing Obligation
+White Township’s four-part affordable housing obligation is as follows:
+
+   1.   Present Need (Rehabilitation Obligation): 100 units
+   2.   Prior Round Obligation: 16 units
+   3.   Third Round Obligation: 0 units
+   4.   Fourth Round Obligation: 237 units
+
+
+
+
+                                                                                               Page 5
+      WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 10 of 39 Trans ID: LCV20251738366
+
+
+
+
+                      HOUSING ELEMENT
+II.        Required Content of Housing Element
+The Amended Fair Housing Act requires that “the housing element be designed to achieve the goal
+of access to affordable housing to meet present and prospective housing needs, with particular
+attention to low and moderate income housing”. As per the Municipal Land Use Law (“MLUL”),
+specifically N.J.S.A. 52:27D-310, a housing element must contain at least the following items:
+
+      a. An inventory of the municipality's housing stock by age, condition, purchase or rental value,
+         occupancy characteristics and type, including the number of units affordable to low and
+         moderate income households and substandard housing capable of being rehabilitated, and
+         in conducting this inventory the municipality shall have access, on a confidential basis for the
+         sole purpose conducting this inventory, to all necessary property tax assessment records
+         and information in the assessor’s office, including but not limited to the property record
+         cards;
+
+      b. A projection of the municipality's housing stock, including the probable future construction
+         of low and moderate income housing for the next ten years, taking into account, but not
+         necessarily limited to, construction permits issued, approvals of applications for
+         development and probable residential development of lands;
+
+      c.   An analysis of the municipality's demographic characteristics, including but not necessarily
+           limited to, household size, income level and age;
+
+      d. An analysis of the existing and probable future employment characteristics of the
+         municipality;
+
+      e. A determination of the municipality’s present and prospective fair share for low and
+         moderate income housing and its capacity to accommodate its present and prospective
+         housing needs, including its fair share for low and moderate income housing, as stablished
+         pursuant to section 3 of P.L.2024, c.2 (C.52-27D-304.1);
+
+      f.   A consideration of the lands that are most appropriate for construction of low and moderate
+           income housing and of the existing structures most appropriate for conversion to, or
+           rehabilitation for, low and moderate income housing, including a consideration of lands of
+           developers who have expressed a commitment to provide low and moderate income
+           housing;
+
+      g. An analysis of the extent to which municipal ordinances and other local factors advance or
+         detract from the goal f preserving multigenerational family continuity as expressed in the
+         recommendations of the Multigenerational Family Housing Continuity Commission, adopted
+         pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 (C.52D-329.20);
+
+      h. For a municipality located within the jurisdiction of the Highlands Water Protection and
+         Planning Council, established pursuant to section 4 of P.L.2004, C.120 (C.13-20-4), an analysis
+         of compliance of the housing element with the Highlands Regional Master Plan of lands in
+         the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands-
+         conforming municipalities. This analysis shall include consideration of the municipality’s
+
+
+                                                                                                   Page 6
+WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 11 of 39 Trans ID: LCV20251738366
+
+
+
+
+     most recent Highlands Municipal Build Out Report, consideration of opportunities for
+     redevelopment of existing developed lands into inclusionary or 100 percent affordable
+     housing, or both, and opportunities for 100 percent affordable housing in both the
+     Highlands Planning Area and Highlands Preservation Area that are consistent with the
+     Highlands regional master plan; and
+
+i.   An analysis of consistency with the State Development and Redevelopment Plan, including
+     water, wastewater, stormwater, and multi-modal transportation based on guidance and
+     technical assistance from the State Planning Commission.
+
+
+
+
+                                                                                             Page 7
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 12 of 39 Trans ID: LCV20251738366
+
+
+
+
+III. Population Demographics
+White Township’s population has grown steadily from 1940 through 2010, with an average of about
+50 new residents per year over the 70 year period. The periods that saw the greatest growth was
+1980 to 1990 (31 percent) and 1960 to 1970 (27 percent). As of the 2020 Census, the population of
+White Township was 4,606, which is 276 residents less than its peak of 4,882 in 2010. As of the 2023
+American Community Survey (“ACS”), the White Township’s population was 4,646. See the table
+below for additional details.
+
+                                              Population Growth
+
+                     Year             Population                  Change               Percent
+
+                     1940                 1,335                       --                     --
+                     1950                 1,536                     201                 15.1%
+                     1960                 1,832                     296                 19.3%
+                     1970                 2,326                     494                 27.0%
+                     1980                 2,748                     422                 18.1%
+                     1990                 3,603                     855                 31.1%
+                     2000                 4,245                     642                 17.8%
+                     2010                 4,882                     637                 15.0%
+                     2020                 4,606                     -276                 -5.7%
+                  Source: 2010 & 2020 Census Table P1; New Jersey Population Trends, 1790 to 2000,
+                  https://www.nj.gov/labor/labormarketinformation/assets/PDFs/census/2kpub/njsdcp3.pdf
+
+                  6,000
+                                                                                     4,882
+                  5,000                                                                       4,606
+                                                                            4,245
+                  4,000                                             3,603
+
+                                                            2,748
+                  3,000                             2,326
+                                            1,832
+                  2,000             1,536
+                            1,335
+
+                  1,000
+
+                       0
+                            1940 1950 1960 1970 1980 1990 2000 2010 2020
+
+
+The North Jersey Transportation Planning Authority (“NJTPA”) projects that the Township’s
+population will grow to 5,358 residents by 2050 from their baseline 2015 population of 4,820. This
+represents an increase of 538 residents, or an average increase of approximately 15 residents
+annually over 35 years. However, as noted above, the Township’s estimated population according to
+the 2023 ACS is 4,646, which is 214 less than the 2015 baseline population used by NJTPA.
+
+
+
+
+                                                                                                         Page 8
+     WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 13 of 39 Trans ID: LCV20251738366
+
+
+
+
+                                                  Population Projection
+
+                        Year               Population                    Change         Percent
+
+                        2015                   4,820                         ---          ---
+                        2020                   4,606                       -214          -4.4%
+                        2050                   5,358                        752         16.3%
+                     Source: NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts,
+                     https://www.njtpa.org/plan2050; 2020 Census Table P1
+
+
+Age Distribution of Population
+The 2023 ACS estimates just 13.2 percent of White Township’s population was 19 years or younger,
+while 39.8 percent of the population was 65 years or older. The largest age cohort was estimated to
+be those aged 60 to 65 years, which comprised 10.5 percent (488) of the Township’s population.
+Residents aged 55 to 59 years comprised the second-largest age cohort at 10.1 percent (467) of the
+population, followed by those aged 70 to 74 years at 8.3 percent (384) of the population. The
+median age was estimated at 60.2 years in the 2023 ACS. See the table and chart below for further
+details.
+
+            Population by Age Cohort
+
+              Age                  Total       Percent
+                                                                    Under 5 years                103
+ Under 5 years                      103          2.2%                  5 to 9 years              176
+ 5 to 9 years                       176          3.8%               10 to 14 years               156
+ 10 to 14 years                     156          3.4%               15 to 19 years               177
+ 15 to 19 years                     177          3.8%               20 to 24 years               310
+ 20 to 24 years                     310          6.7%               25 to 29 years               124
+ 25 to 29 years                     124          2.7%               30 to 34 years               193
+ 30 to 34 years                     193          4.2%               35 to 39 years               106
+ 35 to 39 years                     106          2.3%               40 to 44 years               105
+ 40 to 44 years                     105          2.3%               45 to 49 years               206
+ 45 to 49 years                     206          4.4%
+                                                                    50 to 54 years               187
+ 50 to 54 years                     187          4.0%
+                                                                    55 to 59 years               467
+ 55 to 59 years                     467          10.1%
+                                                                    60 to 64 years               488
+ 60 to 64 years                     488          10.5%
+                                                                    65 to 69 years               381
+ 65 to 69 years                     381          8.2%
+                                                                    70 to 74 years               384
+ 70 to 74 years                     384          8.3%
+                                                                    75 to 70 years               339
+ 75 to 70 years                     339          7.3%
+                                                                    80 to 84 years               382
+ 80 to 84 years                     382          8.2%
+                                                               85 years and over                 362
+ 85 years and over                  362          7.8%
+
+ Total                             4,646         100%
+ Source: 2023 ACS Table S0101
+
+
+
+
+                                                                                                       Page 9
+     WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 14 of 39 Trans ID: LCV20251738366
+
+
+
+
+Household Size & Type
+According to the 2023 ACS, White Township had 2,209 households of various types. A majority were
+married-couple households, which comprised just over 46.2 percent of all households. Of those,
+155 had children under 18 years old. Male householders with no spouse present comprised 15.6
+percent of all households, while female householders with no spouse present comprised only 37.3
+percent. Of all households with no spouse present, 67 had children under the age of 18 (3 percent),
+while 862 were living alone (39 percent). See the table on the following page for complete details.
+
+                                                      Household Type
+
+                                          Type                    Number            Percent
+
+                        Married-couple                                1,021          46.2%
+                          with children under 18                      155                7.0%
+                        Cohabitating couple                            21                1.0%
+                          with children under 18                       0                 0.0%
+                        Male householder, no spouse                   344            15.6%
+                          with children under 18                       0                 0.0%
+                          living alone                                222            10.0%
+                        Female householder, no spouse                 823            37.3%
+                          with children under 18                       67                3.0%
+                          living alone                                640            29.0%
+
+                        Total                                         2,209              100%
+                        Source: 2023 ACS Table DP02
+
+
+The most common household size in White Township was estimated to be one-person households,
+which comprised 39 percent of households in 2023. Two-person households comprised the second-
+largest number of households at just under 37.3 percent. Finally, three-person households
+comprised 12.4 percent of the 2,209 households in White Township. The table and pie chart below
+graphically illustrate the household size composition in White Township. Additionally, the 2023 ACS
+estimated the average household size at 2.03 persons, which is less than reported in the 2010
+Census (2.23 persons).
+
+                 Household Size
+                                                                                5-person
+         Size             Total          Percent                                  3.1%
+                                                                4-person
+ 1-person                  862            39.0%                   7.4%
+ 2-person                  823            37.3%
+ 3-person                  275            12.4%            3-person
+ 4-person                  163             7.4%             12.5%
+                                                                                          1-person
+ 5-person                   69             3.1%                                            39.3%
+ 6-person                   17             0.8%                               2-person
+ 7+ person                   0             0.0%                                37.5%
+ Total                    2,209           100%
+ Source: 2023 ACS Table B11016
+
+
+                                                                                                     Page 10
+     WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 15 of 39 Trans ID: LCV20251738366
+
+
+
+
+Income & Poverty Status
+The 2023 ACS estimated the median household income for the White Township to be $69,519, which
+is over $30,000 less than Warren County’s and a little over $27,000 less than the State’s. Similarly,
+the median family income for White Township was estimated at $101,240, which is over $17,000
+below the County’s and $18,000 below the State’s. Finally, the Township’s per capita income was
+estimated at $40,249, which is less than the County’s and the State’s. Based on this data, residents
+of White Township represent the lower end of the high incomes of Warren County and the median
+State incomes. This is reflected in the poverty rates of individuals and families estimated in the 2023
+ACS. White Township’s poverty rate for individuals was estimated at 9.5 percent, which is less State’s
+by only 0.2 percent and more than the County’s by more than 5.7 percent. The Township’s poverty
+rate for families was estimated at 3.9 percent, which is 1.6 percent more than the County’s and less
+than the State’s by 3.0 percent. The table and bar chart below provide a comparison between
+income and poverty characteristics.
+
+                               Income and Poverty Characteristics
+
+                 Income Type                    White Township      Warren County       New Jersey
+
+ Median Household Income                           $69,519               $99,596          $97,126
+
+ Median Family Income                              $101,240           $118,994            $119,240
+
+ Per Capita Income                                 $40,249               $48,232          $50,995
+
+ Poverty Status (Percent of People)                  9.5%                 3.8%              9.7%
+
+ Poverty Status (Percent of Families)                3.9%                 2.3%              6.9%
+
+ Source: 2023 ACS Table DP03
+
+
+
+
+                                         Income Characteristics
+       $140,000
+
+       $120,000
+
+       $100,000
+
+        $80,000
+
+        $60,000
+
+        $40,000
+
+        $20,000
+
+               $0
+                      Median Household Income     Median Family Income           Per Capita Income
+
+                                White Township      Warren County     New Jersey
+
+
+
+
+                                                                                                     Page 11
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 16 of 39 Trans ID: LCV20251738366
+
+
+
+
+According to the 2023 ACS, only 5.4 percent (120) of households in White Township earn over
+$200,000 annually. Household earning $100,000 or more annually were estimated to include 813
+households or 36.8 percent of all households in White Township. Over 49 percent of household in
+Warren County earned at least $100,000 annually, including 13.7 percent earning more than
+$200,000. Households in New Jersey earning $100,000 or more according to the 2023 ACS included
+48.8 percent of households. Almost 40 percent of households in White Township earned less than
+$50,000 per year. See the table below for additional details.
+
+                                           Household Income
+                                   White Township      Warren County         New Jersey
+             Income Range
+                                   Total    Percent   Total    Percent     Total     Percent
+     Less than $10,000              12        0.5%    1,650     3.7%     139,920      4.1%
+     $10,000 to $14,999            100        4.5%     954      2.1%     102,608      3.0%
+     $15,000 to $24,999            160        7.2%    2,402     5.3%     185,476      5.4%
+     $25,000 to $34,999            410       18.6%    2,270     5.1%     196,998      5.7%
+     $35,000 to $49,999            185        8.4%    3,230     7.2%     281,264      8.2%
+     $50,000 to $74,999            282       12.8%    6,714    14.9%     455,543     13.2%
+     $75,000 to $99,999            247       11.2%    5,349    11.9%     397,730     11.6%
+     $100,000 to $149,999          523       23.7%    10,482   23.3%     620,335     18.0%
+     $150,000 to $199,999          170        7.7%    5,733    12.8%     396,837     11.5%
+     $200,000 or more              120        5.4%    6,159    13.7%     661,451     19.2%
+
+     Total                         2,209     100%     44,943    100%     3,438,162    100%
+     Source: 2023 ACS Table DP03
+
+
+
+
+                                                                                          Page 12
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 17 of 39 Trans ID: LCV20251738366
+
+
+
+
+IV. Housing Demographics
+Housing Type
+The 2023 ACS estimated the Township’s housing stock at 2,255 units, which contains a variety of
+residential dwellings. Single-family, detached dwellings comprised a majority of the housing stock
+with 1,538 units or 68.2 percent of all dwellings. One-unit, attached dwellings (i.e. townhomes) only
+comprised 22 units (1.0 percent), while two-family dwellings comprised 58 units (2.6 percent) of the
+housing stock. The Township contains 499 multi-family units (22.1 percent), which are buildings
+containing five or more dwelling units. It should be noted that the 2023 ACS estimated 138
+dwellings to be mobile homes. See the table below for details.
+
+                                  Housing Units in Structure
+
+                          Structure             Number of Units    Percent
+
+              1-unit, detached                       1,538          68.2%
+              1-unit, attached                         22           1.0%
+              2 units                                  58           2.6%
+              3 or 4 units                             0            0.0%
+              5 to 9 units                             13           0.6%
+              10 to 19 units                          200           8.9%
+              20 or more units                        286           12.7%
+              Mobile Home                             138           6.1%
+              Other (boat, RV, van, etc.)              0            0.0%
+
+              Total                                  2,255          100%
+              Source: 2023 ACS Table DP04
+
+
+
+
+Occupancy Status
+Of the 2,255 residential units, 2,209 units, or 98 percent of the housing stock, was occupied. This
+includes 1,631 owner-occupied units and 578 rental units. The 46 vacant units only included
+properties classified as “other”. See the table on the following page for details.
+
+The 2023 ACS estimated the average household size in White Township was 2.03 persons, while the
+average family size was 2.66 persons. Comparing tenure, the average owner-occupied household
+was 2.20, while the average renter-occupied household was 1.56 persons.
+
+
+
+
+                                                                                               Page 13
+     WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 18 of 39 Trans ID: LCV20251738366
+
+
+
+
+                                                      Occupancy Status
+
+                                               Status               Units    Percent
+
+                          Occupied Total                            2,209    98.0%
+                               Owner Occupied                       1,631    73.8%
+                               Renter Occupied                       578     26.2%
+                          Vacant Total                               46       2.0%
+                               For rent                                  0    0.0%
+                               Rented, not occupied                      0    0.0%
+                               For Sale                                  0    0.0%
+                               Sold, not occupied                        0    0.0%
+                               Seasonal                                  0    0.0%
+                               For migrant workers                       0    0.0%
+                               Other                                 46      100.0%
+
+                          Total                                     2,255    100%
+                          Source: 2023 ACS Tables DP04 & B25004
+
+
+
+
+Value & Rent of Housing Stock
+The 2023 ACS provided estimates for owner-occupied housing units in White Township. According
+to the data, a plurality of homes in the Township were valued between $300,000 and $499,999 (50.5
+percent). Homes worth between $200,000 and $299,999 comprised 18.4 percent of the owner-
+occupied housing units, while only 7.6 percent of homes were estimated to be worth between
+$100,000 and $199,999. An estimated 13.9 percent of homes (226 units) were valued between
+$500,000 and $999,999, while only 16 homes were estimated to be worth more than $1 million. The
+median home value estimated in the 2023 ACS was $339,700. See the table below and chart on the
+following page for details.
+
+          Value of Owner Occupied Units
+                                                                                       Less than $99,999 -
+          Value                Number of Units          Percent
+                                                                                       8.6%
+ Less than $99,999                     141               8.6%                          $100,000 to
+ $100,000 to $199,999                  124               7.6%                          $199,999 - 7.6%
+ $200,000 to $299,999                  300              18.4%                          $200,000 to
+ $300,000 to $499,999                  824              50.5%                          $299,999 - 18.4%
+ $500,000 to $999,999                  226              13.9%                          $300,000 to
+ $1,000,000 or more                       16             1.0%                          $499,999 - 50.5%
+ Total                                 1,631             100%                          $500,000 to
+                                                                                       $999,999 - 13.9%
+ Median Value                              $339,700
+ Source: 2023 ACS Table DP04
+
+
+
+
+                                                                                               Page 14
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 19 of 39 Trans ID: LCV20251738366
+
+
+
+
+The median rent in the Township was estimated at $761 per the 2023 ACS. Looking at the rent
+ranges, over three quarters of the Township’s rental units fell below $1,000 per month (75.3
+percent). Units that cost between $1,000 and $1,499 comprised only 18 percent of rentals (104
+units), while 4.2 percent (24 units) cost between $2,000 and $2,499 per month. See the table below
+and chart on the following page for more information.
+
+                                                  Cost of Rentals
+
+                                Cost                    Number of Units       Percent
+
+                    Less than $1,000                          435              75.3%
+                    $1,000 to $1,499                          104              18.0%
+                    $1,500 to $1,999                           0               0.0%
+                    $2,000 to $2,499                          24               4.2%
+                    $2,500 to $2,999                           0               0.0%
+                    $3,000 or more                             0               0.0%
+                    No rent paid                              15               2.6%
+
+                    Total                                     578              100%
+
+                    Median (in dollars)                             $761
+                    Source: 2023 ACS Table DP04
+
+
+
+
+                                                  Cost of Rentals
+
+                             4.2%
+                 0.0%                                                $1,000 to $1,499
+
+                                                                     $1,500 to $1,999
+
+                                            18.0%                    $2,000 to $2,499
+
+
+
+
+Condition of Housing Stock
+The Census does not classify housing units as standard or substandard, but it can provide an
+estimate of the substandard housing units that are occupied by low and moderate income
+households. The Appellate Division upheld COAH’s use of three indicators to determine
+substandard housing in the State. Those three indicators are:
+
+    ▪   Houses built before 1970 and which are overcrowded with more than one person per room;
+    ▪   Homes lacking complete plumbing;
+    ▪   Homes lacking kitchen facilities.
+
+
+
+                                                                                               Page 15
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 20 of 39 Trans ID: LCV20251738366
+
+
+
+
+Most of the Census indicators available at the municipal level indicate a sound housing stock.
+Approximately 118 occupied homes were estimated to not contain complete kitchen facilities, while
+21 homes within the Township lack adequate heat.
+
+                                         Condition of Housing Stock
+
+                                  Condition                    Number of Units   Percent
+
+                 Lack of complete plumbing                           0            0.00%
+                 Lack of complete kitchen                           118           5.34%
+                 Lack of telephone service                           0            0.0%
+                 Lack of adequate heat                               21           1.0%
+
+                 Total Occupied Housing Units                       2,209        6.29%
+                 Source: 2023 ACS Table DP04
+
+
+
+
+Housing with 1.01 or more persons per room is an index of overcrowding as defined by the U.S.
+Department of Housing and Urban Development. According to the 2023 ACS, all of the Township’s
+1,475 occupied housing units contained 1.00 or less persons per room.
+
+                                       Occupants Per Room
+
+                       Occupants                 Number of Units     Percent
+
+                   1.00 or less                       2,209          100.0%
+                   1.01 to 1.50                        0                 0.0%
+                   1.51 or more                        0                 0.0%
+
+                   Total                              2,209           100%
+                   Source: 2023 ACS Table DP04
+
+
+
+
+Research has demonstrated that units built 50 or more years ago (i.e. 1975 or earlier) are much
+more likely to be in substandard condition. Included in the rehabilitation calculation are
+overcrowded units and dilapidated housing as discussed above.
+
+The table below and bar graph on the following page provide the 2023 ACS estimates for the age of
+housing units in White Township. An estimated 640 units, or 28.4 percent, of the Township’s
+housing stock were constructed prior to 1970 with over 13 percent being constructed prior to 1940.
+Residential development in White Township boomed during the 1980s and 1990s as an estimated
+40.1 percent of the Township’s housing stock was constructed during this era. Since 2000,
+approximately 635 homes have been constructed. See the table and chart below and on the
+following page for more details.
+
+It should be noted that the “2020 or later” line item may be inaccurate. The New Jersey Department
+of Community Affairs’ (“DCA”), Division of Codes and Standards website provides data on building
+permits, certificates of occupancy, and demolition permits for both residential and non-residential
+development. We have reviewed the data from the State for 2020 through 2024 and 15 certificates
+
+
+
+                                                                                             Page 16
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 21 of 39 Trans ID: LCV20251738366
+
+
+
+
+of occupancy have been issued for new residential units since the beginning of 2020. See the tables
+on page 25for additional details.
+
+                                                         Age of Housing Stock
+
+                                      Year Built               Number of Units        Percent
+
+                                 1939 or earlier                      303             13.4%
+                                 1940 to 1949                         110              4.9%
+                                 1950 to 1959                         126              5.6%
+                                 1960 to 1969                         101              4.5%
+                                 1970 to 1979                         75               3.3%
+                                 1980 to 1989                         345             15.3%
+                                 1990 to 1999                         560             24.8%
+                                 2000 to 2009                         589             26.1%
+                                 2010 to 2019                         46               2.0%
+                                 2020 or later                         0               0.0%
+
+                                 Total                               2,255             100%
+                                 Source: 2023 ACS Table DP04
+
+
+
+
+                                                         Age of Housing Stock
+
+                           2020 or later        0
+                           2010 to 2019         46
+                           2000 to 2009                                                     589
+                           1990 to 1999                                                 560
+
+
+             Year Built
+                           1980 to 1989                                345
+                           1970 to 1979             75
+                           1960 to 1969              101
+                           1950 to 1959                  126
+                           1940 to 1949              110
+                          1939 or earlier                            303
+
+                                            0            100   200    300       400   500       600   700
+                                                                            Units
+
+
+
+
+                                                                                                            Page 17
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 22 of 39 Trans ID: LCV20251738366
+
+
+
+
+V. Employment Demographics
+The 2023 ACS estimated that White Township had 1,941 residents over the age of 16 in the
+workforce. Of those, 1,905 (98.1 percent) were employed, which translates to a 1.9 percent
+unemployment rate. A majority of workers were private wage and salary worker (84 percent).
+However, 9.9 percent were workers employed by the government and 4.2 percent were self-
+employed. See the table below for details.
+
+                                                 Class of Workers
+
+                                         Class                      Workers       Percent
+
+               Private wage and salary workers                       1,631            84.0%
+               Government workers                                     192              9.9%
+               Self-employed workers                                  82               4.2%
+               Unpaid family workers                                  0                0.0%
+
+               Total employed residents                              1,905            98.1%
+
+               Total unemployed residents                             36               1.9%
+
+               Total residents in workforce                          1,941            100%
+               Source: 2023 ACS Table DP03
+
+
+
+
+Occupational Characteristics
+The 2023 ACS estimated 602 workers were employed in sales and office fields, which represents
+31.6 percent of the Township’s employed residents. Workers in management, business, science,
+and arts fields totaled 29.1 percent of employed residents, while 17.1 percent were employed in
+production, transportation, and material moving jobs. See the table below for details.
+
+                                     Occupation of Employed Population
+
+                                       Occupation                             Workers         Percent
+
+       Management, business, science, & arts                                    554           29.1%
+       Service                                                                  219           11.5%
+       Sales & office                                                           602           31.6%
+       Natural resources, construction, & maintenance                           204           10.7%
+       Production, transportation, & material moving                            326           17.1%
+
+       Total                                                                   1,905           100%
+       Source: 2023 ACS Table DP03
+
+
+
+
+Employment Projections
+NJTPA’s Plan 2050 estimates that the number of available jobs in White Township will increase from
+833 reported in 2015 to 1,692 in 2050. This represents an increase of 859 jobs, or an average annual
+increase of 24 jobs annually. However, as detailed in the following section, the New Jersey
+
+                                                                                                        Page 18
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 23 of 39 Trans ID: LCV20251738366
+
+
+
+
+Department of Labor and Workforce Development estimated a total of 126 jobs in White Township
+in 2023, which is 1,566 less than projected by NJTPA. Utilizing this number, roughly 58 new jobs
+would need to be created within the Township each year for the next 27 years.
+
+                                                  Employment Projection
+
+                        Year               Jobs                    Change                      Percent
+
+                        2015                833                      ---                           ---
+                        2050               1,692                    859                         103.1%
+                   Source: NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts,
+                   https://www.njtpa.org/plan2050
+
+
+
+
+In-Place Employment by Industry
+New Jersey’s Department of Labor and Workforce Development (“NJDLWD”) is the entity that reports
+on employment and wages within the State of New Jersey through the Quarterly Census of
+Employment and Wages (“QCEW”). The latest Municipal Report was completed in 2023. According
+to the data, there were no private sector jobs within the Township. It should be noted that the
+Municipal Report redacted data from multiple private-sector industries for not meeting publication
+standards (construction, manufacturing, retail trade, etc.) The “Private Sector Total” row in the table
+on the following page provides the totals for the reported data only. However, the 2023 QCEW
+reported that White Township had an average of 126 private-sector jobs provided by 4 employers,
+including the redacted data. Additionally, the QCEW data reflects employment within White
+Township, regardless of where the employee lives.
+
+Based on the 2023 QCEW data provided, there were no private sector jobs reported in the
+Township. In the public sector, the 2023 QCEW Municipal Report indicated that there were two state
+government employers, which had an average of 13 employees and three local government
+employers, which had an average of 68 jobs. This included one local government education
+employer providing an average of 53 jobs. See the table on the below for data on each sector.
+
+                                 Private and Public Sector Employment (2023)
+                                                             Establishments              Employees                Annual
+                          Industry
+                                                            Total      Percent       Total      Percent           Wages
+       Agriculture                                             -             -          -            -                -
+       Retail Trade                                            -             -          -            -                -
+       Transportation/Warehousing                              -             -          -            -                -
+
+       Private Sector Total                                    4           100%       126         100%           $45,829
+
+       State Government                                        2           40.0%       13        16.0%            75,964
+       Local Government                                        3           60.0%       68        84.0%           $66,843
+         Local Government Education                            1           20.0%       53        65.4%           $65,965
+
+       Public Sector Total                                     5           100%        81         100%           $69,591
+       Source: The table values above are sourced from the NJDLWD's QCEW 2023 Municipal Report. It is noted that this Report
+       has redacted multiple private sector industries for not meeting the publication standard. Therefore, the Private Sector
+       Totals row has been calculated by this office using the published numbers.
+
+
+
+                                                                                                                                 Page 19
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 24 of 39 Trans ID: LCV20251738366
+
+
+
+
+Travel Time to Work
+The 2023 ACS collected data regarding employed resident’s commute time. The most common
+commute time was between 30 and 34 minutes, which was made by 502 workers (29 percent). A
+commute between 20 and 24 minutes followed with 214 workers (12.4 percent). Rounding off the
+top three was a commute of 10 to 14 minutes, which was reported by 200 workers (11.5 percent).
+The mean travel time was estimated at 36.8 minutes. It should be noted that 237 workers (13.7
+percent) reported a commute of more than one hour. Additionally, 145 workers, or 7.7 percent of
+the Township’s employed residents, reported working from home. See the table below for
+additional details.
+
+                                            Commute Time
+
+                     Travel Time (minutes)             Workers     Percent
+
+            Less than 5                                     42      2.4%
+            5 to 9                                          59      3.4%
+            10 to 14                                       200     11.5%
+            15 to 19                                       194     11.2%
+            20 to 24                                       214     12.4%
+            25 to 29                                        32      1.8%
+            30 to 34                                       502     29.0%
+            35 to 39                                        44      2.5%
+            40 to 44                                        71      4.1%
+            45 to 59                                       137      7.9%
+            60 to 89                                       116      6.7%
+            90 or more                                     121      7.0%
+
+            Total                                          1,732   100.0%
+            Source: 2023 ACS Table B08303
+
+
+
+
+                                                                                          Page 20
+     WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 25 of 39 Trans ID: LCV20251738366
+
+
+
+
+VI. Projection of Housing Stock
+As per the MLUL, specifically N.J.S.A. 52:27D-310, a housing element must contain a projection of the
+municipality's housing stock, including the probable future construction of low- and moderate-
+income housing for the next ten years, taking into account, but not necessarily limited to,
+construction permits issued, approvals of applications for development and probable residential
+development of lands.
+
+The DCA Division of Codes and Standards website provides data on building permits, certificates of
+occupancy, and demolition permits for both residential and non-residential development through
+the New Jersey Construction Reporter. This database contains permit and certificate of occupancy
+information that is submitted by municipal construction officials across the State each month. The
+Construction Reporter has information dating back to 2000, which can be used to show the
+Township’s historic development trends. However, data from 2013 and onward was reviewed to
+determine more recent trends.
+
+As shown in the table below, the issuance of residential certificates of varies from year to year in the
+White Township. From 2013 to 2015, only two certificates of occupancy were issued, while two were
+issued in 2017 and one in 2018. Of those, all were for single- or two-family dwelling. Similarly, one
+certificate was issued in 2020 and two in 2021. From 2022 to 2023, there were zero certificates
+issued. It should be noted that the Construction Reporter indicates no reports were received from
+White Township during 2024. Since 2013, a total of 13 demolition permits were issued, which
+equates to a net development of -5 residential units.
+
+    Historic Trend of Residential Certificates of Occupancy & Demolition Permits (2013-2024)
+
+                                       '13    '14     '15    '16    '17     '18    '19    '20     '21    '22   '23   '24   Total
+
+ COs Issued                             1      0       1      0      2       1      0      1       2      0    0     NR      8
+ Demolitions                            1      0       1      2      3       1      2      0       3      0    0     NR      13
+
+ Net Development                        0      0       0      -2     -1      0      -2     1      -1      0    0     NR      -5
+ Source: NJDCA, Construction Reporter - Housing Units Certified and Demolition Permits, Yearly Summary Data
+
+
+
+
+Projecting into the future for the Fourth Round period, the Township anticipates 170 new housing
+units as part of the White Township Plaza redevelopment area. Other than that, the Township is not
+anticipating any significant residential development. Based on recent trends, the Township expects
+approximately 6 new homes to be built over the next 10 years.
+
+
+
+
+                                                                                                                           Page 21
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 26 of 39 Trans ID: LCV20251738366
+
+
+
+
+VII. Capacity for Fair Share
+This chapter of the HEFSP provides the following information as required:
+
+•   The Township’s capacity to accommodate its housing needs.
+•   A consideration of the lands that are most appropriate for construction of low and moderate
+    income housing and of the existing structures most appropriate for conversion to, or
+    rehabilitation for, low and moderate income housing.
+•   Lands of developers who have expressed a commitment to provide low and moderate income
+    housing.
+•   The location and capacities of existing and proposed water and sewer lines and facilities relevant
+    to the proposed affordable housing sites.
+
+Land Capacity
+The ability to accommodate White Township’s present and prospective affordable housing needs is
+determined by three components – available land, water capacity and sewer capacity. Land
+development is limited by environmental constraints, such as wetlands, flood plains, easements
+(conservation, sewer, water, power utility, etc.), parcel size and municipal regulations.
+
+White Township conducted a vacant land analysis to identify vacant and developable properties
+remaining in the Township that may be suitable for affordable housing development. The study
+found that there are developable lands within the sewer service area.
+
+Due to the rural and environmentally sensitive nature of the Township, no other suitable lands have
+been identified as having a realistic development potential to provide affordable housing. This is
+largely due to the lack of public water and wastewater services, as discussed below.
+
+Utility Capacity
+Wastewater
+The White Township Future Wastewater Service Area (“FWSA”) Map was adopted by the NJDEP as an
+amendment to the Warren County Pequest Municipal Utilities Authority (“PRMUA”) Wastewater
+Management Plan on May 7, 2013. The FWSA Map allows for extended sewer service to existing
+developed areas along US Route 46 and County Route 519. Based on the 2014 Capacity Study for
+the PRMUA treatment plant in Belvidere, the plant has is projected to exceed its firm capacity at full
+buildout of the Belvidere and White Township sewer service areas. However, the plant is currently
+only operating at 0.3 MGD, which is about 60% of its firm capacity (0.5 MGD). Therefore, the plant is
+expected to have sufficient capacity to serve the proposed mixed-use inclusionary development
+within the White Township Plaza redevelopment area.
+
+The vast majority of properties in White Township, including many properties within the sewer
+service area, are served by on-site septic systems. Pursuant to the NJDEP Wastewater Management
+Planning Rules (N.J.A.C. 7:15), where individual subsurface sewage disposal systems will be utilized,
+the proposed development must not exceed the 2.0 mg/L nitrate planning standard. NJDEP
+estimates indicate that the residential density required to comply with the 2.0 mg/L standard in
+White Township would be between 4.3 and 5.2 acres per dwelling unit, depending on the watershed.
+
+
+
+
+                                                                                               Page 22
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 27 of 39 Trans ID: LCV20251738366
+
+
+
+
+Water
+There is no public water service in White Township. The American Water Company has facilities in
+Belvidere which provide potable water to limited developments along County Route 519, including
+the Brookfield residential development and two areas near the Warren County Offices on Route 519.
+The remainder of the Township is served by private on-site wells.
+
+Appropriate Locations for Affordable Housing
+There are several vacant and developable properties within the sewer service area that could be
+suitable or appropriate for the construction of low- and moderate-income. The Township has
+identified one property specifically that will be designated as inclusionary housing sites to meet the
+obligations for the Fourth Round, which is the White Township Plaza Redevelopment Area located
+on Lot 1 in Block 53. The site is discussed in greater detail within Chapter X of this HEFSP.
+
+Existing structures appropriate for conversion to affordable housing may include ranch-style homes,
+which may be cost effective to buy and convert to an alternative living arrangement. As for
+structures suitable for rehabilitation, according to the Rehabilitation Obligation, 100 homes within
+the Township are in need of a major system repair (e.g. roof, electric, plumbing, etc.).
+
+Potential Affordable Housing Developers
+Presently, there is only one developer who proposing and inclusionary project, which is the owner of
+the White Township Plaza shopping center recently designated as an area in need of
+redevelopment. No other developers have expressed an interest to provide affordable housing in
+White Township.
+
+Anticipated Development Patterns
+Development patterns within White Township are anticipated to follow the established zoning.
+White Township is zoned for detached single-family residences, garden apartments, mobile homes,
+low density residential, neighborhood commercial, community commercial, highway development,
+office, light industrial, industrial, industrial-quarry and soil removal and surface mining. (See the
+Zoning Map below for details.)
+
+
+
+
+                                                                                                Page 23
+WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 28 of 39 Trans ID: LCV20251738366
+
+
+
+
+                                                                       Page 24
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 29 of 39 Trans ID: LCV20251738366
+
+
+
+
+Highlands Regional Master Plan Compliance
+The Amended FHA lists the essential components of a municipality’s housing element. NJSA 52-27D-
+310h. states the following:
+
+   For a municipality located within the jurisdiction of the Highlands Water Protection and Planning
+   Council, established pursuant to section 4 of P.L.2004, C.120 (C.13-20-4), an analysis of compliance of
+   the housing element with the Highlands Regional Master Plan of lands in the Highlands Preservation
+   Area, and lands in the Highlands Planning Area for Highlands-conforming municipalities. This analysis
+   shall include consideration of the municipality’s most recent Highlands Municipal Build Out Report,
+   consideration of opportunities for redevelopment of existing developed lands into inclusionary or 100
+   percent affordable housing, or both, and opportunities for 100 percent affordable housing in both the
+   Highlands Planning Area and Highlands Preservation Area that are consistent with the Highlands
+   regional master plan.
+
+White Township has lands within both the Highlands Preservation Area and Planning Area.
+Approximately 44 percent of the Township is located within the Preservation Area with the
+remainder of the Township located in the Planning Area. Since White Township has not voluntarily
+conformed to the Highlands RMP, the Township does not need to address compliance in the
+Planning Area. White Township has not prepared a Highlands Buildout Report since it is not a fully
+conforming municipality.
+
+Within the Preservation Area, White Township has adopted rural density zoning. The existing
+Windtryst Apartments are located within the Preservation Area. There are no other opportunities for
+redevelopment of existing developed lands within the Preservation Area that would be suitable for
+inclusionary or 100 percent affordable projects.
+
+State Development & Redevelopment Plan Consistency
+P.L. 2024, c.2 amended the Fair Housing Act to include a new requirement for housing elements.
+NJSA 52:27D-310i. reads “An analysis of consistency with the State Development and Redevelopment
+Plan, including water, wastewater, stormwater, and multi-modal transportation based on guidance
+and technical assistance from the State Planning Commission.”
+
+The Draft State Development and Redevelopment Plan was approved by the State Planning
+Commission (“SPC”) on December 4, 2024, and was released on December 6, 2024. The Office of
+Planning Advocacy (“OPA”) conducted public hearings in each of New Jersey’s 21 Counties between
+February 12, 2025 and April 16, 2025. Municipalities are tasked with completing Cross-Acceptance
+Response Template forms to determine a municipality’s consistency with the Draft State Plan. The
+OPA anticipates collecting all Cross-Acceptance Response Template forms in the Summer of 2025.
+During this time, the OPA is accepting comments on the Draft Plan. The OPA anticipates releasing a
+Final Draft Plan and holding six additional public hearings in the Summer/Fall of 2025. The expected
+adoption of the Final Plan by the SPC is anticipated to be in the Winter of 2025.
+
+As the document is draft, the Township cannot opine on consistency until the final version is
+adopted. White Township has not received guidance from the State Planning Commission
+concerning water, wastewater, or multi-modal transportation.
+
+
+
+
+                                                                                                  Page 25
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 30 of 39 Trans ID: LCV20251738366
+
+
+
+
+Multigenerational Family Continuity Evaluation
+P.L. 2024, c.2 amended various aspects of the Fair Housing Act. These amendments modified the
+mandatory components of a municipality’s housing element. NJSA 52:27D-310g. has been added,
+which states “An analysis of the extent to which municipal ordinances and other local factors
+advance or detract from the goal of preserving multigenerational family continuity as expressed in
+the recommendations of the Multigenerational Family Housing Continuity Commission, adopted
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c. 273 (C.52:27D-329.20)”
+
+P.L. 2021, c.273 took effect on November 8, 2021. The law established the Multigenerational Family
+Housing Continuity Commission, which consists of a body of nine members. The duties of the
+Commission include the preparation and adoption of recommendations on how State government,
+local government, community organizations, private entities, and community members may most
+effectively advance the goal of enabling senior citizens to reside at the homes of their extended
+families, thereby preserving and enhancing multigenerational family continuity, through the
+modification of State and local laws and policies in the areas of housing, land use planning, parking
+and streetscape planning, and other relevant areas. The Law requires the Commission to report
+annually to the Governor on its activities, findings, and recommendations, if any, for State and local
+government. The Department of Community Affairs (“DCA”) is required to provide staff services as
+may be needed for the Commission to carry out its responsibilities, including assembly of necessary
+information and statistics, and preparation of draft reports, analyses, and recommendations.
+
+The State of New Jersey’s website was reviewed on March 18, 2025. A search of the website
+revealed no webpage for the Multigenerational Family Housing Continuity Commission. As DCA is
+required to provide staff and research for the Commission, DCA’s website was reviewed on March
+18, 2025. DCA’s website is silent regarding the Commission, its annual required reports, studies,
+and/or recommendations. Without recommendations from the Commission, White Township is
+unable to conduct an analysis of its ordinances and other local factors. Despite the absence of
+recommendations, it should be noted that there is nothing in White Township’s zoning ordinance
+that prohibits senior citizens from residing at the home of their extended families.
+
+
+
+
+                                                                                               Page 26
+     WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 31 of 39 Trans ID: LCV20251738366
+
+
+
+
+                  FAIR SHARE PLAN
+VIII. Required Content of Fair Share Plan
+The Fair Share Plan contains the following information:
+
+     ▪   Description of existing credits intended to satisfy the obligation;
+     ▪   Description of mechanisms that will be used to meet any outstanding obligation; and
+     ▪   An implementation schedule that sets forth a detailed timetable for units to be provided.
+
+In adopting its housing element, a municipality may provide for its fair share of low- and moderate-
+income housing by means of any technique or combination of techniques that provide a realistic
+opportunity for the provision of the fair share. As per N.J.A.C. 5:93, these potential techniques
+include but are not limited to:
+
+     ▪   Rehabilitation of existing substandard housing units;
+     ▪   ECHO units (as a Rehabilitation credit);
+     ▪   Municipally-sponsored and 100% affordable developments;
+     ▪   Zoning for inclusionary development;
+     ▪   Alternative living arrangements;
+     ▪   Accessory apartment program;
+     ▪   Purchase of existing homes;
+     ▪   Write-down/buy-down programs; and
+     ▪   Assisted living residences.
+
+Regional Income Limits
+Dwelling units are affordable to low and moderate income households if the maximum sales price
+or rental cost is within their ability to pay such costs, based on a specific formula. The State
+historically provided income limits based upon the median gross household income of the
+affordable housing region in which the household is located. A moderate income household is one
+with a gross household income equal to or more than 50 percent, but less than 80 percent, of the
+median gross regional household income. A low income household is one with a gross household
+income equal to 50 percent or less of the median gross regional household income. Very-low
+income households are those with a gross household income equal to 30 percent or less of the
+median gross household income. White Township is located in Region 2, which contains Essex,
+Morris, Union, and Warren Counties.
+
+Using the Affordable Housing Professionals of New Jersey’s latest chart on the regional income limits
+for Housing Region 2 in 2024, a four-person moderate income household is capped at $103,533.
+Two-person moderate income households are capped at $82,826, while two-person households
+could make up to $51,766 to be considered a low-income household. The table on the following
+page provides the median, moderate, low, and very-low income limits for one-, two-, three-, and
+four-person households in Region 2.3
+
+
+3
+  In October 2018, Judge Miller signed a vicinage wide income limits order applying to all of the 60 or so municipalities with
+cases in Somerset, Hunterdon, and Warren Counties. All of these municipalities can now utilize the most current income
+limits available as it applies both to towns that have settled and those that have not and reserves all rights on the
+methodology.
+
+                                                                                                                        Page 27
+WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 32 of 39 Trans ID: LCV20251738366
+
+
+
+
+                            2024 Regional Income Limits (Region 2)
+                                                            Household Size
+              Income
+                                     1 Person          2 Person           3 Person   4 Person
+     Median                          $90,591           $103,533           $116,475   $129,416
+     Moderate                        $72,473            $82,826           $93,180    $103,533
+     Low                             $45,296            $51,766           $58,237    $64,708
+     Very-Low                        $27,177            $31,060           $34,942    $38,825
+     Source: https://ahpnj.org/member_docs/Income_Limits_2024_FINAL.pdf
+
+
+
+
+                                                                                                Page 28
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 33 of 39 Trans ID: LCV20251738366
+
+
+
+
+IX. Affordable Housing Obligation
+This chapter outlines the four-part affordable housing obligation White has been assigned.
+
+Four-Part Obligation
+Rehabilitation | 100 units
+White Township accepted DCA’s rehabilitation obligation of 100 units for the Fourth Round.
+
+Prior Round (1987-1999) | 16 units
+The March 10, 2015 Supreme Court Order directed municipalities to use the Prior Round Obligation
+that COAH established in 1993, which was 16 units.
+
+Third Round (1999-2025) | 0 units
+In accordance with the Settlement Agreement with the Fair Share Housing Center, White Township
+has a Third Round Obligation of 0 affordable units to be addressed. This obligation was calculated
+by David N. Kinsey, PhD, FAICP, P.P. in his July 22, 2016 report “New Jersey Fair Share Housing
+Obligations for 1999-2025 (Third Round) Under Mount Laurel IV,” prepared on behalf of the FSHC.
+
+Fourth Round (2025-2035) | 237 units
+As indicated in the April 8, 2025 Order setting the Fourth Round obligations, White Township’s
+Fourth Round prospective need obligation is 237 units.
+
+
+
+
+                                                                                             Page 29
+     WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 34 of 39 Trans ID: LCV20251738366
+
+
+
+
+X.     Mechanisms & Credits
+This chapter provides the existing and proposed mechanisms and credits for each of the four
+affordable housing obligations.
+
+Rehabilitation Credits
+Warren County Housing Rehabilitation Program (“WCHRP”)
+Warren County operates a Housing Rehabilitation Program for qualified low and moderate income
+households that gives homeowners money to fix major systems (such as roofs, heating, structural,
+well, septic, etc.) of their home. In return for the rehabilitation money, the house must have a lien
+with 99-year affordability controls placed on the property. White Township has historically
+participated in the WCHRP and will continue to encourage residents to utilize the existing Warren
+County Housing Program to rehabilitate homes.
+
+In the case of a shortfall, White Township will apply for a Small Cities/CBDG grant available through
+the Department of Community Affairs. The grant’s purpose is to rehabilitate homes and encourage
+the construction of affordable housing. Other eligible costs include activities that support an
+affordable housing development, such as site assemblage, engineering, infrastructure
+improvements, and utilities hook ups. The Township intends to earmark funds from its total
+development fees projected to be collected over the next ten years for rehabilitation to supplement
+the existing rehabilitation mechanisms in the case of a shortfall of rehabilitation credits.
+
+Pursuant to N.J.A.C. 5:93-5.2(f), rental units may not be excluded from a municipal rehabilitation
+program. The Warren County Housing Rehabilitation Program is only offered to qualifying owner-
+occupied units. The Township has requested a waiver from N.J.A.C. 5:93-5.2(f) so that a separate
+municipally operated rehabilitation program would not need to be created to handle the rental
+units. Pursuant to an email from Josh Bauers, Esq. of the Fair Share Housing Center, the FSHC
+agreed to the granting of a waiver for the Township’s rental rehabilitation requirement provided that
+the Township continues to participate in the WCHRP. The Township requests that this waiver be
+carried forward to the Fourth Round as well.
+
+Prior Round Credits
+Windtryst Apartments
+In accordance with N.J.A.C. 5:93-3.2, municipalities may receive credit for units constructed between
+April 1, 1980 and December 15, 1986, provided the units are occupied by low or moderate income
+households and that the required controls on affordability are in place. White Township’s Certified
+Third Round Plan includes 158 prior cycle credits in the Windtryst Apartments development, which
+was constructed in 1985. The Windtryst Apartment development is located along the east side of
+County Route 519 on Block 18, Lot 5. The 158 units are non-age-restricted rental units with 50-year
+deed restrictions, which expire in 2035. The project was developed under the Farmers Home
+Administration (FmHA) Rural Rental Housing Program and constructed between 1982 and 1985.
+White Township intends to assign 16 units from this development to address its entire prior round
+obligation and rental obligation.
+
+Windtryst Apartments are administered by Windtryst Limited, which has assumed the responsibility
+of Management Agent for the past 30 years and is a HUD approved management organization.
+
+                                                                                               Page 30
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 35 of 39 Trans ID: LCV20251738366
+
+
+
+
+Windtryst Limited is responsible to conduct the required affirmative marketing, place income eligible
+households in the units, enforce the terms of the deed restriction and re-rent the units upon
+vacancy. Windtryst Apartments fully satisfy not only the total Prior Round obligation, but also the
+rental obligation.
+
+Rental Bonus Credits
+Pursuant to N.J.A.C. 5:93-5.15(d), the Township may claim 2 units of credit for rental units available
+to the general public (i.e. family rentals or non-age-restricted group homes) or 1.33 units of credit
+for age-restricted rentals. Rental bonuses for the Prior Round are capped at the rental obligation,
+which is 25 percent of the new construction obligation. For the Prior Round, White Township has a
+rental obligation of 4 units and, therefore, may apply up to 4 bonus credits. White Township will
+apply 4 rental bonus credits for the existing Windtryst Apartments towards Prior Round obligation.
+
+Third Round Credits
+In accordance with the July 26, 2016 report from the Fair Share Housing Center, White Township has
+a Third Round Obligation of 0 units. Therefore, no credits are assigned to the Third Round.
+
+Fourth Round Credits
+Windtryst Apartments
+The FHA (as amended by Assembly Bill A4) provides the following regarding credits and bonus
+credits from prior rounds:
+
+        To the extent a municipality has credits, including bonus credits, from units created during a
+        prior round that are otherwise permitted to be allocated toward the municipality’s unfulfilled
+        prior round obligation or present or prospective need obligation in an upcoming round, the
+        municipality shall be entitled to rely on the rules, including rules for bonus credits, applicable
+        for the round during which those credits were accumulated. If a municipality has credits in
+        excess of its prior round obligations, and such excess credits represent housing that will
+        continue to be deed-restricted and affordable through the current round, the municipality
+        may include such housing, and applicable bonus credits, towards addressing the
+        municipality’s new calculation of prospective need.
+
+Therefore, White Township is permitted to utilize the Second Round Rules (N.J.A.C. 5:93-5.15) to
+apply credits and rental bonus credits from the Windtryst Apartments to the Fourth Round
+prospective need obligation. White Township intends to apply the 142 excess credits and 60 rental
+bonus credits from the Windtryst Apartments development towards the Fourth Round prospective
+need.
+
+White Township Plaza Redevelopment (Lot 1 in Block 53)
+Lot 1 in Block 53 is a 10-acre parcel located with primary frontage on US Route 46. The lot is a
+triangular parcel with road frontages on all sides, including Water St, Massenatts Road, US Route 46,
+and Manunka Chunk Road. The property is generally isolated, with only a freestanding Rite-Aid
+pharmacy to the north, across Route 46. To the east, across Water Street, is the Pequest River. To
+the west, across Massenatts Road, is a religious convent on over 76 acres. To the northwest, across
+Manunka Chunk Road, is a 250-acre industrial complex for DSM Nutritional Products.
+
+
+
+                                                                                                  Page 31
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 36 of 39 Trans ID: LCV20251738366
+
+
+
+
+The property currently contains a retail strip mall with vehicular entrances along Massenatts Rd and
+right-in/right-out access to US Route 46 eastbound. Presently, only four of the fourteen tenant
+spaces remain occupied, representing about 28 percent of the 72,000-square foot shopping center.
+
+The property is within the sewer service area and is served by the Warren County (Pequest River)
+Municipal Utilities Authority (PRMUA).
+
+On May 11, 2022, the White Township Committee adopted a resolution directing the Planning Board
+to undertake a preliminary investigation, pursuant to the NJ Local Redevelopment and Housing Law,
+N.J.S.A. 40A:12A-1 et seq., to determine whether property known as Lot 1 in Block 53 situated on US
+Route 46, qualifies as a non-condemnation area in need of redevelopment.
+
+The Planning Board conducted a public hearing on October 6, 2022, and adopted a resolution on
+November 8, 2022, recommending that the Township Committee designate the property as a Non-
+Condemnation Area in Need of Redevelopment.
+
+On December 14, 2022, the Township Committee adopted Resolution 2022-48, designating the
+property known as Lot 1 in Block 53 as a Non-Condemnation Area in Need of Redevelopment and
+authorizing a Redevelopment Plan to be prepared for the property.
+
+On March 12, 2025, the Township Committee adopted Resolution #___ adopting the Redevelopment
+Plan for the area in need of redevelopment. The Redevelopment Plan permits a mixed use
+development with three and four-story buildings containing commercial uses on the ground floor
+and residential uses on the upper floors. The maximum permitted residential density is 17 dwelling
+units per acre, which is expected to yield 170 units, including 34 affordable housing units at a 20
+percent set-aside.
+
+The Township is working with the anticipated redeveloper on a Redevelopment Agreement. Then
+the redeveloper may submit an application to the Planning Board for site plan approval. White
+Township believes that this site represents a realistic opportunity to provide affordable housing and
+intends to apply 34 credits from the development to the Fourth Round obligation.
+
+The affordable housing rules require municipalities to designate sites that are available, suitable,
+developable and approvable, as defined in NJAC 5:93-1. These terms are defined below:
+
+    ▪   Approvable site means a site that may be developed for low- and moderate-income housing
+        in a manner consistent with the rules or regulations of all agencies with jurisdiction over the
+        site. A site may be approvable although not currently zoned for low- and moderate-income
+        housing.
+
+    ▪   Available site means a site with clear title, free of encumbrances which preclude
+        development for low- and moderate-income housing.
+
+    ▪   Developable site means a site that has access to appropriate water and sewer infrastructure
+        and is consistent with the applicable areawide water quality management plan (including the
+        wastewater management plan) or is included in an amendment to the areawide water
+        quality management plan submitted to and under review by NJDEP.
+
+    ▪   Suitable site means a site that is adjacent to compatible land uses, has access to appropriate
+        streets and is consistent with the environmental policies delineated in NJAC 5:93-4.
+
+
+                                                                                                Page 32
+    WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 37 of 39 Trans ID: LCV20251738366
+
+
+
+
+The property meets the four prongs of the rules as follows:
+
+   ▪   Approvable site – White Township has adopted a Redevelopment Plan for the property
+       which permits mixed-use inclusionary residential housing at a density of 17 dwelling units
+       per acre with a 20% affordable housing set-aside. The Township is currently in the process
+       of naming a redeveloper for the site. The Township anticipates that the redeveloper will
+       submit an application to the Planning Board in Fall 2025.
+
+   ▪   Available site – The owner of the property is in the process of being designated as the
+       Redeveloper by the Township and will enter into a Redevelopers Agreement. The Township
+       is unaware of any title or encumbrance issue.
+
+   ▪   Developable site – The property is in the sewer service area. The PRMUA has sufficient
+       capacity to provide wastewater treatment for the project.
+
+   ▪   Suitable site – The property is isolated from other properties due to the street frontages on
+       all side. The site is located along the US Route 46 highway corridor in the Township,
+       providing adequate access for the proposed development. There are no known
+       environmentally sensitive features encumbering the site from redevelopment. The
+       proposed development is anticipated to be concentrated within the existing areas of
+       disturbance.
+
+Based on the information above the Township anticipates that the project will yield 34 affordable
+units which are creditable under NJAC 5:93-5.6 (inclusionary development).
+
+Rental Bonus Credits
+Pursuant to the Amended FHA, the Township may utilize the bonus credits from the prior round
+rules towards the current round. Per N.J.A.C. 5:93-5.15(d), the Township may claim 2 units of credit
+for non-age-restricted rental units. Rental bonuses for the Prior Round are capped at the rental
+obligation, which is 25 percent of the new construction obligation. For the Fourth Round, White
+Township has a rental obligation of 60 units and, therefore, may apply up to 60 bonus credits. White
+Township will apply 60 rental bonus credits for the existing Windtryst Apartments towards Fourth
+Round obligation.
+
+Supportive And Special Needs Housing Credits or Habitat for Humanity Home
+After applying the 142 excess credits and 60 bonus credits for Windtryst Apartments, as well as the
+34 credits from the White Township Plaza redevelopment plan, the Township has 236 credits to
+claim for the Fourth Round, resulting in a 1 unit shortfall from the 237-unit prospective need
+obligation. To fill this gap, the Township intends to seek a group home or habitat for humanity
+home.
+
+
+
+
+                                                                                              Page 33
+        WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 38 of 39 Trans ID: LCV20251738366
+
+
+
+
+   Summary of Mechanisms & Credits
+   The table below provides a summary of the mechanisms, credits and bonuses this HEFSP proposes.
+
+
+
+                                       Mechanisms & Credits
+                                                                Age-
+Mechanism                           Credit Type      Tenure                 Status    Credit   Bonus   Total
+                                                              Restricted
+Rehabilitation
+  Warren County Rehabilitation
+                                    Rehabilitation                         Proposed    100       0     100
+  Program
+                                                                  Total                100       0     100
+Prior Round Credits
+  Windtryst Apartments               Prior Cycle     Rental      No        Existing    16        0      16
+                                                                  Total                16        0      16
+Third Round Credits
+  N/A                                 N/A             N/A      N/A          N/A         0        0         0
+                                                                  Total                 0        0         0
+Fourth Round RDP Credits
+  Windtryst Apartments               Prior Cycle     Rental      No        Existing    142      60     142
+  White Township Plaza
+                                    Inclusionary     Rental      No         AINR       34        0      51
+  Redevelopment
+  Group Home or
+                                        TBD           TBD        No        Proposed     1        0         1
+  Habitat for Humanity Home
+                                                                  Total                176      60     237
+
+
+
+
+                                                                                                 Page 34
+  WRN-L-000064-25 06/12/2025 9:08:24 AM Pg 39 of 39 Trans ID: LCV20251738366
+
+
+
+
+XI. Appendix
+
+
+
+
+                                                                         Page 35
+

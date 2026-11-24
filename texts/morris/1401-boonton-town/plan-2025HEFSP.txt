@@ -1,0 +1,2114 @@
+  MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 1 of 63 Trans ID: LCV20251423423
+
+
+
+
+                        Town of Boonton
+Round Four: Housing Element and Fair Share Plan
+
+                            Prepared For:
+
+
+
+
+                      100 Washington Street
+                         Boonton, NJ 07005
+
+
+                  Adoption Date: May 14, 2025
+            MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 2 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                               1
+
+
+
+Acknowledgements
+
+                                                       Town Administrator
+ Mayor
+                                                       Neil Henry
+ James Lynch
+
+                                                       Planning Board
+                                                       Douglas Phelps
+ Town Council                                          Adam Brewer
+ John Meehan                                           Richard Orlusky
+ Cy Wekilsky                                           Waqar Khokhar
+ Jacob Hettrich                                        Mark Wrobel
+ Marie Devenezia                                       James Lynch
+ Daniel Balan                                          Anthony Suppa
+ Robert Murray                                         Douglas Phelps
+ Alexis Minson                                         Robert Murray
+ Ben Weisman                                           Jack Venturini
+                                                       Adam Schnitzler
+                                                       Alan Zambarano
+
+ Town Attorney
+                                                       Planning Board Attorney
+ Fred Semrau, Esq.; Edward R. Pasternak, Esq;
+                                                       Michael Mullen, Esq.
+ Jonathan Testa, Esq.
+                                                       Schenck Price Smith & King, LLP, Esq.
+ Dorsey & Semrau
+
+ Town Clerk                                            Planning Board Secretary
+ Elizabeth Bonsiewich, RMC                             Briana Clemmons
+Prepared by:
+
+
+
+
+Graham Petto, AICP/PP                             Chris Colley, AICP/PP
+Planner License No. 33LI00633500                  Planner License No. 33LI00647100
+Supporting Staff: Sahana Kumar, Planner I; Nicole Goldstein, Planner II
+The original of this report was signed and sealed in accordance with N.J.S.A. 45:14A-12.
+Plan Date: May 2, 2025
+                        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 3 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                                                                                                    2
+
+
+
+Table of Contents
+
+I.         Introduction .................................................................................................................................................................. 4
+      A.       History of New Jersey Affordable Housing Policy........................................................................................... 4
+      B.       Housing Element and Fair Share Plan Requirements .................................................................................... 7
+II.        Housing Element: Municipal Summary ............................................................................................................... 10
+      A.       Housing Conditions ............................................................................................................................................. 10
+      Table 1: Year Structure Built........................................................................................................................................ 11
+      Table 2: Housing Condition ......................................................................................................................................... 12
+      Table 3: Value for Owner-Occupied Housing Units............................................................................................... 12
+      Table 5: Housing Tenure and Occupancy................................................................................................................. 13
+      Table 6: Occupants Per Room + Inadequate Units in Occupied Housing Units .............................................. 14
+      Table 7: Housing Type and Size ................................................................................................................................. 14
+      Table 8: Number of Bedrooms Per Unit .................................................................................................................... 15
+      Table 9: Substandard Housing Indicators ................................................................................................................ 16
+      B.       Housing Projections ............................................................................................................................................. 16
+      Table 10: Housing Unit Projection ............................................................................................................................. 16
+      Figure 1: Existing Land Use Map ................................................................................................................................ 17
+      Figure 2: Existing Zoning Map .................................................................................................................................... 18
+      C.       Demographic Characteristics ............................................................................................................................. 18
+      Table 10: Historic Population Growth ....................................................................................................................... 19
+      Table 11: Population by Age ........................................................................................................................................ 19
+      Table 12: Population by Housing Type ..................................................................................................................... 20
+      Table 13: Residents Place of Birth............................................................................................................................... 21
+      Table 14: Household Median Income ........................................................................................................................ 21
+      Table 15: Poverty Status ............................................................................................................................................... 21
+      D.       Multigenerational Housing Continuity............................................................................................................ 22
+      E.       Employment Data................................................................................................................................................. 23
+      Table 16: Employment Projection............................................................................................................................... 23
+III. Fair Share Plan: Obligations and Compliance Plan............................................................................................ 24
+                   MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 4 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                                                                                              3
+
+
+   A.      Introduction ........................................................................................................................................................... 24
+   B.      Bonus Credits ........................................................................................................................................................ 24
+   C.      Prior Round Need Compliance “Look Back” (2015-2025) ............................................................................ 25
+   D.      Present and Prospective Need Obligation (2025-2035) ................................................................................. 27
+   E.      Applicability of Vacant Land Adjustment ....................................................................................................... 42
+   F.      Land Most Appropriate for Affordable Housing and Sites Considered for Development ................... 42
+   G.      Mandatory Obligation Subsets .......................................................................................................................... 43
+IV. Appendices ................................................................................................................................................................. 45
+   Appendix A – Town Resolution Recommending Prospective Need and Present Need ................................. 46
+   Appendix B – Vacant Land Adjustment .................................................................................................................... 47
+   Appendix C – Division Street Redevelopment Plan (Excerpt) ............................................................................. 48
+   Appendix D – Affordable Housing Ordinance and Development Fee Ordinance .......................................... 49
+   Appendix E – Affirmative Marketing Plan ............................................................................................................... 50
+   Appendix F – Spending Plan ....................................................................................................................................... 51
+   Appendix G – Copies of resolutions appointing Administrative Agent(s) and resolution appointing the
+   Municipal Affordable Housing Liaison..................................................................................................................... 58
+   Appendix H – Resolution of intent to fund cost of municipality’s municipally sponsored affordable housing
+   development as well as its rehabilitation program ................................................................................................. 59
+   Appendix I – Evidence of Town support for Riverview Apartments .................................................................. 60
+   Appendix J – Evidence of affordability of Chestnut Street Cottages and Riverview Apartments ................ 61
+   Appendix K – Evidence of Town support for Chestnut Street Cottages ............................................................ 62
+               MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 5 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                               4
+
+
+
+I. Introduction
+       This Housing Element and Fair Share Plan will exhibit the Town of Boonton’s (herein the
+       “Town” or “Boonton”) commitment to providing affordable housing within the municipality.
+       This document seeks to frame Boonton’s efforts based on the current best knowledge of the
+       affordable housing framework created by the State, applicable past rules established by the
+       Council on Affordable Housing (COAH), and the requirements of the New Jersey Fair Housing
+       Act, N.J.S.A. 52:27D-301 et seq., as amended by P.L. 2024, c. 2 (“A4/S50”,1 the “Law” or
+       “Amended Law”) which governs municipal responsibilities concerning provisions of affordable
+       housing in the Fourth Round.
+       This Plan has three sections. The first section (“Introduction”) includes a brief history of New
+       Jersey Housing Policy. The second section (“Housing Element”) includes a Demographic
+       Analysis, Housing Inventory, Employment Analysis, and review of land uses and policies, as
+       required by statute. The third section (Fair Share Plan) summarizes the Town’s affordable
+       housing obligations for 2025-2035 and its plan for complying with these obligations.
+       A. History of New Jersey Affordable Housing Policy
+       1975 – 1985 | Mount Laurel Doctrine and the Fair Housing Act
+       In 1975 the New Jersey Supreme Court decided Southern Burlington County NAACP v. the
+       Township of Mount Laurel, more commonly referred to as “Mount Laurel I,” wherein it
+       interpreted the New Jersey Constitution to create an affirmative obligation for developing
+       municipalities to provide a “realistic opportunity for the construction of low- and moderate-
+       income housing in their communities.” In 1983, the New Jersey Supreme Court expanded the
+       obligation from only developing municipalities to all municipalities in a decision commonly
+       referred to as “Mount Laurel II”. In addition, the Supreme Court required the establishment of
+       each municipality’s fair share obligation and required each municipality, through its zoning, to
+       provide a realistic opportunity for the construction of that established fair share obligation.
+       Subject to several prerequisites, conditions and requirements, Mount Laurel II also created the
+       “builder’s remedy” as a mechanism to enforce the doctrine in instances where a developer
+       successfully demonstrated a municipality’s zoning failed to create the requisite realistic
+       opportunity. Under such circumstances, a plaintiff may be entitled to have its site rezoned for
+       an inclusionary development with an affordable set aside if the site is available, developable,
+       approvable, and suitable for the proposed project, and all other requirements for a successful
+       builder’s remedy are met and all defenses defeated.
+       In 1985, in response to Mount Laurel II and the flood of litigation stemming from it, the
+       Legislature adopted the Fair Housing Act (“FHA”) to discourage litigation and incentivize
+       voluntary compliance (see N.J.S.A. 52-27D-303). The FHA established, among other things, the
+
+
+1
+    https://www.njleg.state.nj.us/bill-search/2024/A4 and https://www.njleg.state.nj.us/bill-search/2024/S50
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 6 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                              5
+
+
+Council on Affordable Housing (“COAH”) as an administrative alternative to litigation and
+judicial intervention. COAH was charged with establishing various housing regions in the state,
+estimating regional affordable housing obligations, and adopting criteria and guidelines for the
+municipal determination of housing need as well as guidelines for satisfying those obligations.
+The FHA also linked municipal planning and zoning powers to the satisfaction of affordable
+housing obligations. Under the FHA, a municipal zoning ordinance is presumptively invalid if
+a municipality fails to adopt a housing element as part of its master plan or enacts zoning
+regulations that are inconsistent with their housing plan.
+1987 – 2004 | Establishment and Administration of First Round and Second Round COAH Rules
+After the adoption of the Fair Housing Act, COAH adopted procedural and substantive rules to
+effectuate the FHA’s legislative intent in both the First Round (1987-1993) (N.J.A.C 5:91 and 5:92)
+and Second Round (1993-1999) (N.J.A.C. 5:93). The Second Round substantive regulations
+(Chapter 93) superseded the First Round substantive regulations (Chapter 92) and recalculated
+the First Round obligations. Under COAH’s regulations, low-income households were defined
+as those with incomes no greater than 50 percent of the area median income (AMI), adjusted for
+household size, and moderate-income households were those with incomes no greater than 80
+percent and no less than 50 percent of the median household income. AMI limits were
+calculated based upon housing regions as established by COAH.
+2004 – 2010 | Third Round Litigation and Revisions
+In December 2004, COAH promulgated its Third Round “Growth Share” methodology, which
+adjusted prior round obligations and devised a new system for projecting future municipal
+housing obligations. Growth Share obligations were based upon municipal growth and the
+Third Round was defined as the period of 1999-2014. The initial Growth Share methodology
+required municipalities to provide one affordable housing unit for every eight market rate units
+and one affordable unit for every 25 jobs created. In January 2007, the Appellate Division
+invalidated the Growth Share Methodology and required COAH to revise its rules, which it did
+in May 2008 via the Third Round substantive regulations of Chapter 97.
+The FHA was subsequently amended in July 2008. This round of amendments, among other
+things, eliminated Regional Contribution Agreements and reduced non-residential
+development fees. In September 2008, Executive Order #114 was which amended the COAH
+rules to ensure consistency with the Highlands Regional Master Plan.
+2010 – 2023 | COAH’s Noncompliance and Resumption of Court Responsibility
+During this period, there was inaction and increased uncertainty in the realm of affordable
+housing.
+After taking office Governor Chris Christie signed Executive Order No. 12, establishing the
+Housing Opportunity Task Force and charging them with a full review of the Fair Housing Act,
+COAH, and COAH’s regulatory structure. Ultimately, the task force recommended a model
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 7 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                               6
+
+
+which included adjusted definitions of present and prospective need, a benchmark of 10 percent
+growth predicted by the State Planning Commission to guide obligations, and transference of
+procedural responsibility from COAH to the Home Mortgage Finance Agency (HMFA).
+Further complicating matters, in October 2010, the Appellate Division invalidated a substantial
+portion of COAH’s rules. Most notably, the Court invalidated the Third Round Growth Share
+methodology and ordered COAH to revise its rules in accordance with the decision. In addition,
+the Court prohibited certification of housing plans that rely upon municipally sponsored
+affordable housing projects without specified funding and required COAH to create an
+incentive structure for inclusionary developments.
+In January 2011, the legislature passed S-1 / A-3447, which was subsequently vetoed. Then, in
+June Governor Christie issued a reorganization plan which transferred the administration of the
+State’s affordable housing program from COAH to the New Jersey Department of Community
+Affairs. Upon challenge by the Fair Share Housing Center, the Appellate Court invalidated
+Governor Christie’s Reorganization Plan in March 2012. The Supreme Court upheld this
+decision in July 2013.
+In September 2013, the Supreme Court confirmed the invalidation of the previously adopted
+Third Round regulations, upholding that the methodology used for projecting housing needs in
+these rules was unconstitutional. In that ruling, the court established a February 2014 deadline
+for development and adoption of new COAH rules, which was eventually extended to
+November 2014. Significantly, no rules were adopted.
+In March 2015, in the case entitled In re: Adoption of N.J.A.C. 5:96 & 5:97, 221 N.J. 1 (2015), more
+commonly referred to as “Mount Laurel IV” the State Supreme Court determined that COAH
+was “moribund” and unable to carry out its duties as intended by the Fair Housing Act. The
+Court further held “that the courts may resume their role as the forum of first instance for
+evaluating municipal compliance with Mount Laurel obligations.”
+Thus, the Court designed a transitional process whereby municipalities could seek judicial
+approval of their HEFSPs. Those transitional procedures gave municipalities the choice whether
+to seek compliance voluntarily via a Declaratory Judgment (DJ) Action or to not file a DJ Action
+and risk being sued. During this period, and in the absence of COAH, many municipalities
+entered into court-mediated Settlement Agreements involving the Fair Share Housing Center.
+2024 – Present | Adoption of A4 / S-50 and Fourth Round Methodology Changes
+With the impending end of the Third Round in 2025, there was a push at the State level to
+implement new legislation that would reorganize the affordable housing process and end the
+transitional and court-oriented process initiated by Mount Laurel IV. The result of this effort
+was A-4 / S-50, which was signed into law by Governor Phil Murphy on March 20, 2024. This
+legislation created a framework to be used for the Fourth Round and beyond. In summary, the
+Law:
+             MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 8 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                                7
+
+
+    1. Abolishes the Council on Affordable Housing ("COAH") and transfers its duties to the DCA
+       and the Administrative Office of the Courts ("AOC");
+    2. Enables the DCA to implement the judicial methodology provided by Judge Mary C.
+       Jacobson, A.J.S.C. in her March 8, 2018 decision, In re Application of Municipality of
+       Princeton (the "Princeton Case"), to calculate every municipality's affordable housing
+       obligation for the Fourth Round;
+    3. Creates the Affordable Housing Dispute Resolution Program (the "Program") to oversee
+       disputes and provide for mediation; and
+    4. Expands the availability of bonus credits, while eliminating the previously offered "rental
+       bonus credit." Bonus credits are further described in this Housing Element and Fair Share
+       Plan.
+    5. Modifies applicable data and calculations underlying the methodology for calculation of
+       affordable housing obligations, eliminating the prior dependance of Courts and court-
+       appointed Special Masters to deploy accepted methodologies to determine each
+       municipality's affordable housing obligation.
+    6. Sets timeframes under which municipalities must act to preserve immunity from
+       exclusionary zoning litigation.
+    Critically, the Amended Law requires that municipalities adopt a housing element and fair share plan
+    no later than June 30, 2025 to maintain immunity from exclusionary zoning litigation.
+    B. Housing Element and Fair Share Plan Requirements
+    Municipal Land Use Law (“MLUL”) + Fair Housing Act (“FHA”)
+    The MLUL, through incorporation of the New Jersey FHA, requires municipalities to include a
+    housing element in their master plans as a prerequisite to the zoning power. The principal
+    purpose is to enumerate and provide the data, policies, and methods by which municipalities
+    will meet housing needs, with particular attention to low- and moderate-income households.
+    Pursuant to Section 10 of P.L.1985, c.222 (C.52:27D-310) and as amended per Bill A42, as
+    amended, the required contents of the housing element shall contain at least:
+    a. An inventory of the municipality's housing stock by age, condition, purchase or rental value,
+       occupancy characteristics, and type, including the number of units affordable to low- and moderate-
+       income households and substandard housing capable of being rehabilitated, and in conducting this
+       inventory the municipality shall have access, on a confidential basis for the sole purpose of conducting
+       the inventory, to all necessary property tax assessment records and information in the assessor's office,
+       including but not limited to the property record cards;
+
+
+2
+ https://law.justia.com/codes/new-jersey/title-52/section-52-27d-310/ and https://www.njleg.state.nj.us/bill-
+search/2024/A4/bill-text?f=A0500&n=4_R1
+               MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 9 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                            8
+
+
+       b. A projection of the municipality's housing stock, including the probable future construction of low-
+          and moderate-income housing, for the next ten years, taking into account, but not necessarily limited
+          to, construction permits issued, approvals of applications for development and probable residential
+          development of lands;
+       c. An analysis of the municipality's demographic characteristics, including but not necessarily limited
+          to, household size, income level and age;
+       d. An analysis of the existing and probable future employment characteristics of the municipality;
+       e. A determination of the municipality's present and prospective fair share for low- and moderate-
+          income housing and its capacity to accommodate its present and prospective housing needs, including
+          its fair share for low- and moderate-income housing, as established pursuant to section 3 of P.L.2024,
+          c.2 (C.52:27D-304.1);
+       f. A consideration of the lands that are most appropriate for construction of low- and moderate-income
+          housing and of the existing structures most appropriate for conversion to, or rehabilitation for, low-
+          and moderate-income housing, including a consideration of lands of developers who have expressed
+          a commitment to provide low- and moderate-income housing; and
+       g. An analysis of the extent to which municipal ordinances and other local factors advance or detract
+          from the goal of preserving multigenerational family continuity as expressed in the recommendations
+          of the Multigenerational Family Housing Continuity Commission, adopted pursuant to paragraph (1)
+          of subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20).
+       h. For a municipality located within the jurisdiction of the Highlands Water Protection and Planning
+          Council, established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an analysis of compliance
+          of the housing element with the Highlands Regional Master Plan of lands in the Highlands
+          Preservation Area, and lands in the Highlands Planning Area for Highlands-conforming
+          municipalities. This analysis shall include consideration of the municipality's most recent Highlands
+          Municipal Build Out Report, consideration of opportunities for redevelopment of existing developed
+          lands into inclusionary or 100 percent affordable housing, or both, and opportunities for 100 percent
+          affordable housing in both the Highlands Planning Area and Highlands Preservation Area that are
+          consistent with the Highlands regional master plan; and
+       i. An analysis of consistency with the State Development and Redevelopment Plan, including water,
+          wastewater, stormwater, and multi-modal transportation based on guidance and technical assistance
+          from the State Planning Commission.
+       In addition to the statutory components of the Housing Element and Fair Share Plan detailed in
+       52:27D-310, Administrative Directive #14-243; which promulgated the procedures and
+       guidelines for implementing the Affordable Housing Dispute Resolution Program; contains a
+
+
+
+3
+    https://www.njcourts.gov/sites/default/files/administrative-directives/2024/12/dir_14_24.pdf
+      MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 10 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                         9
+
+
+section entitled “Required Elements of Housing Element and Fair Share Plan.” In summary,
+the Directive requires four additional elements of the HEFSP to be included:
+   1. A site suitability analysis for each of the un-built inclusionary and/or 100% affordable
+      sites in the plan and identification of each of the sites considered for development and
+      rejected, along with the reasons for such rejection.
+   2. A concept plan for site development of any proposed inclusionary zone.
+   3. A detailed review of the credit worthiness of all existing affordable units in the
+      municipality.
+   4. All ordinances and resolutions required to implement the plan attached as an Appendix
+      to the HEFSP.
+However, it should be noted that the requirement to adopt all implementing ordinances to
+effectuate the HEFSP as set forth in the Fair Housing Act is March 15, 2026. Given this
+discrepancy with dates, the statutory necessity of implementing ordinances to be reviewed by
+the Planning Board and deemed consistent with this adopted HEFSP, and the potential for
+challenges to the HEFSP as adopted, such ordinance amendments, if required, will be prepared
+following adoption of this plan element.
+            MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 11 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                                10
+
+
+
+II. Housing Element: Municipal Summary
+    The Town of Boonton occupies roughly 2.49 square miles of Morris County. For regional and
+    planning purposes, Boonton is located in Housing Region 2, a region that consists of Essex,
+    Morris, Union and Warren counties.
+    In compiling the analysis for the Housing Element, this report utilizes the following data:
+    1. American Community Survey (“ACS”): The most up to date information is the ACS
+       estimates, which are generated between the decennial censuses. ACS figures are based on
+       data collected over a 5-year time period. The estimates represent the average characteristics
+       of population and housing between 2018-2023 and DO NOT represent a single point in time.
+       Comparisons will be made with the 2018-2023 ACS to show change over time. See URL link4
+       utilized in this HEFSP.
+    2. Decennial Census: Every ten years, the Census conducts detailed data collection to create an
+       image that is as accurate as possible of the conditions throughout the country in that year.
+       Data from the decennial census is used for comparison when equivalent ACS information is
+       unavailable, as well as for longitudinal analysis. See URL link5 utilized in this HEFSP.
+    3. Comprehensive Housing Affordability Strategy (“CHAS”): The U.S. Department of Housing
+       and Urban Development (HUD) utilizes both the ACS and Census to create the “CHAS"
+       data, which demonstrates the extent of housing problems and housing needs, particularly
+       for low income households. See URL link6 utilized in this HEFSP.
+    4. North Jersey Transportation Planning Authority (“NJTPA”): Every four years, the NJTPA
+       updates its regional forecasts for population, households and employment as part of
+       updating its long range transportation plan (LRTP), the region’s blueprint for transportation
+       investment. See URL link7 utilized in this HEFSP.
+    5. State or Other Agency Sources: for select data types, State sources are used instead of the
+       Census Bureau when equivalent Census data does not exist or the State data provides a more
+       complete picture.
+    A. Housing Conditions
+    The analysis in this section shall satisfy Part A of P.L.1985, c.222 (C.52:27D-310), which requires:
+        §   A) “Inventory of housing stock by age, condition, purchase or rental value, occupancy
+            characteristics, and type, including the number of units affordable to low- and moderate-income
+
+
+4
+  https://data.census.gov/table
+5
+  https://data.census.gov/table?d=DEC%20Demographic%20Profile
+6
+  https://www.huduser.gov/portal/datasets/cp.html
+7
+  https://www.njtpa.org/NJTPA/media/Documents/Planning/Plans-Guidance/Planning%20for%202050/draft%20final/E-2050-
+Demographic-Forecasts.pdf
+      MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 12 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                 11
+
+
+      households and substandard housing capable of being rehabilitated, and in conducting this
+      inventory the municipality shall have access, on a confidential basis for the sole purpose of
+      conducting the inventory, to all necessary property tax assessment records and information in the
+      assessor's office, including but not limited to the property record cards”
+
+Housing Stock by Age and Condition
+According to the 2023 ACS, there are an estimated 3,757 housing units in the Town of Boonton
+which represented no change from 2020.
+59.2% of Boonton’s housing structures were built prior to 1960.
+                                                                      Table 1: Year Structure Built
+                                              UNITS                             PERCENT
+      Total housing units                      3,757
+        Built 2020 or later                      0                                 0.0
+        Built 2010 to 2019                       65                                1.7
+        Built 2000 to 2009                       80                                2.1
+        Built 1990 to 1999                      101                                2.7
+        Built 1980 to 1989                      391                                10.4
+        Built 1970 to 1979                      255                                6.8
+        Built 1960 to 1969                      642                                17.1
+        Built 1950 to 1959                      661                                17.6
+        Built 1940 to 1949                      275                                7.3
+       Built 1939 or earlier                   1,287                               34.3
+                               Source: American Community Survey 2023
+      MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 13 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                             12
+
+
+The table below details the condition of housing within the Town of Boonton based on heating
+fuel, plumbing facilities, kitchen facilities. These factors help determine the number of
+inadequate housing units within the Town.
+                                                                      Table 2: Housing Condition
+                                                                                    PERCENT
+                                  2023        PERCENT        2018       PERCENT
+                                                                                    CHANGE
+          Total                     10           0.3           49            1.6      -1.3
+  Lacking heating fuel              10           0.3            0            0.0       0.3
+    Lacking complete                 0           0.0           21            0.7
+                                                                                      -0.7
+   plumbing facilities
+Lacking complete kitchen            0            0.0           28            0.9
+                                                                                      -0.9
+        facilities
+                           Source: American Community Survey 2023 and 2018
+
+
+
+Housing Values and Costs
+Since 2018, median home values in the Town have increased by $97,400 (25.77%). This change is
+largely due to an increase in homes values between $500,000 and $999,999, and a decrease in
+homes worth between $300,000 and $499,999.
+                                             Table 3: Value for Owner-Occupied Housing Units
+                                                                                   PERCENT
+                                 2023        PERCENT       2018       PERCENT
+                                                                                   CHANGE
+    Total Owner-occupied          1,995          -          1,941            -
+                                                                                      2.78
+           units
+       Less than $50,000           0             0.0         35          1.8          -1.8
+       $50,000 to $99,999          8             0.4         0           0.0           0.4
+      $100,000 to $149,999         25            1.3         0           0.0           1.3
+      $150,000 to $199,999         10            0.5         34          1.8          -1.3
+      $200,000 to $299,999         61            3.1        261          13.4        -10.3
+      $300,000 to $499,999       1,061          53.2       1,272         65.5        -12.3
+      $500,000 to $999,999        801           40.2        339          17.5         22.7
+       $1,000,000 or more          29            1.5         0           0.0           1.5
+        Median (dollars)        $475,300        (X)       $377,900       (X)
+                                                                                     25.77
+                           Source: American Community Survey 2023 and 2018
+      MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 14 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                               13
+
+
+The table below shows the housing expenditures for those who own and rent in Boonton. The
+general affordability standard is that no more than 30% of gross income should be allocated for
+housing costs.
+A cost burden is the ratio of housing costs to household income. For renters, housing cost is the
+gross rent (lease rent plus utilities). For owners, housing cost is the owner’s monthly costs, which
+may include mortgage, utilities, association fees, insurance, and real estate taxes.
+In Boonton, about 38.1% of homeowners and renters spend more than 30% of their household
+income on housing costs. Renters are more cost burdened than homeowners (renters at 42.7%;
+owners at 34.3%).
+                      Table 4: Housing Cost Burden Overview Exceeding 30% Gross Income
+
+            RANGE                    OWNER              RENTER           TOTAL         PERCENT
+      Cost Burden <=30%                 1,265              860            2,125           61.8
+  Cost Burden >30% to <=50%              225               329             554            16.1
+       Cost Burden >50%                  435               320             755            21.9
+  Cost Burden Not Available               0                 10              10             0.2
+             Total                      1,920             1,520           3,440          100.0
+                                    Source: CHAS 2017-2021 ACS
+
+
+Occupancy Characteristics and Type of Housing
+As of 2023, the Town is predominately comprised of owner-occupied households, which
+comprise 56.8% of the Town’s households. A total of 43.2% of households are renters, and 6.5%
+of the Town’s housing units are vacant.
+                                                       Table 5: Housing Tenure and Occupancy
+                                                                                     PERCENT
+                        2023         PERCENT           2018         PERCENT
+                                                                                     CHANGE
+      Total             3,757                          3,452
+Owner Occupied          1,995           56.8           1,941            62.4            -5.6
+Renter Occupied         1,519           43.2            1,170           37.6             5.6
+  Vacant Units           243             6.5            341             9.9             -3.4
+                         Source: American Community Survey 2023 and 2018
+      MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 15 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                              14
+
+
+Housing units with more than one occupant per room are considered overcrowded.
+Overcrowded households in the Town rose 0.5%.
+               Table 6: Occupants Per Room + Inadequate Units in Occupied Housing Units
+      OCCUPANTS PER ROOM                 2023        PERCENT         2018           PERCENT
+              Total                       3,514                       3,111
+             1.00 or less                 3,465         98.6          3,083            99.1
+             1.01 to 1.50                  49           1.4             28             0.9
+            1.51 or more                    0           0.0             0              0.0
+                       Source: American Community Survey 2023 and 2018
+
+
+Since 2018, the Town’s total housing stock has increased from 3,452 units to 3,757 units.
+                                                                Table 7: Housing Type and Size
+                                                                                   PERCENT
+  HOUSING UNITS               2023         PERCENT         2018       PERCENT
+                                                                                   CHANGE
+   Total housing units         3,757                       3,452
+     1-unit, detached          2,091          55.7         2,093         60.6         -4.9
+      1-unit, attached          422           11.2          214           6.2           5
+           2 units              612           16.3          642          18.6         -2.3
+        3 or 4 units            285           7.6           236           6.8          0.8
+        5 to 9 units            148           3.9            82           2.4          1.5
+       10 to 19 units            36           1.0           107           3.1         -2.1
+     20 or more units           163           4.3            78           2.3           2
+       Mobile home                0           0.0            0            0.0           0
+    Boat, RV, van, etc.           0           0.0            0            0.0           0
+                          Source: American Community Survey 2023 and 2018
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 16 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                           15
+
+
+Between 2018 and 2023, the percentage of “family” sized 3+ bedroom units increased from 63.9%
+of all units to 65.1% of all units.
+                                                      Table 8: Number of Bedrooms Per Unit
+                                                                                 PERCENT
+       ROOMS           2023 TOTAL      PERCENT      2018 TOTAL       PERCENT
+                                                                                 CHANGE
+        Total              3,757                        3,452
+    No Bedroom               45            1.2            16            0.5          0.7
+     1 Bedroom              485            12.9          343            9.9           3
+     2 Bedrooms             784            20.9          887            25.7        -4.8
+     3 Bedrooms            1,550           41.3         1,516           43.9        -2.6
+     4 Bedrooms             676            18.0          482            14.0          4
+5 or more Bedrooms          217            5.8           208            6.0         -0.2
+                        Source: American Community Survey 2023 and 2018
+
+
+Existing Low- and Moderate-Income Housing Units
+Based on review of available records and consultation with the Town’s Municipal Housing
+Liaison, there are 97 low- and moderate-income units in the Town of Boonton. Boonton is
+following the applicable requirements regarding unit monitoring and reporting. Specifically,
+the Town completed the statutorily required updates to its housing project status report by the
+DCA deadline of February 15, 2025. These updates are included in the State’s new Affordable
+Housing Monitoring System. The information provided in the Affordable Housing Monitoring
+System is in furtherance of the Town’s obligation to specify the creditworthiness of existing
+affordable units.
+Substandard Housing
+   §   Note: See Section III (Fair Share Plan) of this Housing Element regarding “Present Need”
+       rehabilitation obligation requirements of the 2025-2035 Fourth Round.
+The table below utilizes data from the ACS and CHAS to analyze the “4 housing problems” in
+a consolidated format for consideration of overall substandard housing. The four housing
+problems as defined by HUD are:
+1. Incomplete kitchen facilities;
+2. Incomplete plumbing facilities;
+3. Overcrowding (i.e. 1.01 or more persons per room); and
+4. High housing costs (i.e. cost burden).
+The following table shows data for indicators of substandard housing for the Town of Boonton.
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 17 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                    16
+
+
+                                                         Table 9: Substandard Housing Indicators
+
+                                                                   OWNER                 RENTER
+        Household has 1 of 4 Housing Problems                  655                          665
+   Household has none of 4 Housing Problems OR cost
+                                                              1,260                         855
+      burden not available, no other problems
+              Cost Burden not available                         0                            10
+                                   Source: CHAS 2017-2021 ACS
+
+
+
+B. Housing Projections
+The analysis in this section shall satisfy Part B of P.L.1985, c.222 (C.52:27D-310), which requires:
+   §   B) “A projection of the municipality's housing stock, including the probable future construction of
+       low- and moderate-income housing, for the next ten years, taking into account, but not necessarily
+       limited to, construction permits issued, approvals of applications for development and probable
+       residential development of lands.”
+Projection of Housing Stock
+Below is a general prediction by NJTPA of the Town of Boonton’s household population growth
+to 3,486 households in 2050. This 0.2% increase in households would require available units to
+accommodate and may be a prediction indicator of newly projected housing stock.
+                                                                  Table 10: Housing Unit Projection
+        YEAR                            POPULATION                     ANNUALIZED % CHANGE
+         2015                              3,254                                 -
+   2050 (Predicted)                        3,486                               0.2%
+                                     Source: U.S. Census, NJTPA
+
+
+Zoning regulations and existing capital infrastructure may help determine where growth is
+expected and where new housing units are likely to be developed in the future.
+Boonton expects new developments to bear the cost that such development puts upon the
+existing infrastructure, including its sewer and water systems, road infrastructure, school
+facilities, and emergency services. This includes the addition of capacity necessitated by the new
+development, as well as associated maintenance costs. New development should not be a
+burden on the Town’s infrastructure.
+           MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 18 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                        17
+
+
+                                  Figure 1: Existing Land Use Map
+
+
+
+
+                                      Town of Boonton Land Use Map8
+
+
+
+
+8
+  Map Note: Classifications are based on assessor records. "Vacant land" as depicted on this map should not be
+construed to limit or supersede any conclusions made in the Vacant Land Adjustments.
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 19 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                 18
+
+
+                               Figure 2: Existing Zoning Map
+
+
+
+
+                                  Town of Boonton Zoning Map
+
+
+C. Demographic Characteristics
+The analysis in this section shall satisfy Part C of P.L.1985, c.222 (C.52:27D-310), which requires:
+   §   C) “An analysis of the municipality's demographic characteristics, including but not necessarily
+       limited to, household size, income level and age.”
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 20 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                               19
+
+
+Population General
+The estimated population in Boonton in 2023 was 8,821.
+                                                         Table 10: Historic Population Growth
+        YEAR                  POPULATION                        CHANGE           % CHANGE
+         1950                    7,163                            N/A               N/A
+         1960                    7,981                            424                    6.3
+         1970                    9,261                            818                 11.4
+         1980                    8,620                           1,280                16.0
+         1990                    8,343                           -641                 -6.9
+         2000                    8,496                           -277                 -3.2
+         2010                    8,347                            153                    1.8
+         2020                    8,815                           -149                 -1.8
+         2023                    8,821                            468                    5.6
+   2050 (Predicted)              8,924                           -1,652              -18.7
+                                     Source: NJ.gov and NJTPA
+
+
+Population Composition by Age
+The estimated current median age in the Town of Boonton is 40.2, compared to 42.7 for Morris
+County and 40.1 for New Jersey.
+                                                                   Table 11: Population by Age
+                      TOWN OF            PERCENT         MORRIS COUNTY
+AGE RANGE                                                                       PERCENT
+                      BOONTON
+ Under 5 years           438                 5.0                 25,471            5.0
+ 5 to 9 years           631                  7.2                 28,352            5.6
+ 10 to 14 years         449                  5.1                 31,448            6.2
+ 15 to 19 years         546                  6.2                 33,164            6.5
+ 20 to 24 years         756                  8.6                 29,593            5.8
+ 25 to 34 years         970                 11.0                 57,194            11.2
+ 35 to 44 years         1,319               15.0                 65,510            12.8
+ 45 to 54 years         1,138               12.9                 72,196            14.1
+ 55 to 59 years         496                  5.6                 39,717            7.8
+ 60 to 64 years         703                  8.0                 36,971            7.2
+         MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 21 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                             20
+
+
+
+                    TOWN OF                    PERCENT        MORRIS COUNTY
+ AGE RANGE                                                                         PERCENT
+                    BOONTON
+   65 to 74 years      965                        11.0               50,990           10.0
+   75 to 84 years          263                    3.0                27,021            5.3
+85 years and over          129                    1.5                12,748            2.5
+  Median Age               40.2                   (X)                 42.7             (X)
+                                 Source: American Community Survey 2023
+
+  Households
+  According to the US Census Bureau’s classification system, people either live in a household,
+  housing unit, or in “group quarters.” Two types of “households” exist: family and non-family.
+  A “household” consists of one or more persons living and eating together separately from other
+  persons who may be in the same building. A “family” is a household with two or more related
+  persons living together in the same housing unit.
+                                                             Table 12: Population by Housing Type
+                                                             TOWN OF
+                                                                              MORRIS COUNTY
+                                                            BOONTON
+                                                            2019-2023           2019-2023
+
+  Total Households                                           3,514                 191,840
+  Average Household Size                                     2.46                    2.61
+                             Source: American Community Survey 2019-2023
+      MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 22 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                    21
+
+
+Immigration
+Foreign born residents make up 13% percent of Boonton’s population, which is a lower than
+County (19.6%) and State (23.5%) levels. Less than half of Boonton’s foreign-born residents are
+not U.S. citizens, comprising 26.9% of the overall Town foreign-born population, a smaller share
+than that of Morris County (39.2%) and the State (43.1%).
+                                                                Table 13: Residents Place of Birth
+                            TOWN OF
+                                                   MORRIS COUNTY                  NEW JERSEY
+                            BOONTON
+                         COUNT PERCENT            COUNT        PERCENT        COUNT        PERCENT
+         Total              8,803                  510,375                    9,267,014
+ Born in United States      7,388        83.9      401,982          78.8      6,849,548      73.9
+     Foreign Born           1,147        13.0      100,222          19.6      2,181,755      23.5
+  Naturalized Citizen        838         73.1      60,952           60.8      1,241,100      56.9
+    Not a Citizen            309         26.9      39,270           39.2       940,655       43.1
+                               Source: American Community Survey 2023
+
+
+Income and Poverty Status
+The median household income for the Town of Boonton grew from 2018 to 2023, growing 13.3%
+and is lesser than the County (21.2%) and the State (22.1%).
+                                                             Table 14: Household Median Income
+                                       2023                2018             CHANGE        % CHANGE
+        Boonton Town                  100,417             88,633             11,784          13.3
+        Morris County                 134,929             111,316            23,613          21.2
+         New Jersey                   99,781              81,740             18,041          22.1
+                            Source: American Community Survey 2023 and 2018
+
+
+In the Town of Boonton, 654 residents (7.5%) live below the poverty line, an increase from 5.3%
+in 2018. In this regard, the Town had a similar to Morris County, which experienced an increase
+from 4.5% to 4.6% over the same period.
+                                                                             Table 15: Poverty Status
+
+    BOONTON TOWN                     2023        PERCENT            2018       PERCENT     CHANGE
+        Total Persons                8,714                          8,212                    502
+    Total Below Poverty               654           7.5             438           5.3         2.2
+               MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 23 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                          22
+
+
+
+              MORRIS COUNTY                2023         PERCENT         2018        PERCENT     CHANGE
+
+                 Total Persons             507,823                     485,909                    21,914
+
+              Total Below Poverty          23,392           4.6         21,856         4.5          0.1
+                                 Source: American Community Survey 2023 and 2018
+
+
+       D. Multigenerational Housing Continuity
+       The analysis in this section shall satisfy Part G of P.L.1985, c.222 (C.52:27D-310), which requires:
+          §    G) “An analysis of the extent to which municipal ordinances and other local factors advance or
+               detract from the goal of preserving multigenerational family continuity as expressed in the
+               recommendations of the Multigenerational Family Housing Continuity Commission, adopted
+               pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20).”
+       On November 8, 2021, the Senate and General Assembly of the State of New Jersey adopted
+       C.52:27D-329.209, which establishes the “Multigenerational Family Housing Continuity
+       Commission” for the purpose of conducting research, obtaining public input, and adopting
+       recommendations on how to most effectively advance the goal of enhancing multigenerational
+       family housing continuity, which can be defined broadly as the degree to which senior citizens
+       are able to reside at the homes of their extended families.
+       In short, the bill requires a municipal housing plan element to provide an analysis of the extent
+       to which municipal ordinances and other local factors advance or detract from the goal of
+       preserving multigenerational family continuity, as expressed in the recommendations of the
+       commission.
+       The municipality is committed to promoting intergenerational harmony through the provision
+       of diverse housing options in a manner consistent with the regulation. No municipal ordinances
+       have been identified which detract from the goal of preserving multigenerational family
+       continuity. The Town offers a range of programs and services to support its seniors and make
+       it possible for seniors to continue to thrive in Boonton if they choose to do so. These services
+       include a Senior Transport Program, Senior Housing Program, and Senior Social Events.
+       Providing services for Seniors locally allows them to continue to live in the same community as
+       family members of other generations, even if not under the same roof, and the benefits of such
+       programs in promoting multigenerational continuity is magnified by the dense and walkable
+       nature of the Town. As will be noted subsequently, the municipality, in setting forth its
+
+
+
+
+9
+    https://pub.njleg.gov/Bills/2020/AL21/273_.HTM
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 24 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                23
+
+
+compliance plan, is abiding by the limitations included in the statute as it relates to age-
+restricted housing.
+
+
+E. Employment Data
+The analysis in this section shall satisfy Part D of P.L.1985, c.222 (C.52:27D-310), which requires:
+   §   C) “An analysis of the existing and probable future employment characteristics of the
+       municipality.”
+Below is a general prediction by NJTPA of the Town of Boonton’s employment forecast, which
+is a growth to 4,417 in 2050.
+                                                               Table 16: Employment Projection
+        YEAR                LABOR FORCE                         CHANGE               ANNUALIZED
+                                                                                      % CHANGE
+        2015                     3,851
+
+   2050 (Predicted)              4,417                             566                    0.4
+                                            Source: NJTPA
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 25 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                             24
+
+
+
+III. Fair Share Plan: Obligations and Compliance Plan
+  A. Introduction
+  As previously noted, the methodology of calculating and fulfilling municipal obligations is set
+  forth in the Amended Law, in concert with a wide range of pre-existing rules and regulations.
+  On October 18, 2024, the DCA released a report entitled “Affordable Housing Obligations for
+  2025-2035 (Fourth Round)” which set forth the Town’s non-binding fair share obligations for the
+  Fourth Round include a Present Need of 23 and a Prospective Need of 153. On January 21, 2025,
+  the Town Council of the Town of Boonton adopted Resolution 25-61, determining its Fourth
+  Round Present Need Obligation to be 23 and its Fourth Round Prospective Need Obligation to
+  be 99. On January 23, 2025, the Town filed an action with the Affordable Housing Dispute
+  Resolution Program. On February 27th and 28th, 2025, the New Jersey Builder's Association
+  ("NJBA") and Riverwalk, LLC ("Riverwalk") filed separate respective challenges to the Town's
+  determination of its Fourth Round Prospective Need Obligation of "99".
+  The Town filed a brief seeking the dismissal of the aforementioned challenges on March 14,
+  2025. On March 17, 2025, a Session was conducted by Program Member the Honorable Stephan
+  C. Hansbury, J.S.C., Retired t/a on Recall. Following same, Judge Hansbury ultimately rendered
+  a determination/recommendation that the Town's Fourth Round Prospective Need Obligation
+  of "99" was valid and reasonable on the record and dismissed the challenges filed by the NJBA
+  and Riverwalk after the parties argued their respective positions before the Program. The formal
+  written recommendation remains forthcoming at this time. The Program's official audio
+  recording of this decision has been obtained through the Courts and is available upon request.
+  The housing need obligations discussed herein consist of the following components: Prior
+  Round Compliance; Present Need or “Rehabilitation Obligation;” and the “Prospective Need”
+  Collectively, the Present Need and the Prospective Need are referred to as the Round 4 or Fourth
+  Round obligation.
+  The figures that are presented in the fair share obligations below have been derived from Town
+  Council Resolution 25-61 (See Appendix A), as affirmed by Judge Hansbury following
+  completion of the above-referenced session on March 17, 2025. Under the Resolution, as
+  approved by the Program, the Present Need or “Rehabilitation Obligation” is 23, and the gross
+  “Prospective Need” is 99.
+  The purpose of this section of the Plan is to set forth the Town of Boonton’s proposed approach
+  to satisfying its Fourth Round obligation.
+  B. Bonus Credits
+  Importantly, the Law sets forth opportunities for bonus credits. These potential bonus credits
+  include:
+   a. One (1) bonus credit for special needs or permanent supportive housing;
+      MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 26 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                            25
+
+
+b. One (1) bonus credit for 100% affordable housing projects for which the host
+   municipality has contributed towards the cost of the project, subject to certain minimum
+   contribution requirements;
+c. One (1) bonus credit for market rate units that are converted to affordable units;
+d. One-half (0.5) bonus credit for ownership units created in a partnership sponsorship
+   with a non-profit housing developer;
+e. One-half (0.5) bonus credit for units located within a one-half mile radius (or a one­ mile
+   radius for projects located in a Garden State Growth Zone) of NJ Transit or Port
+   Authority rail, bus, or ferry stations, including all light rail stations;
+f. One-half (0.5) bonus credit for age-restricted units, subject to certain caps;
+g. One-half (0.5) bonus credit for each three-bedroom unit in excess of the three­ bedroom
+   requirements set forth in the Uniform Housing Affordability Controls;
+h. One-half (0.5) bonus credit for housing units constructed on previously developed land
+   that was utilized for retail, office, or commercial space; and
+i. One-half (0.5) bonus credit for units whose affordability controls are extended for a new
+   term of affordability;
+Municipalities are restricted to only claim one type of bonus credit per affordable unit. Such
+bonus credits may only satisfy 25% of their Fourth Round obligation.
+C. Prior Round Need Compliance “Look Back” (2015-2025)
+The Town of Boonton has a history of fulfilling its affordable housing obligations. Most recently,
+on August 14, 2020, the Town received a Final Judgment of Compliance and Repose (“JCR”)
+relating to its Third Round obligation in the matter entitled: In re Application of the Township
+of Boonton, Docket No. MRS-L-1636-15. This was filed in accordance with the Court’s directive
+set forth in Mount Laurel IV. The JCR was issued after a period of negotiation and settlement,
+primarily between the Town and Fair Share Housing Center (“FSHC”) and followed completion
+of an Amended Preliminary Fairness and Final Compliance hearing. During this period of
+negotiation, the Town adopted a HEFSP in August 2018 that was later amended in January 2020.
+Correspondingly, the Town and FSHC entered into a settlement agreement in March of 2018
+that was later amended in November 2019. The HEFSP and settlement agreements set forth the
+Town’s Third Round obligation and identified the actions required by the Town to fulfill these
+obligations.
+In preparing this Fourth Round HEFSP, an analysis was conducted to assess the status of the
+Town’s compliance with the commitments it made in its Court approved Third Round HEFSP
+and settlement agreement. The Town’s commitments, and the corresponding status of these
+commitments is reflected in the tables below.
+                MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 27 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                       26
+
+
+           Projects cited to satisfy Third Round Realistic Development Potential:
+                                                     CREDITS IDENTIFIED
+                                                     IN HEFSP /
+          PROJECT                                                              STATUS
+                                                     SETTLEMENT
+                                                     REQUIREMENT
+          Kanter/Packard Building (Rental)           22 Credits                Completed
+          Barrister Court (Age-restricted)           6 Credits                 Under Construction
+          Community Hope, Inc.: 14 Lorraine
+                                                     6 Credits                 Completed
+          Terrace
+          NewBridge Services Inc.: 411 Birch
+                                                     3 Credits                 Completed
+          Street
+          NewBridge Services Inc.: 110 South
+                                                     2 Credits                 Completed
+          Terrace
+
+
+           Zoning actions to satisfy Third Round Unmet Need requirements
+                                                   CREDITS IDENTIFIED
+                                                   IN       HEFSP        /
+           PROJECT                                                             STATUS
+                                                   SETTLEMENT
+                                                   AGREEMENT
+           NewBridge Services Inc.: 110 South
+                                                   7 Credits                   Completed
+           Terrace
+           Community Hope, Inc.: 54 Lorraine
+                                                   6 Credits                   Completed
+           Terrace
+           Community Hope, Inc.: 58 Lorraine
+                                                   6 Credits                   Completed
+           Terrace
+           Avidd Community Services: 695
+                                                   6 Credits                   Completed
+           Boonton Ave
+           Avidd Community Services: 203
+                                                   6 Credits                   Completed
+           Hillside Avenue
+           Community Hope, Inc.: 115
+                                                   4 Credits                   Completed
+           Roessler Street
+                                                                               Ordinance No. 15-2019
+           Park Woods at Boulevard (Rental
+                                                              3 to 4 Credits   adopted to permit
+           or for-sale)
+                                                                               development.10
+
+
+
+
+10
+     This application is the subject of pending litigation.
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 28 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                27
+
+
+
+                                                                       Ordinance No. 23-2018
+  Elite/Joyce Holding CO.
+                                           16 Credits                  adopted to permit
+  Alternative Zoning
+                                                                       development.
+
+                                                                       Ordinance No. 20-2018
+  Myrtle Avenue Overlay Zone
+                                           12- 16 Credits              adopted to permit
+  (rental or for sale)
+                                                                       development.
+                                                                       Redevelopment Plan
+                                                                       adopted on December
+                                                                       12, 2021. In settlement
+  Division Street Overlay Zone             TBD                         agreement, Town
+                                                                       committed to maximum
+                                                                       density of 20 to 25 units
+                                                                       per acre.
+                                           Adopted, Ordinance          Adopted, Ordinance No.
+  Mandatory Set-Aside Ordinance
+                                           No. 17-2018                 17-2018
+
+  Actions to satisfy Third Round Rehabilitation Share
+                                            CREDITS IDENTIFIED
+                                            IN       HEFSP   /
+  PROJECT                                                              STATUS
+                                            SETTLEMENT
+                                            AGREEMENT
+                                                                       The Town launched a
+                                                                       rehabilitation program
+  Contract with a firm to administer
+                                                        25             and contracts with
+  the Rehabilitation Program.
+                                                                       Morris Habitat for
+                                                                       Humanity.
+As demonstrated in the tables above and supported by the issuance of the August 2020 JCR, the
+Town fully satisfied its obligations under the Third Round as articulated in its settlement with
+the FSHC. As such, no obligation is carried forward to the Fourth Round.
+D. Present and Prospective Need Obligation (2025-2035)
+The analysis in this section shall satisfy Part E of P.L.1985, c.222 (C.52:27D-310), which requires:
+   §   E) “A determination of the municipality's present and prospective fair share for low- and
+       moderate-income housing and its capacity to accommodate its present and prospective housing
+       needs, including its fair share for low and moderate income housing, as established pursuant to
+       section 3 of P.L.2024, c.2 (C.52:27D-304.1)”
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 29 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                              28
+
+
+Present Need (Rehabilitation Share)
+The Rehabilitation Share is described as “deficient housing units occupied by low- and
+moderate-income households within a municipality and is a component of “present need” under
+N.J.A.C. 5:93-1.3. In Boonton, the rehabilitation obligation through the end of the Fourth Round
+(i.e. July 2035) has been determined to be 23.
+The Town plans to address this obligation by continuing its Housing Rehabilitation Assistance
+Program. This program provides assistance for the rehabilitation of owner-occupied one family
+houses and supports the removal of unsafe conditions such as plumbing, heating/energy,
+electrical, lead-based paint, roof, structural, siding and wall masonry, exterior painting, interior
+improvements, and premise repairs. Applicants are required to meet federally recognized
+income guidelines. The Town will continue to work with Morris Habitat for Humanity to
+administer this program under the oversight of the Town’s in-house Municipal Housing Liaison.
+The Town currently has two rehabilitation projects underway.
+The Town will commit up to $10,000 per unit to the Housing Rehabilitation Assistance Program,
+consistent with COAH’s Second Round rules. To fulfill the total 23 unit Present Need Obligation,
+this would require a total contribution of approximately $230,000 from the Town’s Affordable
+Housing Trust Fund. As of December 31, 2024, that account contains $146,086.45. If, throughout
+the course of the Fourth Round, the Town receives a complete and eligible application to the
+Housing Rehabilitation Assistance program and there is not sufficient funding in the Affordable
+Housing Trust Fund to fund the project, the Town will make up this financial short-fall through
+other means. The Town’s obligation shall not exceed $10,000 per unit and shall not continue after
+the Town has satisfied its 23 unit present need obligation.
+The Town will also continue its successful partnership with Morris Habitat for Humanity.
+Boonton partners with Morris Habitat for Humanity to help market their home repair program,
+A Brush With Kindness, and their Aging in Place program to support home repair for seniors.
+Completed projects within Boonton under these programs may also satisfy the Town’s present
+need obligation.
+Finally, the Town will participate in Morris County’s rehabilitation program to the extent that it
+continues to exist in the Fourth Round. Completed projects within Boonton under this program
+may also satisfy the Town’s present need obligation.
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 30 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                          29
+
+
+ Prospective Need Obligation
+ The Town has a Fourth Round gross prospective need of 99.
+ The Town will satisfy this obligation through the following projects:
+                               BONUS     TOTAL
+PROJECT           UNITS                              NOTES
+                               CREDITS   CREDITS
+Incremental
+Division Street
+                  18           9         27          Includes 0.5 TOD bonus credit.
+Redevelopment
+Plan Credits
+The Riverview
+Apartments
+                                                     Includes 0.5 TOD bonus credit (up to 25%
+(Boonton          60           15        75
+                                                     cap).
+Housing
+Authority)
+Chestnut Street
+Cottages
+(Boonton          14                     14
+Housing
+Authority)
+Total             92           24        116
+  The sites are shown in the map below.
+      MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 31 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                           30
+
+
+
+
+                  Sites Counted Towards Boonton’s Prospective Need Obligation
+
+
+Additional detail about each project is included below, including an analysis assessing the
+appropriateness of including each site. Municipalities shall designate sites that are available,
+suitable, developable and approvable, as defined in N.J.A.C. 5:93-1. As such, the criteria for
+crediting units must meet the following:
+1. “Available site” – a site with clear title, free of encumbrances which preclude development
+   for low- and moderate-income housing.
+2. “Suitable site” – a site that is adjacent to compatible land uses, has access to appropriate
+   streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+3. “Developable site” – a site that has access to appropriate water and sewer infrastructure, and
+   is consistent with the applicable area wide water quality management plan (including the
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 32 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                           31
+
+
+    wastewater management plan) or is included in an amendment to the area wide water
+    quality management plan submitted to and under review by DEP.
+4. “Approvable site” – a site that may be developed for low- and moderate-income housing in
+   a manner consistent with the rules or regulations of all agencies with jurisdiction over the
+   site. A site may be approvable although not currently zoned for low- and moderate-income
+   housing.
+Incremental Division Street Redevelopment Plan Credits
+Overview
+As part of the Town’s Third Round HEFSP and corresponding Settlement Agreement, Boonton
+committed to developing an overlay zone in the Division Street area. As part of this commitment,
+the Town committed to creating a 4.54 acre zone that would “allow for inclusionary residential
+development at a maximum density of between 20 to 25 units per acre” and require a minimum
+affordable set-aside of 15% for rental units and 20% for for-sale units.
+In December 2021, the Town adopted the Division Street Redevelopment Plan. This
+Redevelopment Plan rezoned the area identified in the Third Round compliance plan.
+Significantly, this Redevelopment Plan permits densities well above the minimum required
+under the Town’s Third Round plan and Settlement Agreement. The adopted Division Street
+Redevelopment Plan is included as Appendix B.
+The Redevelopment Plan creates three sub areas. Two of these sub areas (Sub Area 1 and 2),
+which comprise roughly 75% of the area governed by the Plan, permit density of up to 45 units
+per acre.
+      MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 33 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                           32
+
+
+
+
+                    Sub Areas in Adopted Division Street Redevelopment Plan
+The table below summarizes the density required in the Town’s Third Round Settlement
+Agreement relative to the maximum density permitted under the Division Street Redevelopment
+Plan as adopted.
+                                                     Affordable
+                          Units Per Maximum          Units (at  Affordable Units (at
+                    Acres Acre      Units            15%)       20%)
+   Third Round
+   Obligation         4.54         25          114            18                   23
+   Sub Area 1, as
+   adopted            1.28         45           57             9                   12
+   Sub Area 2, as
+   adopted            1.33         20           27             5                       6
+   Sub Area 3, as
+   adopted            1.93         45           87            14                   18
+   Total              4.54                     171            28                   36
+As demonstrated above, under the Town’s Third Round Settlement Agreement, the Town was
+required to create an opportunity for at least 18 affordable units (15% of 114 total units).
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 34 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                33
+
+
+Under the adopted Division Street Redevelopment Plan, the Town created an opportunity for
+171 total units. Additionally, Section 52:27D-329.9 of the Amended Law requires a minimum
+residential set-aside of 20%. Applying this minimum set-aside to each Sub Area, generates an
+opportunity for up to 36 affordable units (out of a total 171 units). This is 18 more units than the
+Town committed to providing under its Third Round Settlement Agreement. The Town is
+applying these additional 18 units towards its Fourth Round Prospective Need.
+Applicability of Bonus Credits
+As reflected in the map below, the Division Street Redevelopment Plan is within 0.5 miles of the
+Boonton Train Station. As such, the 18 incremental Division Street Redevelopment Plan units
+are eligible for 0.5 bonus credits per unit based on their proximity to the Boonton Train Station.
+This brings the maximum number of potential credits to 27.
+
+
+
+
+       0.5 Mile Radius Around Boonton Train Station, with Prospective Need Sites Shown in Red
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 35 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                           34
+
+
+Suitability Analysis
+The map below shows the detailed analysis of the area relative to the most up to date
+environmental constraints. As noted, environmental constraints identified on the site are limited
+to a small area containing steep slopes. These small areas of steep slopes do not preclude the
+overall development of the Division Street Redevelopment Plan in a manner consistent with the
+maximum permitted density.
+
+
+
+
+                  Division Street Redevelopment Plan with Environmental Constraints
+The Division Street sites can appropriately be considered available, suitable, developable, and
+approvable. Critical in evaluating these characteristics is the fact that the sites were already
+included in the Town’s Third Round Plan. In including these sites in its Fourth Round HEFSP,
+the Town is simply claiming credit for incremental density it has permitted at previously
+approved sites.
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 36 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                              35
+
+
+Nevertheless, for the sake of completeness, a discussion of each of the criteria is included below.
+   •   The sites are available. There are no known title issues or encumbrances which preclude
+       development. To the contrary, the site is in a non-condemnation area in need of
+       redevelopment, a characteristic which would promote development.
+   •   The site is suitable. It is in the Town’s downtown core and near a variety of residential and
+       commercial uses. It has good access to transit and is steps from the Train Station.
+   •   The site is developable. It has access to infrastructure necessary to support development.
+   •   The site is approvable. It has existing zoning in place to support development and is
+       located within a built-out center.
+Conclusion
+Based on the analysis above, the Town may appropriately claim 27 credits towards its prospective
+need from the Division Street Redevelopment Plan Apartments, including 9 bonus credits.
+The Riverview Apartments (Boonton Housing Authority):
+Overview
+The Riverview Apartments (“Riverview”) is a 60 unit 100% affordable housing complex owned
+and operated by the Boonton Housing Authority (“BHA” or “Housing Authority”). Riverview is
+comprised of 7 studio apartments, 21 one-bedroom apartments, 18 two-bedroom apartments, 12
+three-bedroom apartments, and 4 four-bedroom apartments. All apartments are family rental
+units.
+The Town of Boonton has a long history of supporting the creation, administration, and
+improvements of the Riverview Apartments. This history dates to the earliest days of the BHA,
+which was established by municipal resolution and ordinance passed by the Mayor and Council
+of the Town of Boonton in 1961. In 1962, the Mayor and Board of Aldermen of the Town conveyed
+property along Plane Street to the Housing Authority for the nominal fee of one thousand dollars.
+This land comprises a portion of the current Riverview Apartments. The municipality’s support
+of the BHA generally, and the Riverview Apartments specifically, has continued to the present
+day. As recently as March 2025, the Town passed a resolution authorizing $211,220 for drainage
+improvements at and around the Riverview Apartments for the purposes of maintaining the
+continued viability of this project. Documentation demonstrating municipal support for the
+Riverview Apartments is included as Appendix I.
+Since the construction of the Riverview Apartments, BHA’s agreements with the Department of
+Housing and Urban Development (“HUD”) have required that the units be occupied by low-
+income, very low-income or extremely low-income families as those terms are defined under 42
+U.S.C. §1437a(b)(2)(A), (B), and (C). In recent years the BHA participated in HUD’s Streamlined
+Voluntary Conversion Process. As part of this process, the apartments within Riverview were
+converted from public housing units to Section 8 or Housing Choice Voucher (“HCV”) units.
+HCV units are subject to income restrictions that limit tenancy to individuals with incomes at or
+            MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 37 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                      36
+
+
+     below 50% AMI. This income limitation is consistent with the definitions of low income housing
+     as defined under the New Jersey Fair Housing Act.
+     The units at Riverview also provide opportunities for very low-income families, as defined under
+     the Amended Law. The Amended Law defines very low-income families as those with incomes
+     at or below 30% of the area median income. Under HUD standards, families with incomes at or
+     below 30% of the area median income are classified as extremely low-income families. These
+     standards are substantially the same. In 2022, the BHA compiled a report entitled FSS Action Plan
+     for the Family Self-Sufficiency Program. This report included a survey of the families currently
+     residing at the Riverview Apartments. Of the 46 participants in this demographic survey, 32 of
+     the families were identified as extremely low-income. This equates to nearly one-third of
+     Boonton’s Fourth Round prospective need and demonstrates that the Riverview Apartments
+     provides housing opportunities for very low-income families as defined by the Amended Law.11
+     Documentation regarding the affordability of the Riverview Apartments, including the original
+     Declarations of Trust, and current Section 8 Project-Based Voucher Program Housing Assistance
+     Payments Contract and evidence of current income limits are included as Appendix J.
+     Under NJSA 52:27D-311k, “a municipality shall be able to receive one credit against its affordable
+     housing obligation for each unit of low-or moderate income housing.” Significantly, the Town
+     of Boonton has never received a credit against its affordable housing obligation for the 60 units
+     within the Riverview Apartments during any prior affordable housing rounds. Consequently,
+     the Town is applying the 60 units in the Riverview Apartments to its Fourth Round Prospective
+     Need.
+     Applicability of Bonus Credits
+     As reflected in the map below, the Riverview Apartments are within 0.5 miles of the Boonton
+     Train Station. As a result, the Riverview Apartments are eligible for 0.5 bonus credits per unit
+     based on their proximity to the Boonton Train Station. This brings the maximum number of
+     potential credits to 90. Because the maximum bonus credits shall not exceed 25% of prospective
+     need and the Town is already claiming bonus credits for the Division Street Redevelopment Plan,
+     only 15 credits are being claimed, bringing the total number of credits claimed for the Riverview
+     to 75.
+
+
+
+
+11
+ Boonton Housing Authority. FSS Action Plan for the Family Self-Sufficiency Program. July 1, 2022. Page 1-7.
+<https://boontonhousing.org/wp-content/uploads/2022/10/Boonton-Housing-Authority-FSS-ACTION-PLAN-
+2022.pdf>
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 38 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                37
+
+
+
+
+       0.5 Mile Radius Around Boonton Train Station, with Prospective Need Sites Shown in Red
+Suitability Analysis
+The map below shows the detailed analysis of the area relative to the most up to date
+environmental constraints. Environmental constraints identified on the site are limited to a small
+area containing steep slopes. Significantly, the building has already been constructed on site.
+Continued operation of the property for affordable housing will not necessitate additional
+disruption of steep slopes.
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 39 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                             38
+
+
+
+
+                       Riverview Apartments with Environmental Constraints
+The Riverview Apartments can appropriately be considered available, suitable, developable, and
+approvable. As noted, the site already includes housing for low and moderate income families.
+In including these sites in its Fourth Round HEFSP, the Town is simply claiming credit for units
+for which it has not previously received credit.
+Nevertheless, for the sake of completeness, a discussion of each of the criteria is included below.
+   •   The site is available. There are no known title issues or encumbrances which preclude
+       development. To the contrary, the site is already operated by the BHA for low and
+       moderate income housing.
+   •   The site is suitable. It is located in the Town’s downtown core and near a variety of
+       residential and commercial uses. It has good access to transit and is steps from the Train
+       Station.
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 40 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                            39
+
+
+   •   The site is developable. It has access to infrastructure necessary to support development.
+   •   The site is approvable. It already includes housing for low and moderate income families
+       and does not require additional approvals.
+Conclusion
+Based on the analysis above, the Town may appropriately claim 79 credits towards its prospective
+need from the Riverview Apartments, inclusive of 19 bonus credits.
+Chestnut Street Cottages (Boonton Housing Authority)
+Overview
+The Chestnut Street Cottages (the “Cottages”) are a 14 unit complex owned and operated by the
+Boonton Housing Authority. The Cottages are comprised of fourteen one-bedroom rental units.
+Since the construction of the Cottages, BHA’s agreements with the Department of Housing and
+Urban Development (“HUD”) have required that the units be occupied by low-income, very low-
+income or extremely low-income families as those terms are defined under 42 U.S.C.
+§1437a(b)(2)(A), (B), and (C). In recent years the BHA participated in HUD’s Streamlined
+Voluntary Conversion Process. As part of this process, the apartments within the Cottages were
+converted from public housing units to Section 8 or Housing Choice Voucher (“HCV”) units.
+HCV units are subject to income restrictions that limit tenancy to individuals with incomes at or
+below 50% AMI. This income limitation is consistent with the definitions of low income housing
+as defined under the New Jersey Fair Housing Act.
+Documentation regarding the affordability of the Cottages, including the original Declarations
+of Trust, and current Section 8 Project-Based Voucher Program Housing Assistance Payments
+Contract and evidence of current income limits are included as Appendix J.
+Under NJSA 52:27D-311k, “a municipality shall be able to receive one credit against its affordable
+housing obligation for each unit of low-or moderate income housing.” Significantly, the Town
+of Boonton has never received a credit against its affordable housing obligation for the 14 units
+within the Cottages during any prior affordable housing rounds. As such, the Town is applying
+the 14 units in the Chestnut Street Cottages to its Fourth Round Prospective Need.
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 41 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                             40
+
+
+Applicability of Bonus Credits
+The Town of Boonton has a long history of supporting the creation, administration, and
+improvements of the Chestnut Street Cottages. This history dates to the earliest days of the BHA,
+which was established by municipal resolution passed by the Mayor and Council of the Town of
+Boonton in 1961. In recent years, and of more relevance, the Town has contributed funding from
+its Affordable Housing Trust Fund to finance improvements to the Cottages. Specifically, in 2011
+the Town authorized $192,000 from its Affordable Housing Trust Fund to repair, renovate, and
+rehabilitate the Cottages. Subsequently, the Town authorized $42,900 to fund the replacement
+of windows and doors. Documentation demonstrating municipal support for the Chestnut
+Street Cottages is included as Appendix K.
+The Town’s support of the BHA impacts how the project counts towards Boonton’s Fourth
+obligation. As noted, under the Law municipalities “may receive one bonus credit for each unit
+of low-or moderate income housing in a 100 percent affordable housing project for which the
+municipality contributes toward the cost of the project. This contribution may consist of: (A) real
+property donations that enable siting and construction of the project; or (b) contributions from
+the municipal affordable housing trust fund in support of the project, if the contributions is no
+less than three percent of the project cost.” To satisfy the three percent requirement using a
+$234,900 contribution, the total project cost would need to be less than $7,830,000, or roughly
+$559,000 per unit. While the total project cost of the Chestnut Street Cottages is not known, it is
+reasonable to assume that the total project cost is less than $559,000 per unit. This claim is
+supported by the current assessed value of the property which is $1,114,400. Consequently, the
+Town can appropriately claim this bonus credit.
+Despite the eligibility for this credit, however, the bonus is not being claimed in this HEFSP
+because the Town has already hit the 25% limit for bonus credits because of bonuses claimed for
+Division Street and the Riverview Apartments. Should this HEFSP be revised, resubmitted, or
+otherwise modified, the Town may elect to claim these bonus credits at a later date.
+Suitability Analysis
+The map below shows the detailed analysis of the area relative to the most up to date
+environmental constraints. The site is not environmentally constrained.
+       MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 42 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                             41
+
+
+
+
+                      Chestnut Street Cottages with Environmental Constraints
+The Cottages can appropriately be considered available, suitable, developable, and approvable.
+As noted, the site already includes housing for low and moderate income individuals. In
+including these sites in its Fourth Round HEFSP, the Town is simply claiming credit for units for
+which it has not previously received credit.
+Nevertheless, for the sake of completeness, a discussion of each of the criteria is included below.
+   •   The site is available. There are no known title issues or encumbrances which preclude
+       development. To the contrary, the site is already operated by the BHA for low and
+       moderate income housing.
+   •   The site is suitable. It is located near the Town’s downtown core and near a variety of
+       residential and commercial uses. It has good access to transit.
+   •   The site is developable. It has access to infrastructure necessary to support development.
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 43 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                     42
+
+
+   •    The site is approvable. It already includes housing for low and moderate income
+        individuals and does not require additional approvals.
+Conclusion
+Based on the analysis above, the Town may appropriately claim 14 credits towards its prospective
+need from the Chestnut Street Cottages.
+E. Applicability of Vacant Land Adjustment
+As demonstrated above, the Town does not anticipate needing to rezone any properties to meet
+its prospective need obligation. This obligation will be met through projects that are already
+existing or already appropriately zoned.
+Notwithstanding this approach, the Town reserves its right to seek a vacant land adjustment
+(“VLA”) and an adjustment of its Fourth Round obligation to reflect the available and
+developable land area within its municipal boundaries in the event this Housing Element needs
+to be revised, resubmitted, or otherwise modified. As can be seen in Appendix B, Boonton does
+not have sufficient vacant land to address its prospective need obligation. It is the conclusion of
+this analysis that the Realistic Development Potential (“RDP”), given the capacity for
+inclusionary development in Boonton is 13.
+F. Land Most Appropriate for Affordable Housing and Sites Considered for
+   Development
+The analysis in this section shall satisfy Part F of P.L.1985, c.222 (C.52:27D-310), which requires:
+    §   F) “A consideration of the lands that are most appropriate for construction of low- and moderate-
+        income housing and of the existing structures most appropriate for conversion to, or rehabilitation
+        for, low- and moderate-income housing, including a consideration of lands of developers who have
+        expressed a commitment to provide low- and moderate-income housing”
+As part of this Fair Share Plan, the Town has considered land that is appropriate for the
+construction of low- and moderate-income housing. As noted above, the Town can satisfy its
+prospective need through projects which have already been built and zoning which is already
+in place. The Town believes that the approach set forth in this document represents the best
+approach to satisfying the requirements of the Amended Law. While the Town acknowledges
+that developers may express interest in proposing projects that include low or moderate income
+housing, the Town’s position is that no additional projects are required to satisfy Boonton’s
+prospective or present need.
+Notwithstanding this position, the sites discussed in the Town’s Fair Share Plan are not the only
+areas in Town where low and moderate income housing is permitted to be built. Most notably,
+in August 2024 the Town amended its zoning ordinance to permit residential uses in the B-1
+district. This district, which covers roughly 8 acres, encompasses much of downtown Boonton
+including nearly the entirety of Boonton’s Main Street. The Town elected to permit multi-family
+inclusionary development in this location in accordance both with corresponding
+            MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 44 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                                 43
+
+
+     recommendations in its 2018 Master Plan and best practices for smart growth. In conjunction
+     with the Town’s mandatory set-aside ordinance, this zoning action created the opportunity for
+     new housing, both affordable and market-rate, beyond what is cited in this HEFSP as being
+     relevant to Boonton’s prospective need. This action, while grounded in recommendations and
+     vision set forth by the municipality’s Master Plan, is also consistent with the findings set forth
+     in the Law, namely that: “comprehensive planning in alignment with smart growth principles,
+     and the State Development and Redevelopment Plan” is critical to meeting the housing needs
+     of the State.
+     As this plan was being prepared, the Town received correspondence from the owner of the
+     property located at 920 Main Street, requesting that their property be rezoned to permit a 16-
+     unit mixed-use building. The Town rejected this proposal as it would have required the use of
+     land that is on the Town’s Recreation and Open Space Inventory. The site is already located in
+     a district that permits multi-family development.
+
+
+     G. Mandatory Obligation Subsets
+     Below is a table outlining additional obligation requirement thresholds. The compliance plan
+     set forth herein is in accordance with these requirements.
+                                                                                                  # REQUIRED
+                      MANDATORY OBLIGATIONS                                    CITATION           OF ACTUAL
+                                                                                                    UNITS12
+       Very Low-Income Units (13% Minimum)
+       Shall count towards the minimum 50 percent of the housing
+       units required to be made available for occupancy by low-              52:27D-329.1              10
+       income households to address a municipality's prospective
+       need obligation.
+       Family VLI Units
+                                                                              52:27D-329.1               5
+       (50% Minimum of VLI Units)
+       Low-Income Units (50% Minimum)
+       Conversely, the maximum of Moderate-Income Units shall                 52:27D-329.1              38
+       not exceed 50%.
+       Family Units (50% Minimum)                                             52:27D-311.l              38
+       Rental Units (25% Minimum)                                             52:27D-311.l              19
+       Family Rental Units (50% Minimum of Rental Units)                     52:27D-311.k.5             10
+
+
+
+12
+ Except where otherwise noted, actual units do not count bonus credits. In other words, actual units are the Prospective
+Need Credits of 99 minus bonus credits of 24 = 75 units. Maximum bonus credits shall not exceed 25% of Prospective
+Need per 52:27D-311.k.
+    MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 45 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                 44
+
+
+Age-restricted units (30% Maximum)                     52:27D-302.q         23
+
+Transitional Housing (10% Maximum of Total Credits)    52:27D-311.e         10
+
+Age-Restricted Housing Bonus Credit (10% Maximum)     52:27D-311.k.4        10
+          MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 46 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                            45
+
+
+
+IV. Appendices
+  A. Town Resolution Recommending Prospective Need and Present Need
+  B. Vacant Land Adjustment
+  Mandatory Requirements:
+  C. Division Street Redevelopment Plan (Excerpt)
+  D. Affordable Housing Ordinance and Development Fee Ordinance
+          a. The Town’s existing ordinance is attached and will remain in full force and effect
+             during the Fourth Round. The Town will make all necessary modifications to this
+             ordinance to comply with any forthcoming Fourth Round requirements as updated
+             regulations and rules are released.
+  E. Affirmative Marketing Plan
+          a. The Town’s existing Affirmative Marketing Plan is attached and will remain in full
+             force and effect during the Fourth Round. The Town will make all necessary
+             modifications to this ordinance to comply with any forthcoming Fourth Round
+             requirements as updated regulations and rules are released.
+  F. Spending Plan
+  G. Copies of resolutions appointing Administrative Agent(s) and ordinance creating the position
+     of and appointing the Municipal Affordable Housing Liaison
+          a. The resolution appointing the Municipal Affordable Housing Liaison is attached. The
+             Town appointed an Administrative Agent in March 2020. The Town is in the process
+             of appointing a new Administrative Agent.
+  H. Resolution of intent to fund cost of municipality’s rehabilitation program
+  I.   Evidence of Town support for Riverview Apartments
+  J.   Evidence of affordability of Chestnut Street Cottages and Riverview Apartments
+  K. Evidence of Town support for Chestnut Street Cottages
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 47 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                     46
+
+
+Appendix A – Town Resolution Recommending Prospective Need and Present Need
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 48 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                     47
+
+
+Appendix B – Vacant Land Adjustment
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 49 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                     48
+
+
+Appendix C – Division Street Redevelopment Plan (Excerpt)
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 50 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                     49
+
+
+Appendix D – Affordable Housing Ordinance and Development Fee Ordinance
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 51 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                     50
+
+
+Appendix E – Affirmative Marketing Plan
+           MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 52 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                        51
+
+
+Appendix F – Spending Plan
+Introduction
+Pursuant to N.J.A.C. 5:99, a Spending Plan means “a method of allocating funds contained in an affordable
+housing trust fund account, which includes, but is not limited to, development fees collected and to be
+collected pursuant to an approved municipal development fee ordinance, or pursuant to N.J.S.A. 52:27D-
+329.1 et seq., for the purpose of meeting the housing needs of low- and moderate-income individuals.”
+All residential and non-residential development fees, payment in lieu of constructing affordable units,
+barrier-free escrow funds, recapture funds, proceeds from the sale of affordable units, rental income,
+repayments from affordable housing program loans, enforcement fines, unexpended RCA funds remaining
+from a completed RCA project, application fees, and any other funds collected by the municipality in
+connection with its affordable housing programs are deposited into this interest-bearing Affordable Housing
+Trust Fund (AHTF). These funds shall be spent in accordance with N.J.A.C. 5:99 or applicable regulations.
+Article I “Affordable Housing Development Fees” of the Code of the Town of Boonton, New Jersey was
+established by Ord. No. 30-1994 and amended by Ord. No. 16-2018 (August 20, 2018). The purpose of this
+Spending Plan is to direct revenue generated from this source in a manner that addresses the Town’s regional
+fair share of the affordable housing need in accordance with the Municipal Land Use Law (N.J.S.A. 40:55D-1
+et seq.), the Fair Housing Act (N.J.S.A. 52:27D-301) and the DCA’s draft proposed regulations governing
+affordable housing trust fund entitled Proposed New Rules: N.J.A.C. 5:99, which were available at the time of
+drafting this report but are currently proceeding through the formal administrative agency rule making
+process.
+
+
+Authorization of Affordable Housing Trust Fund
+A municipality shall not spend, or commit to spend, any affordable housing trust funds, including Statewide
+non-residential fees collected and deposited into the municipal affordable housing trust fund, without first
+obtaining the approval of the expenditure as part of its compliance certification or by the Division pursuant
+to N.J.S.A. 52:27D-329.2.a(4). A municipality within the jurisdiction of the Program or a court of competent
+jurisdiction shall not spend affordable housing trust funds unless the Program has approved a plan for
+spending such funds in accordance with N.J.S.A. 52:27D-329.2.a(4) or the Division has approved spending
+plan expenditures for emergent opportunities to create affordable housing after a municipality has obtained
+compliance certification in conformance with N.J.A.C. 5:99-4.
+
+
+Account Requirements and Use of Funds (5:99-2.2 to 2.8)
+Account Requirements
+
+(a) All affordable housing trust funds shall be deposited in a separate, interest-bearing account. In
+establishing the account, the municipality shall provide written authorization, in the form of a three-party
+escrow agreement between the municipality, the bank or other financial institution, and the Division, to
+permit the Division to direct the disbursement of the funds, as provided for at N.J.A.C. 5:99-5.6, shall be
+maintained at all times. This authorization shall be submitted to the Division within 21 days from the opening
+           MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 53 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                           52
+
+
+of the trust fund account and/or within 21 days of any change in banks or other financial institutions in which
+trust funds are deposited.
+
+(b) With the approval of the Department's Division of Local Government Services, the municipality may
+invest its affordable housing trust fund in the State of New Jersey cash management fund, provided that the
+amount of money in the cash management fund that comprises the funds and income attributable to such
+funds shall at all times be identifiable.
+
+(c) All interest accrued in the affordable housing trust fund shall only be used on eligible affordable housing
+activities included in an approved spending plan or an emergent opportunity authorized by the Division.
+
+(d) A municipality within the jurisdiction of the Program or a court of competent jurisdiction shall not spend
+affordable housing trust funds unless the Program or a court of competent jurisdiction has approved a plan
+for spending such funds in accordance with N.J.S.A. 52:27D-329.2.a(4) or the Division has approved spending
+plan expenditures for emergent opportunities to create affordable housing after a municipality has obtained
+compliance certification in conformance with N.J.A.C. 5:99-4.1.
+
+(e) Any municipality with an affordable housing trust fund account shall be subject to N.J.A.C. 5:99-4.
+
+(f) Municipal affordable housing trust funds shall not be expended:
+
+       1. To reimburse the municipality for activities that occurred prior to the authorization of a municipality
+       to collect development fees;
+
+       2. On attorney fees or court costs to obtain a judgment of compliance or order of repose, including any
+       associated administration costs;
+
+       3. On any costs in connection with a challenge to a determination of the municipality's fair share
+       obligation; or
+
+       4. On any costs in connection with a challenge to the municipality's obligation, housing element, or
+       fair share plan.
+
+(g) In addition to the restrictions at (f) above, no more than 20 percent of all affordable housing trust funds,
+exclusive of those collected prior to July 17, 2008, to fund an RCA, may be expended on administration, in
+accordance with N.J.A.C. 5:99-2.4.
+
+(h) A municipality shall set aside a portion of its affordable housing trust fund for the purpose of providing
+affordability assistance to low- and moderate-income households in affordable units included in a municipal
+fair share plan, in accordance with N.J.A.C. 5:99-2.5.
+
+(i) Compliant municipalities, Qualified Urban Aid Municipalities, or municipalities that have previously
+collected such funds while under the protection of presumptive validity of their affordable housing plan or
+immunity from exclusionary zoning litigation and in accordance with an approved spending plan are
+           MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 54 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                          53
+
+
+authorized to commit or expend affordable housing trust funds in accordance with this chapter, UHAC, and
+the Act.
+
+(j) A non-compliant Qualified Urban Aid Municipality meeting the criteria set forth in paragraph (1) of
+subsection c. of section 7 at P.L. 2024, c. 2, which has been authorized to collect residential development fees
+pursuant to N.J.A.C. 5:99-3.5(b), may not spend, or commit to spend, any affordable housing development
+fees, without first obtaining the Division's approval of the expenditure by submitting a spending plan for
+current funds in the municipal affordable housing trust fund and projected funds through the current round.
+The Division shall review the spending plan for consistency with N.J.A.C. 5:99-2 and shall notify the
+municipality upon the approval of the spending plan.
+
+Use of Funds for Housing Activity
+(a) A municipality may use affordable housing trust funds for any housing activity as itemized in the spending
+plan and approved by the Program or as approved by the Division as an emergent opportunity to create
+affordable housing. Such activities include, but are not limited to:
+
+       1. A rehabilitation program whose purpose is to renovate deficient housing units that are occupied by
+       low- and moderate-income households, in accordance with the New Jersey State Housing Code,
+       N.J.A.C. 5:28, or the requirements of the Rehabilitation Subcode, N.J.A.C. 5:23-6, as applicable. Any
+       recaptured funds from a rehabilitation program shall be deposited into a municipality's affordable
+       housing trust fund and subject to the provisions thereof;
+
+       2. New construction of affordable housing units and related development costs; in the case of
+       inclusionary developments, eligible costs shall be prorated based on the proportion of affordable
+       housing units included in the development;
+
+       3. Creation of a market to affordable program to pay down the cost of unrestricted units and offer
+       them in sound condition, for sale or rent, at affordable prices to low- and moderate-income
+       households to address all or a portion of the affordable housing obligation;
+
+       4. Extensions or improvements of roads and infrastructure directly serving affordable housing
+       development sites; in the case of inclusionary developments, costs shall be prorated based on the
+       proportion of affordable housing units included in the development;
+
+       5. RCAs, approved prior to July 17, 2008;
+
+       6. Acquisition and/or improvement of land to be used for affordable housing;
+
+       7. Accessory dwelling units;
+
+       8. The extension of expiring controls;
+
+       9. The construction of group homes and supportive and special needs housing;
+           MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 55 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                           54
+
+
+       10. Maintenance and repair of affordable housing units;
+
+       11. To defray the costs of structured parking; in the case of inclusionary developments, eligible costs
+       shall be prorated based on the proportion of affordable housing units included in the development;
+
+       12. Affordability assistance in accordance with N.J.A.C. 5:99-2.5;
+
+       13. Repayment of municipal bonds issued to finance low- and moderate-income housing activity;
+
+       14. Any other activity as specified in the approved spending plan or as approved by the Division as an
+       emergent affordable housing opportunity; or
+
+       15. Any other activity approved by the Division.
+
+Use of Funds for Administrative Expenses
+
+(a) No more than 20 percent of all affordable housing trust funds, exclusive of those collected prior to July 17,
+2008, to fund an RCA, shall be expended on administration.
+
+(b) Administrative expenses may include costs reasonably related to the determination of the fair share
+obligation and the development of a municipal housing element and fair share plan and may include fees
+necessary to develop or implement affordable housing programs, an affirmative marketing program, and/or
+expenses that are reasonably necessary for compliance with the processes of the Program, including, but not
+limited to, the costs to the municipality of resolving a challenge pursuant to the Program.
+
+(c) Administrative expenses may also include costs associated with functions carried out in compliance with
+UHAC, including activities related to the marketing program and waitlist management, administering the
+placement of occupants in housing units, income qualification of households, monitoring the turnover of sale
+and rental units, preserving existing affordable housing, and compliance with the Division's monitoring
+requirements.
+
+(d) The proportion of a municipal employee's salary related to the MHL or RCA administrator functions and
+fees for required educational programs, may be paid as an administrative expense from the municipal
+affordable housing trust fund.
+
+Use of Funds for Affordability Assistance
+
+(a) A municipality shall set aside a portion of all development fees collected and interest earned for the
+purpose of providing affordability assistance to low- and moderate-income households in affordable units
+included in the municipality's fair share plan.
+
+       1. Affordability assistance for very-low-income households may include offering a subsidy to
+       developers of inclusionary or 100 percent affordable housing developments or buying down the cost
+           MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 56 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                          55
+
+
+       of low- or moderate-income units in a municipal fair share plan to make them affordable to very low-
+       income households, including special needs and supportive housing opportunities.
+
+(b) A municipality may contract with a private or public entity to administer any part of its housing element
+and fair share plan, including the requirement for affordability assistance, or any program or activity for
+which the municipality expends development fee proceeds.
+
+Barrier-Free Escrow
+
+An affordable housing trust fund may include fees collected to adapt affordable unit entrances to be
+accessible in accordance with the Act and the Barrier Free Subcode, N.J.A.C. 5:23-7. The municipality shall
+set forth the mechanism by which it will collect and distribute funds intended to convert adaptable entrances
+in compliance with the technical design standards of the Barrier Free Subcode at N.J.A.C. 5:23-7. Funds
+collected for this purpose shall at all times be identifiable from other funds. A municipality that collects, or
+anticipates collecting, funds to adapt affordable unit entrances shall identify the funds on its monitoring
+report pursuant to N.J.A.C. 5:99-5.
+
+Payments in Lieu of Constructing Affordable Units On-Site
+
+(a) Payments in lieu of constructing affordable units shall not be imposed on any non-residential
+development.
+
+(b) A municipality that chooses to collect or anticipates collecting payments in lieu of constructing affordable
+units shall identify the funds on its monitoring report pursuant to N.J.A.C. 5:99-5.2 and include a plan for the
+use of the funds in its spending plan.
+
+(c) Payment-in-lieu fees shall be deposited into the municipality's affordable housing trust fund, but shall be
+accounted for separately from any other fees collected by a municipality. Whenever a payment-in-lieu fee is
+assessed by a municipality pursuant to this section, a development fee authorized pursuant to N.J.S.A.
+52:27D-329.2 shall not be charged in connection with the same development.
+
+Other Funds
+
+(a) An affordable housing trust fund may also contain recaptured funds, proceeds from the sale of affordable
+units, rental income, repayments from affordable housing program loans, enforcement fines and application
+fees, and any other funds collected by the municipality in connection with its affordable housing programs.
+A municipality that collects, or anticipates collecting, such fees shall identify the funds on its monitoring
+report pursuant to N.J.A.C. 5:99-5 and include a plan for the use of the funds in its spending plan.
+
+(b) An affordable housing trust fund shall also contain any excess RCA funds, where the RCA has been
+completed in accordance with the RCA project plan.
+             MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 57 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                          56
+
+
+(c) A municipality that is not a compliant municipality may not retain excess RCA funds and shall transfer
+any such funds to the New Jersey Affordable Housing Trust fund established pursuant to N.J.S.A. 52:27D-
+320.
+
+Boonton Spending Plan
+
+Revenues + Expenditures for Certification Period
+Boonton has considered the following AHTF revenue sources between the period of 2025-2035:
+     §   Development fees: Boonton analyzed recent development activity to calculate projected annual
+         revenue for the Affordable Housing Trust Fund. Based on this, the Town estimates annual revenue
+         of $7,500 for the years of 2025 to 2035.
+     §   Payment in lieu of constructing affordable units are not anticipated
+     §   Barrier-free escrow funds are not anticipated.
+     §   Funds from other sources such as the sale of units with extinguished controls, repayment of affordable
+         housing program loans, rental income, or proceeds from the sale of affordable units are not
+         anticipated.13
+
+Based on existing funds and anticipated revenue as described above, the municipality estimates the AHTF’s
+funds to amount to a revenue of $75,000. Boonton intends to use affordable housing trust fund revenues in
+accordance with 5:99-2.2 to 2.8, as follows:
+
+
+
+
+13
+  There is pending litigation which may result in payment to the Affordable Housing Trust Fund. As the matter is
+pending, it is not accounted for in the Spending Plan.
+             MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 58 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                                                             57
+
+
+
+
+Revenues
+Current cash on hand as of December 2024                                                                              $146,086.45
+Projected developer fee revenue
+                                                                                                               +          $75,000
+(Average annual developer fees x 10 years)
+Projected payment in lieu of constructing affordable units                                                     +              $0
+Projected barrier-free escrow funds                                                                            +              $0
+Projected recapture funds, sale of affordable units, rental income, repayments from affordable housing
+program loans, enforcement fines, unexpended RCA funds remaining from a completed RCA project,
+                                                                                                               +              $0
+application fees, or any other funds collected by the municipality in connection with its affordable housing
+programs
+Projected Interest
+                                                                                                               +          $10,000
+(Average annual interest of $1,000 x 10 years)
+Projected Revenues                                                                                             =      $231,086.45
+Expenditures
+Rehabilitation program whose purpose is to renovate deficient housing units that are occupied by low-
+                                                                                                               -   Up to $230,000
+and moderate-income households
+                                                                                                                       Not more
+Total Administration (Max 20%)                                                                                 -     than 20% of
+                                                                                                                       total fund
+                                                                                                                    As allowable
+Affordability Assistance OR new construction of affordable housing units and related development costs         -        based on
+                                                                                                                         revenue
+
+Excess or Shortfall of Funds
+The governing body reserves the right to revise projections and anticipated funding commitments based upon
+actual revenues to the Affordable Housing Trust Fund and any revisions to the Housing Element and Fair
+Share Plan.
+In the event that a shortfall of anticipated revenues occurs, the municipality will revise its Spending Plan
+accordingly.
+In the event of excess funds, any remaining funds above the amount necessary to satisfy the municipal
+affordable housing obligation will be used toward low- and moderate-income housing in accordance with
+5:99-2.2 to 2.8 and the Spending Plan will be revised accordingly.
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 59 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                     58
+
+
+Appendix G – Copies of resolutions appointing Administrative Agent(s) and resolution
+appointing the Municipal Affordable Housing Liaison
+         MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 60 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                      59
+
+
+Appendix H – Resolution of intent to fund cost of municipality’s municipally sponsored
+affordable housing development as well as its rehabilitation program
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 61 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                     60
+
+
+Appendix I – Evidence of Town support for Riverview Apartments
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 62 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                     61
+
+
+Appendix J – Evidence of affordability of Chestnut Street Cottages and Riverview
+Apartments
+        MRS-L-000203-25 05/16/2025 6:14:05 PM Pg 63 of 63 Trans ID: LCV20251423423
+
+
+
+
+                                                                                     62
+
+
+Appendix K – Evidence of Town support for Chestnut Street Cottages
+

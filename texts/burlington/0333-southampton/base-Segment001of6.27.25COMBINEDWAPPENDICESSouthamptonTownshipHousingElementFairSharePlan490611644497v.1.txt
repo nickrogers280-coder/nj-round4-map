@@ -1,0 +1,2353 @@
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 1 of 40 Trans ID: LCV20251889326
+
+
+
+
+                   2025 HOUSING ELEMENT and FAIR SHARE PLAN
+                          TOWNSHIP OF SOUTHAMPTON
+
+
+                            SOUTHAMPTON TOWNSHIP
+                        BURLINGTON COUNTY, NEW JERSEY
+
+
+
+
+                                   Prepared By:
+                          Environmental Resolutions, Inc.
+                           815 East Gate Drive, Suite 103
+                          Mount Laurel, New Jersey 08054
+                                  (856) 235-7170
+
+                                   Prepared For:
+                              Southampton Township
+                                  5 Retreat Road
+                              Southampton, NJ 08088
+
+
+
+
+                                         ___________________________________________
+                                                           Rakesh R. Darji, PP, PE, CME, CFM
+                                                              NJ Professional Planner #5906
+Adopted June 27, 2025
+Revised June 27, 2025
+#70500 00                               with support from Patrick VanBernum, AICP, Assistant Planner
+                                        & Ibrahim Faye, Planning Intern
+
+
+                                        The original document was appropriately signed and
+                                        sealed in accordance with Chapter 41 of Title 13 of the
+                                        State Board of Professional Planners.
+      BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 2 of 40 Trans ID: LCV20251889326
+                                                                              Environmental Resolutions, Inc
+June 27, 2025                                                                             Project 70500 00
+
+
+
+
+                                      ACKNOWLEDGMENTS
+
+
+                                       Township Committee
+                                      Ronald Heston, Mayor
+                                 Elizabeth Rossell, Deputy Mayor
+                                          Arnold Harrison
+                                          William Raftery
+                                        James F. Young, Sr.
+
+
+                        Southampton Township Land Development Board
+                               Philip Magazzo, Chair – Class IV
+                             Edward Keebler, Vice Chair – Class IV
+                                Ronald Heston, Class I – Mayor
+                                    Ryan Hagerthey, Class II
+                                    William Raftery, Class III
+                                  Patricia Conover, Class IV
+                                    David Coyle Jr., Class IV
+                                  Patrick Kavanagh, Class IV
+                                   Timothy Murphy, Class IV
+                                Anthony Mattio, Alternate #1
+                                 Michael Dehoff, Alternate #2
+                                Patrick Kennedy, Alternate #3
+
+                                Michele Gittenger, Board Secretary
+                               Peter Lange, Esquire, Board Solicitor
+                        Rakesh R. Darji, PE, PP, CME, CFM, Board Engineer
+                       ERI (c/o Patrick L. VanBernum), AICP, Board Planner
+
+
+                                  Southampton Township Staff
+                            Brandon Umba, Township Administrator
+                   George Morris, Esquire, Parker McCay, Township Solicitor
+                               Melanie L. Brown, Municipal Clerk
+             Michele Gittenger, Zoning Officer, Land Development Board Secretary
+     Denise Schmied, Technical Assistant to the Construction Official & Deputy Zoning Officer
+                                Tom Boyd, Construction Official
+        BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 3 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                                               Southampton Township HEFSP                                                                           June 27, 2025
+
+
+
+
+Table of Contents
+I.      INTRODUCTION .........................................................................................................................................................................3
+        Key Provisions of the Legislation: ............................................................................................................................................3
+        Southampton’s Affordable Housing History ..........................................................................................................................3
+          Prior Round (Rounds 1 & 2) Compliance ...........................................................................................................................3
+          Round 2 (1993-1999) Mechanism(s)....................................................................................................................................4
+          Round 3 Overview ................................................................................................................................................................5
+          Summary of Rounds 1-3........................................................................................................................................................6
+        Municipal Summary .................................................................................................................................................................7
+        Round 4 Affordable Housing Obligation ...............................................................................................................................7
+          Present Need.........................................................................................................................................................................7
+          Prospective Need .................................................................................................................................................................8
+          Vacant Land Analysis/Adjustment .....................................................................................................................................8
+          Availability of Sewer & Water ..............................................................................................................................................8
+          Available Compliance Options ..........................................................................................................................................8
+          Goal of Southampton Township .......................................................................................................................................12
+II.     CONTENT OF HOUSING ELEMENT..........................................................................................................................................13
+III.    SOUTHAMPTON’S POPULATION DEMOGRAPHICS ..............................................................................................................13
+         Age Distribution of the Population....................................................................................................................................13
+         Household Size and Type ...................................................................................................................................................14
+         Income and Poverty Status ...............................................................................................................................................15
+IV.     SOUTHAMPTON’S HOUSING DEMOGRAPHICS ....................................................................................................................16
+         Housing Type .......................................................................................................................................................................16
+         Occupancy Status..............................................................................................................................................................17
+         Value and Rent of Housing Stock .....................................................................................................................................17
+         Housing Condition ..............................................................................................................................................................19
+         Historical Population Counts..............................................................................................................................................20
+        Population Projection 2020 - 2050 ........................................................................................................................................21
+V.      SOUTHAMPTON’S EMPLOYMENT DEMOGRAPHICS.............................................................................................................21
+          Class of Worker....................................................................................................................................................................21
+        Occupational Characteristics ..............................................................................................................................................22
+          Employed Civilian Population by Occupation (Age 16 Years or Older)......................................................................22
+          Population and Employment Projections ........................................................................................................................22
+          In-Place Employment by Industry .....................................................................................................................................22
+          Travel Time to Work.............................................................................................................................................................23
+VI.     Ethno-racial makeup of Southampton in comparison to Burlington County and the state of New Jersey ...............24
+        Potential Implications of Socioeconomic Imbalances In Southampton.........................................................................24
+        Racial Demographics of Southampton ..............................................................................................................................25
+VII.    PROJECTION OF HOUSING STOCK .......................................................................................................................................25
+        Projection of Affordable Residential Development...........................................................................................................27
+VIII.   DETERMINATION OF ROUND 4 OBLIGATIONS ......................................................................................................................28
+         Present Need.......................................................................................................................................................................28
+         Prospective Need ...............................................................................................................................................................28
+IX.     CAPACITY FOR FAIR SHARE ...................................................................................................................................................29
+        Compliance Options .............................................................................................................................................................29
+          Present Need Compliance Options .................................................................................................................................29
+          Prospective Need Compliance ........................................................................................................................................30
+        Existing Group Homes ............................................................................................................................................................30
+        Land Capacity for Development.........................................................................................................................................31
+        Appropriate Locations for Affordable Housing ..................................................................................................................31
+          431 North Main Street – Formerly Known as “Stokes Cannery” .....................................................................................31
+        Satisfaction of the Fourth Round Prospective Need Obligation ......................................................................................33
+        Availability of Public Utilities ..................................................................................................................................................34
+        Potential Affordable Housing Developers...........................................................................................................................35
+        Anticipated Development Patterns.....................................................................................................................................35
+
+
+
+
+Page 1 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 4 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                  Southampton Township HEFSP                          June 27, 2025
+
+
+
+I.     INTRODUCTION
+According to the Fair Housing Act of 1985, a Housing Plan Element shall be designed to achieve
+the goal of access to affordable housing to meet present and prospective housing needs, with
+particular attention to low and moderate-income housing.
+This is the Township of Southampton’s Housing Element and Fair Share Plan (hereinafter “HEFSP”)
+for the period between 2025 and 2035. On March 19, 2024, Governor Phil Murphy signed significant
+affordable housing legislation through Bill A-4/S-50, aiming to streamline and enhance the state's
+approach to affordable housing obligations.
+
+Key Provisions of the Legislation:
+Establishment of a New Framework: The law introduces a streamlined process for determining and
+enforcing municipalities' affordable housing obligations under the New Jersey Supreme Court's
+Mount Laurel Doctrine and the State's Fair Housing Act. Starting in 2024, the Department of
+Community Affairs (DCA) will publish non-binding calculations of municipalities' current and
+prospective affordable housing needs, using a formula based on prior court decisions.
+Dispute Resolution Program: To expedite the resolution of disputes regarding municipalities'
+affordable housing obligations and plans, the legislation establishes a new Affordable Housing
+Dispute Resolution Program. This program aims to reduce litigation-related delays and provide
+more certainty for housing developers. The Township accepted the DCA figures and as a result,
+did not face a challenge requiring the Dispute Resolution Program.
+Abolishment of COAH: The Council on Affordable Housing (COAH), which had been defunct for
+over a decade, is formally abolished under this bill. The new process replaces the role previously
+played by COAH, streamlining compliance and seeks to reduce delays in the construction of new
+affordable housing.
+Incentives for Specific Housing Projects: The legislation includes provisions for "bonus credits,"
+allowing certain affordable housing units to be credited as 1.5 or 2 units. This system incentivizes
+the development of age-restricted housing, housing for individuals with special needs, and
+projects located near mass transit stations. The use of bonus credits is capped at 25% of a
+municipality's prospective need obligations.
+Transparency and Accountability: The law mandates increased transparency at each stage of
+the affordable housing process, including the adoption of initial housing plans, the availability and
+allocation of state housing trust funds, and the number of housing units built. This ensures that
+municipalities and developers can plan more effectively and that the public remains informed
+about affordable housing developments.
+New Jersey seeks to enhance the efficiency and fairness of affordable housing development by
+implementing these measures, offering clearer municipal guidance, minimizing legal disputes,
+and expanding housing availability statewide.
+On October 18, 2024, the Department of Community Affairs (‘DCA’) released “Affordable Housing
+Obligations for 2025-2035” as the recently enacted law required.
+
+
+
+Southampton’s Affordable Housing History
+Prior Round (Rounds 1 & 2) Compliance
+While still under the jurisdiction of COAH, Southampton historically had municipal participation in
+the First (1987-1993) and Second Rounds (1993-1999). The Township was certified as part of the First
+Round on March 13, 1989. As part of the Second Round, received certification on April 7, 2004.
+
+Page 2 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 5 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                  Southampton Township HEFSP                          June 27, 2025
+
+
+This certification was formalized as part of the Township’s 2002 Housing Element and Fair Share
+Plan, prepared August 2002.
+Round 2 (1993-1999) Mechanism(s)
+RR-1 Rural Residential Inclusionary Development Zoning
+In the 2002 Housing Plan, the RR-1 zoning district was identified as a key inclusionary housing area.
+The district encompassed approximately one hundred sixty-nine (169) acres, of which sixty-seven
+(67) acres were considered developable. At the time, the approved zoning allowed for residential
+development that, through a twenty (20) percent affordable housing set-aside, was projected to
+yield approximately eighty-one (81) low- and moderate-income units out of a total four hundred
+two (402) unit buildout.
+The RR-1 district is located in Planning Area 4, near the intersection of Route 206 and Route 38.
+Under N.J.A.C. 5:93-5.4(c), inclusionary development in Planning Areas 4 and 5 must generally be
+located within a designated center. However, in the 2002 Housing Plan, Southampton noted that
+the RR-1 inclusionary zone had received COAH certification and was granted a waiver from the
+center requirement. This waiver was permitted because the regulation was adopted after the
+Township’s 1989 Housing Element and Fair Share Plan had already been certified. As of 2002, the
+Township maintained the inclusionary zoning designation for RR-1 and requested that the waiver
+continue.
+Additionally, the 2002 Housing Plan acknowledged that under N.J.A.C. 5:93-5.3(b), sites
+designated for affordable housing must comply with Section 208 of the Clean Water Act. The RR-
+1 district had been subject to a durational adjustment during the first round of COAH certification.
+However, in its January 24, 2002 Remand Report, COAH made clear that this adjustment was no
+longer valid and would not be recommended moving forward. In response, the Township
+committed in the 2002 Housing Plan to seek an amendment to its Section 208 Wastewater
+Management Plan to include the RR-1 zoning district within the sewer service area.
+
+TC-1 Town Center Inclusionary Development Zoning
+In the 2002 Housing Plan, the TC-1 zoning district was identified as a potential location for
+affordable housing development. The district encompassed approximately 23 acres, of which 8
+acres were considered developable by COAH. It included two parcels: Block 903, Lot 21 (21.09
+acres, with about 7 acres developable), and Block 903, Lot 20 (2.21 acres, with roughly 1 acre
+developable).
+At the time, the area comprising the TC-1 zone had been designated a Center by the State
+Planning Commission. This designation recognized the area’s potential to accommodate growth
+adjacent to Vincentown in a way that aligned with Southampton’s Master Plan, Burlington
+County’s farmland preservation efforts, and the goals of the State Development and
+Redevelopment Plan.
+Lot 21, previously the site of an abandoned industrial facility, was the primary parcel identified in
+the 2002 Housing Plan for potential affordable housing. The site contained several vacant
+structures that would have required demolition. Lot 20, an active commercial site known as Allen’s
+Oil, was within the TC-1 district but was not considered part of the Township’s affordable housing
+strategy at that time.
+The zoning approved for Lot 21 in the 2002 Housing Plan included a maximum residential density
+of eight (8) dwelling units per acre, as well as a twenty (20) percent set-aside for affordable
+housing, resulting in a projected yield of eleven (11) low- and moderate-income units out of an
+RDP of 56 units. This density and set-aside reflected the Township’s strategy at the time to meet a
+portion of its affordable housing obligation.
+The 2002 Housing Plan also prioritized the need for infrastructure improvements in the TC-1 district
+– specifically sewer and water service – to support future development. Since 1998, Southampton
+Page 3 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 6 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                   Southampton Township HEFSP                           June 27, 2025
+
+
+Township had pursued amendments to its 208 Wastewater Management Plan. A major submission
+to NJDEP was made in January 2002, including environmental analyses related to non-point
+source pollution, riparian corridors, and water consumption. This effort was aimed at including TC-1
+in the Township’s sewer service area.
+Although the owner of Lot 21 did not formally oppose inclusionary zoning, they raised concerns
+about development feasibility due to demolition costs at the time. As outlined in the 2002 Housing
+Plan, the Township intended to pursue an agreement with a developer once a suitable
+opportunity became available.
+
+Rental Housing Obligation
+In the 2002 Housing Plan, Southampton Township identified the RR-1 zoning district as a location
+capable of addressing part of the Township’s rental obligation, in accordance with N.J.A.C. 5:93-
+5.15(c). To do so, the Township proposed zoning densities in the RR-1 district to support rental
+housing development.
+At the time, Southampton Township had an obligation to provide twenty-two (22) affordable
+housing units. To meet this requirement, the 2002 Housing Plan introduced a rental overlay zone
+on the RR-1 site. This overlay permitted residential development at a density of ten (10) units per
+acre, with a fifteen (15) percent set-aside designated for low- and moderate-income rental units.
+
+Write-down/Buy-down of Previously Owned Units
+In the 2002 Housing Plan, Southampton Township outlined its intent to participate in a write-
+down/buy-down program pursuant to N.J.A.C. 5:93-5.11. As part of this strategy, the Township
+planned to acquire and subsidize up to ten (10) previously owned market-rate units, offering them
+(once in sound condition) at affordable prices to low- and moderate-income households.
+To implement this program, the 2002 Housing Plan committed Southampton Township to provide
+a subsidy of at least twenty thousand dollars ($20,000) per unit to reduce the cost of each buy-
+down unit to an affordable level.
+Round 3 Overview
+Draft HEFSP & Lack of COAH Response
+Southampton Township’s third round affordable housing compliance efforts were significantly
+complicated by the dissolution of the Council on Affordable Housing (COAH) and the resulting
+uncertainty in statewide policy and rulemaking. As of 2014, the Township was pursuing litigation
+immunity while attempting to advance a compliance strategy despite conflicting guidance,
+regulatory barriers, and the absence of a functional oversight body.
+As part of planning efforts at the time in an attempt to satisfy the Township’s third round obligation,
+the condition of roughly 75% of Southampton’s land area lying within the Pinelands Area was
+significant, where restrictive development standards under the Pinelands Comprehensive
+Management Plan (CMP) made higher-density affordable housing infeasible. The Pinelands
+Commission had not amended the CMP to reflect the housing production requirements
+established by P.L. 2008, c.46, and no inclusionary zoning could occur in these areas until regional
+obligations were addressed. The remaining land, approximately 25% of the Township’s land area
+which was (and is at the time of this report) mostly comprised of farmland outside the Pinelands,
+fell within the Rural Planning Area (PA-4) under the State Development and Redevelopment Plan
+(SDRP) and lacked centralized sewer service. As of 2014, sewer extensions remained blocked
+unless a site received “center” designation—something both the State Planning Commission and
+COAH refused to grant.
+As discussed above, Southampton’s second round compliance strategy focused on two (2)
+primary parcels: the RR-1 site near Routes 38 and 206, and the TC-1 parcel in Vincentown. While
+these mechanisms were approved as part of Round Two planning efforts, development of them
+
+Page 4 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 7 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                   Southampton Township HEFSP                           June 27, 2025
+
+
+at the time of the third round the sites still remained unrealized, thus contributing to the Township’s
+“unmet need”. In an effort to satisfy this unmet need, the Township secured planning approvals
+for the RR-1 parcel in 2006 and 2007 in partnership with Pulte Homes, but delays at the New Jersey
+Department of Environmental Protection (DEP) in approving sewer service area amendments led
+the developer to withdraw. Those approvals remained in place, though no development had
+proceeded.
+In Vincentown, which is noted as the Township’s only designated village center, a proposed
+redevelopment of the TC-1 parcel for thirty-seven (37) affordable rental units by MEND Housing, a
+reputable not-for-profit housing corporation, was derailed due to severe environmental
+contamination discovered during due diligence. Although the Township had sought to fund site
+acquisition and remediation using its affordable housing trust funds, COAH denied the request
+without clear justification. MEND ultimately withdrew from the project, and by 2014, a new
+developer, Mission First Housing, had begun exploring the feasibility of continuing the effort,
+though progress remained uncertain. By 2014, Southampton had also raised serious concerns
+about the accuracy of COAH’s “growth share” methodology, which assigned the Township a third
+round obligation of 286 units and a theoretical buildable capacity of 1,126 units. In response, the
+Township commissioned a Carrying Capacity Report in 2009 analyzing septic-based development
+in its PA-4 zones. The report found that nitrate standards imposed by DEP would require lot sizes
+exceeding five acres, limiting potential Township-wide buildout to just 134 units – far below COAH’s
+estimates.
+Southampton originally filed its Declaratory Judgment (“DJ”) Complaint in 2006 and was
+transferred to COAH’s jurisdiction in 2011 amid continued rulemaking instability. The Township
+adopted and submitted a Third Round Housing Element and Fair Share Plan in 2011, but received
+no response from either COAH nor the Department of Community Affairs. As of 2014, with the
+State’s housing agencies either nonresponsive or obstructive, the Township maintained that it was
+entitled to continued litigation immunity while it pursued compliance under court supervision and
+awaited constitutionally valid third round rules.
+
+(2013) Complaint for Declaratory Judgment Filed & (2017) Court Dismissal without
+Prejudice
+In December of 2013, Southampton, through its legal counsel, Parker McCay, P.A., submitted a
+Complaint for Declaratory Judgment (“DJ”) to the Burlington County Superior Court of New Jersey
+pursuant to N.J.S.A. 52:27D-313(a) to, inter alia, secure protection against Mount Laurel litigation
+while the Township voluntarily came into compliance with its third round Fair Share obligations. The
+Complaint specifically petitioned that the Court: 1) Declare, pursuant to N.J.S.A. 52:27D-313, that
+Southampton had fully discharged its affordable housing obligations under the Fair Housing Act
+(“FHA”) for the third housing cycle and be granted protection and repose against exclusionary
+zoning litigation; 2) Order that Southampton be protected against exclusionary zoning litigation
+and challenges to its Housing Element and Fair Share Plan while the Township voluntarily remained
+under the Court’s jurisdiction; and, 3) Order such additional relief as the Court deems equitable
+and just.
+In June of 2017, Judge Bookbinder, in response to this submitted Complaint for Declaratory
+Judgment dismissed the Township’s voluntary complaint. This dismissal carried with it that the
+Township: 1) Adopt the necessary ordinances rescinding residential and nonresidential
+development fees such that any fees collected as part of such development would be received
+by the State and not the Township; and, 2) Transfer all funds in its Affordable Housing Trust Fund at
+the time including interest, to the NJ Department of Community Affairs (NJDCA) for deposit in the
+State’s Affordable Housing Trust Fund.
+Summary of Rounds 1-3
+As detailed above, the Township’s history of affordable housing compliance throughout Rounds
+1 through 3 have been complex and evolving in response to governmental and regulatory
+Page 5 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 8 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                  Southampton Township HEFSP                          June 27, 2025
+
+
+requirements and obstacles since the initial establishment of the FHA. Still, through navigating this
+complex history, the Township has attempted to make good-faith efforts to provide its Fair Share
+of Affordable Housing Opportunities for development outside of the Pinelands Area, which
+reduces potential land for such development to only 25% of the Township’s total land area.
+Furthermore, the Township has attempted to realize its prior-round mechanisms to provide its Fair
+Share but has repeatedly faced significant impediments due to regulatory requirements outside
+of the FHA.
+Thus, in 2017 when the Township’s Complaint for Declaratory Judgment was dismissed, and the
+Township relinquished its affordable housing trust fund and associated interest, the Courts had
+determined that the lack of realization for the development mechanisms contemplated under
+prior rounds were unfeasible and unrealistic. While the Township attempted to make every effort
+to otherwise comply throughout Rounds 1-3, these attempts resulted in a determination by the
+Court that the Township could not provide its fair share of affordable housing. As such, this
+determination resulted in the abandonment of the Prior Round mechanisms and subsequent
+dismissal from the State Affordable Housing Program.
+
+Municipal Summary
+Southampton is a predominantly rural municipality located in eastern Burlington County. Covering
+approximately 43.3 square miles, a significant portion of the Township, nearly three-quarters of
+which lies within the Pinelands National Reserve. As of the 2020 Census, Southampton had a
+population of 10,317.
+The Township includes a number of distinct communities, including the historic village of
+Vincentown, which serves as the municipal center. LeisureTowne, an age-restricted development,
+houses a large share of the Township’s population, along with other major residential
+neighborhoods like Hampton Lakes, Mobile Estates, and Crescent Heights.
+Southampton shares borders with Eastampton, Lumberton, Medford, Pemberton, Tabernacle, and
+Woodland Townships. Despite limited infrastructure, the Township maintains a strong rural
+character, supported by active farmland preservation efforts, open space conservation, and
+protections under the Pinelands regulations. While development pressures have remained
+relatively low, land use decisions are shaped by state and regional policies, particularly those
+related to the Pinelands Comprehensive Management Plan and the State Development and
+Redevelopment Plan. Southampton’s planning and development efforts are guided by a
+commitment to preserving its natural landscapes and small-town feel, while allowing for
+thoughtful, limited growth.
+
+Round 4 Affordable Housing Obligation
+On October 18, 2024, the Department of Community Affairs (‘DCA’) released “Affordable Housing
+Obligations for 2025-2035” as required by the recently enacted legislation. The Township’s
+obligation is identified below:
+Present Need
+The DCA has estimated that Southampton has a Present Need of 33 units. However, because the
+estimate was based on a small sample size, there is a significant margin of error. Given these
+limitations, it is recommended that Southampton conduct a Housing Condition Survey to obtain
+a more precise assessment of deficient dwellings. Overall, these statistics provide a broad
+perspective on the housing stock in Southampton Township as of 2023, which reflects considerable
+variation in the age of the housing stock. This variety is due in part to a consistent residential
+development over recent decades, as well as large-scale historic development, particularly the
+LeisureTowne age-restricted community.
+
+
+Page 6 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 9 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                      Southampton Township HEFSP                               June 27, 2025
+
+
+                  2017-21 Low and             2017-21 Low and
+               Moderate-Income Pre-          Moderate-Income                 Present
+               1980 Overcrowded with         Lacking Complete       Need/Substandard/Deficient
+               Complete Plumbing and             Plumbing or        Low and Moderate-Income
+                  Kitchen Facilities          Kitchen Facilities         Occupied Units
+                      (Estimate)               (CHAS Table 8)
+
+                         23                          10                          33
+
+           See Table D Present Need & Substandard Housing of the Fourth Round Calculation Workbook
+                    https://www.nj.gov/dca/dlps/pdf/FourthRoundCalculation_Workbook.xlsx
+
+
+
+Prospective Need
+The DCA has estimated that Southampton has Prospective Need of 44 units. This number is based
+upon the average of the four (4) allocation factors multiplied by the Region 5 Prospective Need
+of 9,134 dwelling units.
+
+                                        9,134 X 0.00483 = 44.07
+                     Equalized
+                                        Land       Income          Average
+                   Nonresidential                                               Prospective
+                                      Capacity     Capacity        Allocation
+                     Valuation                                                     Need
+                                       Factor       Factor           Factor
+                      Factor
+                       0.67%            0.03%        0.75%           0.48%            44
+                              https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml
+
+
+Vacant Land Analysis/Adjustment
+A Vacant Land Adjustment was unnecessary recognizing that the municipality, assuming it can
+work beyond other obstacles, has sufficient land to accommodate the obligatory Prospective
+Need. However, consideration of the Pinelands Comprehensive Management Plan was given,
+since the regulations governing water and sewer infrastructure are key considerations to the siting
+of any dense housing developments/redevelopments.
+Availability of Sewer & Water
+Public sewer service is an extremely limited resource in Southampton. Pursuant to N.J.A.C. 5:93-
+4.3, when public water and/or sewer is scarce, a municipality is required to cooperate with efforts
+to extend such services to proposed inclusionary housing sites. This cooperation entails publicly
+supporting the extension of the limited resources to these sites. However, the regulation does not
+obligate the municipality to allocate or expend municipal funds for this purpose. Additional details
+regarding the Township’s sewer service area are contained in Section IX below – “Utility Capacity”.
+Available Compliance Options
+The FHA, as amended, requires the Department of Community Affairs to compute municipal
+housing obligations. Past Court decisions mandated that each municipality address substandard
+housing units occupied by low- and moderate-income households and the FHA has formalized
+that requirement. In the past, this obligation has been referred to as the "rehabilitation
+component" or "rehabilitation share." For the purposes of this Housing Element, such substandard
+units will be identified as the "present need."
+
+Present Need
+A municipality may satisfy its present need obligation through the implementation of a
+rehabilitation program. Such a program must focus on repairing or replacing essential housing
+Page 7 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 10 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                   Southampton Township HEFSP                             June 27, 2025
+
+
+systems, such as roofing, plumbing, electrical, heating, or structural (load bearing) elements, in
+order to bring existing housing units into compliance with applicable codes. The program must be
+administered by an entity with demonstrated experience in affordable housing rehabilitation and
+must be detailed in a program manual subject to approval.
+In Round 3, the minimum average hard cost per unit (excluding administrative expenses) for an
+eligible rehabilitation program was $10,000 statewide. Actual costs will vary depending on the
+scope of repairs required to achieve code compliance. The Courts adopted the Council on
+Affordable Housing (COAH) mandate of a 10-year affordability control period following the
+completion of rehabilitation activities. For owner-occupied units, this control may be enforced
+through a forgivable loan structure.
+Southampton may also meet its rehabilitation requirement through the production of new
+affordable units, utilizing any of the methods outlined below for the creation of affordable housing
+within the Township.
+Southampton Township actively participates in the Burlington County Community Development
+Department’s Home Improvement Loan Program, which offers assistance to low- and moderate-
+income homeowners in need of housing rehabilitation. The Township will continue to rely on this
+county-administered program to meet its identified rehabilitation needs. The program is
+administered by Community Grants, Planning and Housing (CGP&H), a well-established
+organization with a strong track record in delivering effective and reliable affordable housing
+rehabilitation services.
+
+Framework for New Construction
+When it was in existence, COAH had rules that provided a framework for addressing the municipal
+housing obligation. All affordable housing must be affirmatively marketed and priced by yet-to-
+be-established rules. The FHA limits age-restricted housing to no more than 30 percent of
+affordable housing units. A municipality shall not receive more than one type of bonus credit for
+any unit.
+   •   A municipality shall not be permitted to satisfy more than 25% of its prospective need
+       obligations through the use of bonus credits.
+   •   The FHA, as amended, eliminated the rental bonus credit for family units.
+   •   Special Needs: One unit of credit and one bonus credit for each unit of low- or
+       moderate-income housing for individuals with special needs or permanent supportive
+       housing.
+   •   Non-Profit Partnership: One unit of credit and one-half bonus credit for each unit of low-
+       or moderate-income housing unit created in partnership with a non-profit housing
+       developer.
+   •   Proximity to Transit: One unit of credit and one-half bonus credit for each unit of low- or
+       moderate-income housing located within a one-half mile radius (one-mile radius if
+       located in a Garden State Growth Zone) surrounding a NJ Transit Port Authority Transit
+       Corp., Port Authority Trans-Hudson Corp., rail, bus, or ferry station, including all light rail
+       stations.
+   •   Age-Restricted: One unit of credit and one-half bonus credit for a unit of age-restricted
+       housing. (Bonus credit only applicable to 15% of all age-restricted housing built that
+       count towards the affordable housing obligation.)
+   •   Family Housing: One unit of credit and one-half bonus credit for each unit of low- or
+       moderate-income family housing with at least three bedrooms above the minimum
+       number required by the bedroom distribution in a given development.
+
+
+Page 8 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 11 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                   Southampton Township HEFSP                           June 27, 2025
+
+
+   •   Redevelopment: One unit of credit and one-half bonus credit for each unit of low- or
+       moderate-income housing constructed on land that is or was previously developed and
+       utilized for retail, office, or commercial space.
+   •   Extension of Affordability Controls: One unit of credit and one-half bonus credit for each
+       existing low- or moderate-income RENTAL housing unit for which affordability controls are
+       extended for a new term, and the municipality contributes funding towards the costs
+       necessary for this preservation.
+   •   100% Affordable with Municipal Contribution: One unit of credit and one-half bonus
+       credit for each unit of low- or moderate-income housing in a 100% affordable housing
+       project, which the municipality either contributes property without which the project
+       would not be feasible, or makes contributions from the municipal affordable housing trust
+       fund that covers no less than 10% of the project costs.
+   •   Very Low Income: One unit of credit and one-half bonus credit for each unit of very low-
+       income housing for families above the 13% of units required to be preserved for very low-
+       income housing.
+   •   Age Restricted Housing: A municipality may not satisfy more than 25% of the affordable
+       housing units, exclusive of bonus credits, to address its prospective need obligation
+       through the creation of age-restricted housing. This is a continuation of the current
+       requirements.
+   •   Housing Available to Families with Children: A municipality must satisfy at least 50% of the
+       actual affordable housing units, exclusive of bonus credits, created to address its
+       prospective need obligation through the creation of housing available to families with
+       children. This is a continuation of current requirements.
+   •   Rental Housing: A municipality must satisfy at least 25% of the actual affordable housing
+       units, exclusive of bonus credits, to address its prospective need obligation through rental
+       units. At least half of that number must be available for families with children. This is a
+       continuation of current requirements.
+   •   Very Low Income: 13% of the housing units made available for low- and moderate-
+       income households must be reserved for occupancy by very low-income households.
+       (This is not new.) What is new is that at least half of that number must be made available
+       to families with children.
+   •   Transitional Housing: A municipality shall not credit transitional housing credits to more
+       than 10% of the municipality’s fair share obligation.
+   •   Length of Affordability: The amended FHA increased the minimum period requiring
+       affordability controls to 40 years for rental units and maintained 20 years for for-sale units.
+
+Zoning and Fees
+Southampton has several options available to address its inclusionary housing component. One
+such approach is to utilize zoning as a means of meeting its affordable housing obligation.
+Inclusionary zoning is among the few methods recognized that limit the municipality's direct
+financial responsibility in the production of affordable housing. Once appropriate zoning is in
+place, the Township's primary obligations are to expedite the approval process for inclusionary
+developments and to eliminate unnecessary cost-generating regulations, as outlined in N.J.A.C.
+5:93-10.
+Affordable Housing regulations acknowledge that affordable rental housing typically requires a
+greater subsidy than affordable for-sale units. Accordingly, N.J.A.C. 5:93-5.15 mandates that
+incentives be provided to encourage rental development, such as increased density allowances
+and reduced set-aside requirements. The maximum set-aside for rental housing is 15 percent.
+Page 9 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 12 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                  Southampton Township HEFSP                         June 27, 2025
+
+
+Municipalities are also permitted to collect development fees on residential development not
+zoned for affordable housing production. These fees serve as exactions designated for affordable
+housing initiatives. Affordable housing regulations allow for a development fee of up to 1.5
+percent on all residential development. If a developer is granted a density bonus, the municipality
+may collect a 6 percent fee on the additional units gained through the bonus. Additionally, a 2.5
+percent development fee may be imposed on non-residential development.
+The use of development fees is subject to specific restrictions. No more than 20 percent of
+collected fees may be allocated for administrative expenses. A minimum of 30 percent must be
+dedicated to initiatives that increase the affordability of housing for low- and moderate-income
+households.
+
+Redevelopment
+A municipality may facilitate the development of affordable housing through redevelopment
+under the Local Redevelopment and Housing Law (LRHL). All sites identified for redevelopment
+must meet accepted standards for suitability. The municipality is required to designate the area
+as one in need of redevelopment, adopt a formal redevelopment plan, designate a redeveloper,
+and establish a projected timeline for site redevelopment. In the absence of an active developer,
+preference is typically given to vacant sites over already developed ones. In circumstances where
+land is a limited resource, both the former COAH and the courts have accepted the use of overlay
+zoning as a means of creating optional incentives for the construction of affordable housing.
+
+Municipally Sponsored Projects
+Some municipalities opt to meet their affordable housing obligation by directly sponsoring the
+construction of low- and moderate-income housing. It is not uncommon for a municipality to
+contribute publicly owned land to a non-profit or for-profit developer committed to constructing
+developments exclusively for low- and moderate-income households.
+Engaging in the direct development of affordable housing can be challenging for municipalities,
+particularly when such developments do not include market-rate units to cross-subsidize the
+affordable units. In these cases, developers typically require additional subsidies. These may
+include municipal contributions such as land or financial assistance, as well as external funding
+sources, such as federal Low-Income Housing Tax Credits, state housing programs, and financing
+from the Federal Home Loan Bank.
+Under past COAH regulations, municipal construction efforts were required to be supported by
+the following minimum documentation:
+   1. Site Control: The municipality must demonstrate control over the site, which may be in
+      the form of an ownership interest or an option agreement.
+   2. Administrative Plan: A plan must be submitted detailing how the development will be
+      administered, including the process for income-qualifying applicants and the long-term
+      management of the affordable units.
+   3. Financial Plan: The municipality must provide an estimate of total development costs,
+      projected revenues, and identify a stable source of funding. As external subsidies
+      become available, the municipality may reduce its reliance on local funds.
+   4. Construction Timeline: A detailed timetable must be established for the development
+      and delivery of the low- and moderate-income units.
+
+Market to Affordable
+A municipality is eligible to receive both one (1) unit of credit and one (1) bonus credit for each
+low- or moderate-income housing unit created through the conversion of an existing market-rate
+rental or ownership unit into an affordable unit. However, these bonus credits may only be
+Page 10 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 13 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                  Southampton Township HEFSP                          June 27, 2025
+
+
+counted toward the municipality’s Housing Element and Fair Share Plan if the municipality can
+demonstrate a formal commitment to proceed with the market-to-affordable conversion. This
+commitment must be substantiated by either (a) a signed agreement with the property owner or
+(b) municipal acquisition of the property.
+In addressing its prospective affordable housing obligation, a municipality may not provide more
+than 30 percent of its required affordable units, excluding bonus credits, through the development
+of age-restricted housing. Additionally, at least 50 percent of the required affordable units (again,
+exclusive of bonus credits) must be made available to families with children and must fully comply
+with the standards and controls established under Section 21 of P.L.1985, c.222 (C.52:27D-321).
+Moreover, a minimum of 25 percent of the required affordable housing units (excluding bonus
+credits) must be rental units, with at least half of those rental units designated for families with
+children. All units developed under this provision must conform to the statutory requirements and
+affordability controls outlined in Section 21 of P.L.1985, c.222 (C.52:27D-321).
+
+
+Goal of Southampton Township
+It is the overall goal of the Housing Element, in coordination with the Township’s Land Use Plan, to
+guide the provision of low- and moderate-income housing in accordance with the Fair Housing
+Act and the laws of the State of New Jersey, while preserving the integrity of Southampton’s
+established residential neighborhoods and the natural beauty and ecological value of the
+Pinelands. This goal is pursued with full recognition of the regulatory complexity of the Pinelands
+Comprehensive Management Plan, the Township’s limited infrastructure capacity, and
+development constraints associated with the Planning Area 4 (PA4) designation under the State
+Development and Redevelopment Plan (SDRP), where sewered, large-scale residential
+development is generally discouraged.
+
+
+
+
+Page 11 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 14 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                     Southampton Township HEFSP                         June 27, 2025
+
+
+
+   II.       CONTENT OF HOUSING ELEMENT
+As per the MLUL, specifically N.J.S.A. 52:27D-310, a housing element must contain at least the
+following items:
+   •      An analysis of the municipality's demographic characteristics, including but not necessarily
+          limited to, household size, income level, and age;
+   •      An inventory of the municipality's housing stock by age, condition, purchase or rental
+          value, occupancy characteristics, and type, including the number of units affordable to
+          low and moderate-income households and substandard housing capable of being
+          rehabilitated;
+   •      An analysis of the existing and probable future employment characteristics of the
+          municipality;
+   •      A projection of the municipality's housing stock, including the probable future construction
+          of low and moderate-income housing for the next ten years, taking into account, but not
+          necessarily limited to, construction permits issued, approvals of applications for
+          development and probable residential development of lands;
+   •      A determination of the municipality’s present and prospective fair share for low and
+          moderate-income housing and its capacity to accommodate its housing needs, including
+          its fair share for low and moderate-income housing, as established pursuant to section 3 of
+          P.L.2024, c.2 (C.52:27D-304.1); and
+   •      A consideration of the lands that are most appropriate for the construction of low- and
+          moderate-income housing and of the existing structures most appropriate for conversion
+          to, or rehabilitation for, low- and moderate-income housing, including consideration of
+          lands of developers who have expressed a commitment to provide low- and moderate-
+          income housing P.L.2024, c.2 (C.52:27D-310.10.f.).
+
+
+   III.      SOUTHAMPTON’S POPULATION DEMOGRAPHICS
+Age Distribution of the Population
+In 2023, the ACS estimated that over 32% of Southampton’s population was over the age of 65,
+which is indicative of the Township’s historic age distribution. Comparatively, this also represents a
+significant difference compared to the rest of Burlington County, of which the population of 65+
+residents only comprises 17.91%. The percentage of school-aged children (under 19) was
+approximately 18%, while the second-largest population being those ages 35-54. The 2023 ACS
+reported the median age of Southampton residents was 54.8 years old.
+
+Population by Age Cohort
+                                          Southampton          Burlington County
+                    Age
+                                        Count     Percent      Count       Percent
+                    Under 19             1,899    18.40%       105,747     22.78%
+                    20 to 34 years       1,062    10.29%       84,793      18.27%
+                    35 to 54 years       2,237    21.68%       121,948     26.27%
+                    55 to 64 years       1,804    17.48%       68,613      14.78%
+                    65+ years            3,318    32.15%       83,125      17.91%
+
+                    Total population    10,320    100.00%     464,226      100.00%
+
+
+
+
+Page 12 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 15 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                     Southampton Township HEFSP                                        June 27, 2025
+
+
+                         U.S. Census Bureau, U.S. Department of Commerce. "ACS Demographic and Housing
+                         Estimates." American Community Survey, ACS 5-Year Estimates Data Profiles, Table DP05,
+                         2023,
+                         https://data.census.gov/table/ACSDP5Y2023.DP05?q=DP05&g=040XX00US34_050XX00US34
+                         005_060XX00US3400543290.
+
+
+
+Household Size and Type
+The U.S. Census Bureau defines a household as persons that may or may not be related who
+occupy a single room or group of rooms constituting a housing unit. A family is one or more persons
+related by blood, marriage, or adoption, all living in the same household. In Southampton, the
+2023 the ACS estimated there were 4,499 total households. The ACS estimated the Township’s
+average household size to be 2.29 persons.
+
+Household Type
+                                                                    Southampton                Burlington County
+Household Type
+                                                              Estimate        Percent         Estimate      Percent
+Married-couple household                                       2,482               55%         92,133        51.3%
+Cohabiting couple household                                        179             4%          12,973            7.2%
+Male householder, no spouse/partner present                        584             13%         24,227        13.5%
+Female householder, no spouse/partner present                  1,254               28%         50,144        27.9%
+Total households                                                          4,499                        179,477
+Households with one or more people under 18 years                  928            20.6%        55,691            31%
+Households with one or more people 65 years and over           2,315              51.5%        62,187        34.6%
+Average household size                                             2.29            (X)          2.55             (X)
+Average family size                                                2.82            (X)          3.09             (X)
+U.S. Census Bureau, U.S. Department of Commerce. "Tenure by Household Type and Presence and Age of Own
+Children." American Community Survey, ACS 5-Year Estimates Detailed Tables, Table B25115, 2023,
+https://data.census.gov/table/ACSDT5Y2023.B25115?q=B25115&g=040XX00US34_050XX00US34005_060XX00US3400543290
+
+The distribution of sizes for the Township’s 4,499 households is detailed in the table below. Two-
+person households total 1,806 or 40.14% of the Township’s household stock, while one-person
+households were the second most-common size with a total of 1,425 or 31.67%. Notably, the
+number of 4-or-more-person households was estimated to be greater than the number of three-
+person households.
+
+Household Size
+                                                     Southampton                  Burlington County
+           Household Size
+                                                 Estimate      Percent            Estimate     Percent
+           1-person household                      1,425       31.67%              46,962      26.68%
+           2-person household                      1,806       40.14%              57,994      32.94%
+           3-person household                       553        12.29%              29,079      16.52%
+           4-or-more-person household               715        15.89%              42011       23.86%
+           Total Occupied Housing Units                    4,499                          176,046
+          U.S. Census Bureau, U.S. Department of Commerce. "Occupancy Characteristics." American Community
+          Survey, ACS 5-Year Estimates Subject Tables, Table S2501, 2023,
+          https://data.census.gov/table/ACSST5Y2023.S2501?q=S2501&g=040XX00US34_050XX00US34005_060XX00US34
+          00543290.
+
+Page 13 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 16 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                      Southampton Township HEFSP                                June 27, 2025
+
+
+
+
+Income and Poverty Status
+The most current data is the 2023 ACS Census data for the categories of income and poverty. The
+2023 five-year American Community Survey (hereinafter “ACS”) estimates were utilized. The
+estimated median household income for Southampton was $88,793 in 2023. This is 15% lower than
+the median household income for the entirety of Burlington County.
+The Township’s median family income was $119,458. This difference compared to the County’s
+estimates was less than the median household income, where Southampton’s median family
+income was 6.14% lower than the entirety of the County.
+Finally, after reviewing the poverty status of the Township’s overall population, Southampton has
+a higher rate of population below the poverty level compared to the County, where 5.9% of
+Southampton’s population is considered below poverty level compared to the County’s 4.9%. This
+is somewhat anticipated when considering the above analysis. See the table and chart below for
+additional details.
+
+Income Characteristics
+                                                     Southampton            Burlington County
+             Income Characteristics
+                                                        Estimate                Estimate
+             Median Household Income                    $88,793                 $105,271
+             Median Family income                       $119,458                $127,277
+             Per Capita Income                          $52,287                 $53,077
+             Percent Below Poverty Level (%)                 5.9%                 4.9%
+              U.S. Census Bureau, U.S. Department of Commerce. "Selected Economic Characteristics." American
+              Community Survey, ACS 5-Year Estimates Data Profiles, Table DP03, 2023,
+              https://data.census.gov/table/ACSDP5Y2023.DP03?q=DP03&g=040XX00US34_050XX00US34005_060XX00
+              US3400543290.
+
+The ACS five-year estimates also reported that 58.1% of the Township’s households make over
+$100,000 annually. This estimated percentage is similar to that of the County, which is contrary to
+the median figures as discussed above. This is likely an indication that there is a significant amount
+of parity among the income of Township residents.
+
+Income and Benefits (In 2023 Inflation-Adjusted Dollars)
+                                Southampton            Burlington County                   New Jersey
+ Household Income
+                        Estimate       Percent     Estimate         Percent       Estimate        Percent
+ Less than $10,000         77            2.6%        5,362           3.0%         140,262           4.0%
+ $10,000 to $14,999         0            0.0%        2,969           1.7%          99,362           2.9%
+ $15,000 to $24,999        124           4.2%        6,523           3.7%         175,402           5.1%
+ $25,000 to $34,999        94            3.2%        8,027           4.6%         184,753           5.3%
+ $35,000 to $49,999        201           6.9%       13,955           7.9%         276,601           8.0%
+ $50,000 to $74,999        223           7.6%       22,911          13.0%         448,192          12.9%
+ $75,000 to $99,999        509          17.4%       23,250          13.2%         397,939          11.4%
+ $100,000 to $149,999      548          18.7%       35,553          20.2%         627,526          18.0%
+ $150,000 or more         1,153         39.4%       57,496          32.7%         1,128,318        32.4%
+
+ Median Income                    $119,458                   $105,271                        $101,050
+
+Page 14 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 17 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                        Southampton Township HEFSP                               June 27, 2025
+
+
+U.S. Census Bureau, U.S. Department of Commerce. "Selected Economic Characteristics." American Community Survey,
+ACS 5-Year Estimates Data Profiles, Table DP03, 2023,
+https://data.census.gov/table/ACSDP5Y2023.DP03?q=DP03&g=040XX00US34_050XX00US34005_060XX00US3400543290.
+
+
+
+
+    IV.      SOUTHAMPTON’S HOUSING DEMOGRAPHICS
+Housing Type
+According to the 2023 five-year ACS estimates, Southampton Township has 4,781 total dwelling
+units. The housing stock is primarily composed of single-family detached homes, which make up
+approximately 93.7% of all units, or 4,481 units. The two (2) most-common housing types after
+single-family detached were single-family attached (3.1%) and Mobile/Manufactured Home
+(2.0%) in 2023.
+
+Units In Structure
+                                                Southampton             Burlington County
+                   Units in Structure
+                                             Estimate      Percent     Estimate      Percent
+                   1-unit, detached            4,481           93.7%    119,559       64.4%
+                   1-unit, attached             147            3.1%     26,992        14.5
+                   2 units                       0             0.0%      3,132            1.7
+                   3 or 4 units                 45             0.9%      7,299            3.9
+                   5 to 9 units                  0             0.0%      8,006            4.3
+                   10 to 19 units                0             0.0%      8,519            4.6
+                   20 or more units             13             0.3%     10,043            5.4
+                   Mobile home                  95             2.0%      2,032            1.1
+                   Boat, RV, van, etc.           0             0.0%        35         <1%
+                   Total Housing Units                 4,781                    185,617
+                 U.S. Census Bureau, U.S. Department of Commerce. "Selected Housing Characteristics." American
+                 Community Survey, ACS 5-Year Estimates Data Profiles, Table DP04, 2023,
+                 https://data.census.gov/table/ACSDP5Y2023.DP04?q=DP04:+SELECTED+HOUSING+CHARACTERISTICS&
+                 g=040XX00US34_050XX00US34005_060XX00US3400543290.
+
+
+
+Of the applicable 4,232 housing units (with those being “not applicable” are those which value
+cannot be computed) in 2023, 27.81% of the owner-occupied housing stock spends more than
+30% of the household income on housing costs. This 30% threshold is significant as it represents the
+federal definition of “cost burdened”, that is, when a household commits more than 30% of its
+monthly income to housing costs.
+
+
+
+
+Page 15 of 35
+        BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 18 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                               Southampton Township HEFSP                                    June 27, 2025
+
+
+Selected Monthly Owner/Renter Costs as a Percentage of Household Income
+                                                                    Southampton                 Burlington County
+ Tenure               Label
+                                                                 Estimate        Percent       Estimate        Percent
+                      All Housing units (excluding units where
+                                                                  4,232             -          132,481            -
+                      value cannot be computed)
+
+
+
+
+    Owner Occupied
+                      Less than 20.0 percent                      2,267          53.57%        68,238           51.51%
+                      20.0 to 24.9 percent                         447           10.56%        18,990           14.33%
+                      25.0 to 29.9 percent                         341           8.06%         12,934           9.76%
+                      30.0 to 34.9 percent                         257           6.07%          7,056           5.33%
+                      35.0 percent or more                         920           21.74%        25,263           19.07%
+                      Not Computed                                 20            0.47%           844            0.64%
+                      Occupied units paying rent (excluding
+                                                                   129              -           40772
+                      units where value cannot be computed)
+
+
+
+
+    Renter Occupied
+                      Less than 15.0 percent                       15             12%           4833            11.90%
+                      15.0 to 19.9 percent                         22             17%           4195            10.30%
+                      20.0 to 24.9 percent                         12              9%           6066            14.90%
+                      25.0 to 29.9 percent                          6              5%           4806            11.80%
+                      30.0 to 34.9 percent                          0              0%           4274            10.50%
+                      35.0 percent or more                         74             57%           16598           40.70%
+                      Not Computed                                 118             (X)          1949             (X)
+
+
+Occupancy Status
+Occupancy and vacancy status were estimated in the 2023 ACS and were used for this section.
+According to the ACS, 95% of the Township’s occupied housing stock was owner-occupied. This
+is significantly higher than the entire county, which has an owner-occupancy rate of nearly 76%.
+Additionally, the average household size of owner occupied units was less than the entire county’s
+by a difference of an average 0.4 persons per household.
+
+                                                                          Southampton             Burlington County
+ Housing Occupancy
+                                                                    Estimate        Percent       Estimate        Percent
+ Owner-occupied                                                         4,252            95%      133,325          75.7%
+ Renter-occupied                                                         247             5%        42,721          24.3%
+ Average household size of owner-occupied unit                          2.30             (X)           2.7             (X)
+ Average household size of renter-occupied unit                         2.22             (X)        2.18               (X)
+ Total Occupied Housing Units                                                   4,499                        176,051
+U.S. Census Bureau, U.S. Department of Commerce. "Selected Housing Characteristics." American Community Survey,
+ACS 5-Year Estimates Data Profiles, Table DP04, 2023,
+https://data.census.gov/table/ACSDP5Y2023.DP04?q=DP04:+SELECTED+HOUSING+CHARACTERISTICS&g=040XX00US34_0
+50XX00US34005_060XX00US3400543290.
+
+
+
+Value and Rent of Housing Stock
+Southampton has an estimated 4,252 owner-occupied housing units according to the 2023 ACS.
+Most owner-occupied housing units, 2,592 or 61.0%, have an estimated value between $200,000
+and $499,999. Approximately 15% of owner-occupied units have a value between $150,000 and
+$199,999. As indicated in the chart below, 10% of the housing stock was valued below $150,000,
+which is nearly double the percentage of the county’s households in the same value tranche(s).
+
+Page 16 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 19 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                    Southampton Township HEFSP                                    June 27, 2025
+
+
+The median value of owner-occupied housing units in Southampton is approximately $291,600,
+lower than the median value of owner-occupied housing units in Burlington County is $326,700.
+The value distribution is as follows:
+
+Value of Owner-Occupied Units
+                                                      Southampton             Burlington County
+         Value of Owner-Occupied Units
+                                                  Estimate         Percent    Estimate     Percent
+         Less than $50,000                           157             4%        3,817            2.9%
+         $50,000 to $99,999                           32             1%        1,778            1.3%
+         $100,000 to $149,999                        216             5%        5,486            4.1%
+         $150,000 to $199,999                        620            15%        12,658           9.5%
+         $200,000 to $299,999                       1,201           28%        34,881       26.2%
+         $300,000 to $499,999                       1,391           33%        49,746       37.3%
+         $500,000 to $999,999                        589            14%        22,389       16.8%
+         $1,000,000 or more                           46             1%        2,570            1.9%
+         Total Owner Occupied Units                         4,252                     133,325
+         Median Home Value                         291,600           (X)      326,700           (X)
+        U.S. Census Bureau, U.S. Department of Commerce. "Selected Housing Characteristics." American Community
+        Survey, ACS 5-Year Estimates Data Profiles, Table DP04, 2023,
+        https://data.census.gov/table/ACSDP5Y2023.DP04?q=DP04:+SELECTED+HOUSING+CHARACTERISTICS&g=040X
+        X00US34_050XX00US34005_060XX00US3400543290.
+
+According to 2023 ACS estimates, the estimated median rent in Southampton is $1,734/mo. while
+this median is higher than the County’s average cost of rent, this estimate may be skewed due to
+the Township’s comparatively .
+
+Cost of Rentals
+                                                    Southampton                Burlington County
+       Occupied Units Paying Rent
+                                                Estimate         Percent     Estimate       Percent
+       Less than $500                                0             0.00%      1,210             2.92%
+       $500 to $999                                 13             8.50%      3,431             8.28%
+       $1,000 to $1,499                             42           27.45%       11,958        28.86%
+       $1,500 to $1,999                             46           30.07%       12,181        29.39%
+       $2,000 to $2,499                             12             7.84%      7,886         19.03%
+       $2,500 to $2,999                              7             4.58%      3,009             7.26%
+       $3,000 or more                               33           21.57%       1,766             4.26%
+       Total Occupied Units Paying Rent                    153                         41,441
+       Median Rent                                         1,734                        1,669
+       No Rent Paid                                         94                          1,280
+      U.S. Census Bureau, U.S. Department of Commerce. "Selected Housing Characteristics." American Community
+      Survey, ACS 5-Year Estimates Data Profiles, Table DP04, 2023,
+      https://data.census.gov/table/ACSDP5Y2023.DP04?q=DP04:+SELECTED+HOUSING+CHARACTERISTICS&g=040XX0
+      0US34_050XX00US34005_060XX00US3400543290.
+
+
+
+
+Page 17 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 20 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                         Southampton Township HEFSP                               June 27, 2025
+
+
+Overcrowded units are defined by the U.S. Department of Housing and Urban Development as
+those with more than one person living per room. The table below depicts that Southampton does
+not have any housing units which can be considered overcrowded by definition.
+
+Occupants Per Room
+                                                       Southampton         Burlington County
+                  Occupied Housing Units
+                                                  Estimate    Percent     Estimate     Percent
+                  1 or less                        4,499           100%    173,451     98.5%
+                  1.01 to 1.5                          0           0%          1,808    1.0%
+                  1.51                                 0           0%          787      0.4%
+                  Total Occupied Units                     4,499                  176,046
+
+
+According to the ACS Estimates, nearly one-third of the Township’s housing stock was constructed
+during the 1970s. This significant portion of the housing stock is likely due to the development of
+LeisureTowne, which was being constructed and occupied during the same time frame.
+
+
+Age of Housing Stock
+                                   Southampton               Burlington County              New Jersey
+ Year Built
+                                Estimate     Percent        Estimate      Percent      Estimate      Percent
+ Built 2020 or later               0             0%           1,545            0.8%     23,348         0.6%
+ Built 2010 to 2019               40             1%           8,842            4.8%     217,910        5.8%
+ Built 2000 to 2009               403            8%          20,723        11.2%        343,692        9.1%
+ Built 1990 to 1999               405            8%          25,939        14.0%        341,768        9.1%
+ Built 1980 to 1989               843            18%         25,124        13.5%        447,464       11.9%
+ Built 1970 to 1979              1,549           32%         32,465        17.5%        469,113       12.4%
+ Built 1960 to 1969               652            14%         25,356        13.7%        489,202       13.0%
+ Built 1950 to 1959               333            7%          20,311        10.9%        530,609       14.1%
+ Built 1940 to 1949               73             2%           5,513            3.0%     252,864        6.7%
+ Built 1939 or earlier            483            10%         19,799        10.7%        659,872       17.5%
+ Total Housing Units                     4,781                       185,617                   3,775,842
+U.S. Census Bureau, U.S. Department of Commerce. "Selected Housing Characteristics." American Community Survey,
+ACS 5-Year Estimates Data Profiles, Table DP04, 2023,
+https://data.census.gov/table/ACSDP5Y2023.DP04?q=DP04:+SELECTED+HOUSING+CHARACTERISTICS&g=040XX00US34_0
+50XX00US34005_060XX00US3400543290.
+
+
+Housing Condition
+The ACS provides data on housing conditions, including overcrowding, and the presence of
+complete plumbing and kitchen facilities. Generally, it is accepted that the newer the housing
+stock the better the condition of the housing stock. The 2023 ACS estimates the median age of
+Southampton’s housing stock as follows:
+
+
+
+
+Page 18 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 21 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                       Southampton Township HEFSP                              June 27, 2025
+
+
+
+                                  Southampton           Burlington County         New Jersey
+
+                                       Estimate              Estimate              Estimate
+             Median year
+                                        1975                   1977                   1969
+             structure built
+
+
+The housing stock in Southampton, with an estimated median year built of 1975 is consistent with
+that of Burlington County and is slightly newer than the entirety of New Jersey. Given this context,
+the generality of the Township’s housing stock may be in need of repair/updating, as the “typical”
+home in Southampton is likely to be 50 years old as of this year.
+In Southampton, there are both an estimated zero housing units which are overcrowded, and an
+estimated zero housing units lack plumbing facilities. This combination of a lack of such housing
+units in Southampton suggests that the housing stock is generally in very good condition. However,
+the DCA has estimated 33 Present Need units for Southampton. This estimate is subject to a large
+margin for error due to the small sample size used to generate it.
+Historical Population Counts
+Southampton Township has experienced significant population growth since 1920, with some
+relative “booms” of growth occurring from 1940-1980, where each decade during that timeframe
+saw a population increase greater than 25%. Below is a summary of the township's population
+counts from historical U.S. Census data:
+
+                         Census Year         Population         Percent Increase
+                                                                ( – Decrease)
+                         1920                1,641              –
+                         1930                1,637              -0.2%
+                         1940                1,813              10.8%
+                         1950                2,341              29.1%
+                         1960                3,166              35.2%
+                         1970                4,982              57.4%
+                         1980                8,808              76.8%
+                         1990                10,202             15.8%
+                         2000                10,388             1.8%
+                         2010                10,464             0.7%
+                         2020                10,317             –1.4%
+                         2023 (est.)         10,320             0.02%
+Source(s):
+Population 1940-2000:
+https://www.nj.gov/labor/labormarketinformation/assets/PDFs/census/2kpub/njsdcp3.pdf#page=27
+Population 2010:
+https://data.census.gov/table/DECENNIALPL2010.P1?q=Southampton+township,+Burlington+Co
+unty,+New+Jersey&y=2010.
+Population 2020:
+https://data.census.gov/table/DECENNIALPL2020.P1?q=Southampton+township,+Burlington+Co
+unty,+New+Jersey&y=2020.
+
+
+Page 19 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 22 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                       Southampton Township HEFSP                                  June 27, 2025
+
+
+Population 2023:
+https://data.census.gov/table/ACSDP5Y2023.DP05?q=Southampton+township,+Burlington+Cou
+nty,+New+Jersey&y=2023.
+
+Projections made by the DVRPC estimate the Township’s population remain very similar between
+2020 and 2050, with increases estimated in 2030, 2035, and 2040, but then a decrease from those
+larger numbers in 2045 and 2050. Thus, DVRPC expects the Township’s population to “peak” in
+the first half of this century at just shy of 10,500 residents, which is similar to the observed high in
+population
+
+Population Projection 2020 - 2050
+                                       Year        Estimate       Percent
+                                       2020         10,317           (X)
+                                       2025         10,317         0.00%
+                                       2030         10,318         0.97%
+                                       2035         10,432         1.10%
+                                       2040         10,470         0.36%
+                                       2045         10,430         -0.38%
+                                       2050         10,362         -0.65%
+                                    https://catalog.dvrpc.org/dataset/dvrpc-2050-population-employment-
+                                    forecasts-zonal-data-municipalities-version-2
+
+
+
+
+    V.       SOUTHAMPTON’S EMPLOYMENT DEMOGRAPHICS
+The 2023 ACS estimates indicate that Southampton had 4,761residents in the workforce. Of the
+residents who were aged 16 years and older, 92.75% or 4,416 persons were employed, while a
+total of 324 persons were unemployed.
+Private wage and salary workers in the Township comprised the majority of employed residents
+with 3,437 workers or 78%. Approximately 19% of workers were government employees and 3%
+were self-employed.
+
+
+Class of Worker
+                                                              Southampton                Burlington County
+ Class of Worker
+                                                         Estimate           Percent    Estimate        Percent
+ Private wage and salary workers                           3,437             78%       178,587         75.70%
+ Government workers                                         831              19%        47,508         20.10%
+ Self-employed in own not incorporated business
+                                                            139               3%        9,323              3.95%
+ workers
+ Unpaid family workers                                        9               0%         441               0.19%
+
+ Civilian Employed Population (16 years and over)                   4,416                        235,859
+U.S. Census Bureau, U.S. Department of Commerce. "Selected Economic Characteristics." American Community Survey,
+ACS 5-Year Estimates Data Profiles, Table DP03, 2023,
+https://data.census.gov/table/ACSDP5Y2023.DP03?q=DP03&g=040XX00US34_050XX00US34005_060XX00US3400543290.
+
+
+
+
+Page 20 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 23 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                       Southampton Township HEFSP                                  June 27, 2025
+
+
+Occupational Characteristics
+The ACS estimates that 40.5% of the Township’s residents were employed in management,
+business, science, and arts occupations. Sales and office professionals follow with approximately
+20.9% of the Township’s workers. These Occupation Types being most- and second-most-common
+are consistent for both the County and the State.
+Employed Civilian Population by Occupation (Age 16 Years or Older)
+                                               Southampton               Burlington County        New Jersey
+ Occupation Type
+                                           Estimate   Percent           Estimate    Percent   Estimate   Percent
+ Management, business, science, and
+                                             1,790           40.5%       114,966      48.9%   2,178,058   46.9%
+ arts occupations
+ Service occupations                          622            14.1%       30,855       13.1%   689,308     14.8%
+ Sales and office occupations                 925            20.9%       50,054       21.3%   930,463     20.0%
+ Natural resources, construction, and
+                                              570            12.9%       15,410        6.6%   320,511      6.9%
+ maintenance occupations
+ Production, transportation, and
+                                              509            11.5%       23,823       10.1%   526,430      8.3%
+ material moving occupations
+ Civilian Employed Population (16
+                                                     4,416                      235,108            4,644,770
+ years and over)
+U.S. Census Bureau, U.S. Department of Commerce. "Selected Economic Characteristics." American Community Survey,
+ACS 5-Year Estimates Data Profiles, Table DP03, 2023,
+https://data.census.gov/table/ACSDP5Y2023.DP03?q=DP03&g=040XX00US34_050XX00US34005_060XX00US3400543290.
+
+Population and Employment Projections
+As indicated above, the DVRPC estimates that the population within the Township will “peak” in
+the year 2035, carrying a similar peak to the year 2010. Conversely, DVRPC estimates that the
+number of jobs in Southampton will have peaked this year (estimates were determined prior to
+this year). The DVRPC estimates that the Township will have added approximately 345 jobs from
+2020 to 2025. These estimate however slowly adjust back to the base year (2020) by the year 2040,
+indicating that the number of jobs in the Township may fluctuate, but no imminent increases in
+the overall employment landscape with lasting effects are estimated.
+
+Employment Projection
+                                           Population                   Employment
+                           Year
+                                       Estimate      Percent         Estimate     Percent
+                           2020         10,317         (X)            4,564          (X)
+                           2025         10,317        0.00%           4,909        7.56%
+                           2030         10,318        0.97%           4,844        - 1.32%
+                           2035         10,432        1.10%           4,786        - 1.20%
+                           2040         10,470        0.36%           4,694        - 1.92%
+                           2045         10,430       -0.38%           4,613        - 1.73%
+                           2050         10,362       -0.65%           4,629        0.35%
+                          https://catalog.dvrpc.org/dataset/dvrpc-2050-population-employment-forecasts-
+                          zonal-data-municipalities-version-2
+
+
+
+
+In-Place Employment by Industry
+Page 21 of 35
+      BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 24 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                      Southampton Township HEFSP                               June 27, 2025
+
+
+New Jersey’s Department of Labor and Workforce Development is the entity that reports on
+employment and wages within the State of New Jersey. The latest municipal-level report was
+completed in 2023. Based on the data, there were 2,318 private sector jobs provided by an
+average of 257 employers within the Township. Note that these are jobs within Southampton – the
+daytime working population - regardless of where the employee lives.
+The three (3) most-common employment sectors in Southampton were Construction (18.42%),
+Retail Trade (14.01%), and Admin / Waste Remediation (11.64%). Notably, agriculture is not as
+prominent of a sector as anticipated, which may indicate that the agriculturally-focused jobs in
+the Township may be expressed in similar or related fields.
+
+                                                                  Average
+ NAICS Sector                        Description                                     Average      Percent
+                                                                    Units
+ 61                             Local Govt Education                  1                96         4.14%
+ 11                                  Agriculture                      9                52         2.26%
+ 23                                 Construction                     48               427         18.42%
+ 31                                Manufacturing                      7                65         2.78%
+ 42                               Wholesale Trade                     8                28         1.21%
+ 44                                  Retail Trade                    29               325         14.01%
+ 48                         Transportation/Warehousing                -                 -            -
+ 51                                  Information                      -                 -            -
+ 52                              Finance/Insurance                    -                 -            -
+ 53                                  Real Estate                      6                78         3.35%
+ 54                            Professional/Technical                22               134         5.80%
+ 55                                 Management                        -                 -            -
+ 56                          Admin/Waste Remediation                 24               270         11.64%
+ 61                                   Education                       4                26         1.10%
+ 62                                 Health/Social                    25               212         9.16%
+ 71                              Arts/Entertainment                   -                 -            -
+ 72                           Accommodations/Food                    14               188         8.12%
+ 81                                Other Services                    27               127         5.49%
+ 99                                  Unclassified                    10                17         0.72%
+ PRIVATE SECTOR TOTALS                                               257              2,318          -
+https://www.nj.gov/labor/labormarketinformation/assets/PDFs/employ/qcew/mun23.xlsx
+
+
+
+Travel Time to Work
+The 2023 ACS estimates the mean travel time to work for Township residents was 34.2 minutes. This
+is higher than both the entire county and the entire state. it was also estimated that nearly 15% of
+residents worked from home, which is aligned with the county and state. It is also noted that the
+percentage of residents which drove alone (as opposed to carpooled) was higher in
+Southampton. This characteristic indicates that Southampton residents are driving for longer
+periods of time to their place of work, and they are not likely to utilize either carpooling or public
+transportation.
+
+
+Page 22 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 25 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                        Southampton Township HEFSP                                    June 27, 2025
+
+
+Commuting to Work
+                                         Southampton              Burlington County             New Jersey
+ Class of Worker
+                                     Estimate         Percent   Estimate          Percent   Estimate         Percent
+ Car, truck, or van -- drove
+                                       3,412           80%       175,986          74.6%     2,894,952        63.7%
+ alone
+ Car, truck, or van --
+                                        168             4%       14,911            6.3%     347,524           7.7%
+ carpooled
+ Public transportation
+                                         83             2%        5,388            2.3%     387,422           8.5%
+ (excluding taxicab)
+ Walked                                  31             1%        1,969            0.8%     118,022           2.6%
+ Other means                              0             0%        2,632            1.1%     110,740           2.4%
+ Worked from home                       583            14%       34,973           14.8%     683,255          15.0%
+ Civilian Employed Population
+                                               4,277                   235,859                    4,541,915
+ (16 years and over)
+ Mean Travel Time to Work
+                                               34.2                        29.3                       30.9
+ (Minutes)
+U.S. Census Bureau, U.S. Department of Commerce. "Sex of Workers by Travel Time to Work." American Community Survey,
+ACS           5-Year         Estimates       Detailed           Tables,           Table         B08012,        2023,
+https://data.census.gov/table/ACSDT5Y2023.B08012?q=B08012&g=040XX00US34_050XX00US34005_060XX00US3400543290
+
+
+
+
+    VI.      Ethno-racial makeup of Southampton in comparison to
+             Burlington County and the state of New Jersey
+         Note that there are cultural biases that may skew the results of this census. Some
+           individuals of a darker complexion coming from Native and South American
+        backgrounds may Identify as black due to a difference in racial perception across
+          different cultures. For example, many darker-skinned Brazilians identify as black
+       because of cultural standards related to darker skin, when in practice they fall under
+        the race of Latino, being from a country of Latin American origin. Conversely, Fair-
+        skinned Latin Americans and Hispanics have been historically known to identify as
+       white, contrary to the racial category they fall into in a census or community survey.
+Of the 10,320 residents in Southampton, 87% identify as white alone. This percentage is significantly
+higher than the entire county and state, where 62% and 51% of their respective populations
+identify as white. The next largest racial group in the Township is made up of those who identify as
+Hispanic / Latino, with an estimated 6% of the population identifying as such. 2% of the population
+identifies as Black and Asian (1% for each), and there are no estimated residents in the Township
+which Identify as Native American / Pacific Islander. As anticipated due to the heightened
+population which identifies as white, the population in Southampton which identify as Black is
+significantly less than the entire County, with a difference of 15%.
+
+Potential Implications of Socioeconomic Imbalances In Southampton
+This disproportionality of minority races, along with a lowered median income than that of the
+entire County may indicate a potential lack of affordable housing that meets the needs and
+preferences for these underrepresented demographics. This is reflected in the American
+Community Survey Table S0701 that estimates 1.6% of Black/African Americans, and 0% of
+Hispanic or Latinos in Burlington County moved into Southampton in 2023.
+
+
+
+
+Page 23 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 26 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                         Southampton Township HEFSP                                    June 27, 2025
+
+
+Racial Demographics of Southampton
+Individuals of one race, in comparison to Burlington County and the whole of New Jersey
+
+                                  Southampton                   Burlington County                     New Jersey
+ Race
+                            Estimate         Percent          Estimate         Percent         Estimate          Percent
+ White                        9,013             87%           289,446             62%          4,702,687           51%
+ Hispanic/Latino               659              6%             46,865             10%          2,105,350           23%
+ Black                         125              1%             76,128             16%          1,116,399           12%
+ American Indian
+                                 0              0%               116               0%            7,852              0%
+ & Alaska Native
+ Asian                         108              1%             27,366              6%           940,280            10%
+ Native American
+                                 0             0.00%              93              0.02%          1,807            0.02%
+ Pacific Islander
+ Other                          71              1%              3,247              1%            77,074             1%
+ Multi-Racial                  344              3%             25,906              6%           339,392             4%
+ Total Population                     10,320                            469,167                        9,290,841
+U.S. Census Bureau. Table DP05: Profile of Specific Race and Hispanic or Latino Origin: Southampton township, Burlington
+County, New Jersey, Burlington County, New Jersey, New Jersey. 2020: ACS 5-Year Estimates Data Profiles.
+
+
+
+An imbalance in racial representation of householders in Southampton could also indicate a lack
+of housing options for individuals that meet the criteria of “Overburdened Communities”, as
+defined by NJDEP, such as low income and minority status. The ACS 5-year survey estimates that
+87% of Southampton householders identify as white, pointing to a potential barrier for minorities,
+preventing them from occupying housing units in the Township and area at-large.
+
+
+    VII.     PROJECTION OF HOUSING STOCK
+As per the MLUL, specifically N.J.S.A. 52:27D-310, a housing element must contain a projection of
+the municipality's housing stock, including the probable future construction of low- and moderate-
+income housing for the next ten years, considering, but not necessarily limited to, construction
+permits issued, approvals of applications for development and probable residential development
+of lands.
+The Department of Community Affairs Division of Codes and Standards website provides data on
+Certificates of Occupancy and demolition permits for both residential and non-residential
+development. Within the Division of Codes and Standards, website is the New Jersey Construction
+Reporter, which contains building permits, certificates of occupancy, and demolition data that is
+submitted by the municipal construction officials within the State each month. The New Jersey
+Construction Reporter has information dating back to 2000, which can be used to show the
+Township’s historic development trends.
+Between 2004 and 2023, the number of housing units certified in Southampton Township varied
+considerably from year to year, with the highest total occurring in 2006, when 92 units were
+certified. All of these were one- and two-family homes. Other years with relatively high certification
+numbers include 2005 with 23 units and 2007 with 28. In contrast, several years had little to no
+activity, including 2017 and 2023, when no housing units were certified. Multifamily certifications
+were rare and only occurred in 2016 and 2022, each with a single unit.
+Demolitions also fluctuated during this 20-year period. The highest number occurred in 2023, when
+21 buildings were demolished despite no new certifications. Other notable peaks include 2010
+
+Page 24 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 27 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                       Southampton Township HEFSP                            June 27, 2025
+
+
+and 2011, with 13 and 12 demolitions respectively. These patterns reflect a broader trend of
+uneven development activity, marked by brief periods of growth followed by years of inactivity or
+net loss.
+The data below illustrates Southampton’s housing activity from 2004 to 2023:
+
+                                    Housing Units Certified (COs)
+                                                                                     Buildings
+          Year
+                   1&2 family        Multifamily / Mixed Use      Total Certified   demolished
+
+
+          2004           15                      0                      15               9
+          2005           23                      0                      23              11
+          2006           92                      0                      92               8
+          2007           28                      0                      28               8
+          2008           11                      0                      11               9
+          2009            5                      0                       5               8
+          2010            8                      0                       8              13
+          2011            5                      0                       5              12
+          2012            3                      0                       3               8
+          2013            1                      0                       1               1
+          2014            2                      0                       2               0
+          2015            3                      0                       3               4
+          2016            1                      1                       2               0
+          2017            0                      0                       0               0
+          2018            1                      0                       1               1
+          2019            1                      0                       1               1
+          2020            0                      0                       0               0
+          2021            1                      0                       1               3
+          2022            0                      1                       1               1
+          2023            0                      0                       0              21
+
+
+The following table presents housing activity in Southampton Township from 2007 to 2023, including
+the number of housing units certified, buildings demolished, and the resulting net change in total
+units. Since 2008, the Township has experienced minimal housing growth, with only three (3) years
+(2008, 2010, and 2016) showing a net increase in housing units. Most years reflected either no net
+change or a net loss, as demolitions often slightly outnumbered new construction.
+The years 2007 and 2023 are noted as outliers, as both of these years included net increase /
+decreases over 20 units (+20 units in 2007, -21 units in 2023. However, as these net changes are
+similar to each other, the inclusion/removal of them in calculations for future projections is de
+minimis.
+
+                 Year         Total COs Issued       Buildings demolished    Net Change
+                 2004                15                         9                  6
+                 2005                23                        11                 12
+                 2006                92                         8                 84
+                 2007*               28                         8                 20
+                 2008                11                         9                  2
+                 2009                 5                         8                 -3
+
+Page 25 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 28 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                   Southampton Township HEFSP                           June 27, 2025
+
+
+                Year     Total COs Issued   Buildings demolished     Net Change
+                2010            8                     13                   -5
+                2011            5                     12                   -7
+                2012            3                      8                   -5
+                2013            1                      1                   0
+                2014            2                      0                   2
+                2015            3                      4                   -1
+                2016            2                      0                   2
+                2017            0                      0                   0
+                2018            1                      1                   0
+                2019            1                      1                   0
+                2020            0                      0                   0
+                2021            1                      3                   -2
+                2022            1                      1                   0
+                2023*           0                     21                  -21
+                * Marks beginning and end of statistical averaging period to
+                determine projection of NET changes in residential housing stock.
+
+
+As indicated above, the average NET change in housing units from 2007-2023 is -1.05 units, as it
+was seldom that the number of COs issued outpaced the number of demolition permits issued.
+When extrapolated to the year 2035 (12 years after the end of the statistical averaging period), it
+is estimated that the number of residential units in Southampton will decrease, by a potential of
+12 to 13 units (calculated -12.7) by 2035. While imperfect, this statistical projection accounts for
+the recent trend in construction and demolition, which Southampton has remained somewhat
+steady over the past 10+ years, with a slight skew towards a decrease in units.
+
+Projection of Affordable Residential Development
+  It is of note for this section of the report that Southampton’s lack of certification as part of the
+Third Round has resulted in somewhat “stale” ordinance language as it relates to necessary set-
+asides and inclusionary requirements for new construction. As a result, §12-4.12 of the Township’s
+ Zoning Ordinance, which concerns Fair Share Plan and Affordable Housing, does NOT include
+any mandatory set-aside for new development for the provision of low- and moderate-income
+ housing. However, the forgoing analysis has been performed assuming a 20% set-aside for low-
+and moderate-income housing, to serve as a frame of reference for the Township, and how the
+                  estimated development patterns compare to similar municipalities.
+
+
+As noted above, the projected number of residences overall by the year 2035 is to decrease by
+12 or 13 housing units. While this is a NET decrease, the estimated number of new building permits
+issued can provide insight into the number of “new” residences constructed. Using a similar
+statistical model as above, the average number of new residential building permits issued from
+2008 - 2023 on an annual basis is 2.19 permits per year (contrarily to above, the year 2007 is a
+significant outlier with 25 building permits issued, where the remainder of the statistical analysis
+period did not see more than 6 permits issued in any given year). Extrapolated over 12 years, this
+results in an approximate 26 new residences being constructed by the year 2035 (rounded from
+26.25. Of those 26 potential new residences projected to be built between now and 2035, should
+20% be reserved for low and moderate-income households (see note above), a potential 6
+affordable housing units are projected to be constructed by the year 2035 (rounded up from 5.25).
+
+
+Page 26 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 29 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                       Southampton Township HEFSP                              June 27, 2025
+
+
+
+   VIII. DETERMINATION OF ROUND 4 OBLIGATIONS
+Present Need
+The present need pertains to the deficient low- and moderate-income occupied homes in
+Southampton, sometimes referred to as Rehabilitation Need. The DCA estimated this need using
+the 2017-2021 ACS data. However, due to the small sample size in the ACS, there is a large margin
+of error. To obtain a more accurate assessment, the Township may consider conducting an
+Exterior Housing Conditions Survey by licensed inspectors to reduce the estimate of 33 units.
+
+                2017-21 Low and                2017-21 Low and
+             Moderate-Income Pre-             Moderate-Income                Present
+             1980 Overcrowded with            Lacking Complete      Need/Substandard/Deficient
+             Complete Plumbing and                Plumbing or       Low and Moderate-Income
+                Kitchen Facilities             Kitchen Facilities        Occupied Units
+                    (Estimate)                  (CHAS Table 8)
+
+                          23                          10                         33
+
+           See Table D Present Need & Substandard Housing of the Fourth Round Calculation Workbook
+                    https://www.nj.gov/dca/dlps/pdf/FourthRoundCalculation_Workbook.xlsx
+
+
+Prospective Need
+The Prospective Need is defined in the statute:
+       "Prospective need" means a projection of housing needs based on development and
+                           growth which is reasonably likely to occur in a region or a municipality,
+                           as the case may be, as a result of actual determination of public and
+                           private entities. Prospective need shall be determined by the
+                           methodology set forth pursuant to sections 6 and 7 of P.L.2024, c.2
+                           (C.52:27D-304.2 and C.52:27D-304.3) for the fourth round and all future
+                           rounds of housing obligations.
+The municipal Prospective Need is calculated by averaging the Equalized Nonresidential
+Valuation Factor, Land Capacity Factor, and Income Capacity Factor and multiplying this
+average by the regional Prospective Need for Region 5 or 9,134 in this instance and the
+Prospective Need for Southampton is 44.
+
+
+                      Equalized            Land       Income        Average       Regional        Municipal
+                    Nonresidential       Capacity     Capacity      Allocation   Prospective     Prospective
+                   Valuation Factor       Factor       Factor         Factor        Need            Need
+ Southampton
+   Township
+                        0.67%              0.03%        0.75%         0.48%           9,134          44
+                               https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml
+
+
+
+
+Page 27 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 30 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                         Southampton Township HEFSP                                     June 27, 2025
+
+
+
+
+   IX.       CAPACITY FOR FAIR SHARE
+This chapter of the Housing Element provides the following information as required by the rules:
+   •     The Township’s capacity to accommodate its housing needs.
+   •     A consideration of the lands that are most appropriate for construction of low and
+         moderate-income housing and of the existing structures most appropriate for conversion
+         to, or rehabilitation for, low and moderate-income housing.
+   •     Lands of developers who have expressed a commitment to provide low and moderate-
+         income housing.
+   •     The location and capacities of existing and proposed water and sewer lines and facilities
+         relevant to the proposed affordable housing sites.
+
+
+                                     Rehabilitation                                   FOURTH ROUND
+                                                               Prior Round
+                                    (Present Need)                                  (Prospective Need)
+          Obligation                        33                       0*                        44
+         * As noted above, Southampton, by way of Court Order, was in essence dismissed from the State
+         Affordable Housing Program amid Round 3. Thus, no surplus is carried to this round, nor does any of the
+         Prior Rounds’ potential “unmet need” carry to the Fourth Round.
+
+
+Compliance Options
+The recent amendment to the Fair Housing Act requires the Department of Community Affairs to
+determine housing obligations. The Amended Fair Housing Act requires each community to
+address substandard units occupied by low and moderate-income households. This component
+of need is commonly referred to as the “rehab component” or rehabilitation share in previous rule
+adoptions. This housing element will refer to substandard units occupied by low and moderate-
+income units as present need.
+
+
+Present Need Compliance Options
+Burlington County Rehabilitation Program
+As noted above, Southampton Township participates in the Burlington County Community
+Development Department’s Home Improvement Loan Program, which assists low- and moderate-
+income homeowners with necessary rehabilitation work. The program is administered by
+Community Grants, Planning and Housing (CGP&H), a reputable entity with extensive experience
+in delivering effective and compliant affordable housing rehabilitation services across New Jersey.
+Given CGP&H’s historic success and the program’s alignment with the Township’s housing
+rehabilitation goals, it is recommended that Southampton continue to rely on the County-
+administered program to meet its Present Need for housing rehabilitation. Continuing participation
+will ensure consistency, efficiency, and access to a well-managed, proven mechanism for
+addressing substandard housing conditions within the community.
+
+Municipal or Private Rehabilitation for Age-Restricted Development(s)
+Historically, one of the major defining characteristics of Southampton has been the dense, age-
+restricted residential developments in the town. The most notable of which is LeisureTowne, which,
+as of the 2020 U.S. Census, featured 3,842 residents in 2,291 census-defined occupied households.
+As a primarily owner-occupied residential development (93.3% per the 2020 U.S. Census), a dense
+concentration of housing in an otherwise extremely rural community such as Southampton
+Page 28 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 31 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                    Southampton Township HEFSP                             June 27, 2025
+
+
+provides an opportunity for a potential targeted housing rehabilitation program. Additionally,
+LeisureTowne as a whole recently turned fifty (50), with initial residents inhabiting the development
+in December of 1970. As such, with the housing stock also being over fifty (50) years of age in the
+development, there may be ample opportunity for housing rehabilitation, and the Township
+recognizes this.
+However, implementation of a municipal or private homeowner rehabilitation program is not
+proposed as part of this Housing Element and Fair Share Plan to address the Township’s Present
+Need Obligation. This is due to LeisureTowne being a restricted access community, and a lack of
+formal coordination with the community’s Homeowner’s Association (HOA) as of this report. It is
+recommended that the Township consider exploring this option in preparation for Future Rounds,
+to potentially provide opportunity for and rehabilitation needs following the year 2035.
+Prospective Need Compliance
+In planning for Southampton Township’s Round 4 Prospective Need mechanisms, it is important to
+take a comprehensive view that includes both existing affordable housing resources and potential
+opportunities for new development. The Township’s proposed strategy reflects this dual approach
+by recognizing existing group homes and other alternative living arrangements that likely already
+provide housing for low- and moderate-income residents, while also identifying viable land for
+future affordable housing construction. Of particular note is the Stokes Cannery site, located within
+the previously designated TC-1 Zone, which has long been identified as a suitable location for
+affordable housing and remains central to the Township’s strategy moving into the Fourth Round.
+Together, these elements form a coordinated and realistic path forward that leverages current
+assets and prepares for future needs. This approach aligns with sound planning principles and
+ensures that the Township continues to meet its obligations under the Fair Housing Act in a way
+that is both practical and context-sensitive
+
+Existing Group Homes
+Additional amendments to the FHA include provisions for Group Homes, supplementing P.L.1985,
+c.222 (C.52:27D-301 et al.). As described in Senate Bill S393, the following applies to “alternative
+living arrangements”, which includes group homes, as indicated below:
+    (1) A municipality may use an alternative living arrangement to address its fair share housing
+        obligation by entering into an agreement with the provider of an alternative living
+        arrangement or by granting preliminary approval to a developer of an alternative living
+        arrangement.
+    (2) One unit of credit shall be provided for each low- and moderate-income resident of an
+        alternative living arrangement.
+    (3) Controls on affordability on alternative living arrangements shall remain in effect for at
+        least 10 years.
+As defined in the bill and for the purposes of this report, “alternative living arrangement" means a
+structure in which residents share kitchen and plumbing facilities, central heat, and common
+areas. Alternative living arrangements include but are not limited to: transitional facilities for the
+homeless, boarding homes regulated by the Department of Community Affairs; residential health
+care facilities regulated by the Department of Health; group homes for the developmentally
+disabled and mentally ill as licensed or regulated by the Department of Human Services; and
+congregate living arrangements.
+Below are the existing group homes in the Township as of the time of this report.
+#         Owner/Entity Name                Address          Block     Lot     Year Built     # Bedrooms
+1   Capgrow Holdings JV Sub I LLC     106 Landing Street     903      15        1960             3
+2        Dakota Properties Inc           3 Ridge Road        1902    42.02      1985             3
+
+Page 29 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 32 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                  Southampton Township HEFSP                              June 27, 2025
+
+
+#         Owner/Entity Name               Address          Block     Lot     Year Built     # Bedrooms
+3          HEF Ventures, LLC           218 Indian Trail     405       6        2007             4
+4       Mendota Properties LLC          8 Indian Trail      404      24        2020             8
+5       Mendota Properties LLC       806 Crystal Avenue     302     1.01                        8
+6        Oaks Integrated Care       511 Meadowyck Lane      901       6        1967             5
+                                                                           TOTAL                31
+
+
+Land Capacity for Development
+Given that Southampton Township has identified one (1) potential location suited to wholly
+address its Round 4 Affordable Housing Prospective Need Obligation, land cannot be considered
+a scarce resource. The Township and the owner(s)/developer(s) of this site have confirmed that
+they meet the requirements discussed in N.J.A.C 5:93-5.3 et. al. An analysis of these requirements
+and their applicability to the identified location can be found below under “Statutory Land
+Requirements.”
+
+Appropriate Locations for Affordable Housing
+As is discussed in Section I of this report, the Township has a history of attempted compliance with
+the FHA and the Obligations determined for it by the various state agencies administering the
+Program over the years. These efforts in attempts to comply, at the time of adoption, were rooted
+in sound planning practice when identifying suitable locations for affordable housing. They are
+highlighted by the balance in the prior rounds’ plans identification of suitable locations including
+both vacant, undeveloped land (the RR-1 Zone) as well as lands that had been previously
+improved but are better suited for redevelopment (the TC-1 Zone). This balance, when identified
+as part of prior rounds, helped maintain consistency with the Township Master Plan, as well as
+preserving the rural character of the Township to a greater extent.
+These earlier planning efforts demonstrate that the Township approached its affordable housing
+obligations with thoughtful site selection, balancing development potential with environmental
+and community considerations. While conditions have evolved, the foundation of those decisions
+remains sound. Accordingly, this Housing Element reaffirms the TC-1 Zone as an appropriate and
+strategic location for affordable housing development. Its continued inclusion reflects both past
+planning logic and current readiness, aligning longstanding intentions with present-day
+opportunity.
+
+
+431 North Main Street – Formerly Known as “Stokes Cannery”
+The former Stokes Cannery located at 431 North Main Street (Block 903, Lot 21), which is within the
+TC-1 Zone, is located adjacent to Vincentown Village and has been designated as an Area in
+Need of Redevelopment pursuant to the NJ Local Redevelopment and Housing Law (LRHL).
+Historically used for food processing, the site faced significant redevelopment challenges due to
+historic environmental contamination. However, remediation has progressed positively and
+steadily since the early 2000s and is nearing completion, clearing the way for redevelopment.
+The site is well-positioned to accommodate affordable housing, with access to public utilities,
+inclusion in the Township’s sewer service area, and proximity to local services and Southampton’s
+only designated center. Its location also supports walkability and is near the Vincentown Historic
+District, presenting opportunities for context-sensitive design that can complement the area’s
+character.
+Where a 20% affordable set-aside was envisioned in the Township’s prior affordable housing
+planning efforts, dating back to 2002, the current approach as part of this Housing Element and
+Fair Share Plan reflects a shift in both planning strategy and obligation fulfillment. A 100%
+Page 30 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 33 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                   Southampton Township HEFSP                          June 27, 2025
+
+
+affordable housing development is now contemplated for the site, increasing the density of
+affordable units while maintaining sensitivity to local context and infrastructure limitations.
+Additionally, the current zoning for this property allows for a gross residential density of eight (8)
+units per acre, as well as mixed-use nonresidential development. The following dwelling types are
+permitted currently within the TC-1 Zone:
+   A) Detached single-family dwellings, provided at a minimum of 20% of all housing types.
+   B) Townhouses, duplexes and triplexes, provided at a minimum of 20% of all housing types,
+      but the total of such units shall not exceed 60% of all housing types.
+   C) Apartment dwellings provided that the total of such units should not exceed 40% of all
+      housing types.
+It is envisioned that the permitted uses and distribution of unit types will be amended to allow for
+a 100% rental townhouse development, inclusive of residential amenities and the like. As this site
+is located within a designated Area in Need of Redevelopment, it is likely that the current bulk
+standards will be subject to change under the powers of the LRHL.
+In the Township’s 2002 planning efforts, a total residential yield (for both affordable and market-
+rate dwellings) of 56 units was contemplated for the TC-1 Zone, providing affordable units through
+a 20 percent set-aside. This housing element and fair share plan proposes that the site be planned
+to accommodate 60 total units. Although this represents only a modest increase in the overall
+number of units, the shift to a fully affordable development significantly enhances the Township’s
+ability to meet its fair share housing obligation.
+A map of this location and its relation to Vincentown can be found herein titled “TC-1 Affordable
+Housing Site.”
+
+Statutory Land Requirements
+In accordance with the requirements of N.J.A.C 5:93-5.3, municipalities shall designate sites that
+are available, suitable, developable, and approvable (defined in N.J.A.C 5:93-1.3) and align with
+the SDRP, per N.J.A.C. 5:93-5.4. The subject property addresses these conditions as follows:
+   Available. Sites that are “available” have clear title and are free of encumbrances which
+   preclude development. As of this report, there are no legal encumbrances that preclude
+   development or redevelopment of this site for affordable housing.
+   Approvable. Sites that are “approvable” can be developed in a manner consistent with the
+   rules or regulations of all agencies with jurisdiction over the site. As previously discussed, the
+   designation of this property for an affordable housing use was founded in sound planning as
+   part of 2002 efforts. Additionally, the proposed “concept” development for the property, as
+   discussed further below in “Potential Affordable Housing Developers”, conforms to the majority
+   of the current bulk standards for the site and wholly with the current use standards for the site.
+   Developable. Sites that are “developable” have access to appropriate water and sewer
+   infrastructure and are consistent with the areawide water quality management plan. The site
+   is located within one (1) of the Township’s sewer service areas, which are relatively sparse
+   throughout Southampton. As of this report, analysis and coordination between the Township
+   Engineer and the Utility entity in control of this sewer service area are ongoing, though this is
+   to determine whether any additional facilities/equipment would be required for the subject
+   site.
+   Suitable. Sites that are “suitable” are adjacent to compatible land uses, have access to
+   appropriate streets, and are consistent with the environmental policies of N.J.A.C. 5:93-4. The
+   property is situated along North Main Street, a county road, with access stemming directly
+   from it. While there are limited multifamily uses in the area in general, this site’s proximity to
+   Vincentown is compatible, as the residential uses in Vincentown are among the most-dense
+   areas in Southampton outside of planned unit developments. While wetlands are noted for
+Page 31 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 34 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                   Southampton Township HEFSP                       June 27, 2025
+
+
+   the property as a whole, the gross area of 21.0 acres contains a significant amount of uplands
+   in the area closest to the Main Street frontage. Generally, all wetlands and floodplains lie in
+   the site’s rear (westerly area). There are no steep slopes nor Category One streams that
+   encumber the site.
+   Smart Growth Planning. The 2001 Adopted State Plan Map and the 2025 Preliminary State Plan
+   Map designates all of the non-Pinelands area of the Township as the Rural Planning Area (PA
+   4). The intent of PA 4 is as follows:
+       o   maintain the Environs as large contiguous areas of farmland, open space, and
+           forested areas;
+       o   enhance habitats and sensitive lands;
+       o   accommodate growth in Centers;
+       o   reverse auto-oriented patterns of development;
+       o   promote a viable agricultural or forestry industry;
+       o   revitalize cities, towns, and other traditional settlements;
+       o   protect, enhance, and diversify the existing character and agricultural economy of
+           stable communities; and
+       o   confine programmed sewers and public water services to Centers, except where
+           public health is at stake.
+   While generally the SDRP designation of lands (outside of the Pinelands) in Southampton are
+   not recommended for dense growth, the subject site lies within the Vincentown Village, which
+   is a center as defined in the SDRP. Thus, focusing development within the Township’s only
+   designated Center aligns with the intent of the Planning Area for the Township and thus,
+   advances the principles of Smart Growth.
+
+Satisfaction of the Fourth Round Prospective Need Obligation
+On January 21, 2025, Southampton Township filed a binding resolution with its DJ action declaring
+a Fourth Round Present Need of 33 and a Fourth Round Prospective Need of 44, as calculated by
+DCA according to the methodology described in the 2024 DCA report titled Affordable Housing
+Obligations for 2025-2035 (Fourth Round) Methodology and Background. The minimum number of
+affordable family units and maximum number of age-restricted affordable units are established
+using the following formulas:
+Minimum Fourth Round Rental Obligation = 9 units
+0.25 x (44 – 11 bonuses = 33) = 8.25 units, required to round up
+Maximum Fourth Round Age-Restricted Units = 9 units
+0.30 x (44 – 11 bonuses = 33) = 9.9, required to round down
+Minimum Fourth Round Very Low-Income Units = 8 units
+0.13 x (60 Fourth Round units) = 7.8, required to round up
+Minimum Fourth Round Family Units = 17 units
+0.50 x (44 – 11 bonuses = 33) = 16.5, required to round up
+Minimum Fourth Round Family Rental Units = 9 units
+0.50 x (17 minimum rental requirement) = 8.5, required to round up
+Minimum Fourth Round Very Low-Income Family Units = 5 units
+0.50 x (9 very low-income requirement) = 4.5, required to round up
+Maximum Fourth Round Bonuses = 11 bonuses
+
+Page 32 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 35 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                    Southampton Township HEFSP                              June 27, 2025
+
+
+0.25 x (44) = 11, required to round down
+As summarized in Table 32, Summary 0f Credits/Bonuses Addressing Fourth Round Obligation, the
+Township proposes to address its Fourth Round prospective need obligation with its existing
+alternative living arrangement facilities, a 100% affordable housing development, and Fourth
+Round bonuses.
+
+Southampton Township’s Fourth Round Compliance
+                                                                   Credits       Bonuses         Total
+Mechanisms: 44 Unit Fourth Round Obligation
+
+100% Affordable Development – Amended Zoning
+
+Stokes Cannery (Michaels) – 100% affordable rental units              60         11 (cap)          71
+
+Existing Group Homes
+
+Capgrow Holdings JV Sub I LLC – 3 BRs                                 3*             -             3
+
+Dakota Properties Inc – 3 BRs                                         3*             -             3
+
+HEF Ventures, LLC – 4 BRs                                             4*             -             4
+
+Mendota Properties LLC – 8 BRs                                        8*             -             8
+
+Mendota Properties LLC – 8 BRs                                        8*             -             8
+
+Oaks Integrated Care – 5 BRs                                          5*             -             5
+
+                                          TOTAL (min / max)        60 / 91          11         71 / 102
+
+* Representative of a maximum number of credits following NJDCA Supportive and Special Needs
+Housing Survey(s) completion
+
+Future Excess: Maximum of 58, minimum of 27
+[71 total – 44 (Fourth Round) + [POTENTIAL] 31 (Group Homes)] = Min. 27 / Max. 58 Excess Credits
+                                                                following Round 4 obligation satisfaction
+
+
+
+The locations of these sites included in the above table are shown herein on the aerial map
+entitled “Affordable Housing Sites.”
+
+Availability of Public Utilities
+In total, there are nine (9) separate sewer service utilities providing service to pockets throughout
+Southampton, including areas which only serve individual properties/developments. Those utilities
+are:
+   1. Pinelands Wastewater Company – Includes Vincentown and LeisureTowne
+   2. Proposed Pinelands Center Future Wastewater Service Facility – Primarily in Medford
+      Township, with portion including southern border of Southampton
+   3. Richards Mobile Home Park – Individual Property/Manufactured Homes HOA Treatment
+      Facility
+   4. Mobile Estates of Southampton – Individual Property/Manufactured Homes HOA Treatment
+      Facility
+   5. Wawa at Routes 38 and 206 – Individual Property Treatment Facility
+
+Page 33 of 35
+    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 36 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                 Southampton Township HEFSP                        June 27, 2025
+
+
+   6. Vincentown Diner (To be renamed following Development of an approved Future
+      Warehouse) – Individual Property Treatment Facility
+   7. Red Lion Diner (To be renamed following Development of an approved Redevelopment)
+      – Individual Property Treatment Facility
+   8. Apanay Cafe – Individual Property Treatment Facility
+   9. Genie House – Individual Property Treatment Facility
+A map of these sewer service areas can be found herein.
+Historically, Southampton’s sewer service area has been a major consideration when planning
+large-scale development. As such, any development for affordable housing locations will have to
+respect this, at times, challenging obstacle. Additionally, the Township’s approximate three-
+quarter land area being within the Pinelands area poses further potential obstacles for
+development. It is noted that of the Pinelands Management Areas within the Township’s borders,
+none of which are Regional Growth Areas, which are among the only areas within the Pinelands
+Commission’s jurisdiction where sewer service is permitted.
+However, among the non-Pinelands Areas, the Pinelands Wastewater Company provides sewer
+service to the Village of Vincentown (and the area surrounding the Village). The Pinelands
+Wastewater Company also serves the area around LeisureTowne, though the service areas for
+each of Vincentown and LeisureTowne are noncontiguous. This sewer service area is among the
+only systems in the Township which may have the capacity for future development.
+
+Potential Affordable Housing Developers
+At the time of this report, a potential affordable housing developer has been identified for the
+Stokes Cannery site. The Michaels Organization is a seasoned affordable housing developer,
+constructing successful affordable housing locations throughout the state and country for over 50
+years. Some notable nearby developments by Michaels include “Hartford Village” at 129 Hartford
+Road (Medford) and “Centerton Village” at 101 Centerton Road (Mount Laurel). The following
+from Michaels describes the developer’s longtime commitment to providing affordable housing
+opportunities:
+
+
+
+           “The Michaels Organization is the nation’s largest private sector owner of
+         affordable housing and one of the country’s most active affordable housing
+          developers and managers. Our expertise spans the gamut from single tax
+             credit communities, to full-scale mixed-income, and mixed-financed
+         neighborhood revitalizations. We succeed because we see each community
+         as a collaboration with local stakeholders and because we’re committed to
+               the long-term success of both the property and the community.”
+
+
+
+Conceptual renderings for the Stokes Cannery site can be found in Appendix E.
+
+Anticipated Development Patterns
+Anticipated land use patterns within Southampton will be compatible with the established zoning
+districts, purposes of zoning, and zoning map (shown on the next page). The Township’s zoning
+districts and their purposes are found in Appendix D.
+
+
+
+
+Page 34 of 35
+     BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 37 of 40 Trans ID: LCV20251889326
+
+
+Project 70500 00                 Southampton Township HEFSP               June 27, 2025
+
+
+Appendix A             Planning Board Resolution
+Appendix B             Governing Body Resolution
+Appendix C             EXHIBIT 1 Proposed Fourth Round Site
+Appendix D             ZONING MAP Southampton Township
+Appendix E             Conceptual Site Plans for Round 4 Site
+Appendix F             Current Southampton Affordable Housing Ordinance
+Appendix G             Current Southampton Development Fee Ordinance
+Appendix H             Crediting Documentation
+
+4909-1539-4892, v. 1
+
+
+
+
+Page 35 of 35
+                                    BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 38 of 40 Trans ID: LCV20251889326
+
+
+
+                     Sewer Service Areas in Southampton Township
+
+
+                                                                                                                                                                                                                                                                                                                                ²
+                                             W                                                                                                                                                                                                       RD
+                                                                                                                                                                                                                                              TVILLE
+                                                                                                          US 206
+                       HWY 38
+                                                   RAILR
+                                                        OAD                                                                                                                                                                              POIN                                                                                        JU
+ HWY 38
+                Lum                                         AV                                                      Vincentown                                                                                                                                                                                                            LIU
+                                                                                                                                                                                                                                                                                                                                             ST
+                    be
+                Town rton                                                    RR                                     Diner                                                                                                                                                                                                                      OW
+                                                                                                                                                                                                                                                                                                                                                 N
+                                                                                            I
+                                                                                                                                                                          berton
+                                                                                                                                           INDIAN TR Richards                                                                                                                                                                                              RD
+                     ship
+                                                          Wawa at Rts HC                                           MR                 RR                              Pem gh
+                                                                                                                                                                 Mobile
+    BOB B YS RUN
+                                                           38 and                                                  S PEMBERTON RD                                       orou
+                                                                                                                                                                 HomeBPark
+                                                                AR206                                                                                                                                           ST
+
+
+                                                                                                                                                      BIRMINGH
+                                                                                                                                                                                                                                                                          PEMBERTON BROWNS MILLS RD
+                                                                                  RR1                                                                                                                         OVER           PE
+ MUNICIPAL DR                                                            RD
+                                                                                AR
+                                                                                                                                  Mobile                                                                                          MB
+                                                                                                                                                                                                                                     E                                                                                                                     RANC
+                                                                                                                                                                                                                                                                                                                                                               OC
+                                                                                                                                                                                                          HAN                            RT
+                                                                     ILLE
+                                      NE                                                                                          Estates of                                                                                               ON
+                                                                                                                                                                                                                                                B Y PA S S                                                                                                       AS
+                                                                                       Pinelands
+                                                                                                                                                        AM RD
+                                           W
+                                            BO                      TH V                                                                                                                                                          N
+                                                 LD                                                                               Southampton                                                                                   OW                                                                                                                                  LN
+ E                                                 S
+                                                       CO       SMI                    Wastewater                                                                                                             UN
+                                                                                                                                                                                                                              ET                                  NEW LISBON RD
+                                                                                                                                                                                                                           AP
+                                                                                                                                                                                                                KN
+     ND                                                  RN                                                                                                                                                        OW
+   LA
+          NG                                                E   R                      Company                                                                                                                         S CR
+                                                                                                                                                                                                                        N                                                                              FO                                MT
+                                                                    RD                                                                                                                                                                                                                                                                      MIS
+        I
+               ST                                                                                                                                                                                                                                                                                                                               E
+                                                                                   ST                                                                                                                                              RD                                                                      UR                                         RY
+ Lum
+                                                                                                                                                                                                                                                                                                              M                                          R   D
+                                                                                                                                                                                                                                                                                                                  ILE
+                               LAN                                             AIN                                                             PEMBERTON R
+                                                                                                                                                           D                                                                          RD
+     b                                                                                                      Pinelands                                                                                                                                                                                                   RD
+
+Tow erton
+                                  DIN
+                                     GS                                     NM                                                                                                                                                OW
+                                                  T                               VC                        Wastewater                                                                                                          N
+
+   nshi                                                                                                                                                            RD                                     Pe SIMON T
+                                 RD                                                                                                                                                                         mb
+                                                                                                                                               D
+                                                                                                            Company
+        p                     WN             CHU
+                                                RCH R
+                                                     D
+                                                                             TC          HC                                                BRA
+                                                                                                                                                                 GE
+                                                                                                                                                                                                               ert
+                            TO
+                                                                                                                                              CE R         RI                                                      on
+                                                                                                                                                                                                                                         Tow
+                                                                                                         BUDDTO                                               D
+                        RES
+                                                 RR                                             MC                                                                                                        ONG      S HAT
+                                                                                                               WN RD
+                                                                                                                                                                                                                             RD
+                                                                                                                                                                                                                                             n       s hip
+                     EAY
+                                                                                                                                                               AP
+                                                                                                                                                                                                                                                                                                                                         H RD
+
+Medford T
+                                                                                                                                                                         ISAAC
+                                                                                                AP/I
+                                                                                                                                                                               BUD                                                                                                                                                 PA
+
+
+           own
+                                                                                                                                                                                   D                      RD                                                                                                                         TC
+                 RD                                                        D                                                      Pinelands
+                                       HILLARD BRIDG E R                                  I                                                                                                                                                                                                                                          A              GE RD
+                                                                                                                                                                                                                                                                                                                                PE
+
+              ship
+              ILL                                                                                                                                                                                                                                                                                                                               R ID
+                  E                                                                                                              Wastewater                                                                                                                                                                  Apanay    DB
+                                                                                                                                                                                                                                                                                                                    Cafe
+                                                                                                                                                                                                                                                                                                                  ZZAR
+                                                                                             US 206
+                                                                                                                                                                                                                                                                                        MA
+                                                                                                                                                                                                                                                                                             GNO                        BU
+   CH
+                                                                      RED                                                         Company                                                     RETR E AT RD BURR                                                                                 LIA                   Y
+                                                                                                                                                                                                               S                     MI                                                               RD           KE
+      AIRV                                                                    ON                                        RD                                                                                                              LLS                                                                      UR             MI
+                                                                                                                                                                                                                                                                                                                                   LE
+                                                                           LI                                      GE                                                                                                                       R            FC                                                 T
+                            AR                                                    RD                        RI
+                                                                                                               D                                                                                                                                D                                                                                    RD
+                      NE W FREEDOM RD
+                                                                                            Genie House                                                                  BI                                                                                                                                                                SH
+                                                                                                                                                                             G                                                                                                                                                                   IN
+                                                                                                                                                                 HU                 HI                                                                                                                                        RD                      NS
+                                                                                                                                                                   N                   L L                                                                                                             FB                                                  RD
+                                                                                                                                                                                             RD
+                                                                           I                                                                                                                                                                                                                                            MIL
+                                                                                                                                                                                R
+                                                                                                                                                                                                                                                                         O                                                                                 HW
+                                                                                                                                                                                                                                                                                                                           E
+
+                                                                                                                                                                   TIN G T O N D
+       D                                                                                                  Red Lion                     RD                                                                                                                         FA    X FO
+                                                                                                                                                                                                                                                                                                                                                                 Y7
+
+                                                                                                                                                         LVD
+    TR                                                                                                                                                                                                                                                                                                                                                               2
+                                                                                                          Diner
+                                                                                                                                                    LY B
+                                                                                                                                                                                                                                                                         R   D
+                                                                                                                                                                                                                                                                                 C IR
+                                                                                                                                                                                                                                                                                                                        ship
+  EE                                             HC
+                                                                                                                                                 HOL
+                                                                                        HC                                                                                                                                         FB
+                                                                                                                                                                                                                                                                                                           wn
+SK
+                                                                                                                                                                                                                                                                      RTH FIRE LN SOUTH
+                                                                                                                                                                                                                                                 FIRE LN NO
+                                                                                                                                                                                                                                                                                                      d To
+                                                                           HW Y
+                                                                                       70
+                                                                                                                                               Proposed Pinelands
+                 HA                                                                                                  IE
+                                                                                                                                 HWY 70
+                                                                                                                                                          FIRE LN SOUTH
+                                                                                                                                                                                                                                                                                       od      lan
+                                                                                                                                                                                                                                                                                    Wo
+                   W                                                                                               FR
+                    KI                                                                                                                         Center Future Wastewater                                                             FC
+                                                                                                                                                                                                                                                      AVENUE RD
+                          NS                                                                                              ND                                                                                                                                                                          EM
+                               RD                                                                 US                             SH            Service Facility                                                                                                                                             CY
+                                                                                                                                      RD                                                                                                                                                                 GEN
+                                                                                                                                  IP
+                                                                                                       206                                                                                                                                                                                             ER
+                Proposed Pinelands                                                                                                                                                                                                      EL L
+                                                                                                           RC                                                                                                     LN                PO W
+                                                                                                                                                                       hip                                    OAK
+                                                                                                                                                                 Towns
+                Center Future Wastewater
+                                RC
+                                                                                                                                       nacle
+                                                                                                                                                                                                                                         RD
+                                                                                                                                 Taber
+                Service Facility                                                                                                                                           PO
+                                                                                                         LS                                                                                                    W ELL PLACE RD                                         SO     SOOY PLAC
+                                                                                                            RD                                                                                                                                                                         E RD
+                                                                                                                                                                                                                                                     SEWA
+                                                                                                                                                                                                                                                                        UT
+
+                                                                           SUMMIT
+                                                                                       L EE D R                                                                                                                                                                           H
+                                                                                                                                                                                                                                                         Y RD
+                                                                                                                                                                                                                                                                            PA
+                                                                                                   IAN MIL
+ TAB
+
+                                                                                  DR
+    ERN                                                                                                                                                                                                                                                                       RK
+
+
+                                                                                                                    RICHTER RD
+                                                               S
+                                                            ETT
+        A      CLE                                                                                                                                                                                                                                                               R
+                       RD
+                                                         ICK
+                                                                                                                                                                                                      PA                                                                            D
+
+
+
+
+                                                                                                                                                                                       ZIMMERMAN RD
+                                                                                                                                                                                                                                                 SC
+                                                       PR
+                                                                                                                                                                                                        TT
+                                                                                                              D
+                                                                                                                                                                                                                                                   AU
+                                                                                                       OLD IN
+                                                                                                                                                               RD                                         Y
+                                                                                                                                       CA                                                                     BO
+                                                                                                                                                                                                                W                               CK
+                                                                  D                                                                                       NEW
+                                                                                                                                                                                                                                                                                                                   ip
+                                                                                                                                       RR
+                                                                LR
+                                                                                          RD                                                                                                                     KE                        IRI
+                                                             MIL                                                                                                                                                                                                                                                sh
+                           MC K                                                                                                            AN                                                                      R
+                               ENDIME                                                                                                                                                                                   RD
+                                                                                OAK
+                                                                                                                                                                                                                                                                                                             wn
+                                      N                RD                                                                                     ZA
+                                                                                   SHA
+                                                                                                        MED
+                                                                                                           FOR                                                                                                                                                                                                          ip
+                                                                                                                                                                                                                                                                                                          To         sh
+                                                                                                                                                RD
+                                   rd                                                 DE
+                                                                                                              D LA
+                                dfo ip                                                                                                                                                                                                                                                                            wn
+                                                                                                                  KE S
+                                                                                                                                                                                                                                                                                                     nd
+        OK                                                                                                                              RD
+      ST                      e
+                             M nsh                                                                                                                                                                                                                                                                             To
+                                                                                                                                                     D
+                                                                                                                                                                                                                                                                                                  dla
+                                                                                                                                              R
+                                       Proposed Pinelands                                                                                 ATT
+                             Tow                                                                                                                                                                                                                                                                            le
+          ES
+                                                                                       T                                               FLY
+            RD                                                                     NO R
+                                                            Center Future Wastewater
+                                                                                                                                                                                                                                                    CHATSW
+                                                                                                                                                                                                                                                                  O                            oo        ac
+               TU
+                                               H
+                                                                                                                                                                                                                                                         1.5 RTH RD                           W 0     rn                                   1.5
+                                                                                                                                                                                                                                                                                                   be
+                     CK                                                                     DR
+                       ER                                   Service Facility RD                                                                                                                                                                                                                                                              Miles
+                                                                                                                                                                                                                                                                                                Ta
+                         TO                                                                      T
+                           NR                                                                  AT
+                             D                                                              FLY
+
+
+                                                                                                                                                                                                                                                                                                                             Mansfield Township
+
+  Legend                                                                                                                                                                                                                                                                                                                         Springfi
+                                                                                                                                                                                                                                                                                                                                         eld
+                                                                                                                                                                                                                                                                                                                                 Townsh                       New
+                                                                                                                                                                                                                                                                                                                                          ip
+                                                                                                                                                                                                                                                                                                                                                            Hanover
+                        Southampton Zoning Districts                                                                                                                                                                                                                                                                                                        Township
+                                                                                                                                                                                                                                                                                                                 Lumbe                            Pem
+                                                                                                                                                                                                                                                                                                                       rto
+                                                                                                                                                                                                                                                                                                                                                      b
+                                                                                                                                                                                                                                                                                                                                                  Tow erton
+                                                                                                                                                                                                                                                                                                                 Townshi n
+                        Parcels                                                                                                                                                                                                                                                                                          p
+                                                                                                                                                                                                                                                                                                                                                     nshi
+                                                                                                                                                                                                                                                                                                                                                          p
+                        Surrounding Municipalities                                                                                                                                                                                                                                                           Medford    Southampton
+                                                                                                                                                                                                                                                                                                            Township     Township
+                        Sewer Service Areas                                                                                                                                                                                                                                                                                                                      Woodland
+
+                                                                                                                                                                                                                                                                                                                                 Tabernacle                      Township
+                                                                                                                                                                                                                          815 EAST GATE DR. SUITE 103
+                                                                                                                                                                                                                                                                                                                                  Township
+    Date: 6/12/2025                                         Drafted By: PVB                                                                                                                                             MOUNT LAUREL, NEW JERSEY 08054
+                                                                                                                                                                                                                        TEL. 856-235-7170 FAX 856-273-9239
+                                                                                                                                                                                                                                                                                                                  Shamong Township
+BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 39 of 40 Trans ID: LCV20251889326
+BUR-L-000157-25 06/30/2025 9:20:44 AM Pg 40 of 40 Trans ID: LCV20251889326
+

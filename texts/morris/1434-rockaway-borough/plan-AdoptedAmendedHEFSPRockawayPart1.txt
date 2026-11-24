@@ -1,0 +1,1624 @@
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 1 of 53 Trans ID: LCV2026672192
+
+
+
+
+         Borough of Rockaway
+             Morris County
+     Housing Element and Fair Share Plan
+          Round Four (2025-2035)
+
+
+
+                          Prepared For:
+
+
+
+
+                       1 East Main Street
+               Rockaway Borough, NJ 07866
+
+
+
+                Adoption Date: June 3, 2025
+               Amended Date: March 3, 2026
+          MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 2 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                   1
+
+
+
+Acknowledgements
+Mayor                                                  Business Administrator
+Thomas Mulligan                                        Patricia Reiche (2025)
+
+Borough Council                                        Borough Attorney
+Melissa Burnside, Council President                    Joseph Bell IV, Esq.
+Thomas Slockbower
+Thomas Haynes                                          Affordable Housing Counsel
+James Hurley                                           Richard Beilin, Esq.
+Patrick McDonald
+Andrew Agliata                                         Borough Administrative Agent
+                                                       Marc Leckington
+Land Use Board
+Kenneth Banbor, Chairperson                            Borough Clerk
+Kenneth Blair                                          Kimberly Cuspilich
+Joyce Freiermuth
+Ronald Hamman                                          Land Use Board Engineer
+William Hopler (2025 LUB)                              Samantha Anello, P.E.
+Mark Howarth
+James Hurley                                           Land Use Board Attorney
+Barbara Koch                                           John Mills, Esq.
+Janet Leonard (2025 LUB)
+Thomas Mulligan                                        Land Use Board Secretary
+Kim Rose                                               Colleen Reardon
+Robert Schaefer
+
+
+                                             Prepared by:
+
+                                   ____________________________
+                                     Golda MacMillan, AICP/PP
+                                  Planner License No. 33LI00639400
+
+                                        Supporting Staff:
+                               Marc Lincer, AICP, CAPM, Planner III
+                                     Sahana Kumar, Planner I
+
+        The original of this report was signed and sealed in accordance with N.J.S.A. 45:14A-12.
+                     MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 3 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                                                                                  2
+
+
+Table of Contents
+I.        2026 Amendment ......................................................................................................................................... 3
+II. Introduction .................................................................................................................................................. 4
+     A.       History of New Jersey Affordable Housing Policy ........................................................................... 4
+     B.       Housing Plan Requirements ................................................................................................................. 7
+III. Housing Element: Municipal Summary ................................................................................................ 10
+     A.       Housing Conditions .............................................................................................................................. 11
+     B.       Housing Projections.............................................................................................................................. 15
+     C.       Demographic Characteristics ............................................................................................................. 18
+     D.       Multigenerational Housing Continuity ............................................................................................ 20
+     E.       Employment Data ................................................................................................................................. 21
+IV. Fair Share Plan: Obligations and Compliance Plan ............................................................................ 22
+     A.       Introduction and Fourth Round Changes ........................................................................................ 22
+     B.       Prior Round Need Compliance “Look Back” (2015-2025) ............................................................. 22
+     C.       Present and Prospective Need Obligation (2025-2035) .................................................................. 26
+     D.       Other Housing Zoning Considerations ............................................................................................ 33
+V. Appendices ................................................................................................................................................. 35
+     A) Regulatory Resolution (Adopting Obligation Number) and Court Order Fixing Municipal
+     Obligation ....................................................................................................................................................... 36
+     B)       Zoning Amendment (Downtown Redevelopment Plan) .............................................................. 41
+     C)       Affordable Housing and Developer Fee Ordinance ...................................................................... 43
+     D) Affirmative Marketing Plan ................................................................................................................ 89
+     E)       Spending Plan ........................................................................................................................................ 94
+     F) Resolution of intent to fund cost of municipality’s municipally sponsored affordable
+     housing development ................................................................................................................................. 103
+     G) Resolutions appointing Administrative Agent(s) and ordinance creating the position of and
+     appointing the Municipal Affordable Housing Liaison....................................................................... 108
+     H) Rehabilitation Manual........................................................................................................................ 111
+     I)       Settlement Agreement ....................................................................................................................... 130
+     J)       Program Settlement ............................................................................................................................ 141
+              MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 4 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                  3
+
+
+
+I. 2026 Amendment
+Content replaced by revisions or that is otherwise no longer applicable is in strikethrough, while
+new / revised content is in green italics.
+
+
+This Housing Element and Fair Share Plan (“HEFSP”) was adopted by the Land Use Board on June 3,
+2025, and subsequently submitted to the Affordable Housing Dispute Resolution Program (the
+“Program”) on June 4, 2025.
+On September 2, 2025, the Fair Share Housing Center (“FSHC”) filed a challenge to the Borough’s
+HEFSP pursuant to N.J.S.A. 52:27D-304.1(f)(2)(b)1
+Thereafter, the Borough and FSHC agreed to amicably resolve the issues raised in the challenge through
+a settlement agreement, which was submitted to the Program and referred to the Mount Laurel judge
+in accordance with N.J.S.A. 52:27D-304.1(f)(2)(b) and Administrative Directive #14-24. As a result of
+the settlement the Borough received a compliance certification for the Fourth Round. See Appendices J
+and K for copies of the settlement agreement and compliance certification.
+Accordingly, this Amendment is necessary to implement the terms of the settlement agreement. The
+changes include:
+      1. Revisions to the Borough’s rehabilitation manual to commit to providing rehabilitation
+         assistance to renters.
+      2. Revisions to the Third and Fourth Round crediting charts set forth in paragraphs three (3) and
+         six (6) of the settlement agreement.
+
+
+
+
+1
+    Case Number MRS-L-000205-25
+                MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 5 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                  4
+
+
+
+
+II. Introduction
+       This Housing Element and Fair Share Plan will exhibit the Borough of Rockaway’s (herein the
+       “Borough” or “Rockaway”) commitment to providing affordable housing within the
+       municipality. This document seeks to frame Rockaway’s efforts based on the current best
+       knowledge of the affordable housing framework created by the State, applicable past rules
+       established by the Council on Affordable Housing (COAH), and the requirements of P.L.2024,
+       c.22 (the “Law” or “Amended Law”) which governs municipal responsibilities concerning
+       provisions of affordable housing in the Fourth Round.
+       This Plan has three sections. The first section (“Introduction”) includes a brief history of New
+       Jersey Housing Policy. The second section (“Housing Element”) includes a Demographic
+       Analysis, Housing Inventory, Employment Analysis, and review of land uses and policies, as
+       required by statute. The third section (Fair Share Plan) summarizes the Borough's affordable
+       housing obligations for 2025-2035 and its plan for complying with these obligations.
+
+
+       A. History of New Jersey Affordable Housing Policy
+       1975 – 1985 | Mount Laurel Doctrine and the Fair Housing Act
+       In 1975 the New Jersey Supreme Court decided Southern Burlington County NAACP v. the
+       Township of Mount Laurel, more commonly referred to as “Mount Laurel I,” wherein it
+       interpreted the New Jersey Constitution to create an affirmative obligation for developing
+       municipalities to provide a “realistic opportunity for the construction of low- and moderate-
+       income housing in their communities.” In 1983, the New Jersey Supreme Court expanded the
+       obligation from only developing municipalities to all municipalities in a decision commonly
+       referred to as “Mount Laurel II.” In addition, the Supreme Court required the establishment of
+       each municipality’s fair share obligation and required each municipality, through its zoning, to
+       provide a realistic opportunity for the construction of that established fair share obligation.
+       Subject to several prerequisites, conditions and requirements, Mount Laurel II also created the
+       “builder’s remedy” as a mechanism to enforce the doctrine in instances where a developer
+       successfully demonstrated a municipality’s zoning failed to create the requisite realistic
+       opportunity. Under such circumstances, a plaintiff may be entitled to have its site rezoned for
+       an inclusionary development with an affordable set aside if the site is available, developable,
+       approvable, and suitable for the proposed project and all other requirements for a successful
+       builder’s remedy are met and all defenses defeated.
+       In 1985, in response to Mount Laurel II and the flood of litigation stemming from it, the
+       Legislature adopted the Fair Housing Act (“FHA”) to discourage litigation and incentivize
+       voluntary compliance (see N.J.S.A. 52-27D-303). The FHA established, among other things, the
+
+2
+    https://pub.njleg.state.nj.us/Bills/2024/PL24/2_.PDF
+       MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 6 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                              5
+
+
+Council on Affordable Housing (“COAH”) as an administrative alternative to litigation and
+judicial intervention. COAH was charged with establishing various housing regions in the state,
+estimating regional affordable housing obligations, and adopting criteria and guidelines for the
+municipal determination of housing need as well as guidelines for satisfying those obligations.
+The FHA also linked municipal planning and zoning powers to the satisfaction of affordable
+housing obligations. Under the FHA, a municipal zoning ordinance is presumptively invalid if
+a municipality fails to adopt a housing element as part of its master plan or enacts zoning
+regulations that are inconsistent with their housing plan.
+1987 – 2004 | Establishment and Administration of First Round and Second Round COAH Rules
+After the adoption of the Fair Housing Act, COAH adopted procedural and substantive rules to
+effectuate the FHA’s legislative intent in both the First Round (1987-1993) (N.J.A.C 5:91 and 5:92)
+and Second Round (1993-1999) (N.J.A.C. 5:93). The Second Round substantive regulations
+(Chapter 93) superseded the First Round substantive regulations (Chapter 92) and recalculated
+the First Round obligations. Under COAH’s regulations, low-income households were defined
+as those with incomes no greater than 50 percent of the area median income (AMI), adjusted for
+household size, and moderate-income households were those with incomes no greater than 80
+percent and no less than 50 percent of the median household income. AMI limits were
+calculated based upon housing regions as established by COAH.
+2004 – 2010 | Third Round Litigation and Revisions
+In December 2004, COAH promulgated its Third Round “Growth Share” methodology, which
+adjusted prior round obligations and devised a new system for projecting future municipal
+housing obligations. Growth Share obligations were based upon municipal growth and the
+Third Round was defined as the period of 1999-2014. The initial Growth Share methodology
+required municipalities to provide one affordable housing unit for every eight market rate units
+and one affordable unit for every 25 jobs created. In January 2007, the Appellate Division
+invalidated the Growth Share Methodology and required COAH to revise its rules, which it did
+in May 2008 via the Third Round substantive regulations of Chapter 97.
+The FHA was subsequently amended in July 2008. This round of amendments, among other
+things, eliminated Regional Contribution Agreements and reduced non-residential
+development fees. In September 2008, Executive Order #114 was which amended the COAH
+rules to ensure consistency with the Highlands Regional Master Plan.
+2010 – 2023 | COAH’s Noncompliance and Resumption of Court Responsibility
+During this period, there was inaction and increased uncertainty in the realm of affordable
+housing.
+After taking office Governor Chris Christie signed Executive Order No. 12, establishing the
+Housing Opportunity Task Force and charging them with a full review of the Fair Housing Act,
+COAH, and COAH’s regulatory structure. Ultimately, the task force recommended a model
+       MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 7 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                               6
+
+
+which included adjusted definitions of present and prospective need, a benchmark of 10 percent
+growth predicted by the State Planning Commission to guide obligations, and transferring of
+procedural responsibility from COAH to the Home Mortgage Finance Agency (HMFA).
+Further complicating matters, in October 2010, the Appellate Division invalidated a substantial
+portion of COAH’s rules. Most notably, the Court invalidated the Third Round Growth Share
+methodology and ordered COAH to revise its rules in accordance with the decision. In addition,
+the Court prohibited certification of housing plans that rely upon municipally sponsored
+affordable housing projects without specified funding and required COAH to create an
+incentive structure for inclusionary developments.
+In January 2011, the legislature passed S-1 / A-3447, which was subsequently vetoed. Then, in
+June Governor Christie issued a reorganization plan which transferred the administration of the
+State’s affordable housing program from COAH to the New Jersey Department of Community
+Affairs. Upon challenge by the Fair Share Housing Center, the Appellate Court invalidated
+Governor Christie’s Reorganization Plan in March 2012. The Supreme Court upheld this
+decision in July 2013.
+In September 2013, the Supreme Court confirmed the invalidation of the previously adopted
+Third Round regulations, upholding that the methodology used for projecting housing needs in
+these rules was unconstitutional. In that ruling, the court established a February 2014 deadline
+for development and adoption of new COAH rules, which was eventually extended to
+November 2014. Significantly, no rules were adopted.
+In March 2015, in the case entitled In re: Adoption of N.J.A.C. 5:96 & 5:97, 221 N.J. 1 (2015), more
+commonly referred to as “Mount Laurel IV” the State Supreme Court determined that COAH
+was “moribund” and unable to carry out its duties as intended by the Fair Housing Act. The
+Court further held “that the courts may resume their role as the forum of first instance for
+evaluating municipal compliance with Mount Laurel obligations.”
+Thus, the Court designed a transitional process whereby municipalities could seek judicial
+approval of their HEFSPs. Those transitional procedures gave municipalities the choice
+whether to seek compliance voluntarily via a Declaratory Judgment (DJ) Action or to not file a
+DJ Action and risk being sued. During this period, and in the absence of COAH, many
+municipalities entered into court-mediated settlement agreements involving the Fair Share
+Housing Center.
+2024 – Present | Adoption of P.L.2024, c.2 and Fourth Round Methodology Changes and Department of
+Community Affairs
+With the impending end of the Third Round in 2025, there was a push at the State level to
+implement new legislation that would reorganize the affordable housing process and end the
+transitional and court-oriented process initiated by Mount Laurel IV. The result of this effort
+was A-4 / S-50, which was signed into law by Governor Phil Murphy on March 20, 2024. This
+                MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 8 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                        7
+
+
+       legislation created a framework to be used for the Fourth Round and beyond. In summary, the
+       Law:
+       1. Abolishes the Council on Affordable Housing ("COAH") and transfers its duties to the DCA
+          and the Administrative Office of the Courts ("AOC");
+       2. Enables the DCA to implement the judicial methodology provided by Judge Mary C.
+          Jacobson, A.J.S.C. in her March 8, 2018 decision, In re Application of Municipality of
+          Princeton (the "Princeton Case"), to calculate every municipality's affordable housing
+          obligation for the Fourth Round;
+       3. Creates the Affordable Housing Dispute Resolution Program (the "Program") to oversee
+          disputes and provide for mediation; and
+       4. Expands the availability of bonus credits, while eliminating the previously offered "rental
+          bonus credit." Bonus credits are further described in this Housing Element and Fair Share
+          Plan.
+       5. Modifies applicable data and calculations underlying the methodology for calculation of
+          affordable housing obligations, eliminating the prior dependance of Courts and court-
+          appointed Special Masters to deploy accepted methodologies to determine each
+          municipality's affordable housing obligation.
+       6. Sets timeframes under which municipalities must act to preserve immunity from
+          exclusionary zoning litigation.
+       Critically, the Amended Law requires that municipalities adopt a housing element and fair share plan
+       no later than June 30, 2025 to maintain immunity from exclusionary zoning litigation.
+
+
+       B. Housing Plan Requirements
+       Municipal Land Use Law (“MLUL”) + Fair Housing Act (“FHA”)
+       The MLUL, through incorporation of the New Jersey FHA, requires municipalities to include a
+       housing element in their master plans as a prerequisite to the zoning power. The principal
+       purpose is to enumerate and provide the data, policies, and methods by which municipalities
+       will meet housing needs, with particular attention to low- and moderate-income households.
+       Pursuant to Section 10 of P.L.1985, c.222 (C.52:27D-310) and as amended per Bill P.L.2024, c.2,3
+       as amended, the required contents of the housing element shall contain at least:
+       a. An inventory of the municipality's housing stock by age, condition, purchase or rental value,
+          occupancy characteristics, and type, including the number of units affordable to low- and moderate-
+          income households and substandard housing capable of being rehabilitated, and in conducting this
+
+
+3
+    https://pub.njleg.state.nj.us/Bills/2024/PL24/2_.PDF
+        MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 9 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                       8
+
+
+   inventory the municipality shall have access, on a confidential basis for the sole purpose of conducting
+   the inventory, to all necessary property tax assessment records and information in the assessor's office,
+   including but not limited to the property record cards;
+b. A projection of the municipality's housing stock, including the probable future construction of low-
+   and moderate-income housing, for the next ten years, taking into account, but not necessarily limited
+   to, construction permits issued, approvals of applications for development and probable residential
+   development of lands;
+c. An analysis of the municipality's demographic characteristics, including but not necessarily limited
+   to, household size, income level and age;
+d. An analysis of the existing and probable future employment characteristics of the municipality;
+e. A determination of the municipality's present and prospective fair share for low- and moderate-
+   income housing and its capacity to accommodate its present and prospective housing needs, including
+   its fair share for low- and moderate-income housing, as established pursuant to section 3 of P.L.2024,
+   c.2 (C.52:27D-304.1);
+f. A consideration of the lands that are most appropriate for construction of low- and moderate-income
+   housing and of the existing structures most appropriate for conversion to, or rehabilitation for, low-
+   and moderate-income housing, including a consideration of lands of developers who have expressed
+   a commitment to provide low- and moderate-income housing; and
+g. An analysis of the extent to which municipal ordinances and other local factors advance or detract
+   from the goal of preserving multigenerational family continuity as expressed in the recommendations
+   of the Multigenerational Family Housing Continuity Commission, adopted pursuant to paragraph (1)
+   of subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20).
+h. For a municipality located within the jurisdiction of the Highlands Water Protection and Planning
+   Council, established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an analysis of compliance
+   of the housing element with the Highlands Regional Master Plan of lands in the Highlands
+   Preservation Area, and lands in the Highlands Planning Area for Highlands-conforming
+   municipalities. This analysis shall include consideration of the municipality's most recent Highlands
+   Municipal Build Out Report, consideration of opportunities for redevelopment of existing developed
+   lands into inclusionary or 100 percent affordable housing, or both, and opportunities for 100 percent
+   affordable housing in both the Highlands Planning Area and Highlands Preservation Area that are
+   consistent with the Highlands regional master plan; and
+i. An analysis of consistency with the State Development and Redevelopment Plan, including water,
+   wastewater, stormwater, and multi-modal transportation based on guidance and technical assistance
+   from the State Planning Commission.
+               MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 10 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                     9
+
+
+       In addition to the statutory components of the Housing Element and Fair Share Plan detailed in
+       52:27D-310, Administrative Directive #14-24;4 which promulgated the procedures and
+       guidelines for implementing the Affordable Housing Dispute Resolution Program; contains a
+       section entitled “Required Elements of Housing Element and Fair Share Plan.” In summary,
+       the Directive requires four additional elements of the HEFSP to be included:
+           1. A site suitability analysis for any inclusionary zone and/or 100% affordable site
+           2. A concept plan for site development of any proposed inclusionary zone.
+           3. A detailed review of the credit worthiness of all existing units in the municipality
+           4. All ordinances and resolutions required to implement the plan attached as an Appendix
+              to the HEFSP.
+       However, it should be noted that the requirement to adopt all implementing ordinances to
+       effectuate the HEFSP as set forth in the Fair Housing Act is March 15, 2026. Given this
+       discrepancy of the dates, the statutory necessity of implementing ordinances to be reviewed by
+       the Planning Board and deemed consistent with this adopted HEFSP, and the potential for
+       challenges to the HEFSP as adopted, such ordinance amendments will be prepared following
+       adoption of this plan element.
+
+
+
+
+4
+    https://www.njcourts.gov/sites/default/files/administrative-directives/2024/12/dir_14_24.pdf
+           MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 11 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                  10
+
+
+
+III. Housing Element: Municipal Summary
+    The Borough of Rockaway is roughly 2.12 square miles in area and is in Morris County. For
+    regional and planning purposes, the Borough of Rockaway is located in Housing Region 2, a
+    region that consists of Essex, Morris, Union and Warren counties.
+    In compiling the analysis for the Housing Element, this report utilizes the following data:
+    1. American Community Survey (“ACS”): The most up to date information is the ACS
+       estimates, which are generated between the decennial censuses. ACS figures are based on
+       data collected over a 5-year time period. The estimates represent the average characteristics
+       of population and housing between 2018-2023 and DO NOT represent a single point in time.
+       Comparisons will be made with the 2018-2023 ACS to show change over time. See URL link5
+       utilized in this HEFSP.
+    2. Decennial Census: Every ten years, the Census conducts detailed data collection to create an
+       image that is as accurate as possible of the conditions throughout the country in that year.
+       Data from the decennial census is used for comparison when equivalent ACS information is
+       unavailable, as well as for longitudinal analysis. See URL link6 utilized in this HEFSP.
+    3. Comprehensive Housing Affordability Strategy (“CHAS”): The U.S. Department of Housing
+       and Urban Development (HUD) utilizes both the ACS and Census to create the “CHAS"
+       data, which demonstrates the extent of housing problems and housing needs, particularly
+       for low income households. See URL link7 utilized in this HEFSP.
+    4. North Jersey Transportation Planning Authority (“NJTPA”): Every four years, the NJTPA
+       updates its regional forecasts for population, households and employment as part of
+       updating its long-range transportation plan (LRTP), the region’s blueprint for transportation
+       investment. See URL link8 utilized in this HEFSP.
+    5. State or Other Agency Sources: for select data types, State sources are used instead of the
+       Census Bureau when equivalent Census data does not exist or the State data provides a more
+       complete picture.
+
+
+
+
+5
+  https://data.census.gov/table
+6
+  https://data.census.gov/table?d=DEC%20Demographic%20Profile
+7
+  https://www.huduser.gov/portal/datasets/cp.html
+8
+  https://www.njtpa.org/NJTPA/media/Documents/Planning/Plans-
+Guidance/Planning%20for%202050/draft%20final/E-2050-Demographic-Forecasts.pdf
+        MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 12 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                   11
+
+
+A. Housing Conditions
+The analysis in this section shall satisfy Part A of P.L.1985, c.222 (C.52:27D-310), which requires:
+   §    A) “Inventory of housing stock by age, condition, purchase or rental value, occupancy
+        characteristics, and type, including the number of units affordable to low- and moderate-income
+        households and substandard housing capable of being rehabilitated, and in conducting this
+        inventory the municipality shall have access, on a confidential basis for the sole purpose of
+        conducting the inventory, to all necessary property tax assessment records and information in the
+        assessor's office, including but not limited to the property record cards”
+Housing Stock by Age and Condition
+According to the 2023 ACS, there are an estimated 2,732 housing units in the Borough of
+Rockaway. Per the ACS data, this figure represented no change from 2020.
+Nearly half (49.5%) of Rockaway Borough’s housing structures were built prior to 1960,
+suggesting that 1 out of 2 units are older than 65 years. In fact, less than 5% (4.9% of housing
+structures are less than 25 years since 2000.
+                                                                        Table 1: Year Structure Built
+                                                UNITS                             PERCENT
+       Total housing units                       2,732                                -
+        Built 2020 or later                         0                                0.0
+        Built 2010 to 2019                         97                                3.6
+        Built 2000 to 2009                         35                                1.3
+        Built 1990 to 1999                        123                                4.5
+        Built 1980 to 1989                        227                                8.3
+        Built 1970 to 1979                        501                               18.3
+        Built 1960 to 1969                        394                               14.4
+        Built 1950 to 1959                        490                               17.9
+        Built 1940 to 1949                        165                                6.0
+       Built 1939 or earlier                      700                               25.6
+                               Source: American Community Survey 2023
+
+The table below details the condition of housing within the Borough of Rockaway based on
+heating fuel, plumbing facilities, kitchen facilities. These factors help determine the number of
+inadequate housing units within the Borough. According to the current ACS estimate, 201
+housing units in the Borough of Rockaway lacked either heating fuel / plumbing or kitchen
+facilities, which is much greater than 2018 (22 unit estimate).
+      MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 13 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                            12
+
+
+                                                                    Table 2: Housing Condition
+                                              2023          PERCENT         2018      PERCENT
+      Occupied Housing Units                  2,660             -           2,443         -
+        Lacking heating fuel                    0               0              0          0
+Lacking complete plumbing facilities           201             7.6             0          0
+  Lacking complete kitchen facilities          201             7.6            22         0.9
+                      Source: American Community Survey 2023 and 2018
+
+Housing Values and Costs
+Since 2018, median home values in the Borough have increased by $86,000 (+25.16%). This
+change is largely due to an increase in homes values between $500,000 and $999,999 and a
+decrease in homes worth between $200,000 and $299,999.
+                                           Table 3: Value for Owner-Occupied Housing Units
+                                                                                      PERCENT
+                                     2023         PERCENT        2018      PERCENT
+                                                                                      CHANGE
+ Total Owner-Occupied Units           1,537         -         1,704             -        -9.8
+        Less than $50,000               44         2.9          18             1.1       1.8
+       $50,000 to $99,999                0         0.0           0             0.0        0
+      $100,000 to $149,999              30         2.0          18             1.1       0.9
+      $150,000 to $199,999              59         3.8          32             1.9       1.9
+      $200,000 to $299,999             159        10.3         440            25.8      -15.5
+      $300,000 to $499,999             797        51.9        1,074           63.0      -11.1
+      $500,000 to $999,999             421        27.4         122             7.2      20.2
+       $1,000,000 or more               27         1.8           0             0.0       1.8
+        Median (dollars)            $427,800        -       $341,800            -       25.16
+                       Source: American Community Survey 2023 and 2018
+The table below shows the housing expenditures for those who own and rent in the Borough of
+Rockaway. The general affordability standard is that no more than 30% of gross income should
+be allocated for housing costs.
+A cost burden is the ratio of housing costs to household income. For renters, housing cost is the
+gross rent (lease rent plus utilities). For owners, housing cost is the monthly owner costs, which
+may include mortgage, utilities, association fees, insurance, and real estate taxes.
+In the Borough of Rockaway, about 35.4% of homeowners and renters spend more than 30% of
+their household income on housing costs. These figures indicate that homeowners are more cost
+burdened than renters (renters at 13.1%; owners at 22.3%).
+      MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 14 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                         13
+
+
+                     Table 4: Housing Cost Burden Overview Exceeding 30% Gross Income
+           RANGE                    OWNER            RENTER          TOTAL        PERCENT
+     Cost Burden <=30%                1,070            630            1,700         64.8
+ Cost Burden >30% to <=50%             360             115             475          18.1
+      Cost Burden >50%                 225             230             455          17.3
+            Total                     1,650            975            2,625         100.0
+                                  Source: CHAS 2017-2021 ACS
+Occupancy Characteristics and Type of Housing
+As of 2023, most of the Borough is owner-occupied, which comprises of 57.8% of the households.
+A total of 42.2% of households are renters, and 2.6% of the Borough’s housing units are vacant.
+Since 2018, the Borough has seen a shift away from owner-occupied households, decreasing
+ownership by 12% and increasing renter units by 12%. Also, since 2018, there is a 3% decrease
+in the Borough’s vacancy rate.
+                                                    Table 5: Housing Tenure and Occupancy
+                                                                                   PERCENT
+                             2023        PERCENT        2018         PERCENT
+                                                                                   CHANGE
+        Total                2,732           -           2,588           -            5.6
+   Owner Occupied            1,537          57.8         1,704          69.8          -12
+   Renter Occupied           1,123          42.2          739           30.2          12
+    Vacant Units               72           2.6           145           5.6            -3
+                      Source: American Community Survey 2023 and 2018
+
+Housing units with more than one occupant per room are considered overcrowded.
+Overcrowded households in the Borough fell by 1.4% since 2018.
+               Table 6: Occupants Per Room + Inadequate Units in Occupied Housing Units
+    OCCUPANTS PER ROOM                2023       PERCENT        2018              PERCENT
+             Total                     2,660          -          2,443                -
+          1.00 or less                 2,630        98.9         2,382              97.5
+          1.01 to 1.50                   13          0.5           41                1.7
+         1.51 or more                    17          0.6           20                0.8
+                    Source: American Community Survey 2023 and 2018
+      MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 15 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                           14
+
+
+Since 2018, the share of Borough’s housing stock has decreased from 1,811 units to 1,533 units.
+                                                              Table 7: Housing Type and Size
+                                                                                  PERCENT
+ HOUSING UNITS               2023        PERCENT        2018       PERCENT
+                                                                                  CHANGE
+ Total housing units           2,732          -         2,588          -             5.6
+   1-unit, detached            1,404        51.4        1,674        64.7           -13.3
+   1-unit, attached             129          4.7         137          5.3            -0.6
+         2 units                106          3.9         231          8.9             -5
+      3 or 4 units              123          4.5          62          2.4            2.1
+      5 to 9 units              290         10.6         122          4.7            5.9
+     10 to 19 units             263          9.6         340         13.1            -3.5
+   20 or more units             354         13.0          22          0.9           12.1
+    Mobile home                  63          2.3           0          0.0            2.3
+  Boat, RV, van, etc.             0          0.0           0          0.0             0
+                        Source: American Community Survey 2023 and 2018
+
+Since 2018, the bedroom typology of Borough’s has decreased in “family” sized 3+ bedroom
+type from 60.5% to 50.6% in 2023.
+                                                      Table 8: Number of Bedrooms Per Unit
+                                                                                    PERCENT
+       ROOMS                2023 TOTAL      PERCENT 2018 TOTAL PERCENT
+                                                                                    CHANGE
+         Total             2,732                     2,588
+     No Bedroom             285         10.4          135          5.2                  5.2
+      1 Bedroom             418         15.3          242          9.4                 5.9
+      2 Bedrooms            646         23.6          646         25.0                 -1.4
+      3 Bedrooms            705         25.8          755         29.2                 -3.4
+      4 Bedrooms            617         22.6          764         29.5                 -6.9
+ 5 or more Bedrooms          61          2.2           46          1.8                 0.4
+                  Source: American Community Survey 2023 and 2018
+
+
+Existing Low- and Moderate-Income Housing Units
+The Borough of Rockaway reviewed all property tax assessment records and information in the
+assessor's office, including but not limited to the property record cards, to determine the
+number of existing low- and moderate-income housing units. Based on this review, there are 17
+LMI units in Rockaway Borough (with additional LMI units under construction). Rockaway
+Borough is following the applicable requirements regarding unit monitoring and reporting.
+        MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 16 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                       15
+
+
+Substandard Housing
+The table below utilizes data from the ACS and CHAS to analyze the “4 housing problems” in
+a consolidated format for consideration of overall substandard housing. The four housing
+problems as defined by HUD are:
+1. Incomplete kitchen facilities;
+2. Incomplete plumbing facilities;
+3. Overcrowding (i.e. 1.01 or more persons per room); and
+4. High housing costs (i.e. cost burden).
+The following table shows data for indicators of substandard housing for the Borough of
+Rockaway.
+                                                          Table 9: Substandard Housing Indicators
+                                                                                 OWNER         RENTER
+               Household has 1 of 4 Housing Problems                              590            565
+Household has none of 4 Housing Problems OR cost burden not
+                                                                                   1,060          410
+available, no other problems
+                      Cost Burden not available                                      0             0
+                                Source: CHAS 2017-2021 ACS
+
+
+B. Housing Projections
+The analysis in this section shall satisfy Part B of P.L.1985, c.222 (C.52:27D-310), which requires:
+   §    B) “A projection of the municipality's housing stock, including the probable future construction of
+        low- and moderate-income housing, for the next ten years, taking into account, but not necessarily
+        limited to, construction permits issued, approvals of applications for development and probable
+        residential development of lands.”
+Projection of Housing Stock
+Below is a general prediction by NJTPA of the Borough of Rockaway’s household population
+growth to 2,589 households in 2050. This 0.1% increase in households would require available
+units to accommodate and may be a prediction indicator of new projected housing stock.
+                                                                   Table 10: Housing Unit Projection
+           YEAR                         POPULATION                     ANNUALIZED % CHANGE
+             2015                            2,468
+       2050 (Predicted)                      2,589                                   0.1%
+                                       Source: U.S. Census, NJTPA
+          MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 17 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                       16
+
+
+    Zoning regulations and existing capital infrastructure may help determine where growth is
+    expected and where new housing units are likely to be developed in the future.
+    The Borough of Rockaway expects new developments to bear the cost that such development
+    puts upon the existing infrastructure, including its sewer and water systems, road infrastructure,
+    school facilities, and emergency services. This includes the addition of capacity necessitated by
+    the new development, as well as associated maintenance costs. New development should not
+    be a burden on the Borough’s infrastructure.
+                                  Figure 1: Existing Land Use Map
+
+
+
+
+                                  Borough of Rockaway Land Use Map9
+
+
+9
+ Map Note: Classifications are based on assessor records. "Vacant land" as depicted on this map should not be
+construed to limit or supersede any conclusions made in the Vacant Land Adjustments.
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 18 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             17
+
+
+                     Figure 2: Existing Zoning Map
+
+
+
+
+                        Borough of Rockaway Zoning Map
+       MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 19 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                 18
+
+
+C. Demographic Characteristics
+The analysis in this section shall satisfy Part C of P.L.1985, c.222 (C.52:27D-310), which requires:
+   §   C) “An analysis of the municipality's demographic characteristics, including but not necessarily
+       limited to, household size, income level and age.”
+Population General
+The population estimate for the Borough of Rockaway in 2023 was 6,596, which represents a
+constant from the 2020 Census (0.0%). Despite this trend, the NJTPA predicts the Borough of
+Rockaway’s population to grow to 6,740 people in 2050.
+                                                            Table 11: Historic Population Growth
+       YEAR                 POPULATION                           CHANGE                % CHANGE
+        1940                       3,514                              NA                    12.2%
+        1950                       3,812                               298                   8.5%
+        1960                       5,413                             1,601                  42.0%
+        1970                       6,383                               970                  17.9%
+        1980                       6,852                               469                   7.3%
+        1990                       6,243                              -609                  −8.9%
+        2000                       6,473                               230                   3.7%
+        2010                       6,438                               -35                  −0.5%
+        2020                       6,598                               160                   2.5%
+        2023                       6,596                                -2                   0.0%
+  2050 (Predicted)                 6,740                               144                   2.2%
+   Source: NJ State Data Center, New Jersey Population Trends 1790 to 2000, US Census Bureau; NJTPA,
+                               "Appendix E - 2050 Demographic Forecasts"
+
+Population Composition by Age
+The estimated current median age in the Borough of Rockaway is 45.2, compared to 42.7 for
+Morris County and 40.1 for New Jersey.
+                                                                      Table 12: Population by Age
+       AGE RANGE           ROCKAWAY           PERCENT          MORRIS COUNTY             PERCENT
+       Under 5 years           266               4.0               25,471                   5.0
+        5 to 9 years           224               3.4               28,352                   5.6
+       10 to 14 years          389               5.9               31,448                   6.2
+       15 to 19 years          400               6.1               33,164                   6.5
+       20 to 24 years          293               4.4               29,593                   5.8
+       25 to 34 years          862              13.1               57,194                  11.2
+       35 to 44 years          846              12.8               65,510                  12.8
+       45 to 54 years         1,008             15.3               72,196                  14.1
+       55 to 59 years          580               8.8               39,717                   7.8
+      MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 20 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                        19
+
+
+
+     AGE RANGE          ROCKAWAY            PERCENT      MORRIS COUNTY            PERCENT
+      60 to 64 years       684                10.4           36,971                  7.2
+      65 to 74 years       715                10.9           50,990                 10.0
+      75 to 84 years       199                 3.0           27,021                  5.3
+    85 years and over      123                 1.9           12,748                  2.5
+       Median Age          45.2                (X)            42.7                   (X)
+                             Source: American Community Survey 2023
+
+Households
+According to the US Census Bureau’s classification system, people either live in a household,
+housing unit, or in “group quarters.” Two types of “households” exist: family and non-family.
+A “household” consists of one or more persons living and eating together separately from other
+persons who may be in the same building. A “family” is a household with two or more related
+persons living together in the same housing unit.
+                                                      Table 13: Population by Housing Type
+                         BOROUGH OF ROCKAWAY                  MORRIS COUNTY
+                                  2019-2023                       2019-2023
+ Total Households                     2,660                         191,840
+ Average Household Size                2.47                           2.61
+                      Source: American Community Survey 2019-2023
+Immigration
+Foreign born residents make up 18.6% percent of the Borough of Rockaway’s population, which
+is lower than County (19.6%) and State (23.5%) levels. Less than half of the Borough of
+Rockaway’s foreign-born residents are not U.S. citizens, comprising 33.5% of the Borough
+foreign born population, a smaller share than that of Morris County (39.2%) and the State
+(43.1%).
+                                                           Table 14: Residents Place of Birth
+                         BOROUGH OF
+                                      MORRIS COUNTY     NEW JERSEY
+                          ROCKAWAY
+                        COUNT PERCENT COUNT PERCENT COUNT     PERCENT
+       Total             6,589        510,375       9,267,014
+  Born in United
+                         5,293       80.3      401,982      78.8      6,849,548      73.9
+       States
+   Foreign Born          1,227      18.6      100,222    19.6         2,181,755      23.5
+ Naturalized Citizen      816       66.5       60,952    60.8         1,241,100      56.9
+   Not a Citizen          411       33.5       39,270    39.2          940,655       43.1
+                          Source: American Community Survey 2023
+                MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 21 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                        20
+
+
+       Income and Poverty Status
+       The median household income for the Borough of Rockaway grew from 2018 to 2023, growing
+       14.8% but less than the County (21.2%) and the State (22.1%).
+                                                                    Table 15: Household Median Income
+                                            2023             2018        CHANGE               % CHANGE
+               Borough of Rockaway        $100,028          $87,083        $12,945              14.8%
+                  Morris County           $134,929         $111,316        $23,613               21.2
+                   New Jersey              $99,781          $81,740        $18,041               22.1
+                                Source: American Community Survey 2023 and 2018
+       In the Borough of Rockaway, 412 residents (6.3%) live below the poverty line, an increase from
+       4.7% in 2018. In this regard, the Borough had a similar trajectory to Morris County, which
+       experienced an increase from 4.5% to 4.6% over the same period.
+                                                                                  Table 16: Poverty Status
+             BOROUGH OF
+                                             2023        PERCENT         2018       PERCENT CHANGE
+               ROCKAWAY
+               Total Persons                  6,589                      6,404                       185
+            Total Below Poverty                412           6.3          298           4.7          1.6
+            MORRIS COUNTY                    2023        PERCENT         2018       PERCENT CHANGE
+               Total Persons                 507,823                    485,909                    21,914
+            Total Below Poverty              23,392          4.6        21,856          4.5         0.1
+                      Source: American Community Survey 2023 and 2018; ACS Morris County
+
+
+       D. Multigenerational Housing Continuity
+       The analysis in this section shall satisfy Part G of P.L.1985, c.222 (C.52:27D-310), which requires:
+           §    G) “An analysis of the extent to which municipal ordinances and other local factors advance or
+                detract from the goal of preserving multigenerational family continuity as expressed in the
+                recommendations of the Multigenerational Family Housing Continuity Commission, adopted
+                pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20).”
+       On November 8, 2021, the Senate and General Assembly of the State of New Jersey adopted
+       C.52:27D-329.2010, which establishes the “Multigenerational Family Housing Continuity
+       Commission” for the purpose of conducting research, obtaining public input, and adopting
+       recommendations on how to most effectively advance the goal of enhancing multigenerational
+
+
+10
+     https://pub.njleg.gov/Bills/2020/AL21/273_.HTM
+       MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 22 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                              21
+
+
+family housing continuity, which can be defined broadly as the degree to which senior citizens
+are able to reside at the homes of their extended families.
+In short, the bill requires a municipal housing plan element to provide an analysis of the extent
+to which municipal ordinances and other local factors advance or detract from the goal of
+preserving multigenerational family continuity, as expressed in the recommendations of the
+commission.
+The municipality is committed to promoting intergenerational harmony through the provision
+of diverse housing options in a manner consistent with the regulation. As demonstrated in the
+above demographic and housing analysis, Rockaway Borough is diversifying its housing stock,
+moving away from an emphasis on single- and two-family, owner-occupied housing and
+instead proliferating its housing units containing 3+ unit buildings. The municipality is
+employing a variety of approaches to accomplish this task, such as implementing a Downtown
+Redevelopment Plan and adopting Senior Affordable Housing overlay zoning (AHO-
+S). Strategies proposed or already implemented include the creation of family housing. The
+municipality, in setting forth its compliance plan, is abiding by the limitations included in the
+statute.
+
+
+E. Employment Data
+The analysis in this section shall satisfy Part D of P.L.1985, c.222 (C.52:27D-310), which requires:
+   §   C) “An analysis of the existing and probable future employment characteristics of the
+       municipality.”
+Projection of Future Employment
+Below is a general prediction by NJTPA of Rockaway’s employment forecast, which is a growth
+to 5,262 in 2050.
+                                                               Table 17: Employment Projection
+       YEAR                LABOR FORCE                     CHANGE             ANNUALIZED %
+                                                                                CHANGE
+        2015                      4,906
+  2050 (Predicted)                5,262                        356                     0.2
+                                           Source: NJTPA
+        MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 23 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                            22
+
+
+
+IV. Fair Share Plan: Obligations and Compliance Plan
+  A. Introduction and Fourth Round Changes
+  As stated in the History of New Jersey Affordable Housing section of this Plan, New Jersey’s
+  Fourth Round methodology of calculating and fulfilling municipal obligations is set forth in the
+  Law under a new system. The housing need obligations discussed herein consist of the
+  following components: Prior Round Compliance; Present Need or “Rehabilitation Obligation;”
+  and the “Prospective Need” Collectively, the Present (“Gap”) Need and the Prospective Need
+  are referred to as the Round 4 obligation.
+  The figures that are presented in the fair share obligations below have been derived from
+  Resolution 33-25, adopted on January 23, 2025 (See Appendix A). Under the Resolution, the
+  Borough Present Need or “Rehabilitation Obligation” is 195 credits, and the “Prospective Need”
+  is 73 credits.
+  The purpose of this section of the Plan is to set forth the Borough’s proposed approach to
+  satisfying its Round 4 obligation.
+
+
+  B. Prior Round Need Compliance “Look Back” (2015-2025)
+  Rockaway Borough has a history of fulfilling its affordable housing obligation. Most recently,
+  on August 20, 2021, the Borough received a Final Judgment of Compliance and Repose (“JCR”)
+  relating to its Third Round obligation. The JCR was issued after a period of negotiation and
+  settlement, primarily between the Borough and Fair Share Housing Center (“FSHC”). During
+  this period of negotiation, the Borough adopted a Third Round Housing Element on July 6, 2021.
+  Correspondingly, the Borough and FSHC entered into an amended settlement agreement on
+  June 30, 2021. The HEFSP and settlement agreements set forth the Borough’s Third Round
+  obligation and identified the actions required by the Borough to fulfill these obligations.
+  As demonstrated in the tables below and supported by the issuance of the JCR, the Borough
+  fully satisfied its obligations under the Third Round as articulated in its settlement with the
+  FSHC. As such, no obligation is carried forward to the Fourth Round. In fact, Round Three had
+  a surplus of credits which will carry forward to the Fourth Round.
+         MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 24 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                  23
+
+
+      Table 18: Projects Cited to Satisfy Third Round Realistic Development Potential (“RDP”)
+                                                                       See Round 3 HEFSP, Page 39-43
+                                              CREDITS
+    ROUND 3 RDP              LMI
+                                           REQUIRED FOR                           STATUS
+      PROJECT               UNITS
+                                           ROUND 3 RDP
+PSCH Group Home                4                                        § PSCH Group Home (135
+                                          Merged for purposes of
+                                                                          Hoagland), 4 units complete
+                                         collective credit “pool” by
+                                                                          and occupied
+                                               maximum cap.
+Allegro Group Home             5
+                                                                        § Allegro Group Home (80
+                                             3 physical units
+                                                                          Andrea), 5 units complete
+                                         (Group Homes Capped)
+                                                                          and occupied
+ESW Realty, LLC                1                                        § ESW Realty (76 Franklin), 1
+Rockaway Commons, LLC          4                                          rental   unit   completed,
+                                          Merged for purposes of          pursuing occupancy
+                                         collective credit “pool” by
+                                               maximum cap.
+                                                                        § Rockaway Commons, Rental,
+                                                                          4 units nearly complete, CO
+Mill Lane Realty, LLC          3                     14
+                                                                          expected in Summer 2025
+                                        (8 physical units + 6 rental
+                                              bonus credits)
+                                                                        § Mill Lane (60 Main Street),
+                                                                          Rental, 3 units completed
+                                                                        Project issued Building Permit
+RPM – Senior Project          70            5 (Senior Capped)
+                                                                        and under construction
+22 Credits required per Round 3 HEFSP                                   No deficit of RDP credits
+         MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 25 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                  24
+
+
+                  Table 19: Zoning Actions to Satisfy Third Round Unmet Need Requirements
+                                                                         See Round 3 HEFSP, Page 44-46
+ ROUND 3
+                                                                            CREDITS SUPPLIED /
+UNMET NEED                         REQUIREMENT
+                                                                            MADE OPPORTUNITY
+MECHANISM
+                  The Borough may apply up to 49 of the remaining         Project approved by LUB
+Surplus      of   credits proposed for this [RPM] development             via #067A and #067B and is
+Senior Units at   toward its unmet need. The remaining credits            under          construction,
+Block 73, Lots    may be applied towards the Borough’s future             availing the 49 remaining
+59.01 and 65      affordable housing obligations in accordance            credits.
+                  with then applicable rules and regulations.             (49 Credits in Unmet Need)
+                  The Borough shall partially address its unmet
+                  need with 2 additional credits from the bonus           LMI rental units have
+                  credits from the family rentals in the above            been approved in Round
+Rental Bonuses
+                  crediting table (8 rental credits provided, in which    3, availing the 2 remaining
+to Satisfy RDP
+                  were capped at 6). The Borough may apply up to          credits.
+                  2 of the remaining bonus credits proposed toward        (2 Credits in Unmet Need)
+                  its unmet need.
+                  § Gallo Brothers (Block 40, Lots 34 and 35.01) – the
+                    Borough agrees to rezone this 2.65-acre
+                    property to permit 15 du/ac and require a 20%
+                    set-aside.
+                                                                          Zoning ordinances have
+                  § Holstein (Block 27, Lot 7) – the Borough agrees       been adopted via O-16-18
+                    to rezone this 5.5-acre property, of which            for density up to 357 units,
+                    approximately 1.3 acres are developable to            which equals 71 set-aside
+                    permit 15 du/ac and require a 20% set-aside.          LMI units.
+The Borough
+                  § Roned Realty (Block 17, Lot 8) – the Borough
+agrees to adopt
+                    agrees to rezone this 3.66-acre property to           Note:    During     Round
+inclusionary
+                    permit 15 du/ac and require a 20% set-aside.          Three, 15 rental credits
+overlay zoning
+                                                                          were approved under this
+                  § Alcoa (Block 84, Lot12) – the Borough agrees to
+                                                                          mechanism via LUB #100
+                    rezone this property with 2.6 unconstrained
+                                                                          at 100 Hillside Avenue
+                    acres to permit up to 15 du/ac and require a 20%
+                    setaside.
+                                                                          (71 Credits in Unmet Need)
+                  § Van Duyne/ Hillside (Block 31, Lots 4, 13, 16;
+                    Block 33, Lots 2, 3) – the Borough agrees to
+                    rezone this 9.4-acre property to permit up to 15
+                    du/ac and require a 20% set-aside.
+        MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 26 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                              25
+
+
+ ROUND 3
+                                                                        CREDITS SUPPLIED /
+UNMET NEED                        REQUIREMENT
+                                                                        MADE OPPORTUNITY
+MECHANISM
+                 The Borough shall either:                             A Redevelopment Plan
+                 § Authorize the Land Use Board to study these         has been adopted via O-
+                   properties as a noncondemnation area in need        19-22 and amended O-24-
+                   of redevelopment or area in need of                 08.
+                   rehabilitation pursuant to the Local Housing
+                   and Redevelopment Law. The parties agree that       Under the Round 3
+                   since this area has not yet been studied for        mechanism, a total of ~18
+                   Redevelopment that an appropriate amount of         acres at 15-18 DU/AC was
+                   time is necessary to allow the Borough to           required (equating to 270-
+                   complete the study and, if necessary, adopt a       324 units, with a 20% set-
+                   Redevelopment Plan. The parties agree that the      aside of 54-65 LMI units).
+                   Borough shall have one year from the date of
+                   final judgment to complete its preliminary          However, the Borough
+                   investigation/review     of    this    area   for   zoned more than the
+                   Redevelopment and eighteen months to adopt          Round 3 requirement:
+Borough
+                   a Redevelopment Plan. If by the first               § Subdistrict  1   (18.8
+Central
+                   anniversary of the date of final judgment the         Acres) zoned up to 30
+Commercial
+                   Redevelopment process has not completed its           DU/A, which equates to
+Zone      Area
+                   preliminary investigation or if at any point the      546 Units
+Inclusionary
+                   Redevelopment process is abandoned the
+Housing                                                                § Subdistrict 2 (6.5 Acres)
+                   parties agree that the Borough will adopt an
+                   Overlay Zone Ordinance to encompass the               zoned at 15 DU/AC,
+                   approximately 18-acre area. These parcels are         which equates to 98
+                   currently developed with a variety of land uses.      Units.
+                   The overlay zone will allow for inclusionary        With an actual zoned
+                   residential development at a density of             density of up to 644 units,
+                   between 15 to 18 units per acre, with the final     this is a 20% set-aside of
+                   maximum permitted density to be determined          129 LMI units.
+                   at the time of ordinance preparation. Affordable
+                   housing will be required at a minimum set-          In other words, the
+                   aside rate of 20% whether the affordable            Borough        Downtown
+                   housing units are for-sale or rental; or            Redevelopment Plan has
+                 § The Borough may forego the redevelopment            re-zoned a significant area
+                   process and in lieu of same, may adopt an           of the Borough with a
+                   Overlay Zone and/or amend existing zoning to        residential density “above
+                   encompass the approximately 18-acre area, for       and beyond” what the
+                   inclusionary residential development at a           Third Round required
+                   density between 15 to 18 units per acre, with the   (129 LMI zoned minus 65
+          MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 27 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                    26
+
+
+ ROUND 3
+                                                                             CREDITS SUPPLIED /
+UNMET NEED                           REQUIREMENT
+                                                                             MADE OPPORTUNITY
+MECHANISM
+                     final maximum permitted density to be                  LMI required). As a result,
+                     determined at the time of ordinance                    the Borough has 64
+                     preparation. Affordable housing will be                surplus credit that may
+                     required at a minimum set-aside rate of 20%            carry into Fourth Round
+                     whether the affordable housing units are for-          crediting plan.
+                     sale or rental.
+                                                                            (129 Credits in Unmet Need)
+
+                The ordinance requires all new multifamily
+                residential developments of five (5) units or more.         Zoning ordinance has
+                The set aside for developments shall be twenty              been adopted via O-19-18.
+                percent (20%) regardless of tenure. The
+                provisions of the ordinance shall not apply to              During Round Three, 2
+Mandatory
+                residential expansions, additions, renovations,             rental   credits   were
+Set-Aside
+                replacement, or any other type of residential               approved    under   this
+Ordinance
+                development that does not result in a net increase          mechanism via LUB #94 at
+                in the number of dwellings of five or more, or to           200 E Main Street.
+                specific parcels or zones identified in other
+                paragraphs of this agreement, which shall be                (2 Credits in Unmet Need)
+                subject to the requirements specified therein.
+195 Unmet Need Credits Required per Round 3 HEFSP                           253 LMI Units Upzoned
+
+
+  C. Present and Prospective Need Obligation (2025-2035)
+  The analysis in this section shall satisfy Part E of P.L.1985, c.222 (C.52:27D-310), which requires:
+      §   E) “A determination of the municipality's present and prospective fair share for low- and
+          moderate-income housing and its capacity to accommodate its present and prospective housing
+          needs, including its fair share for low- and moderate-income housing, as established pursuant to
+          section 3 of P.L.2024, c.2 (C.52:27D-304.1)”
+  Present Need (Rehabilitation Share)
+  The Rehabilitation Share is described as “deficient housing units occupied by low- and
+  moderate-income households within a municipality and is a component of “present need”
+  under N.J.A.C. 5:93-1.3. In Rockaway Borough, the rehabilitation obligation through the end of
+  the Fourth Round (i.e. July 2035) has been determined to be 195.
+  Rockaway Borough plans to continue its participation in Morris County’s rehabilitation
+  program. This program offers deferred payment loans to low- and moderate-income
+       MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 28 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                              27
+
+
+homeowners living in one- to three-family homes within the Morris County Consortium, which
+includes Rockaway Borough.
+Qualified homeowners may receive a zero-interest, 10-year deferred loan covering the cost of
+necessary rehabilitation work. The County Division of Housing and Community Development
+administers these loans through the Home Improvement Program, which markets the program,
+screens applicants, and manages the repair process.
+The program will primarily serve owner-occupied units and address homes with lack of heat,
+lack of hot water, roof leaks, dangerous electrical problems, broken pipes, problems with
+sanitary facilities, and other housing conditions that threaten the health, safety, or well-being of
+the household members per COAH rules (N.J.A.C. 5:93). All rehabilitated units shall remain
+affordable to low- and moderate-income households for a period of at least 10 years (the control
+period). For owner-occupied units, the control period is enforced with a recorded lien; and for
+renter occupied units, the control period is enforced with a recorded deed restriction.
+A Rehabilitation Manual is required as a result of the Borough’s Fair Share Housing settlement
+and as part of this Amendment. This Rehabilitation Manual was drafted by the Borough’s
+Administrative Agent and will be adopted by Resolution prior to the March 15, 2026 deadline. In
+addition, a Borough Spending Plan has been prepared utilizing Affordable Housing Trust Fund
+revenues. The Spending Plan allocates program funds for the rehabilitation of affordable housing
+units within the Borough. Pursuant to regulations, Affordable Housing Trust Fund monies may be
+allocated to:
+  “A rehabilitation program whose purpose is to renovate deficient housing units that are
+  occupied by low- and moderate-income households, in accordance with the New Jersey State
+  Housing Code, N.J.A.C. 5:28, or the requirements of the Rehabilitation Subcode, N.J.A.C. 5:23-6,
+  as applicable. Any recaptured funds from a rehabilitation program shall be deposited into a
+  municipality's affordable housing trust fund and subject to the provisions thereof.”
+The Borough’s adopted Spending Plan is attached as Appendix F.
+
+
+Prospective Need Obligation
+The Borough of Rockaway has a prospective need of 73 credits for Round 4 (2015-2025). This
+obligation will be fulfilled through:
+1. Projects that now qualify for new Round 4 bonus credits. RPM Project surplus from Round
+   Three (15 credits).
+2. Zoning changes that exceeded previous settlement requirements via the Downtown
+   Redevelopment Plan Surplus Credits from Round Three Zoning Requirements (58 credits).
+Of these mechanisms, the Borough has 76 surplus 73 credits from prior Round Three projects.
+       MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 29 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                           28
+
+
+This amended plan has been revised to remove the prior adopted “Bonus Credit Analysis” section,
+which is no longer applicable for Round Four crediting plan.
+Prospective Need Projects Description and Suitability Analysis
+Municipalities shall designate sites that are available, suitable, developable and approvable, as
+defined in N.J.A.C. 5:93-1. As such, the criteria for crediting units must meet the following:
+1. “Available site” – a site with clear title, free of encumbrances which preclude development
+   for low- and moderate-income housing.
+2. “Suitable site” – a site that is adjacent to compatible land uses, has access to appropriate
+   streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+3. “Developable site” – a site that has access to appropriate water and sewer infrastructure, and
+   is consistent with the applicable area wide water quality management plan (including the
+   wastewater management plan) or is included in an amendment to the area wide water
+   quality management plan submitted to and under review by DEP.
+4. “Approvable site” – a site that may be developed for low- and moderate-income housing in
+   a manner consistent with the rules or regulations of all agencies with jurisdiction over the
+   site. A site may be approvable although not currently zoned for low- and moderate-income
+   housing.
+   Based on the below, the following crediting sites can appropriately be included in the
+   Borough’s Fourth Round HEFSP.
+                                         Table 20: Projects Description and Suitability Analysis
+   This amended plan has been revised to remove the prior adopted analysis of bonus credit
+   information below, which is no longer applicable for Round Four crediting plan.
+                            DOWNTOWN REDEVELOPMENT PLAN
+    The Downtown Redevelopment Plan contains density zoning for up to 644 units, which
+    equates to a 20% set-aside of 129 LMI units:
+    § Subdistrict 1 (18.8 Acres) zoned up to 30 DU/A, which equates to 546 Units
+    § Subdistrict 2 (6.5 Acres) zoned at 15 DU/AC, which equates to 98 Units.
+    These 64 LMI credits are “above and beyond” what the Third Round required (129 LMI
+    zoned minus 65 LMI required in Round Three). As a result, the Borough has surplus credit
+    that may carry into Fourth Round crediting plan.
+
+                                    The Redevelopment Area is available to any property owner
+    Description of                  seeking development. There are no known encumbrances
+    Availability                    which preclude development. To the contrary, the
+                                    Redevelopment Area is in a non-condemnation area in need
+   MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 30 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                     29
+
+
+                              of redevelopment, a characteristic which would promote
+                              development.
+
+                              The Redevelopment Area is suitable. It is in the Borough’s
+                              downtown core and near a variety of residential and
+Description of Suitable
+                              commercial uses. It contains access to bus routes, parks,
+                              sidewalk pedestrian access, and a built-out center.
+
+Description of                The Redevelopment Area is developable. It has access to
+Developable                   infrastructure necessary to support development.
+
+                              The Redevelopment Area is approvable. It has existing
+Description of
+                              zoning in place to support development and is located
+Approvable
+                              within a built-out center.
+
+      SENIOR AND SUPPORTIVE NEEDS HOUSING (WEST MAIN STREET)
+On December 5, 2023, the Borough approved an amended land use application for 74 West
+Main Street (RPM). This amendment revised the original July 2021 approval for 70 age-
+restricted low- and moderate-income (LMI) units. The new approved mix includes: 56
+senior affordable units, 13 "supportive needs" affordable units (serving all ages), and 1
+caretaker unit. As part of the amendment, all affordable units will remain subject to
+Uniform Housing Affordability Controls (UHAC) deed restrictions.
+These 70 LMI units were required to satisfy the Borough’s Round Three prospective need.
+15 units have been applied to satisfy Round Four need.
+
+Description of Availability The site is owned by a Developer with clear title.
+
+                             The site is located on a built-out corridor located walking
+Description of Suitable      distance to downtown, and accessible to government and
+                             commercial resources.
+
+Description of Developable The site is under construction
+
+                             The site has been approved for a 70-unit project by the Joint
+Description of Approvable
+                             Land Use Board.
+       MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 31 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                    30
+
+
+                                                          Figure 3: Prospective Need Projects Map
+   This amended plan has been revised to remove the prior adopted mapping of bonus credit
+   information below, which is no longer applicable for Round Four crediting plan.
+
+
+
+
+Land Most Appropriate for Affordable Housing
+The analysis in this section shall satisfy Part F of P.L.1985, c.222 (C.52:27D-310), which requires:
+   §   F) “A consideration of the lands that are most appropriate for construction of low- and moderate-
+       income housing and of the existing structures most appropriate for conversion to, or rehabilitation
+       for, low- and moderate-income housing, including a consideration of lands of developers who have
+       expressed a commitment to provide low- and moderate-income housing”
+As part of this Fair Share Plan, the Borough has considered land that is appropriate for the
+construction of very low-, low-, and moderate-income housing. By utilizing various zoning
+         MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 32 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                   31
+
+
+ mechanisms, the Borough has successfully met its affordable housing obligations and continues
+ to facilitate the creation of such housing. The Borough has amended zoning regulations to
+ establish affordable and inclusionary housing districts. Furthermore, the adoption of a
+ mandatory set-aside ordinance guarantees that unexpected opportunities for affordable
+ housing are utilized. The Borough considers the strategies outlined in this document to be the
+ most effective approach to meeting its affordable housing needs. While it acknowledges that
+ developers may propose additional sites in the future that could be suitable for affordable
+ housing, no further sites are currently required to fulfill the Borough’s obligations.
+ Mandatory Obligation Subsets
+ Below is a table reviewing additional obligation requirement thresholds.
+                                                              # REQUIRED OF
+  MANDATORY OBLIGATIONS                      CITATION                                 PROPOSED
+                                                              ACTUAL UNITS*
+Very Low-Income Units (13% Minimum)
+
+Shall count towards the minimum 50 percent
+of the housing units required to be made     52:27D-329.1      8 (Rounded Up)
+available for occupancy by low-income                                             New Projects will
+households to address a municipality's                                            comply with UHAC,
+prospective need obligation.                                                      AHO             and
+Family VLI Units                                                                  Requirements     for
+                                             52:27D-329.1             4
+(50% Minimum of VLI Units)                                                        LMI requirements
+Low-Income Units (50% Minimum)
+                                             52:27D-329.1      28 (Rounded Up)
+Conversely, the maximum of Moderate-
+Income Units shall not exceed 50%.
+Family Units (50% Minimum)                    52:27D-311.l     28 (Rounded Up)    64 Units in Downtown
+Rental Units (25% Minimum)                    52:27D-311.l     14 (Rounded Up)    Redevelopment Plan
+                                                                                  to comply with overall
+Family Rental Units
+                                             52:27D-311.k.5    28 (Rounded Up)    family,           rental
+(50% Minimum of Rental Units)
+                                                                                  requirements
+Age-restricted units (30% Maximum)           52:27D-302.q     16 (Rounded Down)   No physical Round 4
+                                                                                  units at time of HEFSP
+                                                                                  adoption.          New
+                                                                                  projects under
+                                                                                  Redevelopment Plan
+Transitional Housing                                                              will comply with
+                                             52:27D-311.e     6 (Rounded Down)
+(10% Maximum of Total Credits)                                                    maximum thresholds.
+                                                                                  15 Units through RPM
+                                                                                  (transitional and age-
+                                                                                  restricted      housing
+                                                                                  project). New projects
+                MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 33 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                                      32
+
+
+                                                                                                     will comply with
+                                                                                                     maximum thresholds
+      Age-Restricted Housing Bonus Credit                                                            1 Senior Bonus Credit
+                                                       52:27D-311.k.4      6 (Rounded Down)
+      (10% Maximum of Age-Restricted Units)                                                          at RPM N/A
+      *Except where otherwise noted, actual units do not count bonus credits. In other words, actual units are the Prospective
+      Need Credits of 73 minus bonus credits of 18 = 55 units.
+      Note 1: Maximum bonus credits shall not exceed 25% of Prospective Need per 52:27D-311.k.
+      Note 2: Targets based on required units and will be enforced throughout the Fourth Round as part of site plan review
+      and approval.
+
+
+       Financial Contribution Considerations
+       The Borough has made substantial progress toward fulfilling its municipal housing obligation
+       through a significant contribution from the Affordable Housing Trust Fund and the issuance of
+       bonds to support a 100% affordable housing project located at West Main Street (Block 73, Lot
+       65). This contribution, approved via Ordinance 24-2711, will support housing for 71 affordable
+       residential units, including one caretaker unit. In accordance with COAH regulations
+       permitting the use of development fee revenues for such purposes, the Borough has allocated
+       funding to assist income-qualified households, demonstrating a clear and actionable
+       investment in the provision of affordable housing stock. Accordingly, these financial
+       commitments should be considered toward satisfying the Borough’s obligation.
+
+
+
+
+11
+     https://ecode360.com/RO1087/laws/LF2229176.pdf
+               MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 34 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                                 33
+
+
+       D. Other Housing Zoning Considerations
+       In light of the Borough of Rockaway’s 2018 Master Plan and the 2021 Housing Element and Fair
+       Share Plan, it may be appropriate for the Borough to revise housing policies in its land use
+       ordinances to ensure alignment with the adopted Third Round Settlement Agreement and to
+       promote rational, consistent zoning in multi-family and mixed-use zones. The following
+       considerations are recommended:
+        As of this Amendment, all the following has been adopted.
+       Repeal or Amend the Accessory Housing Unit Ordinance (Article XI) 12
+       Article XI, which established regulations for Accessory Dwelling Units (ADUs), was originally
+       adopted to comply with the Borough’s 2017 Settlement Agreement with Fair Share Housing
+       Center (FSHC) and Avalon Bay. That agreement has since been nullified and replaced by the
+       current Third Round Settlement Agreement, which does not require the inclusion of ADUs in
+       the municipal ordinance. As a result, the existing Accessory Housing Unit Ordinance was
+       enacted based on a now-obsolete legal requirement and no longer serves a necessary
+       compliance function.
+       The State of New Jersey is currently considering reforming accessory dwelling units and related
+       municipal land use regulations via Bill A2792/4370/2489.13 These bills address the development
+       and regulation of ADUs within the state. The legislation aims to define ADUs and mandate
+       municipalities to adopt one of two model land use ordinances prescribed by the Commissioner
+       of Community Affairs to regulate ADUs. The legislation would also prohibit municipalities from
+       imposing additional standards beyond those set forth in the state legislation, ensuring
+       uniformity in ADU regulations across New Jersey.
+       Given the obsolescence of the original intent of adopting the Borough’s ADU ordinance (which
+       is heavily regulated by deed restrictions, COAH regulations, and requires reporting to the
+       Borough's Affordable Housing Liaison), the Borough may wish to remove the ordinance and/or
+       amend policy in the future that is better aligned with local objectives, rather than maintaining
+       an outdated framework.
+       Inclusion of Four-Family Dwellings as a Permitted Use in the R-4 and R-5 Zones
+       The R-4 and R-5 zoning districts currently permit two-, three-family dwellings and garden
+       apartments as principal uses. However, four-family dwellings are notably absent from the list
+       of permitted uses per § 172-50, despite permitting apartments (which may be 5+ units).
+       Requiring use variances for four-family dwellings in zones already permitting lower and higher
+       densities creates inconsistency in the zoning code. It is recommended that four-family dwellings
+
+
+
+12
+     https://ecode360.com/33640056
+13
+     https://www.njleg.state.nj.us/bill-search/2024/A2792
+      MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 35 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                            34
+
+
+be added as permitted uses in both R-4 and R-5 zones to eliminate this gap and ensure coherent
+zoning standards.
+Allowance for Mixed-Use Residential Uses in the Neighborhood Commercial (NC) Zone
+The NC zone was recommended in the 2018 Master Plan. However, the only change
+implemented was a non-substantive nomenclature name update, with no adjustments made to
+the permitted uses (as none were recommended in the Master Plan).
+Per the ordinance, the NC zone is intended “to provide for a broad range of commercial uses
+for local needs,” excluding highway-scale commercial activity due to lot sizes and infrastructure
+limitations. In practice, these zones exist only in limited, small-scale commercial pockets at key
+intersections within the Borough.
+To encourage mixed-use development consistent with smart growth principles and to activate
+underutilized space, it is recommended that mixed-use residential be permitted. This could be
+established as a conditional use to allow for municipal oversight, including conditions of on-site
+parking and residential use limited to upper floors or restricted ground floor area (e.g. square
+footage cap or frontage limit).
+Allowance for Mixed-Use Residential Uses in the Office Business (OB) Zone
+The OB zone permits either single-family residential use or office use as separate, principal
+uses. Allowing mixed-use occupancy (single-family in conjunction with an office use) would
+provide greater flexibility in adaptive reuse of existing properties and contribute to land use
+efficiency. This change would support context-sensitive redevelopment and infill opportunities,
+particularly in areas with existing infrastructure and building stock suitable for dual-purpose
+use.
+        MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 36 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                          35
+
+
+
+V. Appendices
+ A. Regulatory Resolution (Adopting Obligation Number) and Court Order Fixing Municipal
+    Obligation
+ B. Zoning Amendments (Downtown Redevelopment Plan)
+ C. Affordable Housing and Developer Fee Ordinance (Amended for New UHAC Standards)
+    Development Fee Ordinance Former Appendix D (Developer Fee Ordinance) merged into
+    Appendix C
+ D. Affirmative Marketing Plan
+ E. Spending Plan
+ F. Resolution of intent to fund cost of municipality’s municipally sponsored affordable housing
+    development as well as its rehabilitation program
+ G. Copies of resolutions appointing Administrative Agent(s) and ordinance creating the position
+    of and appointing the Municipal Affordable Housing Liaison
+ H. Rehabilitation Manual
+ I. Program Settlement
+      MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 37 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                   36
+
+
+A) Regulatory Resolution (Adopting Obligation Number) and Court Order Fixing
+   Municipal Obligation
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 38 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             37
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 39 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             38
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 40 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                               39
+
+
+               MRS-L-000205-25 04/24/2025 Pg 1 of 3 Trans ID: LCV20251223114
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 41 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             40
+       MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 42 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                               41
+
+
+B) Zoning Amendment (Downtown Redevelopment Plan)
+
+
+  See full Downtown Redevelopment Plan Ordinance #24-08 (June 13, 2024) #25-21 (September
+  11, 2025) online at:
+  https://www.rockawayborough.org/boardsandcommittees/lub/Downtown-Rockaway-
+  Redevelopment-Plan-updated-09112025.pdf
+
+  Below are relevant sections regarding affordable housing requirements, subdistrict mapping,
+  and zoning density parameters:
+
+   §   Page 32: “6.11 Affordability. All projects within the Redevelopment Area shall comply with the
+       Borough’s affordable housing requirements pursuant to Borough Code Chapter 88, Affordable
+       Housing.”
+
+   §   Page 16: “6.2 Subdistricts – General”
+    MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 43 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                     42
+
+
+§   Pages 17-19: “6.3 Subdistrict One – Borough Center I […] Permitted Principal Uses […]
+    Multifamily Residential [A]partment on upper floors […]
+
+
+
+
+§   Pages 20-22: “6.4 Subdistrict Two – Borough Center II […] Permitted Principal Uses […]
+    Multifamily Residential 1. Apartment […] 4. Townhome”
+      MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 44 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                                   43
+
+
+C) Affordable Housing and Developer Fee Ordinance
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 45 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             44
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 46 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             45
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 47 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             46
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 48 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             47
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 49 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             48
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 50 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             49
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 51 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             50
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 52 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             51
+MRS-L -000205-25 03/16/2026 2:00:00 AM Pg 53 of 53 Trans ID: LCV2026672192
+
+
+
+
+                                                                             52
+

@@ -1,0 +1,1820 @@
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 1 of 86 Trans ID: LCV20251693587
+
+
+
+
+          Housing Plan Element
+                   and
+                  Fair Share Plan
+
+                   Borough of Hopewell
+                    Mercer County, New Jersey
+
+                                  June 4, 2025
+
+
+
+
+                             Prepared by
+                   Hopewell Borough Land Use Board
+                     in consultation with Banisch Associa tes, Inc.
+                        111 Main Street, Flemington, NJ 08822
+
+
+                   The original of this report was signed and sealed
+                        in accordance with N.J.A.C.13:41-1.3
+      MER-L-000184-25 06/06/2025 12:07:18 PM Pg 2 of 86 Trans ID: LCV20251693587
+
+
+                                                                                      HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                                                    BOROUGH OF HOPEWELL
+
+
+TABLE OF CONTENTS
+
+EXECUTIVE SUMMARY ......................................................................................................................... 1
+HOPEWELL BOROUGH’S AFFORDABLE HOUSING COMPLIANCE....................................................... 1
+STATUTORY AFFORDABLE HOUSING REQUIREMENTS ....................................................................... 3
+PRESENT NEED OBLIGATION ............................................................................................................... 5
+FIRST AND SECOND ROUND OBLIGATION ........................................................................................... 5
+VACANT LAND AND REALISTIC DEVELOPMENT POTENTIAL ANALYSIS ........................................... 5
+THIRD ROUND AFFORDABLE HOUSING PLAN ..................................................................................... 6
+Third Round Compliance................................................................................................................ 6
+Third Round Unmet Need............................................................................................................... 9
+Third Round Affordable Housing Requirements .......................................................................... 11
+FOURTH ROUND FAIR SHARE PLAN .................................................................................................. 11
+Fourth Round Affordable Housing Requirements ........................................................................ 12
+FUNDING .............................................................................................................................................. 12
+MULTIGENERATIONAL FAMILY HOUSING ........................................................................................ 13
+RELATIONSHIP TO STATE DEVELOPMENT AND REDEVELOPMENT PLAN ....................................... 13
+HOUSING ELEMENT PLAN .................................................................................................................. 14
+Inventory of Municipal Housing Conditions ................................................................................ 14
+Analysis of Demographic Characteristics ..................................................................................... 22
+
+
+TABLES
+Table 1: Hopewell Borough’s Cumulative Affordable Housing Obligation .................................. 1
+Table 2: Allocation of Units and Credits to Address Prior Round Obligation of 29 Units ........... 5
+Table 3: Mechanisms to Address Third Round RDP...................................................................... 6
+Table 4: Mechanisms to Address Third Round Unmet Need ......................................................... 9
+Table A1: Units in Structure by Tenure ....................................................................................... 14
+Table A2: Year Structure Built by Tenure.................................................................................... 15
+Table A3: Comparison of Year of Construction for Borough, County, and State....................... 15
+Table A4: Household Size in Occupied Housing Units by Tenure ............................................. 16
+Table A5: Number of Bedrooms per Unit by Tenure .................................................................. 16
+Table A6: Average Household Size for Occupied Units for Borough, County, and State .......... 17
+Table A7: Percentage of All Units by Number of Bedrooms ...................................................... 17
+Table A8: Housing Quality for Borough, County, and State....................................................... 18
+Table A9: Value of Residential Units .......................................................................................... 18
+Table A10: Gross Rents for Specified Renter-Occupied Housing Units ..................................... 19
+Table A11: Household Expense in 2023 by as a Percentage of Household Income in 2023 ...... 19
+Table A12: Housing Units Authorized by Building Permits for New Construction 2013-2024 . 20
+Table A13: Housing Units Demolished 2013-2024..................................................................... 20
+Table A15: Population by Age .................................................................................................... 22
+Table A16: Comparison of Age Distribution for Borough, County, and State (% of persons) ... 23
+Table A17: Persons in Household................................................................................................ 23
+Table A18: Comparison of Persons in Household for Borough, County, and State (% of
+households) ................................................................................................................................... 24
+      MER-L-000184-25 06/06/2025 12:07:18 PM Pg 3 of 86 Trans ID: LCV20251693587
+
+
+                                                                                   HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                                                 BOROUGH OF HOPEWELL
+
+Table A19: Persons 65+ by Household Type and Relationship .................................................. 24
+Table A20: 2023 Income for Borough, County, and State .......................................................... 25
+Table A21: Poverty Status for Persons and Families for Borough, County, and State (% with
+2023 income below poverty) ........................................................................................................ 25
+Table A22: Comparison of Median Year Householder Moved Into Unit for Borough, County,
+and State ........................................................................................................................................ 25
+Table A23: Educational Attainment for Borough, County, and State Residents (Persons 25 years
+and over) ....................................................................................................................................... 26
+Table A24: Means of Transportation to Work for Borough, County and State Residents
+(Workers 16 years old and over) ................................................................................................... 26
+Table A25: Employment by Industry .......................................................................................... 27
+Table A26: Labor Force and Employment (%) ........................................................................... 28
+Table A27: Forecast for Employment and Population ................................................................ 28
+
+
+LIST OF FIGURES
+Figure 1: Existing Affordable Housing Sites and Designated Redevelopment Areas
+
+
+APPENDIX
+
+Appendix A: Vacant Land Analysis and Realistic Development Potential
+Appendix B: Hopewell Special, LLC . supporting documentation
+Appendix C: Hopewell Inn supporting documentation
+Appendix D: Preliminary Investigation Report for Area s in Need of Redevelopment
+Appendix E: Townhouse Residential Zone/Sawdust LLC supporting documentation
+Appendix F : Multi-Family Residential Zone/Hopewell 57 supporting documentation
+Appendix G: Affordable Housing Ordinance with Mandatory Set-aside requirement
+Appendix H: Administrative Agent and Affordable Housing Municipal Liaison resolutions
+Appendix I: Affirmative Marketing Plan
+Appendix J: Development Fee Ordinance
+    MER-L-000184-25 06/06/2025 12:07:18 PM Pg 4 of 86 Trans ID: LCV20251693587
+
+
+                                                   HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                 BOROUGH OF HOPEWELL
+
+EXECUTIVE SUMMARY
+This amended Housing Element and Fair Share Plan sets forth the manner in which Hopewell
+Borough will address its cumulative affordable housing obligations through the fourth round
+based on the amended Fair Housing Act (FHA). A summary of the cumulative affordable
+housing obligations, certified units to date, and determination of Realistic Development
+Potential for the Borough are identified in Table 1:
+
+       Table 1: Hopewell Borough’s Cumulative Affordable Housing Obligation
+                                                                   Number of
+                                                                Affordable Units
+
+        2nd Round obligation (Jacobson Decision)                        + 29
+        2nd Round credits through RCA                                   - 9
+        3rd Round Obligation (Jacobson Decision)                        + 101
+        4th Round Present Need Obligation (rehabilitation)              0
+        4th Round Obligation (DCA October Report)                       + 39
+        Cumulative Obligation                                           =160
+                Obligation Utilizing VLA/RDP
+                Preliminary VLA/RDP Adjustment (To be Addressed         13
+                Units)
+                Unmet Need (Cumulative Round)                           147
+                Obligation                                              =160
+                (VLA/RDP + Unmet = Cumulative Obligation)
+        Affordable Housing Credit 3rd Round Credits addressing the      -32
+        VLA/RDP adjustment (deducted from cumulative obligation)
+        Remaining Cumulative Obligation (Unmet Need)                    128
+
+
+
+HOPEWELL BOROUGH’S AFFORDABLE HOUSING COMPLIANCE
+This is Hopewell Borough’s Fourth Round Fair Share Plan and Housing Plan Element. This
+Plan is part of the Borough’s ongoing commitment and compliance to provide affordable
+housing and a diverse housing stock within the Borough. The Borough received first round
+certification on November 7, 1990, which the Borough had a zero (0) unit obligation. The
+Borough participated in the second round (1993-1999) receiving substantive certification on
+December 6, 2000, which was extended to December 6, 2006. The plan included an original
+affordable housing obligation of 37 units, which was reduced to 29 units based upon an
+approved vacant land adjustment (VLA). The certified second round plan addressed the 29
+units and 8 rehabilitation units. In May 2000, nine (9) RCA units were authorized to the City
+of Trenton, which were completed in November 2001. Additionally, three (3) accessory
+apartments were authorized in 2006.
+
+
+
+                                               1
+    MER-L-000184-25 06/06/2025 12:07:18 PM Pg 5 of 86 Trans ID: LCV20251693587
+
+
+                                                    HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                  BOROUGH OF HOPEWELL
+
+In January 2007 the NJ Appellate Division overturned COAH’s substantive rules as a result
+of a challenge and suspended any further COAH substantive certifications of municipal Third
+Round Plans. In the Matter of the Adoption of N.J.A.C. 5:94 and 5:95 by New Jersey
+Council on Affordable Housing, 390 N.J. Super. 1 (App. Div.), certif. denied 192 N.J. 72
+(2007). (2007 Case). The Court ordered COAH to revise its rules, and COAH adopted the
+revised third round rules in September 2008, which became effective on October 20, 2008.
+(2008 Rules). As a result, the 562 municipalities that were not certified prior to ruling in the
+2007 Case were required to repetition COAH in order to remain under COAH’s protection
+from “builder’s remedy” lawsuits.
+
+On October 2008, Hopewell adopted its Third Round Plan, and in February 2009 petitioned
+the NJ Council on Affordable Housing (COAH) for Third Round Substantive Certification.
+However, by this time COAH had suspended substantive certification and thus the plan was
+never certified. The 2008 plan identified compliance mechanisms and affordable housing
+techniques that would have fully satisfied Hopewell’s Third Round (then 2004 to 2014) and
+prior round affordable housing obligations as found in COAH’s regulations.
+
+The Appellate Division again invalidated COAH’s Third Round Rules (Chapter 97) and
+ordered revised rulemaking. COAH attempted to adopt a third set of Third Round Rules
+(proposed Chapter 99) but failed to garner a sufficient number of votes on the Council to
+adopt the rules. As a result, the Chapter 97 Rules remained invalid with no revised rules in
+place to guide municipal Third Round Mount Laurel compliance. Simultaneously, with these
+developments, the NJ Supreme Court heard an appeal of the Appellate Division decision
+invalidating Chapter 97 (and the attendant “procedural rules” entitled Chapter 96) and ruled
+in the matter of on March 10, 2015. In the Matter of the Adoption of N.J.A.C. 5:96 and 5:95
+by the New Jersey Council on Affordable Housing, 221 N.J. 1, 42 (2015).
+
+The Borough adopted a Housing Element and Fair Share Plan in response in response to the
+NJ Supreme Court’s March 10, 2015 decision and order, which dissolved the NJ Fair
+Housing Act’s (FHA) exhaustion-of-administrative-remedies requirement and authorized the
+Courts to hear and decide actions addressing municipal compliance with Mount Laurel
+obligations by the municipalities that had sought the protections of the Fair Housing Act
+(FHA) through COAH. The Supreme Court transferred jurisdiction of Mount Laurel
+constitutional compliance from COAH to the Courts because COAH failed to adopt new
+third round rules as ordered by the Court in September 2013. The Supreme Court’s March
+15, 2015 order assigned the task of assigning municipal third round fair share obligations to
+the trial courts.
+
+In July 2015, Hopewell Borough filed a declaratory judgment to provide an additional five
+months to prepare a Housing Element and Fair Share Plan. However, the Borough had
+withdrawn their declaratory judgment due to mounting financial strain associated with the
+process. Despite not participating in the declaratory judgment process, the Borough
+continued to address its constitutional obligation to provide affordable housing by creating
+affordable units through use variance applications and redevelopment opportunities.
+
+
+
+                                               2
+    MER-L-000184-25 06/06/2025 12:07:18 PM Pg 6 of 86 Trans ID: LCV20251693587
+
+
+                                                   HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                 BOROUGH OF HOPEWELL
+
+On March 20, 2024, Governor Murphy signed into law an amendment to the Fair Housing
+Act (FHA). The amended FHA formally abolishes COAH and establishes the Affordable
+Housing Dispute Resolution Program (The Program), which is administered through the
+Administrative Office of Courts. The amended FHA establishes new and amended
+procedures and regulations regarding affordable housing. The amended FHA required the
+New Jersey Department of Community Affairs (NJDCA) to prepare a report and calculations
+to determine municipal affordable housing obligations which was released in October 2024.
+The amended FHA establishes specific timelines to prepare affordable housing plans,
+including the adoption of a Housing Element and Fair Share Plan by June 30, 2025.
+
+This amended Plan identifies existing and proposed affordable housing that will satisfy
+Hopewell Borough’s affordable housing obligations.
+
+STATUTORY AFFORDABLE HOUSING REQUIREMENTS
+This Housing Plan Element has been prepared in accordance with the Municipal Land Use
+Law (N.J.S.A. 40:55D-28b(3)) and the Fair Housing Act as amended (N.J.S.A. 52:27D-310),
+to address the Borough’s cumulative housing obligation. N.J.S.A. 52:27D-310 outlines the
+mandatory requirements for a Housing Plan Element.
+
+The Municipal Land Use Law at N.J.S.A. 40:55D-28.b(3), identifies the following
+requirements for a Housing Plan Element:
+
+       (3) A housing plan element pursuant to section 10 of P.L.1985, c.222 (C.52:27D-
+       310), including, but not limited to, residential standards and proposals for the
+       construction and improvement of housing;
+
+The Content of a Housing Element as outlined at prior regulations found at subsection (a) of
+N.J.A.C. 5:97-2.3), required that a Housing Element submitted to the Council should include
+the minimum requirements prescribed by N.J.S.A 52:27D-310 which provides that
+
+       “a municipal housing element shall be designed to achieve the goal of access to
+       affordable housing to meet present and prospective housing needs, with particular
+       attention to low- and moderate-income housing, and shall contain at least:
+
+       a. An inventory of the municipality's housing stock by age, condition, purchase or
+       rental value, occupancy characteristics, and type, including the number of units
+       affordable to low and moderate income households and substandard housing capable
+       of being rehabilitated, and in conducting this inventory the municipality shall have
+       access, on a confidential basis for the sole purpose of conducting the inventory, to all
+       necessary property tax assessment records and information in the assessor's office,
+       including but not limited to the property record cards;
+
+       b. A projection of the municipality's housing stock, including the probable future
+       construction of low- and moderate-income housing, for the next ten years, taking into
+
+
+                                              3
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 7 of 86 Trans ID: LCV20251693587
+
+
+                                              HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                            BOROUGH OF HOPEWELL
+
+  account, but not necessarily limited to, construction permits issued, approvals of
+  applications for development and probable residential development of lands;
+
+  c. An analysis of the municipality's demographic characteristics, including but not
+  necessarily limited to, household size, income level and age;
+
+  d. An analysis of the existing and probable future employment characteristics of the
+  municipality;
+
+  e. A determination of the municipality's present and prospective fair share for low and
+  moderate income housing and its capacity to accommodate its present and
+  prospective housing needs, including its fair share for low and moderate income
+  housing; and
+
+  f. A consideration of the lands that are most appropriate for construction of low and
+  moderate income housing and of the existing structures most appropriate for
+  conversion to, or rehabilitation for, low and moderate income housing, including a
+  consideration of lands of developers who have expressed a commitment to provide
+  low and moderate income housing.”
+
+  g. An analysis of the extent to which municipal ordinances and other local factors
+  advance or detract from the goal of preserving multigenerational family continuity as
+  expressed in the recommendations of the Multigenerational Family Housing
+  Continuity Commission, adopted pursuant to paragraph (1) of subsection f. of section
+  1 of P.L.2021, c.273 (C.52:27D-329.20);
+
+  h. For a municipality located within the jurisdiction of the Highlands Water
+  Protection and Planning Council, established pursuant to section 4 of P.L.2004, c.120
+  (C.13:20-4), an analysis of compliance of the housing element with the Highlands
+  Regional Master Plan of lands in the Highlands Preservation Area, and lands in the
+  Highlands Planning Area for Highlands-conforming municipalities. This analysis
+  shall include consideration of the municipality’s most recent Highlands Municipal
+  Build Out Report, consideration of opportunities for redevelopment of existing
+  developed lands into inclusionary or 100 percent affordable housing, or both, and
+  opportunities for 100 percent affordable housing in both the Highlands Planning Area
+  and Highlands Preservation Area that are consistent with the Highlands regional
+  master plan; and (Not applicable to Hopewell Borough)
+
+  i. An analysis of consistency with the State Development and Redevelopment Plan,
+  including water, wastewater, stormwater, and multi-modal transportation based on
+  guidance and technical assistance from the State Planning Commission.
+
+
+
+
+                                         4
+    MER-L-000184-25 06/06/2025 12:07:18 PM Pg 8 of 86 Trans ID: LCV20251693587
+
+
+                                                         HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                       BOROUGH OF HOPEWELL
+
+PRESENT NEED OBLIGATION
+Present need obligation is the obligation associated with the number of deteriorated housing
+units occupied by low- and moderate-income households. The DCA October 2024 report
+identified that the Borough has a 0-unit present need obligation.
+
+FIRST AND SECOND ROUND OBLIGATION
+
+Hopewell Borough’s first round obligation was zero (0) and second round obligation of 29 units. The
+Borough prepared a second round plan which was adopted in October 1996 and certified by COAH on
+December 6, 2000, and was granted an extension through December 6, 2006. The Borough’s
+obligation at that time was 37 units, which was reduced to 29 units based on an approved vacant land
+analysis. The Borough participated in a Regional Contribution Agreement (RCA) with the City of
+Trenton for nine (9) units towards that obligation, leaving an unmet need of 20 units (Table 2).
+
+Table 2: Allocation of Units and Credits to Address Prior Round Obligation of 29 Units
+                       Project            Type of unit Number of units
+             RCA with City of Trenton        RCA                       9
+              nd
+             2 Round Obligation                                       29
+             Total Remaining Obligation                               20
+
+VACANT LAND AND REALISTIC DEVELOPMENT POTENTIAL ANALYSIS
+Hopewell Borough has historically been granted a vacant land adjustment based on the lack of available
+land for new construction and development. The Borough’s first round obligation was zero and the
+second round obligation of 37 was reduced to 29 based on an approved VLA. Under COAH Third
+Round regulations, the Borough is entitled to rely on its prior vacant land adjustment. N.J.A.C. 5:97-5.1
+(d). Although COAH was abolished as a result of the amended Fair Housing Act, the Borough is
+entitled to rely on COAH’s Third Round regulation since it has not been contradicted by statutory
+amendment or a binding court decision. COAH regulations recognized that a municipality secured a
+vacant land adjustment should not be required to do that analysis again:
+
+        “COAH regulations N.J.A.C. 5:97-5.1 (d): A vacant land adjustment that was granted as
+        part of a first round certification or judgment of compliance shall continue to be valid
+        provided the municipality has implemented all of the terms of the substantive
+        certification or judgment of compliance, and received or petitioned to the Council for
+        second round substantive certification or was under the Court's jurisdiction for second
+        round. If the municipality failed to implement the terms of the substantive certification
+        or judgment of compliance, the Council may reevaluate the vacant land adjustment.”
+
+As noted, COAH determined that the Borough had an RDP of zero (0) when it certified the Borough’s
+plan in the First Round and reduced the obligation to 29 when it certified the Borough’s obligation in
+Second Round. The Borough lacked sufficient land to satisfy its Prior Round Obligation of 29 and was
+able to address 9 units through an RCA with Trenton. The available land base has since been reduced in
+
+
+
+                                                   5
+       MER-L-000184-25 06/06/2025 12:07:18 PM Pg 9 of 86 Trans ID: LCV20251693587
+
+
+                                                                      HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                                    BOROUGH OF HOPEWELL
+
+   the Borough, and therefore lacks sufficient land to satisfy the additional 101 obligation imposed in the
+   Third Round and the 39-unit fourth round obligation.
+
+   The Borough has conducted and updated VLA and Realistic Development Potential (RDP) analysis in
+   response to the reduction in the Borough’s land base for new construction and to identify new
+   redevelopment opportunities (Appendix A), which results in an RDP of 13 units.
+
+   THIRD ROUND AFFORDABLE HOUSING PLAN
+   Hopewell has a third-round prospective obligation of 101 units and a 20-unit second round unmet need
+   obligation, for a cumulative obligation of 121 units.
+
+   Third Round Compliance
+
+   The Borough did not participate in the ongoing Declaratory Judgment actions of the Third Round but
+   continued to address its affordable housing obligations as opportunities became available. As required
+   in the FHA, Table 3 and Figure 1 identifies the mechanisms addressing the prior round obligation.
+
+                          Table 3: Mechanisms to Address Third Round RDP
+                                                             Units    Bonus                                         Affordable
+        Name                  Mechanism         Status
+                                                                                                                     Credits
+Hopewell Special, LLC/                                                              1               1*                   2
+                               Family Rental               Completed
+ 19 West Broad Street
+HVIB Holdings, LLC/                                                                 1               1*                   2
+                                                            Under
+ Hopewell Inn/15 East          Family Rental
+                                                          Construction
+     Broad Street
+ Sawdust Townhouse                                                                  2               2*                   4
+ Redevelopment Plan/           Family Rental               Approved
+  24 Model Avenue
+                                                        Redevelopment              24           12**                     24
+                                                        Plan Approved                           Upon                36 total upon
+  Hopewell 57, LLC/
+                               Family Rental             and Site Plan                        Completion             completion
+ 57 Hamilton Avenue
+                                                          Application
+                                                           Pending
+                                                                                   28              4                    32
+                                                                                                16 total              44 total
+    TOTAL CREDITS
+                                                                                               pending               pending
+                                                                                              Hopewell 57           Hopewell 57
+                        *Bonus credits under third round regulation 1:1 bonus for family rental units
+           **Bonus credits under fourth round regulation 1: 0.5 bonus for conversion of non-residential to residential
+
+   Hopewell Special, LLC, Block 25, Lot 76, 19 West Broad Street
+
+   Hopewell Special, LLC, formerly known as the Blackwell Farmstead and more recently the Runyon
+   House, is a historic farmstead in the Borough dating back to 1750. The approved use variance and
+   preliminary and final site plan provide for the preservation of the historic home, converting it to a two-
+
+                                                               6
+    MER-L-000184-25 06/06/2025 12:07:18 PM Pg 10 of 86 Trans ID: LCV20251693587
+
+
+                                                          HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                        BOROUGH OF HOPEWELL
+
+family unit, and the construction of four (4) duplex units for a total of 8 units to the rear of the home.
+The developer provided an off-site deed restricted unit located at 25 West Broad Street (Appendix B).
+The unit is currently occupied by a tenant but, upon the tenant's departure, the unit will be affirmatively
+marketed for an income-qualified tenant and the 30-year deed restriction will commence.
+
+Hopewell Inn, Block 28, Lot 5, 15 East Broad Street
+
+The Hopewell Inn, formerly the Hopewell Bistro, is located at 15 East Broad Street at the intersection
+with Seminary Avenue. The Inn is a historic structure in the Borough and located within the Borough’s
+Historic District. The original structure dates back to 1875 and has been a hotel and tavern for the
+majority of its history. Most recently, the Hopewell Bistro consisted of a first-floor restaurant and bar
+with the upper floors remaining vacant. The Hopewell Inn received use variance and preliminary and
+final site plan approval to reconstruct the Inn to its 1890s appearance and will include a first-floor
+restaurant and five (5) apartments on the second- and third-floors. One of the apartments has been deed
+restricted for affordable housing. The Hopewell Inn is currently under construction and a deed
+restriction for the affordable unit has been approved (Appendix C).
+
+Designated Redevelopment Sites and Suitability
+
+The remaining two properties contributing to affordable housing in the third round are designated Areas
+in Need of Redevelopment and have adopted Redevelopment Plans. In 2016 the Borough
+designated three areas in the Borough as Areas in Need of Redevelopment, as depicted on (Appendix
+D). All three areas are currently non-residential with the goal to provide redevelopment consisting
+of residential or mixed use to reflect the surrounding land uses and neighborhood character. The
+redevelopment of these sites is beneficial to those who will eventually occupy the units, and also
+takes into consideration the character of the adjoining uses, the availability of infrastructure,
+transportation, access to nearby services, and provides for a diverse housing stock and affordable
+housing in key areas of the Borough. A site suitability analysis was conducted for each site in
+accordance with COAH suitability criteria which states:
+
+    (a) Sites designated to produce affordable housing shall be available, approvable,
+    developable and suitable, according to the following criteria:
+
+        1. The site has a clear title and is free of encumbrances which preclude development
+        of affordable housing;
+        2. The site is adjacent to compatible land uses and has access to appropriate streets;
+        3. Adequate sewer and water capacity, as defined under N.J.A.C. 5:97-1.4, shall be
+        available to the site or the site is subject to a durational adjustment pursuant to
+        N.J.A.C. 5:97-5.4; and
+        4. The site can be developed consistent with the Residential Site Improvement
+        Standards, N.J.A.C. 5:21, where applicable. Deviations from those standards are to be
+        done in accordance with N.J.A.C. 5:21-3.
+
+
+
+
+                                                    7
+    MER-L-000184-25 06/06/2025 12:07:18 PM Pg 11 of 86 Trans ID: LCV20251693587
+
+
+                                                      HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                    BOROUGH OF HOPEWELL
+
+24 Model Avenue/ Block 11, Lot 26/Lumberyard
+
+The Borough adopted a Redevelopment Plan establishing the “Townhouse Residential” Zone in June
+2018 (Appendix E). The property is 1.146 acres and is currently developed with a lumberyard. The
+Redevelopment Plan adopted zoning to allow 13 townhouse residential units (11.3 units per acre) of
+which two would be deed restricted for affordable housing. In 2022, the redeveloper submitted a site
+plan application to the Planning Board and received approval in July 2022 (Res. PB #2022-08). The
+approved site plan allowed for 13 attached townhouse units, of which one includes a 2-unit apartment,
+each with two bedrooms. While the site has already demonstrated suitability, the following addresses
+the specific requirements under the regulations:
+
+        1. The site has a clear title and is free of encumbrances which preclude
+        development of affordable housing;
+        2. The site is within a residential area and adjacent to compatible land uses
+        consisting of single-family dwellings and multifamily buildings with access to
+        Model Avenue. The existing lumberyard is a pre-existing non-conforming use
+        and its conversion to residential use is more compatible with the character of the
+        surrounding land uses.
+        3. The Borough is serviced by public water and sewer with the current capacity
+        able to service the development.
+        4. The site is able to be developed consistent with the Residential Site
+        Improvement Standards, N.J.A.C. 5:21, where applicable, as demonstrated
+        through the site plan approval process.
+
+57 Hopewell, LLC/Block 18, Lot 1 & Block 12, Lot 7/57 Hamilton Avenue
+
+The Borough established the “Multi-Family Residential Housing” Zone through the
+Redevelopment Plan adopted on July 1, 2024, and amended on October 2024 (Appendix F).
+The Redevelopment Area consists of two lots totaling 4.28 acres. Block 18, Lot 1 includes
+the existing “Hopewell Center” building with frontage on Somerset Street, Hamilton Avenue,
+and Lafayette Street. Block 12, Lot 7, consists of the existing parking lot north of the
+building, across Somerset Street.
+
+The redevelopment plan provides for a multi-family development that is more compatible
+with the surrounding land uses, provides more diverse housing options in the Borough, and
+remediates environmental contamination on site. The zone permits multi-family dwelling
+units at 30 units per acre with a 20% set-aside for affordable housing units to contribute to
+the Borough’s mandated affordable housing obligation. The zone will provide for the
+development of this property with a cohesive neighborhood plan consisting generally of two
+“stacked” townhouse buildings, one four-story apartment building, and a common clubhouse
+building.
+
+The Redeveloper is currently preparing the site plan and anticipates submission to the
+Planning Board for public hearing this summer. The site is suitable for affordable housing as
+follows:
+
+
+                                                 8
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 12 of 86 Trans ID: LCV20251693587
+
+
+                                                   HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                 BOROUGH OF HOPEWELL
+
+       1. The site has a clear title and is free of encumbrances that preclude
+       development of affordable housing;
+       2. The site is adjacent to compatible land uses and has access to
+       appropriate streets. The site has frontage to three public streets, Hamilton
+       Avenue, Lafayette Street, and Somerset Street. The area consists of
+       diverse land uses including single family and duplex residential uses,
+       office, retail, and service spaces. The redevelopment of the site into multi-
+       family residential uses is more compatible with the surrounding land uses
+       and acts as a transition area between the residential and non-residential
+       uses in this part of the Borough.
+       3. The Borough currently has enough water and sewer to service the
+       proposed development through the Borough’s system.
+       4. The site can be developed consistent with the Residential Site
+       Improvement Standards, N.J.A.C. 5:21, where applicable.
+
+Third Round Unmet Need
+
+The result after the 32 units described above have been applied to the Borough’s third round
+obligation of 121 units is an unmet need for the Third Round of 89 units. The Borough has
+two key remaining areas in designated areas of redevelopment, 71 East Broad Street and 54
+Somerset Street. These two redevelopment areas currently represent the only two viable
+developable or redevelopable areas in the Borough. The remaining lands in the Borough are
+not able to support zoning to accommodate the remaining third round affordable housing
+obligation of 89 units, which will become unmet need. Unmet need units will be captured if
+and when land, redevelopment, or other opportunities become available that can support the
+creation of affordable units. To that end, the Borough will require a 20% affordable housing
+set aside for any development or redevelopment that includes residential uses and establish a
+mandatory set aside ordinance.
+
+               Table 4: Mechanisms to Address Third Round Unmet Need
+                                                                                   Affordable
+             Name                          Mechanism                  Status
+                                                                                    Credits
+  71 East Broad Mixed Use
+                                          Family Rental              Proposed          TBD
+        Redevelopment
+ Service Zone Redevelopment
+                                          Family Rental              Proposed          TBD
+            Area
+Mandatory Set-Aside Ordinance             Family Rental              Proposed          TBD
+
+The two remaining designated redevelopment areas are described below. These two areas
+have the most potential for redevelopment, which includes affordable housing opportunities,
+however, as of this date, there are no redevelopment plans adopted for the areas. The
+Borough’s goal is to attract developers to these sites for residential and mixed-use
+opportunities.
+
+
+
+                                              9
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 13 of 86 Trans ID: LCV20251693587
+
+
+                                                    HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                  BOROUGH OF HOPEWELL
+
+71 East Broad Street Study Area B/ Block 31, Lots 1, 2 and 19
+
+This site is currently developed with a vacant automotive repair shop. The site is ideally
+located along the Borough’s main business area, East Broad Street, and a gateway property to
+the community. The site was designated an Area in Need of Redevelopment along with the
+others in 2016. The Borough’s goal for the property is mixed use, retaining the current 1940s
+structure for non-residential uses, compatible with the downtown, and residential uses on the
+east and southern portions of the site. The site includes developmental challenges including
+inland flood hazard design areas and a piped stream running diagonally beneath the property
+that prohibits full development, which is the reason for applying the 6 unit per acre density to
+the property given its limitations and realistic opportunity to redevelop at higher densities.
+The site suitability requirements for the property are:
+
+       1. The site has a clear title and is free of encumbrances that preclude
+       development of affordable housing;
+       2. The site is adjacent to compatible land uses and has access to
+       appropriate streets. The site has frontage to East Broad Street and Maple
+       Avenue. East Broad Street in this area consists of mixed uses as typical in
+       historic villages. The redevelopment of the site into a mixed use is more
+       compatible with the surrounding land uses.
+       3. The Borough currently has adequate water and sewer to service the
+       property.
+       4. The site can be developed consistent with the Residential Site
+       Improvement Standards, N.J.A.C. 5:21, where applicable.
+
+54 Somerset Street/ Block 12, Lot 8.01
+
+The last area in the Borough, which has a realistic opportunity for meaningful future
+development, is Block 12, Lot 8.01. This property is located on Somerset Street, which
+dead-ends at the municipal boundary with Hopewell Township. The site consists of 3.2
+acres, relatively flat and free of constraints, however, it is included in the Rockwell
+groundwater contamination area and has a large area of historic fill running the length of the
+rear of the site. The Borough’s goal for the property is residential or small-scale mixed use
+given its proximity to the 57 Hamilton redevelopment site. However, the Borough
+recognizes the challenges and unique location of the site and has tentatively placed a 6 units
+per acre density to the property given its limitations and realistic opportunity to redevelop at
+higher densities. The site suitability for the property is:
+
+       1. The site has a clear title and is free of encumbrances that preclude
+       development of affordable housing;
+       2. The site is adjacent to compatible land uses and has access to
+       appropriate streets. The site has frontage to Somerset Street, however,
+       somerset Street dead-ends just to the east of the site at the Hopewell
+       Township boundary. The redevelopment of the site into small scale
+       residential or mixed use is compatible with the surrounding land uses.
+
+
+                                              10
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 14 of 86 Trans ID: LCV20251693587
+
+
+                                                  HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                BOROUGH OF HOPEWELL
+
+       3. The Borough currently has adequate water and sewer to service the
+       property.
+       4. The site can be developed consistent with the Residential Site
+       Improvement Standards, N.J.A.C. 5:21, where applicable.
+
+Mandatory Set-aside Ordinance
+
+The Borough will adopt an updated affordable housing ordinance which includes a
+mandatory set-aside for use variance, rezoning, or redevelopment, and require a 20%
+affordable housing set-aside for any residential development with 5 or more units (Appendix
+G). Fractional affordable unit requirements shall be rounded down where the fraction is .49
+or less and rounded up for those .50 or greater. All affordable units shall be restricted,
+regulated and administered consistent with the Borough’s affordable housing regulations, the
+Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New
+Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited
+to income distribution, bedroom distribution, and phasing.
+
+Third Round Affordable Housing Requirements
+
+The Third Round Affordable Housing requirements based on the 13-unit RDP are:
+
+   a. At least 50%, 7 units of affordable units addressing the Third-Round obligation shall
+      be affordable to low- and very low-income households.
+   b. At least 25%, 3 units of the Third-Round fair share shall be rental units, half (50%),
+      of which shall be affordable to families, or 2 units.
+   c. At least one-half of all Third-Round affordable units, or 7 units, shall be available to
+      families.
+   d. Rental bonuses shall not exceed 25% of the Third-Round obligation or 6 units
+   e. No more than 25%, 3 units of the Prior Round and Third Round fair share shall be
+      addressed with age-restricted units.
+
+All affordable housing units will meet the required bedroom distribution, controls on
+affordability and affirmatively marketed in conformance with the Uniform Housing
+Affordability Controls, UHAC, (N.J.A.C. 5:80-26.1) as shown through the adoption of an
+Affordable Housing Ordinance. Hopewell Borough has appointed an Administrative Agent
+and Affordable Housing Liaison, provided in Appendix H. The Borough’s affordable
+housing program will be administered in accordance with the Affirmative Marketing Plan
+provided in Appendix I.
+
+FOURTH ROUND FAIR SHARE PLAN
+As identified above, the Borough has limited land capacity to develop and as such conducted
+a vacant land and realistic development potential analysis. The results of the analysis
+provided for an RDP of 13 units, with mechanisms to apply the Borough’s current affordable
+housing inventory to the prior rounds. The result is an unmet need from the third round of 89
+units and fourth round obligation of 39 units, a cumulative total of 128 units of unmet need.
+                                             11
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 15 of 86 Trans ID: LCV20251693587
+
+
+                                                  HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                BOROUGH OF HOPEWELL
+
+The remaining obligation for the Fourth Round, therefore, consists of a 128-units of Unmet
+Need. The Borough will continue to utilize the strategies outlined in the third round plan,
+consisting of mandatory set-aside ordinance and the capture of units through variance or
+redevelopment. Units captured during the fourth round will be subject to the Amended FHA
+and UHAC regulations as listed below.
+
+Mandatory Set-aside Ordinance
+
+The Borough will adopt an updated affordable housing ordinance which includes a
+mandatory set-aside for use variance, rezoning, or redevelopment, and require 20%
+affordable housing set-aside for any residential development with 5 or more units. Fractional
+affordable unit requirements shall be rounded down where the fraction is .49 or less and
+rounded up for those .50 or greater. All affordable units shall be restricted, regulated and
+administered consistent with the Borough’s affordable housing regulations, the Uniform
+Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair
+Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited to income
+distribution, bedroom distribution, and phasing.
+
+Remaining Redevelopment Area A Scattered Sites
+
+Redevelopment Area A, encompassing the Service Zone, includes several developed and
+active properties, that currently have no indication of redevelopment opportunities.
+However, the inclusion of the sites in the redevelopment area provides a path for future
+redevelopment. To that end, the Borough will provide a 20% affordable housing set aside for
+any redevelopment that may occur in the fourth round in that area.
+
+Fourth Round Affordable Housing Requirements
+
+The amended Fair Housing Act includes the following affordable housing requirements (all
+exclusive of any bonus credits):
+
+   •   No more than 30% of the units may be age restricted, or 4 units.
+   •   A minimum of 50% of all affordable units must be available to families with children,
+       or 7 units.
+   •   A minimum of 25% of the affordable housing units must be rental and a minimum of
+       50% of those units must be available to families with children, or 4 units.
+
+FUNDING
+The Borough has amended the existing Development Fee Ordinance (Appendix J) in
+conformance with updated regulations. The Borough is seeking a waiver regarding the
+preparation of the Spending Plan at this time. The Borough has a development fee ordinance
+but has no funds in the Affordable Housing Trust Fund. The redevelopment of the remaining
+properties are intended to provide their fair share, 20%, of affordable housing units and
+therefore will not be subject to the development fee. As such, the Borough has no funds to
+
+                                             12
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 16 of 86 Trans ID: LCV20251693587
+
+
+                                                   HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                 BOROUGH OF HOPEWELL
+
+expend from the Trust fund, and the mechanisms to address affordable housing do not
+involve Borough subsidies. At such time that the Borough should collect development fees, a
+spending plan in accordance with the Fair Housing Act (N.J.S.A. 52:27D-301) and the
+regulations of the Council on Affordable Housing (COAH) (N.J.A.C. 5:97-1 et seq. and
+N.J.A.C. 5:96-1 et seq.) will be prepared. Therefore, the Borough is seeking a waiver under
+NJAC 5:93-15.1
+
+MULTIGENERATIONAL FAMILY HOUSING
+The amended Fair Housing Act requires:
+
+   “An analysis of the extent to which municipal ordinances and other local factors advance
+   or detract from the goal of preserving multigenerational family continuity as expressed in
+   the recommendations of the Multigenerational Family Housing Continuity
+   Commission, adopted pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021,
+   c.273 (C.52:27D-329.20);”
+
+The duties of the Commission are to prepare and adopt recommendations on how
+governments, community groups, and private entities can advance the goal of enabling senior
+citizens to reside at the home of their extended families. The Borough ordinances do not
+impede the Commission's goals for seniors to live with extended family members. The
+definition of a family states, “Any number of persons, whether or not related by blood,
+marriage or adoption, living together as a single housekeeping unit and using certain rooms
+and housekeeping facilities in common.” Dwelling units in the Borough are intended as
+living facilities for a family. Therefore, the Borough’s ordinance does not inhibit the ability
+for seniors to reside with extended family members.
+
+RELATIONSHIP TO STATE DEVELOPMENT AND REDEVELOPMENT PLAN
+The Borough’s affordable housing plan aligns with the goals and objectives of the 2001 State
+Development and Redevelopment Plan, and the pending updated State Development and
+Redevelopment Plan. The Borough is a historic village located in Planning Area 4, but was
+previously designated as a center. The Borough is an attractive place to live and work thanks
+to the long-standing planning goals to support economic vitality of East and West Broad
+Street, seek diverse housing opportunities for all residents, and continue to enhance the
+walkability of the community. The goals of the 2001 SDRP included providing diverse
+housing at a reasonable cost (Goal #6), integrated into the fabric of communities and in key
+areas that are located near a variety of services. The Borough’s walkable community and use
+of redevelopment and infill opportunities to provide affordable housing align with the smart
+growth principles of the current and pending State Plan.
+
+
+
+
+                                              13
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 17 of 86 Trans ID: LCV20251693587
+
+
+                                                      HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                    BOROUGH OF HOPEWELL
+
+                                 HOUSING ELEMENT PLAN
+Inventory of Municipal Housing Conditions
+
+The primary source of information for the inventory of the Borough's housing stock is the 2023
+American Community Survey (ACS) 5-year estimates, which the Census now utilizes for many
+demographic and housing data reporting.
+
+According to the 2023 Census, the Borough had 816 housing units, of which 747 (92%) were
+occupied. Table A1 identifies the units in a structure by tenure; as used throughout this Plan
+Element, "tenure" refers to whether a unit is owner-occupied or renter-occupied. While the
+Borough largely consisted of one-family, detached dwellings (72% of the total, compared to
+45.3% in the County), there were 225 units in attached or multi-family structures. The Borough
+had a relatively low percentage of renter-occupied units, 20%, compared to 39.7% in Mercer
+County and 36.3% in the State. The borough's housing stock indicates a stable residential
+community with limited rental options. The relatively low number of multi-family units may
+restrict housing affordability and availability for lower-income groups.
+
+                            Table A1: Units in Structure by Tenure
+    Units in Structure         Total   Vacant                    Occupied Units
+                               Units    Units         Total        Owner                     Renter
+       1, detached              591         0             591               558                33
+        1, attached              65         4              61               25                 36
+             2                   68         16             52               11                 41
+          3 or 4                 82         49             33                0                 33
+            5+                   10         0              10                0                 10
+          Other                  0          0              0                 0                  0
+      Mobile Home                0          0              0                 0                  0
+           Total                816         69            747               594                153
+                      Source: 2023 ACS 5-year estimates B25032 and B25024
+Table A2 indicates the year housing units were built by tenure, while Table A3 compares the
+Borough to Mercer County and the State. The age of Hopewell’s housing stock depicted 69%
+of the housing built prior to 1960. After the 1960’s, the housing stock showed modest increases.
+Owner-occupied units follow the same pattern as the year structures were built with the majority
+of owner-occupied units being built prior to 1960. Renter-occupied units had the largest gains
+prior to 1950. Older housing stock suggests potential concerns for maintenance and
+modernization, particularly for renter-occupied units. The lack of significant construction post-
+1960 indicates limited new housing developments, impacting affordability and housing choice.
+The presence of an older housing stock is one of the factors that correlates highly with filtering.
+Filtering is a downward adjustment of housing needs that recognizes that the housing
+
+
+                                                 14
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 18 of 86 Trans ID: LCV20251693587
+
+
+                                                    HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                  BOROUGH OF HOPEWELL
+
+requirements of lower-income groups can be served by supply additions to the higher-income
+sections of the housing market.
+                          Table A2: Year Structure Built by Tenure
+ Year Built          Total      % of Total   Vacant               Occupied Units
+                     Units                    Units       Total     Owner        Renter
+2020 or later           0          0%           0           0          0            0
+2010 - 2019             0          0%           0           0          0            0
+2000 – 2009            46          6%           0          46         46            0
+1990 – 1999            61          7%           0          61         61            0
+1980 – 1989            41          5%          16          25         19            6
+1970 – 1979            21          3%           0          21         18            3
+1960 – 1969            84         10%           0          84         75            9
+1950 - 1959            67          8%           0          67         58            9
+1940 – 1949            48          6%          16          32         18           14
+ Pre-1940             448         55%          37          411       299          112
+   Total              816          100         69          747       594          153
+                    Source: 2023 ACS 5-year estimates DP04 and B25036
+Table A3 compares the year of construction for all dwelling units in the Borough to Mercer
+County and the State. Hopewell had a larger percentage of units built prior to 1940 than did the
+County or State and a smaller percentage of units built after 1940.
+
+    Table A3: Comparison of Year of Construction for Borough, County, and State
+    Year Built                                      %
+                         Hopewell Borough              Mercer County              New Jersey
+   2020 or later                 0%                         1%                        2%
+   2010 - 2019                   0%                         5%                        6%
+   2000 – 2009                   6%                         10%                       9%
+   1990 – 1999                   7%                         9%                        8%
+   1980 – 1989                   5%                         13%                      12%
+   1970 – 1979                   3%                         12%                      12%
+   1960 – 1969                   10%                        13%                      13%
+   1950 - 1959                   8%                         14%                      13%
+   1940 – 1949                   6%                         4%                        6%
+     Pre-1940                    55%                        18%                      18%
+   Median Year                Pre-1940                      1970                     1970
+                   Source: 2023 ACS 5-year estimates B25034 and B25035
+The 2023 Census documented household size in occupied housing units by tenure, and the
+number of bedrooms per unit by tenure; these data are reported in Tables A4 and A5,
+                                              15
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 19 of 86 Trans ID: LCV20251693587
+
+
+                                                         HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                       BOROUGH OF HOPEWELL
+
+respectively. Table A4 indicates that renter-occupied units generally housed smaller
+households, with 62% of renter-occupied units having 2 persons or fewer compared to 47.5% of
+owner-occupied units. This suggests that rental units cater primarily to small families or single-
+person households. A higher share of small renter households may indicate a lack of larger
+rental units, limiting options for families.
+
+          Table A4: Household Size in Occupied Housing Units by Tenure
+  Household Size      Total Units       Owner-occupied Units    Renter-occupied Units
+      1 person                   200                         98                        102
+     2 persons                   250                         217                          33
+     3 persons                   124                         115                          9
+     4 persons                   133                         128                          5
+     5 persons                   35                          31                           4
+     6 persons                    5                           5                           0
+     7+ persons                   0                           0                           0
+       Total                     747                         594                       153
+                            Source: 2023 ACS 5-year estimates B25009
+
+Table A5 indicates that renter-occupied units generally had fewer bedrooms, with 66.6% having
+two bedrooms or fewer, compared to 13.1% of owner-occupied units. Rental housing is limited
+in size, which may hinder accessibility for larger households. Expanding rental housing with
+three or more bedrooms accommodates diverse family needs.
+
+                   Table A5: Number of Bedrooms per Unit by Tenure
+     Number of       Total     (%)                  Occupied Units
+     Bedrooms        Units                Total         Owner                      Renter
+    No bedroom          0          0.0%             0                0                0
+     1 bedroom         98         12.0%             49               0               49
+    2 bedrooms         178        21.8%          158                77               81
+    3 bedrooms         297        36.4%          297                278              19
+    4 bedrooms         200        24.5%          200                196               4
+   5+ bedrooms         43          5.3%             43              43                0
+                    Source: 2023 ACS 5-year estimates DP-04 and B25042
+
+Table A6 compares the Borough's average household size for all occupied units, owner-
+occupied units, and renter-occupied units in 2023 to those of the County and State. The
+Borough's average household size for both owner- and renter-occupied units was lower than
+State and County. Hopewell Borough has smaller household sizes (2.45 overall) compared to
+Mercer County (2.49) and New Jersey (2.58). Smaller household sizes reflect demographic
+
+                                               16
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 20 of 86 Trans ID: LCV20251693587
+
+
+                                                     HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                   BOROUGH OF HOPEWELL
+
+trends such as an aging population or a higher proportion of single-person households,
+potentially influencing future housing demand.
+
+Table A6: Average Household Size for Occupied Units for Borough, County, and State
+   Jurisdiction      All Occupied Units    Owner-occupied units Renter-occupied units
+Hopewell Borough            2.45                   2.69                   1.50
+  Mercer County                     2.49                      2.70                      2.18
+    New Jersey                      2.58                      2.72                      2.32
+                          Source: 2023 ACS 5-year estimates B25010
+
+The distribution of number of bedrooms per unit is shown in Table A7. The Borough had
+considerably fewer units with no bedroom or one bedroom and a higher percentage of four or
+more-bedroom units than the County or State. This distribution aligns with the borough’s
+predominantly owner-occupied nature but may present affordability challenges for small
+households or individuals seeking rental housing.
+
+                  Table A7: Percentage of All Units by Number of Bedrooms
+   Jurisdiction                None or one            Two or Three        Four or More
+Hopewell Borough                   12%                        58%                       30%
+ Mercer County                     17%                        57%                       26%
+   New Jersey                      18%                        57%                       26%
+                           Source: 2023 ACS 5-year estimates DP-04
+
+In addition to data concerning occupancy characteristics, the 2023 Census includes a number of
+indicators, or surrogates, which relate to the condition of the housing stock. These indicators are
+used in calculating a municipality's deteriorated units and indigenous need. The surrogates used
+to identify housing quality, in addition to age (Pre-1940 units in A82), are the following:
+
+Persons per Room               1.01 or more persons per room is an index of overcrowding.
+
+Plumbing Facilities            Inadequate plumbing is indicated by either a lack of exclusive
+                               use of plumbing or incomplete plumbing facilities.
+
+Kitchen Facilities             Inadequate kitchen facilities are indicated by shared use of a
+                               kitchen or the non-presence of a sink with piped water, a stove,
+                               or a refrigerator.
+
+Table A8 compares the Borough, County, and State for some of the above indicators of housing
+quality. The Borough has few units that have inadequate plumbing or kitchen facilities and had
+less overcrowding and inadequate kitchen and plumbing facilities than the County and State.
+These indicators suggest relatively high housing quality in the Borough, though older structures
+may require continued maintenance efforts to sustain livability.
+
+                                                17
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 21 of 86 Trans ID: LCV20251693587
+
+
+                                                    HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                  BOROUGH OF HOPEWELL
+
+
+              Table A8: Housing Quality for Borough, County, and State
+      Condition                                      %
+                            Hopewell Borough            Mercer County           New Jersey
+   Overcrowding 1                   0%                       3.5%                   4%
+  Lacking Complete                  0%                       .2%                    .3%
+ plumbing Facilities2
+  Lacking Complete                  0%                       .5%                    .8%
+  Kitchen Facilities2
+Notes: 1The universe for these factors is occupied housing units.
+       2
+        The universe for these factors is all housing units.
+Source: 2023 ACS 5-year estimates DP-04
+
+The last factors used to describe the municipal housing stock are the assessed housing values
+and gross rents for residential units. Most homes fall within the $300,000–$499,999 range, with
+a median home value of $561,900. High home values reflect a stable housing market but may
+present affordability barriers for lower-income residents. Future housing initiatives may
+consider affordable housing expansion.
+                             Table A9: Value of Residential Units
+                        Value                          Number          %
+                        Less than $50,000                  7         1.2%
+                        $50,000 to $99,999                 0         0.0%
+                        $100,000 to $149,999               0         0.0%
+                        $150,000 to $199,999               0         0.0%
+                        $200,000 to $299,999               3         0.5%
+                        $300,000 to $499,999             214        36.0%
+                        $500,000 to $999,999             360        60.6%
+                        $1,000,000 or more                10         1.7%
+                        Median (dollars)              $561,900
+                          Source: 2023 ACS 5-year estimates DP-04
+The majority of rental units exceed $1,500 per month, with a median rent of $1,712. Rental
+affordability is a concern, as high rents may exclude lower-income households. Increasing
+affordable rental units could address housing accessibility challenges.
+
+
+
+
+                                               18
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 22 of 86 Trans ID: LCV20251693587
+
+
+                                                      HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                    BOROUGH OF HOPEWELL
+
+         Table A10: Gross Rents for Specified Renter-Occupied Housing Units
+                     Contract Monthly Rent     Number       %
+                    Less than $500                6       4.0%
+                    $500 to $999                 21      14.1%
+                    $1,000 to $1,499             28      18.8%
+                    $1,500 to $1,999             46      30.9%
+                    $2,000 to $2,499             23      15.4%
+                    $2,500 to $2,999             12       8.1%
+                    $3,000 or more               13       8.7%
+                         Median (contract rent)        $1,712
+                          Source: 2023 ACS 5-year estimates DP-04
+
+The data in Table A11 indicate that in 2023 there were 481 households earning less than
+$35,000 annually. Many households earning under $75,000 experience housing cost burdens,
+spending more than 30% of their income on housing. A figure of 30% is considered the limit of
+affordability for housing costs.
+
+  Table A11: Household Expense in 2023 by as a Percentage of Household Income in
+                                      2023
+                   Income          Number of      Less    More than
+                                  Households      than       30%
+                                                  30%
+                         < $20,000             34            0           34
+                    $20,000 – 34,999           22            6           16
+                    $35,000 - $49,999          24            0           24
+                    $50,000 - $74,999          96            15          81
+                         $75,000 +            562           461          101
+                     1
+            Note:     The universe for this Table is specified occupied housing units.
+                           Source: 2023 ACS 5-year estimates S2503
+Table A12 and A13 depict Hopewell Borough’s housing production and demolitions from 2013
+through 2024. As shown in Table A12, between 2010 and 2021, the Borough saw minimal net
+housing growth, with demolitions nearly matching new construction. In other words, the
+Borough see no net increase over the last 10 years of 1 and 2-family housing units. Should this
+trend continue, the Borough would see stagnant housing development and market expansion.
+However, the Borough’s efforts to provide additional affordable housing through redevelopment
+and other smaller opportunities will likely increase the average annual rate.
+
+
+
+
+                                                19
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 23 of 86 Trans ID: LCV20251693587
+
+
+                                                HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                              BOROUGH OF HOPEWELL
+
+Table A12: Housing Units Authorized by Building Permits for New Construction 2013-
+                                       2024
+                                      1&2                  Mixed
+                    Year    Total           Multifamily
+                                     family                 use
+                    2013       0        0         0           0
+                    2014       2        2         0           0
+                    2015       1        1         0           0
+                    2016      12       12         0           0
+                    2017       0        1         0           0
+                    2018       0        1         0           0
+                    2019       0        0         0           0
+                    2020       2        4         0           0
+                    2021       0        1         0           0
+                    2022       0        0         0           0
+                    2023       3        3         0           0
+                    2024       0        0         0           0
+    Source: New Jersey Department of Community Affairs, Development Trend Viewer
+
+                 Table A13: Housing Units Demolished 2013-2024
+                                      1&2                 Mixed
+                   Year     Total           Multifamily
+                                     family                 use
+                   2013       2        2          0          0
+                   2014       0        0          0          0
+                   2015       3        3          0          0
+                   2016       1        0          0          1
+                   2017       1        1          0          0
+                   2018       1        1          0          0
+                   2019       1        1          0          0
+                   2020       2        2          0          0
+                   2021       1        0          0          1
+                   2022       0        0          0          0
+                   2023       0        0          0          0
+                   2024       0        0          0          0
+    Source: New Jersey Department of Community Affairs, Development Trend Viewer
+
+Table A14 depicts the issuance of certificates of occupancy for non-residential space.
+Commercial development fluctuates, with minimal retail or office space added in recent
+years. Limited non-residential development may indicate a lack of business growth,
+influencing employment opportunities and local economic strength. Efforts to encourage
+reinvestment and economic growth in the Borough will help to stabilize and strengthen the
+local business community.
+
+
+
+                                           20
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 24 of 86 Trans ID: LCV20251693587
+
+
+                                         HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                       BOROUGH OF HOPEWELL
+
+            Table A14: Square Feet of Non-residential Space CO
+       Year     Total    Office     Retail     Restaurant Assembly
+       2013      628        0          0            0          628
+       2014       0         0          0            0           0
+       2015     2,400       0        2,400          0           0
+       2016       0         0          0            0           0
+       2017     1,002     1,002        0            0           0
+       2018      800        0          0          800           0
+       2019       0         0          0            0           0
+       2020       0         0          0            0           0
+       2021       0         0          0            0           0
+       2022      175       175         0            0           0
+       2023       0         0          0            0           0
+       2024       0         0          0            0           0
+       New Jersey Department of Community Affairs, CO Yearly Summary
+                https://www.nj.gov/dca/codes/reporter/co.shtml
+
+
+
+
+                                    21
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 25 of 86 Trans ID: LCV20251693587
+
+
+                                                   HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                 BOROUGH OF HOPEWELL
+
+Analysis of Demographic Characteristics
+
+As with the inventory of the municipal housing stock, the primary source of information for the
+analysis of the demographic characteristics of the Borough's residents is the 2023 U.S. Census.
+The Census data provide a wealth of information concerning the characteristics of the Borough's
+population in 2023.
+
+The 2020 Decennial Census indicates that the Borough had 1,918 residents, or 353 fewer
+residents than in 2000, representing a population decrease of approximately -6%. The
+Borough's -6% decrease from the 2000's compares to a 10% increase in Mercer County and in
+New Jersey.
+
+The age distribution of the Borough's residents is shown in Table A15. The Borough, similar to
+most areas in the State and Country, has an aging population, with a higher percentage of
+residents over 55 compared to county and state averages.
+
+                             Table A15: Population by Age
+                                                     %
+                                      Age
+                                                  Persons
+                                 Under 5 years      6.3%
+                                  5 to 9 years      6.7%
+                                 10 to 14 years    10.8%
+                                 15 to 19 years     4.2%
+                                 20 to 24 years     2.1%
+                                 25 to 34 years     6.3%
+                                 35 to 44 years    13.8%
+                                 45 to 54 years    17.3%
+                                 55 to 59 years     6.6%
+                                 60 to 64 years     8.3%
+                                 65 to 74 years    10.1%
+                                 75 to 84 years     6.5%
+                               85 years and over    0.9%
+                                  Median Age        44.7
+                         Source: 2023 DP-05 ACS 5-year Estimates
+
+Table A16 compares the Borough to the County and State by age categories. The principal
+differences among the Borough, County, and State occur in the 20-34 age category, where the
+Borough had a smaller proportion than the County and State. The Borough generally had more
+persons in the 55 and over age categories than the County and State.
+
+
+
+
+                                              22
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 26 of 86 Trans ID: LCV20251693587
+
+
+                                                      HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                    BOROUGH OF HOPEWELL
+
+  Table A16: Comparison of Age Distribution for Borough, County, and State (% of
+                                    persons)
+        Age        Hopewell Borough         Mercer County         New Jersey
+    Under 5 years                6.3%                    5.5%                   5.6%
+     5 to 9 years                6.7%                    5.4%                   5.8%
+    10 to 14 years              10.8%                    7.1%                   6.3%
+    15 to 19 years               4.2%                    6.9%                   6.3%
+    20 to 24 years               2.1%                    6.9%                   5.9%
+    25 to 34 years               6.3%                    12.2%              12.7%
+    35 to 44 years              13.8%                    13.0%              13.3%
+    45 to 54 years              17.3%                    13.4%              12.8%
+    55 to 59 years               6.6%                    6.0%                   6.6%
+    60 to 64 years               8.3%                    7.0%                   6.8%
+    65 to 74 years              10.1%                    9.7%               10.3%
+    75 to 84 years               6.5%                    4.8%                   5.5%
+     85 years and                0.9%                    2.0%                   1.9%
+         over
+       Median                    44.7                    40.2                   40.4
+                              Source: 2023 DP-05 5-year estimates
+
+Table A17 provides the Census data on household size for the Borough, while Table A18
+compares household sizes in the Borough to those in Mercer County and the State. The
+Borough has more households with either 2 or 4 persons than the County or State and fewer 3-
+person households than either the County or State.
+
+                              Table A17: Persons in Household
+                              Household Size
+                                 1 person                  26.8%
+                                 2 persons                 33.5%
+                                 3 persons                 16.6%
+                             4 or more persons             23.2%
+                          Average Household Size            2.45
+                Source:         2023 ACS 5-year Estimates U.S. Census, S2501.
+
+
+
+
+                                                 23
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 27 of 86 Trans ID: LCV20251693587
+
+
+                                                  HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                BOROUGH OF HOPEWELL
+
+Table A18: Comparison of Persons in Household for Borough, County, and State (% of
+                                   households)
+   Household Size          Borough                County                 State
+       1 person             26.8%                  28.1%                26.2%
+       2 persons            33.5%                  31.6%                31.7%
+       3 persons            16.6%                  18.5%                17.0%
+      4+ persons            23.2%                  21.8%                25.0%
+Average household Size       2.45                   2.49                 2.58
+                 Source:    2023 ACS5-year estimate S2501 and S1101
+
+Table A19 presents a detailed breakdown of the Borough's population by household type and
+relationship. Family households dominate, but non-family households account for a substantial
+portion (37%). Planning should include housing that accommodates both family and non-family
+households, ensuring a diverse and inclusive housing market as demand for senior housing
+options increases.
+
+             Table A19: Persons 65+ by Household Type and Relationship
+                                                         Persons
+                       In households:                       100
+                          In family households:              63
+                             Householder:                    36
+                               Male                          22
+                               Female                        14
+                            Spouse                           26
+                             Parent                           0
+                             Parent-in-law                    0
+                             Other relatives                  1
+                             Nonrelatives                     0
+                          In nonfamily households:           37
+                             Householder:                    32
+                               Male:                         16
+                                 Living alone                12
+                                 Not living alone             4
+                               Female:                       16
+                                 Living alone                14
+                                 Not living alone             3
+                             Nonrelatives                     4
+                    In Group Quarters                         0
+                    Source:          2023 ACS B09020 5-year estimate.
+
+Table A20 provides 2023 income data for the Borough, County, and State. The Borough's per
+capita and family incomes were higher than the County and State. Higher incomes suggest
+
+                                             24
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 28 of 86 Trans ID: LCV20251693587
+
+
+                                                   HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                 BOROUGH OF HOPEWELL
+
+economic stability.
+
+
+                 Table A20: 2023 Income for Borough, County, and State
+                               Per Capita             Median Income
+             Jurisdiction        Income        Households          Families
+         Hopewell Borough          $78,642            142,396              187,679
+           Mercer County           $52,101            96,152               117,499
+             New Jersey            $53,118            99,781              121,944
+             Source: 2023 U.S. Census ACS 5 Year Estimates B19301 and S1901,
+
+Table A21 addresses the lower end of the income spectrum, providing data on poverty levels for
+persons and families in 2023. According to the data in Table A21, the Borough had
+proportionately fewer persons qualifying for poverty status than the County or State.
+
+ Table A21: Poverty Status for Persons and Families for Borough, County, and State
+                       (% with 2023 income below poverty)
+        Jurisdiction                 Persons (%)                   Families (%)
+      Hopewell Borough                        2.1%                               2%
+        Mercer County                         11.1%                             7.5%
+          New Jersey                          9.8%                               7%
+                      Source: 2023 ACS 5-year estimates 1701 and S1702
+
+The U.S. Census includes a vast array of additional demographic data that provide insights into
+an area's population. For example, Table A22 provides a comparison of the median year
+households moved into their current residents. This is a surrogate measure of the
+mobility/stability of a population. A higher percentage of homeowners and renters have resided
+in the same home since 2010 compared to county and state averages.
+
+ Table A22: Comparison of Median Year Householder Moved Into Unit for Borough,
+                                  County, and State
+               Jurisdiction              Owner Occupied        Renter Occupied
+            Hopewell Borough                   2010                 2019
+             Mercer County                     2008                 2019
+               New Jersey                      2010                 2019
+                       Source: 2023 ACS 5-year estimates B25039
+Table A23 compares the educational attainment for Borough, County, and State residents over
+age 25. The data indicate that more Borough residents achieved a high school diploma or higher
+than the County and State.
+
+
+
+                                              25
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 29 of 86 Trans ID: LCV20251693587
+
+
+                                                    HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                  BOROUGH OF HOPEWELL
+
+
+
+
+    Table A23: Educational Attainment for Borough, County, and State Residents
+                           (Persons 25 years and over)
+        Jurisdiction            Percent (%) high school    Percent (%) with bachelor’s
+                                  graduates or higher           degree or higher
+      Hopewell Borough                        98.8%                             72.7%
+        Mercer County                         89.9%                             44.9%
+          New Jersey                          90.7%                             42.9%
+                          Source: 2023 ACS 5-year estimates DP02
+
+The 2023 Census also provides data on the means of transportation that people use to reach their
+place of work. Table A24 compares the Census data for the Borough, County, and State relative
+to driving alone, carpooling, using public transit, and using other means of transportation. The
+Borough had a relatively high percentage of those who drive alone and a relatively low
+percentage of workers who carpool or use public transit. However, the Borough has a higher
+percentage of those who walk to work in comparison to the County and State. This may be an
+indication of residents taking advantage of remote work opportunities since the pandemic.
+
+     Table A24: Means of Transportation to Work for Borough, County and State
+                    Residents (Workers 16 years old and over)
+
+                                    Hopewell       Mercer County        New Jersey
+                                    Borough
+             Car, truck, or van       62.4%             61.5%              63.7%
+            -- drove alone
+             Car, truck, or van        2.2%             9.2%               7.7%
+             -- carpooled
+                   Public              2.9%             5.2%               8.5%
+             transportation
+          (excluding taxicab)
+                  Walked               5.7%             3.5%               2.6%
+                Other means            0.8%             2.8%               2.4%
+               Worked from            26.0%             17.8%              15.0%
+                home
+                          Source: 2023 ACS 5-year estimates DP-03
+
+
+
+
+                                              26
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 30 of 86 Trans ID: LCV20251693587
+
+
+                                                   HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                 BOROUGH OF HOPEWELL
+
+The 2023 Census also provided information on resident employment by industry. Education
+and healthcare dominate the employment sectors, followed by professional services. A strong
+presence in education and healthcare indicates job stability.
+
+                          Table A25: Employment by Industry
+                              Industry                                Persons      %
+                                                                        965
+            Civilian employed population 16 years and over
+                                                                         11       1.1%
+         Agriculture, forestry, fishing and hunting, and mining
+                             Construction                                61       6.3%
+                            Manufacturing                                99      10.3%
+                            Wholesale trade                               5       0.5%
+                             Retail trade                                38       3.9%
+                                                                         14       1.5%
+             Transportation and warehousing, and utilities
+                              Information                                26       2.7%
+                                                                         61       6.3%
+      Finance and insurance, and real estate and rental and leasing
+                                                                        167      17.3%
+   Professional, scientific, and management, and administrative and
+                      waste management services
+                                                                        324      33.6%
+       Educational services, and health care and social assistance
+
+   Arts, entertainment, and recreation, and accommodation and food       60       6.2%
+                                services
+                                                                         44       4.6%
+              Other services, except public administration
+                         Public administration                         55         5.7%
+                                Source: 2019 ACS 5-year estimates DP-03
+
+
+
+
+                                              27
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 31 of 86 Trans ID: LCV20251693587
+
+
+                                                   HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                                 BOROUGH OF HOPEWELL
+
+The employment rate, according to the 2023 census shows that the Borough had a higher
+percentage of people in the labor force than the County or State, as well as higher
+employment of those in the labor force than the State and County.
+
+                     Table A26: Labor Force and Employment (%)
+             Jurisdiction        Percent in    Employed      Unemployed
+                                Labor Force
+          Hopewell Borough            70.6%            70.6%               1.0%
+
+            Mercer County             64.1%            60.2%               3.9%
+              New Jersey              66.2%            62.1%               4.1%
+                                 Source: 2029 ACS 5-year estimates DP-03
+
+
+According to NJTPA, Hopewell will see an increase of 1,012 jobs and 1,450 persons over the
+next 30 years, as shown on Table A27.
+
+
+                  Table A27: Forecast for Employment and Population
+
+
+                                   2015            2050          % Change 2015-2045
+
+
+          Population               1,920           1,923                  .16%
+
+         Employment                1,011           1,133                 12.07%
+Source: DVRPC Municipal and County-Level Population and Employment Forecasts, 2015-
+              2050 https://www.dvrpc.org/webmaps/popempforecasts/
+
+The forecast for population and employment between 2015 and 2050 indicates minimal
+population growth (0.16%) but a notable increase in employment (12.07%) over the 35-year
+period. The population is projected to rise only slightly, from 1,920 in 2015 to 1,923 in 2050,
+suggesting a stable or stagnant residential base with little anticipated demographic change.
+
+In contrast, employment is expected to grow more significantly, increasing from 1,011 jobs
+in 2015 to 1,133 by 2050. The 12.07% employment growth suggests an expanding job
+market despite the stagnant population, which could indicate efforts to attract businesses,
+economic diversification, or an increased reliance on workers commuting from outside the
+area.
+
+The disparity between population and employment growth rates may suggest that while
+economic activity is increasing, local housing demand and infrastructure needs may remain
+relatively unchanged. Overall, the forecast suggests a stable residential community with
+
+                                              28
+   MER-L-000184-25 06/06/2025 12:07:18 PM Pg 32 of 86 Trans ID: LCV20251693587
+
+
+                                               HOUSING ELEMENT AND FAIR SHARE PLAN
+                                                             BOROUGH OF HOPEWELL
+
+modest economic expansion. Ensuring that housing, transportation, and workforce
+development align with job growth will be essential to sustaining economic viability and
+supporting local businesses in the long term.
+
+
+
+
+                                          29
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 33 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 34 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 35 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 36 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 37 of 86 Trans ID: LCV20251693587
+
+
+                            Appendix B
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 38 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 39 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 40 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 41 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 42 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 43 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 44 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 45 of 86 Trans ID: LCV20251693587
+      MER-L-000184-25 06/06/2025 12:07:18 PM Pg 46 of 86 Trans ID: LCV20251693587
+
+
+
+                                          Appendix C
+                                                                                       Prepared by:
+
+
+                                      DEED RESTRICTION
+
+   Deed-Restricted Rental Dwelling Unit with Covenants Restricting Sale, Rental, Use,
+   Conveyance and Improvements, and Requiring Notice of Violations, Foreclosure and
+                                     Bankruptcy
+
+      THIS DEED RESTRICTION, made and entered into as of this _____ day of
+_______________, 2022, by and between:
+
+                  THE BOROUGH OF HOPEWELL, a municipal corporation of the State of New
+                  Jersey (“Hopewell” or the “Borough”), having an address of 88 East Broad Street,
+                  Hopewell (Borough), New Jersey 08525; and
+
+                  HVIB Holdings, LLC, a limited liability company of the State of ________
+                  (“Owner” or the “Company”), having an address of ________.
+
+        WHEREAS, the Company is the owner of certain real property identified as Block 28, Lot
+5, on the Borough’s tax map, more commonly known as 15 East Broad Street (the “Property”);
+and
+
+        WHEREAS, the Company has recently obtained preliminary and final major site plan
+approval, together with use and bulk variances, from the Borough Planning Board (the “Board”)
+to allow for the construction of a restaurant and six (6) one (1)-bedroom residential apartment units
+on the Property (the “Approved Mixed-Use Building”); and
+
+        WHEREAS, the Board’s decision is memorialized in Resolution PB #2022-07, adopted
+during the Board’s regular public meeting on February 2, 2022; and
+
+       WHEREAS, municipalities within the State of New Jersey have a constitutional obligation
+to provide affordable housing, and are required by the New Jersey Fair Housing Act, N.J.S.A.
+52:27D-301, et seq. (the “Act") to provide for their respective fair share of housing that is
+affordable to households with low- and moderate-incomes in accordance with the provisions of
+the Act; and
+
+       WHEREAS, the Borough administers an affordable housing program for the purpose of
+meeting its fair share affordable housing obligation in accordance with the provisions of the Act;
+and
+
+         WHEREAS, the Company is a respected provider of residential housing opportunities;
+and
+
+
+
+
+                                                  1
+US.351395015.01
+    MER-L-000184-25 06/06/2025 12:07:18 PM Pg 47 of 86 Trans ID: LCV20251693587
+
+
+
+
+        WHEREAS, as a condition of approval set forth in Resolution PB #2022-07, and in order
+to facilitate the provision of affordable housing for low- and moderate-income individuals, the
+Company has agreed to set aside and deed restrict one (1) of the six (6) residential dwellings within
+the Approved Mixed-Use Building as a housing opportunity reserved for income qualifying
+individuals and families (the “Affordable Unit”); and
+
+       WHEREAS, the Borough has determined that the Affordable Unit is a suitable, available
+and appropriate affordable housing opportunity, and will assist Hopewell in fulfilling its Mount
+Laurel obligations; and
+
+       WHEREAS, to receive credit for properties reserved for affordable housing opportunities,
+Hopewell must ensure that same remain affordable and available to low- and moderate-income
+individuals and families for a designated period of time; and
+
+        WHEREAS, the Company and the Borough wish to restrict the Affordable Unit for use
+solely as low-income affordable housing, as defined by the Act and applicable affordable housing
+rules and regulations; and
+
+        NOW, THEREFORE, it is the intent of this Declaration to ensure that the affordability
+controls are recorded and imposed upon the Affordable Unit so as to bind all who lease, own, and
+occupy the Affordable Unit to the covenants, conditions and restrictions contained herein; to notify
+all future purchasers that the Affordable Unit is encumbered with affordability controls, and to
+enable the Borough to take such actions as may be necessary to maintain the affordability controls
+for a period of thirty (30) years from the date these Restrictions are recorded in the Office of the
+Mercer County Clerk.
+
+ARTICLE I. DESCRIPTION OF AFFORDABLE UNIT
+
+The Affordable Unit consists of all of the land and a portion of the improvements thereon, located
+in the Borough of Hopewell, County of Mercer, State of New Jersey, and described more
+specifically for the purposes outlined herein as Block 28, Lot 5, and known by the street address
+of 15 East Broad Street, Apartment No. ___.
+
+The Affordable Unit is hereby designated as a low-income, one (1)-bedroom, non-age restricted
+affordable rental unit.
+
+ARTICLE II. AFFORDABLE HOUSING COVENANTS
+
+Any sale, rental, use, occupancy, or other conveyance of interest of the Affordable Unit is governed
+by the administrative regulations known as the Uniform Housing Affordability Controls, which
+are found in the New Jersey Administrative Code at Title 5, Chapter 80, Subchapter 26, N.J.A.C.
+5:80-26.1, et seq. (the “UHAC”), the Borough’s affordable housing ordinances, and the Act
+(collectively, the “Affordability Controls”). Very-low income shall be as defined in the Act.
+
+Consistent with the Affordability Controls, the following covenants (the “Covenants”) shall run
+with the land for the period of time commencing upon the recordation of this Declaration in the
+
+                                                 2
+US.351395015.01
+    MER-L-000184-25 06/06/2025 12:07:18 PM Pg 48 of 86 Trans ID: LCV20251693587
+
+
+
+
+Office of the Mercer County Clerk (the “Commencement Date”), and terminating upon the
+anniversary of the thirty year (30)-period (the “Control Period”).
+
+        A. Sale, rental, use, or occupancy of the Affordable Unit and any within dwelling
+           unit(s)/beds shall be governed by these Affordability Controls and Covenants during
+           the Control Period.
+
+        B. The Affordable Unit shall be used solely for the purpose of providing rental dwelling
+           units for low- or moderate-income households as a primary residence, and no
+           commitment for any such dwelling unit shall be given or implied, without exception,
+           to any person who has not been certified for the Affordable Unit in writing by the
+           Administrative Agent. So long as any dwelling unit within the Affordable Unit remains
+           within its Control Period, a subsequent sale of the Affordable Unit by the Company, or
+           its successors or assigns, must be expressly subject to this Deed Restriction, deeds of
+           conveyance must have these Covenants appended thereto, and no sale or tenancy of the
+           Affordable Unit shall be lawful, unless approved in advance and in writing by the
+           Administrative Agent. Any subsequent purchaser must agree to maintain the
+           Affordable Unit and ensure compliance with the Affordability Controls and Covenants
+           until released.
+
+        C. No improvements may be made to the Affordable Unit, especially those that would
+           affect the bedroom configuration, unless approved in advance and in writing by the
+           Administrative Agent.
+
+        D. The Company, or its successors or assigns, shall notify the Borough and its
+           Administrative Agent of any foreclosure action(s) filed with respect to the Affordable
+           Unit within five (5) business days of service upon Owner.
+
+        E. The Company, or its successors or assigns, shall notify the Borough and its
+           Administrative Agent within three (3) business days of the filing of any petition for
+           protection from creditors or reorganization filed by or on behalf of the Company, or
+           said successors or assigns.
+
+        F. No refinancing, equity loan(s), secured letter of credit, or any other mortgage obligation
+           or other debt (collectively, “Debt”) secured by the Affordable Unit, may be incurred
+           except as approved in advance and in writing by the Administrative Agent. At no time
+           shall the Administrative Agent approve any such Debt, if incurring the Debt would
+           make the total of all such Debt exceed Ninety-Five Percent (95%) of the applicable
+           maximum resale price.
+
+        G. The Affordability Controls and Covenants shall remain in effect and encumber the
+           Affordable Unit despite the entry and enforcement of any judgment of foreclosure with
+           respect to the Property, so long as the Affordable Unit remains subject to the Covenants
+           being implemented by this Declaration.
+
+
+
+
+                                                  3
+US.351395015.01
+    MER-L-000184-25 06/06/2025 12:07:18 PM Pg 49 of 86 Trans ID: LCV20251693587
+
+
+
+
+        H. Any lease, agreement, or like form of contract pertaining to occupancy of the
+           Affordable Unit shall adhere to the Affordability Controls and Covenants, and must be
+           approved by the Administrative Agent prior to the start of any lease, rental, or tenancy
+           period.
+
+ARTICLE III.           REMEDIES FOR BREACH OF AFFORDABLE HOUSING
+                       COVENANTS
+
+A breach of the Affordability Controls and Covenants will cause irreparable harm to the Borough,
+the Administrative Agent and to the public, in light of the public policies set forth in the Act and
+the obligation for the provision of low- and moderate-income housing as provided by law.
+Accordingly, and as set forth in N.J.A.C. 5:80-26.8:
+
+    A. In the event of a threatened breach of any of the Affordability Controls or Covenants by
+       the Company or a subsequent owner, or any other successor in interest of the Affordable
+       Unit, the Administrative Agent and the Borough shall have the right to reasonable entry
+       upon the Affordable Unit, and all remedies provided at law and equity, including the right
+       to seek injunctive relief or specific performance.
+
+    B. Upon the occurrence of a breach of any of the Affordability Controls or Covenants by the
+       Company or a subsequent owner, or any other successor in interest of the Affordable Unit,
+       the Administrative Agent and the Borough shall have all remedies provided at law and
+       equity including but not limited to forfeiture, foreclosure, acceleration of all sums due
+       under any mortgage, recoupment of any funds from a sale or lease, diversion of rent
+       proceeds from illegal rentals, immediate termination of any lease or sub-lease, injunctive
+       relief to prevent further violation(s) of said Covenants, entry upon the Affordable Unit,
+       enforcement action provided under the Regulations, as may be amended or provided by
+       law, and specific performance.
+
+ARTICLE IV.            OTHER PROVISIONS
+
+The Company, or its successors or assigns, shall cooperate in following and complying with the
+Affordability Controls, Covenants and the obligation for the provision of low- and moderate-
+income housing, and shall cooperate in any and all necessary actions, to the extent such
+cooperation is necessary, to assist the Borough in securing maximum credits for the Affordable
+Unit thereby assisting Hopewell in fulfilling its affordable housing obligation.
+
+
+
+
+                                                 4
+US.351395015.01
+    MER-L-000184-25 06/06/2025 12:07:18 PM Pg 50 of 86 Trans ID: LCV20251693587
+
+
+
+
+         IN WITNESS WHEREOF, the Borough and Owner have executed this Deed Restriction
+in triplicate as of the date first written above.
+
+
+
+SIGNED AND AGREED TO BY:
+
+
+ Witness/Attest:                              THE BOROUGH OF HOPEWELL, a
+                                              municipal corporation of the State of New
+                                              Jersey
+
+
+ ______________________________               By: ______________________________
+                                              _________________________ , (Title)_____
+
+ Dated: ____________________
+
+
+
+ Witness/Attest:                              HVIB Holdings, LLC, a limited liability
+                                              company of the State of _________
+
+
+ ______________________________               By: ______________________________
+ ____________________, Secretary                  ____________________, (Title)
+
+ Dated: ____________________
+
+
+
+
+                                          5
+US.351395015.01
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 51 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 62 of 86 Trans ID: LCV20251693587
+
+
+                              Appendix D
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 63 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 64 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 65 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 66 of 86 Trans ID: LCV20251693587
+
+
+
+
+                              Appendix E
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 67 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 68 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 69 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 70 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 71 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 72 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 73 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 74 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 75 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 76 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 77 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 78 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 79 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 80 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 81 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 82 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 83 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 84 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 85 of 86 Trans ID: LCV20251693587
+MER-L-000184-25 06/06/2025 12:07:18 PM Pg 86 of 86 Trans ID: LCV20251693587
+

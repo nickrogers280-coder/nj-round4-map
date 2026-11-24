@@ -1,0 +1,1796 @@
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 1 of 51 Trans ID: LCV20251862713
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 2 of 51 Trans ID: LCV20251862713
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 3 of 51 Trans ID: LCV20251862713
+      WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 4 of 51 Trans ID: LCV20251862713
+
+
+
+
+Fourth Round
+Housing Element
+& Fair Share Plan
+Township of Knowlton
+
+
+
+
+June 13, 2025
+Prepared for:                 Prepared by:
+                                                                    Colliers Engineering & Design
+                                                                             Shelbourne at Warren
+                                                                       53 Frontage Road, Suite 110
+Township of Knowlton          _______________________________
+                                                                      Hampton, New Jersey 08827
+Warren County, New Jersey     Daniel N. Bloch, P.P., AICP, EADA
+                              NJ Planner License No. 33LI00610700
+                                                                               Main: 908.238.0900
+                                                                          Colliersengineering.com
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 5 of 51 Trans ID: LCV20251862713
+
+
+
+
+                                                               Fourth Round
+       Housing Element & Fair Share Plan
+                                                       Township of Knowlton
+                                                                          Warren County, New Jersey
+
+
+
+
+                                           Adopted by the Land Use Board: June 24, 2025
+
+
+
+                                   Endorsed by the Township Committee: _____________
+
+
+
+
+                             The original of this report was signed and sealed in accordance with NJSA 45:14A-12.
+                                                                                                         KNL072
+
+
+                                                                                                         Page i
+       WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 6 of 51 Trans ID: LCV20251862713
+
+
+
+
+Table of Contents
+I.     Introduction ................................................................................................................................................ 1
+            Affordable Housing History .................................................................................................................... 1
+            Municipal Summary ............................................................................................................................... 5
+            Affordable Housing Goals ...................................................................................................................... 6
+            Affordable Housing Obligation .............................................................................................................. 6
+HOUSING ELEMENT .......................................................................................................................................... 7
+II.    Required Content of Housing Element ................................................................................................... 7
+III.   Population Demographics ........................................................................................................................ 9
+            Population Growth ................................................................................................................................. 9
+            Age Distribution of Population............................................................................................................. 10
+            Household Size & Type ......................................................................................................................... 11
+            Income & Poverty Status ...................................................................................................................... 12
+IV.    Housing Demographics...........................................................................................................................14
+            Housing Type ........................................................................................................................................ 14
+            Occupancy Status ................................................................................................................................. 14
+            Value & Rent of Housing Stock ............................................................................................................. 15
+            Condition of Housing Stock .................................................................................................................. 16
+V.     Employment Demographics ...................................................................................................................19
+            Occupational Characteristics ............................................................................................................... 19
+            Employment Projections ...................................................................................................................... 19
+            In-Place Employment by Industry ........................................................................................................ 20
+            Travel Time to Work.............................................................................................................................. 21
+VI.    Projection of Housing Stock ...................................................................................................................23
+VII. Capacity for Fair Share ............................................................................................................................24
+            Land Capacity ....................................................................................................................................... 24
+            Utility Capacity...................................................................................................................................... 24
+            Appropriate Locations for Affordable Housing ................................................................................... 27
+            Potential Affordable Housing Developers............................................................................................ 27
+            Anticipated Development Patterns ...................................................................................................... 27
+            State Development & Redevelopment Plan Consistency..................................................................... 29
+            Multigenerational Family Continuity Evaluation................................................................................. 29
+FAIR SHARE PLAN ...........................................................................................................................................31
+VIII. Required Content of Fair Share Plan.....................................................................................................31
+
+                                                                                                                                                            Page ii
+      WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 7 of 51 Trans ID: LCV20251862713
+
+
+
+
+          Regional Income Limits ........................................................................................................................ 31
+IX.   Affordable Housing Obligation ..............................................................................................................33
+          Present Need (Rehabilitation Obligation) | 4 units............................................................................. 33
+          Prior Round Obligation | 14 units ....................................................................................................... 33
+          Third Round Obligation | 32 units ...................................................................................................... 33
+          Fourth Round Obligation | 32 units .................................................................................................... 33
+X.    Mechanisms & Credits ............................................................................................................................34
+          Rehabilitation Credits ........................................................................................................................... 34
+          Prior Round Credits .............................................................................................................................. 34
+          Third Round Credits.............................................................................................................................. 35
+          Fourth Round Mechanisms & Credits .................................................................................................. 36
+          Durational Adjustment – Lack of Water and Sewer ............................................................................ 36
+XI.   Appendix ...................................................................................................................................................38
+
+
+
+
+                                                                                                                                                         Page iii
+      WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 8 of 51 Trans ID: LCV20251862713
+
+
+
+
+I.        Introduction
+According to the New Jersey Fair Housing Act of 1985 (L. 1985, c. 222, s. 1, eff. July 2, 1985), a Housing
+Plan Element shall be designed to achieve the goal of access to affordable housing to meet present
+and prospective housing needs, with particular attention to low- and moderate-income housing.
+
+This report is the Township of Knowlton’s Housing Element and Fair Share Plan (“HEFSP”) for the
+period between 2025 and 2035 (known as the Fourth Round). Knowlton Township seeks to
+voluntarily comply with its constitutional obligation to provide a realistic opportunity for affordable
+housing. This HEFSP is prepared utilizing the Prior Round Rules1, Third Round Rules2 (as applicable),
+and the amendments implemented in P.L. 2024, c.2. Each municipality in the State has a four-part
+obligation:
+
+     1.   Rehabilitation Obligation
+     2.   Prior (First and Second Round) Obligations (1987-1999)
+     3.   Third Round Obligation (1999–2025)
+     4.   Fourth Round Obligation (2025-2035)
+
+Affordable Housing History
+Mount Laurel Doctrine
+Affordable housing planning in New Jersey dates back to 1975, when the New Jersey Supreme Court
+ruled in Southern Burlington County NAACP v. the Township of Mount Laurel, 67 N.J. 151 (1975), 336
+(Mount Laurel I), that each municipality within New Jersey has a constitutional obligation to provide
+a realistic opportunity for the construction of their fair share of affordable housing. Mount Laurel I is
+the landmark decision that created what is commonly referred to as the “Mount Laurel Doctrine”.
+The Supreme Court found that Mount Laurel Township’s zoning ordinance only permitted one type
+of housing—single-family detached dwellings, while all other types of multi-family housing, such as
+garden apartments, townhomes, or mobile home parks, were prohibited, which the court
+determined resulted in economic discrimination and exclusion of substantial segments of the area
+population, and therefore the zoning ordinance was unconstitutional and invalid.
+
+In 1983, the New Jersey Supreme Court issued Southern Burlington County NAACP v. Township of
+Mount Laurel, 92 N.J. 158 (1983), another monumental decision which became known as the “Mount
+Laurel II” decision. In this case, the Supreme Court upheld and expanded upon the Mount Laurel I
+decision. Mount Laurel II clarified that the constitutional obligation applies to all municipalities, not
+just the “developing” municipalities as referenced in Mount Laurel I. Each municipality is required to
+establish zoning that provides a realistic opportunity for the construction of affordable housing to
+comply with the municipality’s fair share obligation. Mount Laurel II established the “Builder’s
+Remedy” as a judicial mechanism to enforce the Mount Laurel Doctrine. A Builder’s Remedy lawsuit
+allows a plaintiff (typically a developer) to challenge a municipality’s zoning ordinance if it fails to
+create a realistic opportunity to provide affordable housing units to meet the constitutional fair
+share obligation.
+
+
+1
+  NJAC 5:91 (Procedural) and NJAC 5:93 (Substantive) Rules. They can be found at:
+New Jersey Department of Community Affairs | Second Round Regulations
+2
+ NJAC 5:96 (Procedural) and NJAC 5:97 (Substantive) Rules, which can be found at:
+https://nj.gov/dca/dlps/hss/thirdroundregs.shtml
+
+                                                                                                   Page 1
+     WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 9 of 51 Trans ID: LCV20251862713
+
+
+
+
+In 1985, the Fair Housing Act (“FHA”) was enacted in response to the court decisions, which provided
+an administrative process for municipal compliance. The FHA also created the New Jersey Council on
+Affordable Housing (“COAH”), which was the governmental agency responsible for promulgating
+municipal obligations, adopting regulations, and administering the compliance process.
+
+Prior Rounds (1993-1999)
+Under COAH, the First Round of affordable housing spanned from 1987 to 1993, followed by the
+Second Round from 1993 to 1999. The First Round Substantive Rules were enacted under N.J.A.C.
+5:92 and the Second Round Substantive Rules were enacted under N.J.A.C. 5:93.
+
+Knowlton Township’s Prior Round Compliance
+Knowlton Township petitioned COAH for second round substantive certification on May 11, 2000.
+On January 8, 2003, Knowlton Township received second round substantive certification from COAH,
+which expired on January 8, 2009.
+
+Third Round (1999-2025)
+The Third Round of affordable housing commenced in 1999, which was supposed to end in 2018;
+however, due to numerous legal challenges and court orders, the Third Round was ultimately
+extended through 2025.
+
+The first version of COAH’s Third Round Substantive Rules was enacted under N.J.A.C. 5:94 in 2004.
+This version of the rules was challenged and in January 2007 the Appellate Court issued a decision
+requiring COAH to revise its rules.
+
+In October 2008, COAH adopted numerous amendments to its substantive and procedural
+regulations to address the Third Round fair housing requirements. The Third Round methodology,
+adopted in September 2008, required that a municipality’s fair share consist of three elements: the
+1) rehabilitation share, 2) any remaining Prior Round obligation that was not provided for, and 3) the
+Growth Share or Third Round, which is based upon one affordable housing unit for every four
+market-rate units built and one affordable unit for every 16 new jobs created. In addition to these
+new rules, COAH assigned new rehabilitation, Prior Round and Third Round obligation numbers to
+each municipality. Additionally, the State legislature passed Assembly Bill A-500 (now P.L. 2008),
+which made significant changes to COAH’s rules.
+
+In 2009, appeals were filed regarding the new Third Round Rules’ growth share methodology. The
+case worked its way through the Appellate Division and finally went before the Supreme Court. The
+Supreme Court issued a decision on September 26, 2013, finding that the key set of rules
+establishing the growth share methodology as the mechanism for calculating “fair shares” was
+inconsistent with the FHA and the Mount Laurel Doctrine. The Supreme Court instructed COAH “to
+adopt new third round rules that use a methodology for determining prospective need similar to the
+methodologies used in the first and second rounds,” within five months, which was later extended
+to November 2014.
+
+In July 2014, COAH proposed new Third Round under N.J.A.C. 5:98 and 5:99. However, the new rules
+were never formally adopted by COAH.
+
+After COAH failed to promulgate its revised rules by the November 2014 deadline, the Supreme
+Court made a ruling on March 10, 2015 entitled In re Adoption of N.J.A.C. 5:96 & 5:97 by the N.J.
+
+
+                                                                                                Page 2
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 10 of 51 Trans ID: LCV20251862713
+
+
+
+
+Council on Affordable Housing, 221 N.J. 1 (2015) (Mount Laurel IV), which allows for judicial review
+for constitutional compliance, as was the case before the FHA was enacted. The ruling allowed low-
+and moderate-income families and their advocates to challenge exclusionary zoning in court, rather
+than having to wait for COAH to issue rules that may never come. The process provided a
+municipality that had sought to use the FHA’s mechanisms the opportunity to demonstrate
+constitutional compliance to a court’s satisfaction before being declared noncompliant and then
+being subjected to the remedies available through exclusionary zoning litigation, including a
+builder’s remedy.
+
+The transitional process created by the Supreme Court tracked the FHA procedures for compliance.
+In this regard, the process permitted municipalities to file a Declaratory Judgment Action during a
+30-day window between June 8 and July 8, 2015 that sought an adjudication as to their fair share.
+This would enable the municipality to comply voluntarily with its constitutional obligation to provide
+a realistic opportunity for the construction if its fair share of the regions’ low- and moderate-income
+households.
+
+On January 18, 2017, the Supreme Court decided In Re Declaratory Judgment Actions Filed by
+Various Municipalities, County of Ocean, Pursuant to The Supreme Court’s Decision In In re Adoption
+of N.J.A.C. 5:96, 221 N.J. 1 (2015) (“Mount Laurel V”), which held that municipalities are responsible
+for obligations accruing during the so-called “gap period,” the period between 1999 and 2015.
+However, the Court stated that the gap obligation should be calculated as a never-before calculated
+component of Present Need (also referred to as Rehabilitation Obligation), which would serve to
+capture Gap Period households that were presently in need of affordable housing as of the date of
+the Present Need calculation (i.e. that were still income eligible, were not captured as part of
+traditional present need, were still living in New Jersey and otherwise represented a Present
+affordable housing need).
+
+Between 2015 and 2024, municipalities that elected to voluntarily comply with their constitutional
+obligation participated in mediation sessions, reached settlement agreements, adopted Third Round
+Housing Element and Fair Share Plans, and most municipalities concluded the process with a Third
+Round Judgment of Compliance and Repose (“Third Round JOR”) from the courts. As a result of
+COAH’s inability to function, the Third Round period spanned from 1999 to 2025, a 26-year long
+period as opposed to the 6-year periods for the first and second rounds. The Third Round is set to
+expire on June 30, 2025.
+
+Knowlton Township’s Third Round Compliance
+Knowlton Township adopted a Housing Element & Fair Share Plan on April 24, 2007 to address a
+Rehabilitation Obligation (1999-2014) of 6 units, Prior Round obligation (1987-1999) of 10 units, and
+a Third Round Growth Share obligation of 16 units. On January 10, 2007, Knowlton Township
+petitioned COAH for third round substantive certification pursuant to N.J.A.C. 5:94. COAH never
+granted third round substantive certification due to challenges to the growth share methodology.
+
+On December 31, 2008, Knowlton Township again petitioned COAH for Third Round Substantive
+Certification, this time pursuant to N.J.A.C. 5:96 and N.J.A.C. 5:97. The petition for substantive
+certification was deemed complete on February 24, 2009. At that time, as determined by COAH, the
+Township had a rehabilitation obligation for 1999-2014 of 14 units, a 1987-1999 Prior Round
+Obligation of 14 units, and a Third Round Growth Share obligation of 60 units.
+
+
+
+                                                                                                 Page 3
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 11 of 51 Trans ID: LCV20251862713
+
+
+
+
+Knowlton’s 2008 HEFSP addressed its 14-unit rehabilitation obligation through 3 credits for
+rehabilitated units, 6 units through the Warren County rehabilitation program, and a 5-unit
+municipal rehabilitation program. The 14-unit Prior Round obligation was addressed with 6 post-
+1986 credits from the ARC of Warren County group home and 4 post-1986 credits and 4 rental
+bonuses from Fred Bauer apartments. The 60-unit projected Growth Share obligation was
+addressed by 10 family rental units and 10 rental bonuses in a market to affordable program, 10
+family rental units in an accessory apartment program, 11 family rental units and 5 rental bonuses
+in a gut rehabilitation program, and 14 units of proposed supportive and special needs housing.
+COAH granted Third Round substantive certification on October 14, 2009, which provided immunity
+through December 31, 2018.
+
+Pursuant to the Mount Laurel IV Supreme Court decision, Knowlton Township filed a motion with
+the court on July 1, 2015 seeking a Declaratory Judgement that the municipality has fulfilled its
+constitutional obligation to provide affordable housing.
+
+On December 5, 2016, the Township entered into a Settlement Agreement with the Fair Share
+Housing Center (“FSHC”) to memorialize the terms of settlement of the Township’s affordable
+housing obligations. The Settlement Agreement outlined Knowlton’s affordable housing obligations
+as follows:
+
+   ▪   Rehabilitation Share (1999-2025): 10 units
+   ▪   Prior Round Obligation (1987-1999): 14 units
+   ▪   Third Round Prospective Need (1999-2025): 32 units
+
+The Township adopted a Housing Element & Fair Share Plan on June 25, 2017 to address the
+affordable housing obligations. At a Fairness Hearing on May 19, 2017, the Superior Court found the
+Settlement Agreement to be fair and deemed it to be preliminarily in compliance with the
+Township’s affordable housing fair share obligation.
+
+On September 25, 2018, the Knowlton Planning Board adopted an amended HEFSP, which
+addressed 14-unit rehabilitation obligation through the Warren County rehabilitation program and
+the municipal rehabilitation program. The 14-unit Prior Round obligation was addressed with 6 post-
+1986 credits from the ARC of Warren County group home and 4 post-1986 credits and 4 rental
+bonuses from Fred Bauer apartments. The 32-unit Third Round prospective need obligation was
+addressed obligation with a total of 24 units and 8 rental bonuses. The units include 9 market-to-
+affordable units, 1 existing 100% affordable rental unit at 60 Knowlton Road, 6 units from a gut
+rehabilitation project, 4 units through an accessory apartment program, and 4 special needs
+bedrooms.
+
+On June 25, 2019, the Knowlton Planning Board adopted an amended HEFSP, to address issues with
+two of the third round mechanisms. The market-to-affordable program was modified to remove 6
+Clinton Street and replace it with conversion apartments in the VR Zone; and the proposed 4-
+bedroom Arc of Warren County group home was replaced with 4 additional proposed accessory
+apartment units.
+
+The Township has not yet had a Final Compliance Hearing and, therefore, no Final Order of
+Judgment of Compliance and Repose (“JOR”) has been issued of the Third Round.
+
+
+
+
+                                                                                              Page 4
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 12 of 51 Trans ID: LCV20251862713
+
+
+
+
+Fourth Round (2025-2035)
+On March 20, 2024, Governor Murphy signed legislation that dramatically modified the State’s
+affordable housing regulations. The 75-page bill, known as A4, abolished COAH, modified the
+process of affordable housing compliance, amended bonus credits, and, among other changes, set
+forth several important deadlines. P.L. 2024, c.2 (“Amended FHA”) charged the Department of
+Community Affairs (“DCA”) with the preparation of Fourth Round obligations and set forth aggressive
+timelines for compliance. In October 2024, DCA published a report on its calculations of regional
+need and municipal present need (Rehabilitation Obligation) and prospective fair share obligations
+(Fourth Round Obligation). The report is entitled “Affordable Housing Obligation of 2025-2035
+(Fourth Round) Methodology and Background”.
+
+The DCA calculated Knowlton Township’s present need obligation as 4 units and its Fourth Round
+prospective need obligation as 32 units. Municipalities were required to adopt a binding resolution
+outlining their present and prospective fair share obligations by January 31, 2025. On January 27,
+2025, the Township Committee adopted Resolution 2025-22 accepting the DCA’s calculations of the
+Township’s present need of 4 units and prospective need obligation of 32 units.
+
+The Township also filed a “Complaint for a Declaratory of Compliance with the Fair Housing Act” as
+part of the compliance certification process outlined in the Director of the Administrative Office of
+the Courts Directive #14-24.
+
+During the 30-day challenge window, Knowlton Township did not receive any challenge to the
+obligations. The Honorable Judge William G. Mennen, J.S.C. issued an order on March 25, 2025
+ordering that Knowlton Township’s present need shall be 4 units and the prospective need for the
+Fourth Round housing cycle shall be 32 units (Docket No. WRN-L-52-25).
+
+Municipal Summary
+The Township of Knowlton contains approximately 25.4 square miles (16,253 acres) and is situated
+in the northwestern part of Warren County New Jersey. Knowlton is adjacent to the Townships of
+Hardwick, Blairstown, Hope, and White. Additionally, the Borough of Portland and Upper Mount
+Bethel Township in Northampton County, Pennsylvania are located to the west, across the Delaware
+River, of Knowlton Township. Interstate 80 bisects the Knowlton in the middle of the Township,
+dividing it into a northern and southern section. US Route 46 traverses the Township in a north-
+south direction along the Delaware River. Additionally, State Route 94 traverses the Township in the
+northern section. All three of these roads intersect at the Columbia-Portland Interchange in the
+Columbia section of the Township. Knowlton does not have access to any public transportation.
+
+Knowlton is a rural community with predominately single-family detached housing units and farm
+properties. Most of the commercial properties are located along US Route 46 and State Route 94.
+However, there are other commercial properties scattered throughout the Township. The
+Worthington State Forest and Paulinskill Valley Trail are both partially located in Knowlton, as are
+State-designated fishing access points and Wildlife Management Areas.
+
+Knowlton has an estimated population of 2,907 residents according to the 2023 American
+Community Survey (“ACS”) and 630 jobs according to the New Jersey Department of Labor and
+Workforce Development 2023 municipal report. The Township has very limited public sewer service
+with only approximately 122 acres within the Township’s commercial district serviced by the
+Knowlton Wastewater Treatment Plant. There is no public water service in the Township.
+
+                                                                                                 Page 5
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 13 of 51 Trans ID: LCV20251862713
+
+
+
+
+According to the 2001 State Development and Redevelopment Plan (“SDRP”) Policy Map, Knowlton
+contains 4,411 acres within the Rural Planning Area (PA4), 6,110 acres within the
+Rural/Environmentally Sensitive Planning Area (PA4B), and 3,587 acres within the Environmentally
+Sensitive Planning Area (PA5). The SDRP also designates 1,818 acres as Parks and Natural Areas.
+
+Affordable Housing Goals
+It is the overall goal of the HEFSP, in combination with the Land Use Plan, to provide the planning
+context in which access to low and moderate income housing can be provided in accordance with
+the requirements of the Fair Housing Act and the laws of the State of New Jersey, while respecting
+the character and density of Knowlton Township.
+
+According to the Knowlton Township 2020 Master Plan Reexamination Report, two of the
+overarching goals of the Master Plan are to “Preserve and enhance the rural character of Knowlton
+Township” and to “Provide a wide range of housing opportunities for current and prospective
+residents of the Township.” These two goals are critical in the preparation of this Housing Element
+and Fair Share Plan. While Knowlton Township is a strong proponent of affordable housing, at the
+same time the Township seeks to maintain its rural atmosphere.
+
+Affordable Housing Obligation
+Knowlton Township’s four-part affordable housing obligation is as follows:
+
+   1.   Present Need (Rehabilitation Obligation): 4 units
+   2.   Prior Round (1987-1999) Obligation: 14 units
+   3.   Third Round (1999-2025) Obligation: 32 units
+   4.   Fourth Round (2025-2035) Obligation: 32 units
+
+
+
+
+                                                                                               Page 6
+      WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 14 of 51 Trans ID: LCV20251862713
+
+
+
+
+                      HOUSING ELEMENT
+II.        Required Content of Housing Element
+The Amended Fair Housing Act requires that “the housing element be designed to achieve the goal
+of access to affordable housing to meet present and prospective housing needs, with particular
+attention to low and moderate income housing”. As per the Municipal Land Use Law (“MLUL”),
+specifically N.J.S.A. 52:27D-310, a housing element must contain at least the following items:
+
+      a. An inventory of the municipality's housing stock by age, condition, purchase or rental value,
+         occupancy characteristics and type, including the number of units affordable to low and
+         moderate income households and substandard housing capable of being rehabilitated, and
+         in conducting this inventory the municipality shall have access, on a confidential basis for the
+         sole purpose conducting this inventory, to all necessary property tax assessment records
+         and information in the assessor’s office, including but not limited to the property record
+         cards;
+
+      b. A projection of the municipality's housing stock, including the probable future construction
+         of low and moderate income housing for the next ten years, taking into account, but not
+         necessarily limited to, construction permits issued, approvals of applications for
+         development and probable residential development of lands;
+
+      c.   An analysis of the municipality's demographic characteristics, including but not necessarily
+           limited to, household size, income level and age;
+
+      d. An analysis of the existing and probable future employment characteristics of the
+         municipality;
+
+      e. A determination of the municipality’s present and prospective fair share for low and
+         moderate income housing and its capacity to accommodate its present and prospective
+         housing needs, including its fair share for low and moderate income housing, as stablished
+         pursuant to section 3 of P.L.2024, c.2 (C.52-27D-304.1);
+
+      f.   A consideration of the lands that are most appropriate for construction of low and moderate
+           income housing and of the existing structures most appropriate for conversion to, or
+           rehabilitation for, low and moderate income housing, including a consideration of lands of
+           developers who have expressed a commitment to provide low and moderate income
+           housing;
+
+      g. An analysis of the extent to which municipal ordinances and other local factors advance or
+         detract from the goal f preserving multigenerational family continuity as expressed in the
+         recommendations of the Multigenerational Family Housing Continuity Commission, adopted
+         pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 (C.52D-329.20);
+
+      h. For a municipality located within the jurisdiction of the Highlands Water Protection and
+         Planning Council, established pursuant to section 4 of P.L.2004, C.120 (C.13-20-4), an analysis
+         of compliance of the housing element with the Highlands Regional Master Plan of lands in
+         the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands-
+         conforming municipalities. This analysis shall include consideration of the municipality’s
+
+
+                                                                                                   Page 7
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 15 of 51 Trans ID: LCV20251862713
+
+
+
+
+     most recent Highlands Municipal Build Out Report, consideration of opportunities for
+     redevelopment of existing developed lands into inclusionary or 100 percent affordable
+     housing, or both, and opportunities for 100 percent affordable housing in both the
+     Highlands Planning Area and Highlands Preservation Area that are consistent with the
+     Highlands regional master plan; and
+
+i.   An analysis of consistency with the State Development and Redevelopment Plan, including
+     water, wastewater, stormwater, and multi-modal transportation based on guidance and
+     technical assistance from the State Planning Commission.
+
+
+
+
+                                                                                             Page 8
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 16 of 51 Trans ID: LCV20251862713
+
+
+
+
+III. Population Demographics
+Population Growth
+Knowlton Township’s population has grown steadily from 1940 through 2010, with an average of
+about 280 new residents per year over the 70 year period. The periods that saw the greatest growth
+was 1980 to 1990 (23 percent) and 1960 to 1970 (21 percent). As of the 2020 Census, the population
+of Knowlton Township was 2,894, which is 161 residents less than its peak of 3,055 in 2010. As of the
+2023 American Community Survey (“ACS”), the Knowlton Township’s population was 2,907.
+
+                                                  Population Growth
+
+                   Year                Population                       Change               Percent
+
+                   1940                     1,084                            --                  --
+                   1950                     1,260                            176              16.2%
+                   1960                     1,442                            182              14.4%
+                   1970                     1,738                            296              20.5%
+                   1980                     2,074                            336              19.3%
+                   1990                     2,543                            469              22.6%
+                   2000                     2,977                            434              17.1%
+                   2010                     3,055                            78                2.6%
+                   2020                     2,894                        -161                  -5.3%
+               Source: 2010 & 2020 Census Table P1; New Jersey Population Trends, 1790 to 2000,
+               https://www.nj.gov/labor/labormarketinformation/assets/PDFs/census/2kpub/njsdcp3.pdf
+
+
+The North Jersey Transportation Planning Authority (“NJTPA”) projects that the Township’s
+population will grow to 3,222 residents by 2050 from their baseline 2015 population of 2,993. This
+represents an increase of 229 residents, or an average increase of approximately 7 residents
+annually over 35 years. However, as noted above, the Township’s estimated population according to
+the 2023 ACS is 2,907, which is 86 less than the 2015 baseline population used by NJTPA. This
+translates to an average annual increase of approximately 12 residents over the next 27 years.
+
+                                       Population Projection
+
+            Year                Population                    Change               Percent
+
+            2015                    2,993                         ---                  ---
+            2020                    2,894                        -99                 -3.3%
+            2050                    3,222                        328                 11.3%
+          Source: NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts,
+          https://www.njtpa.org/plan2050; 2020 Census Table P1
+
+
+
+
+                                                                                                       Page 9
+     WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 17 of 51 Trans ID: LCV20251862713
+
+
+
+
+Age Distribution of Population
+The 2023 ACS estimates 24.4 percent of Knowlton Township’s population was 19 years or younger,
+while 19.8 percent of the population was 65 years or older. The largest age cohort was estimated to
+be those aged 5 to 9 years, which comprised 10.5 percent (305) of the Township’s population.
+Residents aged 35 to 39 years comprised the second-largest age cohort at 9.3 percent (271) of the
+population, followed by those aged 60 to 64 years at 7.9 percent (230) of the population. The
+median age was estimated at 42.9 years in the 2023 ACS. See the table and chart below for further
+details.
+
+            Population by Age Cohort
+
+              Age               Total   Percent                   Population by Age Cohort
+
+ Under 5 years                  168      5.8%        Under 5 years                   168
+
+ 5 to 9 years                   305     10.5%          5 to 9 years                  305
+ 10 to 14 years                 129      4.4%        10 to 14 years                  129
+ 15 to 19 years                 107      3.7%        15 to 19 years                  107
+ 20 to 24 years                 123      4.2%        20 to 24 years                  123
+ 25 to 29 years                  59      2.0%        25 to 29 years                  59
+ 30 to 34 years                 226      7.8%
+                                                     30 to 34 years                  226
+ 35 to 39 years                 271      9.3%
+                                                     35 to 39 years                  271
+ 40 to 44 years                 106      3.6%
+                                                     40 to 44 years                  106
+ 45 to 49 years                 171      5.9%
+                                                     45 to 49 years                  171
+ 50 to 54 years                 215      7.4%
+                                                     50 to 54 years                  215
+ 55 to 59 years                 220      7.6%
+ 60 to 64 years                 230      7.9%        55 to 59 years                  220
+
+ 65 to 69 years                 220      7.6%        60 to 64 years                  230
+
+ 70 to 74 years                 215      7.4%        65 to 69 years                  220
+ 75 to 70 years                  68      2.3%        70 to 74 years                  215
+ 80 to 84 years                  24      0.8%        75 to 70 years                  68
+ 85 years and over               50      1.7%        80 to 84 years                  24
+ Total                          2,907    100%     85 years and over                  50
+ Source: 2023 ACS Table S0101
+
+
+
+
+                                                                                             Page 10
+     WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 18 of 51 Trans ID: LCV20251862713
+
+
+
+
+Household Size & Type
+According to the 2023 ACS, Knowlton Township had 1,088 households of various types. A majority
+were married-couple households, which comprised just over 59.5 percent of all households. Of
+those, 249 had children under 18 years old. Male householders with no spouse present comprised
+12.6 percent of all households, while female householders with no spouse present comprised 18.6
+percent. Of all households with no spouse present, 52 had children under the age of 18 (4.8
+percent), while 160 were living alone (14.7 percent).
+
+                                                      Household Type
+                                          Type                    Number               Percent
+                        Married-couple                               647               59.5%
+                          with children under 18                     249               22.9%
+                        Cohabitating couple                          102                9.4%
+                          with children under 18                       15               1.4%
+                        Male householder, no spouse                  137               12.6%
+                          with children under 18                       31               2.8%
+                          living alone                                 47               4.3%
+                        Female householder, no spouse                202               18.6%
+                          with children under 18                       21               1.9%
+                          living alone                               113               10.4%
+                        Total                                       1,088               100%
+                        Source: 2023 ACS Table DP02
+
+
+
+The most common household size in Knowlton Township was estimated to be two-person
+households, which comprised 46 percent of households in 2023. Three-person households
+comprised the second-largest number of households at just over 19 percent. Finally, one-person
+households comprised just over 15 percent of the 1,088 households in Knowlton Township. The
+table and pie chart below graphically illustrate the household size composition in Knowlton
+Township. Additionally, the 2023 ACS estimated the average household size at 2.63 persons, which
+is less than reported in the 2010 Census (2.75 persons).
+
+                 Household Size                                                Household Size
+                                                                  6-person
+                                                                    1.2%                          7+ person
+         Size             Total          Percent                                                    2.5%
+                                                            5-person
+                                                                                           1-person
+ 1-person                  160            14.7%               3.1%
+                                                                                            39.0%
+ 2-person                  505            46.4%                             4-person
+ 3-person                  209            19.2%                              12.9%
+ 4-person                  140            12.9%
+ 5-person                   34             3.1%                         3-person
+ 6-person                   13             1.2%                          12.5%
+                                                                                                 2-person
+ 7+ person                  27             2.5%
+                                                                                                  37.3%
+ Total                    1,088           100%
+ Source: 2023 ACS Table B11016
+
+
+                                                                                                              Page 11
+     WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 19 of 51 Trans ID: LCV20251862713
+
+
+
+
+Income & Poverty Status
+The 2023 ACS estimated the median household income for the Knowlton Township to be $98,750,
+which is over $800 less than Warren County’s and a little over $1,500 more than the State’s.
+Similarly, the median family income for Knowlton Township was estimated at $106,161, which is
+over $12,000 below the County’s and $13,000 below the State’s. Finally, the Township’s per capita
+income was estimated at $45,050, which is less than the County’s and the State’s. Based on this
+data, residents of Knowlton Township are close to the averages of Warren County and the State’s
+median incomes. This is reflected in the poverty rates of individuals and families estimated in the
+2023 ACS. Knowlton Township’s poverty rate for individuals was estimated at 4.1 percent, which is
+less State’s by 5 percent and more than the County’s by only 0.3 percent. The Township’s poverty
+rate for families was estimated at 2.3 percent, which is the same as the County’s and less than the
+State’s by 4.6 percent. The table and bar chart below provide a comparison between income and
+poverty characteristics.
+
+                                Income and Poverty Characteristics
+
+                Income Type                 Knowlton Township         Warren County     New Jersey
+
+ Median Household Income                            $98,750               $99,596         $97,126
+
+ Median Family Income                              $106,161               $118,994       $119,240
+
+ Per Capita Income                                  $45,050               $48,232         $50,995
+
+ Poverty Status (Percent of People)                  4.1%                  3.8%            9.7%
+
+ Poverty Status (Percent of Families)                2.3%                  2.3%            6.9%
+
+ Source: 2023 ACS Table DP03
+
+
+
+
+                                          Income Characteristics
+       $200,000
+       $180,000
+       $160,000
+       $140,000
+       $120,000
+       $100,000
+        $80,000
+        $60,000
+        $40,000
+        $20,000
+               $0
+                      Median Household Income      Median Family Income         Per Capita Income
+
+                               Knowlton Township      Warren County       New Jersey
+
+
+
+                                                                                                     Page 12
+     WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 20 of 51 Trans ID: LCV20251862713
+
+
+
+
+According to the 2023 ACS, 12.4 percent (135) of households in Knowlton Township earn over
+$200,000 annually. Household earning $100,000 or more annually were estimated to include 532
+households or 48.9 percent of all households in Knowlton Township. Over 49 percent of household
+in Warren County earned at least $100,000 annually, including 13.7 percent earning more than
+$200,000. Households in New Jersey earning $100,000 or more according to the 2023 ACS included
+48.8 percent of households. Almost 14 percent of households in Knowlton Township earned less
+than $50,000 per year. See the table below for additional details.
+
+                                       Household Income
+                                    Knowlton
+                                                   Warren County         New Jersey
+         Income Range               Township
+                               Total    Percent   Total    Percent     Total     Percent
+ Less than $10,000              10       0.9%     1,650     3.7%     139,920      4.1%
+ $10,000 to $14,999             6        0.6%      954      2.1%     102,608      3.0%
+ $15,000 to $24,999             22       2.0%     2,402     5.3%     185,476      5.4%
+ $25,000 to $34,999             46       4.2%     2,270     5.1%     196,998      5.7%
+ $35,000 to $49,999             63       5.8%     3,230     7.2%     281,264      8.2%
+ $50,000 to $74,999            226       20.8%    6,714    14.9%     455,543     13.2%
+ $75,000 to $99,999            183       16.8%    5,349    11.9%     397,730     11.6%
+ $100,000 to $149,999          280       25.7%    10,482   23.3%     620,335     18.0%
+ $150,000 to $199,999          117       10.8%    5,733    12.8%     396,837     11.5%
+ $200,000 or more              135       12.4%    6,159    13.7%     661,451     19.2%
+
+ Total                         1,088     100%     44,943    100%     3,438,162    100%
+ Source: 2023 ACS Table DP03
+
+
+
+
+                                                                                           Page 13
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 21 of 51 Trans ID: LCV20251862713
+
+
+
+
+IV. Housing Demographics
+Housing Type
+The 2023 ACS estimated the Township’s housing stock at 1,155 units, which contains a variety of
+residential dwellings. Single-family, detached dwellings comprised a majority of the housing stock
+with 1,060 units or 91.8 percent of all dwellings. One-unit, attached dwellings (i.e. townhomes)
+comprised 27 units (2.3 percent), while two-family dwellings comprised only 8 units (0.7 percent) of
+the housing stock. The Township contains only 6 multi-family units (0.5 percent), which are buildings
+containing three or more dwelling units. It should be noted that the 2023 ACS estimated 48
+dwellings to be mobile homes. See the table below for details.
+
+                                         Housing Units in Structure
+
+                                 Structure             Number of Units    Percent
+
+                     1-unit, detached                       1,060          91.8%
+                     1-unit, attached                         27            2.3%
+                     2 units                                  8             0.7%
+                     3 or 4 units                             6             0.5%
+                     5 to 9 units                             0             0.0%
+                     10 to 19 units                           6             0.5%
+                     20 or more units                         0             0.0%
+                     Mobile Home                              48            4.2%
+                     Other (boat, RV, van, etc.)              0             0.0%
+
+                     Total                                  1,155          100%
+                     Source: 2023 ACS Table DP04
+
+
+
+
+Occupancy Status
+Of the 1,155 residential units, 1,088 units, or 94 percent of the housing stock, was occupied. This
+includes 949 owner-occupied units and 139 rental units. A total of 67 units were identified as
+vacant, 52 units were classified “other” vacant units and 15 classified as seasonal vacant units. See
+the table on the following page for details.
+
+The 2023 ACS estimated the average household size in Knowlton Township was 2.63 persons, while
+the average family size was 2.89 persons. Comparing tenure, the average owner-occupied
+household was 2.72, while the average renter-occupied household was 1.99 persons.
+
+
+
+
+                                                                                                Page 14
+     WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 22 of 51 Trans ID: LCV20251862713
+
+
+
+
+                                                         Occupancy Status
+                                                Status                 Units          Percent
+                           Occupied Total                              1,088           94.2%
+                               Owner Occupied                           949            87.2%
+                               Renter Occupied                          139            12.8%
+                           Vacant Total                                 67             5.8%
+                               For rent                                     0          0.0%
+                               For Sale                                     0          0.0%
+                               Seasonal                                 15             22.4%
+                               For migrant workers                          0          0.0%
+                               Other                                    52             77.6%
+                           Total                                       1,155           100%
+                           Source: 2023 ACS Tables DP04 & B25004
+
+
+
+
+Value & Rent of Housing Stock
+The 2023 ACS provided estimates for owner-occupied housing units in Knowlton Township.
+According to the data, a plurality of homes in the Township were valued between $300,000 and
+$499,999 (41 percent). Homes worth between $200,000 and $299,999 comprised 22.7 percent of
+the owner-occupied housing units, while only 14.5 percent of homes were estimated to be worth
+between $100,000 and $199,999. An estimated 13.5 percent of homes (128 units) were valued
+between $500,000 and $999,999, while only 4 homes were estimated to be worth more than $1
+million. The median home value estimated in the 2023 ACS was $320,400. See the table below and
+chart on the following page for details.
+
+          Value of Owner Occupied Units                                         Value of Owner Occupied Units
+
+          Value                Number of Units           Percent
+                                                                                                     Less than $99,999 -
+ Less than $99,999                        71              7.5%                                       7.5%
+ $100,000 to $199,999                  138                14.5%                                      $100,000 to
+ $200,000 to $299,999                  215                22.7%                                      $199,999 - 14.5%
+
+ $300,000 to $499,999                  393                41.4%                                      $200,000 to
+ $500,000 to $999,999                  128                13.5%                                      $299,999 - 22.7%
+
+ $1,000,000 or more                       4               0.4%                                       $300,000 to
+                                                                                                     $499,999 - 41.4%
+ Total                                 949                100%
+                                                                                                     $500,000 to
+ Median Value                                 $320,400                                               $999,999 - 13.5%
+
+ Source: 2023 ACS Table DP04
+
+
+
+
+                                                                                                             Page 15
+     WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 23 of 51 Trans ID: LCV20251862713
+
+
+
+
+The median rent in the Township was estimated at $1,795 per the 2023 ACS. Looking at the rent
+ranges, over 35 percent of the Township’s rental units had no rent paid (49 units). Units that cost
+between $1,500 and $1,999 comprised 28 percent of rentals (39 units), while 16.5 percent (23 units)
+cost between $2,000 and $2,499 per month.
+
+                    Cost of Rentals
+                                                                                   Cost of Rentals
+         Cost             Number of Units           Percent
+
+ Less than $1,000                  0                 0.0%                                                $1,000 to $1,499
+ $1,000 to $1,499                 22                15.8%                         15.8%
+
+ $1,500 to $1,999                 39                28.1%                                                $1,500 to $1,999
+                                                                 35.3%
+ $2,000 to $2,499                 23                16.5%
+ $2,500 to $2,999                  6                 4.3%                                                $2,000 to $2,499
+                                                                                          28.1%
+ $3,000 or more                    0                 0.0%
+ No rent paid                     49                35.3%                                                $2,500 to $2,999
+ Total                           139                 100%     4.3%       16.5%
+
+
+ Median (in dollars)                   $1,795
+                                                                                                         No rent paid
+
+ Source: 2023 ACS Table DP04
+
+
+
+
+Condition of Housing Stock
+The Census does not classify housing units as standard or substandard, but it can provide an
+estimate of the substandard housing units that are occupied by low and moderate income
+households. The Appellate Division upheld COAH’s use of three indicators to determine
+substandard housing in the State. Those three indicators are:
+
+     ▪    Houses built before 1970, and which are overcrowded with more than one person per
+          room;
+     ▪    Homes lacking complete plumbing;
+     ▪    Homes lacking kitchen facilities.
+
+Most of the Census indicators available at the municipal level indicate a sound housing stock. All
+homes had complete plumbing and kitchen facilities, while only 11 homes within the Township lack
+adequate heat.
+
+                                              Condition of Housing Stock
+
+                                       Condition                     Number of Units         Percent
+
+                      Lack of complete plumbing                             0                 0.00%
+                      Lack of complete kitchen                              0                 0.00%
+                      Lack of telephone service                             0                     0.0%
+                      Lack of adequate heat                                11                     1.0%
+
+                      Total Occupied Housing Units                        1,088               1.01%
+                      Source: 2023 ACS Table DP04
+
+
+                                                                                                               Page 16
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 24 of 51 Trans ID: LCV20251862713
+
+
+
+
+Housing with 1.01 or more persons per room is an index of overcrowding as defined by the U.S.
+Department of Housing and Urban Development. According to the 2023 ACS, all of the Township’s
+1,088 occupied housing units contained 1.00 or less persons per room.
+
+                                      Occupants Per Room
+
+                      Occupants                  Number of Units   Percent
+
+                   1.00 or less                       1,088        100.0%
+                   1.01 to 1.50                        0            0.0%
+                   1.51 or more                        0            0.0%
+
+                   Total                              1,088         100%
+                   Source: 2023 ACS Table DP04
+
+
+
+
+Research has demonstrated that units built 50 or more years ago (i.e. 1975 or earlier) are much
+more likely to be in substandard condition. Included in the rehabilitation calculation are
+overcrowded units and dilapidated housing as discussed above.
+
+The table below and bar graph on the following page provide the 2023 ACS estimates for the age of
+housing units in Knowlton Township. An estimated 439 units, or 38 percent, of the Township’s
+housing stock were constructed prior to 1970 with over 24.8 percent being constructed prior to
+1940. Residential development in Knowlton Township boomed during the 1980s and 1990s as an
+estimated 41.1 percent of the Township’s housing stock was constructed during this era. Since 2000,
+approximately 106 homes have been constructed. See the table and chart below and on the
+following page for more details.
+
+It should be noted that the “2020 or later” line item may be inaccurate. The New Jersey Department
+of Community Affairs’ (“DCA”), Division of Codes and Standards website provides data on building
+permits, certificates of occupancy, and demolition permits for both residential and non-residential
+development. We have reviewed the data from the State for 2020 through 2024 and 8 certificates of
+occupancy have been issued for new residential units since the beginning of 2020. See the tables on
+page 25 for additional details.
+
+
+
+
+                                                                                             Page 17
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 25 of 51 Trans ID: LCV20251862713
+
+
+
+
+                                           Age of Housing Stock
+
+                                 Year Built                     14           Percent
+
+                       1939 or earlier                          286             24.8%
+                       1940 to 1949                             14                1.2%
+                       1950 to 1959                             113               9.8%
+                       1960 to 1969                             26                2.3%
+                       1970 to 1979                             135             11.7%
+                       1980 to 1989                             203             17.6%
+                       1990 to 1999                             272             23.5%
+                       2000 to 2009                             91                7.9%
+                       2010 to 2019                             15                1.3%
+                       2020 or later                             0                0.0%
+
+                       Total                                1,155               100%
+                       Source: 2023 ACS Table DP04
+
+
+                                                Age of Housing Stock
+
+                      2020 or later        0
+
+                      2010 to 2019         15
+
+                      2000 to 2009                   91
+
+                      1990 to 1999                                                        272
+
+
+
+        Year Built
+                      1980 to 1989                                          203
+
+                      1970 to 1979                              135
+
+                      1960 to 1969         26
+
+                      1950 to 1959                        113
+
+                      1940 to 1949         14
+
+                     1939 or earlier                                                           286
+
+                                       0        50        100         150    200         250         300   350
+                                                                        Units
+
+
+
+
+                                                                                                                 Page 18
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 26 of 51 Trans ID: LCV20251862713
+
+
+
+
+V. Employment Demographics
+The 2023 ACS estimated that Knowlton Township had 1,386 residents over the age of 16 in the
+workforce. Of those, 1,304 (94.1 percent) were employed, which translates to a 5.9 percent
+unemployment rate. A majority of workers were private wage and salary worker (70 percent).
+However, almost 14 percent were workers employed by the government and 10.3 percent were self-
+employed.
+
+                                                 Class of Workers
+
+                                         Class                      Workers       Percent
+
+               Private wage and salary workers                        973             70.2%
+               Government workers                                     188             13.6%
+               Self-employed workers                                  143             10.3%
+               Unpaid family workers                                  0                0.0%
+
+               Total employed residents                              1,304            94.1%
+
+               Total unemployed residents                             82               5.9%
+
+               Total residents in workforce                          1,386             100%
+               Source: 2023 ACS Table DP03
+
+
+
+
+Occupational Characteristics
+The 2023 ACS estimated 507 workers were employed in management, business, arts, & sciences
+which represents 39 percent of the Township’s employed residents. Workers in sales and office
+fields totaled 21 percent of employed residents, while 15 percent were employed in service jobs.
+
+                                     Occupation of Employed Population
+
+                                       Occupation                             Workers         Percent
+
+       Management, business, science, & arts                                    507           38.9%
+       Service                                                                  200           15.3%
+       Sales & office                                                           269           20.6%
+       Natural resources, construction, & maintenance                           152           11.7%
+       Production, transportation, & material moving                            176           13.5%
+
+       Total                                                                   1,304           100%
+       Source: 2023 ACS Table DP03
+
+
+
+
+Employment Projections
+NJTPA’s Plan 2050 estimates that the number of available jobs in Knowlton Township will decrease
+from 807 reported in 2015 to 779 in 2050. This represents a decrease of 28 jobs, or an average
+annual loss of 0.8 jobs annually. However, as detailed in the following section, the New Jersey
+Department of Labor and Workforce Development estimated a total of 550 jobs in Knowlton
+
+                                                                                                        Page 19
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 27 of 51 Trans ID: LCV20251862713
+
+
+
+
+Township in 2023, which is 229 less than projected by NJTPA. Utilizing this number, roughly 8 new
+jobs would need to be created within the Township each year for the next 27 years.
+
+                                       Employment Projection
+
+              Year              Jobs                 Change                  Percent
+
+              2015              807                     ---                    ---
+              2050              779                     -28                   -3.5%
+          Source: NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts,
+          https://www.njtpa.org/plan2050
+
+
+
+
+In-Place Employment by Industry
+New Jersey’s Department of Labor and Workforce Development (“NJDLWD”) is the entity that reports
+on employment and wages within the State of New Jersey through the Quarterly Census of
+Employment and Wages (“QCEW”). The latest Municipal Report was completed in 2023. According
+to the data, there were no private sector jobs within the Township. It should be noted that the
+Municipal Report redacted data from multiple private-sector industries for not meeting publication
+standards (construction, manufacturing, retail trade, etc.) The “Private Sector Total” row in the table
+on the following page provides the totals for the reported data only. However, the 2023 QCEW
+reported that Knowlton Township had an average of 550 private-sector jobs provided by 71
+employers, including the redacted data. Additionally, the QCEW data reflects employment within
+Knowlton Township, regardless of where the employee lives.
+
+Based on the 2023 QCEW data provided, the health/social industry contained the largest number of
+jobs in the Borough with an average of 94 jobs (27%). These jobs were provided by 14 employers,
+which is the largest industry of employers in Knowlton. The accommodations/food industry had
+seven employers and an average of 84 jobs (24 percent), making it the second largest industry. In
+the public sector, the 2023 QCEW Municipal Report indicated that there were three federal
+government employers, which had an average of only ten employees, one state employer with an
+average of only five jobs, and two local government employers, which had an average of 65 jobs.
+This included one local government education employer providing an average of 48 jobs. See the
+table on the following page for data on each industry sector.
+
+
+
+
+                                                                                                Page 20
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 28 of 51 Trans ID: LCV20251862713
+
+
+
+
+                                 Private and Public Sector Employment (2023)
+                                                            Establishments              Employees               Annual
+                         Industry
+                                                           Total      Percent       Total     Percent           Wages
+       Construction                                          11        14.3%          60         9.5%           $71,035
+       Manufacturing                                          -           -            -           -                -
+       Wholesale Trade                                        -           -            -           -                -
+       Retail Trade                                           -           -            -           -                -
+       Transportation/Warehousing                             -           -            -           -                -
+       Information                                            -           -            -           -                -
+       Finance/Insurance                                      -           -            -           -                -
+       Real Estate                                            -           -            -           -                -
+       Professional/Technical                                 -           -            -           -                -
+       Admin/Waste Remediation                                -           -            -           -                -
+       Health/Social                                         14        18.2%          94        14.9%           $53,873
+       Accommodations/Food                                    7         9.1%          84        13.3%           $17,956
+       Other Services                                         6         7.8%          27         4.3%           $22,175
+       Unclassified                                           3         3.9%           2         0.3%           $26,791
+       Private Sector Total                                  71         92%          550         87%            $51,220
+       Federal Government                                    3          3.9%          10        1.6%            $68,162
+       State Government                                      1          1.3%          5         0.8%            $84,574
+       Local Government                                      2          2.6%          65        10.3%           $49,032
+         Local Government Education                          1          1.3%          48        7.6%            $56,766
+       Public Sector Total                                   6           8%           80         13%            $64,634
+
+       Source: The table values above are sourced from the NJDLWD's QCEW 2023 Municipal Report. It is noted that this Report
+       has redacted multiple private sector industries for not meeting the publication standard.
+
+
+
+
+Travel Time to Work
+The 2023 ACS collected data regarding employed resident’s commute time. The most common
+commute time was between 60 and 64 minutes, which was made by 168 workers (15.3 percent). A
+commute between 45 and 59 minutes followed with 158 workers (14.4 percent). Rounding off the
+top three was a commute of 30 to 34 minutes, which was reported by 134 workers (12.2 percent).
+The mean travel time was estimated at 35.2 minutes. It should be noted that 43 workers (3.9
+percent) reported a commute of more than one and a half hours. Additionally, 144 workers, or 11.5
+percent of the Township’s employed residents, reported working from home. See the table below
+for additional details.
+
+
+
+
+                                                                                                                               Page 21
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 29 of 51 Trans ID: LCV20251862713
+
+
+
+
+                                    Commute Time
+
+                    Travel Time (minutes)           Workers   Percent
+
+                           Less than 5                19       1.7%
+                              5 to 9                  52       4.7%
+                             10 to 14                 106      9.7%
+                             15 to 19                 133     12.1%
+                             20 to 24                 92       8.4%
+                             25 to 29                 84       7.7%
+                             30 to 34                 134     12.2%
+                             35 to 39                 28       2.6%
+                             40 to 44                 81       7.4%
+                             45 to 59                 158     14.4%
+                             60 to 89                 168     15.3%
+                           90 or more                 43       3.9%
+
+                              Total                  1,098    100.0%
+                    Source: 2023 ACS Table B08303
+
+
+
+
+                                                                        Page 22
+     WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 30 of 51 Trans ID: LCV20251862713
+
+
+
+
+VI. Projection of Housing Stock
+As per the MLUL, specifically N.J.S.A. 52:27D-310, a housing element must contain a projection of the
+municipality's housing stock, including the probable future construction of low- and moderate-
+income housing for the next ten years, taking into account, but not necessarily limited to,
+construction permits issued, approvals of applications for development and probable residential
+development of lands.
+
+The DCA Division of Codes and Standards website provides data on building permits, certificates of
+occupancy, and demolition permits for both residential and non-residential development through
+the New Jersey Construction Reporter. This database contains permit and certificate of occupancy
+information that is submitted by municipal construction officials across the State each month. The
+Construction Reporter has information dating back to 2000, which can be used to show the
+Township’s historic development trends. However, data from 2013 and onward was reviewed to
+determine more recent trends.
+
+As shown in the table below, the issuance of residential certificates of varies from year to year in the
+Knowlton Township. From 2013 to 2016, eight certificates of occupancy were issued, while none
+were issued between 2017 and 2018. From 2019 to 2022, nine certificates of occupancy were issued.
+From 2023 to 2024, it is estimated that only 2 certificates were issued. Since 2013, a total of 15
+demolition permits were issued, which equates to a net development of 4 residential units.
+
+    Historic Trend of Residential Certificates of Occupancy & Demolition Permits (2013-2024)
+
+                                       '13    '14     '15    '16    '17     '18    '19    '20     '21    '22   '23   '24   Total
+
+ COs Issued                             1      2       2      3      0       0      3      2       2      2    0     2       19
+ Demolitions                            2      0       3      2      1       1      3      1       0      0    0     2       15
+
+ Net Development                        -1     2      -1      1      -1     -1      0      1       2      2    0     NR      4
+ Source: NJDCA, Construction Reporter - Housing Units Certified and Demolition Permits, Yearly Summary Data
+
+
+
+
+Projecting into the future for the Fourth Round period, the Township anticipates minimal residential
+development in continuation of the historic trends. Approximately one new unit every four years
+can be expected.
+
+
+
+
+                                                                                                                           Page 23
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 31 of 51 Trans ID: LCV20251862713
+
+
+
+
+VII. Capacity for Fair Share
+This chapter of the HEFSP provides the following information as required:
+
+•   The Township’s capacity to accommodate its housing needs.
+•   A consideration of the lands that are most appropriate for construction of low and moderate
+    income housing and of the existing structures most appropriate for conversion to, or
+    rehabilitation for, low and moderate income housing.
+•   Lands of developers who have expressed a commitment to provide low and moderate income
+    housing.
+•   The location and capacities of existing and proposed water and sewer lines and facilities relevant
+    to the proposed affordable housing sites.
+
+Land Capacity
+The ability to accommodate Knowlton Township’s present and prospective affordable housing needs
+is determined by three components – available land, water capacity and sewer capacity. Land
+development is limited by environmental constraints, such as wetlands, flood plains, easements
+(conservation, sewer, water, power utility, etc.), parcel size and municipal regulations.
+
+Knowlton Township conducted a vacant land analysis to identify vacant and developable properties
+remaining in the Township that may be suitable for affordable housing development. The study
+found that there are no developable lands within the sewer service area that could be developed
+with inclusionary housing projects to produce affordable housing.
+
+Due to the rural and environmentally sensitive nature of the Township, no other suitable lands have
+been identified as having a realistic development potential to provide affordable housing due to the
+lack of public water and wastewater services, as discussed below.
+
+Utility Capacity
+Wastewater
+The Knowlton Township Wastewater Management Plan was adopted by NJDEP on May 22, 2009.
+The Township subsequently prepared a Future Wastewater Service Area Map, pursuant to P.L.2011,
+c. 203, which was adopted by NJDEP on December 17, 2013. The Township submitted a draft WMP
+to NJDEP in May 2016, which has not yet been adopted.
+
+The Township of Knowlton is unique in that the sewer service areas within the Township are mainly
+onsite discharges to groundwater with their own permitted flows. There is a treatment plant on the
+western side of township named, “Knowlton Township Wastewater Treatment Plant (WTP)”. The
+wastewater facility was approved in 1999 to supply up to 100,000 GPD of capacity to be built in two
+phases of 50,000 GPD each and was built to serve Knowlton’s commercial/industrial development
+zone, which was experiencing failing septic systems at the pre-existing truck stop and adjacent food
+service businesses. The treatment plant discharges to ground water with a permitted flow of 0.14
+million gallons per day (MGD). The plant is intended to support the C-2 Commercial District and
+Planned Commercial Development along Interstate 80. The 2016 draft WMP indicates that the
+Knowlton WTP would need to expand to accommodate 2.06 MGD in additional wastewater flow that
+could result from potential commercial development at full build-out of the C-2 District. Residential
+uses are not permitted to connect to the Knowlton WTP.
+
+                                                                                              Page 24
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 32 of 51 Trans ID: LCV20251862713
+
+
+
+
+Other sewer service areas are onsite septic systems that discharge more than 2,000 gallons per day,
+regulated by the NJDEP under the New Jersey Pollution Discharge Elimination System (NJPDES).
+These onsite septic systems are for restaurants, schools, and campsites.
+
+The vast majority of properties in Knowlton Township, including many properties within the sewer
+service area, are served by on-site septic systems. Pursuant to the NJDEP Wastewater Management
+Planning Rules (N.J.A.C. 7:15), where individual subsurface sewage disposal systems will be utilized,
+the proposed development must not exceed the 2.0 mg/L nitrate planning standard. NJDEP
+estimates indicate that the residential density required to comply with the 2.0 mg/L standard in
+Knowlton Township would be between 4.7 and 4.9 acres per dwelling unit, depending on the
+watershed area in which the parcel is located. These densities are not suitable to support multi-
+family housing developments.
+
+Water
+There is no public water service in Knowlton Township. Properties are served by individual wells.
+
+
+
+
+                                                                                               Page 25
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 33 of 51 Trans ID: LCV20251862713
+
+
+
+
+                                                                       Page 26
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 34 of 51 Trans ID: LCV20251862713
+
+
+
+
+Appropriate Locations for Affordable Housing
+There are no vacant and developable properties within the sewer service area that could be suitable
+or appropriate for the construction of low- and moderate-income.
+
+Existing structures appropriate for conversion to affordable housing may include ranch-style homes,
+which may be cost effective to buy and convert to an alternative living arrangement. As for
+structures suitable for rehabilitation, according to the Rehabilitation Obligation, 100 homes within
+the Township are in need of a major system repair (e.g. roof, electric, plumbing, etc.).
+
+Potential Affordable Housing Developers
+No developers have expressed an interest to provide affordable housing in Knowlton Township.
+
+Anticipated Development Patterns
+Development patterns within Knowlton Township are anticipated to follow the established zoning.
+(See the Zoning Map below)
+
+
+
+
+                                                                                             Page 27
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 35 of 51 Trans ID: LCV20251862713
+
+
+
+
+                                                                       Page 28
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 36 of 51 Trans ID: LCV20251862713
+
+
+
+
+State Development & Redevelopment Plan Consistency
+P.L. 2024, c.2 amended the Fair Housing Act to include a new requirement for housing elements.
+NJSA 52:27D-310i. reads “An analysis of consistency with the State Development and Redevelopment
+Plan, including water, wastewater, stormwater, and multi-modal transportation based on guidance
+and technical assistance from the State Planning Commission.”
+
+The Draft State Development and Redevelopment Plan was approved by the State Planning
+Commission (“SPC”) on December 4, 2024, and was released on December 6, 2024. The Office of
+Planning Advocacy (“OPA”) conducted public hearings in each of New Jersey’s 21 Counties between
+February 12, 2025 and April 16, 2025. Municipalities are tasked with completing Cross-Acceptance
+Response Template forms to determine a municipality’s consistency with the Draft State Plan. The
+OPA anticipates collecting all Cross-Acceptance Response Template forms in the Summer of 2025.
+During this time, the OPA is accepting comments on the Draft Plan. The OPA anticipates releasing a
+Final Draft Plan and holding six additional public hearings in the Summer/Fall of 2025. The expected
+adoption of the Final Plan by the SPC is anticipated to be in the Winter of 2025.
+
+As the document is draft, the Township cannot opine on consistency until the final version is
+adopted. Knowlton Township has not received guidance from the State Planning Commission
+concerning water, wastewater, or multi-modal transportation.
+
+Multigenerational Family Continuity Evaluation
+P.L. 2024, c.2 amended various aspects of the Fair Housing Act. These amendments modified the
+mandatory components of a municipality’s housing element. NJSA 52:27D-310g. has been added,
+which states “An analysis of the extent to which municipal ordinances and other local factors
+advance or detract from the goal of preserving multigenerational family continuity as expressed in
+the recommendations of the Multigenerational Family Housing Continuity Commission, adopted
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c. 273 (C.52:27D-329.20)”
+
+P.L. 2021, c.273 took effect on November 8, 2021. The law established the Multigenerational Family
+Housing Continuity Commission, which consists of a body of nine members. The duties of the
+Commission include the preparation and adoption of recommendations on how State government,
+local government, community organizations, private entities, and community members may most
+effectively advance the goal of enabling senior citizens to reside at the homes of their extended
+families, thereby preserving and enhancing multigenerational family continuity, through the
+modification of State and local laws and policies in the areas of housing, land use planning, parking
+and streetscape planning, and other relevant areas. The Law requires the Commission to report
+annually to the Governor on its activities, findings, and recommendations, if any, for State and local
+government. The Department of Community Affairs (“DCA”) is required to provide staff services as
+may be needed for the Commission to carry out its responsibilities, including assembly of necessary
+information and statistics, and preparation of draft reports, analyses, and recommendations.
+
+The State of New Jersey’s website was reviewed on March 18, 2025. A search of the website
+revealed no webpage for the Multigenerational Family Housing Continuity Commission. As DCA is
+required to provide staff and research for the Commission, DCA’s website was reviewed on March
+18, 2025. DCA’s website is silent regarding the Commission, its annual required reports, studies,
+and/or recommendations. Without recommendations from the Commission, Knowlton Township is
+unable to conduct an analysis of its ordinances and other local factors. Despite the absence of
+
+
+                                                                                               Page 29
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 37 of 51 Trans ID: LCV20251862713
+
+
+
+
+recommendations, it should be noted that there is nothing in Knowlton Township’s zoning
+ordinance that prohibits senior citizens from residing at the home of their extended families.
+
+
+
+
+                                                                                                 Page 30
+     WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 38 of 51 Trans ID: LCV20251862713
+
+
+
+
+                  FAIR SHARE PLAN
+VIII. Required Content of Fair Share Plan
+The Fair Share Plan contains the following information:
+
+     ▪    Description of existing credits intended to satisfy the obligation;
+     ▪    Description of mechanisms that will be used to meet any outstanding obligation; and
+     ▪    An implementation schedule that sets forth a detailed timetable for units to be provided.
+
+In adopting its housing element, a municipality may provide for its fair share of low- and moderate-
+income housing by means of any technique or combination of techniques that provide a realistic
+opportunity for the provision of the fair share. As per N.J.A.C. 5:93, these potential techniques
+include but are not limited to:
+
+     ▪    Rehabilitation of existing substandard housing units;
+     ▪    ECHO units (as a Rehabilitation credit);
+     ▪    Municipally-sponsored and 100% affordable developments;
+     ▪    Zoning for inclusionary development;
+     ▪    Alternative living arrangements;
+     ▪    Accessory apartment program;
+     ▪    Purchase of existing homes;
+     ▪    Write-down/buy-down programs; and
+     ▪    Assisted living residences.
+
+Regional Income Limits
+Dwelling units are affordable to low and moderate income households if the maximum sales price
+or rental cost is within their ability to pay such costs, based on a specific formula. The State
+historically provided income limits based upon the median gross household income of the
+affordable housing region in which the household is located. A moderate income household is one
+with a gross household income equal to or more than 50 percent, but less than 80 percent, of the
+median gross regional household income. A low income household is one with a gross household
+income equal to 50 percent or less of the median gross regional household income. Very-low
+income households are those with a gross household income equal to 30 percent or less of the
+median gross household income. Knowlton Township is located in Region 2, which contains Essex,
+Morris, Union, and Warren Counties.
+
+Using the Affordable Housing Professionals of New Jersey’s latest chart on the regional income limits
+for Housing Region 2 in 2024, a four-person moderate income household is capped at $103,533.
+Two-person moderate income households are capped at $82,826, while two-person households
+could make up to $51,766 to be considered a low-income household. The table on the following
+page provides the median, moderate, low, and very-low income limits for one-, two-, three-, and
+four-person households in Region 2.3
+
+
+3
+  In October 2018, Judge Miller signed a vicinage wide income limits order applying to all of the 60 or so municipalities with
+cases in Somerset, Hunterdon, and Warren Counties. All of these municipalities can now utilize the most current income
+limits available as it applies both to towns that have settled and those that have not and reserves all rights on the
+methodology.
+
+                                                                                                                        Page 31
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 39 of 51 Trans ID: LCV20251862713
+
+
+
+
+                            2024 Regional Income Limits (Region 2)
+                                                            Household Size
+              Income
+                                     1 Person          2 Person           3 Person   4 Person
+     Median                          $90,591           $103,533           $116,475   $129,416
+     Moderate                        $72,473            $82,826           $93,180    $103,533
+     Low                             $45,296            $51,766           $58,237    $64,708
+     Very-Low                        $27,177            $31,060           $34,942    $38,825
+     Source: https://ahpnj.org/member_docs/Income_Limits_2024_FINAL.pdf
+
+
+
+
+                                                                                                Page 32
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 40 of 51 Trans ID: LCV20251862713
+
+
+
+
+IX. Affordable Housing Obligation
+This chapter outlines the four-part affordable housing obligation Knowlton has been assigned.
+
+Present Need (Rehabilitation Obligation) | 4 units
+Knowlton Township accepted DCA’s rehabilitation obligation of 4 units for the Fourth Round.
+
+Prior Round Obligation | 14 units
+The Mount Laurel IV Supreme Court decision directed municipalities to use the Prior Round
+Obligation that COAH established in 1993, which was 14 units for Knowlton Township.
+
+Third Round Obligation | 32 units
+In accordance with the Settlement Agreement with the Fair Share Housing Center, Knowlton
+Township has a Third Round Obligation of 32 affordable units to be addressed. This obligation was
+calculated by David N. Kinsey, PhD, FAICP, P.P. in his July 22, 2016 report “New Jersey Fair Share
+Housing Obligations for 1999-2025 (Third Round) Under Mount Laurel IV,” prepared on behalf of the
+FSHC.
+
+Fourth Round Obligation | 32 units
+As indicated in the March 25, 2025 Court Order setting the Fourth Round obligations, Knowlton
+Township’s Fourth Round prospective need obligation is 32 units.
+
+
+
+
+                                                                                              Page 33
+     WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 41 of 51 Trans ID: LCV20251862713
+
+
+
+
+X.      Mechanisms & Credits
+This chapter provides the existing and proposed mechanisms and credits for each of the four
+affordable housing obligations.
+
+Rehabilitation Credits
+Rehabilitation must occur within the affordable housing round to count for credit. Since the Fourth
+Round period has not commenced, there are no existing units from WCHRP eligible for credits
+during the 2025 to 2035 period.
+
+1. Warren County Housing Rehabilitation Program (“WCHRP”)
+Warren County has a Housing Rehabilitation Program (“WCHRP”) for qualified low and moderate-
+income households that gives homeowners money to fix major systems (such as roofs, heating,
+structural, well, septic, etc.) of their home. In return for the rehabilitation money, the house must have
+a lien with 99-year affordability controls placed on the property. Knowlton Township has historically
+participated in the WCHRP, and the Township also has its own rehabilitation program funded through
+a Small Cities grant.
+
+Knowlton Township intends to continue to encourage residents to utilize the existing Warren County
+Housing Program to rehabilitate homes.
+
+In the case of a shortfall of funds for rehabilitation, Knowlton Township will apply for a Small
+Cities/CBDG Grant, available through the NJ Department of Community Affairs. The grant’s purpose
+is to rehabilitate homes and encourage the construction of affordable housing. Other eligible costs
+include activities that support an affordable housing development, such as site assemblage,
+engineering, infrastructure improvements, and utilities hook ups.
+
+2. Knowlton Township Housing Rehabilitation Program
+The Township currently has an active rehabilitation program funded through a Small Cities grant.
+Through this program and continued partnership in the Warren County program, the Township will
+meet its remaining 4-unit obligation. The rehabilitation program is administered in accordance with
+NJAC 5:94-4.3.
+
+Prior Round Credits
+The Township proposes to address its 14-unit Prior Round obligation through the application of
+existing credits. All of the Prior Round credits are non-age restricted rental units as shown in the table
+below:
+
+                                        PRIOR ROUND CREDITS
+      Project Name            Year       Type of      # Units /            Bonus      Bonus      Total
+      /Development                      Affordable    Bedrooms              Type      Credits   Credits
+                                           Unit
+    Fred Bauer Apts.          2006     Family Rental     4                 Rental        4          8
+  116 Hainesburg Road
+  ARC of Warren County        2007    S/SN Housing              6                        0          6
+                                             Totals            10                        4         14
+
+
+                                                                                                  Page 34
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 42 of 51 Trans ID: LCV20251862713
+
+
+
+
+Third Round Credits
+Knowlton Township plans to address its 32-unit Third Round obligation with a total of 24 units and 8
+rental bonuses. The units include 9 proposed market-to-affordable units, 1 existing 100% affordable
+rental unit at 60 Knowlton Road, 6 units from a gut rehabilitation project, and 8 units through an
+accessory apartment program.
+
+Existing Credits
+1. 60 Knowlton Road:
+A municipally sponsored single (1) rental unit available to families, with 10-year affordability controls
+becoming initially effective on April 4, 2003.
+
+Proposed Credits
+2. Market-to-Affordable Program:
+The Township proposes to create a total of nine (9) units through its market to affordable program.
+This program was approved by COAH for 10 units through its certification of the Township’s 2008
+Third Round Plan. The Township must complete the agreements with the owners prior to securing
+credit for these specific units. The sites proposed for this program include:
+
+    •   8 Clinton Street: Proposed in the Settlement Agreement for four (4) units. The site was also
+        identified in the 2008 HEFSP as a candidate for the market-to-affordable program.
+
+    •   468 Route 94: Proposed in the Settlement Agreement as a one (1) unit market-to-
+        affordable site. It was not previously identified in the 2008 HEFSP.
+
+    •   Conversion Apartments in the VR Zone: The Township intends to permit the creation of
+        dwelling units within already existing structures. The Township will utilize the market-to-
+        affordable program to fulfill the remaining four (4) credits.
+
+3. Gut Rehabilitation Program:
+The Township proposes to create 6 new family-rental units through continued operation of its
+municipal gut-rehabilitation program.
+
+4. Accessory Apartment Program:
+The Township proposes to continue to operate its accessory apartment program to create 8
+affordable accessory apartment units. The program was proposed in the COAH-certified 2008
+HEFSP.
+
+
+
+
+                                                                                                 Page 35
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 43 of 51 Trans ID: LCV20251862713
+
+
+
+
+                                      THIRD ROUND MECHANISMS
+
+ Project                                  Type                     Status       Units   Bonus     Total
+
+ 60 Knowlton Road – Family Rental         100% Affordable          Existing       1        1        2
+ Gut Rehabilitation – Family Rental       Gut Rehabilitation       Proposed       6        2        8
+ 468 Route 94 – Family Rental             Market to Affordable     Proposed       1        1        2
+ 8 Clinton Street – Family Rental         Market to Affordable     Proposed       4        4        8
+ VR Conversions                           Market to Affordable     Proposed       4        0        4
+ Accessory Apartments – Family            Accessory                Proposed       8        0        8
+ Rental                                   Apartments
+                                                                      TOTAL       24       8       32
+
+
+Fourth Round Mechanisms & Credits
+The Township of Knowlton does not have any existing or proposed mechanism that would provide a
+realistic opportunity to produce affordable housing units during the Fourth Round period from 2025
+to 2035.
+
+Durational Adjustment – Lack of Water and Sewer
+The Amended Fair Housing Act (N.J.S.A. 52:27D-307(c)(2)g), and COAH’s Second Round rules (N.J.A.C.
+5:93-4.3) permit a municipality to seek a “Durational Adjustment” to have all or part of its affordable
+housing obligation deferred if it can demonstrate a lack of appropriate water or sewer infrastructure
+to serve the new housing units that would be required.
+
+As discussed in Chapter VII, the Township is a rural community with very low density development
+patterns and no public utility infrastructure. There is a small sewer service area serving the
+commercial development at the I-80 interchange. Otherwise, the only option is to treat wastewater
+on site either through subsurface septic disposal systems or through NJPDES permits to discharge to
+groundwater greater than 2,000 GPD. There is also no public water system in Knowlton Township.
+
+As discussed in greater detail in Chapter X, Knowlton Township only has 14 existing credits towards
+the Prior Round obligation and 1 existing credit towards the Third Round obligation, for a total of 15
+existing credits. The Township planned to meet the remainder of the Third Round obligation with a
+proposed market-to-affordable program, a gut rehabilitation program, and an accessory apartment
+program. However, to date, none of those programs have yielded any credits. Therefore, the
+Township of Knowlton has 15 units of credit available to apply to its cumulative Prospective Need
+obligation of 78 units (14 Prior Round + 32 Third Round + 32 Fourth Round = 78). The remaining 63
+units remain unanswered at this time.
+
+As permitted by N.J.A.C. 5:93-4.3, when a community has sufficient land, but insufficient water
+and/or sewer to support inclusionary development, each possible site for inclusionary development
+shall be reviewed to determine if it is realistic for the site to receive the required water and/or sewer
+during the period of substantive certification. If a site is likely to receive water and/or sewer during
+the period of substantive certification, it shall be required to be rezoned for inclusionary
+development. Any site that is unlikely to receive water and/or sewer during the period of substantive
+certification, shall not require inclusionary zoning, but may require overlay zoning requiring
+inclusionary development (if water and sewer become available) and/or the imposition of a
+
+                                                                                                 Page 36
+    WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 44 of 51 Trans ID: LCV20251862713
+
+
+
+
+development fee consistent with N.J.A.C. 5:93-8. Since Knowlton Township does not have a regional
+water system or wastewater treatment plant suitable or capable of servicing an affordable housing
+development, the Township does not believe there are any sites that would realistically receive
+public water and sewer services within the Fourth Round period.
+
+The lack of adequate capacity, in and of itself, shall constitute a durational adjustment of the
+municipal housing obligation. The requirement to address the municipal housing obligation shall be
+deferred until adequate water and/or sewer are made available. In order to provide water and/or
+sewer on sites that are realistic for inclusionary development, Knowlton Township agrees to adhere
+to the following:
+
+1. Notwithstanding the lack of adequate water and/or sewer at the time a municipality petitions for
+   substantive certification, the municipality shall reserve and set aside new water and/or sewer
+   capacity, when it becomes available, for low and moderate income housing, on a priority basis.
+
+2. Municipal officials shall endorse all applications to the DEP or its agent to provide water and/or
+   sewer capacity.
+
+3. Where the DEP or its designated agent approves a proposal to provide infrastructure to a site for
+   the development of low and moderate income housing identified in the housing element, the
+   municipality shall permit such development.
+
+4. Where a municipality has designated sites for low and moderate income housing that lack
+   adequate water and/or sewer and where the DEP or its designated agent approves a proposal to
+   provide water and/or sewer to a site other than those designated for the development of low
+   and moderate income housing in the housing element, the municipality shall amend its Housing
+   Element & Fair Share Housing Ordinance to permit development of such site for low- and
+   moderate-income housing. The amended ordinance shall be submitted to the DCA and/or the
+   Court within 90 days of the site’s approval by the DEP. These requirements may be waived when
+   it determines that the municipality has a plan that will provide water and/or sewer to sufficient
+   sites to address the municipal housing obligation within the substantive certification period.
+
+In conclusion, the Township currently has a lack of public sanitary sewer and water infrastructure to
+create a realistic opportunity for the development of affordable housing. With a total of 15 existing
+credits and bonuses available towards the cumulative Prospective Need obligation of 78 units
+Knowlton Township is seeking Court approval for a durational adjustment of its remaining
+cumulative Prospective Need obligation of 63 units.
+
+
+
+
+                                                                                               Page 37
+  WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 45 of 51 Trans ID: LCV20251862713
+
+
+
+
+XI. Appendix
+
+
+
+
+                                                                         Page 38
+WRN-L-000052-25
+      WRN-L-000052-25
+                06/26/2025
+                       03/25/2025
+                           3:20:01 PM
+                                    Pg 1Pg
+                                         of 3  Trans
+                                            46 of 51 ID: LCV2025923990
+                                                      Trans ID: LCV20251862713
+
+
+
+
+                                                   March 25, 2025
+WRN-L-000052-25
+      WRN-L-000052-25
+                06/26/2025
+                       03/25/2025
+                           3:20:01 PM
+                                    Pg 2Pg
+                                         of 3  Trans
+                                            47 of 51 ID: LCV2025923990
+                                                      Trans ID: LCV20251862713
+WRN-L-000052-25
+      WRN-L-000052-25
+                06/26/2025
+                       03/25/2025
+                           3:20:01 PM
+                                    Pg 3Pg
+                                         of 3  Trans
+                                            48 of 51 ID: LCV2025923990
+                                                      Trans ID: LCV20251862713
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 49 of 51 Trans ID: LCV20251862713
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 50 of 51 Trans ID: LCV20251862713
+WRN-L-000052-25 06/26/2025 3:20:01 PM Pg 51 of 51 Trans ID: LCV20251862713
+

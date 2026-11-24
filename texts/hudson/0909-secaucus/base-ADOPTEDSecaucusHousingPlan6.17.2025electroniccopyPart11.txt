@@ -1,0 +1,3336 @@
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 1 of 71 Trans ID: LCV20251810687
+
+
+
+
+         Housing Element and Fair Share Plan
+
+                                             Town of Secaucus
+                                     Hudson County, New Jersey
+
+
+
+
+                                                            June 17, 2025
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 2 of 71 Trans ID: LCV20251810687
+
+
+
+
+            Housing Element and Fair Share Plan
+
+
+
+                       Planning Board
+                     Town of Secaucus
+                  Hudson County, New Jersey
+
+
+
+
+                                   June 17, 2025
+
+
+
+
+                                      Prepared by:
+
+
+                         _____________________________
+                           Brian M. Slaugh, PP, AICP
+                         New Jersey Professional Planner License 3743
+
+
+                                    With the assistance of
+                             Isabel Rodriguez, PP, AICP
+                         New Jersey Professional Planner License 6554
+
+
+                           CLARKE CATON HINTZ, PC
+                               100 Barrack Street
+                           Trenton, New Jersey 08608
+                                 (609) 883-8383
+
+               A signed and sealed original is on file with the Town Clerk
+
+
+
+
+                                                                             Page | ii
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 3 of 71 Trans ID: LCV20251810687
+
+
+
+
+                             Town Council
+                          Michael Gonnelli, Mayor
+                John Gerbasio, Council Member, First Ward
+              Robert Costantino, Council Member, First Ward
+               James Clancy, Council Member, Second Ward
+               Mark Dehnert, Council Member, Second Ward
+               Orietta Tringali, Council Member, Third Ward
+              William KcKeever, Council Member, Third Ward
+
+                    Gary Jeffas, Esq., Town Administrator
+                       Michael Marra, RMC, Town Clerk
+                     Julia Peschetti, Esq., Town Attorney
+      Special Counsel for Affordable Housing, Cindy Nan Vogelman, Esq.
+
+
+
+                        Town Planning Board
+
+                      Chair Thomas Flanagan, Class IV
+                     Vice Chair Richard Santos, Class IV
+                       Hon. Michael Gonnelli, Class I
+                        Hon. John Gerbasio, Class III
+                          Carl Leppin, III, Class II
+                           Joseph Pagano, Class IV
+                            Doug DePice, Class IV
+                       Alexandra Landolfo, Alternate I
+                        Patricia Gercich, Alternate II
+
+                Maryam Eldesouki, Planning Board Secretary
+             Cindy Nan Vogelman, Esq., Planning Board Attorney
+
+
+
+
+                                                                         Page | iii
+  HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 4 of 71 Trans ID: LCV20251810687
+
+
+
+
+                                               Table of Contents
+
+Executive Summary ............................................................................................................. 1
+ Affordable Housing Obligations of Secaucus ................................................................. 1
+Introduction ........................................................................................................................ 2
+Brief history and Regional Location ................................................................................... 2
+Affordable Housing Judicial and Legislative Background..................................................3
+  COAH’s First and Second Rounds (1987-1999) ............................................................. 4
+  COAH’s Third Round and Related Judicial and Legislative Activity, (1999-2025) ........ 4
+  Third Round Judicial Activity ............................................................................................ 5
+  Third Round Legislative Activity ...................................................................................... 6
+  The Fourth Round (2025-2035) ....................................................................................... 7
+Town of Secaucus’ Affordable Housing History ............................................................... 8
+ First and Second Round Plans ........................................................................................ 8
+  2005 Third Round Plan.................................................................................................... 9
+  2008 Third Round Plan ................................................................................................... 9
+  2017 Amended Third Round Plan ................................................................................... 9
+  2025 Fourth Round Plan.................................................................................................10
+Housing Element and Fair Share Plan Requirements .....................................................10
+Affordability Requirements ............................................................................................... 14
+    Table 1. 2024 Income Limits for Region 1 ..................................................................... 15
+      Table 2. Illustrative 2024 Affordable Rents for Region 1 ................................................ 15
+      Table 3. Illustrative 2024 Affordable Sales Prices for Region 1....................................... 15
+Housing Conditions .......................................................................................................... 15
+   Table 4. Housing Units in Structure and Tenure of Occupant, 2023 ............................ 16
+      Table 5. Housing Units by Age, 2023 ............................................................................ 16
+      Table 6. Number of Bedrooms per Housing Unit, 2023 ............................................... 17
+      Table 7. Value of Owner-Occupied Housing Units, 2013 and 2023 ............................... 17
+      Table 8. Gross Rent by Housing Unit in Secaucus and Hudson County, 2023 ............. 18
+      Table 9. Housing Affordability, 2023 ............................................................................ 19
+      Table 10. Indicators of Housing Deficiency, 2023 ......................................................... 19
+Population Characteristics ................................................................................................19
+   Table 11. Population Change 1950 to 2023, Secaucus and Hudson County ..................20
+
+
+                                                                                                                           Page | iv
+  HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 5 of 71 Trans ID: LCV20251810687
+
+
+
+
+      Table 12. Age of Population, 2013 to 2023 .................................................................... 21
+Household Characteristics............................................................................................... 22
+   Table 13. Household Size of Occupied Units, Secaucus, 2023 ...................................... 22
+      Table 14. Household Composition, 2023 ..................................................................... 23
+      Table 15. Unit Size vs. Household Size, 2023................................................................ 23
+Income Characteristics..................................................................................................... 24
+    Table 16. Household Income, Secaucus and Hudson County, 2023 ............................. 24
+      Table 17. Individual and Family Poverty Rates, 2023 .................................................... 25
+Employment Characteristics ............................................................................................. 25
+   Table 18. Employed Residents by Industry Sector, 2023 ................................................ 25
+Population Projections ..................................................................................................... 26
+   Table 19. Population, Household, and Employment Projections, 2020 to 2050 .......... 26
+      Table 20. Housing Projections to 2035 ......................................................................... 27
+Consideration of Land for Affordable Housing ................................................................27
+   Map 1. Secaucus Environmental Constraints .............................................................. 29
+Fair Share Plan ................................................................................................................ 30
+ Introduction ................................................................................................................... 30
+  Secaucus’s Affordable Housing Obligations................................................................. 31
+      Table 21. Secaucus Affordable Housing Obligations for the 4th & Earlier Rounds ......... 31
+  Present Need Obligation ................................................................................................ 31
+  Prior Round Obligation .................................................................................................. 31
+  Third Round Prospective Obligation ............................................................................. 32
+  Fourth Round Prospective Obligation ........................................................................... 32
+Secaucus’ Means of Addressing its Affordable Housing Obligations ............................ 32
+ Satisfaction of the Rehabilitation Obligation ................................................................ 32
+Prior Round Obligation .................................................................................................... 36
+    Table 22. Formulas Applicable to the Prior Round Obligation ....................................36
+      Table 23. Satisfaction of the Prior Round Obligation .................................................. 37
+      Map 2. Affordable Housing Sites................................................................................. 38
+  Rocco Impreveduto Tower – 100% Age-Restricted Rental Housing ........................... 39
+  Kroll Heights – 100% Age-Restricted Rental Housing................................................. 39
+  160 County Avenue – 100% Family Rental Housing ................................................... 39
+  Riverside Court – Inclusionary For-Sale Family Housing ............................................ 40
+  XChange – Inclusionary Family Rental Housing .......................................................... 40
+
+                                                                                                                         Page | v
+  HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 6 of 71 Trans ID: LCV20251810687
+
+
+
+
+Third Round Obligation ....................................................................................................43
+ Third Round Vacant Land Analysis and Realistic Development Potential ...................43
+      Table 24. Third Round Adjusted RDP...........................................................................44
+  Formulas Applicable to the Third Round ......................................................................45
+      Table 25. Formulas Applicable to the Third Round Obligation..................................... 45
+  Satisfaction of the Third Round RDP ............................................................................ 46
+      Table 26. Satisfaction of the Third Round Adjusted RDP ............................................ 46
+  100 Park Plaza Drive – Inclusionary Family Rental Housing ....................................... 47
+  XChange – Inclusionary Family and Age-Restricted Rental Housing .......................... 47
+  Hudson Milestones – 100% Age-Restricted Rental Housing...................................... 47
+  Kroll Heights – 100% Age-Restricted Rental Housing................................................. 47
+Third Round Unmet Need Mechanisms ......................................................................... 48
+ NJSEA Interim Policies .................................................................................................. 48
+  Secaucus Junction Train Station ................................................................................... 50
+  Transit Village – Transition Area ................................................................................... 50
+  Boulevard Tire – removed .............................................................................................. 50
+  Development Fee ........................................................................................................... 50
+  Mandatory Affordable Housing Set-Aside .................................................................... 50
+Satisfaction of the Fourth Round Obligation ................................................................... 51
+ Vacant Land Analysis and Realistic Development Potential......................................... 51
+Fourth Round Unmet Need Mechanisms ........................................................................ 51
+Very Low Income Units ..................................................................................................... 51
+    Table 27. Very Low-Income Units Approved and Constructed or To Be Constructed
+    since July 17, 2008 ........................................................................................................ 52
+Income and Bedroom Distribution ................................................................................... 52
+    Table 28. Income and Bedroom Distribution, Family Units, All Rounds ...................... 52
+Cost Generation................................................................................................................. 53
+Monitoring ......................................................................................................................... 53
+Affordable Housing Ordinance and Affirmative Marketing ............................................54
+Development Fee Ordinance ............................................................................................56
+Spending Plan....................................................................................................................56
+Multigenerational Family Housing Continuity................................................................. 57
+State Development and Redevelopment Plan .................................................................. 57
+Summary............................................................................................................................ 58
+
+
+                                                                                                                           Page | vi
+ HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 7 of 71 Trans ID: LCV20251810687
+
+
+
+
+Appendix A:   June 15, 2017 Court Order Approving the Settlement Agreement and
+              Executed Settlement Agreement between the Town of Secaucus and Fair
+              Share Housing Center (excluding exhibits)
+Appendix B:   December 18, 2017 Third Round Court Order Granting the Town a
+              Judgment of Third Round Compliance and Repose (JOR)
+Appendix C:   Declaratory Judgment of the Town’s Fourth Round Obligation and
+              Binding Resolution
+Appendix D: Order Confirming Secaucus’ Fourth Round Obligations
+Appendix E:   Fourth Round Resolutions of Adoption, Endorsement
+Appendix F:   Vacant Land Analysis Map and Tables
+Appendix G: Policy and Procedure Manual for the Housing Rehabilitation Program,
+            adopted on January 20, 2000; Rehabilitation Documentation
+Appendix H: The Harper at Harmon Meadow Apartments (100 Park Plaza Dr)
+            Crediting Documentation
+Appendix I:   XChange at Secaucus Junction Crediting Documentation
+Appendix J:   Spending Plan
+Appendix K:   Preliminary Affirmative Marketing Plan
+Appendix L:   Existing Land Use Map of the Town of Secaucus
+Appendix M: Secaucus Junction Transit Village Redevelopment Plan and Concept
+            Plan
+Appendix N: Chapter 135, Zoning Ordinance Amendment
+Appendix O: Chapter 19, Land Use Procedures Ordinance Amendments
+Appendix P:   Development Fee Ordinance, §§19-70 through -82 of the Secaucus Code
+
+
+
+
+                                                                          Page | vii
+ HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 8 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                  June 17, 2025
+
+
+EXECUTIVE SUMMARY
+The Housing Element and Fair Share Plan for the Town of Secaucus, Hudson
+County, addresses its constitutional obligation to provide for affordable housing
+under the mandate of the Mount Laurel Doctrine established by the New Jersey
+Supreme Court beginning in 1975 and addressed legislatively in the New Jersey Fair
+Housing Act of 1985. 1 Together, the Housing Element and Fair Share Plan
+constitute the affordable housing plan for the Town of Secaucus. The Housing
+Element is a component of the Town’s Master Plan for development and
+redevelopment, and the Fair Share Plan constitutes the means and documents
+designed to implement the Housing Element. Together, the two major divisions are
+called the “housing plan” in this document.
+
+There are four components to a municipality’s affordable housing obligation: (1) the
+Present Need or Rehabilitation share, (2) the Prior Round obligation or the
+recalculated First and Second Round obligation, (3) the Third Round obligation which
+covers both the Gap Present Need (1999-2015) and Future Need for the period
+covering July 1, 2015 through June 30, 2025, and (4) the Fourth Round prospective
+Need obligation for the period covering July 1, 2025 through June 30, 2035.
+
+Affordable Housing Obligations of Secaucus
+
+For the Third and Prior Round Obligations, the Town entered into a Settlement
+Agreement with Fair Share Housing Center, Inc. (“FSHC”) on June 15, 2017. The
+Town adopted its Third Round Housing Element and Fair Share Plan (“HEFSP”) on
+September 25, 2017, endorsed by the Town Council on September 28, 2017. The
+Town’s Third Round HEFSP was approved by the Superior Court in a Judgment of
+Compliance and Repose (“JOR”) issued on December 18, 2017. The Town’s court-
+approved Prospective Need obligations through The Third Round are as follows:
+
+      x   Prior Round obligation of 590 units; and
+      x   A Third Round Prospective Need obligation encompassing both the Gap
+          Present Need and Prospective Need of 1,266 units.
+
+The Town’s Third Round obligation was determined to be composed of a Realistic
+Development Potential (RDP) of 194 units and an Unmet Need of 1,072 units. Due to
+changed circumstances after the completion of the Third Round HEFSP, the Town
+has increased its Third Round RDP to 294 units and reduced its Unmet Need to 972
+units.
+
+For the Fourth Round, the Town accepted the obligations calculated by the NJ
+Department of Community Affairs (DCA) with a Present Need of 25 units and a
+Prospective Need of 1,282 units, capped at 1,000 units. The Town has determined it
+has a Fourth Round RDP of 0 units and an Unmet Need of 1,000 units.
+
+
+1-   N.J.S.A. 52:27D-301 et seq.
+
+
+                                                                             Page | 1
+ HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 9 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                    June 17, 2025
+
+
+INTRODUCTION
+The proposed Fourth Round HEFSP was prepared in accordance with N.J.S.A.
+40:55D-28(b)(3) of the Municipal Land Use Law (MLUL) and the mandatory
+requirements of a Housing Element under the recently amended New Jersey Fair
+Housing Act 2, relevant regulations of the New Jersey Council On Affordable Housing
+(COAH), and the Administrative Office of the Courts Directive #14-24. The Fourth
+Round Housing Element and Fair Share Plan also delineates the actions taken, and
+to be taken, by the Town to satisfy its affordable housing responsibilities under
+applicable laws. This Fourth Round Housing Element and Fair Share Plan will be
+submitted to the Affordable Housing Dispute Resolution Program and subsequently
+to Superior Court for a determination as to its compliance with the requirements.
+
+As noted, a municipality’s Fourth Round affordable housing obligation has two
+components: (1) Present Need (Rehabilitation Share); and (2) Prospective Need.
+Pursuant to the amended FHA, the New Jersey Department of Community Affairs
+(DCA) calculated these obligations on an advisory basis for all municipalities.
+Municipalities were able to either elect to accept the DCA’s calculated obligations or
+to perform their own calculations based on the revised law. However, Secaucus Town
+decided to accept the DCA’s numbers, and its Town Council adopted Resolution
+#2025-32 (Appendix C) on January 30, 2025, accepting a Fourth Round Present Need
+of 25 units and a Prospective Need of 1,282 units, capped at 1,000 units. On January
+30, 2025, the Town also filed its Fourth Round Declaratory Judgment Action (“DJ
+Action”) with the Program/Superior Court, pursuant to the requirements of the
+amended FHA and the Administrative Directive #14-24. Thereafter, on April 23,
+2025, the Superior Court issued an Order accepting the Town’s Fourth Round
+Present Need/Prospective Need (see Appendix D) and directing the municipality to
+file this document.
+
+As part of this Fourth Round HEFSP, the Town has conducted an updated Vacant
+Land Analysis (VLA) that has adjusted the Town’s Third Round Prospective Need of
+1,266 units to a Third Round RDP 294 and an Unmet Need of 972 units. The
+updated VLA has also reduced the Town’s Fourth Round Prospective Need obligation
+(2025-2035) of 1,000 units to a Fourth Round RDP of zero and a Fourth Round
+Unmet Need of 1,000.
+
+BRIEF HISTORY AND REGIONAL LOCATION
+While originally part of North Bergen Township, in 1900, Secaucus became the last
+municipality to be created by succession in Hudson County. Until the arrival of
+railroads starting in the late 1830’s and early 1840’s, Hudson County remained
+largely agrarian. Secaucus remained largely agricultural (with a predominate focus on
+the raising of swine) until the construction of the New Jersey Turnpike in 1951 made
+the Town more accessible and promoted suburban residential development on higher
+
+2-   P.L. 2024, c.2
+
+
+                                                                               Page | 2
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 10 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                  June 17, 2025
+
+
+elevations in the center of the municipality. The creation of the Hackensack
+Meadowlands Development Commission (NJMC) in 1968 and the promulgation of
+regional land development controls in 1970 laid the foundation for the emergence of
+Secaucus as a distribution center for the New York City metropolitan area,
+particularly for the garment industry. In turn, retail outlets for excess merchandise
+were developed as Secaucus became one of the first “outlet centers.” Though the
+outlet center retail format has waned in Secaucus, it remains an employment center
+in the region with a diverse mix of industries including warehousing and
+distribution, broadcasting, retail, professional and business services, and tourism.
+
+In 2004, NJMC adopted a revised master plan for development, the first
+comprehensive overhaul since its initial master plan in 1969, and has regularly
+updated it since that time, with the latest update adopted in 2020. In February 2015,
+the NJMC merged with the New Jersey Sports and Exposition Authority (“NJSEA”).
+As a result of this merger, legislation was passed which allows municipalities to take
+over review of land-use applications within their jurisdiction. Secaucus has passed an
+ordinance to take over this control. The re-assumption of such control requires that
+the Town also adopt the NJSEA’s master plan, zoning regulations, and
+redevelopment plans – including its affordable housing policies. The former NJMC’s
+response to affordable housing has focused on the creation of affordable units
+through inclusionary zoning in many of the zoning districts that it has created under
+its jurisdiction. Through petition to the NJSEA, a developer may propose
+inclusionary development. Staff undertake a site suitability analysis and if found to
+be suitable, make a favorable recommendation to approve such development.
+Redevelopment also comes into play where the agency contemplates multi-family
+redevelopment of site. Thus under the NJSEA’s policies, there is a large component
+of Secaucus’ land area that is subject to mandatory capture of at least 20% of all
+dwelling units as affordable housing.
+
+The Town of Secaucus is located in northwestern Hudson County, along the eastern
+spur of the New Jersey Turnpike approximately 8.5 miles from the center of
+Manhattan, New York City and 9 miles from Newark, New Jersey. It is approximately
+6.6 square miles in area and had a population of 22,181 people in 2020. The 36.4%
+increase in population from 2010 to 2020 represents the third largest population
+growth in Hudson County. Both Harrison (42.8%) and Weehawken (37.0%) had
+similar percentage increases. Secaucus has the seventh largest population among
+municipalities in Hudson County.
+
+AFFORDABLE HOUSING JUDICIAL AND LEGISLATIVE BACKGROUND
+
+In the 1975 Mount Laurel 3 decision, the New Jersey Supreme Court ruled that
+developing municipalities have a constitutional obligation to provide diversity and
+choice in the housing types permitted in the municipality, including housing for low-
+
+
+3-   Southern Burlington County NAACP v. Township of Mount Laurel, 67 N.J. 151 (1975)
+
+
+                                                                                             Page | 3
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 11 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                 June 17, 2025
+
+
+and moderate-income households. In its 1983 Mount Laurel II decision, 4 the NJ
+Supreme Court extended to all municipalities with any “growth area” as designated
+in the State Development Guide Plan (now superseded by the State Development and
+Redevelopment Plan, or SDRP) the obligation to provide their “fair share” of a
+calculated regional need for affordable units. Mount Laurel II also introduced a
+“builder’s remedy” if a municipality was not providing its fair share of affordable
+housing. A builder’s remedy may permit a developer that is successful in litigation
+the right to develop what is typically a higher density multifamily project on land not
+zoned to permit such use, so long as a “substantial” percentage of the proposed units
+would be reserved for low- and moderate-income households.
+
+In 1985, in response to Mount Laurel II, the New Jersey Legislature enacted the Fair
+Housing Act (“FHA”). 5 The FHA created the Council on Affordable Housing
+(“COAH”) as an administrative body responsible for oversight of municipalities’
+affordable housing efforts, rather than having oversight go through the courts. The
+Legislature charged COAH with promulgating regulations (i) to establish housing
+regions; (ii) to estimate low- and moderate-income housing needs; (iii) to set criteria
+and guidelines for municipalities to use in determining and addressing their fair
+share obligations, and (iv) to create a process for the review and approval of
+municipal housing elements and fair share plans.
+
+COAH’s First and Second Rounds (1987-1999)
+
+COAH created the criteria and regulations for municipalities to address their
+affordable housing obligations. COAH originally established a methodology for
+determining municipal affordable housing obligations for the six-year period between
+1987 and 1993, 6 which period became known as the First Round. This methodology
+established an existing need to address substandard housing that was being occupied
+by low- and moderate-income households (variously known as “present need” or
+“rehabilitation share”), and calculated future demand, to be satisfied typically, but not
+exclusively, with new construction (“prospective need” or “fair share”).
+
+The First Round methodology was superseded in 1994 by COAH’s Second Round
+regulations. 7 The 1994 regulations recalculated a portion of the 1987-1993 affordable
+housing obligations for each municipality and computed the additional municipal
+affordable housing need from 1993 to 1999 using 1990 census data. These
+regulations identified a municipality’s cumulative obligations for the First and
+Second Rounds. Under regulations adopted for the Third Round, a municipality’s
+obligation to provide affordable housing for the First and Second Rounds is referred
+to cumulatively as the Prior Round obligation.
+
+COAH’s Third Round and Related Judicial and Legislative Activity, (1999-2025)
+
+4-  Southern Burlington County NAACP v. Township of Mount Laurel, 92 N.J. 158 (1983)
+5-  N.J.S.A. 52:27D-301 et seq.
+6 - N.J.A.C. 5:92-1 et seq.
+7 - N.J.A.C. 5:93-1.1 et seq.
+
+
+
+
+                                                                                            Page | 4
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 12 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                 June 17, 2025
+
+
+The FHA had originally required housing rounds to be for a six-year period for the
+First and Second Rounds, then in 2001, the time period increased to a 10-year period
+consistent with the Municipal Land Use Law (“MLUL”). In order to utilize 2000
+census data which had not yet been released, COAH delayed the start of the Third
+Round from 1999 to 2004, with the Third Round time period initially ending in
+2014. In December 2004, COAH’s first version of the Third Round rules 8 became
+effective, and the 15-year Third Round time period (1999 – 2014) was condensed into
+an affordable housing delivery period from January 1, 2004, through January 1, 2014.
+
+The 2004 Third Round rules marked a significant departure from the methods
+utilized in COAH’s Prior Round. Previously, COAH assigned an affordable housing
+obligation as an absolute number to each municipality. These Third Round rules
+implemented a “growth share” approach that linked the production of affordable
+housing to residential and non-residential development in a municipality.
+
+On January 25, 2007, a New Jersey Appellate Court decision 9 invalidated key
+elements of the first version of the Third Round rules, including the growth share
+approach. The Court ordered COAH to propose and adopt amendments to its rules,
+with COAH issuing revised rules effective on June 2, 2008 (as well as a further rule
+revision effective on October 20, 2008) which largely retained the growth share
+approach.
+
+Just as various parties had challenged COAH’s initial Third Round regulations,
+parties challenged COAH’s 2008 revised Third Round rules. On October 8, 2010,
+the Appellate Division issued its decision on the challenges. 10 The Appellate Division
+upheld the COAH Prior Round regulations that assigned rehabilitation and Prior
+Round numbers to each municipality, but invalidated the regulations by which the
+agency assigned housing obligations in the Third Round, again ruling that COAH
+could not allocate obligations through a growth share formula. Instead, the Appellate
+Division directed COAH to use methods similar to those used in the First and
+Second Rounds.
+
+Third Round Judicial Activity
+
+After various challenges were filed, on September 26, 2013, the NJ Supreme Court
+upheld the Appellate Court decision 11 and ordered COAH to prepare the necessary
+rules. COAH failed to adopt new rules, and more challenges ensued.
+
+On March 10, 2015, the New Jersey Supreme Court issued a ruling on FSHC’s
+Motion in Aid of Litigant’s Rights, which became known as Mount Laurel IV. 12 In this
+
+8-  N.J.A.C. 5:94-1 and 5:95-1
+9-   In re Adoption of N.J.A.C. 5:94 and 5:95, 390 N.J. Super. 1 (2007)
+10 - In re Adoption of N.J.A.C. 5:96 and 5:97, 416 N.J. Super. 462 (2010)
+11 - In re Adoption of N.J.A.C. 5:96 and 5:97 by New Jersey Council On Affordable Housing, 215 N.J.
+
+     578 (2013)
+12 - ibid.
+
+
+
+
+                                                                                             Page | 5
+ HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 13 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                    June 17, 2025
+
+
+decision, the Court transferred responsibility for reviewing and approving housing
+elements and fair share plans from COAH to designated Mount Laurel trial judges,
+declaring COAH “moribund.” Municipalities were now to apply to the Courts,
+instead of COAH, if they wished to be protected from exclusionary zoning lawsuits.
+The Mount Laurel trial judges, with the assistance of a Court-appointed Special
+Adjudicator, were tasked with reviewing municipal plans much in the same manner
+as COAH had done previously. Those towns whose plans were approved by the
+Court received a Judgment of Compliance and Repose, the court equivalent of
+COAH’s substantive certification.
+
+While the NJ Supreme Court’s decision set a process in motion for towns to address
+their Third Round obligation, the decision did not assign those obligations. Instead,
+that was to be done by the trial courts, although ultimately most towns entered into
+settlement agreements to set their fair share obligations. The Court stated that
+municipalities should rely on COAH’s Second Round rules (N.J.A.C. 5:93) and those
+components of COAH’s 2008 regulations that were specifically upheld, as well as the
+FHA, in their preparation of Third Round housing elements and fair share plans.
+
+On January 17, 2017, the NJ Supreme Court rendered a decision13 that found that the
+period between 1999 and 2015, now known as the “gap period,” when no valid
+affordable housing regulations were in force, generated an affordable housing
+obligation. This obligation required an expanded definition of the municipal Present
+Need obligation to include the unaddressed housing needs of low- and moderate-
+income households that had formed during the gap period. This meant that the
+municipal affordable housing obligation would now comprise four components:
+Present Need (rehabilitation), Prior Round (1987-1999, new construction), Gap Need
+(1999-2015, new construction), and Prospective Need (Third Round, 2015 to 2025,
+new construction).
+
+Third Round Legislative Activity
+In addition to the state agency negotiation and judicial decisions, the New Jersey
+Legislature has amended the FHA several times in recent years.
+      A statewide 2.5% nonresidential development fee instead of requiring
+       nonresidential developers to provide affordable housing was established in 2008;
+
+      New regional contribution agreements (“RCAs”) were eliminated in 2008;
+
+      A very-low income requirement was added in 2008;
+
+      In 2008, a requirement was added that municipalities had to commit to spend
+       development fees within four years of the date of collection. This was later
+
+
+
+
+13 -   In Re Declaratory Judgment Actions Filed by Various Municipalities, 227 N.J. 508 (2017)
+
+
+                                                                                                 Page | 6
+ HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 14 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                               June 17, 2025
+
+
+       addressed in a Superior Court decision which found the four-year period begins
+       at the time the Court approves the municipal spending plan. 14
+      In 2020, all affordable units have to be affirmatively marketed and also listed on
+       the state’s Affordable Housing Resource Center website. 15
+
+The Fourth Round (2025-2035)
+
+As noted in the introduction, the rules upon which this document is based came
+about from the FHA amendments in P.L. 2024, c. 2, passed on March 20, 2024. The
+key parts of the law include:
+
+      The abolition of the NJ Council on Affordable Housing;
+      Designating the NJ Department of Community Affairs (“DCA”) to develop new
+       municipal obligations using a methodology that is mainly spelled out in the law.
+       These obligations are advisory, not binding;
+
+      Establishing a timeline within which municipalities need to adopt and submit
+       binding resolutions establishing their Fourth Round fair share obligations, in
+       order for them to retain their immunity from exclusionary-zoning lawsuits;
+
+      Requiring the NJ Housing and Mortgage Finance Agency (“HMFA”) and DCA to
+       update rules and standards governing affordable housing production, trust funds
+       and administration;
+
+      Establishing a court-based Affordable Housing Dispute Resolution Program
+       (“Program”) that hears challenges to municipalities’ affordable housing obligation
+       determinations and housing plans;
+
+      Establishing a longer period of deed restrictions for rental units to 40 years;
+
+      Changing the criteria whereby municipalities may gain affordable housing
+       bonuses;
+      Establishing new reporting and monitoring procedures and deadlines for both
+       affordable units and affordable housing trust funds, and assigns oversight for
+       reporting and monitoring to DCA.
+
+Furthermore, in December 2024, the Administrative Office of the Courts issued
+Administrative Directive #14-24, establishing procedures for implementation of the
+Program and for municipalities to file their Fourth Round Declaratory Judgment
+(“DJ”) filings, etc. This Administrative Directive also sets requirements for what
+must be included in a Fourth Round HEFSP.
+
+
+14 - In the Matter of the Adoption of the Monroe Township Housing Element and Fair Share Plan,
+     and Implementing Ordinances (112 A.3d 595 (App. Div. [2015])
+15 - https://njhrc.gov
+
+
+
+
+                                                                                          Page | 7
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 15 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                    June 17, 2025
+
+
+This plan has been prepared to meet the requirements of the FHA as most recently
+amended, as well as the 2024 Administrative Directive, as necessary. Where such
+requirements contradict each other, this document adheres to the statute.
+
+TOWN OF SECAUCUS’ AFFORDABLE HOUSING HISTORY
+
+Secaucus has demonstrated a long-standing commitment of voluntary compliance
+with its Mount Laurel fair share obligations. The municipality voluntarily addressed
+its constitutional affordable housing obligation in response to the FHA and COAH’s
+First Round, Second Round, and Third Round regulations (both adopted iterations
+from 2004 and 2008).
+
+First and Second Round Plans
+
+In the First Round, the Town’s pre-credited allocation consisted of an indigenous
+need (rehabilitation component) of 212 units, reallocated present need (a regional
+share of indigenous need from other municipalities with a surplus of need) of 479
+units, and a prospective need (future demand for new construction) of 330 units,
+totaling 1,020 units (rounded). Subsequent adjustments were made by COAH
+resulting in a pre-credited need of 866 units. Secaucus was the only municipality in
+Hudson County to receive substantive certification in the First Round and, along with
+Teterboro, was one of only two municipalities in the New Jersey Meadowlands
+District to file before COAH.
+
+The Town filed its petition for Second Round substantive certification with COAH on
+October 8, 1998. The Town’s Second Round calculated need of 534 units consisted of
+a rehabilitation component of 45 units and a new construction component of 489
+units (this number reflects the prior cycle credit of 100 units from the First Round).
+Based on the availability of vacant land, the Town requested an adjustment of its 489-
+unit Second Round new construction obligation by 347 units, resulting in a realistic
+development potential (RDP) of 142 units.
+
+The Town addressed its cumulative 1987-1999 obligation with seven rehabilitated
+units and a planned program for 38 additional rehabilitations, 75 existing units, 25
+bonus credits, and inclusionary zoning with a 20% set-aside of 142 units. This
+Second Round housing plan was not certified by COAH.
+
+Approximately 88% of the land area of the Town of Secaucus was under the zoning
+jurisdiction of the New Jersey Meadowlands Commission, or NJMC, (now subsumed
+by the New Jersey Sports and Exposition Authority). The small land area under the
+Town’s zoning jurisdiction is almost entirely residential and lacks vacant sites
+suitable for development. After Secaucus took this position, COAH initiated a
+dialogue with the then NJMC in an effort to create an inter-agency Memorandum of
+Understanding in which the NJMC would address affordable housing matters under
+its jurisdiction; however, a Memorandum of Understanding was never adopted by
+any of the agencies involved.
+
+
+
+                                                                               Page | 8
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 16 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                    June 17, 2025
+
+
+By 2004, the idea of a Memorandum of Understanding had been abandoned by
+COAH and Secaucus decided to wait for the adoption of Third Round rules,
+occurring in December 2004, to file a Third Round housing plan.
+
+2005 Third Round Plan
+
+As previously indicated, COAH’s Third Round rules marked a significant departure
+from the affordable housing formulas utilized in COAH’s two earlier rounds.
+Previously, COAH assigned an affordable housing obligation as an absolute number
+to each municipality. The new Third Round rules in 2004 implemented a “growth
+share” approach that linked the production of affordable housing with future
+residential and non-residential development within a municipality. The Town
+prepared a Third Round plan that was adopted on December 6, 2005 and petitioned
+COAH for initial Third Round certification on December 20, 2005. The Town
+addressed a rehabilitation component of 24 units with 54 housing units rehabilitated,
+a Prior Round recalculated number of 478 units with a growth share of 259 units.
+The plan proposed units from a planned transit village redevelopment, rental
+bonuses and a group home, with a three-unit surplus.
+
+The Town did not receive substantive certification of this Third Round plan prior to
+the Appellate Division’s invalidation of the first set of Third Round rules on January
+25, 2007. COAH only granted substantive certification to three municipalities of the
+hundreds of petitions made to the agency.
+
+2008 Third Round Plan
+
+Secaucus adopted a revised Third Round Housing Element and Fair Share Plan,
+dated December 16, 2008, addressing its cumulative Third Round (1987-2018) fair
+share obligation. The second iteration of the Third Round rules assigned Secaucus a
+rehabilitation component of 67 units, a Prior Round obligation of 590 units and a
+Third Round growth share obligation of 253. Secaucus filed the revised Third Round
+plan with COAH on December 30, 2008. Two objections were received and the Town
+responded in August 2008. However, mediation never ensued and COAH took no
+action on the Town’s 2008 Third Round Plan prior to the invalidation of the second
+iteration of the Third Round rules.
+
+2017 Amended Third Round Plan
+
+The New Jersey Supreme Court in its March 10, 2015 16 decision established a process
+for individual municipalities to gain approval of their housing plans after
+determining that the administrative process operated by the New Jersey Council on
+Affordable Housing had broken down and become moribund. The Court’s decision
+
+
+
+
+16 - In Re N.J.A.C. 5:96 and 5:97, 221 N.J. 1 (2015)
+
+
+
+
+                                                                               Page | 9
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 17 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                     June 17, 2025
+
+
+led to the Town of Secaucus filing a declaratory judgment action on July 6, 2015 in
+Superior Court. 17
+
+In this judicial process, the Town appeared before the Hon. Joseph Turula, J.S.C., in
+its effort to address its affordable housing obligation. The Town entered into a
+Settlement Agreement with FSHC and established through a fairness hearing held
+before Judge Turula on June 15, 2017 that its affordable housing proposal as
+represented in the agreement was fair to the low- and moderate-income citizens of
+the state. An order approving the settlement agreement was entered on June 15, 2017
+in the case. The order required a duly adopted and endorsed Housing Element and
+Fair Share Plan to be filed with the court by September 30, 2017.
+
+In fulfillment of the order, the Town adopted its Third Round HEFSP on September
+25, 2017, endorsed by the Town Council on September 28, 2017, which superseded
+the HEFSP adopted in December 2005. The Town’s Third Round HEFSP was
+approved by the Superior Court in a JOR issued on December 18, 2017.
+
+2025 Fourth Round Plan
+On January 28, 2025, the Town adopted Resolution 2025-32 accepting the DCA’s
+calculated affordable housing obligations and subsequently filed a Fourth Round DJ
+Action with the Program/Superior Court. In an April 23, 2025 Order, the Court
+affirmed the Town’s acceptance of the DCA’s Fourth Round Present
+Need/Prospective Need and ordered that this document be prepared.
+
+HOUSING ELEMENT AND FAIR SHARE PLAN REQUIREMENTS
+In accordance with the Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.), a
+municipal master plan must include a housing plan element as the foundation for
+the municipal zoning ordinance (see N.J.S.A. 40:55D-28b(3)). Pursuant to the FHA
+(N.J.S.A. 52:27D-301 et seq.), a municipality’s housing element must be designed to
+provide access to affordable housing to meet present and prospective housing needs,
+with particular attention to low- and moderate-income housing. Specifically, N.J.S.A.
+52:27D-310 requires that the housing element contain at least the following:
+
+     a.    An inventory of the municipality’s housing stock by age, condition,
+           purchase or rental value, occupancy characteristics, and type, including
+           the number of units affordable to low- and moderate-income households
+           and substandard housing capable of being rehabilitated;
+
+     b.    A projection of the municipality’s housing stock, including the probable
+           future construction of low- and moderate-income housing, for the next
+           ten years, taking into account, but not necessarily limited to,
+           construction permits issued, approvals of applications for development,
+           and probable residential development of lands;
+
+17 - Docket No. HUD-L-2911-15.
+
+
+
+
+                                                                               Page | 10
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 18 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                      June 17, 2025
+
+
+    c.    An analysis of the municipality’s demographic characteristics, including,
+          but not necessarily limited to, household size, income level, and age;
+
+    d.    An analysis of the existing and probable future employment
+          characteristics of the municipality;
+
+    e.    A determination of the municipality’s present and prospective fair share
+          of low- and moderate-income housing and its capacity to accommodate
+          its present and prospective housing needs, including its fair share of low-
+          and moderate-income housing, as established pursuant to section 3 of
+          P.L. 2024, c.2 (C.52:27D-304.1);
+
+    f.    A consideration of the lands most appropriate for construction of low-
+          and moderate-income housing and of the existing structures most
+          appropriate for conversion to, or rehabilitation for, low- and moderate-
+          income housing, including a consideration of lands of developers who
+          have expressed a commitment to provide low and moderate income
+          housing;
+
+    g.    An analysis of the extent to which municipal ordinances and other local
+          factors advance or detract from the goal of preserving multigenerational
+          family continuity as expressed in the recommendations of the
+          Multigenerational Family Housing Continuity Commission, adopted
+          pursuant to paragraph (1) of subsection f. of 23 section 1 of P.L.2021,
+          c.273 (C.52:27D-329.20); and
+
+    h.    For a municipality located within the jurisdiction of the Highlands Water
+          Protection and Planning Council, established pursuant to section 4 of
+          P.L.2004, c.120 (C.13:20-4), an analysis of compliance of the housing
+          element with the Highlands Regional Master Plan of lands in the
+          Highlands Preservation Area, and lands in the Highlands Planning Area
+          for Highlands-conforming municipalities. This analysis shall include
+          consideration of the municipality’s most recent Highlands Municipal
+          Build Out Report, consideration of opportunities for redevelopment of
+          existing developed lands into inclusionary or 100 percent affordable
+          housing, or both, and opportunities for 100 percent affordable housing
+          in both the Highlands Planning Area and Highlands Preservation Area
+          that are consistent with the Highlands regional master plan; and
+
+    i.    An analysis of consistency with the State Development and
+          Redevelopment Plan, including water, wastewater, stormwater, and
+          multi-modal transportation based on guidance and technical assistance
+          from the State Planning Commission.
+
+In addition to FHA requirements, this Fourth Round HEFSP has been prepared in
+compliance with the following requirements set forth by Administrative Directive
+#14-24, issued by the Administrative Office of the Courts on December 13, 2024:
+
+                                                                                 Page | 11
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 19 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                          June 17, 2025
+
+
+    1.    Inclusion of detailed site suitability analyses, based on the best available
+          data, for each of the un-built inclusionary or 100 percent affordable
+          housing sites in the plan as well as an identification of each of the sites
+          that were proposed for such development and rejected, along with the
+          reasons for such rejection.
+
+    2.    The concept plan for the development of each of the selected sites
+          should be overlaid on the most up to date environmental constraints
+          map for that site as part of its analysis. When the detailed analyses are
+          completed, the municipality can see what changes will be needed (either
+          to the selected sites or to their zoning) to ensure that all of the units
+          required by the settlement agreement will actually be produced. If it
+          becomes apparent that one (or more) of the sites in the plan does not
+          have the capacity to accommodate all of the development proposed for
+          it, the burden will be on the municipality either to adjust its zoning
+          regulations (height, setbacks, etc.) so that the site will be able to yield the
+          number of units and affordable units anticipated by the settlement
+          agreement or to find other mechanisms or other sites as needed to
+          address the likelihood of a shortfall.
+
+    3.    The final HEFSP must fully document the creditworthiness of all of the
+          existing affordable housing units in its HEFSP and to demonstrate that it
+          has followed all of the applicable requirements for extending expiring
+          controls, including confirmation that all of the units on which the
+          controls have been extended are code-compliant or have been
+          rehabilitated to code-compliance, and that all extended controls cover a
+          full 30-year period beginning with the end of the original control period.
+          Documentation as to the start dates and lengths of affordability controls
+          applicable to these units and applicable Affordable Housing Agreements
+          and/or deed restrictions is also required. Additionally, the income and
+          bedroom distributions and continued creditworthiness of all other
+          existing affordable units in the HEFSP must be provided.
+
+    4.    The HEFSP must include an analysis of how the HEFSP complies with or
+          will comply with all of the terms of the executed settlement agreement.
+          Once the HEFSP has been prepared, it must be reviewed by Fair Share
+          Housing Center and the Program’s Special Adjudicator for compliance
+          with the terms of the executed settlement agreement, the FHA and
+          Uniform Housing Affordability Controls (“UHAC”) regulations. The
+          HEFSP must be adopted by the Planning Board and the implementation
+          components of the HEFSP must be adopted by the governing body.
+
+    This part of the Court Directive presupposes a settlement agreement in the
+    Fourth Round, which is not the case for Secaucus. Furthermore, Secaucus does
+    not propose a 100% municipally sponsored project for the Fourth Round which
+    would necessitate the level of detail as spelled out int the Court Directive.
+
+
+                                                                                    Page | 12
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 20 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                      June 17, 2025
+
+
+The Court Directive indicates that the HEFSP must also include (in an Appendix)
+all adopted ordinances and resolutions needed to implement the housing plan,
+except that this is contraindicated in the Fair Housing Act. In this instance, this
+document follows the law. The Directive indicates that the following is required
+to be submitted:
+
+    1.    All zoning amendments (or redevelopment plans, if applicable).
+
+    2.    An Affordable Housing Ordinance that includes, among other required
+          regulations, its applicability to 100 percent affordable and tax credit
+          projects, the monitoring and any reporting requirements set forth in the
+          settlement agreement, requirements regarding very low income housing
+          and very low income affordability consistent with the FHA and the
+          settlement agreement, provisions for calculating annual increases in
+          income levels and sales prices and rent levels, and a clarification
+          regarding the minimum length of the affordability controls (at least 30
+          years, until the municipality takes action to release the controls).
+
+    3.    The adoption of the mandatory set aside ordinance, if any, and the repeal
+          of the existing growth share provisions of the code.
+
+    4.    An executed and updated Development Fee Ordinance that reflects the
+          court’s jurisdiction.
+
+    5.    An Affirmative Marketing Plan adopted by resolution that contains
+          specific directive to be followed by the Agent in affirmatively marketing
+          affordable housing units, with an updated COAH form appended to the
+          Affirmative Marketing Plan, and with both documents specifically
+          reflecting the direct notification requirements set forth in the settlement
+          agreement.
+
+    6.    An updated and adopted Spending Plan indicating how the municipality
+          intends to allocate development fees and other funds, and detailing (in
+          mini manuals) how the municipality proposes to expend funds for
+          affordability assistance, especially those funds earmarked for very low
+          income affordability assistance.
+
+    7.    A resolution of intent to fund any shortfall in the costs of the
+          municipality’s municipally sponsored affordable housing developments
+          as well as its rehabilitation program, including by bonding if necessary.
+
+    8.    Copies of the resolution(s) and/or contract(s) appointing one or more
+          Agent(s) and of the adopted ordinance creating the position of, and
+          resolution appointing, the Municipal Affordable Housing Liaison.
+
+    9.    A resolution from the Planning Board adopting the HEFSP, and, if a final
+          Judgment is sought before all of the implementing ordinances and
+
+                                                                                Page | 13
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 21 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                      June 17, 2025
+
+
+          resolutions can be adopted, a resolution of the governing body
+          endorsing the HEFSP.
+
+AFFORDABILITY REQUIREMENTS
+Affordable housing is defined under New Jersey’s FHA as a dwelling, either for-sale
+or rent that is within the financial means of households of low or moderate income
+as income is measured within each housing region. Secaucus is in COAH’s Region
+1, which includes the Counties of Bergen, Hudson, Passaic, and Sussex. These
+housing regions were established as part of the First Round rules. Moderate-income
+households are those with incomes exceeding 50% up to 80% of the regional median
+income. Low-income households are those with annual incomes 50% or less than
+regional median income. In 2008 the New Jersey Legislature created an additional
+sub-category of low income – very low-income – which has been defined as
+households with incomes 30% or less of the regional median income.
+
+Through the UHAC regulations, which are administrative rules issued by HMFA in
+N.J.A.C. 5:80-26.1 et seq., the maximum rent for a qualified unit is required to be
+affordable to households that earn no more than 60% of the median income for the
+region. This is to account for the typical wage earner who over time gains more
+income and whose household then has a higher income compared to the regional
+median. The average rent is required to be affordable to households earning no more
+than 52% of the median income. The maximum sale prices for affordable units is
+required to be affordable to households that earn no more than 70% of the median
+income and the average sale price affordable to a household that earns no more than
+55% of the median income.
+
+The regional median income is now defined in the amended FHA and continues to
+utilize the U. S. Department of Housing and Urban Development (“HUD”) income
+limits on a regional basis. In the spring of each year HUD releases updated income
+limits which COAH used to reformulate slightly to match the housing regions. When
+COAH no longer was functioning, this job was taken over by the Affordable Housing
+Professionals of New Jersey, an association made up of persons who administer
+affordable housing programs for governments. This role by the AHPNJ was
+recognized by numerous judges in affordable housing cases and the organization’s
+charts were specifically included in orders adjudicating settlements. The amended
+FHA now places this responsibility with DCA. It is from these income limits that the
+rents and sale prices for affordable units are derived. See Table 1 for 2024 income
+limits for Region 1 and Tables 2 and 3 for illustrative sale prices and gross rents from
+2024 (the latest figures available). The sample rents and sale prices are illustrative
+and are gross figures which do not account for the specified utility allowance for
+rentals.
+
+
+
+
+                                                                                Page | 14
+   HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 22 of 71 Trans ID: LCV20251810687
+
+
+  Town of Secaucus  Housing Element and Fair Share Plan                                                         June 17, 2025
+
+
+                                      Table 1. 2024 Income Limits for Region 1
+Household
+Income     1 Person                     2 Person            3 Person            4 Person           5 Person  6 Person
+Levels    Household                    Household           Household           Household          Household Household
+Median                  $84,288             $96,329            $108,371           $120,412            $130,045             $139,678
+Moderate                 $67,431            $77,064            $86,697             $96,329           $104,036              $111,742
+Low                      $42,144             $48,165             $54,185           $60,206             $65,022             $69,839
+Very Low                 $25,286            $28,899              $32,511            $36,124             $39,013            $41,903
+  Source: 2024 Affordable Housing Regional Income Limits by Household Size, Prepared by Affordable Housing Professionals of
+          New Jersey (AHPNJ) in April of 2024
+
+
+                            Table 2. Illustrative 2024 Affordable Rents for Region 1
+          Household Income Levels                        1 Bedroom               2 Bedroom                3 Bedroom
+          (% of Median Income)                            Unit Rent               Unit Rent                Unit Rent
+          Moderate (60%)                                   $1,047                   $1,179                    $1,381
+          Low (50%)                                          $821                     $908                   $1,068
+          Very Low (30%)                                     $369                     $366                      $442
+         Source: Affordable Housing Professionals of New Jersey Affordable Housing General Rent Calculator, April 2024.
+
+
+                       Table 3. Illustrative 2024 Affordable Sales Prices for Region 1
+         Household Income Levels                       1 Bedroom                2 Bedroom                 3 Bedroom
+         (% of Median Income)                          Unit Price               Unit Price                Unit Price
+         Moderate (65%)                                  $113,536                $145,610                  $175,546
+         Low (50%)                                       $76,528                 $101,200                  $124,228
+         Very Low (30%)                                  $27,183                  $41,986                   $55,803
+         Source: Affordable Housing Professionals of New Jersey Affordable Housing General Sales Price Calculator, April
+         2024.
+
+
+  HOUSING CONDITIONS
+
+  The 2019-2023 American Community Survey (ACS) 18 indicates that Secaucus has
+  approximately 9,109 housing units, of which 584, or 6.4%, are vacant. Only 26.1% of
+  the Town’s housing stock consists of single-family detached units. While 36.9% of all
+  units are single-family (attached or detached), Secaucus also contains many two-unit
+  and 10+ unit buildings, 14.5% and 40.3% of the total housing stock, respectively.
+  When comparing the Town’s housing stock to that of the County and State, it is
+  apparent that housing types in Secaucus are not indicative of the housing
+  opportunities in the County or New Jersey as a whole. For example, while the County
+  18 -   The American Community Survey replaced the long-form Census as the source for much of the
+         housing data necessary to complete this section. The Census is a one-time count of the population
+         while this ACS is an estimate taken over five years through sampling. As such, data in the ACS is
+         subject to a margin of error.
+
+
+                                                                                                                       Page | 15
+          HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 23 of 71 Trans ID: LCV20251810687
+
+
+         Town of Secaucus  Housing Element and Fair Share Plan                                               June 17, 2025
+
+
+         has a higher percent (42.1%) of 10+ unit buildings than Secaucus (40.3%), the
+         percent of these unit types in Secaucus far exceeds that of the State where only 17.2%
+         of all dwelling units fall into this category. Secaucus has a more suburban character
+         than the rest of Hudson County, but is more urban than the State as a whole. See
+         Table 4, Housing Units in Structure and Tenure of Occupant, for a detailed
+         explanation of the housing units in 2023.
+                      Table 4. Housing Units in Structure and Tenure of Occupant, 2023
+Number of      Owner    Percent  Renter                     Percent                    Percent   Total               Total Percent
+Units         Occupied of Total Occupied                    of Total      Vacant       of Total Occupied             Units of Total
+1, Detached       1,921   21.1%       345                      3.8%           112         1.2%     2,266              2,378  26.1%
+1, Attached         744    8.2%       235                      2.6%             0         0.0%       979                979  10.7%
+2                   560    6.1%      646                        7.1%          112         1.2%     1,206              1,318  14.5%
+3 or 4              358    3.9%       254                      2.8%            25         0.3%        612               637   7.0%
+5 to 9               33   0.4%         53                      0.6%             0         0.0%         86                86   0.9%
+10 or more          563   6.2%      2,775                     30.5%           335         3.7%      3,338             3,673 40.3%
+Other                21   0.2%         17                      0.2%             0         0.0%         38                38   0.4%
+Total            4,200   46.1%     4,325                      47.5%          584          6.4%     8,525             9,109 100.0%
+         Source: 2019-2023 American Community Survey 5-Year Estimate (B25032, DP04)
+
+
+         Table 5, Housing Units by Age, illustrates the age of the Town’s housing stock.
+         Nearly three quarters (72.0%) of the Town’s housing stock was constructed after
+         1960. Only 14% of the housing units in Secaucus were built prior to 1939. These
+         numbers indicate that the Town has a relatively newer housing stock when compared
+         to surrounding municipalities.
+
+                                          Table 5. Housing Units by Age, 2023
+                   Year Built                       Total Units        Percent          Owner           Renter
+                   2020 or later                              12             0.1%               12              0
+                   2010 to 2019                            1,708           20.0%              186            1522
+                   2000 to 2009                              913           10.7%              329             584
+                   1980 to 1999                            1,563            18.3%             859             704
+                   1960 to 1979                            1,943           22.8%              1135            808
+                   1940 to 1959                            1,194           14.0%              908             286
+                   1939 or earlier                         1,192           14.0%               771            421
+                   Totals                                   8,525        100.0%            4,200            4,325
+                   Median Year Built                        1979                             1971           1998
+                       Source: 2019-2023 American Community Survey 5-Year Estimate (Tables DP04, B25036, B25037)
+
+
+         The plurality (37.5%) of housing units in Secaucus contain two bedrooms, and 65.1%
+         of all units have two bedrooms or less. A further breakdown of housing units by
+         number of bedrooms indicates that the County, when compared to Secaucus, has a
+
+                                                                                                                   Page | 16
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 24 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                            June 17, 2025
+
+
+lower percentage of units containing 4+ bedrooms (6.6%) and a higher percentage of
+units containing one bedroom or less (35.9%).
+
+                   Table 6. Number of Bedrooms per Housing Unit, 2023
+                   Bedrooms                Number of Units                Percent of Total
+                   Efficiency                    496                            5.4%
+                        1                      2,011                          22.1%
+                        2                      3,419                           37.5%
+                        3                      1,888                          20.7%
+                        4                       1,119                          12.3%
+                       5+                         176                           1.9%
+                     Total                     9,109                         100.0%
+            Source: 2019-2023 American Community Survey 5-Year Estimate (Table DP04)
+
+
+Table 7, Value of Owner-Occupied Housing Units, shows that the median home
+value between 2013 and 2023 increased from $403,800 to $557,800, or
+approximately 38.1%. Compared to Secaucus, Hudson County saw a higher percent
+growth in owner-occupied home values during the same time period (46.5%). Based
+on the 2024 Illustrative Sales prices provided in Table 3, approximately 61 units
+(1.5%) of owner-occupied housing units may be affordable to very low- income
+households (depending on the number of rooms in the unit). Meanwhile,
+approximately 83 units (2.0%) may be affordable to low- and moderate-income
+households. In total, 144 owner-occupied housing units in the Town, or 3.5%, may be
+affordable to very low-, low- and moderate-income households.
+
+            Table 7. Value of Owner-Occupied Housing Units, 2013 and 2023
+           Housing Unit Value                2013 Units        Percent       2023 Units       Percent
+          Less than $50,000                        47             1.1%              61            1.5%
+         $50,000 to $99,999                        41             1.0%              26           0.6%
+        $100,000 to $149,999                      115             2.8%              37           0.9%
+        $150,000 to $199,999                       85             2.1%              20           0.5%
+        $200,000 to $299,999                     470             11.4%             263           6.3%
+        $300,000 to $499,999                   2,208             53.4%           1,324          31.5%
+        $500,000 to $999,999                   1,069             25.8%          2,449           58.3%
+         $1,000,000 or more                       101             2.4%              20           0.5%
+                 Total                         4,136           100.0%           4,200         100.0%
+               Median Value                          $403,800                          $557,800
+    Sources: 2009-2013 and 2019-2023 American Community Survey 5-Year Estimate (Table DP04)
+
+
+In 2023, the median rent in Secaucus was $2,197, compared to $1,811 in Hudson
+County. Approximately 24.0% of rental units in Secaucus have rents of $3,000 or
+more. Based on the 2024 Illustrative Rents Prices provided in Table 2, approximately
+
+                                                                                                      Page | 17
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 25 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                             June 17, 2025
+
+
+209 rental units (4.8%) in Secaucus maybe affordable to very low- income renters
+and an additional 311 rental units (7.2%) may be affordable to low- income
+households; approximately 1,156 rental units (26.7%) may be affordable to moderate
+income- households inclusive of the units also affordable to very low- and low
+income- households. The numbers are based on rent ranges and depend on the
+number of bedrooms required.
+
+     Table 8. Gross Rent by Housing Unit in Secaucus and Hudson County, 2023
+                                 Units in            Percent           Units in Hudson                 Percent of
+Gross Rent                      Secaucus             of Total              County                        Total
+Less than $500                      209                  4.8%                 11,355                         5.6%
+$500 to $999                         311                 7.2%               17,297                           8.5%
+$1,000 to $1,499                    636                 14.7%               42,233                         20.8%
+$1,500 to $1,999                    756                 17.5%               47,021                          23.1%
+$2,000 to $2,499                    637                 14.7%               29,384                         14.4%
+$2,500 to $2,999                    736                 17.0%               17,992                           8.8%
+$3,000 or more                    1,040                24.0%                34,933                         17.2%
+No cash rent                         -                   0.0%                  3,177                             -
+Total                              4,325               100.0%                203,392                      100.0%
+Median Rent                                $2,197                                       $1,811
+           Sources: Table B25063 Gross Rent; Table B25064 Median Gross Rent (Dollars), ACS 2019-2023
+
+
+
+
+Housing is generally considered to be affordable if the rents, mortgages, and other
+essential costs consume 28% or less of an owner-household’s income or 30% or less
+of a renter-household’s income. This percentage is lower for homeowners to account
+for the additional home maintenance costs associated with ownership. While only
+25.9% of all households in Secaucus are expending more than 30% of their incomes
+on housing, for the renter population, housing is slightly less affordable.
+Approximately 64.0% of those cost-burdened households are renter-occupied
+housing.
+
+
+
+
+                                                                                                         Page | 18
+ HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 26 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                                 June 17, 2025
+
+
+                                    Table 9. Housing Affordability, 2023
+Monthly Housing Costs                Owner-             % of                    % of          All             % of
+as Percent of Income                Occupied            Total        Renter     Total      Occupied           Total
+Less than 20 Percent                 2,560              30.2%        1,605      18.9%       4,165             49.1%
+20 to 29 Percent                       836               9.9%        1,282       15.1%      2,118             25.0%
+30 Percent or More                     794               9.4%        1,405      16.6%       2,199             25.9%
+Zero/Negative Income                       10             0.1%          33       0.4%             43            0.5%
+No Cash Rent                               -               -             -        -              -               -
+Total*                                4,190             49.4% 4,292             50.6%        8,482          100.0%
+   *Units with no mortgage, no cash rent, or no positive income are excluded.
+   Source: Table S2503 Financial Characteristics, ACS 2017-2022.
+
+
+In 2023, there were 41 housing units in Secaucus that were overcrowded (more than
+one person per room) and built pre-1950. A total of 63 units had incomplete kitchen
+facilities and 4,578 units were 50+ years old. Historically, these conditions are
+indicators of housing deficiency, which are used to determine the number of units
+requiring rehabilitation.
+
+                           Table 10. Indicators of Housing Deficiency, 2023
+
+                            50+ Years           Incomplete         Incomplete Crowded or Overcrowded,
+Indicator                      Old               Plumbing            Kitchen     and Built Pre-1950
+Number of Units                 4,578                 0                   63                      41
+Source: Table B25047 Plumbing Facilities for All Housing Units, ACS 2019-2023; Table 25051: Kitchen Facilities for All
+Housing Units, ACS 2019-2023; Table B25034 Year Structure Built, ACS 2019-2023; Table B25050: Tenure By Plumbing
+Facilities by Occupants per Room by Year Structure Built, ACS 2019-2023.
+
+
+POPULATION CHARACTERISTICS
+
+Between 1950 and 2023, the population of Secaucus saw its biggest increase from
+2010 to 2020, when the population increased by 36.4%. Similarly, Hudson County
+saw its biggest increase during the same period, when the population increased by
+14.3%. The Town experienced a steady increase from 1950 until 2020, whereas the
+County experienced declines between 1950 and 1990. See Table 11 and Figure 1,
+Population Change.
+
+
+
+
+                                                                                                           Page | 19
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 27 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                                                           June 17, 2025
+
+
+                              Table 11. Population Change 1950 to 2023, Secaucus and Hudson County
+                                                            Change Since                  Hudson              Change Since
+                              Year Secaucus                Last Census (%)                 County            Last Census (%)
+                              1950   9,750                         -                      647,437                   -
+                              1960  12,154                       24.7%                    610,734                  -5.7%
+                              1970 13,228                          8.8%                   607,839                 -0.5%
+                              1980  13,719                         3.7%                   556,972                 -8.4%
+                              1990 14,061                          2.5%                   553,099                 -0.7%
+                              2000 15,931                        13.3%                    608,975                 10.1%
+                              2010 16,264                          2.1%                   634,266                   4.2%
+                              2020 22,181                        36.4%                    724,854                 14.3%
+                              2023 21,437                         -3.4%                   710,478                 -2.0%
+                            Source: U.S. Decennial Censuses 1950-2020; 2019-2023 American Community Survey 5-Year Estimate (B01003)
+
+
+
+
+                                                       Figure 1. Population Change, 1950-2023
+                            25k                                                                              724,854   710,478     800k
+
+
+
+
+                                                                                                                                          Hudson County Population
+                                   647,437                                                         634,266                         700k
+
+
+
+
+ Secaucus Town Population
+                                             610,734    607,839                         608,975
+                            20k                                   556,972     553,099                        22,181    21,437      600k
+                            15k                                                                                                    500k
+                                                                                          15,931   16,264
+                                                                                                                                   400k
+                                                         13,228    13,719      14,061
+                            10k                                                                                                    300k
+                                    9,750
+                                                                                                                                   200k
+                             5k
+                                                                                                                                   100k
+                             0k                                                                                                    0k
+                                    1950      1960       1970     1980         1990       2000      2010     2020       2023
+
+                                                                            Census Year
+
+                                                        Municipal Population                 County Population
+
+
+
+
+Since 2013, age cohorts in Secaucus have had some significant increases in all age
+cohorts, with the exception of the 85+ age cohort. While Secaucus saw a 30.3%
+reduction in the senior population 85 years and older, there were a large increases in
+the children and young adult population. The age bracket with the most growth was
+the 5 to 9-year old age cohort, increasing by 91.4%, followed by the 25 to 34-year old
+age cohort, which increased by 50.%. The growth in the Town of young families
+helped bring the median age down from 41.6 to 38.6 years from 2013 to 2023.
+
+
+
+
+                                                                                                                                    Page | 20
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 28 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                              June 17, 2025
+
+
+                                        Table 12. Age of Population, 2013 to 2023
+                                                      Percent                       Percent     Cohort
+                Age in Years             2013         of Total         2023         of Total    Change
+                Under 5                  1,052            6.1%          1,055           4.9%     0.3%
+                5-9                        904             5.3%        1,730             8.1%    91.4%
+                10-14                      706            4.1%           989            4.6%    40.1%
+                15-19                       871            5.1%          888             4.1%     2.0%
+                20-24                      684            4.0%           782            3.6%     14.3%
+                25-34                    2,637           15.4%          3,955           18.4%    50.0%
+                35-44                    2,683           15.7%          3,521           16.4%    31.2%
+                45-54                    2,428           14.2%         2,652            12.4%     9.2%
+                55-59                     1,318           7.7%         1,379            6.4%      4.6%
+                60-64                      919            5.4%          1,157            5.4%    25.9%
+                65-74                    1,508            8.8%         1,925            9.0%     27.7%
+                75-84                      822            4.8%         1,004            4.7%     22.1%
+                85+                        574            3.4%           400             1.9%   -30.3%
+                Total                   17,106         100.0%         21,437        100.0%       25.3%
+                Median Age                            41.6                         38.6
+                        Source: 2019-2023 American Community Survey 5-Year Estimate (DP05)
+
+
+
+
+                                 Figure 2. Age of Population, 2013 and 2023
+               4,500
+               4,000
+               3,500
+               3,000
+
+
+  Population
+               2,500
+               2,000
+                1,500
+               1,000
+                  500
+                    -
+                         Under    5-9    10-14 15-19 20-24 25-34 35-44 45-54 55-59 60-64 65-74 75-84      85+
+                           5
+                                                           Age Cohort
+
+                                                  2013 Population     2023 Population
+
+
+
+
+                                                                                                         Page | 21
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 29 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                            June 17, 2025
+
+
+HOUSEHOLD CHARACTERISTICS
+
+A household is defined by the U.S. Census Bureau as those persons who occupy a
+single room or group of rooms constituting a housing unit; however, these persons
+may or may not be related. Secaucus Town’s households primarily consist of smaller
+households, with approximately 58.0% one or two person households in 2013 and
+2023. This is lower than Hudson County’s share of one or two person households in
+2013 (58.7%) and 2023 (62.4%). This general trend is also reflected in the average
+household size, where the Town and County’s average household size in 2013 (2.56
+vs. 2.61) decreased in 2023 (2.44 vs 2.38). See Table 13, Household Size of Occupied
+Units.
+
+               Table 13. Household Size of Occupied Units, Secaucus, 2023
+
+                     Household Size                                   2013                      2023
+               (Persons per Household)                        Units       Percent       Units       Percent
+                          1 Person                            1,841          28.8%        2,153        25.3%
+                         2 Persons                            1,835          28.7%       2,820         33.1%
+                         3 Persons                            1,157          18.1%       1,562         18.3%
+                        4+ Persons                            1,554          24.3%       1,990         23.3%
+                            Total                             6,387       100.0%         8,525      100.0%
+               Average Household Size                                 2.56                      2.44
+       Sources: Table S1101 and Table S2501, U.S. Census Bureau 2009-2013 and 2019-2023 American Community Survey
+       Five-Year Estimates
+
+
+As a subset of households, a family is identified as a group of persons including a
+householder and one or more persons related by blood, marriage or adoption, all
+living in the same household. In 2023, there were 8,525 households in the Town.
+Approximately 52.6% of the households are comprised of married couples with or
+without children. Approximately 31.3% of the Town’s households are non-family
+households, which include individuals living alone. See Table 14, Household
+Composition.
+
+
+
+
+                                                                                                       Page | 22
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 30 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                              June 17, 2025
+
+
+                             Table 14. Household Composition, 2023
+                                                                     Number of
+       Household Type                                                                         Percent
+                                                                     Households
+       Family households                                                5,859                  68.7%
+         Married-couple family                                            4,480                52.6%
+           With Children                                                   1,885               22.1%
+           With No Children                                                2,595               30.4%
+         Male householder, no spouse present                                 503                 5.9%
+         Female householder, no spouse present                               876               10.3%
+       Nonfamily households                                               2,666                 31.3%
+         Householder living alone                                           2,153              25.3%
+       Total Households                                                    8,525             100.0%
+        Source: 2019-2023 American Community Survey 5-Year Estimate (S2501 and DP05)
+
+
+When the number of bedrooms in a unit (from Table 6 above) is considered vs. the
+size of households in Secaucus, the housing available appears to generally match the
+household sizes: The number of smaller households (three people or fewer; 76.7% of
+all households) are generally consistent with the number of smaller units available in
+the Town (one or two bedrooms; 65.1% of all units). Table 15 and Figure 3, Unit Size
+vs. Household Size provide more detail.
+
+                           Table 15. Unit Size vs. Household Size, 2023
+                                                                                                  Percent of
+                       Number         Percent of         Household          Number of               Total
+      Unit Size        of Units       Total Units          Size             Households           Households
+        0 or 1
+                         2,507           27.5%            1 Person               2,153                25.3%
+      bedroom
+           2
+                         3,419           37.5%            2 Persons             2,820                 33.1%
+      bedrooms
+           3
+                         1,888           20.7%            3 Persons              1,562                18.3%
+      bedrooms
+      4 or more
+                         1,295           14.2%           4+ Persons             1,990                23.3%
+      bedrooms
+        Total           9,109          100.0%                Total               8,525              100.0%
+    Sources: Table DP04, S1101 and S2501, U.S. Census Bureau 2019-2023 American Community Survey Five-Year Estimates
+
+
+
+
+                                                                                                         Page | 23
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 31 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                                   June 17, 2025
+
+
+
+
+                                  Figure 3. Unit Size vs. Household Size, 2023
+                    6,000
+                                                    5,307
+                                            4,973
+                    5,000
+                                                                                       0 or 1 bedroom
+
+
+
+
+  Number of Units
+                    4,000
+                                                                                       1- or 2-person household
+                    3,000          2,507                                               2 or 3 bedrooms
+                                                                            1,990      3-person household
+                    2,000                                   1,562
+                                                                    1,295              4 or more bedrooms
+                    1,000                                                              4- or more-person household
+
+                       -
+                                           Bedrooms vs. Household Size
+
+
+
+
+INCOME CHARACTERISTICS
+
+In Secaucus, the median income in 2023 was $134,746 for households and $161,037
+for families. Comparable figures for the County were $90,032 for households and
+$99,378 for families. Table 17, Household Income, further illustrates these findings
+by noting the number of households in the Twon in each income group. The Town’s
+poverty rates for individuals and families (6.0% and 2.6%) are less than the
+individual and family poverty rates for the county (14.8% and 10.9%). See Table 17,
+Individual and Family Poverty Rates, for the comparison.
+
+                            Table 16. Household Income, Secaucus and Hudson County, 2023
+
+         Household Income                           Secaucus           Percent      Hudson          Percent
+         Less than $10,000                              244               2.9%        15,644          5.3%
+         $10,000-$14,999                                 124              1.5%        13,027          4.4%
+         $15,000-$24,999                                269               3.2%         17,551         5.9%
+         $25,000-$34,999                                 427              5.0%        17,065          5.8%
+         $35,000-$49,999                                 194              2.3%        23,438          7.9%
+         $50,000-$74,999                              1,061             12.4%        39,496          13.4%
+         $75,000-$99,999                                 871            10.2%         33,329         11.3%
+         $100,000-$149,999                             1,595            18.7%         49,157         16.6%
+         $150,000-$199,999                              960              11.3%       29,260           9.9%
+         $200,000+                                    2,780             32.6%         57,585         19.5%
+         Total                                        8,525            100.0%        295,552        100.0%
+         Median Income                                       $134,746                     $90,032
+  Source: Table DP04, S1101 and S2501, U.S. Census Bureau 2019-2023 American Community Survey Five-Year Estimates
+
+
+
+                                                                                                            Page | 24
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 32 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                                June 17, 2025
+
+
+                       Table 17. Individual and Family Poverty Rates, 2023
+
+                   Governmental Level                    Families              Individuals
+                   Secaucus Town                            2.6%                   6.0%
+                   Hudson County                           10.9%                   14.8%
+                  Source: Tables S1702 and DP03, Poverty Status in Past 12 Months, ACS 2019-2023.
+
+
+EMPLOYMENT CHARACTERISTICS
+
+Table 18, Employed Residents by Industry Sector, shows the distribution of
+employment by industry for employed Secaucus residents. The four (4) industries
+representing the largest concentrations of employed residents in Secaucus in 2023
+were Educational Services, and Health Care and Social Assistance with 21.2% of
+employed residents; Professional, Scientific, and Management, and Administrative
+and Waste Management Services with 19.7%; Financing, Insurance, Real Estate,
+Renting, and Leasing with 16.1%; and Retail Trade with 9.5%.
+
+                    Table 18. Employed Residents by Industry Sector, 2023
+    Industry                                                                                        Number     Percent
+    Agriculture, Forestry, Fishing and Hunting, and Mining                                               21      0.2%
+    Construction                                                                                        495      4.5%
+    Manufacturing                                                                                       612      5.5%
+    Wholesale Trade                                                                                     425      3.8%
+    Retail Trade                                                                                      1,058      9.5%
+    Transportation and Warehousing, and Utilities                                                       504      4.5%
+    Information                                                                                         199      1.8%
+    Financing and Insurance, and Real Estate, Renting, and Leasing                                     1,785    16.1%
+    Professional, Scientific, and Management, Administrative and
+                                                                                                      2,189     19.7%
+    Waste Management Services
+    Educational Services, and Health Care and Social Assistance                                       2,352     21.2%
+    Arts, Entertainment, and Recreation, and Accommodation and
+                                                                                                        444      4.0%
+    Food Services
+    Public Administration                                                                               449      4.0%
+    Other                                                                                               586      5.3%
+    Total                                                                                             11,119 100.0%
+  Source: Table DPO3 Selected Economic Characteristics, ACS 2019-2023
+
+
+
+
+                                                                                                          Page | 25
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 33 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                          June 17, 2025
+
+
+POPULATION PROJECTIONS
+
+The North Jersey Transportation Planning Authority (NJTPA), the Metropolitan
+Planning Organization (MPO) that encompasses the Town of Secaucus as well as
+much of metropolitan New York in New Jersey, publishes population and
+employment projections. The NJTPA projects that by 2050, the Town’s population
+will increase by 17.5% while employment will increase 10.2%. Table 19, Population,
+Household, and Employment Projections, 2015 to 2050 provides more details
+regarding the NJTPA projections.
+
+     Table 19. Population, Household, and Employment Projections, 2020 to 2050
+                                         Secaucus                                   Hudson County
+Demographic
+                        2015           2050          % Change               2015       2050     % Change
+ Population            18,088        21,255             17.5%            662,619      856,947     29.3%
+ Employment            41,281        45,504             10.2%            282,020      366,913     30.1%
+Source: NJTPA Regional Transportation Plan. Forecasts, adopted September 13, 2021
+*2015 data from NJTPA calculations and may differ from other data sources
+
+
+The FHA requires that housing plans include a 10-year projection of new housing
+units based on the number of building permits, development applications approved,
+and probable developments, as well as other indicators deemed appropriate (N.J.S.A.
+52:27D-310.b). Annual construction permits issued for new housing units in
+Secaucus averaged approximately 191.2 per year during the years 2014 through 2023.
+The level of certificates of occupancy issued reflects the build out of Osprey Cove,
+XChange, the Harper, Sussex Green, and the Waverton – a level of development
+unlikely to be repeated in the Fourth Round.
+
+Secaucus is likely to see the build-out of XChange, which is an additional 564 units in
+the Fourth Round, and perhaps additional background growth of 2 units per year for
+a total of 574 units, is the projected growth in residential development. There would
+need to be a major change in development economics for the redevelopment of
+logistics buildings into the Secaucus Transit Village or construction on top of the
+Frank R. Lautenberg train station to occur at this time in the business cycle.
+
+Table 20, Housing Projections to 2035, provides an estimate of anticipated residential
+growth based on the extrapolation of prior housing activity into the future.
+
+
+
+
+                                                                                                    Page | 26
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 34 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                            June 17, 2025
+
+
+                              Table 20. Housing Projections to 2035
+                             Certificates of                Demolition                 Net New
+         Year
+                            Occupancy Issued               Permits Issued            Housing Units
+        2014                       284                           7                       277
+        2015                         38                          9                         29
+        2016                       385                           5                       380
+        2017                         12                         13                          -1
+        2018                       641                           1                       640
+        2019                          5                          5                          0
+        2020                         21                          4                         17
+        2021                          2                          2                          0
+        2022                        118                          4                        114
+        2023                      406                            3                       403
+        Total                       1,912                          53                     1,859
+     Average per Year 2014-2023                                                            185.9
+     10-Year Projection (2024-2033)                                                      574 units
+     Source: NJDCA Construction Reporter, 2014-2023 Demolition Permits Yearly Summary data, and 2014-
+          2023 Housing Units Certified; CCH analysis.
+
+
+
+
+CONSIDERATION OF LAND FOR AFFORDABLE HOUSING
+
+The prior housing plans of 1998, 2005, 2008, and 2017 established that Secaucus
+lacks the land necessary to address more than a few hundred units at the time each
+was written. A vacant land analysis has also been undertaken in this document
+which has determined that the Town has a realistic development potential, or RDP, of
+zero units for the Fourth Round. See p. 43.
+
+There are a number of factors that preclude sites from consideration. Because
+Secaucus has been designated for high intensity commercial and industrial uses for
+decades by the Hackensack Meadowlands Development Commission, now the New
+Jersey Sports and Exposition Authority, land use incompatibility presents major
+challenges. Secaucus is the center of a transportation network of freight railroads,
+passenger lines, and major highways; lacking only port access. These include six NJ
+Transit passenger lines, the Amtrak Northeast Corridor, CSX and Norfolk Southern
+Railway freight lines, the eastern spur of the New Jersey Turnpike with two exits in
+Secaucus (15X and 16E), Interstate 495 leading from Secaucus to the Lincoln Tunnel
+and Route 3, a major east-west connector between the Turnpike and the
+Meadowlands sports complex. Thus, external effects from noise, vibration, and air
+pollution from vehicles, trains on land and boats on the Hackensack River have a
+direct bearing on the quality of life in Secaucus, which includes areas where housing
+would not be a suitable land use.
+
+
+                                                                                                        Page | 27
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 35 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                   June 17, 2025
+
+
+In addition, though Secaucus’s industrial contamination is not as widespread as
+some other municipalities in the Meadowlands, virtually all sites that might be
+available for residential development require cleanup and remediation action plans.
+XChange at Secaucus Junction, for example, was built on a former landfill that
+required remediation to a residential standard. The former Hess truck servicing
+station site at 34 Meadowland Parkway, now known as Osprey Cove East, required
+site cleanup and remediation. Both NJDEP and NJSEA rules require a higher level of
+remediation for sites that will be used for residential purposes. The Hartz Mountain
+business park that occupies a significant land mass in the southern part of the Town,
+was constructed in a former gravel quarry.
+
+Secaucus is also affected by significant natural processes. The Town is nearly an
+island created by the Hackensack River, Cromakill Creek, and Penhorn Creek, with
+much of the perimeter of the municipality encumbered by wetlands and flood hazard
+areas.    The      New      Jersey  Department      of   Environmental     Protection
+Resilient Environments and Landscapes (REAL) rule have modified the State's
+environmental land use rules to respond to effects of climate change due to sea-level
+rise and increased precipitation that has exacerbated flooding. The REAL rule is part
+of Governor Murphy’s Protecting Against Climate Threats (PACT) Initiative, as
+directed by Executive Order No. 100 (January 2020) and includes amendments to the
+Coastal Zone Management Rules, N.J.A.C. 7:7-1 et seq, Freshwater Wetlands
+Protection Act Rules, N.J.A.C. 7:7A-1.1 et seq., Flood Hazard Area Control Act Rules,
+N.J.A.C. 7:13-1.1 et seq., and Stormwater Management Rules, N.J.A.C. 7:8 -1 et seq.
+
+In 2023, part of the regulations, known as the Inland Flood Protection Rules, became
+effective and focus on future precipitation increases and their effects on fluvial
+areas. The second part of the regulations, which address tidal flood risk due to sea
+level rise, are expected to go into effect in the fall of 2025.
+
+Secaucus is affected by both fluvial and tidal flooding and these regulations extend
+currently mapped flood hazard areas, significantly increasing the amount of land area
+in the Town that is at risk for flooding.
+
+The environmental constraints that affect the development of land in Secaucus are
+depicted on Map 1, Environmental Constraints, found on the following page.
+
+
+
+
+                                                                             Page | 28
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 36 of 71 Trans ID: LCV20251810687
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 37 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                        June 17, 2025
+
+
+                                   FAIR SHARE PLAN
+Introduction
+
+This part of the Housing Element and Fair Share Plan describes how Secaucus
+intends to meet the affordable housing obligations that have been allocated to it in
+the Fourth Round. As noted previously, the obligations are two-fold: a Present Need
+obligation and a Prospective Need obligation. Present Need has also been called the
+“Rehabilitation Share” and Prospective Need has been called “Future Need” and in a
+portion of the Third Round even “Gap Present Need”. The Present Need obligation
+is reset with each round of affordable housing obligation based on census data. The
+number of deficient housing units is statistically determined based on certain
+parameters to estimate those that are occupied by low- and moderate-income
+households.
+
+The Prospective Need obligation is cumulative in that it includes the obligations from
+all prior rounds (First, Second and Third) as well as the Fourth Round that this
+housing plan primarily addresses. The concept behind Prospective Need is that there
+is an anticipated growth in the population in each housing region in New Jersey in
+between 2025 and 2035 which will be composed of persons in households and each
+of those households will require housing. A certain percentage of those households
+have incomes that meet the definition of low or moderate incomes. Definitionally, it
+is 40% of households, though statistically it tends to be slightly higher and typically is
+found by demographers to be between 41% and 42% of all households. The
+amended Fair Housing Act set a formula as to the number of households which has
+been calculated by various of individuals and organizations. All agree that the
+formula establishes a Statewide obligation of 84,698, of which Region 1’s share is
+27,743. The formula established by the Amended FHA requires an allocation of this
+regional share to all of the municipalities in the region, which consists of Bergen,
+Hudson, Passaic, and Sussex Counties.
+
+The amended FHA directed the DCA to create a methodology for allocating the
+Prospective Need obligation for the Fourth Round. Unlike COAH’s allocation of
+such numbers, the law made DCA’s acceptance of the obligations by a municipality
+voluntary. The Town Council decided to accept the DCA obligations of 25 units of
+Present Need and 1,282, capped at 1,000 units of Prospective Need and adopted
+Resolution 2025-32, making a binding declaration as to these numbers and
+authorizing its filing of a declaratory judgment action in accordance with the
+amended FHA. The resolution is attached as Appendix C, adopted on January 28,
+2025. The Town has been assigned docket number HUD-L-377-25 for Fourth Round
+Declaratory Judgment actions under which this document will also be filed once
+adopted.
+
+Persons or entities aggrieved by this action of the Town had until February 28, 2025
+to file specific objections as to why the Present and Prospective Need obligations did
+not meet the requirements of the amended FHA. In the event, no objections were
+filed, and these numbers are consequently official. On April 23, 2025, the Hon.
+
+                                                                                  Page | 30
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 38 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                                   June 17, 2025
+
+
+Joseph A. Turula, P.J.Cv., the designated Mount Laurel Judge for the Hudson County
+Vicinage, issued an Order confirming these numbers and authorizing the
+municipality to proceed with this document. The Order is found in Appendix D.
+
+Secaucus’s Affordable Housing Obligations
+
+Secaucus’ affordable housing obligations are spelled out in Table 21, Secaucus’
+Affordable Housing Obligations for the Fourth and Earlier Rounds.
+
+    Table 21. Secaucus Affordable Housing Obligations for the 4th & Earlier Rounds
+
+
+          Affordable Housing Component                                          Obligation
+          Present Need                                                                         25
+          Prospective Need
+                Prior Round Obligation (1)                                                   590
+                Third Round Obligation (2)                                                1,266
+                       Realistic Development Potential                       194
+                                                 Unmet Need                1,072
+                Fourth Round Obligation                                                1,000(3)
+                       Realistic Development Potential                          0
+                                                 Unmet Need               1,000
+          Total Obligation                                                                2,881
+          (1) – This means the combined First and Second Rounds because in the Second Round, the First
+                Round numbers were recalculated.
+          (2) – This includes both the Gap Present Need and Third Round Prospective Need.
+          (3) – Fourth Round Obligation is 1,282, capped at 1,000
+
+
+
+
+Present Need Obligation
+
+Present Need is defined as “the number of substandard existing deficient housing
+units currently occupied by low- and moderate-income households” and “deficient
+housing unit” as “housing that (1) is over fifty years old and overcrowded, (2) lacks
+complete plumbing, or (3) lacks complete kitchen facilities.” The Town’s Fourth
+Round rehabilitation obligation of 25 units was calculated by DCA according to the
+methodology described in the methodology report titled, “Affordable Housing
+Obligations for 2025-2035 (Fourth Round) Methodology and Background” released in
+October 2024.
+
+Prior Round Obligation
+
+The Prior Round obligation is the cumulative 1987 through 1999 new construction
+affordable housing obligation. This time period corresponds to the First and Second
+Rounds of affordable housing. The Prior Round obligation as presently structured
+
+                                                                                                             Page | 31
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 39 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                     June 17, 2025
+
+
+was affirmed by a decision of the NJ Supreme Court in 2013 decision. Secaucus’
+Prior Round obligation is 590 units/credits as previously calculated by COAH.
+
+Third Round Prospective Obligation
+
+The Third Round obligation includes the “gap” portion of the Third Round (1999-
+2015) when no valid affordable housing regulations were in force and the Third
+Round Prospective Need (2015-2025) which included the 10-year period into the
+future starting in July 2015. In 2001, COAH adopted a new rule which extended the
+rounds from 6 to 10 years.
+
+The Third Round Prospective Need and Gap Need numbers for the Town were
+determined through negotiation with an interested party, Fair Share Housing Center,
+and agreed to in a Settlement Agreement between the parties dated June 8, 2017. As
+established by the Town’s Court-approved 2017 Settlement Agreement with FSHC,
+Secaucus’ Third Round obligation (1999-2025) is 1,266 units. The Town then
+received 2017 Court approval of its request for a vacant land adjustment as a result of
+limited vacant and developable land in the Town. In 2017, pursuant to an analysis of
+all vacant land in the Town conducted in accordance with N.J.A.C. 5:93-4.2, two sites
+were identified as generating a Realistic Development Potential (“RDP”). Based on
+these two sites, the Town’s Third Round RDP was determined to be 194 units
+resulting in a Third Round unmet need of 1,072 units.
+
+Fourth Round Prospective Obligation
+
+Prospective Need is “a projection of housing needs based on development and growth
+which is reasonably likely to occur in a region or municipality.” The Town’s Fourth
+Round Prospective Need of 1,282 units, capped at 1,000 units, was also calculated by
+DCA according to the methodology described in its October 2024 methodology
+paper.
+
+SECAUCUS’ MEANS OF ADDRESSING ITS AFFORDABLE HOUSING OBLIGATIONS
+
+Satisfaction of the Rehabilitation Obligation
+
+N.J.A.C. 5:93-5.2(b) identifies the purpose of a rehabilitation program as the
+renovation of deficient housing units occupied by low- and moderate-income
+households. Deficient housing units are those “with health and safety code violations
+that require the repair or replacement of a major system,” including “weatherization,
+a roof, plumbing (including wells), heating, electricity, sanitary plumbing (including
+septic systems) and/or a load-bearing structural system.”
+
+With a 25-unit Fourth Round Rehabilitation obligation, Secaucus has satisfied its
+obligation through the completion of 100 eligible housing units at The Elms, an
+existing 100-unit housing development located at 777 5th Street (rehabilitation details
+
+
+                                                                               Page | 32
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 40 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                      June 17, 2025
+
+
+are discussed below). However, the Town has operated a program in the Third Round
+in the past and plans to continue it in the Fourth Round by offering rehabilitation
+funds to income-qualified households, including those in rental units. The program,
+open for eligible owner-occupied and renter-occupied units, will continue to be
+funded through the Town’s Affordable Housing Trust Fund, and it will be operated
+by the Town’s Affordable Housing Administrator who also functions as the
+Administrative Agent of the municipality pursuant to Chapter 19-42 of the Secaucus
+Code.
+
+In the Fourth Round, the municipality is permitted to gain credit for any units
+rehabilitated to code that addresses any of the systems noted above and costs on
+average a minimum of $10,000 in hard costs, provided the completion date of the
+work was April 1, 2020 or later. To date, the Town completed a rehabilitation of 100
+eligible housing units at The Elms, occupied by low- and moderate-income
+households, and the total hard costs of the rehabilitations were $1.86 million to
+address major systems such as roof replacement, window, electric, plumbing, and
+HVAC, at an average of $18,600 per unit, which address COAH’s regulations at
+N.J.A.C. 5:93-5.2 which require at least $10,000 to be expanded on average for major
+system repair/replacement. Documentation of the units rehabilitated is provided in
+Appendix G.
+
+Additional documentation on the units rehabilitated will be forwarded to the Court
+and the Special Master as necessary. Secaucus’s continued rehabilitation program
+will adhere to the regulations in N.J.A.C. 5:93-5.2. All new rehabilitated units will
+meet the applicable Uniform Construction Code requirements. Additionally, all
+rehabilitated units will be occupied by low- or moderate-income households and
+upon completion of the rehabilitation, affordability controls will be placed on the
+property in the form of a lien or deed restriction. All rehabilitations will have an
+average hard cost of at least $10,000. It is anticipated that sufficient revenue will be
+generated from the development fee to fund the rehabilitation program as detailed in
+the Spending Plan, attached as Appendix J. Based on the existing revenues discussed
+in the Fourth Round Spending Plan, the Town has the needed funds for the cost of
+the program through 2035. Additional monies are also expected to be paid into the
+trust fund as development occurs. In addition, since most programs operate by
+placing a perpetual lien on the property, the fund will be replenished as loan proceeds
+are recycled into the affordable housing trust fund, so that at any one time the cash
+flow cost to the fund is minimized. A perpetual lien has been accepted by COAH as a
+means of addressing controls on affordability though it is not expressly stated in
+N.J.A.C. 5:93-1.
+
+Rehabilitated units shall meet the applicable construction codes. Additionally,
+rehabilitated units shall be occupied by low- or moderate-income households and
+
+
+
+                                                                                Page | 33
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 41 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                    June 17, 2025
+
+
+upon completion of the rehabilitation, ten-year affordability controls shall be placed
+on the property in the form of a lien or deed restriction. 19
+
+The administrative services will be provided by the Town’s Affordable Housing
+Administrator with the oversight of the Secaucus Affordable Housing Board. The
+Affordable Housing Board has the following powers and duties with regard to the
+implementation and review of affordable housing matters:
+
+      Powers and duties. The Affordable Housing Board is hereby granted and shall
+      have and exercise the following powers:
+
+      (1) Review with the assistance of the Administrator, regulations pertaining to the
+          sale and rental of affordable housing units.
+
+      (2) With the assistance of the Administrator, prepare amendments and
+          additions to regulations as it deems necessary or appropriate to implement
+          the purpose of this Article. Such amendments and additions shall not
+          become effective until approved by the Town Council by resolution or
+          ordinance, as the case may be.
+
+      (3) Hold hearings upon notice to adjudicate the complaints of developers or
+          applicants, owners and renters if the developer, applicant, owner or renter is
+          not satisfied with the rulings of the Administrator. In matters involving a
+          hearing, the Administrator shall give ten (10) days written notice to all
+          parties involved and shall give all interested parties an opportunity to be
+          heard.
+
+      (4) With the assistance of the Administrator, review requests from and to
+          federal, state, county or local agencies regarding funding or applications for
+          funding.
+
+      (5) With the assistance of the Administrator, make recommendations to the
+          Town Council regarding how town funds or funds collected from developer
+          contributions for affordable housing should be spent and propose priorities
+          for such expenditures.
+
+      (6) Review all Affirmative Marketing Plans submitted by the Administrator
+          required per N.J.A.C. 5:80-26.15.
+
+      (7) Administer all resale and re-rental transactions as per §§19-50 through -53 of
+          this Article [Article IV of Chapter 19]. 20
+
+
+
+19 - While N.J.A.C. 5:93 permits six-year controls, the Town and/or County will be required to provide
+
+   ten-year controls or such control period as determined by the Court.
+20 - Ordinance No. 2012-12, adopted July 24, 2012.
+
+
+
+
+                                                                                              Page | 34
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 42 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                       June 17, 2025
+
+
+The rehabilitation program will be operated by the Town’s Affordable Housing
+Administrator who also functions as the Administrative Agent of the municipality
+pursuant to Chapter 19-42 of the Secaucus Code.
+
+The rehabilitation program criteria to be met under N.J.A.C. 5:93-5.2 are repeated in
+italics along with the Town’s responses:
+
+   1.      Rehabbed to code. The standard for evaluating rehabilitation activity shall
+           be the Uniform Construction Code and BOCA Property Maintenance
+           Code in effect at the time of evaluation. The rehabilitation activity will
+           renovate one or more major building systems in accordance with the rule
+           and shall not include luxury improvements, the purchase of appliances
+           (with the exception of stoves) or improvements that are strictly cosmetic.
+
+   2.      Occupied by eligible households at time of rehabilitation. Units shall be
+           occupied by income eligible households and shall be so certified before
+           any contract is executed.
+
+   3.      Appropriate affordability controls were enacted. The length of affordability
+           controls shall be ten (10) years for both owner-occupied and renter-
+           occupied dwellings or in the alternative, a perpetual lien against the
+           property that is repaid to the issuing agency at the time of the first sale of
+           the property following the completion of the rehabilitation work.
+
+   4.      Administration. The municipality anticipates that the Secaucus Affordable
+           Housing Board and the Affordable Housing Administrator will operate the
+           program as it has the prior programs. However, the Town of Secaucus
+           reserves the right to designate a qualified employee to administer the
+           program or it may enter into an agreement for another governmental
+           agency or private consultant to administer all or some of the program, if
+           necessary. The Town proposes to initiate the rehabilitation program within
+           120 days of the granting of a Judgment of Compliance and Repose.
+
+   5.      Rental units must be included in the program. The previous programs were
+           open to both owner-occupied and the landlords of rental units. The
+           proposed program will also be open for eligible owner-occupied and
+           renter-occupied units.
+
+   6.      Submission of a rehabilitation manual. The rehabilitation manual shall
+           include length of controls, income qualification criteria, financing terms,
+           amount of money available, eligible repairs, program marketing, staff
+           responsibilities, and application intake procedures. The rehabilitation
+           manual is attached as Appendix G.
+
+The program is intended to continue until the municipality’s 25-unit obligation is
+satisfied.
+
+
+
+                                                                                 Page | 35
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 43 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                          June 17, 2025
+
+
+PRIOR ROUND OBLIGATION
+
+COAH permits new construction credits, reductions, and bonuses to address the
+Prior Round obligation. In accordance with N.J.A.C. 5:93-5.6(e), the provision of
+affordable housing is required to be based on the issuance of permanent certificates
+of occupancy for new residential units. The Town has addressed the entirety of its
+590-unit Prior Round obligation with a combination of 100% affordable
+developments (Impreveduto Tower, Kroll Heights and 160 County Avenue),
+inclusionary housing developments (notably, XChange at Secaucus Junction), and
+rental bonus credits. In determining the obligation of the Prior Round, COAH
+required that the Town establish the maximum number of age-restricted affordable
+units 21 and the minimum number of affordable rental units 22 using the formulas in
+Table 22.
+                 Table 22. Formulas Applicable to the Prior Round Obligation
+    Minimum Rental Obligation N.J.A.C. 5:93-5.15(a)= 148 units
+    .25 (Prior Round obligation – 20% cap – 1,000 unit cap) =
+    .25 (590 – 0 – 0) = .25 (590) = 147.5 rounded up to 148 units.
+
+    Maximum Rental Bonus = 148 units
+    No more than the minimum rental obligation = 147.5 rounded up to 148 units.
+
+    Maximum Senior Units N.J.A.C. 5:93-5.14(a)1 = 161 units
+    .25(Prior Round obligation + Rehabilitation Share – 20% cap – 1,000 unit cap) =
+    .25 (590 + 57 – 0 – 0) = .25 (647) = 161.75 rounded down to 161 units.
+
+Additionally, with respect to rental bonuses, the housing plan adheres to the
+following limitations from the Second Round rules:
+
+        A rental unit available to the general public receives one rental bonus and no
+         rental bonus is granted in excess of the Prior Round rental obligation;
+        An age-restricted rental unit receives a 0.33 rental bonus, but no more than
+         50% of the rental obligation shall receive a bonus for age-restricted rental units;
+         and
+The formulas in Table 22 attributable to the Prior Round obligation reflect FSHC’s
+interpretation that Prior Cycle credits may not be applied as unrestricted credits.
+Prior Cycle credits are those from affordable housing activities that otherwise meet
+COAH eligibility criteria, but were occupied between April 1, 1980 and December 15,
+1986, before the start of the First Round or during the Prior Cycle. Specifically,
+FSHC views age-restricted affordable housing development between 1980 and 1986
+as counting towards the limit on age-restricted housing; this has not been COAH’s
+position. Effectively, FSHC’s viewpoint merges the Prior Cycle and Prior Round into
+
+21 - N.J.A.C. 5:93-6.1(b)1 - revised per COAH Second Round policy
+22 - N.J.A.C. 5:93-5.15(a)
+
+
+
+
+                                                                                    Page | 36
+ HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 44 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                         June 17, 2025
+
+
+a single obligation before 1999. Because of this interpretation, the Prior Cycle
+elements of the formulas attributable to Prior Round obligations as established by
+COAH are removed. Table 23 provides a summary of the developments included to
+address the entirety of the Town’s Prior Round obligation.
+
+                  Table 23. Satisfaction of the Prior Round Obligation
+
+Secaucus Prior Round Compliance Mechanisms                                           Total
+                                                                 Units Bonuses
+(Prior Round Obligation = 590)                                                      Credits
+
+100% Affordable Housing (Completed)
+ Rocco Impreveduto Tower (Senior Rental)                         100                 100
+ Kroll Heights (Senior Rental – 61 of 75)                         61                   61
+ 160 County Avenue (Family Rental)                                 8                    8
+Inclusionary Zoning (Completed and Under Construction)
+ Riverside Court (Family Sale)                                    12                   12
+ XChange at Secaucus Junction (Family Rental)                    192   148, cap      340
+ City View Townhouses (Family Rental)                              2                    2
+ Osprey Cove (Family Rental)                                      24                   24
+ 34 Meadowland Pkwy – Hess Oil (Family Rental)                    12                   12
+ 100 Park Plaza Drive (Family Rental – 31 of 94)                  31                   31
+                                                         Total   442     148          590
+
+
+Map 2, Affordable Housing Sites, following, identifies all of the affordable housing
+sites in the housing plan.
+
+
+
+
+                                                                                   Page | 37
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 45 of 71 Trans ID: LCV20251810687
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 46 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                      June 17, 2025
+
+
+Secaucus meets its required minimum rental unit obligation of 148 units with 430 of
+such units. The Town does not surpass its limitation of 161 senior units as 161 senior
+units are proposed to address the Prior Round obligation. Secaucus seeks 148 rental
+bonus credits from the XChange at Secaucus Junction development, the maximum
+permitted. All units for which bonus credit is sought have been constructed. All
+crediting documentation for Prior Round units has previously been provided and has
+been approved by the Court. It is available for review upon request. Descriptions of
+the various projects are as follows:
+
+Rocco Impreveduto Tower – 100% Age-Restricted Rental Housing
+
+Rocco Impreveduto Tower is a 100-unit, multi-story age-restricted building at 600
+County Avenue that is owned and operated by the Secaucus Housing Authority. This
+property is also known as Block 98, Lot 10 on the tax assessment maps. This building
+was previously called Lincoln Tower. All units are one-bedroom and the project
+provides for a low and moderate income unit split that produces 13 moderate
+income units, 52 low income units, and 35 very low income units. This site was
+included as part of Secaucus’ certified First Round Housing Element and Fair Share
+Plan and subsequent housing plans.
+
+Kroll Heights – 100% Age-Restricted Rental Housing
+
+Kroll Heights is a 75-unit, multi-story age-restricted building at 700 County Avenue
+(next to the tower) that is operated by the Secaucus Housing Authority. It is located
+on Block 98, Lot 11.02. This development was previously called Lincoln Heights,
+which was built and occupied in the First Round. The building contains 56 one-
+bedroom apartments and 19 studios and provides for a low and moderate income
+unit split that produces ten moderate income units, 39 low income units, and 26
+very low income units. Documentation for this building was submitted to COAH
+with the municipality’s First Round plan. This site was included as part of Secaucus’
+certified First Round Housing Element and Fair Share Plan and subsequent housing
+plans. A total of 61 of the 75 affordable units at Kroll Heights will be used to satisfy
+the Prior Round obligation. The remaining 14 units will be put towards satisfying the
+Town’s Third Round obligation.
+
+160 County Avenue – 100% Family Rental Housing
+
+160 County Avenue (a.k.a. 158 County Avenue) consists of eight affordable
+townhouses owned by the Leased Housing Corporation of Secaucus, a funding
+vehicle for affordable housing projects for which public housing authorities are not
+eligible. The property is located on Block 34, Lot 3. Each townhouse is a three-
+bedroom unit. Half of the units are affordable to low income households and half are
+affordable to moderate income households. The Secaucus Housing Authority, the
+Town’s public housing agency, manages the units on behalf of the Leased Housing
+Corporation. The units are deed restricted in perpetuity like the Housing Authority’s
+other developments. The development received its last Certificate of Occupancy on
+September 4, 2014.
+
+
+                                                                                Page | 39
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 47 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                     June 17, 2025
+
+
+As part of the Third Round JOR, Secaucus was granted a waiver from N.J.A.C. 5:80-
+26.3(b)2, which requires that at least 30% of all affordable units at each development
+are two-bedroom units.
+
+Riverside Court – Inclusionary For-Sale Family Housing
+
+Riverside Court is a residential development by Baker Residential Limited
+Partnership totaling 212 residential units. The 15.2-acre Riverside Court site is just
+north of Route 3, immediately off the Meadowlands Parkway exit, and within view of
+the northerly highway bridge over the Hackensack River. The complex was
+constructed from 2004 to 2007 and has 12 affordable units on-site. The last
+certificate of occupancy was issued midway through the construction on May 31,
+2005 for the affordable units. At the time of approval, the Town’s affordable housing
+ordinance had a required 10% affordable housing set-aside, or 22 units on-site. Ten
+of the units were addressed by a payment-in-lieu of construction, which was used for
+the rehabilitation of Patriot Commons, a 20-unit apartment complex on Paterson
+Park Road fully occupied by low and moderate income households. The Riverside
+Court units are administered through the Secaucus Affordable Housing Board. The
+Affordable Housing Board certified that these units have been sold to low and
+moderate income homeowners. Eight units were sold to moderate income residents
+and four to low income residents with the length of the affordability controls being 30
+years, or until 2034 to 2037.
+
+As part of the Third Round JOR, Secaucus was granted a waiver from N.J.A.C. 5:80-
+26.3 which requires that at least 50% of all affordable units at each development be
+available to low income residents.
+
+XChange – Inclusionary Family Rental Housing
+
+XChange at Secaucus Junction is being developed by Fraternity Meadows, LLC, a
+subsidiary of Atlantic Realty of Woodbridge. The approved development originally
+consisted of 2,035 housing units, of which 230 will be affordable units. However, a
+petition to the NJSEA was submitted on September 28, 2017 for an increase in the
+allowed density of the Secaucus Transit Village Redevelopment Plan to add 500 units
+more than the 2,035 units already approved. This number includes an additional 400
+market-rate units and 100 affordable units. 23 The total number of units permitted are
+2,535, consisting of 2,205 market rate units and 330 affordable units. This approved
+increase in the number of units contributes to realistic development potential and
+one means to address it in the Third Round (see below).
+
+The apartment complex is located on River Station Boulevard southwest of the
+Secaucus Transfer Station and Frank Lautenberg Railroad Station. It consists of
+Block 5.01, Lot 3.01 (Buildings A and C – 178 and 304 units, respectively) and Lot 3.02
+
+23 - The calculations mark a shift from adding affordable units on top of the market units to taking a
+
+   percentage (20%) of the total number of units which is the more common practice in Mt. Laurel
+   proceedings.
+
+
+                                                                                               Page | 40
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 48 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                     June 17, 2025
+
+
+(Building D – 317 units). Additional development will occur on Block 5.02, Lot 3.03
+(Building E) and Lot 3.04 (Buildings F, G and H – 403 units already constructed in
+Tower G); Block 5.03, Lot 3.051 (Buildings I and J – 588 units) and Lot 3.052
+(Building K – 160 units) 24. The municipal developer’s agreement and the approved
+affordable housing plan require that at least 50% of the affordable units will be
+affordable to low income households.
+
+As of this date, 1,753 market-rate units and 188 affordable housing units have been
+completed and occupied. All 188 affordable rental units will be used to satisfy the
+Prior Round obligation. Because the 161 units from Impreveduto Tower and Kroll
+Heights fulfill the maximum number of senior units allowed in the Prior Round, the
+remaining 14 units from Kroll Heights and the 38 units from Building J at XChange
+will be sent to the Third Round. The remaining four family units to be constructed
+as part of future phases of XChange will be used in the Prior Round as shown in
+Table 23. The development then remaining is 452 market rate units and 142
+affordable units. All of the 192 affordable non–age-restricted units from the original
+XChange development are being used to satisfy the Prior Round Obligation.
+
+A summary of the number of units and breakdown of bedrooms at XChange to date
+is listed in in Appendix I.
+
+City View Townhouses – Inclusionary Family Rental Housing
+
+City View is a 14-unit, three-story townhouse project located at 734 County Avenue
+(Block 99, Lot 4) across from the municipal building. The building was built on
+the 0.5-acre site of a single-family detached house. The project received a certificate
+of occupancy in May 2015 and contains two affordable family rental units. The
+project includes one moderate income unit and one low income unit. This
+development occurred through the processes of the NJMC Interim Policies for
+affordable housing and includes one two-bedroom and one three-bedroom
+apartment. Each affordable townhouse has a 30-year deed restriction in accordance
+with N.J.A.C. 5:80-26.5.
+
+Osprey Cove – Inclusionary Family Rental Housing
+
+Osprey Cove is a 116-unit, four-story apartment building located at 45 Meadowland
+Parkway (Block 21, Lot 1). The building was built on the 2.05-acre site of an old
+outlet center owned by Hartz Mountain Industries after the company could not
+find multiple store owners interested in the center. The project received a
+certificate of occupancy on September 14, 2012 and contains 24 affordable family
+rental units. The project provides for a low and moderate income unit split that
+produces 12 moderate income units, eight low income units and four very low
+income units. This project was produced under the NJMC’s interim affordable
+housing policies and includes two studio apartments, two one-bedroom, and 20
+
+
+24 - There is no Building B in the development.
+
+
+
+
+                                                                               Page | 41
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 49 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                     June 17, 2025
+
+
+two-bedroom apartments. Each unit has been deed-restricted for a period of 30
+years in accordance with N.J.A.C. 5:80-26.5.
+
+As part of the Third Round JOR, Secaucus was granted a waiver from N.J.A.C.
+5:80-26.3 which requires that at least 20 percent of affordable units be three-
+bedroom units, or 5 units.
+
+Osprey Cove East – Inclusionary Family Rental Housing
+
+Formerly known as the Hess Redevelopment project, Osprey Cove East is a three-
+story, 63-unit apartment building located at 34 Meadowland Pkwy (Block 101, Lot
+8). Of the 63 total units, 12 are family affordable rental units. The 2.2-acre site was
+last used by Aramada Hess as a truck service facility and is situated just south of
+Route 3 on its east side and was remediated to a residential cleanup standard. The
+project provides for a low- and moderate-income unit split that has produced six
+moderate income units, four low-income units, and two very low-income units.
+The development has a bedroom distribution which includes two one-bedroom
+apartments, eight two-bedroom apartments, and two three-bedroom apartments.
+This development occurred through the processes of the NJMC interim Policies for
+affordable housing. Like Osprey Cove, the site was redeveloped by Hartz Mountain
+Industries through its subsidiary, 34 Meadowlands Parkway, LLC. Hartz Mountain
+has deed restricted the affordable units for 30 years in accordance with N.J.A.C.
+5:80-26.5.
+
+100 Park Plaza Drive – Inclusionary Family Rental Housing
+
+The Harper at Harmon Meadow Apartments, located at 100 Park Plaza Drive, is an
+existing 469-unit inclusionary family rental development located at Block 227, Lots
+4.03 and 4.04 (now Lot 4.07) to the north of the Meadowlands Exposition Center. Of
+the 469 total units, 94 are family affordable rental units. The 13.46-acre site was the
+location of the Meadowlands Carpet Center that was demolished in 2013. The NJSEA
+designated the property an Area in Need of Redevelopment in January 2016 and
+adopted a redevelopment plan in May 2016. This is another development by Hartz
+Mountain Industries, who established 100 Park Plaza Urban, LLC as the
+development arm to construct the project. As an incentive to redevelop the site, the
+redevelopment established a density limitation of 35 units per acre, three units per
+acre greater than the NJSEA’s interim policies for affordable housing allows. The
+development was completed in 2018, and the project provides for a low- and
+moderate-income unit split that has produced 10 very low-income units, 38 low
+income households and 46 are for moderate-income residents. Hartz Mountain
+Industries has deed restricted the affordable units for 30 years in accordance with
+N.J.A.C. 5:80-26.5. Of the 94 total affordable housing units, 31 will address the
+Town’s Prior Round obligation. The remaining 63 units will address the Town’s
+Third Round obligation.
+
+
+
+
+                                                                               Page | 42
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 50 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                     June 17, 2025
+
+
+THIRD ROUND OBLIGATION
+
+As previously indicated, the Town’s Third Round obligation established through the
+Court-approved Settlement Agreement is 1,266 units. As a result of limited vacant
+and developable land in the municipality, the Court has approved an adjustment of
+this Third Round obligation. Pursuant to a vacant land analysis conducted in
+accordance with N.J.A.C. 5:93-4.2, the Town has a Third Round realistic development
+potential, or RDP, of 194 units and a Third Round “unmet need” of 1,072 units.
+Unmet Need is the difference between the RDP and the Third Round obligation.
+
+Third Round Vacant Land Analysis and Realistic Development Potential
+
+Secaucus lacked sufficient vacant developable land to address the entirety of its Third
+Round obligation and this lack extends into the Fourth Round. A vacant land analysis
+was conducted by using the Second Round rules at N.J.A.C. 5:93-4.2, Lack of Land, to
+include or exclude sites from the RDP. Of the 151 sites considered in the vacant land
+analysis then, two sites contributed toward the RDP: 100 Park Plaza on Block 227,
+Lot 4.07, and land located near the Secaucus Junction Train Station in the multi-
+family XChange at Secaucus Junction development. The analysis was approved by the
+Court in the 2017 Settlement Agreement. A map of the original vacant land analysis
+may be found in Appendix F.
+
+In order to facilitate the viability of its Third Round unmet need mechanisms, the
+Town requested of the New Jersey Sports and Exposition Authority that the
+Riverfront Landing zone amended to permit the development of a 25-story building,
+including four parking levels at Xchange. This was by way of a letter dated December
+16, 2019 from the Affordable Housing Counsel of the Town to the Chief Engineer of
+the Sports and Exposition Authority.
+
+Adjustments to the Third Round Realistic Development Potential
+
+As Unmet Need sites are developed or units are captured with a mandatory set-aside
+ordinance, the RDP increases and the Unmet Need decreases. Additionally, with any
+surplus units generated, the RDP increases and the Unmet Need decreases. After the
+completion of the Third Round HEFSP, Secaucus analyzed all vacant, developable
+land in the Town, including all land held by the municipality, using the Second
+Round rules at N.J.A.C. 5:93-4.2, Lack of Land, to determine whether there were any
+changed circumstances in the Town. The analysis included reviewing whether any
+parcels in the Town have become vacant since the Third Round VLA was completed,
+and if so, whether any newly vacant parcels could be developed with inclusionary
+residential development sufficient to generate any affordable units. As summarized
+in Table 24, two sites were identified that are large enough to support inclusionary
+development and thus contribute to the Town’s Third Round RDP.
+
+
+
+
+                                                                               Page | 43
+ HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 51 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                        June 17, 2025
+
+
+                          Table 24. Third Round Adjusted RDP
+                                  Total     Unconstrained     Density     Total    RDP@
+Block/Lot     Site/Address
+                                  Acres        Acres          (du/ac)     Units     20%
+            Imagine Gardens
+52/4.041     46 Meadowland         2.47          2.47           30.0       74.1     14.82
+                  Pkwy
+33/4.02       58 County Ave        0.41          0.41           20.0       8.2       1.64
+                                                                                    16.46
+                                                                Total      82.3
+                                                                                    Æ 17
+State mapping would indicate that the Imagine Gardens site is located in the 100-year
+floodplain, and both sites are in the Inland Flood Hazard Area. However, these will
+have to be verified with any development application. For the purposes of this plan,
+we will assume that the sites are developable.
+
+The first site is currently developed with a park known as Imagine Gardens. The land
+is privately owned by 44 Meadowland Parkway, LLC. At the time the 2017 Vacant
+Land Analysis was prepared, the site was part of Block 52, Lot 4.03 (identified as Site
+#77 in the 2017 VLA) where the former Panasonic headquarters were located and
+demolished, and a new site plan had been approved for a non-residential
+development (the site was under construction in 2017). After the development was
+approved, excess land from the development of the redeveloped Panasonic Corporate
+site was subdivided into a separate lot, which became the Imagine Gardens Park. The
+Town now holds a lease with the owner (an affiliate of Hartz Mountain Corporation)
+for the next ten years to use it as a park.
+
+The second site contained the former Lorenzo’s Italian restaurant at the time of the
+2017 VLA. In the Fall of 2022, the restaurant was demolished, and the site is now
+vacant.
+
+The two new sites generating a RDP are shown on Map 2, Affordable Housing Sites.
+The Imagine Gardens tract totals 2.47 acres. If it were to develop at a density of 30
+units per acre, it could reasonably be expected to produce 74.1 total housing units. At
+a 20% affordable housing set-aside, this lot generates a RDP for the Town of 14.82,
+rounded up to 15. The vacant tract totals 0.41 acres. If it were to develop at a density of
+20 units per acre, it could reasonably be expected to produce 8.2 total housing units.
+At a 20% affordable housing set-aside, this lot generates a RDP for the Town of 1.64,
+rounded up to 2.
+With the addition of Imagine Gardens tract and the vacant tract, and with the
+inclusion of 66 surplus units from the Third Round, the Town’s Third Round RDP
+increases to 277. But by increasing the RDP to that level, nine additional senior
+credits can be counted towards the Third Round from the XChange at Secaucus
+senior rental units, and 21 additional rental bonuses can be claimed for the XChange
+at Secaucus Junction family rental units, creating a surplus of 13 units and bringing
+the RDP to 290, thus allowing an additional three bonuses to be claimed. Once
+
+
+                                                                                  Page | 44
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 52 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                      June 17, 2025
+
+
+again, by increasing the RDP to 293, one additional rental bonus can be claimed.
+Thus, the grand adjusted RDP in the Third Round is 294 units, leaving a Third
+Round Unmet Need of 972 (1,266 – 294 = 972).
+
+Formulas Applicable to the Third Round
+
+As is similar to the Prior Round obligation, the Town must also adhere to a
+minimum rental obligation, a maximum number of age-restricted units, and a
+maximum number of bonuses in the Third Round (based on Second Round rules).
+Further, the Town must adhere to a minimum number of very low-income units,
+family units, family rental units, and family very low-income units pursuant to the
+terms of the Settlement Agreement.
+
+Thes calculations are based on the adjusted Third Round RDP obligation of 275 units
+and the actual number of housing units that have or will be constructed. The
+formulas applicable to Third Round obligation are calculated in the following table:
+
+              Table 25. Formulas Applicable to the Third Round Obligation
+   Minimum Rental Obligation N.J.A.C. 5:93-5.15(a)= 74 units
+   .25 (RDP) = units
+   .25 (294) = 73.5 rounded up to 74 units
+
+   Maximum Rental Bonus = 74 units
+   No more than the minimum rental obligation = 73.5 rounded up to 74 units
+
+   Maximum Senior Units N.J.A.C. 5:93-5.14(a)1 = 73 units
+   .25 (RDP) = units
+   .25 (294) = 73.5 rounded down to 73 units
+
+   Minimum Very Low-Income Units (P.L. 2008, Ch. 46) = 49 units
+   .13 (total affordable units constructed after mid-2008) = units
+   .13 (8+230+2+24+13+94) = .13 x 371 = 48.23 rounded up to 49 units
+
+   Minimum Family Rental Units = 37 units
+   .50 (Third Round minimum rental obligation) = units
+   .50 (74) = 37 units
+
+Additionally, with respect to rental bonuses, the housing plan abides by the following
+limitations from the Second Round rules:
+
+      A rental unit available to the general public receives one rental bonus;
+
+      An age-restricted rental unit receives a 0.33 rental bonus, but no more than
+       50% of the rental obligation shall receive a bonus for age-restricted rental
+       units; and
+
+      No rental bonus is granted in excess of the Third Round rental obligation.
+
+                                                                                  Page | 45
+ HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 53 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                             June 17, 2025
+
+
+Satisfaction of the Third Round RDP
+
+The Town will fully address its adjusted Third Round 294-unit RDP with 19 units at
+100% affordable housing developments, 101 units completed and under construction
+as part of inclusionary housing development, the 100 units of planned housing as
+part of the expansion of the XChange development, and 74 rental bonus credits for a
+total of 294 credits.
+
+Table 26 provides a summary of the developments included to address the entirety of
+the Town’s Third Round obligation. The sites are shown on Map 2, Affordable
+Housing Sites.
+
+                Table 26. Satisfaction of the Third Round Adjusted RDP
+
+
+Secaucus Third Round RDP Compliance Mechanisms                                           Total
+                                                                 Units   Bonuses
+(Third Round RDP = 275)                                                                 Credits
+100% Affordable (Completed)
+
+ Hudson Milestone (Senior Rental)                                  5                        5
+  Kroll Heights (Senior Rental – 14 of 75)               14                                14
+Inclusionary Development (Completed and Under Construction)
+
+ 100 Park Plaza Drive (Family Rental – 63 of 94)                  63        63           126
+ XChange at Secaucus Junction (Senior Rental)                     38                       38
+ XChange at Secaucus Junction RDP Site (Family Rental)           100     11, cap          111
+                                                         Total   220        74           294
+
+
+Secaucus meets its required minimum rental unit obligation of 74 units as all units
+constructed and under construction to address the Third Round RDP are rental units.
+Additionally, more than half of these units (163 of 220) are family rental units
+satisfying both the total family unit and family rental unit requirements. The Town
+proposes no more than 73 senior units. Secaucus is eligible for 74 rental bonus
+credits, the maximum permitted and utilized. All units for which bonus credit is
+sought are completed at the 100 Park Plaza Drive inclusionary housing development.
+
+Each of the components of the Third Round affordable housing obligation are
+described below. Except where noted, crediting documentation was provided as part
+of the Third Round’s Judgment of Compliance and Repose. Any crediting
+documentation is available for review upon request.
+
+
+
+
+                                                                                      Page | 46
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 54 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                     June 17, 2025
+
+
+
+100 Park Plaza Drive – Inclusionary Family Rental Housing
+
+A detailed description of this development is provided above as part of the section
+addressing the satisfaction of the Town’s Prior Round obligation. Of the 94 total
+affordable housing units at this site, 63 will address the Town’s Third Round
+obligation. The remainder will address the Town’s Prior Round obligation.
+
+XChange – Inclusionary Family and Age-Restricted Rental Housing
+
+A detailed description of this development is provided above as part of the section
+addressing the satisfaction of the Town’s Prior Round obligation. As previously
+indicated, XChange at Secaucus Junction is currently under development will consist
+of 2,535 housing units, of which 330 would be affordable units. As of this date, 1,753
+market-rate units and 188 affordable housing units have been completed and
+occupied and are located in Buildings A, C, D, K and Tower G. The development then
+remaining is 452 market rate units and 142 affordable units to be constructed as part
+of the riverward portion of the project.
+
+A total of 38 senior units and 100 family rental units will be used to satisfy the
+Town’s Third Round obligation.
+
+Hudson Milestones – 100% Age-Restricted Rental Housing
+
+Hudson Milestones manages and owns a group home for the developmentally
+disabled at Block 215, Lot 6, licensed by the State of New Jersey Department of
+Human Services (NJDHS) since December 10, 1991. This group home has five
+bedrooms, all of which are age-restricted, and the unit is barrier-free. The group
+home is licensed for six residents, all of whom qualify as low-income residents.
+Hudson Milestones reports that NJDHS establishes income levels and eligibility
+requirements for persons in the program prior to housing them in the group home.
+The company receives a yearly license to operate the facility and it has been renewed
+annually for a period of 26 years. Hudson Milestone functions as the contract
+provider to such services and anticipates that it will continue to receive its license
+renewal every year.
+
+Kroll Heights – 100% Age-Restricted Rental Housing
+
+A detailed description of this development is provided above as part of the section
+addressing the satisfaction of the Town’s Prior Round obligation. Kroll Heights is a
+75-unit age-restricted development operated by the Secaucus Housing Authority. The
+development was built and occupied in the First Round. Documentation for this
+building was submitted to COAH with the municipality’s First Round plan. A total of
+14 of the 75 affordable units at Kroll Heights will be used to satisfy the Town’s Third
+Round obligation and 61 units will satisfy the Prior Round obligation.
+
+
+
+
+                                                                               Page | 47
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 55 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                       June 17, 2025
+
+
+THIRD ROUND UNMET NEED MECHANISMS
+
+As upheld by the 2024 Amended FHA, COAH’s VLA rules at N.J.A.C. 5:93-4.2(h) do
+not require Unmet Need mechanisms to generate a specified number of units equal
+to the Unmet Need number. Rather, the mechanisms must provide a realistic
+opportunity that affordable housing can be created through private redevelopment
+(i.e., via inclusionary overlay zones) or publicly facilitated projects (i.e., via a
+development fee ordinance). N.J.A.C. 5:93-4.2(h) states that in addressing Unmet
+Need, COAH “may require at least any combination of the following in an effort to
+address the housing obligation:
+
+   1. Zoning amendments that permit apartments or accessory apartments;
+   2. Overlay zoning requiring inclusionary development or the imposition of a
+      development fee consistent with N.J.A.C. 5:93-8. In approving an overlay zone,
+      the governing body may allow the existing use to continue and expand as a
+      conforming use, but provide that where the prior use on the site is changed,
+      the site shall produce low- and moderate-income housing or a development
+      fee; or
+   3. Zoning amendments that impose a development fee consistent with N.J.A.C.
+      5:93-8.”
+
+In 2017, Secaucus received Court approval for the Town’s 2017 Third Round HEFSP
+based on consideration of a number of factors, including the Town’s proposed
+mechanisms for addressing its then 1,072-unit Unmet Need. With an adjusted Third
+Round RDP of 294 and an unmet need of 972, Secaucus will continue to address its
+Unmet Need with the following mechanisms: an updated development fee
+ordinance; the NJSEA Interim Policies that function as an affordable housing overlay
+zoning district; a mandatory affordable housing set-aside; and two sites identified for
+future inclusionary developments. These mechanisms are described below.
+
+NJSEA Interim Policies
+
+The Interim Policies Governing Affordable Housing Development in the
+Meadowlands District (effective July 24, 2008, revised to July 27, 2011) essentially
+function as an affordable housing overlay zoning district. The Interim Policies also
+form the basis for affordable housing set-aside’s in any redevelopment areas (witness
+the 100 Plaza Drive development). Under these policies, residential development
+greater than five total units is required to provide a 20% affordable housing set-aside.
+The NJSEA rules grant a three-unit per acre density increase in the Low Density
+Residential zone from 10 to 13 units per acre and a seven-unit per acre increase from
+25 units to 32 units per acre in the Planned Residential zone as an incentive to
+address the affordable housing setaside of 20%. Additionally, the NJSEA has created
+what is effectively an inclusionary overlay district in additional zoning districts which
+include the Waterfront Residential, Neighborhood Commercial, Regional
+
+
+                                                                                Page | 48
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 56 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                       June 17, 2025
+
+
+Commercial, Light Industrial A Districts as well as Redevelopment Area 7 (the
+Secaucus Transit Village) in which residential development, if found suitable, may be
+constructed at up to 32 units per acre.
+
+NJSEA has instituted procedures for the review of petitions by developers for
+residential development that examine their suitability where residential development
+is not permitted by right. In accordance with N.J.S.A. 52:27D-329.9, Section IV(b) of
+the Interim Policies requires affordable housing that can produce one affordable unit.
+Secondly, Section IV(c)1 establishes the criteria for site suitability, as follows:
+
+   i.   The site is adjacent to compatible land uses and has access to appropriate
+        streets;
+
+   ii. The site has access to water and sewer infrastructure with sufficient capacity;
+
+   iii. The site can be developed consistent with the rules of the NJMC;
+
+   iv. Former and existing land uses, either on the site or in the vicinity, may not
+       expose residents to environmental hazard. Alternatively, the site shall be
+       remediated to NJDEP residential standards as a condition of the Board’s
+       approval;
+
+   v. The size, shape, or layout of any existing structures that shall remain, or other
+      physical limitation(s) not listed previously, do not preclude residential use; and
+
+   vi. The site is suitable for residential use pursuant to sound planning principles.
+
+Following in Section IV(c)2, the NJSEA ordains that:
+
+   The development of any site determined to be suitable for housing shall not be
+   permitted to proceed with a solely non-residential development…[and]
+
+   If the property in question is determined to be suitable for housing by the
+   requirements of Section IV, a petition for rezoning shall be denied without further
+   deliberation and any non-residential uses requested shall be denied, unless the
+   petition includes, or is amended to include, residential development.
+
+Though Secaucus has accepted responsibility for the site plan review process as noted
+above, the Meadowlands Consolidation Act ensures that the zoning districts and
+policies instituted by the NJSEA remain in place. Thus, a built-in bias exists toward
+developing housing and, by rule, affordable housing on suitable sites in Secaucus.
+The Interim Policies will thus capture all of the potential affordable housing that may
+occur as the result of unforeseen redevelopment in excess of five dwelling units.
+
+Most notably, the Secaucus Junction Transit Village Concept Plan includes four sites
+where the future development of housing is a possibility, but unlikely to occur within
+the ten-year Third Round period due to anticipated market conditions, and
+environmental and legal issues (the Concept Plan is attached as Appendix M).
+
+                                                                                 Page | 49
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 57 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                      June 17, 2025
+
+
+However, if market conditions change to speed up redevelopment, the Town will be
+able to rely on the NJSEA’s Interim Policies to capture potential affordable units as
+part of its unmet need strategy.
+
+Secaucus Junction Train Station
+
+The Secaucus Junction Train Station, Site 15 on the Affordable Housing Sites map,
+was constructed with reinforced foundations that permit the construction of towers
+above the station. Using the original Allied Junction concept plans from 1991, a 40-
+story tower has been identified as the most likely of the four towers at the station to
+be developed during the ten-year period of the Third Round. It is estimated that the
+tower would support the development of 625 units, of which 125 units would be
+affordable units as required by NJSEA’s Interim Rules. The Town agrees to support
+this development.
+
+Transit Village – Transition Area
+
+To spur the likelihood of the redevelopment of other portions of the Secaucus Transit
+Village Redevelopment Area, the Town submitted a petition to NJSEA on September
+28, 2017 to amend the redevelopment plan and increase the number of dwelling
+units to 350 units in the Transition Area of the Redevelopment Plan (see the Concept
+Plan attached as Appendix M. The total number of units now permitted consists of
+280 market-rate units and 70 affordable units.
+
+Boulevard Tire – removed
+
+The NJSEA had received an application for multi-family redevelopment under its
+Interim Rules at 845 First Street (Block 132, Lot 2), formerly the site of the Boulevard
+Tire Company. The site has been recently redeveloped with a supermarket, which
+opened in January of 2025. As such, the site is no longer included as an unmet need
+mechanism.
+
+Development Fee
+
+Secaucus established a development fee ordinance for the collection of development
+impact fees and these funds will be used as indicated in the DEVELOPMENT FEE
+ORDINANCE and SPENDING PLAN sections, below.
+
+Mandatory Affordable Housing Set-Aside
+
+To create additional opportunities to satisfy the remaining unmet need, as part of its
+Zoning Ordinance (Chapter 135), the Town will require affordable housing set-asides
+that apply to parcels in the zoning jurisdiction of the municipality. These set-asides
+shall be applicable to developments with more than five units. The zoning ordinance
+will require a 15% set-aside on family rental residential projects and a 20% set-aside
+on for-sale residential. In the alternative and/or in combination with this set-aside
+requirement in the non-NJSEA controlled portion of the Town, the ordinance will
+contain a provision for contributions in lieu of construction to further affordable
+
+
+                                                                                Page | 50
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 58 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                    June 17, 2025
+
+
+housing opportunities in the Town as approved by the Affordable Housing Board
+(see Appendix N).
+
+The unmet need mechanisms proposed generate a realistic opportunity for the
+production of 125 affordable units at the Secaucus Junction Train Station and 70
+affordable units at the Transition Area of the Transit Village Redevelopment Area, for
+a total of at least 195 units or credits. By these means, the Town will address its
+unmet need to the extent feasible during the Third and Fourth Rounds.
+
+SATISFACTION OF THE FOURTH ROUND OBLIGATION
+
+Vacant Land Analysis and Realistic Development Potential
+
+As previously discussed, the Town has conducted an updated Vacant Land Analysis
+(VLA) after the Third Round HEFSP that has adjusted the Town’s Third Round
+Prospective Need of 1,266 units to a Third Round RDP 294 and an Unmet Need of
+972 units. Additionally, based on an analysis of property tax records, approvals, and
+aerial imagery, the Town has determined that there are no newly developable vacant
+land in the Town, giving the Town a Fourth Round RDP of zero and a Fourth Round
+Unmet Need of 1,000.
+
+Because of the structure of NJSEA’s Interim Rules, where, effectively, developers
+submit petitions for residential development and go through a site suitability
+analysis, the Town cannot predict potential affordable housing that may occur
+through this process. Notwithstanding that, any changed circumstances in the future
+that generate an RDP during the Fourth Round will be captured by the Interim Rules
+due to its mandatory 20% affordable housing set-aside. Additionally, as previously
+described under Unmet Need Mechanisms, the Town’s mandatory affordable
+housing set-asides required as part of its Zoning Ordinance will create additional
+opportunities to satisfy the remaining unmet need in the non-NJSEA controlled
+portion of the Town.
+
+FOURTH ROUND UNMET NEED MECHANISMS
+The Town will continue to rely on the Third Round Unmet Need compliance
+mechanisms previously discussed to address its Fourth Round Unmet Need.
+
+VERY LOW INCOME UNITS
+
+Pursuant to the 2008 amendments to the FHA, P.L. 2008, c.46 (codified as N.J.S.A.
+52:27D-329.1), municipalities must provide units affordable to very low-income
+households equal to 13% of all affordable units approved and constructed (or to be
+constructed) after July 1, 2008. Additionally, pursuant to the Settlement Agreement,
+half of these very low-income units must be available to families. As shown in Table
+27, Secaucus complies with this requirement, as nearly 20% of the units approved
+and constructed or to be constructed since that date are affordable or will be
+affordable to very low-income households.
+
+
+                                                                              Page | 51
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 59 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                           June 17, 2025
+
+
+  Table 27. Very Low-Income Units Approved and Constructed or To Be Constructed
+                                since July 17, 2008
+
+                                                                     VLI Units
+                                              Total                         Under
+        Compliance Mechanism
+                                              Units      Approved        Construction /
+                                                                          Constructed
+  Hudson Milestones (Age-restricted)               5            -                   5
+  XChange at Secaucus Junction
+                                                230             -                  58
+   (approved)
+  XChange at Secaucus Junction
+                                                100            13                   -
+  (proposed)
+  Osprey Cove (Family)                           24             -                   3
+  Osprey Cove East (Family)                      12             -                   1
+  100 Park Plaza Drive (Family)                  94             -                  10
+Total                                           465                 90 (19.35%)
+Very Low Family Units = 90 total planned units, 61 required.
+
+Additionally, the Town will revise Chapter 19 of the Secaucus Municipal Code, which
+deals with affordable housing matters, to ensure the minimum 13% very low-income
+unit count is met, including a 50% requirement for family units (see Appendix O).
+Notwithstanding the need to revise the ordinance, the Town, through its Affordable
+Housing Board, has been enforcing the very low requirement since the law was
+enacted in mid-2008.
+
+Per the more recently amended FHA (P.L. 2024, c.2) at N.J.S.A. 52:27D-329.1, at least
+half of very low-income units addressing the Fourth Round Prospective Need must
+be “available for families with children.” Given that the Town’s Fourth Round RDP is
+zero and no units are currently addressing the Fourth Round Prospective Need, this
+requirement does not apply.
+
+
+INCOME AND BEDROOM DISTRIBUTION
+Under COAH’s rules at N.J.A.C. 5:93-7.3 and UHAC at N.J.A.C. 5:80-26.1 et seq.,
+non-age-restricted affordable units must adhere to the following bedroom
+distribution: no more than 20% may be one-bedroom or efficiency units, at least 30%
+must be two-bedroom units, and at least 20% must be three-bedroom units. Table 28
+summarizes the bedroom-income distribution of affordable family housing units in
+Secaucus Town, demonstrating compliance with these standards.
+
+
+
+         Table 28. Income and Bedroom Distribution, Family Units, All Rounds
+
+
+                                                                                     Page | 52
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 60 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                     June 17, 2025
+
+
+                                              Bedroom Distribution
+      Income
+    Distribution      One-Bedroom/
+                                         Two-Bedroom     Three-Bedroom      Total
+                        Efficiency
+
+  Very Low-Income            27                46              23        96 (19.32%)
+    Low-Income               23                91              65        179 (36.02%)
+ Moderate-Income             29               117              76        222 (44.67%)
+        Total           79 (15.9%)       254 (51.11%)       164 (33%)     497 (100%)
+
+The above bedroom and income distribution includes 497 affordable family units
+within the following projects:
+
+  Riverside Court (12 units)                   Osprey Cove East (12 units)
+  City View Townhouses (2 units)               Osprey Cove (24 units)
+  XChange at Secaucus Junction                 The Harper (100 Park Plaza Dr)
+   (330 units)                                   (94 units)
+                                                The Waterton (23 units)
+
+COST GENERATION
+
+The Town’s Land Procedures and Zoning Ordinances have been reviewed to
+eliminate unnecessary cost generating standards, and provides for expediting the
+review of development applications containing affordable housing. Such expediting
+may consist of, but is not limited to, scheduling of pre-application conferences and
+special monthly public hearings. All development applications containing affordable
+housing must be reviewed for consistency with the Land Development Ordinance,
+Residential Site Improvement Standards (“RSIS”) (N.J.A.C. 5:21-1 et seq.) and the
+mandate of the FHA regarding unnecessary cost generating features. Secaucus will
+comply with COAH’s requirements for unnecessary cost generating requirements,
+N.J.A.C. 5:93-10.1, procedures for development applications containing affordable
+housing, N.J.A.C. 5:93-10.4, and requirements for special studies and escrow
+accounts where an application contains affordable housing, N.J.A.C. 5:93-10.3. Once
+DCA and HMFA finalize their rule proposals (not anticipated before June 30, 2025),
+the Town will revise its Land Procedures and Zoning Ordinances, if needed, in
+accordance with DCA’s proposed new regulations at N.J.A.C. 5:99, and UHAC’s new
+2025 regulations, anticipated to be released shortly, in order to address new
+requirements to address cost generative issues.
+
+
+
+MONITORING
+
+In accordance with the requirements of N.J.S.A. 52:27D-329.2 and -329.4 as amended
+by P.L. 2024 c.2, by February 15 of each year of the Fourth Round, the Town will
+
+                                                                               Page | 53
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 61 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                     June 17, 2025
+
+
+provide a detailed accounting through DCA’s new Affordable Housing Monitoring
+System (“AHMS”) of all affordable units constructed and construction starts during
+the prior calendar year, and of all residential and non-residential fees collected,
+interest earned, and other income collected and deposited into the Town’s affordable
+housing trust fund during the prior calendar year. Secaucus will also provide a
+detailed accounting in AHMS of all expenditures of affordable housing trust funds
+during the prior calendar year, including purposes and amounts, and documentation
+of the balance remaining in the affordable housing trust fund as of December 31 of
+that year.
+
+Secaucus or any other interested party may file an action through the Program
+seeking a realistic opportunity review at the midpoint of the certification period and
+shall provide for notice to the public, including a realistic opportunity review of any
+inclusionary development site in this Housing Element and Fair Share Plan that has
+not received preliminary site plan approval prior to the midpoint of the 10-year
+round. If such an action is initiated by the Town, Secaucus may propose one or more
+alternative sites with an accompanying development plan or plans that provide a
+realistic opportunity for the same number of affordable units and are otherwise in
+compliance with the FHA and the Mount Laurel doctrine.
+
+AFFORDABLE HOUSING ORDINANCE AND AFFIRMATIVE MARKETING
+
+The Town of Secaucus has in place ordinance requirements for Affordable Housing
+and Affirmative Marketing in accordance with N.J.A.C. 5:80-26-1 et seq. The Town’s
+affordable housing regulations are found in Article VI in Chapter 19 (Land Use
+Procedures) of the Code of the Town of Secaucus. While it governs the creation,
+administration, and occupancy of affordable units, the required low and moderate
+income set-asides; development fees; the programs that might be implemented to
+provide an opportunity for affordable housing; and outlines eligibility requirements
+and occupancy standards; a significant amendment is nonetheless proposed to
+Chapter 19 to update its regulations to comport with present day language and court
+decisions (see Appendix O). Once DCA and HMFA finalize their rule proposals
+(anticipated after June 30, 2025), the Town will further update its Fair Share
+Ordinance in accordance with court-upheld COAH’s rules, DCA’s proposed new
+regulations at N.J.A.C. 5:99, and UHAC’s new 2025 regulations that are anticipated
+to be released shortly, as well as to address any terms of the court-approved Third
+Round FSHC agreement, if relevant. The Fair Share Ordinance will govern the
+establishment of affordable units in the Town as well as regulating the occupancy of
+such units. The Towns’s Fair Share Ordinance covers the phasing of affordable units,
+the low/moderate income split, including that 13% of all units approved and
+constructed since 2008 be affordable to very low-income households earning no
+more than 30% of median income, bedroom distribution, occupancy standards,
+affordability controls, establishing rents and sales prices, affirmative marketing,
+income qualification, etc.
+
+Each developer/owner intending to sell or rent affordable dwellings must submit an
+Affordable Housing Plan to the Affordable Housing Board for approval. The
+
+                                                                               Page | 54
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 62 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                      June 17, 2025
+
+
+Affordable Housing Plan must include regulations for qualification of income
+eligibility, price and rent restrictions, bedroom distribution, affordability control
+periods, and unit marketing in accordance to N.J.A.C. 5:80-26.1. All newly created
+affordable units are required to comply with the 30-year affordability controls
+required by UHAC, N.J.A.C. 5:80-26.5 and -26.11. The approved plan must be used
+by all private, non-profit or municipal developers of affordable housing units and
+must cover the period of deed restriction or affordability controls on each affordable
+unit.
+
+Affirmative marketing of affordable units in the Town is conducted by individual
+Administrative Agents under contract to the developer/owner and overseen by the
+Town’s Municipal Housing Liaison. William F. Snyder, the Affordable Housing
+Board Administrator, will continue to hold the position of Municipal Housing
+Liaison. The affirmative marketing plan is part of the required Affordable Housing
+Plan that is reviewed by the Affordable Housing Board and approved prior to
+implementation. The costs of implementing the Affordable Housing Plan (i.e., the
+costs of advertising the affordable units, etc.) are the responsibilities of the
+developers/owners of the affordable units. This requirement is included in the
+Town’s Affordable Housing Article in Chapter 19.
+
+The Town of Secaucus has prepared a Preliminary Affirmative Marketing Plan
+(Appendix K). Once DCA and HMFA finalize their rule proposals (not anticipated
+before June 30, 2025), the Town will prepare an updated Affirmative Marketing Plan
+in accordance with DCA’s proposed new regulations at N.J.A.C. 5:99, UHAC’s new
+2025 regulations that are anticipated to be released shortly, any remaining relevant
+COAH rules not superseded by either the proposed 2025 DCA regulations or the
+upcoming 2025 revised UHAC rules, as well as to address any terms of the court-
+approved Third Round FSHC agreement. The Town will adopt an Affirmative
+Marketing Plan for all affordable housing sites. The Town’s current Affirmative
+Marketing Plan is designed to attract buyers and/or renters of all majority and
+minority groups, regardless of race, creed, color, national origin, ancestry, marital or
+familial status, gender, affectional or sexual orientation, disability, age or number of
+children to the affordable units located in the Town. Additionally, the Affirmative
+Marketing Plan is intended to target those potentially eligible persons who are least
+likely to apply for affordable units and who reside in the Town’s housing region,
+Region 1, consisting of Bergen, Hudson, Sussex and Passaic Counties.
+
+The Affirmative Marketing Plan lays out the random-selection and income
+qualification procedure of the administrative agent, which is consistent with COAH’s
+rules and N.J.A.C. 5:80-26.1. All newly created affordable units will comply with the
+minimum 30-year or 40-year (for rentals) affordability control required by UHAC,
+N.J.A.C. 5:80-26.1 et seq. This plan must be adhered to by all private, nonprofit or
+municipal developers of affordable housing units and must cover the period of deed
+restriction or affordability controls on each affordable unit.
+
+As required by the Court-approved Third Round FSHC agreement, the Affirmative
+Marketing Plan will lists housing advocacy groups including Fair Share Housing
+
+                                                                                Page | 55
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 63 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                     June 17, 2025
+
+
+Center, the State and local chapters of the NAACP, the Latino Action Network, and
+the Supportive Housing Association. The Town shall, as part of its regional
+affirmative marketing strategies during its implementation of this plan, provide
+notice to those organizations of all available affordable housing units. The Town also
+agrees to require any other entities, including developers or individual or companies
+retained to do affirmative marketing, to comply with this paragraph. Finally, in
+accordance with the July 2020 amendment to the FHA, the Town will include in its
+Affirmative Marketing Plan the requirement that all units subject to affirmative
+marketing requirements be listed on the state Housing Resource Center website.
+
+DEVELOPMENT FEE ORDINANCE
+
+Secaucus established a development fee ordinance for the collection of development
+impact fees (adopted April 12, 1995, amended 7-24-12, Ordinance 2012-27). See
+Appendix P. The updated ordinance permits collection of residential development
+fees equal to 1.5% of the equalized assessed value of new residential construction and
+additions, and mandatory nonresidential development fees equal to 2.5% of the
+equalized assessed value of new nonresidential construction and additions. Once
+DCA and HMFA finalize their rule proposals (not anticipated before June 30, 2025),
+the Town will prepare an updated development fee ordinance in accordance with
+DCA’s proposed new regulations at N.J.A.C. 5:99, UHAC’s new 2025 regulations
+that are anticipated to be released shortly, any remaining relevant COAH rules, not
+superseded by either the proposed 2025 DCA regulations or the upcoming 2025
+revised UHAC rules.
+
+SPENDING PLAN
+
+Secaucus Town’s affordable housing trust fund was established on April 12, 1995. As
+of December 31, 2023, the trust fund maintained a balance of $779,409.44 funds. A
+new Fourth Round Spending Plan, which discusses anticipated revenues, collection
+of revenues, and the use of revenues, has been prepared in accordance with N.J.A.C.
+5:93-5.1(c) and is included as Appendix J. All collected revenues are placed in the
+Town’s Affordable Housing Trust Fund and will be dispensed for the use of
+affordable housing activities as indicated in the Fourth Round Spending Plan. Once
+DCA and HMFA finalize their rule proposals (not anticipated before June 30, 2025),
+the Town will prepare an updated spending plan in accordance with DCA’s proposed
+new regulations at N.J.A.C. 5:99, UHAC’s new 2025 regulations that are anticipated
+to be released shortly, any remaining relevant COAH rules, not superseded by either
+the proposed 2025 DCA regulations or the upcoming 2025 revised UHAC rules.
+
+
+In general, the Town intends to use its trust fund revenues for the rehabilitation
+program and to provide affordability assistance for the provision of very low income
+units. Notwithstanding these objectives, the Town also seeks the flexibility to use the
+accumulated funds for any of the following affordable housing activities:
+
+      New construction;
+
+                                                                               Page | 56
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 64 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                     June 17, 2025
+
+
+      Purchase of land for low- and moderate-income housing;
+      Improvement of land to be used for low- and moderate-income housing;
+      Extensions and/or improvements of roads and infrastructure to low- and
+       moderate-income housing sites;
+      Assistance designed to render units to be more affordable.
+
+At least 30% of development fees and interest collected must be used to provide
+affordability assistance to low- and moderate-income households in affordable units
+included in a municipal Fair Share Plan and for the creation of very low-income
+units. Additionally, no more than 20% of trust fund revenues collected each year may
+be expended on administration, including, but not limited to, salaries and benefits for
+municipal employees or consultant fees necessary to develop or implement a
+rehabilitation program, a new construction program, an HEFSP, and/or an
+affirmative marketing program.
+
+The adoption of the Town’s Fourth Round Spending Plan will constitute a
+“commitment” for expenditure per the FHA at N.J.S.A. 52:27D-329.2, with a four-
+year time period for expenditure that will start with the entry of the Superior Court’s
+Fourth Round Judgment of Compliance and Repose and/or Compliance
+Certification.
+
+MULTIGENERATIONAL FAMILY HOUSING CONTINUITY
+
+The FHA requires an HEFSP to provide an analysis of the extent to which municipal
+ordinances and other local factors advance or detract from the goal of preserving
+multigenerational family continuity as expressed in the recommendations of the
+Multigenerational Family Housing Continuity Commission, adopted pursuant to
+paragraph (1) of subsection f. of 23 section 1 of P.L. 2021, c.273 (N.J.S. 52:27D-
+329.20). As of June 2025, no recommendations have been issued by the
+Commission.
+
+STATE DEVELOPMENT AND REDEVELOPMENT PLAN
+
+While the majority of Secaucus is located in the Hackensack Meadowlands Regional
+Planning Area (Sports & Exposition Authority Planning Area), approximately 0.7
+square miles of land in Secaucus are in the Metropolitan Planning Area (PA-1) as
+established by the State Development and Redevelopment Plan. The State Plan’s
+intent for the Metropolitan Planning Area is to:
+
+      Provide for much of the state’s future growth in compact development and
+       redevelopment;
+      Revitalize cities, towns and neighborhoods, and in particular overburdened
+       neighborhoods;
+      Address existing legacy issues such as air pollution, urban heat islands, lead
+       contamination, Brownfields, urban highways, and combined sewer systems;
+      Prevent displacement and gentrification;
+
+                                                                               Page | 57
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 65 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                     June 17, 2025
+
+
+      Promote growth that occurs in Centers, other appropriate areas that are
+       pedestrian friendly, and in compact transit-oriented forms;
+      Rebalance urbanization with natural systems;
+      Promote increased biodiversity and habitat restoration;
+      Stabilize and enhance older inner ring suburbs;
+      Redesign and revitalize auto oriented areas;
+      Protect and enhance the character of existing stable communities
+As a developed urban community with ample multi-modal transportation
+connections and existing sewer and water systems, the Town will implement this
+housing plan in a manner consistent with the intent of the SDRP, the Hackensack
+Meadowlands District Master Plan, and the Secaucus Master Plan through continued
+redevelopment and revitalization of land and rehabilitation of deficient housing units.
+
+SUMMARY
+
+The Town of Secaucus has demonstrated a long history of compliance with the
+constitutional obligations of the Mount Laurel Doctrine and the Fair Housing Act.
+Even before the advent of the Fair Housing Act, the Town sought and obtained
+federal funds for the development of housing that led to the construction of The Elms
+and the Rocco Impreveduto Tower (both low income senior developments). The
+municipality has never failed to apply for substantive certification of its Housing
+Element and Fair Share Plans and has been granted such certification when the NJ
+Council on Affordable Housing was a viable agency.
+
+The Town had a Third Round obligation of 1,266 units subject to a VLA and RDP. As
+a result of limited vacant and developable land in the municipality, the Court
+approved an adjustment of this Third Round obligation through a vacant land
+analysis conducted in accordance with N.J.A.C. 5:93-4.2. Pursuant to the Court Order
+approving the Settlement Agreement with FSHC, the Town agreed to a Third Round
+RDP of 194 units and an Unmet Need of 1,072 units. After completion of the Third
+Round HEFSP, the Town updated its vacant land analysis and found two sites
+generating a RDP. As a result, the Town amended its Third Round RDP to 294 units
+and its Unmet Need to 972 units.
+
+The Town of Secaucus has addressed its 25-unit Present Need obligation through the
+rehabilitation of 100 units at The Elm, an existing 100-unit housing development in
+the Town. However, the Town will continue its Rehabilitation Program during the
+Fourth Round and will allocate a portion of its affordable housing trust funds for that
+purpose as outlined in this housing plan. The Town has addressed the entirety of its
+590-unit Prior Round obligation, and it will fully address its Third Round adjusted
+294-unit RDP with 19 age-restricted rental units at 100% affordable housing
+developments, 101 units completed and under construction as part of inclusionary
+housing developments including 63 family rental units and 38 age-restricted rental
+
+
+
+                                                                               Page | 58
+ HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 66 of 71 Trans ID: LCV20251810687
+
+
+Town of Secaucus  Housing Element and Fair Share Plan                                                                   June 17, 2025
+
+
+units, 100 units of planned housing as part of the expansion of the XChange at
+Secaucus Junction development, and 74 rental bonus credits for a total of 294 credits.
+
+The Town has stipulated a Fourth Round RDP of zero units and an Unmet Need of
+1,000 units. Unmet Need for the Third and Fourth Round will be addressed through
+the NJSEA’s Interim Policies on affordable housing development, the Town’s support
+for the construction of housing development above the Secaucus Junction Train
+Station, the Town’s support for increasing density in the Transition Area of the
+Secaucus Transit Village Redevelopment Area, funds from the collection of
+development fees to be utilized to help support developers in the provision of very
+low income units and other opportunities for additional housing as they arise, and
+the establishment of mandatory affordable housing set-aside provisions for multi-
+family housing developments outside of the NJSEA jurisdiction.
+W:\5000's\Secaucus\5136.16 Housing Plans\2025 Housing Element\Secaucus Housing Plan Public Hearing Draft 6.6.2025.docx
+
+
+
+
+                                                                                                                             Page | 59
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 67 of 71 Trans ID: LCV20251810687
+
+
+PUBLIC HEARING DRAFT
+Town of Secaucus  Housing Element of the Master Plan                June 6, 2025
+
+
+                                      Appendix A
+    June 15, 2017 Court Order Approving the Settlement Agreement and Executed
+Settlement Agreement between the Town of Secaucus and Fair Share Housing Center
+                                (excluding exhibits)
+
+
+
+
+                                                                       APPENDICES
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 68 of 71 Trans ID: LCV20251810687
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 69 of 71 Trans ID: LCV20251810687
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 70 of 71 Trans ID: LCV20251810687
+HUD-L-000377-25 06/19/2025 5:06:52 PM Pg 71 of 71 Trans ID: LCV20251810687
+

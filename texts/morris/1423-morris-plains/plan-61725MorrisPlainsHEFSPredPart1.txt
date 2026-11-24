@@ -1,0 +1,1725 @@
+      MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 1 of 64 Trans ID: LCV20251786245
+
+
+
+
+        BOROUGH OF MORRIS PLAINS, NEW JERSEY
+         HOUSING ELEMENT AND FAIR SHARE PLAN
+                       FOURTH ROUND (2025-2035)
+
+
+                                            Prepared for:
+                               Borough of Morris Plains Planning Board
+                                      531 Speedwell Avenue
+                                   Morris Plains, N.J. 07950-0305
+
+
+                                            Prepared by:
+
+                               Phillips Preiss Grygiel Leheny Keller LLC
+                                Planning and Real Estate Consultants
+                                      70 Hudson Street, Suite 5B
+                                      Hoboken, New Jersey 07307
+
+                                            June 2025
+                                       Adopted: June 16, 2025
+
+The original copy of this document was signed and sealed in accordance with N.J.S.A. 45:14 A-1 et seq.
+
+
+
+
+                                         Elizabeth C. Leheny
+
+                           New Jersey Professional Planner License #6133
+           MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 2 of 64 Trans ID: LCV20251786245
+
+
+
+
+TABLE OF CONTENTS
+
+1   INTRODUCTION ........................................................................................................................................................... 1
+
+2   AFFORDABLE HOUSING IN NEW JERSEY AND MORRIS PLAINS .................................................................................... 2
+
+
+
+
+3   HOUSING ELEMENT/ FAIR SHARE PLAN REQUIREMENTS ............................................................................................ 6
+
+4   HOUSING STOCK AND DEMOGRAPHIC ANALYSIS ........................................................................................................ 8
+
+
+
+
+5   MORRIS PLAINS AFFORDABLE HOUSING PLAN .......................................................................................................... 24
+
+
+
+
+6   CONSISTENCY WITH THE STATE DEVELOPMENT AND REDEVELOPMENT PLAN .......................................................... 35
+
+7   APPENDIXES .............................................................................................................................................................. 37
+
+APPENDIX A.         THIRD ROUND SETTLEMENT AGREEMENTS WITH FAIR SHARE HOUSING CENTER, M&M AT MORRIS
+                    PLAINS, LLC, AND JMF-MORRIS PLAINS LLC
+
+APPENDIX B.         VACANT LAND ADJUSTMENT METHODOLOGY
+
+APPENDIX C.         INVENTORY AND MAPS OF PARCELS INVESTIGATED IN VACANT LAND ADJUSTMENT
+
+APPENDIX D.         DECISION AND ORDER FIXING MUNICIPAL OBLIGATIONS FOR “PRESENT NEED” AND “PROSPECTIVE
+                    NEED” FOR THE FOURTH ROUND HOUSING CYCLE, ISSUED BY SUPERIOR COURT OF NEW JERSEY LAW
+                    DIVISION - MORRIS COUNTY, DOCKET NO. MRS-L-000295-25, CIVIL ACTION JANINE M. ALLEN, J.S.C .
+                    MT. LAUREL PROGRAM, MAY 13, 2025
+
+APPENDIX E.         PROPOSED NEW OVERLAY ZONE ON BLOCK 112, LOT 2/100 CANDLEWOOD DRIVE
+
+APPENDIX F.         ADOPTED AFFORDABLE HOUSING ORDINANCE TO BE UPDATED AS NEEDED
+
+APPENDIX G.         ADOPTED AFFIRMATIVE MARKETING PLAN
+         MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 3 of 64 Trans ID: LCV20251786245
+
+
+
+
+LIST OF TABLES
+
+
+
+
+                             -
+
+
+
+
+             -
+
+
+
+
+LIST OF FIGURES
+      MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 4 of 64 Trans ID: LCV20251786245
+
+
+
+
+ACKNOWLEDGMENTS
+
+ MAYOR AND C OUNCIL                             PLANNING BOARD
+ Mayor Jason Karr                               Michael Garavaglia, Chair
+ Sal Cortese, Council President                 John Bezold, Vice Chair
+ Nancy Verga                                    Mayor Jason C. Karr
+ Art Bruhn, Jr.                                 Marianne Steckert
+ Bill Houston                                   Bill Houston, Council Liaison
+ Tyler Pontier                                  Steve Augenblick
+ Michael Ivey                                   Suzanne McCluskey
+                                                Andrew Wolff
+
+ AFFORDABLE HOUSING C OMMITTEE
+ David C. Schulz, Chair
+ Mayor Jason C. Karr
+ Art Bruhn, Jr.
+ Frank Druetzler
+ Michael Garavaglia
+ Bill Houston
+ Suzanne McCluskey
+ Edward J. Buzak, Esq.
+ William Ryden, P.E.
+ Elizabeth Leheny, PP, AICP
+
+
+ Borough Professionals
+ Edward J. Buzak, Esq.            Borough Affordable Housing Counsel
+ Andrew Brewer, Esq.              Planning Board Attorney
+ Elizabeth Leheny, PP, AICP       Borough and Planning Board Planner
+ William Ryden, P.E.              Borough and Planning Board Engineer
+ Karen Coffey                     Planning Board Secretary
+ John Horan, Esq.,                Borough Attorney
+ Rosanne Denman, RMC, CMR         Borough Clerk
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 5 of 64 Trans ID: LCV20251786245
+
+
+
+
+1 INTRODUCTION
+This Housing Element and Fair Share Plan has been prepared on behalf of the Borough of Morris Plains,
+Morris County, New Jersey (the “Borough”), in accordance with the New Jersey Municipal Land Use Law
+(N.J.S.A. 40:55D-28b(3)), the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 (2024)) as amended,
+applicable rules established by the Council on Affordable Housing (“COAH”), and the Administrative
+Office of the Courts Directive #14-24. This document addresses the Borough’s plans to address its 2025-
+2035 obligation to provide its fair share of the regional need for affordable housing. This Fourth Round
+Housing Element and Fair Share Plan will be submitted to the Affordable Housing Dispute Resolution
+Program and subsequently to Superior Court for a determination as to its compliance with the
+requirements.
+The Municipal Land Use Law, N.J.S.A. 40:55D-1, et seq., requires that a municipal master plan include a
+Housing Element in order for the municipality to exercise the power to zone and regulate land use. The
+Housing Element and Fair Share Plan is adopted by the Borough Planning Board and endorsed by the
+governing body. It is intended to achieve the goal of meeting the Borough’s obligations to plan and
+regulate land use to provide for a fair share of the regional need for affordable housing.
+
+Morris Plains remains committed to meeting its constitutional obligation to provide, through its land use
+regulations, a realistic opportunity for a fair share of the region’s present and prospective needs for
+housing for low- and moderate-income families. This Housing Element and Fair Share Plan document
+outlines how the Borough will address its affordable housing obligations.
+
+
+
+
+                                                                                                            1
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 6 of 64 Trans ID: LCV20251786245
+
+
+
+
+2 Affordable Housing In New Jersey and Morris Plains
+2.1 Mount Laurel I and Mount Laurel II
+ In 1975 the Supreme Court of New Jersey in South Burlington County N.A.A.C.P. v. Township of Mount
+ Laurel, 67 N.J. 151 (1975), commonly referred to as Mount Laurel I, ruled that the developing
+ municipalities in the State of New Jersey exercising their zoning power, in general, had a constitutional
+ obligation to provide a realistic opportunity for the construction of their fair share of the region’s low- and
+ moderate-income housing needs.
+
+ In 1983, the Supreme Court refined that constitutional obligation in South Burlington County N.A.A.C.P.
+ v. Township of Mount Laurel, 92 N.J. 158 (1983), commonly referred to as Mount Laurel II, to apply to
+ those municipalities having any portion of their boundaries within the growth area as shown on the State
+ Development Guide Plan.
+
+2.2 Fair Housing Act (1985) and COAH Rounds One and Two
+ In 1985, the New Jersey Legislature adopted, and the Governor signed, the Fair Housing Act N.J.S.A.
+ 52:2D-301, et seq. (“FHA”) which transformed the judicial doctrine that became known as the “Mount
+ Laurel doctrine” into a statutory one and provided an alternative administrative process in which
+ municipalities could elect to participate in order to establish a Housing Element and Fair Share Plan
+ (“HEFSP”) that would satisfy its constitutional obligation by creating an administrative agency known as
+ the Council on Affordable Housing (“COAH”) to develop regulations to define the obligation and
+ implement it. COAH proceeded to adopt regulations in 1986 for the First Round applicable from 1987-
+ 1994. In 1994, COAH adopted regulations for the Second Round that created a cumulative obligation
+ from 1987 to 1999.
+
+2.3   COAH Round Three
+ COAH first proposed Third Round substantive and procedural rules in 2003, but due to multiple legal
+ challenges, these rules were not adopted until 2008. However, the Third Round rules adopted in 2008
+ were challenged in an appeal entitled In the Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by the New
+ Jersey Council on Affordable Housing, 416 N.J. Super. 462 (App. Div. 2010) (the “2010 Case”). In October
+ 2010, the Appellate Division determined, among other things, that the methodology in the rules adopted
+ in 2008 was invalid and that COAH should adopt regulations utilizing methodologies similar to the ones
+ utilized in the First and Second Rounds, i.e. 1987-1999.
+
+ In 2013, the Supreme Court of New Jersey affirmed the Appellate Division’s invalidation of the third
+ iteration of the Third Round regulations, sustained their determination that the growth share
+ methodology was invalid, and directed COAH to adopt new regulations based upon the methodology
+ utilized in the First and Second Rounds, In the Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by the New
+ Jersey Council on Affordable Housing, 215 N.J. 578 (2013) (the “2013 Case”). COAH proceeded to
+ propose such regulations in accordance with the schedule established by the New Jersey Supreme Court
+ in the 2013 Case. On October 20, 2014, COAH deadlocked with a 3-3 vote and failed to adopt the revised
+
+                                                                                                                   2
+         MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 7 of 64 Trans ID: LCV20251786245
+
+
+
+
+ Third Round regulations.
+ Due to COAH’s failure to adopt the revised regulations and subsequent inaction, Fair Share Housing
+ Center (“FSHC”), a party in the 2010 Case and the 2013 Case, filed a motion with the New Jersey Supreme
+ Court to enforce litigant’s rights.
+
+ On March 10, 2015, the New Jersey Supreme Court issued its decision on FSHC’s motion. The Supreme
+ Court found that the COAH administrative process had become non-functioning and, as a result,
+ returned primary jurisdiction over affordable housing matters to the trial courts. In the Matter of the
+ Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council on Affordable Housing, 221 N.J. 1 (2015)
+ (the “2015 Case”), also referred to as Mount Laurel IV. In doing so, the Supreme Court established a
+ transitional process for municipalities to file a declaratory judgement action with the trial courts seeking
+ to declare their HEFSPs as being constitutionally compliant and seeking protection and repose against
+ exclusionary zoning litigation.
+
+2.4 Morris Plains Participation in COAH’s Third Round
+ The Borough prepared a Housing Element and Fair Share Plan for COAH’s Third Round in 2005 under
+ N.J.A.C. 5:94 and 5:95. As those rules were invalidated, Morris Plains again prepared a HEFSP in 2008
+ under N.J.A.C. 5:96 and 5:97. The 2008 HEFSP was adopted by the Planning Board on October 20, 2008
+ and subsequently endorsed by the Borough Council on October 23, 2008.
+2.4.1   Builder’s Remedy Litigation
+
+        ACP MORRIS PLAINS, LLC (“ACP”)
+        On October 24, 2008, Morris Plains filed the 2008 HEFSP and petitioned COAH for Third Round
+        substantive certification. By letter dated November 17, 2008, COAH advised that it could not
+        accept jurisdiction over Morris Plains due to the filing of builder’s remedy litigation against the
+        Borough by ACP Morris Plains, LLC (ACP) and returned the 2008 HEFSP and petition for Third Round
+        substantive certification to Morris Plains.
+
+        Pursuant to an October 21, 2010 Settlement Agreement, the Borough and ACP agreed to settle the
+        builder’s remedy litigation filed by ACP. However, just prior to this agreement, on October 8, 2010,
+        the Appellate Divisions invalidated portions of COAH’s Third Round rules which were later affirmed
+        by the Supreme Court on September 26, 2013.
+
+        M&M AT MORRIS PLAINS, LLC (“M&M”)
+
+        On January 29, 2013, between the Appellate Division decision in October 2010 and the Supreme
+        Court affirmation of that decision in September 2013, M & M at Morris Plains, LLC (“M&M”) filed a
+        Builder’s Remedy Complaint related to then Block 121, Lot 1 (M&M at Morris Plains, LLC v. Borough
+        of Morris Plains, Docket No. MRS-L-296-13) which sought judgment: (1) declaring Morris Plains’
+        zoning ordinances unconstitutional for failing to provide a realistic opportunity for the production
+        of its fair share of affordable housing in connection with its Second Round Obligation; (2) declaring
+        Morris Plains’ zoning ordinances unconstitutional for failing to provide a realistic opportunity for
+
+
+                                                                                                                3
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 8 of 64 Trans ID: LCV20251786245
+
+
+
+
+     the production of its fair share of affordable housing in connection with its Third Round fair share
+     housing obligation; (3) directing Morris Plains to adopt a Fair Share Plan and implement ordinances
+     so as to provide a realistic opportunity for the satisfaction of Morris Plains’ Second Round fair share
+     housing obligation; (4) directing Morris Plains to adopt a Fair Share Plan and implement ordinances
+     so as to provide a realistic opportunity for the satisfaction of Morris Plains’ Third Round fair share
+     housing obligation and (5) appointing a special master, to serve at Morris Plains’ expense, and
+     provide guidance and testimony regarding Morris Plains’ compliance with the Mt. Laurel doctrine
+     and any other obligations imposed by the Court.
+
+     In the subsequent years, Morris Plains engaged in settlement discussions with M&M until reaching
+     a Settlement Agreement dated June 22, 2018, which permitted the following on Block 121, Lot 1:
+
+        434 residential units of which 73 shall be affordable to very low-, low- and moderate-income
+        households.
+
+        15,000 square feet of retail/service/restaurant uses
+
+        A hotel of 135 to 200 rooms
+
+     JMF-MORRIS PLAINS, LLC
+
+     On March 20, 2014, JMF- Morris Plains, LLC (“JMF”) filed a Builder’s Remedy Complaint (JMF-Morris
+     Plains, LLC v. Borough of Morris Plains, et al., Docket No. JV1RS-L-737-14) which set forth a number
+     of counts that challenged (i) Morris Plains' compliance with the Mount Laurel Doctrine for both the
+     Prior Rounds (1987-1999) and the Third Round (2000-2025); and (ii) the legitimacy of the zoning for
+     property owned by JMF, i.e., Block 11, Lot 3 and otherwise known as 1000, 1100 and 1200 The
+     American Road. In the subsequent years, Morris Plains engaged in settlement discussions with JMF
+     until reaching a Settlement Agreement dated June 22, 2018 which permitted on Block 11, Lot 3 the
+     construction of up to 281 units of housing, including 50 units available to very low-, low- and
+     moderate-income households including 22 age-restricted units.
+
+Fair Share Housing Center (“FSHC”) filed for intervenor status in the M&M litigation and an interested
+party in the JMF litigation. The Borough reached a Settlement Agreement with FSHC dated May 29, 2018
+and signed June 21, 2018. See Appendix A for copies of all three settlement agreements.
+
+A Judgment of Compliance and Repose was entered by the Court (presided over by Honorable Maryann
+L. Nergaard, J.S.C.) on June 29, 2018 and a Final Judgment of Compliance and Repose was entered on
+December 21, 2018.
+Pursuant to the terms of the Final Judgment of Compliance and Repose, the Borough undertook the
+following actions:
+
+     The Planning Board adopted a Housing Element and Fair Share Plan on July 23, 2018, outlining how
+     the Borough would address its Prior Round and 1999-2025 affordable housing obligations;
+
+
+
+
+                                                                                                               4
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 9 of 64 Trans ID: LCV20251786245
+
+
+
+
+       The Borough Council adopted Resolution No. 2018-113 entitled “Resolution of the Borough Council
+       of the Borough of Morris Plains Adopting an Affirmative Fair Housing Marketing Plan for Affordable
+       Housing in Region 2 for the Borough of Morris Plains;”
+
+       The Borough Council adopted Ordinance #15-2018 which established the R-8 Residence District on
+       Block 11, Lot 3, i.e., the JMF site, to permit development on the tract which would create up to 50
+       affordable housing units;
+
+       The Borough Council adopted Ordinance #16-2018 which established the Tabor Road Planned Unit
+       (TRPUD) District on Block 121, Lot 1, i.e., the M&M site, to permit development on the tract which
+       would create up to 73 affordable housing units;
+
+       The Borough Council adopted Ordinance #17-2018 which established an Affordable Housing
+       Ordinance; and
+
+       The Borough continues to address its Present Need obligation through participation in the Morris
+       County’s housing rehabilitation program.
+
+2.5 Amended Fair Housing Act (2024) and Fourth Round (2025-2035)
+ On March 20, 2024, Governor Murphy signed into law P.L. 2024, c.2, an Amendment to the 1985 Fair
+ Housing Act (hereinafter “Amended FHA” or “Act”). The Amended FHA eliminated COAH, and it set forth
+ standards by which the fair share of municipalities must be established for the Fourth Round covering
+ the period July 1, 2025, through June 30, 2035, and for subsequent rounds. It also created the Affordable
+ Housing Dispute Resolution Program (the “Program”) to oversee disputes and provide for mediation.
+ The Amended FHA also established a timeline by which government entities and municipalities are
+ required to act including the following:
+
+         October 20, 2024: Per the Amended FHA, the New Jersey Department of Community Affairs
+         (“DCA”) was required to determine the obligation of all municipalities based upon the standards
+         in the Amended FHA and to issue a non-binding report no later than October 20, 2024, setting forth
+         its estimates of each municipality’s non-binding obligation based upon those standards. DCA
+         issued their report setting forth their estimates of each municipality’s non-binding obligation on
+         October 18, 2024.
+
+         January 31, 2025: The Amended FHA permits municipalities the choice to either accept the DCA
+         determination of their obligation described above, or to provide their own determination based
+         upon the standards in the Amended FHA. Municipalities were required to adopt a binding
+         resolution of its Fourth Round obligation by January 31, 2025. If the municipality met this January
+         31 deadline, then the municipality’s determination of its obligation would be established by
+         default and would bear a presumption of validity beginning on March 1, 2025, as the municipality’s
+         obligation for the fourth round, unless challenged by an interested party on or before February 28,
+         2025.
+
+
+
+                                                                                                               5
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 10 of 64 Trans ID: LCV20251786245
+
+
+
+
+        February 28, 2025: The deadline for an interested party to file a challenge with the Program
+        regarding a Borough’s determination of its Fourth Round obligation was February 28, 2025. Any
+        challenge was required to state with particularity how the municipal calculation failed to comply
+        with the Amended FHA and include the challenger’s own calculation of the fair share obligations.
+
+        March 31, 2025: The Program was required to consider a challenge and resolve a dispute initiated
+        by an interested party no later than March 31, 2025.
+
+        June 30, 2025: A municipality is required to adopt a housing element and fair share plan and
+        propose drafts of the appropriate zoning and other ordinances and resolutions to implement its
+        present and prospective obligations. The plan must be filed with the Program. Any municipality
+        that does not adopt a housing element and fair share plan by June 30, 2025, shall lose its immunity
+        from builders’ remedy lawsuits.
+
+        August 31, 2025: An interested party may file a challenge with the Program on or before August 31,
+        2025, alleging that the municipality’s fair share plan and housing element are not in compliance
+        with the Amended FHA or the Mount Laurel doctrine. Any interested party that files a challenge
+        shall specify with particularity which sites or elements of the municipal fair share plan do not
+        comply with the Amended FHA or the Mount Laurel doctrine, and the basis for alleging such
+        noncompliance. If a municipality’s fair share plan and housing element is not challenged on or
+        before August 31, 2025, then the program shall apply an objective standard to conduct a limited
+        review of the fair share plan and housing element for consistency and to determine whether it
+        enables the municipality to satisfy the fair share obligation, applies compliant mechanisms, meets
+        the threshold requirements for rental and family units, does not exceed limits on other unit or
+        category types, and is compliant with the Amended FHA and the Mount Laurel doctrine.
+
+        December 31, 2025: The program shall facilitate communication between the municipality and
+        any interested parties for a challenge and provide the municipality until December 31, 2025 to
+        commit to revising its fair share plan and housing element in compliance with the changes
+        requested in the challenge, or provide an explanation as to why it will not make all of the requested
+        changes, or both. Upon resolution of a challenge, the program shall issue compliance
+        certification, conditioned on the municipality’s commitment, as necessary, to revise its fair share
+        plan and housing element in accordance with the resolution of the challenge. The program may
+        also terminate immunity if it finds that the municipality is not determined to come into
+        constitutional compliance at any point in the process.
+
+        March 15, 2026: The requirement to adopt all implementing ordinances to effectuate the HEFSP
+        as set forth in and incorporating any changes from the program, shall be adopted on or before
+        March 15, 2026. Failure to meet the March 15 deadline shall result in the municipality losing
+        immunity from exclusionary zoning litigation.
+
+2.6 Affordable Housing Committee
+ In April 2024, the Mayor of Morris Plains formed an ad hoc Morris Plains Affordable Housing Committee
+
+                                                                                                                6
+      MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 11 of 64 Trans ID: LCV20251786245
+
+
+
+
+(“Committee”) to address matters arising out of the Amended FHA. The Committee is composed of the
+Mayor, members of the Governing Body, Planning Board, and Board of Adjustment, in addition to the
+Borough Planner, Borough Engineer, and Borough Affordable Housing Counsel. The Committee met
+regularly to carefully and diligently assess information associated with the Amended FHA as it pertains
+to Morris Plains and reported its findings and recommendations to the Morris Plains Governing Body and
+Planning Board for their respective considerations.
+
+The Committee worked closely with the Borough’s professionals to prepare this Housing Element and
+Fair Share Plan pursuant to applicable law and regulations and addresses Morris Plains’ affordable
+housing obligation through the Fourth Round.
+
+
+
+
+                                                                                                          7
+  MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 12 of 64 Trans ID: LCV20251786245
+
+
+
+
+3 HOUSING ELEMENT/ FAIR SHARE PLAN REQUIREMENTS
+In accordance with the Municipal Land Use Law (N.J.S.A. 40:55D-1, et seq.), a municipal Master
+Plan must include a housing element as the foundation for the municipal zoning ordinance.
+Pursuant to the Fair Housing Act, a municipality’s housing element must be designed to provide
+access to affordable housing to meet present and prospective housing needs, with particular
+attention to low- and moderate-income housing. The housing element must contain at least the
+following, as per the Amended FHA at N.J.S.A. 52:27D-310.
+
+   a. An inventory of the municipality’s housing stock by age, condition, purchase or rental value,
+      occupancy characteristics, and type, including the number of units affordable to low- and
+      moderate-income households and substandard housing capable of being rehabilitated;
+
+   b. A projection of the municipality’s housing stock, including the probable future construction
+      of low- and moderate-income housing, for the next ten years, taking into account, but not
+      necessarily limited to, construction permits issued, approvals of applications for
+      development, and probable residential development of lands;
+
+   c. An analysis of the municipality’s demographic characteristics, including, but not
+      necessarily limited to, household size, income level, and age;
+
+   d. An analysis of the existing and probable future employment characteristics of the
+      municipality;
+   e. A determination of the municipality’s present and prospective fair share of low- and
+      moderate- income housing and its capacity to accommodate its present and prospective
+      housing needs, including its fair share of low- and moderate-income housing; and
+
+   f.   A consideration of the lands most appropriate for construction of low- and moderate-
+        income housing and of the existing structures most appropriate for conversion to, or
+        rehabilitation for, low- and moderate-income housing, including a consideration of lands
+        of developers who have expressed a commitment to provide low- and moderate-income
+        housing; and
+
+   g. An analysis of the extent to which municipal ordinances and other local factors advance or
+      detract from the goal of preserving multigenerational family continuity as expressed in the
+      recommendations of the Multigenerational Family Housing Continuity Commission,
+      pursuant to N.J.S.A. 52:27D-329.20f.(1);
+
+   h. For a municipality located within the jurisdiction of the Highlands Water Protection and
+      Planning Council, established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an
+      analysis of compliance of the housing element with the Highlands Regional Master Plan of
+      lands in the Highlands Preservation Area, and lands in the Highlands Planning Area for
+  MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 13 of 64 Trans ID: LCV20251786245
+
+
+
+
+        Highlands-conforming municipalities. This analysis shall include consideration of the
+        municipality's most recent Highlands Municipal Build Out Report, consideration of
+        opportunities for redevelopment of existing developed lands into inclusionary or 100
+        percent affordable housing, or both, and opportunities for 100 percent affordable housing
+        in both the Highlands Planning Area and Highlands Preservation Area that are consistent
+        with the Highlands regional master plan; and
+
+   i.   An analysis of consistency with the State Development and Redevelopment Plan, including
+        water, wastewater, stormwater, and multi-modal transportation based on guidance and
+        technical assistance from the State Planning Commission.
+The Administrative Office of the Courts issued Administrative Directive #14-24 on December 13,
+2024 establishing guidelines implementing the Affordable Housing Alternative Dispute
+Resolution Program (“the Program”) established pursuant to section 5 of P.L.2024, c.2 (N.J.S.A.
+52:27D-313.2). The Directive imposed additional requirements not included in the Amended FHA.
+Included in the Directive is the requirement to include a Spending Plan, Affirmative Marketing
+Plan, Affordable Housing Ordinance, and Mandatory Set-Aside Ordinance in the Housing Element
+and Fair Share Plan.
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 14 of 64 Trans ID: LCV20251786245
+
+
+
+
+4 HOUSING STOCK AND DEMOGRAPHIC ANALYSIS
+4.1 Housing Stock Inventory
+ In 2023, there were 2,591 housing units in Morris Plains, of which 67, or almost 3 percent were vacant. Of
+ the 2,524 occupied units, close to 75 percent were owner occupied and 25 percent were rented. Table 1,
+ Housing Units by Occupancy Status, 2023, illustrates this occupancy status in 2023.
+
+ TABLE 1. HOUSING UNITS BY OCCUPANCY STATUS, 2023
+
+                 Status            Housing Units               Owner                Renter Occupied
+                                                              Occupied
+              Occupied                 2,524                   1,886                       638
+                Vacant                   67                        -                         -
+                 Total                 2,591                       -                         -
+    Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+ Most of the housing stock consists of single-family detached units. Structures with 3 or more units make
+ up 25 percent of the total housing stock. Of the total housing units, 71 percent were single-family
+ detached units and close to 3 percent were single-family attached or two family units. See Table 2,
+ Housing Units by Number of Units in Structure, 2023 for a detailed explanation of the housing units in
+ 2023.
+
+ TABLE 2. HOUSING UNITS BY NUMBER OF UNITS IN STRUCTURE, 2023
+
+  Number of Units                       Total                                    Percent
+    1, Detached                         1,844                                     71.2%
+     1, Attached                         55                                        2.1%
+          2                              17                                        0.7%
+        3 or 4                           20                                        0.8%
+        5 to 9                           256                                       9.9%
+       10 to 19                          84                                        3.2%
+         20+                             289                                      11.2%
+    Mobile Home                          26                                        1.0%
+        Other                             0                                        0.0%
+        Total                           2,591                                      100%
+    Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+ Table 3, Housing Units by Age, 2023, illustrates the age of the Borough’s housing stock. As one would
+ expect from an older, mostly built-out community, close to 14 percent of the Borough’s housing stock was
+ constructed prior to 1940 and the majority of the housing, or 67 percent, was constructed in the 50 years
+ between 1940 and 1989.
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 15 of 64 Trans ID: LCV20251786245
+
+
+
+
+TABLE 3. HOUSING UNITS BY AGE, 2023
+
+    Year Built                     Total Units                                  Percent
+   2020 or later                         0                                         0%
+   2010 to 2019                         306                                      11.8%
+   2000 to 2009                         48                                        1.9%
+   1990 to 1999                         138                                       5.3%
+   1980 to 1989                         407                                      15.7%
+   1970 to 1979                         126                                       4.9%
+   1960 to 1969                         351                                      13.5%
+   1950 to 1959                         508                                      19.6%
+   1940 to 1949                         352                                      13.6%
+   Before 1940                          355                                      13.7%
+       Total                           2,591                                      100%
+   Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+*Please note that the American Community Survey (“ACS”) provides estimates of Census data. The ACS indicated
+that no housing units were built since 2020 in Morris Plains. However, the New Jersey Construction Reporter (Table
+19) which reports on municipal certificates of occupancy indicated that 163 units were built in Morris Plains since
+2020, totaling approximately 5.9 percent of the housing stock.
+
+Table 4, Comparison of Housing Units by Number of Rooms for Morris Plains & Morris County, 2023,
+shows that in Morris Plains approximately 10 percent have between one (1) and three (3) rooms; 34
+percent of the housing stock has between four (4) and six (6) rooms and 56 percent has seven (7) or more
+rooms. In Morris County, nearly 13 percent of housing units have between one (1) and three (3) rooms;
+36 percent have between four (4) and six (6) rooms; and 52 percent have seven (7) or more rooms. The
+median rooms per unit is 6.8, which indicates that the housing stock in Morris Plains is, on average, slightly
+larger in size, as compared to the median rooms per unit for the whole County, which is 6.6.
+      MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 16 of 64 Trans ID: LCV20251786245
+
+
+
+
+TABLE 4. HOUSING UNITS BY NUMBER OF ROOMS FOR MORRIS PLAINS & MORRIS COUNTY, 2023
+
+          Rooms              Number of Units         Percent of        Number of          Percent of
+                             in Morris Plains         Units in        Units in Morris      Units in
+                                                    Morris Plains        County            Morris
+                                                                                           County
+            1                        0                   0%               3,231              1.6%
+            2                       48                  1.9%              4,927              2.5%
+            3                       198                 7.6%              17,467             8.8%
+            4                       304                11.7%              23,012            11.6%
+            5                       185                 7.1%              22,577            11.4%
+            6                       399                15.4%              24,978            12.6%
+            7                       474                18.3%              26,090            13.1%
+            8                       350                13.5%              27,717            14.0%
+           9+                       633                24.4%              48,612            24.5%
+          Total                    2,591               100%              198,611            100%
+  Median Rooms per Unit                       6.8                                   6.6
+  Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+Tables 5 and 6, Housing Values, Owner Occupied, for 2013 and 2023 respectively, show that the median
+housing values of owner-occupied housing in Morris Plains increased close to 29 percent between 2013
+and 2023. During this time, the median value in Morris County also increased by 29 percent. In 2013,
+Morris Plains’ median housing value of $472,900 was almost 9 percent higher than Morris County’s
+median value of $432,400 and in 2023, Morris Plains’ median housing value of $609,700 was 9 percent
+higher than the median value of $557,000 for Morris County.
+TABLE 5. HOUSING VALUES, OWNER OCCUPIED, 2013
+
+
+                       Number in        Percent in Morris Number in Morris       Percent in Morris
+    Housing Value     Morris Plains           Plains             County                County
+  Less than $50,000         23             1.3%                    2,083                 1.5%
+  $50,000 to $99,999         9             0.5%                    1,406                 1.0%
+$100,000 to $149,999       0               0.0%                    1,311                 1.0%
+$150,000 to $199,999       4               0.2%                    3,346                 2.5%
+$200,000 to $299,999       222             12.3%                  18,812                13.8%
+$300,000 to $499,999       794             43.9%                  58,230                42.7%
+$500,000 to $999,999       758             41.9%                  43,837                32.2%
+ $1,000,000 or more        0               0.0%                    7,271                 5.3%
+        Total             1,810             100%                 136,296                100%
+ 2013 Median Value                $472,900                                 $432,400
+  Source: American Community Survey, 2009-2013 (Table DP04 Selected Housing Characteristics);
+      MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 17 of 64 Trans ID: LCV20251786245
+
+
+
+
+TABLE 6. HOUSING VALUES, OWNER OCCUPIED, 2023
+
+ Housing Value          Number       in     Percent       in    Number in Morris        Percent      in
+                        Morris Plains       Morris Plains       County                  Morris County
+ Less than $50,000      0                   0%                  1,404                   1.0%
+ $50,000 to $99,999     0                   0%                  1,480                   1.0%
+ $100,000         to    0                   0%                  878                     0.6%
+ $149,999
+ $150,000         to    0                   0%                  1,472                   1.0%
+ $199,999
+ $200,000         to    67                  3.6%                9,969                   7.0%
+ $299,999
+ $300,000         to    466                 24.7%               44,816                  31.6%
+ $499,999
+ $500,000         to    1,269               67.3%               67,465                  47.6%
+ $999,999
+ $1,000,000 or more     84                  4.5%                14,287                  10.1%
+ Total                  1,886               100%                141,771                 100%
+ 2023 Median Value      $609,700                                $557,000
+   Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics).
+The vast majority of Morris Plains occupied units paying rent in 2023 spent more than $2,000 a month
+(i.e., almost 81 percent), whereas the majority of units in Morris County spent between $1,000 to $2,000
+a month on rent (i.e., close to 68 percent). Overall, the median rent in Morris Plains was $2,686 whereas
+the median rent in the County was $1,860, indicating that rent tends to be more affordable County-wide
+as compared to the Borough. See Table 7, Comparison of Morris Plains and Morris County, Monthly
+Rental Cost, 2023.
+
+TABLE 7. COMPARISON OF MORRIS PLAINS AND MORRIS COUNTY, MONTHLY RENTAL COST, 2023
+
+                           Number in            Percent in           Number in             Percent in
+  Gross Rent
+                         Morris Plains        Morris Plains       Morris County         Morris County
+  No Rent Paid                       33                     -               1,629                     -
+  Less than $500                     12                   2.0               2,209                 4.6%
+  $500 - $999                        24                   4.0               1,930                 4.0%
+  $1,000 - $1,499                    26                   4.3               9,666                20.0%
+  $1,500 - $1,999                    56                   9.3              14,466                29.9%
+  $2,000 - $2,499                   115                19.0%                8,520                17.6%
+  $2,500 - $2,999                   187                30.9%                5,679                11.7%
+  $3,000 or more                    185                30.6%                5,970                12.3%
+  Total                            605                 100%               48,440                 100%
+  Median Rent                         $2,686                                    $1,860
+   Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+In 2023, 26 percent of Morris Plains owner occupied households contributed 30 percent or more of their
+      MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 18 of 64 Trans ID: LCV20251786245
+
+
+
+
+income towards monthly housing costs, whereas approximately 56 percent contributed less than 20
+percent of their income towards monthly housing costs. See Table 8, Monthly Housing Costs as a
+Percentage of Household Income in the Past 12 Months – Owner Occupied Housing Units, 2023, for
+further information.
+
+TABLE 8. MONTHLY HOUSING COSTS AS PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS – OWNER
+OCCUPIED HOUSING UNITS, 2023
+
+         Income             Less than 20 percent         20 to 29 percent        30 percent or more
+   Less than $20,000                  0%                        0%                        1.5%
+    $20,000 - $34,999                 0%                        0%                        4.8%
+    $35,000 - $49,999                 0%                       0.4%                       2.4%
+    $50,000 - $74,999                1.3%                      1.1%                       4.7%
+    $75,000 or more                 54.7%                     16.3%                       12.9%
+          Total                      56%                       18%                        26%
+    Zero or Negative                                            0%
+        Income
+     No Cash Rent                                                -
+   Source: American Community Survey, 2019-2023 (Table S2503 Financial Characteristics)
+In 2023, 38 percent of Morris Plains renter occupied households contributed 30 percent or more of their
+income towards monthly rental costs, whereas approximately 18 percent contributed less than 20
+percent of their income towards monthly rental costs. The largest portion of the Borough renter occupied
+households (i.e., close to 39 percent) contributed between 20 and 29 percent of their income toward
+monthly rental costs. See Table 9, Monthly Housing Costs as a Percentage of Household Income in the
+Past 12 Months – Renter Occupied Housing Units, 2023, for further information.
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 19 of 64 Trans ID: LCV20251786245
+
+
+
+
+ TABLE 9. MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS – RENTER
+ OCCUPIED HOUSING UNITS, 2023
+
+   Income                          Less than 20         20 to 29 percent        30 percent or more
+                                   percent
+   Less than $20,000               0%                   0%                      3.3%
+   $20,000 - $34,999               0%                   0%                      6.1%
+   $35,000 - $49,999               0%                   0%                      6.1%
+   $50,000 - $74,999               0%                   0%                      4.2%
+   $75,000 or more                 18.2%                38.6%                   18.3%
+   Total                           18.2%                38.6%                   38.0%
+   Zero or Negative Income         0%
+   No Cash Rent                    5.2%
+    Source: American Community Survey, 2019-2023 (Table S2503 Financial Characteristics)
+ Morris Plains has 10 housing units that lack complete plumbing facilities and zero units that are
+ overcrowded (defined as having 1.01 or more persons per room). The Borough also has 14 units that have
+ no telephone service available, and 10 units that lack complete kitchen facilities. See Table 10, Selected
+ Quality Indicators, Occupied Housing Stock, 2023.
+
+ TABLE 10. SELECTED QUALITY INDICATORS, OCCUPIED HOUSING STOCK, 2023
+
+      No.        Overcrowded         No Telephone                Lacking          Lacking Complete
+     Units                          Service Available           Complete           Kitchen Facilities
+                                                                Plumbing
+     2,524              0                   14                     10                      10
+
+    Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+
+4.2 General Population Characteristics
+ The population of Morris Plains has increased overall between 1990 and 2020 by 934 persons or almost
+ 18 percent. The rate of growth within the Borough has steadily increased since 1990, with the largest rate
+ of growth having occurred in the period between 2010 and 2020 (i.e., 11 percent). In comparison, the
+ County population has steadily increased since 1990, albeit at a decreasing rate. See Table 11,
+ Population Growth, 1990-2020.
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 20 of 64 Trans ID: LCV20251786245
+
+
+
+
+ TABLE 11. POPULATION GROWTH, 1990-2020
+
+             1990         2000           Percent    2010         Percent         2020          Percent
+                                         Change                  Change                        Change
+                                         (1990-                  (2000-                        (2010-
+                                         2000)                   2010)                         2020)
+Morris       5,219        5,236          0.3%       5,532        5.7%            6,153         11.2%
+Plains
+Morris       421,353      470,212        11.6%      492,276      4.7%            509,285       3.5%
+County
+    Source: 1990, 2000, 2010, & 2020 U.S. Census
+ From 2010 through 2020, there were shifts in the age distribution of Morris Plains. The age group 5 through
+ 14 decreased the most overall from 795 people to 702 people, i.e., nearly 12 percent. The age group 25-34
+ increased the most overall from 576 people to 833 people, i.e., almost 45 percent. The age group 65-74
+ also substantially increased by 42 percent between 2010 and 2020 and the age group 45-54 also
+ substantially decreased during the same period. The median age of the Borough has not significantly
+ changed, slightly decreasing from 42.1 to 41.8. See Table 12, Comparison of Age Distribution, 2010-2020,
+ for additional details.
+
+ TABLE 12. COMPARISON OF AGE DISTRIBUTION, 2010 – 2020
+
+                                                                                                      Percent
+  Age Group                    2010           Percent             2020            Percent
+                                                                                                      Change
+  Under 5                        355             6.40%              346                 5.6%            -2.5%
+  5-14                          795            14.30%              702              11.4%              -11.7%
+  15-24                         483             8.70%              629              10.2%               30.2%
+  25-34                         576            10.40%              833              13.5%               44.6%
+  35-44                         828            15.00%              827              13.4%               -0.1%
+  45-54                         880            15.90%              815              13.2%               -7.4%
+  55-64                         697            12.60%              853              13.9%               22.4%
+  65-74                         437             7.90%              621              10.1%               42.1%
+  75+                           481             8.70%              527               8.6%                9.6%
+  Total                       5,532           100.00%             6153               100%                    -
+  Median Age                           42.1                               41.8                               -
+    Source: 2010 and 2020 U.S. Census (2020 - Table DP1 Profile Of General Population And Housing
+    Characteristics)
+
+4.3 Household Characteristics
+ A household is defined by the U.S. Census bureau as those persons who occupy a single room or group of
+ rooms constituting a housing unit; however these persons may or may not be related. As a subset of
+ households, a family is identified as a group of person including a householder and one or more persons
+ related by blood, marriage, or adoption, all living in the same household. In 2023, there were 2,524
+ households in Morris Plains, with an average of 2.46 persons per household and an average of 3.04
+ persons per family. Approximately 65 percent of the households are comprised of family households and
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 21 of 64 Trans ID: LCV20251786245
+
+
+
+
+ close to 57 percent of households consist of married couples with or without children. Almost 35 percent
+ of the Morris Plains’ households are non-family households which include individuals. See Table 13,
+ Household Characteristics in Morris Plains, for additional details. (Source: ACS 2019-2023, Table S1101
+ & S2501).
+
+ TABLE 13. HOUSEHOLD CHARACTERISTICS IN MORRIS PLAINS
+
+                                                                              Quantity
+   Number of households                                                        2,524
+   Average number of persons per household                                     2.46
+   Number of families                                                          1,648
+   Average number of persons per family                                        3.04
+   Percentage married couples with or without                                  57%
+   children
+   Percentage non-family (including individuals)                                 35%
+    Source: American Community Survey, 2019-2023 (Table S1101 & S2501
+
+4.4 Income Characteristics
+ People residing in Morris Plains have, on average, higher incomes than in Morris County as a whole.
+ Annual median income for households in 2023 in Morris Plains was $149,623, whereas annual median
+ income for households in the County was $134,929. Table 14, Household and Family Income by Income
+ Brackets for Morris Plains and Morris County, 2023, further illustrates these findings by noting the number
+ of households in each of the income categories.
+
+ TABLE 14. HOUSEHOLD INCOME FOR OCCUPIED UNITS BY INCOME BRACKETS, FOR MORRIS PLAINS AND MORRIS
+ COUNTY, 2023
+
+                                      Morris Plains                          Morris County
+                               Households        Percent              Households       Percent
+  Less than $5,000             37                1.5%                 3,659            1.9%
+  $5,000 to $9,999             0                 0%                   1,630            0.8%
+  $10,000 to $14,999           12                0.5%                 2,711            1.4%
+  $15,000 to $19,999           0                 0%                   2,423            1.3%
+  $20,000 to $24,999           98                3.9%                 2,975            1.6%
+  $25,000 to $34,999           39                1.5%                 7,383            3.8%
+  $35,000 to $49,999           91                3.6%                 10,491           5.5%
+  $50,000 to $74,999           161               6.4%                 19,409           10.1%
+  $75,000 to $99,999           291               11.5%                19,283           10.1%
+  $100,000 to $149,999         552               21.9%                35,184           18.3%
+  $150,000 or more             1,243                49.2%             86,692               45.2%
+  Total                        2,524                100%              191,840              100%
+  Median Income                $149,623                               $134,929
+    Source: American Community Survey, 2019-2023 (Table S2503 Financial Characteristics)
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 22 of 64 Trans ID: LCV20251786245
+
+
+
+
+4.5 Multigenerational Housing Continuity
+ Multigenerational housing is becoming a desired housing option in the State due to rising housing costs
+ and an aging population. Housing for multigenerational families is necessary to offer a diverse housing
+ stock and to account for population trends. Multigenerational housing can provide an opportunity for
+ residents to age in place, save on costs associated with housing, and provide in-house care for an older
+ adult or persons with disabilities. Additionally, multigenerational housing is a more sustainable approach
+ to meeting housing obligations as there is no need for the construction of new homes in order to provide
+ housing for additional individuals.
+
+ On November 8, 2021, the Senate and General Assembly of the State of New Jersey adopted C.52:27D-
+ 329.209, which established the Multigenerational Family Housing Continuity Commission. The
+ commission is allocated within the Department of Community Affairs. The duties of the commission
+ include: preparing and adopting recommendations on how State government, local government,
+ community organizations, private entities, and community members may most effectively advance the
+ goal of enabling senior citizens to reside at the homes of their extended families, thereby preserving and
+ enhancing multigenerational family continuity, through the modification of State and local laws and
+ policies in the areas of housing, land use planning, parking and streetscape planning, and other relevant
+ areas.
+
+ The bill requires that a municipality's housing element shall be designed to achieve the goal of access to
+ affordable housing to meet present and prospective housing needs, with particular attention to low- and
+ moderate-income housing, and shall contain, among other requirements:
+
+      An analysis of the extent to which municipal ordinances and other local factors
+      advance or detract from the goal of preserving multigenerational family continuity as
+      expressed in the recommendations of the Multigenerational Family Housing
+      Continuity Commission).
+ This language is included in the Amended FHA at N.J.S.A. 52:27D-310. It should be noted that at the time
+ of the preparation of this Housing Element and Fair Share Plan, the commission has made no
+ recommendations. That said, Morris Plains is committed to promoting multigenerational family
+ continuity through the provision of a variety of housing options offered to a variety of income levels in a
+ manner consistent with the regulations. In recent years, Morris Plains has increased the diversity of its
+ housing stock with the construction of multifamily housing offering one-level living, as well as assisted
+ living facilities. Affordable units restricted to seniors are offered at The American and The Highlands.
+
+ The Borough offers Senior Citizen & Senior Tax Freeze which permits annual tax deductions of up to
+ $250.00 from property taxes for homeowners age 65 or older or disabled person who meet certain income
+ and residency requirements. Other Borough programs include rides for medical appointments, essential
+ shopping, etc. Morris County also offers curb-to-curb shared ride transportation services to County
+ seniors, people with disabilities, veterans, and the general public.
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 23 of 64 Trans ID: LCV20251786245
+
+
+
+
+ Morris Plains Senior Citizen Group provides opportunities for social interaction, education, and
+ recreation through monthly meetings and organized excursions.
+
+ Additionally, the Borough seniors may take advantage of programs through Morris County which are
+ designed to help seniors age in place. Through NewBridge SAIL (Senior Assistance for Independent
+ Living), Morris County residents age 60 and over are connected with available community resources that
+ enable them to remain in their homes. The free program includes at-home evaluations by a registered
+ nurse, in-home professional counseling to homebound seniors and individuals with physical difficulties
+ in Morris County. It also offers respite care and counseling to those who are caring for an elderly or infirm
+ family member or friend. The program also links seniors to local providers of additional services,
+ including senior day programs, home health aides, transportation, shopping assistance, nutrition
+ programs, legal counseling, medication management, home repairs, hospice care and other assistance.
+
+ Morris Plains residents can also participate, if eligible, Morris Habitat for Humanity’s Aging in Place
+ program which provides support relating to home modifications that improve the mobility, accessibility
+ and safety of a home or energy efficiency repairs and improvements. Such improvements include:
+ installing wheelchair ramps; installing chair lifts on stairways; securing handrails and grab bars ; changing
+ faucets and door knobs to levers; installing handheld and/or slidebar showerheads; adding LED light
+ fixtures to basement stairs; repairing sidewalks; and other accessibility or weatherization improvements
+
+ The Borough is committed to supporting inclusive housing opportunities that meet the needs of residents
+ at every stage of life, actively prioritizing thoughtful planning and following population trends.
+
+4.6 Employment Characteristics
+ Table 15, Employment Status, 2023, indicates in 2023 the number of Borough residents 16 years and over
+ who were in the labor force, the type of labor force (i.e., civilian or armed forces), and employment status.
+ Approximately 74 percent of Morris Plains residents 16 and over are in the in the labor force and all of
+ these residents are in the civilian labor force. Of the residents in the civilian labor force approximately 96
+ percent are employed and approximately 4 percent are unemployed.
+
+ TABLE 15. EMPLOYMENT STATUS, 2023
+
+                                       Number in Morris Plains             Percent in Morris Plains
+   Population 16 years and over                   5,244                                   -
+   In Labor Force                                 3,853                                73.5%
+   Civilian Labor Force                           3,853                                73.5%
+                       Employed                   3,682                                70.2%
+                     Unemployed                    171                                  3.3%
+   Armed Forces                                     0                                    0%
+   Not in Labor Force                             1,391                                26.5%
+    Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics)
+      MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 24 of 64 Trans ID: LCV20251786245
+
+
+
+
+Table 16, Employment by Occupation, Morris Plains, 2023, identifies the occupations of employed
+persons. While Morris Plains residents work in a variety of industries, approximately 64 percent of
+employed residents work in management, business, science, and arts related occupations and 20
+percent are employed in sales and office occupations, and 8 percent work in the service sector.
+
+TABLE 16. EMPLOYMENT BY OCCUPATION, MORRIS PLAINS, 2023
+
+                      Sector Jobs                              Number                Percent
+  Management, Business, Science, and Arts                       2,345                 63.7%
+  Occupations
+  Service                                                        300                   8.1%
+  Sales and Office                                               742                  20.2%
+  Natural Resources, Construction, and Maintenance               191                   5.2%
+  Production, Transportation, and Material Moving                104                   2.8%
+  Total                                                         3,682                 100%
+   Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics)
+Table 17, Distribution of Employment by Industry, Borough Residents, 2023 shows the distribution of
+employment by industry for employed Morris Plains residents. The three industries to capture the largest
+segments of the population were the Educational, Health and Social Services at 28 percent; Professional,
+Scientific, Management, Administrative, and Waste Management Services at close to 18 percent; and
+Manufacturing at 11 percent.
+TABLE 17. DISTRIBUTION OF EMPLOYMENT BY INDUSTRY, BOROUGH RESIDENTS, 2023
+
+ Sector Jobs                                                                     Number          Percent
+ Agriculture, Forestry, Fishing and Hunting, and Mining                             6              0.2%
+ Construction                                                                      260             7.1%
+ Manufacturing                                                                     406            11.0%
+ Wholesale Trade                                                                   116             3.2%
+ Retail Trade                                                                      236             6.4%
+ Transportation and Warehousing, and Utilities                                     140             3.8%
+ Information                                                                        76             2.1%
+ Financing, Insurance, Real Estate, Renting, and Leasing                           244             6.6%
+ Professional, Scientific, Management, Administrative, and Waste
+ Management Services                                                               660           17.9%
+ Educational, Health and Social Services                                          1,038          28.2%
+ Arts, Entertainment, Recreation, Accommodation and Food Services                  235            6.4%
+ Public Administration                                                             202            5.5%
+ Other                                                                              63            1.7%
+ Total                                                                            3,682          100%
+   Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics)
+Of the employed residents approximately 72 percent are private wage and salary workers; 20 percent are
+government workers and 7 percent are self-employed. See Table 18, Distribution by Class of Worker,
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 25 of 64 Trans ID: LCV20251786245
+
+
+
+
+2023, for additional detail.
+TABLE 18. DISTRIBUTION BY CLASS OF WORKER, 2023
+
+                                      Number in Morris Plains           Percent in Morris Plains
+    Private Wage and Salary                   2,662                              72.3%
+            Workers
+      Government Workers                          751                            20.4%
+    Self-employed in own not                      269                            7.3%
+     incorporated business
+            workers
+     Unpaid family workers                        0                                0%
+             Total                              3,682                             100%
+   Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics)
+According to the US Census’s Longitudinal Employer-Household Dynamics data, there were 4,782
+private sector jobs in Morris Plains in 2022. The three largest sectors of in-town employment in 2022 were
+Management of Companies and Enterprises at nearly 22 percent; Health Care and Social Assistance at
+19 percent; and Professional, Scientific and Technical Services at 17 percent. There was an overall
+increase in jobs between 2012 and 2022 by 1,390 jobs or 41 percent. The largest total increase in jobs
+between 2012 and 2022 occurred in the Management of Companies and Enterprises sector by 1,018 jobs
+or almost 6,363 percent. The largest total decrease in jobs between 2012 and 2022 occurred in the
+Accommodation and Food Services (91 jobs or 41 percent) and Wholesale Trade (91 jobs or close to 49
+percent) sectors. See Table 19, Private Sector Employment in Morris Plains by Industry Sector, 2012,
+2017, 2022 for details.
+      MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 26 of 64 Trans ID: LCV20251786245
+
+
+
+
+TABLE 19. PRIVATE SECTOR EMPLOYMENT IN MORRIS PLAINS BY INDUSTRY SECTOR, 2012, 2017, 2022
+
+                                    2012                      2017                     2022
+    PRIVATE SECTOR          COUNT          SHARE      COUNT          SHARE     COUNT          SHARE
+           JOBS
+  Agriculture, Forestry,       0            0%           0           0.0%         0            0%
+  Fishing and Hunting,
+        and Mining
+ Mining, Quarrying, and        0            0%           0           0.0%         1            0%
+ Oil and Gas Extraction
+         Utilities             0             0%         0             0.0%       0             0%
+      Construction             97           2.9%       133            2.9%      75            1.6%
+      Manufacturing           202           6.0%       171            3.7%      326           6.8%
+    Wholesale Trade           187           5.5%       382            8.3%      96            2.0%
+       Retail Trade           432          12.7%       636           13.8%      463           9.7%
+   Transportation and          43           1.3%       12             0.3%      24            0.5%
+      Warehousing
+       Information             59          1.7%        19            0.4%       16            0.3%
+ Finance and Insurance        141          4.2%        140           3.0%       195           4.1%
+ Real Estate and Rental        8           0.2%        11            0.2%        4            0.1%
+       and Leasing
+      Professional,           649          19.1%       647           14.0%      823           17.2%
+      Scientific and
+   Technical Services
+     Management of            16           0.5%        1221          26.5%      1034          21.6%
+     Companies and
+       Enterprises
+    Administration &          90           2.7%         51           1.1%       154           3.2%
+     Support, Waste
+    Management and
+       Remediation
+  Educational Services        117           3.4%       169            3.7%      146            3.1%
+     Health Care and          644          19.0%       528           11.4%      928           19.4%
+    Social Assistance
+  Arts, Entertainment,        86           2.5%          0           0.0%         2           0.0%
+     and Recreation
+  Accommodation and           220          6.5%        147           3.2%       129           2.7%
+      Food Services
+     Other Services           256          7.5%        265           5.7%       257           5.4%
+    (Excluding Public
+     Administration)
+ Public Administration        145          4.3%         83            1.8%       109           2.3%
+    TOTAL PRIVATE             3392        100.0%        4615         100.0%     4782          100.0%
+        SECTOR
+   Source: US Census’s Longitudinal Employer-Household Dynamics
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 27 of 64 Trans ID: LCV20251786245
+
+
+
+
+4.7 Growth Trends and Projections
+4.7.1   Residential Trends and Projections
+
+ According to the New Jersey Construction Reporter, between 2013 and 2023, Morris Plains issued 348
+ certificates of occupancy: Of the total 348 certificates of occupancy issued, there were 143 for one- and
+ two-family units and 205 for multifamily units. See Table 20, Residential Certificates of Occupancy, 2013-
+ 2023, for additional detail.
+ TABLE 20. RESIDENTIAL CERTIFICATES OF OCCUPANCY, 2013-2023*
+                   2013      2014   2015     2016     2017    2018     2019     2020    2021     2022     2023   Total
+   1&2             6         2      0        2        0       4        0        1       3        125      0      143
+   Family
+
+   Multifamily     0         0      0        0        0       171      0        0       0        34       0      205
+   Total           6         2      0        2        0       175      0        1       3        159      0      348
+    Source: New Jersey Construction Reporter
+        *Please note that the American Community Survey (“ACS”) provides estimates of Census data. The
+        ACS (Table 3) indicated that no housing units were built since 2020 in Morris Plains. However, the
+        New Jersey Construction Reporter (Table 19) which reports on municipal certificates of occupancy
+        indicated that 163 units were built in Morris Plains since 2020, totaling approximately 5.9 percent of
+        the housing stock.
+
+ Although the Borough has seen the construction of predominantly one- and two-family homes over the
+ last decade, there have been several recent multifamily projects approved and/or in Morris Plains as part
+ of the Borough’s compliance with its fair share obligations. Not all of these projects are reflected in the
+ data from the New Jersey Construction Reporter. These projects include the completed Signature Place
+ (197 units), The American (281 units), Davenport Village (56 units), and portions of the M&M site (139
+ townhouses and 34 affordable units are complete and 261 additional market units including 39
+ affordable units are approved). The Borough has encouraged the development of these projects in an
+ effort to provide its regional fair share of affordable housing. Aside from these projects, the Borough
+ anticipates little additional multifamily housing development. This is due in part to the lack of vacant land
+ and environmental constraints on the remaining undeveloped tracts zoned for residential use.
+
+4.7.2   Nonresidential Trends and Projections
+
+ According to the New Jersey Construction Reporter, between 2013 and 2023, Morris Plains issued
+ certificates of occupancy (“CO’s”) for a total of ±465,186 square feet of non-residential buildings. See
+ Table 21, Non-Residential Certificates of Occupancy, 2013-2023, for additional detail. The majority of the
+ non-residential growth can be attributed to:
+
+           330,926 square feet of multifamily/dormitories space for which certificates of occupancy were
+           issued in 2018 and 2022;
+         MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 28 of 64 Trans ID: LCV20251786245
+
+
+
+
+            73,491 square feet of institutional space for which certificates of occupancy were issued in 2017
+            and 2021;
+
+            60,769 square feet of office space for which certificates of occupancy were issued in 2016 and
+            2019.
+In 2024, the Borough issued CO’s for warehouse space on Tabor Road and site plan approval for the
+redevelopment of the Weichert headquarters on the southwest corner of Johnson Road and Route 10 into
+a retail and office development.
+
+TABLE 21. NON-RESIDENTIAL CERTIFICATES OF OCCUPANCY, 2013-2023
+
+              201   201    2015   2016     2017     2018     2019    2020     2021    2022    202    Total
+               3     4                                                                         3
+Office         0     0      0     2,555      0        0      58,21     0       0        0      0    60,769
+                                                               4
+Retail         0     0      0       0        0       0         0       0       0        0      0       0
+A-1            0     0      0       0        0       0         0       0       0        0      0       0
+A-2            0     0      0       0        0       0         0       0       0        0      0       0
+A-3            0     0      0       0        0       0         0       0       0        0      0       0
+A-4            0     0      0       0        0       0         0       0       0        0      0       0
+A-5            0     0      0       0        0       0         0       0       0        0      0       0
+MultiFa        0     0      0       0        0     288,26      0       0       0      42,66    0    330,926
+m/                                                   2                                  4
+Dorm.
+Hotel/         0     0      0       0        0        0        0       0       0        0      0       0
+Motel
+Educati        0     0      0       0        0        0        0       0       0        0      0       0
+on
+Industri       0     0      0       0        0        0        0       0       0        0      0       0
+al
+Hazard         0     0      0       0        0        0        0       0       0        0      0       0
+ous
+Instituti      0     0      0       0     72,020      0        0       0     1,471      0      0    73,491
+onal
+Storage        0     0      0       0        0        0        0       0       0        0      0       0
+Signs,         0     0      0       0        0        0        0       0       0        0      0       0
+Fences,
+Utility &
+Misc.
+TOTAL          0     0      0     2,555   72,020   288,26    58,21     0     1,471    42,66    0    465,186
+                                                     2         4                        4
+    Source: New Jersey Construction Reporter
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 29 of 64 Trans ID: LCV20251786245
+
+
+
+
+4.7.3   Capacity for Growth
+ Morris Plains has the capacity to meet its Fair Share Obligation. Customary or ordinary improvements to
+ the existing infrastructure, including but not limited to public wastewater and public water, will be
+ completed as necessary. However, Morris Plains is reaching its traffic capacity limit in a number of areas
+ in the Borough as well as classroom capacity in its schools. The Borough anticipates that a portion of its
+ Fair Share Obligation can be accommodated on vacant land but the majority of new residential units,
+ particularly multifamily units, will occur on sites that are currently improved but may be expanded or
+ redeveloped for housing.
+          MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 30 of 64 Trans ID: LCV20251786245
+
+
+
+
+5 MORRIS PLAINS AFFORDABLE HOUSING PLAN
+5.1 Satisfaction of Prior Round Obligation (1987-2025)
+ Per the Amended FHA ( N.J.S.A. 52:27D-304.1.3.a(f)(2)(a)), as part of its housing element and fair share
+ plan, the municipality shall include an assessment of the degree to which the municipality has met its
+ fair share obligation from the prior rounds of affordable housing obligations as established by prior court
+ approval, or approval by COAH, and determine to what extent this obligation is unfulfilled or whether the
+ municipality has credits in excess of its prior round obligations.
+
+ As detailed in Chapter 3, pursuant to its Settlement Agreements with M&M At Morris Plains, LLC (“M&M”),
+ JMF-Morris Plains, LLC (“JMF”), and Fair Share Housing Center (“FSHC”) and its Judgment of Compliance
+ and Repose entered by the Court, Morris Plains had the following affordable housing obligations for the
+ 1987-2025 compliance periods:
+
+          Prior Round (1987-1999): 144 units
+
+          Third Round (1999-2025): 205 units
+
+5.1.1    Prior Round (1987-1999) Obligation of 144 Units
+
+ Morris Plains had a Prior Round obligation of 144-units. The Borough addressed this obligation through
+ credits at the projects detailed below and summarized in Table 22, Prior Round Affordable Housing
+ Credits.
+
+ TABLE 22. PRIOR ROUND AFFORDABLE HOUSING CREDITS
+                                 CREDITS APPLIED TOWARDS 144 UNIT PRIOR ROUND OBLIGATION
+        Affordable               Block/Lot       Type            Units/Bedrooms   Bonus          Total     Status
+        Development                                                               Credits        Credits
+        ARC Project               196.02/8       Group           3 bedrooms       ---            3         Complete
+                                                 Home
+        Arbour House             Confidential    Emergency       12 bedrooms      ---            12        Complete
+                                                 Shelter for
+                                                 Battered
+                                                 Women
+        Simon House              Confidential    Transitional    11 units         ---            11        Complete
+                                                 Housing
+        Highlands Development        24/1        Age-            18 units         ---            18        Complete
+                                                 Restricted
+                                                 Rentals
+        M&M at Morris Plains,     121/1.02       Family          73 units         36    rental   109       34
+        LLC                       121/1.03       Rentals                          bonus                    Complete
+                                                                                  credits                  39
+                                                                                                           Approved
+                                                 Total Credits         117              36        153
+                                   Total Credits Constructed            83              34        117
+                           Surplus above 144 Unit Obligation                                       9
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 31 of 64 Trans ID: LCV20251786245
+
+
+
+
+5.1.1.1 Status of Unbuilt Prior Round Project
+ Pursuant to its May 2018 Settlement Agreement with M&M, in September 2018, the Borough adopted
+ zoning for the ±63-acre Block 121, Lot 1 known as the Tabor Road Planned Unit Development (“TRPUD”)
+ district. The zoning provides regulations for eight components. Block 121, Lot 1.02 is in the Multifamily
+ Apartment Component and Block 121, Lot 1.03 is in the Affordable Housing Component. To the north of
+ the Multifamily Apartment Component is the Townhouse Component which is currently being
+ constructed by Lennar. To the south of Lot 1.02 and east of Lot 1.03 is the Retail/Service/Restaurant
+ Component which is zoned to permit 15,000 square feet of non-residential space. To the south of Lot
+ 1.03 is the Hotel Component which is zoned to permit a hotel. The TRPUD zoning permits 261 multi-family
+ apartment units on the 12.25-acre Lot 1.02 of which 39 units are to be reserved as affordable units. The
+ TRPUD zoning permits 34 rental multi-family apartment units on the 1-acre Lot 1.03 of which all are to be
+ reserved as affordable units.
+
+ The Planning Board granted Preliminary and Final Major Site Plan approval and Preliminary and Final
+ Major Subdivision approval to the Applicant in 2019 to subdivide the ±63-acre tract into 8 parcels, and
+ construct on these lots 434 residential units of which 73 units are affordable; 15,000 square feet of
+ retail/service/restaurant uses; and a hotel. Specifically, the Board granted the Applicant approval to
+ construct 261 multifamily apartment units on Lot 1.02. Of the 261 units, 39 units would be affordable
+ units. The units would be spread across four buildings: Buildings 1A, 1B, 1C and 1D. The Board also
+ granted the Applicant approval to construct 34 multifamily affordable apartment units on Lot 1.03.
+
+ On May 10, 2023, the Borough issued a Certificate of Occupancy for the 100 percent affordable building
+ on Lot 1.03 containing 34 affordable housing units. The units are comprised of 15 3-bedroom units and
+ 19 2-bedroom units. The deed restrictions on affordability is in perpetuity. Two of the 2-bedroom and two
+ of the 3-bedroom units are reserved for very low-income households.
+
+ In 2022, the Planning Board granted amended Site Plan approval for proposed modifications to Buildings
+ 1A and 1C. The number of affordable housing units and the bedroom mix of these units remained the
+ same. Six of the units will be reserved for very low-income households. In August 2023, the Planning
+ Board granted a second amended Site Plan approval to further modify the facades and common areas of
+ the buildings. Again, the number of affordable units will be the same as in the earlier approvals.
+
+ Although the buildings on Lot 1.02 are not yet constructed, the Borough has every expectation that the
+ buildings will be constructed in the coming years consistent with the terms of the Settlement Agreement
+ with M&M at Morris Plains, LLC, including the remaining 39 units reserved for very low-, low-, and
+ moderate-income households. Per the standards of the Amended FHA, Lot 1.02 continues to present a
+ realistic opportunity for the creation of very low-, low-, and moderate-income housing. These units will
+ complete the Borough’s Prior Round obligation of 144 units and will result in a surplus of 9 units to be
+ carried over to later affordable housing round.
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 32 of 64 Trans ID: LCV20251786245
+
+
+
+
+5.1.2   Third Round (1999-2025) Obligation of 205 Units
+ The Borough had a Third Round obligation of 205 Units. The Borough addressed this obligation through
+ credits at the projects detailed below and summarized in Table 23, Third Round Affordable Housing
+ Credits.
+
+ TABLE 23. THIRD ROUND AFFORDABLE HOUSING CREDITS
+                               CREDITS APPLIED TOWARDS 205 UNIT THIRD ROUND OBLIGATION
+   Affordable            Block/Lot      Type                   Units/Bedrooms       Bonus           Total     Status
+   Development                                                                      Credits         Credits
+   Prior Round Surplus        ---                ---                   ---                ---            9       ---
+   Davenport Village         101/       Family Rentals/ Age-    19 Age-Restricted     37 rental         93    Complete
+                             3.02        Restricted Rentals          Rentals        bonus credits
+                                                                37 Family Rental
+   Signature Place           171/1         Family Rentals        30 rental units      15 rental         45    Complete
+                                                                                    bonus credits
+   Arbor Terrace             23/1         Assisted Living       10 Medicaid Beds         ---            10    Complete
+   The American              11/ 3      Family Rentals/ Age     22 Age-Restricted        ---            50    Complete
+                                         Restricted Rentals          Rentals
+                                                                28 Family Rentals
+                                               Total Credits          146               52            207
+                                 Total Credits Constructed            146               52            207
+                         Surplus above 205 Unit Obligation                                             2
+
+
+
+5.1.3   Very Low-Income Units
+
+ Pursuant to the Fair Housing Act (N.J.S.A. 52:27D-329.1), municipalities must ensure that at least 13
+ percent of the low- and moderate-income housing units that were constructed or granted preliminary or
+ final site plan approval after July 1, 2008 to be made available for occupancy by very low income
+ households. Morris Plains has provided or will provide very-low income housing units Davenport Village
+ (10 units), M&M at Morris Plains, LLC (10 units, 4 of which are complete), 250 Johnson Road (4 units) and
+ at the JMF property on American Road (7 units).
+
+5.2 Calculation of Fourth Round Obligation (2025-2035)
+5.2.1   Introduction
+
+ An affordable housing obligation is comprised of two components: a Present Need (or Rehabilitation)
+ obligation; and a Prospective Need obligation.
+
+ The Present Need obligation is defined as the number of substandard existing deficient housing units in
+ the municipality currently occupied by low- and moderate-income (LMI) households.
+
+ The Prospective Need is a projection of the need for low- and moderate-housing based on development
+ and growth which is reasonably likely to occur in a region or a municipality.
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 33 of 64 Trans ID: LCV20251786245
+
+
+
+
+5.2.2   DCA Estimates of Borough’s Fourth Round Obligations
+ The Amended FHA required the New Jersey Department of Community Affairs (“DCA”) to provide an
+ estimate of the fair share affordable housing obligations of all municipalities on or before October 20,
+ 2024 based upon the criteria of the Amended FHA. DCA issued a report on October 18, 2024 (the “DCA
+ Report”) wherein it reported its nonbinding estimate of the fair share affordable housing obligation for all
+ municipalities based upon its interpretation of the standards in the Amended FHA.
+
+ The DCA Report calculated Morris Plains’ Round 4 (2025-2035) Present Need (Rehabilitation) Obligation
+ of 0 units; and Prospective Need of 137 units. The calculation of the 137 units is described below.
+ Per the Amended DCA, DCA calculated municipal Prospective Need obligations as a share of the region
+ in which the municipality is located. Region 2, in which Morris Plains is located, includes Warren, Union,
+ Morris, and Essex Counties. As established in the Amended FHA, the regional Prospective Need is
+ calculated by establishing the increase in households in the region between the 2020 and 2010 Federal
+ Decennial Census and dividing the household change increase by 2.5 to estimate the number of low- and
+ moderate-income households (and the number of homes needed to address same).
+ The Prospective Need for Region 2 is 20,506 units, with this need allocated to municipalities throughout
+ the region, except for designated Qualified Urban Aid Municipalities, which are exempt from addressing
+ Prospective Need. Regional Prospective Need is then allocated across the non-qualified urban aid
+ municipalities in the region by applying three factors detailed below.
+
+   Equalized Nonresidential Valuation Factor
+   The Equalized Nonresidential Valuation Factor measures the change in nonresidential property
+   valuations in the municipality from 1999 to 2023 divided by the regional total change in nonresidential
+   valuations, with the intent to shift housing to municipalities experiencing employment growth. DCA
+   calculated an Equalized Nonresidential Valuation Factor for Morris Plains of 0.43 percent.
+   Income Capacity Factor
+
+   The Income Capacity Factor measures the extent to which a municipality’s income level differs from
+   that of the lowest-income municipality in the Housing Region. The factor is calculated by averaging two
+   measures. The first is calculating the municipal share of the regional sum of differences between
+   median household income and an income floor of $100 below the lowest median household income
+   in the region. The second is the same calculation weighted by number of households within the
+   municipality. The intent is to shift portions of the obligation to municipalities with higher household
+   incomes. DCA calculated an Income Capacity Factor for Morris Plains of 0.90 percent.
+
+   Land Capacity Factor
+   The Land Capacity Factor purports to determine the total acreage that is developable in a municipality
+   as a proportion of developable acreage in the Region. This is determined by utilizing the most recent
+   land use / land cover data from the New Jersey Department of Environmental Protection (DEP), in
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 34 of 64 Trans ID: LCV20251786245
+
+
+
+
+   combination with the most recently available MOD-IV Property Tax List data from the Division of
+   Taxation in the Department of the Treasury, and construction permit data from DCA. The calculation of
+   developable land is intended to exclude lands subject to development limitations, including open
+   space, preserved farmland, category one waterways and wetland buffers, steep slopes and open
+   waters. DCA preserved all areas that remained that were greater than 2,500 SF in size, under the
+   assumption that an area of twenty-five feet by 100 feet may be considered developable.
+
+   DCA estimated that Morris Plains has 36.42 acres of developable land. The DCA calculated that Region
+   2 contains a total of 5,358 acres of developable land. As such, DCA calculated that the Borough of
+   Morris Plains had 0.68 percent of developable land across Region 2.
+ Pursuant to the Amended FHA, DCA averaged the Equalized Nonresidential Valuation Factor, Income
+ Capacity Factor, and Land Capacity Factor for each municipality to determine an Average Allocation
+ Factor, which is the basis for the municipal Prospective Need. DCA calculated that Morris Plains’
+ Average Allocation Factor was 0.67 percent. This translated to Morris Plains having an affordable
+ housing obligation to provide 0.67 percent of Region 2’s Prospective Need of 20,506 units or 137 units.
+5.2.3   Borough Estimates Fourth Round Obligation
+ The Amended FHA provides that the DCA Report is non-binding, thereby giving municipalities the
+ opportunity to propose a different fair share affordable housing obligation from those reported by the
+ DCA on October 18, 2024.
+
+ Per the Amended FHA, municipalities were required to make a binding resolution no later than January
+ 31, 2025 setting forth its Present and Prospective Fair Share obligation. A declaratory judgment action
+ was required to be filed within forty-eight (48) hours of the adoption of the aforementioned binding
+ resolution. The filing of a declaratory judgment action was required in order to protect the municipality
+ from exclusionary zoning litigation and protect the municipality from losing its immunity from said
+ litigation.
+
+ Morris Plains exercised its right to analyze the data in the DCA Report. The Borough accepted the Present
+ Need (Rehabilitation) Obligation of 0 units as reported by the DCA in its October 18, 2024 Report. The
+ Borough did challenge DCA’s estimate of the Borough’s Prospective Need obligation of 137 units. The
+ Borough analyzed the data used by DCA in order to demonstrate that the data, when correctly applied,
+ supported a lower Round 4 Prospective Need obligation.
+
+ The Borough did not dispute DCA’s calculation of the Borough’s Equalized Nonresidential Allocation
+ Factor or Income Capacity Allocation Factor. However, the Borough did contest DCA’s calculations of
+ the Borough’s Land Capacity Factor which in turn impacted the Borough’s Average Allocation Factor. The
+ Borough found that the amount of developable land used to calculate the Land Capacity Allocation
+ Factor by DCA was overinclusive and, consequently, should be adjusted from ±36.42 acres to ±12.00
+ acres to more accurately reflect the developable acreage in Morris Plains. As a consequence, the
+ Borough contended that the developable land within Region 2 should be reduced by approximately ±24
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 35 of 64 Trans ID: LCV20251786245
+
+
+
+
+ acres from 5,358 acres to ±5,334 acres; the Land Capacity Factor for the Borough should be reduced
+ from 0.68 percent to 0.22 percent; and the Average Allocation Factor should also be reduced from 0.67
+ percent to 0.52 percent. In short, the Borough calculated that its Prospective Need obligation is 106 units.
+
+ Pursuant to the Amended FHA, on January 30, 2025, the Borough of Morris Plains adopted a binding
+ resolution (Resolution Number 2025-35) of participation with the Affordable Housing Dispute Resolution
+ Program (the “Program”) in accordance with the requirements of the Amended FHA. The Borough’s
+ resolution to set the Borough’s affordable housing obligations for the Fourth Round as follows:
+
+         A Present Need of 0 units; and
+
+         A Prospective Need of 106 units.
+
+ The Borough subsequently filed the resolution and a declaratory judgment (Docket No. MRS-L-295-25)
+ within 48 hours of adoption with the Superior Court.
+
+5.2.4   Challenge and Settlement of Fourth Round Obligation
+
+ In accordance with the timeframes set forth in the Amended FHA, New Jersey Builders Association
+ (“NJBA”) filed a timely objection to the Borough’s resolution contending that the Borough had improperly
+ calculated its Prospective Need obligations and requested that the Program find that the Borough’s
+ Prospective Need obligation be set at 137 units.
+
+ The parties engaged in a settlement conference conducted on March 27, 2025, presided over by a
+ Program judge and court appointed Special Adjudicator, but failed to reach a settlement. The Program
+ judge issued a Report and Program Recommendation on April 3, 2025, wherein he found that the NJBA's
+ challenge failed to state with particularity how the municipal calculation failed to comply with the
+ Amended FHA and further failed to include NJBA’s own calculation of fair share obligations in compliance
+ with the Amended FHA, and, consequently, recommended to the Court that the municipality's
+ calculation be endorsed and effectuated, thereby establishing the prospective need for the Borough of
+ Morris Plains at 106 units.
+ On May 13, 2025, the Mt. Laurel vicinage judge issued a judgment confirming the Program’s
+ recommendation (see Appendix B). In short, the Borough’s Fourth Round obligation is as follows in Table
+ 24, Fourth Round Obligation.
+
+ TABLE 24. FOURTH ROUND OBLIGATION
+
+  PRESENT NEED (REHABILITATION) OBLIGATION                   0 UNITS
+
+  PROSPECTIVE NEED OBLIGATION                                106 UNITS
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 36 of 64 Trans ID: LCV20251786245
+
+
+
+
+5.3 Plan to Address Fourth Round Obligation (2025-2035)
+5.3.1   Present Need
+
+ Although the Borough does not have a rehabilitation obligation, Morris Plains will continue to participate
+ in The Morris County Housing Rehabilitation Program which provides funds to income eligible
+ homeowners to address major system failures in their primary residence.
+
+5.3.2   Vacant Land Adjustment to Address Prospective Need Obligation
+ There is limited land in the Borough that is vacant or otherwise developable for affordable and/or
+ inclusionary housing. This is largely due to numerous identified public/vacant parcels which are either
+ environmentally constrained (i.e., wetlands, steep slopes, water bodies, and/or flood hazard areas) or
+ are reserved for open space in the Borough’s Master Plan and therefore are undevelopable.
+ To address its 106-unit Prospective Need obligation, the Borough prepared a Vacant Land Adjustment
+ (VLA) to determine the Borough’s realistic development potential (“RDP”). The VLA methodology is
+ included in Appendix C and the results of the analysis are included in Appendix D. Based on the VLA
+ analysis, approximately ±8.26-acres exist within the Borough which could accommodate development.
+ Assuming all such parcels were rezoned for inclusionary residential development at the presumptive
+ minimum density of 6 units per acre and with a mandatory set-aside of 20 percent, the Borough has an
+ RDP of 10 affordable housing units. See Table 25, Summary of Vacant Land Adjustment.
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 37 of 64 Trans ID: LCV20251786245
+
+
+
+
+ TABLE 25. SUMMARY OF VACANT LAND ADJUSTMENT
+  BLOCK       LOT     LOCATION               OWNER                 ACRES        ENVIRO          DEVELOPABLE
+                                                                                CONSTR          ACREAGE
+ 193         10      22 Lindstrom Rd       Private                 0.40                         0.40
+
+ 193         11      26 Lindstrom Rd       Private                 0.96                         0.96
+
+ 193         20      26 Lindstrom Rd       Private                 0.50                         0.50
+                     Rear
+ 112         2       100 Candlewood Dr     HPT CW Prop             1.72         0.72 acres of   1.00
+                                           Tr/Thomson Tax, K                    steep slopes
+                                           Fahey
+ 113         36      263 Tabor             Borough Of Morris       8.31         Deed            5.41
+                                           Plains                               Restricted
+ 112         1       279 Tabor Rd          Borough Of Morris       1.00         for Various
+                                           Plains                               Uses
+ 113         37      271 Tabor             Borough Of Morris       0.17         including
+                                           Plains                               5.41 acres
+                                                                                for
+ 113         38      273 Tabor             Borough Of Morris       0.17
+                                                                                affordable
+                                           Plains
+                                                                                housing
+ 113         39      275 Tabor             Borough Of Morris       0.17
+                                           Plains
+ 113         40      Hillcrest             Borough Of Morris       0.17
+                                           Plains
+ 113         41      Hillcrest (Includes   Borough Of Morris       0.34
+                     Lot 42)               Plains
+                                                                   Total Developable Acres      8.26
+                                           Total Number of Dwelling Units ("du") at 6 du/acre   49.57
+                                                   Realistic Development Potential (“RDP”)      10 units
+
+
+
+5.3.3   Fourth Round Compliance Mechanisms to Address RDP
+
+ In order to address its RDP of 10 units, the Borough proposes the following compliance mechanisms.
+
+        Surplus Carry-Over from Third Round (2 credits): The Borough has a 2-unit surplus from the Third
+        Round which it intends to carry-over to address its Fourth Round obligation.
+
+        ARC Group Home (2 bedrooms and 2 bonus credits= 4 credits): ARC Morris opened a three (3)
+        bedroom group home on Beech Drive in 1986. In 2023, the Zoning Board of Adjustment granted
+        variances to ARC Morris in order to expand the existing facility by 2-bedrooms. These bedrooms
+        recently received Certificates of Occupancy. The Amended FHA permits one bonus credit for each
+        special needs bed. Therefore, the 2 new bedrooms are eligible for 2 bonus credits.
+
+        REM New Jersey (1 bedroom and 0.5 bonus credits = 1.5 credits): REM New Jersey, LLC operates
+        a 6-bedroom supportive housing/special needs facility on Leamoor Drive for individuals with
+        disabilities. Although the facility is 6-bedrooms, the Borough proposes to count only one of the
+        bedrooms to its Fourth Round as the Amended FHA requires that 50 percent of actual affordable
+        housing units, exclusive of any bonus credits, created to address its prospective need affordable
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 38 of 64 Trans ID: LCV20251786245
+
+
+
+
+        housing obligation through the creation of housing available to families with children. The Borough
+        is only seeking 0.25 bonus credits because, per the Amended FHA, the total number of bonus credits
+        shall in no circumstance exceed 25 percent of the municipality’s prospective obligation in any round.
+        As the RDP is 10, the Borough may only use 2.5 bonus credits (i.e., 25 percent of the 10 unit RDP) to
+        address its Prospective Need obligation. As the Borough seeks 2 bonus credits at the ARC home only
+        0.5 bonus credits are eligible to be used at the REM facility.
+
+        Inclusionary Zoning on Block 112/Lot 2 (3 units = 3 credits): The Borough intends to put
+        inclusionary zoning on Block 112/Lot 2 which would permit multifamily family housing in accordance
+        with the requirements for family housing in the Amended FHA (See Figure 1).
+
+        The parcel is a privately owned 1.7-acre parcel with a street address of 100 Candlewood Drive. It is
+        currently vacant and has some steep slopes in the rear of the property. The property is listed in the
+        Borough’s VLA. It is currently in the OB Office Building District which permits a variety of non-
+        residential and commercial uses but does not permit multifamily housing. It is also undersized for
+        the OB zone which requires a minimum lot size of 2-acres. The parcel is in common ownership with
+        the Sonesta Suites hotel located to its east.
+        The site is available, suitable, developable and approvable as defined in N.J.A.C. 5:93-1.3. The site
+        is not encumbered by any deed restriction or other hindrance that would preclude its development
+        for low and moderate income housing. The site is approvable as it can be developed consistent with
+        the Residential Site Improvement Standards (RSIS) and other state regulations such as those of the
+        New Jersey Department of Environmental Protection (NJDEP). From a review of NJDEP’s wetland
+        mappings, there does not appear to be any wetlands on the property. After a review of Federal
+        Emergency Management Agency (hereafter “FEMA”) Flood Insurance Rate Maps (hereafter “FIRM
+        maps”) it would appear the site contains no floodplains. There are some steep slopes in the eastern
+        portion of the parcel. However, the remainder of the site is developable. There are other residential
+        developments in close proximity including Davenport Village and Foxwood Condominiums to the
+        west and single-family homes to the east. The site is within walking distance of businesses and bus
+        routes on Route 10. The site can be accessed off of Tabor Road and Candlewood Drive. The site is
+        located in Planning Area 1 (hereafter “PA1”) of the adopted and proposed State Development and
+        Redevelopment Plan Policy Map (hereafter “State Plan”). The site is developable as it has adequate
+        water and sewer access.
+
+        Draft overlay zoning is included in Appendix E. The zoning permits a maximum density of 17 dwelling
+        units per acre with a required 20 percent set aside for affordable housing. On the approximately 1.7-
+        acre site, the total development yield would be 30 units and the proposed number of affordable
+        housing units would be 6 units.
+
+5.3.4   Zoning to Address Twenty-Five Percent of RDP Likely to Redevelop
+
+ As part of addressing its Fourth Round affordable housing obligation through the utilization of a vacant
+ land adjustment, the Borough is required to identify properties which represent at least 25 percent of its
+        MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 39 of 64 Trans ID: LCV20251786245
+
+
+
+
+ RDP which are likely to redevelop during the Fourth Round. The Borough must then accordingly adopt
+ realistic zoning which permits affordable housing development at such locations. The proposed overlay
+ on Block 112/Lot 1 will permit up to 6 affordable units. Three of these units will address the Borough’s
+ Fourth Round obligation and three will be used to meet the requirement to identify 25% or 3 units
+ (rounded up) of the total RDP of 10.
+5.3.5   Other Requirements
+
+ The Borough will address the following requirements pursuant to the Amended FHA:
+
+         Very Low Income Obligation. The Borough will require that 13% of all units referenced in this plan,
+         except those units that were constructed or granted preliminary or final site plan approval prior to
+         July 1, 2008, to be very low-income units, with half of the very low-income units being available to
+         families. The Borough will comply with those requirements as follows for the Fourth Round: 2 units
+         at 100 Candlewood Drive.
+
+         Low Income Obligation. At least 50 percent of the units addressing the Fourth Round Prospective
+         Need will be affordable to very low-income and low-income households, with the remainder
+         affordable to moderate-income households. Two of the units at 100 Candlewood Drive will be
+         affordable to low-income households and three of the bedrooms at the group homes will address
+         the remainder of this requirement.
+
+         Minimum Rental Obligation. At least 25 percent of the Fourth Round Prospective Need will be met
+         through rental units, including at least half in rental units available to families. All of the units
+         proposed to address the Fourth Round obligation will be rental units and half of the units will be
+         family units at 100 Candlewood Drive.
+
+         Minimum Family Obligation. At least half of the units addressing the Fourth Round Prospective
+         Need in total must be available to families. The units at 100 Candlewood Drive will be family units
+         which will address this requirement.
+
+         Maximum Permitted Age-Restricted Units. The Borough does not anticipate any age-restricted
+         development at this time. However, if age-restricted units are developed, the Borough will comply
+         with an age-restricted cap of 30 percent.
+
+         Required Bedroom Distribution. All units shall include the required bedroom distribution, and be
+         governed by controls on affordability and affirmatively marketed in conformance with the Uniform
+         Housing Affordability Controls N.J.A.C. 5:80-26.1 et seq. or any successor regulation.
+
+5.4 Spending Plan
+ The Borough of Morris Plains does not have an Affordable Housing Trust Fund. The Borough does collect
+ non-residential development fees pursuant to the “Statewide Non-residential Development Fee Act.”
+ However, the municipality forwards all funds collected to the appropriate State entities. Because there
+ is no Affordable Housing Trust Fund the Borough does not have nor does it propose a Spending Plan.
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 40 of 64 Trans ID: LCV20251786245
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 41 of 64 Trans ID: LCV20251786245
+
+
+
+
+6 Consistency with the State Development and Redevelopment Plan
+The New Jersey State Development and Redevelopment Plan (SDRP) was originally adopted in 1992. The
+purpose of the SDRP according to the State Planning Act at N.J.S.A. 52:18A-200(f) is to:
+      Coordinate planning activities and establish Statewide planning objectives in the
+      following areas: land use, housing, economic development, transportation, natural
+      resource conservation, agriculture and farmland retention, recreation, urban and
+      suburban redevelopment, historic preservation, public facilities and services, and
+      intergovernmental coordination.
+
+The State Plan is not a regulation, but a policy guide, and is meant to coordinate planning activities and
+development throughout the state. At the municipal level, master plans are required to be evaluated and,
+if necessary, modified to reflect policies of the State Plan. The State Plan is also important when the State
+makes infrastructural and other investment decisions, i.e., in determining where available State funds
+should be expended.
+A revised version of the plan was adopted by the State Planning Commission in 2001. While required by
+the State Planning Act to be revised and re-adopted every three years, the SDRP has only been readopted
+once during the 32 years since its original adoption. A new State Strategic Plan (SSP) was proposed in
+2011 as the revision to the 2001 SDRP, but it has not been advanced in recent years. The State Office of
+Planning Advocacy started the process of preparing a new State Plan in 2023 and the State Planning
+Commission has been engaging with stakeholders. As part of the update process, the State Planning
+Commission approved the Preliminary State Development and Redevelopment Plan on December 4,
+2024, and is now undertaking the Cross-Acceptance process (i.e. review of the plan at the county level).
+Spatially, the last adopted State Plan utilizes planning areas, centers, and environs as a framework for
+implementing Statewide goals and policies. The State Plan Map indicates that the Borough of Morris
+Plains is located within the Metropolitan Planning Area (PA1). For the Metropolitan Planning Area, the
+State Plan has four major aims, as follows: (1) to provide for much of the state’s future redevelopment;
+(2) to revitalize cities and towns and promote growth in compact forms; (3) to stabilize older suburbs and
+redesign areas of sprawl; and (4) to protect the character of existing stable communities.
+The land use policy objectives of the Metropolitan Planning Area are to:
+
+        Promote redevelopment and development in cores and neighborhoods through cooperative
+        regional planning efforts;
+
+        Promote diversification of land uses, including housing where appropriate, in single-use
+        developments and enhance their linkages to the rest of the community; and
+
+        Ensure efficient and beneficial utilization of scarce land resources throughout the Planning Area to
+        strengthen its existing diversified and compact nature.
+       MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 42 of 64 Trans ID: LCV20251786245
+
+
+
+
+The Morris Plains Housing Element and Fair Share Plan recognizes the need to encourage development
+and redevelopment on the limited developable land in the Borough in its continuous efforts to provide
+affordable housing. This Housing Plan promotes higher density development in appropriate locations
+served by existing infrastructure and proximate to transit, stores and services, and is therefore consistent
+with the State Plan.
+    MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 43 of 64 Trans ID: LCV20251786245
+
+
+
+
+7 Appendixes
+  Appendix A.   Third Round Settlement Agreements with Fair Share Housing Center, M&M at Morris
+                Plains, LLC, and JMF-Morris Plains LLC.
+  Appendix B.   Decision and Order Fixing Municipal Obligations for “Present Need” and “Prospective
+                Need” for the Fourth Round Housing Cycle, issued by Superior Court Of New Jersey
+                Law Division - Morris County, DOCKET NO. MRS-L-000295-25, Civil Action Janine M.
+                Allen, J.S.C . Mt. Laurel Program, May 13, 2025.
+  Appendix C.   Vacant Land Adjustment Methodology
+
+  Appendix D.   Inventory and Maps of Parcels Investigated in Vacant Land Adjustment
+  Appendix E.   Proposed New Overlay Zone on Block 112, Lot 2/100 Candlewood Drive
+
+  Appendix F.   Adopted Affordable Housing Ordinance (to be updated as needed)
+
+  Appendix G.   Adopted Affirmative Marketing Plan
+  MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 44 of 64 Trans ID: LCV20251786245
+
+
+
+
+Appendix A. Third Round Settlement Agreements with Fair Share
+Housing Center, M&M at Morris Plains, LLC, and JMF-Morris Plains
+LLC.
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 45 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 46 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 47 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 48 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 49 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 50 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 51 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 52 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 53 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 54 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 55 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 56 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 57 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 58 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 59 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 60 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 61 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 62 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 63 of 64 Trans ID: LCV20251786245
+MRS-L-000295-25 06/17/2025 5:12:22 PM Pg 64 of 64 Trans ID: LCV20251786245
+

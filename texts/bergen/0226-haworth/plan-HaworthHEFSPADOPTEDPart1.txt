@@ -1,0 +1,2339 @@
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 1 of 91 Trans ID: LCV20251809129
+
+
+
+
+                               Master Plan Amendment
+                    Housing Element and Fair Share Plan
+                                               Round 4
+                                                    Borough of Haworth
+                                              Bergen County, New Jersey
+                                                                              Prepared:
+                                                                            June 4, 2025
+
+                                                                     Prepared for:
+                                                 Borough of Haworth Planning Board
+
+                                                                          Prepared by:
+
+
+
+
+                                                                       T&M Associates
+                                                                       11 Tindall Road
+                                                                 Middletown, NJ 07748
+
+
+
+                                                       ___________________________________
+                                                           Caroline Z. Reiter, PP, AICP
+                                              NJ Professional Planner: 33LI00534300
+
+
+
+                                                             ____________________________
+                                                              Robert E. Dare, PP, AICP
+                                              NJ Professional Planner: 33LI00596400
+
+
+
+      Adopted on June 18, 2025 by the Borough of Haworth Planning Board.
+              Endorsed on ______ by the Haworth Borough Council.
+
+  The original of this document has been signed and sealed in accordance with Law.
+ BER-L-000726-25 06/19/2025 3:31:45 PM Pg 2 of 91 Trans ID: LCV20251809129
+
+
+
+
+HAWORTH BOROUGH
+
+
+Mayor and Council
+
+Heather Wasser, Mayor
+Glenn Z Poosikian, Councilman
+Andrew Rosenberg, Councilman
+Dina Siciliano, Councilwoman
+Alanna Davis, Councilwoman
+Michele Di Iorgi, Councilwoman
+Peter Laub, Councilman
+
+Planning Board
+
+Andrew Anderson, Chair
+
+Noah Adler
+Amy Albalah
+Stephen Chval
+Robert Contillo
+Jeffery Pavell
+Noa Artzi-Weill
+
+Mike Langan (Alternate 1)
+
+
+Mayor Heather Wasser, Virtue of Office
+Andrew Rosenberg, Council Representative
+
+Martha Francis, Recording Secretary
+William Rupp, Esq., Attorney
+Joe Vince, P.E., Engineer
+
+Public Officials
+
+Greg Zagaja, Borough Administrator/ Clerk
+
+Annmarie Wells, Deputy Borough Clerk
+
+Lauren Roehrer, CFO & Treasurer
+Janet Gallagher, Court Administrator
+
+Robert Regan, Esq., Borough Attorney
+Edward Buzak, Esq., Affordable Housing Attorney
+
+                                       Page ii
+  BER-L-000726-25 06/19/2025 3:31:45 PM Pg 3 of 91 Trans ID: LCV20251809129
+
+
+
+
+Table of Contents
+Affordable Housing in New Jersey ...................................................................................................... 1
+
+Mandatory Contents of the Housing Element ................................................................................ 3
+
+Analysis of Demographic, Housing, and Employment Characteristics ............................... 4
+
+   Population Characteristics ................................................................................................................ 4
+
+   Population Composition by Age...................................................................................................... 6
+
+Existing Housing Characteristics ......................................................................................................... 8
+
+   Type of Household ................................................................................................................................ 8
+
+   Household Size ....................................................................................................................................... 9
+
+   Per Capita and Household Income .............................................................................................. 10
+
+   Family Income Distribution ........................................................................................................... 11
+
+   Housing Affordability ....................................................................................................................... 12
+
+   Housing Unit Data .............................................................................................................................. 13
+
+   Year Householder Moved into Unit ............................................................................................ 14
+
+   Housing Unit Information ............................................................................................................... 15
+
+   Housing Conditions ........................................................................................................................... 17
+
+   Housing Values .................................................................................................................................... 18
+
+   Contract Rents ..................................................................................................................................... 19
+
+   Employment Data............................................................................................................................... 20
+
+   Residential Construction................................................................................................................. 23
+
+   Population and Household Projection ...................................................................................... 24
+
+   Employment Projection ................................................................................................................... 25
+
+Affordable Housing Obligation .......................................................................................................... 26
+
+   Prior Round Obligation .................................................................................................................... 27
+
+                                                                       Page iii
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 4 of 91 Trans ID: LCV20251809129
+
+
+
+
+Round 3 Prospective Need ............................................................................................................. 27
+
+Round 4 Present Need...................................................................................................................... 30
+
+Round 4 Prospective Need ............................................................................................................. 30
+
+Availability of Existing and Planned Infrastructure ............................................................ 32
+
+Consideration of Lands Appropriate for Affordable Housing ......................................... 32
+
+Consistency with the State Development and Redevelopment Plan ........................... 32
+
+Minimums & Maximums .................................................................................................................. 34
+
+Multigenerational Housing Continuity ..................................................................................... 34
+
+Conclusion ............................................................................................................................................. 35
+
+Appendices ............................................................................................................................................ 36
+
+
+
+
+                                                                     Page iv
+ BER-L-000726-25 06/19/2025 3:31:45 PM Pg 5 of 91 Trans ID: LCV20251809129
+
+
+
+
+Housing Element
+The Borough of Haworth, Bergen County, has prepared this Housing Element and Fair
+Share Plan as an amendment to the municipal master plan in accordance with the
+New Jersey Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.) and the New Jersey
+Fair Housing Act 2 (N.J.S.A. 52:27D-301 et seq.).
+
+The Municipal Land Use Law requires that a municipal master plan include a housing
+element to enable the municipality to exercise the power to zone and regulate land
+use. The housing element is adopted by the municipal planning board and endorsed
+by the municipal governing body, and is drawn to achieve the goal of meeting the
+municipal obligation to provide for a fair share of the regional need for affordable
+housing.
+
+This Housing Element and Fair Share Plan amends the Borough’s master plan to
+address affordable housing planning requirements for the time period known as
+Round 4, which includes the decade between July 2025 and July 2035. It addresses
+the Borough’s cumulative fair share obligation for the period from 1987 through
+2035. The Borough last adopted a Round 3 Housing Element on September 18, 2019.
+This plan will replace the 2019 Round 3 plan.
+
+
+Affordable Housing in New Jersey
+The Mt. Laurel II doctrine requires that all municipalities provide a realistic
+opportunity for their fair share of low and moderate income housing. The Haworth
+Fair Share Plan is the Borough’s proposal for satisfying its share of the regional
+affordable housing needs under applicable affordable housing regulations.
+
+This Plan provides the Borough’s fair share obligation and details its strategies for
+addressing its present, prior, and prospective housing needs. The New Jersey Fair
+Housing Act established the New Jersey Council on Affordable Housing (COAH). COAH
+was responsible for developing rules and regulations on affordable housing, as well
+as approving municipalities’ submitted affordable housing plans. The COAH approval
+process was known as Substantive Certification.
+
+COAH adopted its first set of rules, known as ‘Round 1,’ for the period of 1987 through
+1993. COAH ‘Round 2’ covered the 1993 to 1999 time period. These rounds are now
+combined and collectively referred to as the ‘Prior Round,’ which covers the 1987 to
+1999 time period.
+
+COAH adopted its first Round 3 rules in 2005. The Round 3 rules included a new
+methodology for calculating affordable housing, known as Growth Share. These rules
+were challenged, and the Appellate Division invalidated the Round 3 rules in 2007.
+
+                                        Page 1
+ BER-L-000726-25 06/19/2025 3:31:45 PM Pg 6 of 91 Trans ID: LCV20251809129
+
+
+
+
+COAH then adopted its second set of Round 3 rules in 2008; these rules also used the
+Growth Share methodology and were found invalid by the Appellate Division in 2010.
+COAH was directed to prepare new rules that used the Prior Round methodologies of
+establishing the statewide and regional affordable housing obligation and assigning
+municipalities their fair share of the regional affordable housing obligations.
+
+COAH prepared new rules in 2014, but failed to adopt them. In response, a motion
+was filed with the New Jersey Supreme Court to enforce litigant’s rights in response
+to COAH’s lack of action. On March 10, 2015 the Supreme Court issued its decision to
+enforce litigant’s rights and established a procedure for municipalities to transition
+their COAH applications to the Courts.
+
+The Supreme Court established a new procedure that requires participating towns,
+such as Haworth, to submit a Declaratory Judgment action. The Borough of Haworth
+filed its action of Declaratory Judgment with the Court on or about July 6, 2015.
+
+ Fair Share Housing Center (FSHC), a nonprofit affordable housing advocacy group,
+was considered an “interested party” in all municipal Declaratory Actions. FSHC and
+the Borough engaged in a mediation process under the supervision of the court-
+appointed Special Master. In addition, one party objected to the Borough’s action of
+Declaratory Judgment. The objector, also referred to as an intervenor, was known as
+Lakeshore Developers LLC. The Borough of Haworth and Lakeshore Developers
+reached settlement in April 2019. Haworth and FSHC also settled its affordable
+housing litigation. Haworth’s Settlement Agreement was executed on May 14, 2019.
+
+Round 4 Affordable Housing
+On March 20, 2024 Governor Murphy signed new legislation known as P.L.2024, c.2
+that amended the state’s Fair Housing Act and changed the affordable housing
+process in New Jersey.
+
+The Fair Housing Act (FHA) Amendment (“FHA 2” or the “Act”) eliminated the Council
+on Affordable Housing (COAH), directed the Department of Community Affairs (DCA)
+to prepare nonbinding affordable housing obligations, changed certain aspects of the
+vacant land process, eliminated and revised available bonus credits, and imposed
+strict deadlines on municipalities.
+
+Pursuant to the FHA 2, municipalities must adopt a Housing Element and Fair Share
+Plan by June 30, 2025. This plan conforms to the requirements established in the
+legislation and FHA 2 and addresses Haworth’s Prior Round, Round 3 and Round 4
+affordable housing obligations.
+
+
+
+
+                                        Page 2
+ BER-L-000726-25 06/19/2025 3:31:45 PM Pg 7 of 91 Trans ID: LCV20251809129
+
+
+
+
+Mandatory Contents of the Housing Element
+Pursuant to the New Jersey Fair Housing Act (FHA 2), “a municipality’s housing
+element shall be designed to achieve the goal of access to affordable housing to meet
+present and prospective housing needs, with particular attention to low-and
+moderate-income housing.” The essential plan components are:
+
+   •   An inventory of the municipality's housing stock by age, condition, purchase
+       or rental value, occupancy characteristics, and type, including the number of
+       units affordable to low- and moderate-income households and substandard
+       housing capable of being rehabilitated;
+   •   A projection of the municipality's housing stock, including the probable future
+       construction of low- and moderate-income housing, for the next ten years,
+       taking into account, but not necessarily limited to, construction permits
+       issued, approvals of applications for development and probable residential
+       development of lands;
+   •   An analysis of the municipality's demographic characteristics, including but
+       not necessarily limited to, household size, income level, and age;
+   •   An analysis of the existing and probable future employment characteristics of
+       the municipality;
+   •   A determination of the municipality's present and prospective fair share for
+       low- and moderate-income housing and its capacity to accommodate its
+       present and prospective housing needs, including its fair share for low- and
+       moderate-income housing, as established pursuant to section 3 of P.L.2024,
+       c.2 (C.52:27D-304.1); and,
+   •   A consideration of the lands that are most appropriate for construction of low-
+       and moderate-income housing and of the existing structures most appropriate
+       for conversion to, or rehabilitation for, low- and moderate-income housing,
+       including a consideration of lands of developers who have expressed a
+       commitment to provide low- and moderate-income housing;
+   •   An analysis of the extent to which municipal ordinances and other local factors
+       advance or detract from the goal of preserving multigenerational family
+       continuity as expressed in the recommendations of the Multigenerational
+       Family Housing Continuity Commission, adopted pursuant to paragraph (1) of
+       subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20);
+   •   For a municipality located within the jurisdiction of the Highlands Water
+       Protection and Planning Council, established pursuant to section 4 of P.L.2004,
+       c.120 (C.13:20-4), an analysis of compliance of the housing element with the
+       Highlands Regional Master Plan of lands in the Highlands Preservation Area,
+       and lands in the Highlands Planning Area for Highlands conforming
+       municipalities. This analysis shall include consideration of the municipality’s
+       most recent Highlands Municipal Build Out Report, consideration of
+       opportunities for P.L. 2024, redevelopment of existing developed lands into
+       inclusionary or 100 percent affordable housing, or both, and opportunities for
+
+
+                                        Page 3
+ BER-L-000726-25 06/19/2025 3:31:45 PM Pg 8 of 91 Trans ID: LCV20251809129
+
+
+
+
+       100 percent affordable housing in both the Highlands Planning Area and
+       Highlands Preservation Area that are consistent with the Highlands regional
+       master plan; and
+   •   An analysis of consistency with the State Development and Redevelopment
+       Plan, including water, wastewater, stormwater, and multi-modal
+       transportation based on guidance and technical assistance from the State
+       Planning Commission.
+
+This Housing Element and Fair Share Plan Amendment addresses the above
+requirements.
+
+
+Analysis of Demographic, Housing, and Employment
+Characteristics
+As required by N.J.S.A. 52:27D-310, all housing elements must contain a discussion of
+the municipality’s demographic, housing, and economic characteristics. The following
+subsections fulfill this requirement by providing a profile of the Borough of Haworth
+information from the US Census Bureau, the New Jersey Department of Labor and
+Workforce Development, and the North Jersey Transportation Planning Authority.
+
+Population Characteristics
+
+Table 1 shows the population trends for the Borough of Haworth and Bergen County
+from 1930 to 2020. As shown, Haworth’s population increased by 2,301 residents
+during this period. The three greatest increases occurred in the periods from: 1950
+to 1960, when the Borough’s population increased by approximately 99.4 percent;
+1930 to 1940, when there was an increase of approximately 36.2 percent; and
+between 1960 and 1970, when population increased by approximately 17.0 percent.
+The only periods where there was a decrease in population were between 1970 and
+1980, when the Borough’s population decreased by about 6.7 percent; 1980 and
+1990, when the Borough’s population decreased by 3.6 percent; 2010 and 2020,
+when the Borough’s population decreased by 1.2 percent; and 2000 and 2010, when
+the Borough’s population decreased by about 0.2 percent.
+
+Bergen County’s population also increased over the period from 1930 to 2020.
+Indeed, the County’s population increased by 590,755 residents over this period. As
+compared to the Borough, however, change in the County’s population was never as
+great as in the Borough. Indeed, the maximum rate of change in the Borough’s
+population was about 99.4 percent (between 1950 and 1960), but the change in the
+County’s population never exceeded about 44.7 percent (also between 1950 and
+1960) in any ten-year period.
+
+
+
+
+                                       Page 4
+ BER-L-000726-25 06/19/2025 3:31:45 PM Pg 9 of 91 Trans ID: LCV20251809129
+
+
+
+
+                                       Table 1
+                          POPULATION CHANGE, 1930 – 2020
+                        Borough of Haworth and Bergen County
+
+Borough
+                                                               Change
+          Year                Population            Number               Percent
+          1930                  1,042                ------               ------
+          1940                  1,419                 377                 36.2
+          1950                  1,612                 193                 13.6
+          1960                  3,215                1,603                99.4
+          1970                  3,760                 545                 17.0
+          1980                  3,509                -251                 -6.7
+          1990                  3,384                -125                 -3.6
+          2000                  3,390                   6                  0.2
+          2010                  3,382                  -8                 -0.2
+          2020                  3,343                 -39                 -1.2
+
+County
+                                                               Change
+          Year                Population            Number               Percent
+          1930                 364,977                ------              ------
+          1940                 409,646               44,669               12.2
+          1950                 539,139              129,493               31.6
+          1960                 780,255              241,116               44.7
+          1970                 897,148              116,893               15.0
+          1980                 845,385              -51,763               -5.8
+          1990                 825,380              -20,005               -2.4
+          2000                 884,118               58,738                7.1
+          2010                 905,116               20,998                2.4
+          2020                 955,732               50,616                5.6
+
+Sources:
+   1930 - 1950: “Number of Inhabitants, New Jersey.”
+   https://www2.Census.Gov/library/publications/decennial/1950/population-volume-
+   2/23024255v2p30ch1.pdf. U.S. Census Bureau, 1950;
+   1940 - 2000: “New Jersey Population Trends 1790 to 2000.” Division of Labor Market and
+   Demographic Research New Jersey State Data Center, August 2001.
+   https://www.nj.gov/labor/labormarketinformation/assets/PDFs/census/2kpub/njsdcp3.pdf;
+   2010: 2010 U.S. Census (Table P3); and,
+   2020: 2020 U.S. Census (Table DP1)
+
+
+
+
+                                           Page 5
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 10 of 91 Trans ID: LCV20251809129
+
+
+
+
+Population Composition by Age
+
+Table 2 shows population by age cohort in the Borough of Haworth during 2010 and
+2020. As can be seen, the population decreased by 39 residents or 1.2 percent
+between 2010 and 2020. The age-cohort with the largest decreases were 5-14, which
+decreased by 140 residents or about 23.0 percent; 45-54, which decreased by 122
+residents or about 18.8 percent; and 35-44, which decreased by 59 residents or about
+14.4 percent. The age cohorts with the largest increases were: 75-84, which increased
+by 43 residents or 28.1 percent; 85+, which increased by 17 residents or 24.6 precent;
+15-24, which increased by 93 residents or 24.2 percent; 25-34, which increased by
+40 residents or 23.7 percent; or 65-74, which increased by 68 residents or 23.1
+percent. The change in all other age cohorts was less than ± 10.0 percent.
+
+                                        Table 2
+                                   POPULATION BY AGE
+                                   Borough of Haworth
+
+                 2010 Population            2020 Population      Change 2010-2020
+ Age Group     Persons     Percent        Persons     Percent   Persons    Percent
+ Under 5         165          4.9           158          4.7       -7         -4.2
+ 5-14            608         18.0           468         14.0     -140        -23.0
+ 15-24           384         11.4           477         14.3      93          24.2
+ 25-34           169          5.0           209          6.3      40          23.7
+ 35-44           409         12.1           350         10.5      -59        -14.4
+ 45-54           649         19.2           527         15.8     -122        -18.8
+ 55-64           482         14.3           510         15.3      28           5.8
+ 65-74           294          8.7           362         10.8      68          23.1
+ 75-84           153          4.5           196          5.9      43          28.1
+ 85+              69          2.0            86          2.6      17          24.6
+ TOTALS         3,382        100           3,343        100       -39         -1.2
+
+Sources:
+   2010: 2010 U.S. Census (Table PCT12); and,
+   2020: U.S. Census (Table DP1)
+
+Table 2 shows considerable growth in the 85+, 75-84, 65-74, 25-34, 15-24 age
+cohorts. The effects of the change in the distribution of Haworth’s population among
+age cohorts can be summarized in the change in the median age of the Borough’s
+population, which increased by one (1) year, from 44.2 years to 45.2 years, in the
+period from 2010 to 2020. This represents an increase of about 2.3 percent. By
+comparison, the median age of Bergen County’s population increased by
+approximately 0.9 years, from 41.1 years to 42.0 years, which equates to an increase
+of about 2.2 percent. Table 3 summarizes the distribution of the Borough’s and
+County’s populations among age cohorts and the change in the median age of said
+populations.
+
+                                           Page 6
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 11 of 91 Trans ID: LCV20251809129
+
+
+
+
+                                        Table 3
+                PERCENTAGE POPULATION DISTRIBUTION, 2010 & 2020
+                      Borough of Haworth and Bergen County
+
+                   2010 Percentage of Population     2020 Percentage of Population
+ Age Group         Borough           County          Borough           County
+ Under 5           4.9               5.6             4.7               5.0
+ 5-14              18.0              12.9            14.0              12.0
+ 15-24             11.4              11.6            14.3              12.0
+ 25-34             5.0               11.6            6.3               11.8
+ 35-44             12.1              14.3            10.5              13.2
+ 45-54             19.2              16.3            15.8              14.0
+ 55-64             14.3              12.7            15.3              14.3
+ 65+               15.3              15.1            19.3              17.7
+ TOTALS            100               100             100               100
+
+ Median Age        44.2              41.1            45.2             42.0
+
+Sources:
+   2010: 2010 U.S. Census (Tables PCT12, P13)
+   2020: 2020 U.S. Census (Tables DP1, P13)
+
+
+
+
+                                            Page 7
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 12 of 91 Trans ID: LCV20251809129
+
+
+
+
+Existing Housing Characteristics
+Type of Household
+
+A household is a group of people who occupy a housing unit as their usual place of
+residence. As shown in Table 4, there were 1,104 households in the Borough of
+Haworth in 2020. The majority, or approximately 87.9 percent, of households
+consisted of two or more persons. The remaining 12.1 percent of households
+consisted of one person. Table 4 provides additional details on the types of
+households in Haworth Borough during 2020.
+
+
+                                           Table 4
+                             TYPES OF HOUSEHOLDS, 2020
+
+Borough of Haworth
+                                                     Number in   Percent of
+     Type of Households                     Total
+                                                     Subgroup    Total
+
+     TOTAL HOUSEHOLDS                       1,104
+
+     One Person                                      134         12.1
+       Male Householder                     39                   3.5
+         65 years or older                  21                   1.9
+       Female Householder                   95                   8.6
+         65 years or older                  66                   6.0
+
+     Two or More Persons                             970         87.9
+     Married Couple Families                822                  74.5
+       With Own Children Under 18           371                  33.6
+     Cohabitating Couple                    28                   2.5
+       With Own Children Under 18           14                   1.3
+     Male Householder Not living alone      41                   3.7
+       With Own Children Under 18           13                   1.2
+     Female Householder Not living alone    79                   7.2
+       With Own Children Under 18           29                   2.6
+
+Sources:
+   2020 U.S. Census (Table DP1)
+
+
+
+
+                                            Page 8
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 13 of 91 Trans ID: LCV20251809129
+
+
+
+
+Household Size
+
+Table 5 provides further details on household size in the Borough of Haworth during
+2020. As shown, the most frequent household size was two persons, which accounted
+for 26.3 percent of all households in Haworth and 29.1 percent of all households in
+Bergen County. The average household size in Haworth was 3.02, which is 0.32
+persons more than the average household size of 2.70 in Bergen County during 2020.
+
+
+                                         Table 5
+                                HOUSEHOLD SIZE, 2020
+                          Borough of Haworth & Bergen County
+
+                                        Borough of Haworth    Bergen County
+            Household Size              Number     Percent   Number Percent
+            1 Person                      134        12.1    84,254     24.0
+            2 Persons                     290        26.3    102,218    29.1
+            3 Persons                     216        19.6    63,130     18.0
+            4 Persons                     304        27.5    61,107     17.4
+            5 Persons                     113        10.2    26,098     7.4
+            6+ Persons                    47         4.3     13,857     4.0
+            TOTALS                       1,104      100.0    350,664   100.0
+            Average Household Size       3.02                 2.70
+
+Source: 2020 U.S. Census (Tables H12, DP1)
+
+
+
+
+                                             Page 9
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 14 of 91 Trans ID: LCV20251809129
+
+
+
+
+Per Capita and Household Income
+
+Table 6 displays the per capita income, median household income, and population
+poverty status of Haworth, Bergen County and the State of New Jersey. This data is
+derived from the 2023 American Community Survey Five-Year Estimates and
+represents estimated average conditions over the five-year period ending in 2023.
+
+As shown in Table 6, Haworth had a higher per capita income at $84,397 than in
+Bergen County and New Jersey, where the per capita incomes were $62,968 and
+$53,118, respectively. Haworth also had a higher median household income at
+$227,841 than Bergen County and New Jersey, where the median household incomes
+were $123,715 and $101,050, respectively. Additionally, the Borough had just 3.7
+percent of its population living below poverty status, which is lower than the 6.7
+percent and 9.8 percent exhibited by Bergen County and New Jersey, respectively.
+
+
+                                         Table 6
+            PER CAPITA AND HOUSEHOLD INCOME; POVERTY STATUS 2023
+                 Borough of Haworth, Bergen County & New Jersey
+
+                                                                      Percentage of
+                                            Median Household
+                     Per Capita Income                              Population Below
+                                                 Income
+                                                                     Poverty Status
+ Borough of
+                          $84,397               $227,841                   3.7
+ Haworth
+ Bergen County            $62,968               $123,715                   6.7
+ New Jersey               $53,118               $101,050                   9.8
+
+Source: 2023 American Community Survey 5-Year Estimates (Tables BP19301, S1901 and S1701)
+
+
+
+
+                                          Page 10
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 15 of 91 Trans ID: LCV20251809129
+
+
+
+
+Family Income Distribution
+
+Table 7 details family income for the Borough and County as represented by 2023
+American Community Survey Five-Year Estimates. Approximately 93.1 percent of
+Haworth’s families earned $75,000 or more. By comparison, just 77.6 percent of
+Bergen County’s families earned $75,000 or more.
+
+
+                                         Table 7
+                         FAMILY INCOME DISTRIBUTION, 2023
+                         Borough of Haworth & Bergen County
+
+                                     Borough                   County
+        Income Levels            Number   Percent         Number     Percent
+
+        Less than $10,000           0           0.0        4,882        1.9
+        $10,000 - $14,999          18           1.9        2,555        1.0
+        $15,000 - $24,999           0           0.0        6,022        2.4
+        $25,000 - $34,999          30           3.2        7,350        2.9
+        $35,000 - $49,999          12           1.3       12,602        5.0
+        $50,000 - $74,999           5           0.5       23,286        9.2
+        $75,000 - $99,999          26           2.7       23,706        9.4
+        $100,000 - $149,999        89           9.4       45,647        18.1
+        $150,000 - $199,999        184          19.4      36,887        14.6
+        $200,000 or more           583          61.6      89,702        35.5
+        TOTALS                     947         100.0      252,639      100.0
+
+Source: 2023 American Community Survey 5-Year Estimates (Table DP03)
+
+
+
+
+                                          Page 11
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 16 of 91 Trans ID: LCV20251809129
+
+
+
+
+Housing Affordability
+
+Table 8 identifies the maximum income limits for low, very low- and moderate-
+income households in Housing Region 1. All of Bergen, Hudson, Passaic and Sussex
+counties are in Housing Region 1.
+
+Haworth is in Housing Region 1. As of 2025, the median household income for a three-
+person household in Housing Region 1 was $114,500. A three-person moderate
+income household, defined as a household with an income in excess of 50 percent but
+less than 80 percent of the median income, would have an income that does not
+exceed $91,600. A four-person low-income household, defined as a household with
+income equal to or less than 50 percent but more than 30 percent of the median
+income, would have an income that does not exceed $63,600. A two-person very low-
+income household, defined as a household with an income equal to 30 percent or less
+of the median income, would have an income that does not exceed $30,540. Finally,
+the 1.5 person, three-person and 4.5-person columns are used for calculating the
+pricing for one-, two- and three-bedroom affordable units.
+
+
+                                     Table 8
+                           2025 REGIONAL INCOME LIMITS
+                                HOUSING REGION 1
+
+  Household Size   Median Income   Moderate Income    Low Income   Very Low Income
+
+  1 Person           $89,100           $71,280         $44,550         $26,730
+  1.5 Person         $95,450           $76,360         $47,725         $28,635
+  2 Person           $101,800          $81,440         $50,900         $30,540
+  2.5 Person         $108,150          $86,520         $54,075         $32,445
+  3 Person           $114,500          $91,600         $57,250         $34,350
+  4 Person           $127,200          $101,760        $63,600         $38,160
+  4.5 Person         $132,300          $105,840        $66,150         $39,690
+  5 Person           $137,400          $109,920        $68,700         $41,220
+  6 Person           $147,600          $118,080        $73,800         $44,280
+  7 Person           $157,800          $126,240        $78,900         $47,340
+  8 Person           $168,000          $134,400        $84,000         $50,400
+
+Source: 2025 Affordable Housing Regional Income Limits by Household Size, Prepared by
+Affordable Housing Professionals of New Jersey (AHPNJ) – May 16, 2025
+
+
+
+
+                                       Page 12
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 17 of 91 Trans ID: LCV20251809129
+
+
+
+
+Housing Unit Data
+
+In 2020, there were 1,148 housing units in Haworth, of which 1,104 or 96.2 percent
+were occupied. By comparison, the County had 367,383 housing units, of which
+350,664 or 95.4 percent were occupied.
+
+As shown in Table 9, owner-occupied housing stock comprised a greater percentage
+of the Borough’s housing stock than in the County’s housing stock. In 2020,
+approximately 93.4 percent of the Borough’s housing stock, versus 63.1 percent of
+the County’s housing stock, was owner-occupied.
+
+
+                                       Table 9
+                              HOUSING UNIT DATA, 2020
+                          Borough of Haworth & Bergen County
+
+                                            Borough                 County
+                                        Number    Percent      Number     Percent
+
+    Unit Type
+    Occupied                             1,104       96.2      350,664      95.4
+    Vacant, Seasonal & Migratory          44         3.8       16,719       4.6
+    TOTALS                               1,148      100.0      367,383     100.0
+
+    Owner vs Renter Occupied Units
+    Owner Occupied                       1,031       93.4      221,274      63.1
+    Renter Occupied                       73         6.6       129,390      36.9
+    TOTALS                               1,104      100.0      350,664     100.0
+
+Source: 2020 U.S. Census (Table DP1)
+
+
+
+
+                                        Page 13
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 18 of 91 Trans ID: LCV20251809129
+
+
+
+
+Year Householder Moved into Unit
+Table 10 provides the year the current householders moved into the Haworth and
+Bergen County homes. As shown, 67.0 percent of the Borough’s households moved
+into their current residences after 2000, compared to 74.2 percent countywide.
+Approximately 33.0 percent of the Borough’s households and 25.8 percent of the
+County’s households moved into their residences before 2000.
+
+
+                                       Table 10
+                     YEAR HOUSEHOLDER MOVED INTO UNIT, 2023
+                        Borough of Haworth & Bergen County
+
+                                           Borough                     County
+       Year Householder Moved
+                                     Number        Percent    Number        Percent
+       into Unit
+       2021 or later                    55          5.2       27,042             7.7
+       2010 - 2020                      442         42.0      165,730           46.9
+       2000 - 2009                      209         19.8      69,267            19.6
+       1990 - 1999                      153         14.5      42,548            12.0
+       1989 or earlier                  194         18.4      48,720            13.8
+       TOTALS                          1,053       100.0      353,307           100.0
+
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04)
+
+
+
+
+                                         Page 14
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 19 of 91 Trans ID: LCV20251809129
+
+
+
+
+Housing Unit Information
+
+Table 11 includes a variety of information from the American Community Survey on
+the Borough of Haworth and Bergen County housing stocks, including when the
+housing unit was built, the number of units per structure, and the number of rooms
+and bedrooms per unit.
+
+As shown, approximately 98.6 percent of the Borough’s housing stock consists of
+single-family detached structures. In contrast, single-family detached homes
+comprise approximately 53.2 percent of the County’s housing stock.
+
+As shown in Table 11, the Borough’s housing stock contains more rooms than the
+County’s housing stock. In 2023, about 93.2 percent of Haworth’s housing units
+contained six (6) or more rooms, while approximately 54.7 percent of the County’s
+housing stock recorded the same number of rooms. On the other hand, about 57.5
+percent of the Borough’s housing units contain four or more bedrooms, compared
+with approximately 27.2 percent of the County’s housing stock.
+
+Finally, approximately 83.3 percent of the Borough’s housing stock was built before
+1980, Similarly, about 74.6 percent of the County’s housing stock was built before
+1980.
+
+
+
+
+                                      Page 15
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 20 of 91 Trans ID: LCV20251809129
+
+
+
+
+                                       Table 11
+                          HOUSING UNIT INFORMATION, 2023
+                          Borough of Haworth & Bergen County
+
+                                             Borough               County
+                                         Number   Percent      Number Percent
+
+        Total Units                       1,186      100.0     368,535   100.0
+
+        Units in Structure
+        One (Single Family Detached)      1,169       98.6     196,102   53.2
+        One (Single Family Attached)        2          0.2     22,284    6.0
+        Two+ Units                         15          1.3     148,595   40.3
+        Mobile Home, Trailer, Other         0          0.0      1,554    0.4
+
+        Number of Rooms
+        1 Room                              0          0.0     10,090    2.7
+        2 or 3 Rooms                        0          0.0     54,929    14.9
+        4 or 5 Rooms                       80          6.7     101,934   27.7
+        6 or 7 Rooms                       343        28.9     103,786   28.2
+        8+ Rooms                           763        64.3     97,796    26.5
+
+        Number of Bedrooms
+        No Bedroom                          0          0.0     11,192    3.0
+        1 Bedroom                           0          0.0     58,568    15.9
+        2 or 3 Bedrooms                    504        42.5     198,472   53.9
+        4+ Bedrooms                        682        57.5     100,303   27.2
+
+        Year Structure Built
+        2020 - later                       14          1.2      2,486    0.7
+        2010 - 2019                        66          5.6     18,587    5.0
+        2000 - 2009                        42          3.5     21,455    5.8
+        1990 - 1999                        21          1.8     20,951    5.7
+        1980 - 1989                        55          4.6     30,051    8.2
+        1960 - 1979                        194        16.4     86,461    23.5
+        1940 - 1959                        394        33.2     116,865   31.7
+        1939 or earlier                    400        33.7     71,679    19.4
+
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04)
+
+
+
+
+                                         Page 16
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 21 of 91 Trans ID: LCV20251809129
+
+
+
+
+Housing Conditions
+
+Housing conditions in Haworth are excellent. As shown in Table 12, none of the
+Borough’s housing units lack complete plumbing facilities, kitchen facilities, or phone
+service, compared to 0.3, 0.7 and 0.8 percent, respectively, in the county overall.
+
+In addition to the above, only about 1.4 percent of the Borough’s housing stock has
+more than one person per room, compared to about 3.4 percent of the County’s
+housing stock. Having more than one person per room in an indicator of
+overcrowding.
+
+
+                                       Table 12
+                      INDICATORS OF HOUSING CONDITIONS, 2023
+                         Borough of Haworth & Bergen County
+
+                                              Borough                County
+                                          Number    Percent      Number   Percent
+
+    Total Occupied Units                   1,053                 353,307
+    Units Lacking Complete Plumbing          0          0.0        899       0.3
+    Units Lacking Kitchen Facilities         0          0.0       2,541      0.7
+    No telephone service                     0          0.0       2,797      0.8
+
+    Persons per Room, Occupied Units
+    1.00 or less                           1,038      98.6       341,275    96.6
+    1.01 to 1.50                             15        1.4        7,036     2.0
+    1.51 or more                             0         0.0        4,996     1.4
+    TOTALS                                 1,053      100.0      353,307   100.0
+
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04)
+
+
+
+
+                                         Page 17
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 22 of 91 Trans ID: LCV20251809129
+
+
+
+
+Housing Values
+
+Table 13 shows 2023 housing values for the Borough of Haworth and Bergen County.
+As indicated, approximately 98.3 percent of the Borough’s owner-occupied housing
+units are valued at over $300,000. This is higher than in the County, where only about
+89.9 percent of the owner-occupied housing units are valued at over $300,000. This
+higher percentage of units is reflected in the fact that the median value of owner-
+occupied units in Bergen County is lower than in the Borough. Indeed, the median
+value of owner-occupied units is $593,200 in Bergen County, but $815,300 in
+Haworth Borough.
+
+
+                                       Table 13
+                       OWNER-OCCUPIED HOUSING VALUES, 2023
+                         Borough of Haworth & Bergen County
+
+                                           Borough                       County
+ Housing Value                      Number        Percent         Number        Percent
+ Less than $50,000                     3            0.3            4,241          1.8
+ $50,000 - $99,999                     12           1.2            2,583          1.1
+ $100,000 - $149,999                   0            0.0            2,366          1.0
+ $150,000 - $199,999                   0            0.0            2,680          1.2
+ $200,000 - $299,999                   2            0.2            11,285         4.9
+ $300,000 - $499,999                   32           3.2            62,212        26.9
+ $500,000 - $999,999                  685          68.4           115,000        49.8
+ $1,000,000 or more                   267          26.7            30,556        13.2
+ TOTALS                              1,001         100.0          230,923        100.0
+
+ Median Value                       $ 815,300                    $ 593,200
+
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04)
+
+
+
+
+                                         Page 18
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 23 of 91 Trans ID: LCV20251809129
+
+
+
+
+Contract Rents
+
+Table 14 details the gross rents for renter-occupied units in Haworth and Bergen
+County. As shown, the median monthly rent in Haworth was not reported, which is
+likely the result of the small sample size of just 30 units with a contract rent. In Bergen
+County overall, however, the median rent was $1,863. In Haworth, about 50.0 percent
+of all cash rents were at least $3,000, whereas in Bergen County only about 13.2
+percent of all cash rents were $3,000 or more.
+
+
+                                       Table 14
+                                 GROSS RENTS, 2023
+                            OCCUPIED UNITS PAYING RENT
+                         Borough of Haworth & Bergen County
+
+                                          Borough                         County
+ Contract Rents                      Number      Percent          Number         Percent
+ Less than $500                        0           0.0             3,870           3.3
+ $500 - $999                           0           0.0             5,086           4.3
+ $1,000 - $1,499                       15         50.0             21,678         18.3
+ $1,500 - $1,999                       0           0.0             39,395         33.3
+ $2,000 - $2,499                       0           0.0             21,731         18.3
+ $2,500 - $2,999                       0           0.0             11,103          9.4
+ $3,000 or more                        15         50.0             15,614         13.2
+ TOTALS                                30         100.0           118,477         100.0
+
+                                       Not
+                                   Reported by
+ Median Rent                        US Census                     $ 1,863
+
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04)
+
+
+
+
+                                         Page 19
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 24 of 91 Trans ID: LCV20251809129
+
+
+
+
+Employment Data
+
+Table 15 details the occupational characteristics of Haworth residents as indicated by
+2023 American Community Survey Five-Year Estimates. As indicated, the largest
+occupational group among Haworth residents aged 16 years and over engaged in the
+civilian labor force is “Management, Business Science & Arts” with about 65.2 percent.
+This was also the largest occupational group in Bergen County with about 53.3
+percent of County residents aged 16 years and over engaged in the civilian labor force.
+The second largest occupational group was “Sales & Office Occupations,” which
+accounted for 20.2 percent and 20.4 percent of the Borough and County residents
+aged 16 years and over engaged in the civilian labor force, respectively. The third
+largest occupational group was “Service Occupations,” which accounted for 10.4
+percent of the Borough residents and 12.4 percent of the County residents aged 16
+years and over engaged in the civilian labor force. In total, these three occupational
+groups accounted for about 95.7 percent of the Borough residents and 86.2 percent
+of the County residents aged 16 years and over engaged in the civilian labor force.
+
+With regard to the industry of employment, it is noted that the top-three industries
+of employment among Borough residents aged 16 years and over and engaged in the
+civilian labor force were “Educational Services, Health Care/Social Assist.” with 28.8
+percent; “Finance, Insurance, Real Estate” with 19.6 percent; and “Professional,
+Scientific, Management” with 19.5 percent. Among County residents, the top-three
+industries of employment were “Educational Services, Health Care/Social Assist.”
+with 25.1 percent; “Professional, Scientific, Management” with 15.2 percent; and
+“Retail Trade” with 10.2 percent.
+
+
+
+
+                                        Page 20
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 25 of 91 Trans ID: LCV20251809129
+
+
+
+
+                                          Table 15
+                          OCCUPATIONAL CHARACTERISTICS, 2023
+                           Borough of Haworth & Bergen County
+
+                                                         Borough               County
+ Occupation Group                                  Number      Percent   Number     Percent
+ Management, Business, Science & Arts               1,042        65.2    263,942      53.3
+ Service Occupations                                 166         10.4     61,574      12.4
+ Sales & Office Occupations                          322         20.2    101,185      20.4
+ Nat. Resources, Construction & Maint.                38         2.4      25,740       5.2
+ Production, Transportation & Material                30         1.9      42,480       8.6
+ TOTALS                                             1,598       100.0    494,921     100.0
+
+                                                         Borough               County
+ Industry                                          Number      Percent   Number     Percent
+ Agriculture, Forestry, Fishing                       0          0.0       636         0.1
+ Construction                                         45         2.8      25,742       5.2
+ Manufacturing                                        41         2.6      38,180       7.7
+ Wholesale Trade                                      75         4.7      18,362       3.7
+ Retail Trade                                        127         7.9      50,517      10.2
+ Transportation & Warehousing                         35         2.2      25,586       5.2
+ Information                                          40         2.5      14,303       2.9
+ Finance, Insurance, Real Estate                     314         19.6     50,356      10.2
+ Professional, Scientific, Management                311         19.5     75,107      15.2
+ Edu. Services, Health Care/Social Assist.           461         28.8    124,338      25.1
+ Arts, Entertain., Recreation, Food Services          50         3.1      33,665       6.8
+ Other Services, Except Public Admin.                 64         4.0      22,115       4.5
+ Public Administration                                35         2.2      16,014       3.2
+ TOTALS                                             1,598       100.0    494,921     100.0
+
+Source: 2023 American Community Survey 5-Year Estimates (Tables S2401, S2405)
+
+Data from the New Jersey Department of Labor and Workforce Development
+indicates that there was an average total of 691 private sector jobs located in Haworth
+during 2023. This represents jobs located in Haworth, not the occupational
+characteristics of Haworth’s residents.
+
+Table 16 provides data on the sector of employment of 691 private jobs located within
+the Borough of Haworth. Of these jobs, 159 or 23.0 percent were classified as
+“Arts/Entertainment.” An additional 45 jobs or 6.5 percent were classified as
+“Health/Social,” and an additional 26 jobs or 3.8 percent were classified as “Other
+Services.” Finally, a total of 24 jobs or 3.5 percent were classified as “Admin/Waste
+Remediation.” All other sectors for which data was provided accounted for less than
+
+
+                                               Page 21
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 26 of 91 Trans ID: LCV20251809129
+
+
+
+
+20 jobs. These four employment sectors account for about 36.8 percent of all jobs
+located within the Borough of Haworth.
+
+It should be noted, the New Jersey Department of Labor and Workforce Development
+has provided information on the sector of employment for less than half of the 691
+private jobs located within the Borough of Haworth. It has not disclosed sector of
+employment for 378 or 54.7 percent of the 691 private jobs located within the
+Borough. Typical reasons why the New Jersey Department of Labor and Workforce
+Development would not provide the number of jobs in a particular sector include the
+presence of only one or very few employers in a particular sector, or the presence of
+a very limited number of jobs in a sector. In such cases, the New Jersey Department
+of Labor and Workforce Development withholds information so as to not release what
+could be perceived as confidential information.
+
+
+                                       Table 16
+                       PRIVATE EMPLOYMENT BY SECTOR, 2023
+                                Borough of Haworth
+
+                                                             Borough
+          Employee Sector                             Number       Percent
+          Mining                                     Undisclosed Undisclosed
+          Utilities                                  Undisclosed Undisclosed
+          Construction                                   18           2.6
+          Manufacturing                              Undisclosed Undisclosed
+          Wholesale Trade                                14           2.0
+          Retail Trade                               Undisclosed Undisclosed
+          Transportation/Warehousing                 Undisclosed Undisclosed
+          Information                                Undisclosed Undisclosed
+          Finance/Insurance                               9           1.3
+          Real Estate                                Undisclosed Undisclosed
+          Professional/Technical                         18           2.6
+          Admin/Waste Remediation                        24           3.5
+          Education                                  Undisclosed Undisclosed
+          Health/Social                                  45           6.5
+          Arts/Entertainment                            159          23.0
+          Accommodations/Food                        Undisclosed Undisclosed
+          Other Services                                 26           3.8
+          Unclassified                               Undisclosed Undisclosed
+          TOTAL                                         691          100.0
+
+Source: New Jersey Department of Labor and Workforce Development
+
+
+
+
+                                        Page 22
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 27 of 91 Trans ID: LCV20251809129
+
+
+
+
+Residential Construction
+
+Table 17 contains data on dwelling units authorized by building permit and
+demolished with a demolition permit from 2012 through 2023. This data has been
+obtained from the New Jersey Department of Community Affairs.
+
+In the reported period, a total of 74 new units were created and 44 units were
+demolished, resulting in a net increase of 30 units. The average annual net change in
+the reported period was slightly more than 2.7 units.
+
+
+                                       Table 17
+     NEW DWELLING UNITS AUTHORIZED BY BUILDING PERMIT & HOUSING UNITS
+                         DEMOLISHED: 2012 - 2023
+                            Borough of Haworth
+
+           Year         New Units            Demolitions          Net Increase
+           2012             4                    3                      1
+           2013             1                    0                      1
+           2014             8                    5                      3
+           2015             4                    2                      2
+           2016             6                    5                      1
+           2017             4                    6                     -2
+           2018             4                    6                     -2
+           2019             4                    1                      3
+           2020             1                    3                     -2
+           2021            31                    4                     27
+           2022             6                    7                     -1
+           2023             1                    2                     -1
+          TOTALS           74                   44                     30
+
+Source: “Development Trends Viewer.” State of New Jersey Department of Community Affairs,
+September 16, 2024. Accessed February 4, 2025.
+https://www.nj.gov/dca/codes/reporter/Development_Trend_Viewer.xlsb.
+
+
+
+
+                                         Page 23
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 28 of 91 Trans ID: LCV20251809129
+
+
+
+
+Population and Household Projection
+
+As has been previously mentioned, the Borough of Haworth’s population was 3,343
+at the time of the 2020 United States Census.
+
+The North Jersey Transportation Planning Authority has released 2050 population
+and household projections for its constituent municipalities. The 2050 population
+projection for Haworth is 3,481, which represents an increase of 138 residents over
+the 2020 United States Census population of 3,343 residents. The 2050 household
+projection for Haworth is 1,141, which represents an increase of 37 households over
+the 2020 United States Census count of 1,104 households.
+
+N.J.S.A. 52:27D-310.b require that Housing Elements and Fair Share Plans include a
+household projection for the next ten years. When the 2050 projections of the North
+Jersey Transportation Planning Authority are linearly adjusted to represent 2035
+values, projections of 3,412 residents and 1,123 households result. This is
+summarized in Table 18.
+
+
+                                         Table 18
+                POPULATION AND HOUSEHOLD PROJECTION, 2015 - 2050
+                               Borough of Haworth
+
+                                   2035 Population Projection
+    2020 Census Population           (Adjusted from 2050)       2050 Population Projection
+
+             3,343                            3,412                       3,481
+
+                                   2035 Household Projection
+    2020 Census Households           (Adjusted from 2050)       2050 Household Projection
+
+             1,104                            1,123                       1,141
+
+Sources:
+2020: United States Census;
+2035: Calculated by T&M based on 2050 values; and,
+2050: North Jersey Transportation Planning Authority.
+
+The foregoing information has been provided for informational purposes only and
+in response to N.J.S.A. 52:27D-310.b.
+
+
+
+
+                                           Page 24
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 29 of 91 Trans ID: LCV20251809129
+
+
+
+
+Employment Projection
+
+The North Jersey Transportation Planning Authority (NJTPA) has released a 2050
+employment projection for the Borough of Haworth of 868, which represents an
+increase of 11 jobs over the Borough’s 2023 average total of 857 public and private
+sector jobs (includes: 691 private sector jobs; 2 federal government jobs; and 164
+local government jobs).
+
+When the NJTPA’s 2050 employment projection is linearly adjusted to represent
+2035 values, an adjusted 2035 employment projection of 862 jobs results. This is
+summarized in Table 19.
+
+
+                                            Table 19
+                           EMPLOYMENT PROJECTION, 2023 - 2050
+                                  Borough of Haworth
+
+             2023                            2035                             2050
+      Public and Private             Adjusted Employment                   Employment
+        Employment                         Projection                       Projection
+
+              857                              862                              868
+
+Sources:
+2023: New Jersey Department of Labor and Workforce Development;
+2035: Calculated by T&M; and,
+2050: North Jersey Transportation Planning Authority.
+
+Note: 2023 average of 857 public and private sector jobs + ((2050 Employment Projection of 868 jobs –
+2023 average of 857 public and private sector jobs) ÷ (2050 – 2023)) × 12 years = 861.89 jobs in 2035,
+rounded up to 862 jobs.
+
+
+
+
+                                               Page 25
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 30 of 91 Trans ID: LCV20251809129
+
+
+
+
+Fair Share Plan
+Affordable Housing Obligation
+A municipality’s affordable housing obligation is made up of both a present need
+(rehabilitation obligation) and a prospective need obligation. Obligations are
+calculated in time periods known as “rounds.”
+
+Previous Round obligations have either been determined by the New Jersey Council
+on Affordable Housing (COAH), or by Court decisions. However, pursuant to FHA 2,
+for Round 4 and subsequent rounds, the Department of Community Affairs (DCA) was
+directed to provide a non-binding calculation of regional need and municipal present
+and prospective need obligations in accordance with the formula contained in the Act.
+
+DCA calculated a Round 4 present need obligation of zero (0) units and a prospective
+need obligation of 221 units for the Borough of Haworth. The Borough analyzed the
+data that resulted in the obligation and, as permitted under the FHA 2, calculated a
+prospective need obligation of 142 units. The Borough adopted a binding resolution
+stipulating its Round 4 affordable housing obligations on January 23, 2025.
+
+FSHC objected to the Borough’s calculated prospective need obligation on February
+27, 2025. The New Jersey Builders Association (NJBA) also objected to the Borough’s
+asserted prospective need obligation. The Borough and FSHC participated in
+mediation and settlement hearings. A settlement was reached between the parties for
+a prospective need obligation of 178 units, as memorialized in a settlement
+agreement dated April 8, 2025. NJBA agreed to accept any settlement entered into
+between FSHC and a municipality.
+
+Haworth’s affordable housing obligations are as follows:
+
+   •   Prior Round (Rounds 1 & 2, from 1987-1999) Obligation: 64 units
+   •   Round 3 (from 1999-2025) Prospective Need Obligation: 223 Units
+   •   Round 4 (from 2025-2035) Present Need (Rehabilitation Obligation): 0 units
+   •   Round 4 (from 2025-2035) Prospective Need Obligation: 178 Units
+
+The Borough’s affordable housing obligation and the manner in which it has met and
+intends to meet it, is described in the following subsections.
+
+
+
+
+                                       Page 26
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 31 of 91 Trans ID: LCV20251809129
+
+
+
+
+Prior Round Obligation 1
+The Borough originally petitioned COAH under Prior Round rules on April 1, 1996
+for Substantive Certification of its Housing Element and Fair Share Plan. Based on
+COAH’s formulas and methodologies, the Borough’s Prior Round obligation was
+affirmed as 64 affordable housing units.
+
+The Borough submitted a vacant land adjustment request as part of its petition. The
+Borough’s Prior Round Substantive Certification is memorialized in a resolution
+adopted by COAH on March 3, 1999. Based on its review of the vacant land
+inventory, COAH determined that Haworth had a Realistic Development Potential
+(RDP) of zero (0) affordable units.
+
+Haworth also received credit for the Spectrum for Living home and adopted an
+overlay zone on Block 1008, Lot 1, which is the White Beeches Golf Club driving
+range.
+
+Round 3 Prospective Need
+The Borough of Haworth’s Round 3 prospective need obligation is 223 units. The
+Borough reached settlement with the FSHC in 2019. The settlement recognized that
+Haworth did not have sufficient vacant land to build or to zone for its entire
+obligation, and, therefore, received a Vacant Land Adjustment (VLA). The VLA
+resulted in the calculation of a Realistic Development Potential (RDP) of 28 units. The
+Borough’s settlement agreement and 2019 Housing Element & Fair Share Plan
+provided sufficient credits to exceed the 28 unit RDP.
+
+Vacant Land Adjustment
+The Borough reached settlement with the FSHC as memorialized in a settlement
+agreement dated May 14, 2019. The Borough then adopted a Housing Element and
+Fair Share Plan and related ordinances in 2019. The Borough continues to rely on the
+analysis contained in, and conclusions reached, in connection with the Court
+approved VLA and Round 3 plan.
+
+Following is an excerpt from the 2019 Housing Element & Fair Share Plan on the VLA:
+
+       The Borough received a Vacant Land Adjustment from COAH as part of
+       its Prior Round Substantive Certification. The Borough’s 1995 Round 2
+       Housing Element & Fair Share Plan stated that there were no vacant
+       properties that could be used for inclusionary housing in the Borough.
+       COAH agreed with the assessment and determined that the Borough had
+       a Realistic Development Potential (RDP) of zero (0).
+
+
+1 Borough of Haworth 2019 Housing Element & Fair Share Plan.
+
+
+                                        Page 27
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 32 of 91 Trans ID: LCV20251809129
+
+
+
+
+      The 1995 Plan recognized that many of the properties were small,
+      irregularly shaped and located in established single family
+      neighborhoods that are inappropriate for inclusionary housing. The Plan
+      also recognizes that the vacant properties are characterized by
+      environmental constraints, such as wetlands, flood plains, and steep
+      slopes. The COAH Compliance Report, which is part of the COAH
+      Resolution approving Round 2 Substantive Certification, also addressed
+      local golf courses. COAH determined that the Haworth Country Club is not
+      developable due to the environmental constraints and the fact that
+      approximately 50% of the property is inaccessible. In addition, over 66
+      acres of the Haworth Country Club (a private facility) is deed restricted
+      permanently to golf and country club uses.
+
+      The Round 2 COAH Compliance report also explained that White Beeches
+      is a private golf and country club owned by its members. Because it is
+      owned by its members, it is not counted toward the RDP calculation.
+      However, it is eligible for overlay zoning. As a condition of Round 2
+      Substantive Certification, on April 13, 1999, the Borough adopted the
+      A/OZ overlay zone on the 10-acre White Beeches driving range, known as
+      Block 1008, Lot 1. The A/OZ zone permits townhouse development at a
+      density of 6 units/acre, with a 20 percent affordable housing
+      requirement. The western area of the Borough is characterized by Suez
+      Water reservoir buffer properties, and its reservoir system which purveys
+      potable water throughout the region. The two local golf courses are also
+      located in the area. COAH had already determined that these properties
+      are not developable or suitable for affordable housing. Other vacant
+      properties in the Borough are also not suitable for affordable housing due
+      to environmental constraints.
+
+The Borough satisfied, and actually exceeded, the Round 3 RDP of 28 units via a
+variety of affordable housing mechanisms, including supportive housing, affordable
+housing in partnership with the Bergen County United Way, adoption of an accessory
+apartment ordinance, inclusionary development, modifying an existing overlay zone
+and implementing a new overlay zone.
+
+Status of Round 3 Affordable Housing Mechanisms
+Haworth is committed to addressing its affordable housing obligation. The Borough
+adopted the necessary ordinances to implement its Round 3 plan and settlement
+agreement; all necessary Planning Board approvals have also been granted to
+implement the plan.
+
+Table 20 provides a summary of the Borough’s satisfaction of the Round 3 affordable
+housing obligations.
+
+
+
+                                       Page 28
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 33 of 91 Trans ID: LCV20251809129
+
+
+
+
+                                     Table 20
+                      Round 3 Affordable Housing Mechanisms
+                        Borough of Haworth, Bergen County
+                                                   Affordable      Bonus
+    Project       Block     Lot         Status                                 Total
+                                                      Units        Credits
+ RDP Mechanisms
+   Lakeshore
+                1100       12         Constructed         9           0          9
+  Developers
+     Mass.
+                1800        1           Approved          14          1         15
+  Ave./BCUW
+   Accessory
+                                       Ordinance
+  Apartment    Various Various                            10          0         10
+                                        Adopted
+   Ordinance
+   Spectrum
+                1806        2         Constructed         6           6         12
+   for Living
+                    TOTALS                                39          7         46
+
+ Unmet Need Mechanisms
+                                       Ordinance
+     White
+                                        Adopted
+    Beeches       1008         1                         N/A         N/A       N/A
+                                        (Density
+ Driving Range
+                                       Increased)
+  Zone “D”                             Ordinance
+                 Various   Various                       N/A         N/A       N/A
+ Overlay Zone                           Adopted
+  Mandatory                            Ordinance
+                 Various   Various                       N/A         N/A       N/A
+  Set-Aside                             Adopted
+
+
+As shown in Table 20, the Borough actually exceeded its 28 unit Round 3 RDP.
+Further, all of the Round 3 mechanisms remain realistic for the provision of affordable
+housing and inclusion in the current plan; the Borough adopted all necessary
+ordinances and approved the necessary land use board applications.
+
+It is important to note that the Business Zone “D” overlay has been successful in the
+provision of affordable housing. The Borough Planning Board approved an
+application for a property known as 160 Terrace Street (Block 1307, Lot 3), that
+included eight residential units, of which two(2) are affordable. This development is
+constructed and received a Certificate of Occupancy on May 21, 2025.
+
+
+
+
+                                        Page 29
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 34 of 91 Trans ID: LCV20251809129
+
+
+
+
+Round 4 Present Need
+The present need is a measure of overcrowded and deficient housing that is occupied
+by low- and moderate-income households. The present need has previously been
+called “rehabilitation share.” Haworth’s present need obligation is zero (0) units.
+
+While Haworth does not have a Round 4 present need obligation, Borough
+residents are eligible to participate in the Bergen County Home Improvement
+Program. One Haworth property was rehabilitated in 2024 via funding from the
+county program.
+
+Round 4 Prospective Need
+Haworth’s Round 4 prospective need obligation is 178 units. The Borough does not
+have sufficient vacant land to zone for or build for its full Round 4 obligation.
+
+Round 4 Vacant Land Adjustment
+Because the Borough does not have sufficient vacant land to zone for or build for its
+full Round 4 obligation, it is entitled to a Vacant Land Adjustment (VLA) for Round 4.
+The Round 4 VLA table and associated mapping is included in Appendix A. The VLA
+was prepared pursuant to COAH Round 2 rules contained in N.J.A.C. 5:93-4.2 and the
+FHA 2.
+
+As previously indicated, the Borough is relying on all analyses and conclusions from
+its court approved Round 3 VLA in the preparation of the Round 4 VLA. The Round
+4 VLA analyzed vacant lots with a tax assessment classification of 1, vacant land or
+15C, public property. Full lots, or portions thereof, that contain environmental
+constraints, were excluded from the analysis. Properties that are listed on the
+Borough’s Recreation and Open Space Inventory (ROSI) were excluded, in addition to
+properties that are a Round 3 compliance mechanism or were identified as not
+buildable in Round 3. A six-unit per acre density was applied to the remaining lots or
+portions thereof.
+
+For Round 4, there will be RDP resulting from the property located at 173
+Schraalenburgh Rd, also known as Block 1700, Lot 8. This lot is primarily vacant but
+contains some minimal improvements, and does not appear in a list of the Borough’s
+vacant properties. This site results in the Borough having a two (2) unit RDP.
+
+The Borough will address the two-unit RDP via inclusionary zoning on the properties
+known as 320 Haworth Avenue and 139 Terrace Street, as follows.
+
+320 Haworth Avenue (Block 1307, Lot 2). Lot 2 is an approximately 0.45 acre
+property with frontage on Haworth Ave., Houston Place and Terrace Street. The
+Borough will adopt a zoning ordinance to permit the development of 15 total
+residential units, of which three (3) would be affordable units. The site also is eligible
+
+
+                                         Page 30
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 35 of 91 Trans ID: LCV20251809129
+
+
+
+
+for 0.5 unit of bonus credit because the affordable housing units would be
+constructed on land that is or was previously developed and utilized for retail, office
+or commercial space
+
+139 Terrace Street (Block 1308, Lot 1). Lot 1 is an approximately 0.27 acre
+property with frontage on Terrace Street, St. Nicholas Ave., and Stevens Place. The
+Borough will adopt a zoning ordinance to permit the development of 10 total units, of
+which two (2) would be affordable units.
+
+Draft zoning ordinances and concept plans for both sites are included in Appendix E.
+
+Both of the above properties are currently located in the Business “D” Zone District,
+where multi-family development at 12 units per acre is permitted via the overlay
+zoning enacted in Round 3 to satisfy a portion of the Borough’s unmet need. The
+current overlay zoning would permit development resulting in five (5) total units, of
+which one (1) would be affordable on 320 Haworth Avenue. Therefore, the rezoning
+of 320 Haworth Ave. at a greater density than currently permitted, would result in an
+additional two (2) affordable units attributable to Round 4 rezoning , which would be
+used to address the Borough’s Round 4 RDP of two (2) units.
+
+Regarding 139 Terrace Street, three (3) total units would be permitted under the
+current overlay zoning. Therefore, the rezoning of 139 Terrace Street at a greater
+density than currently permitted would result in one (1) additional affordable unit
+attributable to Round 4 rezoning, which would be used to address a new
+redevelopment affordable housing obligations in FHA 2:
+
+       Any municipality that receives an adjustment of its prospective need obligations
+       for the fourth round or subsequent rounds based on a lack of vacant land shall
+       as part of the process of adopting and implementing its housing element and fair
+       share plan identify sufficient parcels likely to redevelop during the current round
+       of obligations to address at least 25 percent of the prospective need obligation
+       that has been adjusted, and adopt realistic zoning that allows for such
+       adjusted obligation, or demonstrate why the municipality is unable to do so.
+       (emphasis added)
+
+The Borough’s affordable housing attorney’s interpretation of the above phrase in
+bold typeface is that 25% of the Borough’s RDP must be addressed through realistic
+zoning. With an RDP of two (2) units, an additional one unit needs to be addressed
+with realistic zoning. This additional unit is provided via the rezoning of 139 Terrace
+Street. It is noted that the Borough is increasing the density for the 320 Haworth
+Avenue and the 139 Terrace Street sites solely to address its Round 4 obligation, and
+that the credit of the three (3) additional units resulting from the proposed rezoning
+(two additional affordable units at 320 Haworth Ave. and one additional affordable
+unit at 139 Terrace Street) are to apply toward the Round 4 obligation.
+
+
+
+                                         Page 31
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 36 of 91 Trans ID: LCV20251809129
+
+
+
+
+Availability of Existing and Planned Infrastructure
+Both of the above sites anticipated to address the RDP are located in State Planning
+Area 1; Haworth offers a developed infrastructure.
+
+Consideration of Lands Appropriate for Affordable Housing
+Haworth is a developed community with no vacant land. The Borough anticipates
+that future development and growth will predominantly be limited to the Business
+Zone “D” area. This is the location of the overlay zone mechanism from Round 3. This
+area was determined to be available, approvable, suitable and developable in Round
+3.
+
+Four properties have come forward to express a commitment to provide affordable
+housing, as follows:
+
+   •   173 Schraalenburgh Road
+   •   139 Terrace Street
+   •   320 Haworth Avenue
+   •   287 Lake Shore Drive
+
+Two of the above sites, 139 Terrace Street and 320 Haworth Avenue, are included as
+RDP and unmet need mechanisms in this plan.
+
+The Borough has determined that although 173 Schraalenburgh Road (Block 1700,
+Lot 8) is the source of the Borough’s two (2) unit Round 4 RDP, the property is not a
+suitable location for inclusionary development due to the established surrounding
+single family developed character of area. This site is not located near services or
+commercial uses; proximity to these uses provides a more appropriate and desirable
+location for inclusionary development.
+
+The owner of 287 Lake Shore Drive (Block 1100, Lot 11) contacted a municipal official
+via electronic mail regarding potential rezoning. The Borough notes that this
+property is located in an area that already absorbs a large component of Haworth’s
+affordable housing obligation. In an effort to further the Borough’s planning goals
+and objectives, Haworth seeks to guide its future development toward the Business
+District. Therefore, the Borough has not included this property in the plan.
+
+Consistency with the State Development and Redevelopment Plan
+The 2001 New Jersey State Development and Redevelopment Plan (SDRP) contains a
+series of smart growth goals and policies, and mapping that reflects desired growth
+patterns within a series of state planning areas.
+
+
+
+
+                                       Page 32
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 37 of 91 Trans ID: LCV20251809129
+
+
+
+
+As provided in the SDRP, 139 Terrace Street and 320 Haworth Avenue are both
+located within Planning Area 1, which is also known as the Metropolitan Planning
+Area. In the Metropolitan Planning Area, the SDRP’s intention is to:
+
+   •   Provide for much of the State’s future redevelopment;
+   •   Revitalize cities and towns;
+   •   Promote growth in compact forms;
+   •   Stabilize older suburbs;
+   •   Redesign areas of sprawl; and
+   •   Protect the character of existing stable communities.
+
+Additionally, it is noted that the 2001 SDRP outlines several policy objectives for the
+Metropolitan Planning Area, including:
+
+   •   Land Use: Promote redevelopment and development in cores and
+       neighborhoods of centers and in nodes that have been identified through
+       cooperative regional planning efforts. Promote diversification of land uses,
+       including housing where appropriate, in single-use developments and
+       enhance their linkages to the rest of the community. Ensure efficient and
+       beneficial utilization of scarce land resources throughout the Planning Area to
+       strengthen its existing diversified and compact nature.
+   •   Housing: Provide a full range of housing choices through redevelopment, new
+       construction, rehabilitation, adaptive reuse of nonresidential buildings, and
+       the introduction of new housing into appropriate nonresidential settings.
+       Preserve the existing housing stock through maintenance, rehabilitation and
+       flexible regulation.
+
+Execution of this Housing Element and Fair Share Plan and, therewith, promotion of
+affordable housing development in the Metropolitan Planning Area would be
+consistent with the intent and aforementioned policy objectives of said planning area.
+
+SDRP Update
+It is noted that as of the preparation of this Housing Element and Fair Share Plan, the
+State of New Jersey was in the process of updating the SDRP. While a draft of an
+updated SDRP was released for public review and comment in December 2024, its
+finalization and adoption are not anticipated to occur before late 2025 or early 2026.
+Thus, the 2001 SDRP remained in effect as of the preparation and adoption of this
+Housing Element and Fair Share Plan.
+Notwithstanding the above, it is noted that the draft SDRP incorporates the same
+planning areas as the 2001 SDRP and associated mapping indicates that the Borough
+would remain in the Metropolitan Planning Area.
+
+In addition to the above, it is noted that the draft SDRP includes several “State
+Planning Goals.” One of these goals relates to housing and includes the following core
+objectives:
+
+
+                                        Page 33
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 38 of 91 Trans ID: LCV20251809129
+
+
+
+
+   •   Increase the Construction of Diverse Housing Types and the Amount of
+       Affordable Housing: Promote varied housing options for all income levels,
+       including rentals, starter homes, senior housing, and market-rate units in
+       transit-rich and mixed-income communities.
+   •   Focus on Retaining Residents and Increasing Sustainability: Support
+       inclusionary zoning, green building standards, and Transit-Oriented
+       Development, while reinforcing fair housing practices and preventing the
+       displacement of residents.
+   •   Address Housing Needs of Diverse Demographics: Facilitate multi-
+       generational households, senior housing, and adaptable options to ensure all
+       residents can age in place and access affordable housing.
+   •   Promote Regional Housing Balance: Encourage diverse housing development
+       in areas with strong job markets, educational opportunities, and other
+       amenities which support socio-economic mobility and integrate communities.
+
+Based on its continuation of the same planning areas as outlined in the 2001 SDRP
+and its promotion of affordable housing, it is concluded that this Housing Element and
+Fair Share Plan is generally consistent the draft SDRP.
+
+Minimums & Maximums
+The FHA2 stipulates certain requirements within C.52:27D-311.k(10)1 which the
+Haworth plan meets, as follows:
+
+   •   A maximum of 30% of a municipality’s Round 4 prospective need obligation
+       may be met with age restricted housing: the Borough’s plan conforms. No
+       Round 4 units are age-restricted housing.
+   •   A minimum of 50% of a municipality’s Round 4 prospective need obligation
+       must be satisfied with the creation of housing available to families with
+       children. All units proposed for Round 4 are available to families with
+       children.
+   •   A minimum of 25% of a municipality’s Round 4 prospective need obligation
+       must be satisfied through rental housing. The units proposed on Terrace
+       Street and Haworth Ave. would be rental units.
+
+
+
+Multigenerational Housing Continuity
+In 2021, the New Jersey Senate and General Assembly of the State of New Jersey
+enacted C.52:27D-329.20, which established the Multigenerational Family Housing
+Continuity Commission.
+
+
+
+                                       Page 34
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 39 of 91 Trans ID: LCV20251809129
+
+
+
+
+The commission’s responsibilities include preparing and adopting recommendations
+on how to best advance the goal of “enabling senior citizens to reside at the homes of
+their extended families, thereby preserving and enhancing multigenerational family
+continuity, through the modification of State and local laws and policies in the areas
+of housing, land use planning, parking and streetscape planning, and other relevant
+areas.” The commission members and associated staff shall conduct research,
+obtaining public input, and adopt recommendations on how to most effectively
+advance the goal of enhancing multigenerational family housing continuity.
+
+We note that the Borough of Haworth’s Round 4 Housing Element encourages
+inclusionary development in the Borough’s Business District. This location is also
+proximate to the Borough’s library, where the Borough hosts senior citizen events.
+Finally, the Borough’s plan includes a variety of housing options, including some age
+restricted units at the Massachusetts Avenue site. Therefore, the Borough’s
+ordinances advance the goals of preserving multifamily generational continuity.
+
+Conclusion
+
+Haworth will provide for its fair share of affordable housing despite having a vacant
+land deficiency. As shown, the Borough exceeded its Round 3 RDP and meets its
+Round 4 RDP. The overlay zone location is proximate to Borough library and
+municipal building, as well as commercial uses. This area is located within Planning
+Area 1 of the State Plan, which is the location where such growth is encouraged.
+
+All affordable units will conform to necessary rules, legislation and regulations,
+including but not limited to bedroom distribution and income distribution. At least
+13% of all affordable housing units will be available to very low income households.
+This plan addresses Haworth’s affordable housing obligation within the confines of
+sound planning, and while respecting its built environment and development
+characteristics.
+
+
+
+
+                                       Page 35
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 40 of 91 Trans ID: LCV20251809129
+
+
+
+
+Appendices
+This report contains the following appendices.
+
+Appendix A: Vacant Land Adjustment Documentation
+
+Appendix B: Affordable Housing Ordinance & Affirmative Marketing Plan. The
+Borough’s existing ordinance is included. Modifications will be made as needed to
+comply with any future Round 4 requirements. The Mandatory Set-Aside Ordinance
+is also contained herein.
+
+Appendix C: Development Fee Ordinance. The Borough’s existing ordinance is
+included. Modifications will be made as needed to comply with any future Round 4
+requirements.
+
+Appendix D: Resolutions Appointing the Municipal Housing Liaison and
+Administrative Agent.
+
+Appendix E: Draft Ordinances and Concept Plans for 320 Haworth Ave. and 139
+Terrace Street.
+
+Appendix F: Development Fee Ordinance
+
+Appendix G: Spending Plan
+
+
+
+
+                                      Page 36
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 41 of 91 Trans ID: LCV20251809129
+
+
+
+
+           Appendix A: Vacant Land Adjustment Documentation
+                                                                                                                                                                                             FOURTH ROUND VACANT LAND ADJUSTMENT
+                                                                                                                                                                                                       Haworth Borough
+
+
+
+
+                                                                                                                                                                                                                                                                                                                    OTHER
+                                                                                                                                                                                                                                                                                                      ROSI                        REASON FOR OTHER EXCLUSION
+                                                                                                                                                                                                                                                                                                                  EXCLUSION
+301       8 SUNSET AVE                                      Class: 15C - Public Property   BORO OF HAWORTH                      1.294     -       -      1.288   1.281   0.013   0.399   -            1.294       0.000 Developed/Excluded   Long, Narrow; Stream Corridor                      No           No                                                               6              -   0.20   -   0 RDP R3
+400    1.01 LAKE SHORE DR                                   Class: 1 - Vacant Land         SUEZ C/O ALTUS GROUP US, INC        13.495   0.001     -     13.494     -       -       -     -           13.494       0.001 Developed/Excluded   Part of Golf Course Site                           No           No                                                               6              -   0.20   -   0 RDP R3
+400    1.02 LAKE SHORE DRIVE         PARK                   Class: 15C - Public Property   BORO OF HAWORTH                     13.290     -       -      1.375     -       -       -     -            1.375      11.914 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   PARK IN R3 0 RDP
+400    1.03 LAKE SHORE DRIVE                                Class: 1 - Vacant Land         SUEZ C/O ALTUS GROUP US, INC         8.433   1.464     -      7.919     -       -     0.348   -            7.919       0.515 Developed/Excluded   Part of Golf Course Site                           No           No                                                               6              -   0.20   -   0 RDP IN R3
+400       2 LAKE SHORE DR                                   Class: 1 - Vacant Land         HAWORTH COUNTRY CLUB L.L.C.         71.696     -     2.391    4.405   3.517   3.346     -     -           12.970      58.726 Developed/Excluded                                                      No           No                                                               6              -   0.20   -   COUNTRY CLUB
+501       1 HAWORTH DR                                      Class: 15C - Public Property   BORO OF HAWORTH                      0.343   0.343     -      0.343   0.077   0.061   0.012   -            0.343       0.000 Vacant                                                                  No           No                                                               6              -   0.20   -   0 RDP IN R3
+503       1 BROOK ST                                        Class: 15C - Public Property   BORO OF HAWORTH                      0.924   0.001     -      0.924     -       -       -     -            0.924         -   Vacant                                                                  No           No                                                               6              -   0.20   -
+                                                                                                                                                                                                                                                                                                                                                                                                            COUNTRY CLUB - SHOULD NOT BE INCLUDED PER PRIOR ROUND
+ 600     2 REAR LAKE SHORE DRIVE                            Class: 1 - Vacant Land         HAWORTH COUNTRY CLUB L.L.C.          3.739     -       -      0.743   1.407   1.152     -     -            2.771       0.968 Developed/Excluded                                                      No           No                                                               6 600/2+3+4    -   0.20   -   ROAD DETERMINATION
+                                                                                                                                                                                                                                                                                                                                                                                                            COUNTRY CLUB - SHOULD NOT BE INCLUDED PER PRIOR ROUND
+600      3 LAKE SHORE DRIVE (REAR)                          Class: 1 - Vacant Land         HAWORTH COUNTRY CLUB L.L.C.          2.072     -       -        -     0.969   0.530     -     -            1.499       0.573 Developed/Excluded                                                      No           No                                                               6 600/2+3+4    -   0.20   -   ROAD DETERMINATION
+                                                                                                                                                                                                                                                                                                                                                                                                            COUNTRY CLUB - SHOULD NOT BE INCLUDED PER PRIOR ROUND
+ 600      4 SUNSET AVE                                      Class: 1 - Vacant Land         WHITE BCHS GLF & CTRY CLB            1.627     -       -        -     0.593   0.313     -     -            0.906       0.721 Developed/Excluded                                                      No           No                                                               6 600/2+3+4    -   0.20   -   ROAD DETERMINATION
+ 709      1 HAWORTH DRIVE                                   Class: 15C - Public Property   BORO OF HAWORTH                      0.552     -       -      0.048     -       -       -     -            0.048       0.504 Developed/Excluded   NARROW STRIP                                       No           No                                                               6              -   0.20   -   0 RDP IN R3
+ 800      1 LAKE SHORE DR                                   Class: 15C - Public Property   BORO OF HAWORTH                      1.977     -       -      1.204   0.930   0.536     -     -            1.970       0.007 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 800      2 LAKE SHORE DRIVE         PUMPING STATION        Class: 15C - Public Property   BERGEN COUNTY UTILITIES AUTHORITY    0.195     -       -      0.195     -       -       -     -            0.195         -   Developed/Excluded                                                      No           No                                                               6              -   0.20   -   UTILITIES
+ 801      4 LAKE SHORE DR                                   Class: 15C - Public Property   BORO OF HAWORTH                      2.726     -       -      0.043   0.059   0.192     -     -            0.252       2.474 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 802   9.01 LAKE SHORE DR                                   Class: 15C - Public Property   BORO OF HAWORTH                      2.776     -       -      0.342     -       -       -     -            0.342       2.435 Developed/Excluded   ROSI- PARK IN R3                                   Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 802   9.02 LAKE SHORE DR            VACANT LAND            Class: 15C - Public Property   BORO OF HAWORTH                      1.286   0.118     -      1.238   0.262   0.322   0.038   -            1.238       0.048 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 803      1 BALDWIN AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      3.569     -       -      0.196   0.241   0.555     -     -            0.889       2.681 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 807      1 CONTANT AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      8.177   2.875     -      6.272   2.048   0.873   0.283   -            7.416       0.761 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 808      1 BROOK ST                                        Class: 15C - Public Property   BORO OF HAWORTH                      1.634     -       -        -     0.242   0.398     -     -            0.640       0.994 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 810      4 MAPLE ST                                        Class: 1 - Vacant Land         UNKNOWN                              0.035     -       -        -       -       -       -     -                        0.035 Developed/Excluded                                                      No           Yes              Long, Narrow Lot; Development Infeasible        6              -   0.20   -   0 RDP IN R3
+ 900      1 ORCHARD AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      4.191   2.166     -      3.224   1.341   0.909   0.104   -            3.407       0.784 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 901      1 MYRTLE ST                                       Class: 15C - Public Property   BORO OF HAWORTH                      3.014     -       -        -       -       -       -     -                        3.014 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 904      1 HAWORTH DR                                      Class: 15C - Public Property   BORO OF HAWORTH                      3.817   1.612     -      3.187   0.875   0.784   0.197   -            3.187       0.630 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 905      1 MYRTLE ST                                       Class: 15C - Public Property   BORO OF HAWORTH                      2.783     -       -        -       -       -       -     -                        2.783 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 907      3 HARLAND AVENUE           TAX LIEN FORECLOSURE   Class: 15C - Public Property   BORO OF HAWORTH                      1.331   0.388     -      1.331   0.243   0.497   0.059   -            1.331         -   Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 907      7 HAWORTH AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      0.173   0.149     -      0.173     -     0.020   0.053   -            0.173       0.000 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+ 912      1 HAWORTH AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      0.832   0.504     -      0.832     -       -     0.132   -            0.832       0.000 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+1003      7 BEECH ST                                        Class: 15C - Public Property   BORO OF HAWORTH                      0.148   0.040     -      0.148     -       -     0.042   -            0.148       0.000 Developed/Excluded   NARROW STRIP - 25 FT.                              No           No                                                               6              -   0.20   -   0 RDP IN R3
+1007      1 PARK ST                                         Class: 15C - Public Property   BORO OF HAWORTH                      0.328     -       -        -       -       -       -     -                        0.328 Developed/Excluded   Very Long, Narrow Lot; Development Infeasible      No           Yes              RAILROAD BUFFER                                 6              -   0.20   -   0 RDP IN R3
+1014   8.02 421 SYLVAN PL E                                 Class: 1 - Vacant Land         FERNWAY HOMES LLC                    0.291     -       -        -       -       -       -     -              -         0.291 Developed/Excluded   Newly Developed                                    No           No                                                               6              -   0.20   -   NOT VACANT
+1016      9 UNKNOWN                                         Class: 15C - Public Property   BORO OF HAWORTH                      0.017     -       -        -       -       -       -     -              -         0.017 Developed/Excluded   Very Long, Narrow Lot; Development Infeasible      No           Yes              Very Long, Narrow Lot; Development Infeasible   6              -   0.20   -   0 RDP IN R3
+1017      1 PARK ST - STRIP          TAX LIEN FORECLOSURE   Class: 15C - Public Property   BORO OF HAWORTH                      0.670     -       -        -       -       -       -     -                        0.670 Developed/Excluded   Very Long, Narrow Lot; Development Infeasible      No           Yes              Very Long, Narrow Lot; Development Infeasible   6              -   0.20   -   0 RDP IN R3
+1100     12 281 LAKE SHORE DR                               Class: 1 - Vacant Land         LAKESHORE DEVELOPERS LLC             4.872     -     0.702      -     0.491   0.565     -     -            1.507       3.365 Developed/Excluded   ROUND 3 SITE                                       No           No                                                               6              -   0.20   -   ROUND 3 SITE
+1200   5.01 LAKE SHORE DR            RECREATION CENTER      Class: 15C - Public Property   BORO OF HAWORTH                      3.361   0.611     -      2.639   0.258   0.579   0.118   -            2.639       0.722 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   TOO SMAll
+1200      6 LAKE SHORE DR                                   Class: 15C - Public Property   BORO OF HAWORTH                      0.188     -       -        -       -       -       -     -                        0.188 Developed/Excluded   Part of Yard Area                                  No           No                                                               6              -   0.20   -   NARROW STRIP 0 RDP IN R3
+1200   8.01 LAKE SHORE DR                                   Class: 15C - Public Property   BORO OF HAWORTH                      7.943   0.241     -      1.786   0.182   0.272   0.092   -            1.786       6.157 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+1200   8.02 LAKE SHORE DR            VACANT LAND            Class: 15C - Public Property   BORO OF HAWORTH                      3.850   0.413     -      1.336   0.416   0.555   0.020   -            1.336       2.514 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+1200      9 NEAR LAKE SHORE DR       VACANT LAND            Class: 15C - Public Property   BORO OF HAWORTH                      1.791     -       -      0.670     -       -       -     -            0.670       1.121 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+1200     10 PARK ST                                         Class: 15C - Public Property   BORO OF HAWORTH                      3.802   0.435     -      2.601     -     0.104   0.115   -            2.601       1.201 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+1200     11 PARK STREET                                     Class: 15C - Public Property   BORO OF HAWORTH                      7.179   0.694     -      4.932     -       -     0.209   -            4.932       2.247 Developed/Excluded   ROSI - SWIM CLUB                                   Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+1200     12 PARK ST                                         Class: 15C - Public Property   BORO OF HAWORTH                      4.553   0.267     -      2.447     -       -     0.128   -            2.447       2.106 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+1201      1 VALLEY RD                                       Class: 15C - Public Property   BORO OF HAWORTH                      5.567     -       -        -     3.872   2.495     -     -            4.962       0.605 Developed/Excluded   PARK                                               No           No                                                               6              -   0.20   -   0 RDP IN R3
+1201      6 VALLEY RD                                       Class: 15C - Public Property   BORO OF HAWORTH                      0.165     -       -        -       -     0.001     -     -            0.001       0.164 Developed/Excluded   ROSI - PARK IN R3                                  Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+1201      7 VALLEY ROAD                                     Class: 15C - Public Property   BORO OF HAWORTH                      0.646     -       -        -       -     0.037     -     -            0.037       0.608 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3
+1201     23 LAKE SHORE DR            TAX LIEN FORECLOSURE   Class: 15C - Public Property   BORO OF HAWORTH                      0.047     -       -      0.011     -     0.001     -     -            0.011       0.035 Developed/Excluded   Part of Developed Site                             No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO SIZE
+1203      7 VALLEY ROAD                                     Class: 1 - Vacant Land         CHOI, JAU DUK & HYUN JOO-CHOI        0.202     -       -        -       -       -       -     -                        0.202 Developed/Excluded   Long, Narrow Lot; Development Infeasible           No           Yes              Long, Narrow Lot; Development Infeasible        6              -   0.20   -   0 RDP IN R3
+1203     29 VALLEY CT                TAX LIEN FORECLOSURE   Class: 15C - Public Property   BORO OF HAWORTH                      0.049     -       -        -       -       -       -     -                        0.049 Developed/Excluded   Part of Developed Site                             No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO SIZE
+1300      1 PARK ST                                         Class: 15C - Public Property   BORO OF HAWORTH                      5.083   0.101     -      1.570     -       -     0.052   -            1.570       3.513 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R 3
+1301      1 HAWORTH AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      1.103   0.321     -      0.453   0.565   0.074   0.017   -            0.638       0.464 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 - PARK
+1301      2 HAWORTH AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      5.084   1.881   0.585    2.852   3.457   0.512   0.079   -            4.678       0.406 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 - PARK
+1302      1 HAWORTH AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      1.560   1.440   0.053    1.508   0.697   0.128   0.263   -            1.560          -  Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3-PARK
+1302      2 OWATONNA ST                                     Class: 15C - Public Property   BORO OF HAWORTH                      1.291   1.105      -     1.291   1.055   0.145   0.031   -            1.291          -  Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 - PARK
+1302      3 STEVENS ST                                      Class: 15C - Public Property   BORO OF HAWORTH                      0.339   0.009     -      0.302   0.339     -       -     -            0.339       0.000 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 - PARK
+1302      4 OWATONNA ST                                     Class: 15C - Public Property   BORO OF HAWORTH                      0.332   0.043     -      0.215   0.332     -       -     -            0.332         -   Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 - PARK
+1303      1 OWATONNA ST                                     Class: 15C - Public Property   BORO OF HAWORTH                      1.179   0.583     -      0.373   0.103   0.362     -     -            0.736       0.443 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 - PARK
+1303      4 VALLEY RD.                                      Class: 1 - Vacant Land         BUCKNER, JOSHUA T & JOSEPHINE        0.236     -       -        -       -       -       -     -                        0.236 Vacant                                                                  No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO RIPARIAN BUFFER AND LESS THAN 0.83 ACRE
+1304     12 225 HAWORTH AVE          UTILITY BLDG.          Class: 15C - Public Property   HAWORTH BOARD OF EDUCATION           0.352     -       -        -       -       -       -     -              -         0.352 Developed/Excluded                                                      No           No                                                               6              -   0.20   -   NOT VACANT
+1305      2 HAWORTH AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      0.903   0.605   0.365    0.177     -       -       -     -            0.684       0.219 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 - PARK
+1306      5 VALLEY RD                VACANT LAND            Class: 15C - Public Property   BORO OF HAWORTH                      0.059     -       -        -       -       -       -     -                        0.059 Developed/Excluded                                                      No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO SIZE AND RIPARIAN BUFFER
+1307      1 TERRACE ST                                      Class: 15C - Public Property   BORO OF HAWORTH                      1.119     -       -        -       -       -       -     -                        1.119 Developed/Excluded                                                      No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO PARK AND MUNI USE
+1308      6 STEVENS PL                                      Class: 15C - Public Property   BORO OF HAWORTH                      0.041     -       -      0.013     -       -       -     -            0.013       0.028 Developed/Excluded                                                      No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO BEING DEVELOPED
+1309      1 HAWORTH AVE              BORO HALL/POLICE DP.   Class: 15C - Public Property   BORO OF HAWORTH                      2.260   0.899     -      2.260   0.822   0.411   0.176   -            2.260       0.000 Developed/Excluded   Municipal Complex                                  No           No                                                               6              -   0.20   -   DEVELOPED
+1309   1.01 STEVENS PLACE            PUBLIC LIBRARY         Class: 15C - Public Property   BORO OF HAWORTH                      0.116   0.000     -      0.116     -     0.072     -     -            0.116       0.000 Developed/Excluded   Municipal Complex                                  No           No                                                               6              -   0.20   -   DEVELOPED
+1311      6 VALLEY RD                                       Class: 15C - Public Property   BORO OF HAWORTH                      0.146     -       -        -       -       -       -     -                        0.146 Vacant                                                                  No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO LESS THAN 0.83 ACRE
+1312      7 SCHRAALENBURGH RD                               Class: 1 - Vacant Land         SK & KP ENTERPRISES LLC              0.337     -       -        -       -       -       -     -                        0.337 Developed/Excluded   Part of Developed Site                             No           No                                                               6              -   0.20   -   0 RDP IN R3 - DEVELOPED
+1401      1 HOUSTON PLACE                                   Class: 1 - Vacant Land         GRIMALDI, ALBERT                     1.535     -       -        -       -       -       -     -                        1.535 Developed/Excluded   Narrow, Abormally Sloped Lot Adjacent to Railway   No           No                                                               6              -   0.20   -   0 RDP IN R3 - RAILROAD LOT
+1401      2 HOUSTON PLACE                                   Class: 15C - Public Property   BORO OF HAWORTH                      2.150     -       -        -       -       -       -     -                        2.150 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP R3 - PARK
+1402      6 ST NICHOLAS AVE                                 Class: 15C - Public Property   BORO OF HAWORTH                      0.413     -       -        -       -       -       -     -              -         0.413 Developed/Excluded   Third Round RDP Site                               No           No                                                               6              -   0.20   -   RDP IN R3
+1403      8 REAR TERRACE ST                                 Class: 1 - Vacant Land         UNKNOWN                              0.072     -       -        -       -       -       -     -                        0.072 Vacant                                                                  No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO LESS THAN 0.83 ACRE
+1403     12 HILLCREST AVE                                   Class: 15C - Public Property   BORO OF HAWORTH                      1.694     -       -      1.552   0.158   0.656     -     -            1.552       0.142 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO WETLANDS AND RIPARIAN BUFFER
+1403     13 SENECA TRACE                                    Class: 15C - Public Property   BORO OF HAWORTH                      2.569   0.556     -      2.569   1.900   0.611   0.240   -            2.569         -   Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO WETLANDS AND RIPARIAN BUFFER
+1403     14 TERRACE ST                                      Class: 15C - Public Property   BORO OF HAWORTH                      1.909   0.129     -      1.360   0.380   0.373   0.076   -            1.360       0.549 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO WETLANDS AND RIPARIAN BUFFER
+1403     15 TERRACE ST                                      Class: 15C - Public Property   BORO OF HAWORTH                      0.792     -       -      0.237     -       -       -     -            0.237       0.555 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO WETLANDS AND RIPARIAN BUFFER
+1403     18 OWATONNA ST                                     Class: 15C - Public Property   BORO OF HAWORTH                      1.074   0.119     -      1.074   0.847   0.207   0.086   -            1.074         -   Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO WETLANDS AND RIPARIAN BUFFER
+1406     27 HENDRICKSON ST                                  Class: 15C - Public Property   BORO OF HAWORTH                      0.047     -       -        -       -       -       -     -                        0.047 Developed/Excluded   Part of Developed Site                             No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO LESS THAN 0.83 ACRE
+1406     31 SUMMIT PLACE             TAX LIEN FORECLOSURE   Class: 15C - Public Property   BORO OF HAWORTH                      0.048     -       -        -       -       -       -     -              -         0.048 Developed/Excluded                                                      No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO LESS THAN 0.83 ACRE
+1406     39 SCHRAALENBURGH RD                               Class: 15C - Public Property   BORO OF HAWORTH                      0.636     -       -        -       -       -       -     -                        0.636 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO LESS THAN 0.83 ACRE
+1500     14 MORRIS AV                TAX LIEN FORECLOSURE   Class: 15C - Public Property   BORO OF HAWORTH                      0.104   0.052     -      0.104     -       -     0.001   -            0.104         -   Vacant                                                                  No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO LESS THAN 0.83 ACRE
+1500     25 PINE LANE                                       Class: 15C - Public Property   BORO OF HAWORTH                      0.457   0.457     -      0.457     -       -     0.092   -            0.457         -   Vacant                                                                  No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO RIPARIAN BUFFER.
+1500     29 MORRIS AV                TAX LIEN FORECLOSURE   Class: 15C - Public Property   BORO OF HAWORTH                      0.104     -       -        -       -       -       -     -                        0.104 Vacant                                                                  No           No                                                               6 1500/30+29   -   0.20   -   0 RDP IN R3 DUE TO SIZE
+1500     30 REAR PINE LANE                                  Class: 1 - Vacant Land         GATES, DIANE M                       0.246     -       -        -       -       -       -     -                        0.246 Vacant                                                                  No           No                                                               6 1500/30+29   -   0.20   -
+1501     19 HARRISON ST                                     Class: 15C - Public Property   BORO OF HAWORTH                      1.102   0.008     -      0.232     -       -       -     -            0.232       0.869 Developed/Excluded   Third Round RDP Site                               No           No                                                               6              -   0.20   -   RDP IN R3
+1502      8 PROSPECT AVE                                    Class: 15C - Public Property   BORO OF HAWORTH                      0.959   0.797     -      0.959     -       -     0.192   -            0.959       0.000 Developed/Excluded   Part of Yard Area                                  No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO RIPARIAN BUFFER
+1503      1 PROSPECT AVE                                    Class: 15C - Public Property   BORO OF HAWORTH                      0.053     -       -        -       -       -       -     -                        0.053 Developed/Excluded                                                      No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO LESS THAN 0.83 ACRE
+1507      1 PROSPECT AVE                                    Class: 15C - Public Property   BORO OF HAWORTH                      0.988   0.713     -      0.988     -       -     0.128   -            0.988       0.000 Vacant                                                                  No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO STREAM AND RIPARIAN
+1512      1 HARRISON ST                                     Class: 15C - Public Property   BORO OF HAWORTH                      1.289     -       -        -       -       -       -     -                        1.289 Developed/Excluded   Identified as a Park in Third Round VLA            No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO PARK
+1600     11 DELAWARE AVE                                    Class: 15C - Public Property   BORO OF HAWORTH                      0.766     -       -      0.766     -       -     0.095   -            0.766       0.000 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO PARK, FIELD AND STREAM
+1600     17 WHITMAN ST                                      Class: 15C - Public Property   BORO OF HAWORTH                      9.122     -       -      3.861     -       -     0.080   -            3.861       5.262 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO PARK
+1600     29 MADISON AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      0.217     -       -        -       -       -       -     -                        0.217 Developed/Excluded   Right-of-Way                                       No           No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO SIZE AND NARROW LOT
+1600     35 DELAWARE AVE                                    Class: 15C - Public Property   BORO OF HAWORTH                      1.129     -       -      1.129     -       -     0.100   -            1.129       0.000 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO PARK
+1600     38 CHESTNUT ST                                     Class: 15C - Public Property   BORO OF HAWORTH                      0.274     -       -      0.138     -       -       -     -            0.138       0.136 Developed/Excluded   ROSI                                               Yes          Yes              Landlocked                                      6              -   0.20   -   0 RDP IN R3 DUE TO PARK
+1601      1 MADISON AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      2.381     -       -      2.381     -       -     0.199   -            2.381       0.000 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO PARK
+1602      1 MADISON AVE                                     Class: 15C - Public Property   BORO OF HAWORTH                      2.131     -       -      1.426     -       -       -     -            1.426       0.705 Developed/Excluded   ROSI                                               Yes          No                                                               6              -   0.20   -   0 RDP IN R3 DUE TO PARK
+1602      2 PLEASANT ST                                     Class: 15C - Public Property   BORO OF HAWORTH                      0.238     -       -        -       -       -       -     -                        0.238
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                         BER-L-000726-25 06/19/2025 3:31:45 PM Pg 42 of 91 Trans ID: LCV20251809129
+                                                                                                                                                                                                              FOURTH ROUND VACANT LAND ADJUSTMENT
+                                                                                                                                                                                                                        Haworth Borough
+
+
+
+
+                                                                                                                                                                                                              ACRES WITH ONE                                                                            EXCLUSIONS
+                                                                                                                                                                          WETLAND
+                                                                                                                                                  C1 BUFFER                                        HISTORIC      OR MORE                                                                                                                        ASSUMED         VACANT WITH                     ASSUMED RDP
+BLOCK    LOT          LOCATION         USEAGE                 CLASS                         CURRENT OWNER   TOTAL ACRES    SFHA       WATER                    WETLANDS    BUFFER     STREAMBED                                NET ACRES              STATUS           NOTE                       OTHER                                                                          TOTAL YIELD                       RDP                             ADDITIONAL NOTE
+                                                                                                                                                  (300 FEET)                                      PROPERTY    ENVIRONMENTAL                                                         ROSI                      REASON FOR OTHER EXCLUSION         DENSITY         ADJACENT                         SET-ASIDE
+                                                                                                                                                                          (50 FEET)                                                                                                             EXCLUSION
+                                                                                                                                                                                                               CONSTRAINTS
+  1806      5 GARFIELD ST                       Class: 15C - Public Property   BORO OF HAWORTH                     0.702          -           -            -          -           -           -           -                          0.702 Developed/Excluded   ROSI          Yes          No                                                               6                              -                0.20          -   RDP IN R3
+  1806      6 GARFIELD AVE                      Class: 1 - Vacant Land         N E R FMLY ASSOC LLC                0.095          -           -            -          -           -           -           -                          0.095 Vacant                             No           No                                                               6                              -                0.20          -   RDP IN R3
+  1806      7 GARFIELD ST                       Class: 15C - Public Property   BORO OF HAWORTH                     0.373          -           -            -          -           -           -           -                          0.373 Developed/Excluded   ROSI          Yes          No                                                               6                              -                0.20          -   RDP IN R3
+  1806      8 HARDEBBURGH & GARFIELD            Class: 1 - Vacant Land         N E R FMLY ASSOC LLC                0.140          -           -            -          -           -           -           -                          0.140 Vacant                             No           No                                                               6                              -                0.20          -   NO RDP IN R3 DUE TO LESS THAN 0.83 ACRE
+  1806     10 GRANT ST                          Class: 15C - Public Property   BORO OF HAWORTH                     0.660          -           -            -          -           -           -           -                          0.660 Developed/Excluded   ROSI          Yes          No                                                               6                              -                0.20          -   NO RDP IN R3 DUE TO BEING A PARK
+  1809      4 FRANKLIN ST                       Class: 15C - Public Property   BORO OF HAWORTH                     0.019          -           -            -          -           -           -           -                          0.019 Vacant                             No           No                                                               6                              -                0.20          -   NO RDP IN R3 DUE TO LESS THAN 0.83 ACRE
+                                                                                                                                                                                                                                                                                                                                                                                                      TOTAL RDP:          -
+                                                                                                                                                                                                                                                                                                                              ADDITIONAL RDP RESULTING FROM 173 SHRAALENBURGH (BLOCK 1700/8); NOT A VACANT SITE:         2.00
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 BER-L-000726-25 06/19/2025 3:31:45 PM Pg 43 of 91 Trans ID: LCV20251809129
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Prepared: June 6, 2025
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 44 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 45 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 46 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 47 of 91 Trans ID: LCV20251809129
+
+
+
+
+Appendix B: Affordable Housing Ordinance and Affirmative Marketing Plan
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 48 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 49 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 50 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 51 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 52 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 53 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 54 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 55 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 56 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 57 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 58 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 59 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 60 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 61 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 62 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 63 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 64 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 65 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 66 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 67 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 68 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 69 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 70 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 71 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 72 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 73 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 74 of 91 Trans ID: LCV20251809129
+
+
+
+
+                 Appendix C: Development Fee Ordinance
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 75 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 76 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 77 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 78 of 91 Trans ID: LCV20251809129
+
+
+
+
+  Appendix D: Resolutions Appointing the Municipal Housing Liaison and
+                          Administrative Agent
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 79 of 91 Trans ID: LCV20251809129
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 80 of 91 Trans ID: LCV20251809129
+    BER-L-000726-25 06/19/2025 3:31:45 PM Pg 81 of 91 Trans ID: LCV20251809129
+
+
+
+
+                                 BOROUGH OF HAWORTH
+                                    BERGEN COUNTY
+                                  RESOLUTION 2025-112
+
+ RESOLUTION AMENDING RESOLUTION 2025-055 TO REFLECT A VACANCY IN
+ THE POSITION OF AFFORDABLE HOUSING LIAISON AND APPOINTING LIANA
+                     PIRETRA TO THE POSITION
+
+WHEREAS, the New Jersey Fair Housing Act, N.J.S.A. 52:27D-301 et seq., mandates that
+municipalities ensure the availability of affordable housing opportunities and may designate a
+liaison to facilitate communication between the municipality and the New Jersey Council on
+Affordable Housing (COAH) or other appropriate state agencies; and
+
+WHEREAS, N.J.A.C. 5:97-1.1 et seq. requires municipalities to appoint an Affordable Housing
+Liaison to oversee the municipality’s compliance with affordable housing obligations and
+regulations; and
+
+WHEREAS, the Borough of Haworth previously adopted Resolution 2025-055, appointing
+Carolyn Lee as the Affordable Housing Liaison; and
+
+WHEREAS, Carolyn Lee's departure has resulted in a vacancy in the position of Affordable
+Housing Liaison; and
+
+WHEREAS, the Governing Body of the Borough of Haworth wishes to amend Resolution 2025-
+055 to reflect this vacancy and to appoint Liana Piretra as the Affordable Housing Liaison for the
+Borough, effective immediately, to fulfill the responsibilities outlined in N.J.A.C. 5:97 and other
+applicable statutes and regulations; and
+
+WHEREAS, the salary for the Affordable Housing Liaison shall be determined in accordance
+with the provisions of the Borough's Local Salary Ordinance, as may be amended from time to
+time;
+
+NOW, THEREFORE, BE IT RESOLVED by the Governing Body of the Borough of
+Haworth, County of Bergen, State of New Jersey, as follows:
+
+   1. Amendment of Resolution 2025-055
+      Resolution 2025-055 is hereby amended to reflect the vacancy created by the departure of
+      Carolyn Lee from the position of Affordable Housing Liaison.
+   2. Appointment of Affordable Housing Liaison
+      The Borough of Haworth hereby appoints Liana Piretra as the Affordable Housing
+      Liaison for the Borough, effective immediately. Ms. Piretra shall serve in this capacity
+      for the Borough and shall be responsible for overseeing and managing all matters relating
+      to affordable housing, including compliance with state regulations and coordination with
+      the New Jersey Council on Affordable Housing or any successor agency.
+   3. Duties of the Affordable Housing Liaison
+      The Affordable Housing Liaison shall have the following responsibilities:
+       BER-L-000726-25 06/19/2025 3:31:45 PM Pg 82 of 91 Trans ID: LCV20251809129
+
+
+
+
+                 o     Ensuring the Borough's compliance with affordable housing regulations,
+                       including the submission of required reports and documentation to state agencies;
+                 o     Acting as the primary point of contact for the New Jersey Council on Affordable
+                       Housing (COAH) or any successor agency;
+                 o     Coordinating with developers, residents, and other stakeholders on affordable
+                       housing matters within the Borough;
+                 o     Monitoring and assisting with the processing of affordable housing development
+                       applications and projects;
+                 o     Providing regular updates to the Governing Body regarding affordable housing
+                       matters;
+                 o     Assisting residents in accessing affordable housing programs and ensuring that
+                       the Borough remains compliant with all relevant laws and regulations.
+     4. Salary
+        The salary for the Affordable Housing Liaison shall be established in accordance with the
+        provisions of the Borough's Local Salary Ordinance, which shall govern compensation
+        for this position. The salary will be subject to review and adjustment as determined by the
+        Governing Body in accordance with the salary ordinance.
+
+ Councilperson                       Moved         Seconded              Aye            Nay             Abstain               Absent
+
+ Poosikian                                                                                                                          X
+
+ Rosenberg                                 X                                X
+
+ Siciliano                                                                                                                          X
+
+ Davis                                                                      X
+
+ Di Iorgi                                                                   X
+
+ Laub                                                     X                 X
+
+This resolu�on shall take eﬀect immediately upon its adop�on by the Mayor and Council and shall be enforced in accordance with all applicable
+laws and regula�ons.
+
+I hereby certify that the above resolution is a
+true copy of a resolution adopted by the
+Mayor and Council on March 11, 2025.
+APPROVED:
+
+
+
+_________________________                                                       ______________________
+Greg Zagaja                                                                     Heather Wasser
+Municipal Clerk                                                                 Mayor
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 83 of 91 Trans ID: LCV20251809129
+
+
+
+
+             Appendix E: Draft Ordinances and Concept Plans
+     BER-L-000726-25 06/19/2025 3:31:45 PM Pg 84 of 91 Trans ID: LCV20251809129
+
+
+
+
+                                       139 Terrace Street
+                             Borough of Haworth, Bergen County
+             Creation of New Zone District Permitting Inclusionary Development
+                              DRAFT ORDINANCE – June 4, 2025
+
+
+The following shall be added to Section XX of the Haworth Land Use Ordinance:
+
+
+A.     This ordinance creates a new zone district, known as Zone XXX to include only the
+       property known as Block 1308, Lot 1/139 Terrace Street.
+
+
+B.     Intent and purpose. It is the intent and purpose of this district to facilitate creation of
+       an inclusionary development that will diversify housing opportunities and satisfy
+       the Borough’s Round 4 affordable housing obligation.
+
+
+C.     Permitted uses. Any one or a combination of the following uses are permitted.
+       (1)      Mixed-use development, containing:
+                (a)    The ground ﬂoor use shall be a business or commercial use that is
+                       permitted in Business District “D”/Business Zone, as provided in
+                       Subsection 26-502.4a. of the Land Use Ordinance, as well as a lobby
+                       or other common space for the residential units.
+                (b)    The second and third ﬂoors shall contain residential dwelling units.
+                (c)    Residential dwelling units are not permitted on the ground ﬂoor.
+       (2)      Private indoor and outdoor recreational facilities for the use of residents of
+                the subject property.
+       (3)      Parking, both surface and/or structured.
+       (4)      Accessory uses and accessory structures customarily incidental to the
+                above uses and located on the same lot as the principal use to which they
+                are accessory.
+D.     Permitted Conditional Use
+       (1)      Mixed-use development as permitted in Subsection 26-502.4.b.4 of the Land
+                Use Ordinance.
+E.     Area and Bulk Requirements:
+       (1)      Minimum lot size: 11,700 square feet
+       (2)      Maximum gross density: 37 du/ac
+
+
+                                                                                            Page 1
+     BER-L-000726-25 06/19/2025 3:31:45 PM Pg 85 of 91 Trans ID: LCV20251809129
+
+
+
+
+       (3)   Maximum number of dwelling units: 10 units
+       (4)   Minimum tract perimeter building setbacks:
+             (a)    Terrace Street: 3 feet
+             (b)    St. Nicholas Ave. : 0 ft.
+             (c)    Stevens Place: 0 ft.
+       (5)   Parking & Loading
+             (a)    16 parking spaces shall be provided, including (1) one ADA accessible
+                    space and one (1) Electric Vehicle (EV) make ready space.
+             (b)    A loading space is not required.
+       (6)   Maximum principal building height: 35 ft. and three (3) stories
+       (7)   Maximum impervious coverage: 98.7%
+
+
+F.     Site Design Requirements:
+       (1)   Signs are permitted pursuant to Section 26-702 (Signs in Business Zone “D”).
+       (2)   Parapets are excluded from building height calculations.
+       (3)   Architectural features including fenestration, step-backs, variations in
+             building height and rooﬂines and varying color schemes are to be used to
+             break up the mass and appearance of the building, in particular along the St.
+             Nichols Ave. frontage.
+       (4)   The site layout and design shall be substantially consistent with the
+             engineering plan entitled, “Concept Map, 139 Terrace Street,” prepared by
+             MCB Engineering Associates, LLC, dated April 2025, and architectural plans
+             entitled, “Terrace Street Development,” consisting of four (4) sheets,
+             prepared by Zampolin & Associates, dated April 25, 2025.
+
+
+G.     Affordable Housing
+       (1)   Not less than 20% of the total dwelling units shall be restricted to low and
+             moderate households, with 13% of the affordable units being available to
+             very low income household;ds. These households shall be available to
+             families, and shall not be restricted to any speciﬁc demographic or
+             population.
+       (2)   If the required total number of residential units does not result in a full
+             integer, the developer shall round up to the nearest full integer.
+       (3)   The affordable units shall be developed and administered in accordance with
+             the Fair Housing Act (NJSA 52:27D-301 et. seq.), Local Planning Services
+             regulations (N.J.A.C. 5:99), and UHAC regulations (N.J.A.C. 5:80-26.1), and as
+
+
+                                                                                           Page 2
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 86 of 91 Trans ID: LCV20251809129
+
+
+
+
+        required under Chapter 30, Affordable Housing and Affirmative Marketing
+        Regulations, of the Code of the Borough of Haworth. Such requirements
+        include but are not limited to the following: income distribution, bedroom
+        distribution, affordability controls (not less than 40 years for rental units and
+        30 years for sale units).
+  (4)   The affordable units shall be integrated throughout the development.
+
+
+                             End of Draft Ordinance
+
+
+
+
+                                                                                     Page 3
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 87 of 91 Trans ID: LCV20251809129
+     BER-L-000726-25 06/19/2025 3:31:45 PM Pg 88 of 91 Trans ID: LCV20251809129
+
+
+
+
+                                       320 Haworth Ave
+                             Borough of Haworth, Bergen County
+             Creation of New Zone District Permitting Inclusionary Development
+                         DRAFT ZONING ORDINANCE – June 4, 2025
+
+
+The following shall be added to Section XX of the Haworth Land Use Ordinance:
+
+
+A.     This ordinance creates a new zone district, known as Zone XXX to include only the
+       property known as Block 1307, Lot 2/320 Haworth Avenue.
+
+
+B.     Intent and purpose. It is the intent and purpose of this district to facilitate creation of
+       an inclusionary development that will diversify housing opportunities and satisfy
+       the Borough’s Round 4 affordable housing obligation.
+
+
+C.     Permitted uses. Any one or a combination of the following uses are permitted.
+       (1)      Mixed-use development, containing:
+                (a)    The ground ﬂoor use shall be a business or commercial use that is
+                       permitted in Business District “D”/Business Zone, as provided in
+                       Subsection 26-502.4a. of the Land Use Ordinance, as well as a lobby
+                       or other common space for the residential units.
+                (b)    The second and third ﬂoors shall contain residential dwelling units.
+                (c)    Residential dwelling units are not permitted on the ground ﬂoor.
+       (2)      Private indoor and outdoor recreational facilities for the use of residents of
+                the subject property.
+       (3)      Parking, both surface and/or structured.
+       (4)      Accessory uses and accessory structures customarily incidental to the
+                above uses and located on the same lot as the principal use to which they
+                are accessory.
+D.     Permitted Conditional Use
+       (1)      Mixed-use development as permitted in Subsection 26-502.4.b.4 of the Land
+                Use Ordinance.
+E.     Area and Bulk Requirements:
+       (1)      Minimum lot size: 19,600 square feet
+       (2)      Maximum gross density: 34 du/ac
+
+                                                                                            Page 1
+     BER-L-000726-25 06/19/2025 3:31:45 PM Pg 89 of 91 Trans ID: LCV20251809129
+
+
+
+
+       (3)   Maximum number of dwelling units: 15 units
+       (4)   Minimum tract perimeter building setbacks:
+             (a)    Terrace Street: 3.4 feet
+             (b)    Haworth Ave: 6.4 ft.
+             (c)    Houston Place: 10.8 ft.
+       (5)   Parking & Loading
+             (a)    27 parking spaces shall be provided, including (1) one ADA accessible
+                    space and one (1) Electric Vehicle (EV) make ready space.
+             (b)    A loading space is not required.
+       (6)   Maximum principal building height: 35 ft. and three (3) stories
+       (7)   Maximum impervious coverage: 87.7%
+
+
+F.     Site Design Requirements:
+       (1)   Signs are permitted pursuant to Section 26-702 (Signs in Business Zone “D”).
+       (2)   Parapets are excluded from building height calculations.
+       (3)   Architectural features including fenestration, step-backs, variations in
+             building height and rooﬂines and varying color schemes are to be used to
+             break up the mass and appearance of the building, in particular along the St.
+             Nichols Ave. frontage.
+       (4)   The site layout and design shall be substantially consistent with the
+             engineering plan entitled, “Concept Map, 320, Haworth Ave.,” prepared by
+             MCB Engineering Associates, LLC, dated November 25, 2024, and an
+             architectural plans entitled, “Terrace Street Development,” consisting of four
+             (4) sheets, prepared by Zampolin & Associates, dated April 25, 2025.
+
+
+G.     Affordable Housing
+       (1)   Not less than 20% of the total dwelling units shall be restricted to low and
+             moderate households, with 13% of the affordable units being available to
+             very low income households. These households shall be available to
+             families, and shall not be restricted to any speciﬁc demographic or
+             population.
+       (2)   If the required total number of residential units does not result in a full
+             integer, the developer shall round up to the nearest full integer.
+       (3)   The affordable units shall be developed and administered in accordance with
+             the Fair Housing Act (NJSA 52:27D-301 et. seq.), Local Planning Services
+             regulations (N.J.A.C. 5:99), and UHAC regulations (N.J.A.C. 5:80-26.1), and as
+                                                                                           Page 2
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 90 of 91 Trans ID: LCV20251809129
+
+
+
+
+        required under Chapter 30, Affordable Housing and Affirmative Marketing
+        Regulations, of the Code of the Borough of Haworth. Such requirements
+        include but are not limited to the following: income distribution, bedroom
+        distribution, affordability controls (not less than 40 years for rental units and
+        30 years for sale units).
+  (4)   The affordable units shall be integrated throughout the development.
+
+
+                             End of Draft Ordinance
+
+
+
+
+                                                                                     Page 3
+BER-L-000726-25 06/19/2025 3:31:45 PM Pg 91 of 91 Trans ID: LCV20251809129
+

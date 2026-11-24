@@ -1,0 +1,3060 @@
+WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 1 of 69 Trans ID: LCV20251858913
+WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 2 of 69 Trans ID: LCV20251858913
+WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 3 of 69 Trans ID: LCV20251858913
+      WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 4 of 69 Trans ID: LCV20251858913
+
+
+
+
+Fourth Round
+  Housing Element
+& Fair Share Plan
+Town of Hackettstown
+
+
+
+
+June 13, 2025
+Prepared for:                 Prepared by:
+                                                                     Colliers Engineering & Design
+                                                                              Shelbourne at Warren
+                                                                        53 Frontage Road, Suite 110
+Town of Hackettstown          _______________________________
+                                                                       Hampton, New Jersey 08827
+Warren County, New Jersey     Daniel N. Bloch, P.P., AICP, EADA
+                              NJ Planner License No. 33LI00610700
+                                                                                Main: 908.238.0900
+                                                                           Colliersengineering.com
+WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 5 of 69 Trans ID: LCV20251858913
+
+
+
+
+                                                                Fourth Round
+       Housing Element & Fair Share Plan
+                                                        Town of Hackettstown
+                                                                           Warren County, New Jersey
+
+
+
+
+                                            Adopted by the Land Use Board: _____________
+
+
+
+                                      Endorsed by the Mayor and Council: _____________
+
+
+
+
+                              The original of this report was signed and sealed in accordance with NJSA 45:14A-12.
+                                                                                                         HKL0030
+
+
+
+
+                                                                                                          Page i
+      WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 6 of 69 Trans ID: LCV20251858913
+
+
+
+
+      Table of Contents
+Table of Contents ................................................................................................................................. ii
+I.     Introduction .................................................................................................................................. 1
+           Affordable Housing History .................................................................................................................... 1
+           Municipal Summary ............................................................................................................................... 5
+           Hackettstown Affordable Housing Goals ............................................................................................... 6
+           Affordable Housing Obligation .............................................................................................................. 7
+HOUSING ELEMENT .............................................................................................................................. 8
+II.    Required Content of Housing Element ...................................................................................... 8
+III. Population Demographics ......................................................................................................... 10
+           Population Growth ............................................................................................................................... 10
+           Age Distribution of Population............................................................................................................. 11
+           Household Size & Type ......................................................................................................................... 11
+           Income & Poverty Status ...................................................................................................................... 13
+I.     Housing Demographics .............................................................................................................. 15
+           Housing Type ........................................................................................................................................ 15
+           Occupancy Status ................................................................................................................................. 15
+           Value & Rent of Housing Stock ............................................................................................................. 16
+           Condition of Housing Stock .................................................................................................................. 17
+II.    Employment Demographics ...................................................................................................... 19
+           Occupational Characteristics ............................................................................................................... 19
+           Employment Projections ...................................................................................................................... 20
+           In-Place Employment by Industry ........................................................................................................ 20
+           Travel Time to Work.............................................................................................................................. 21
+IV. Projection of Housing Stock ...................................................................................................... 23
+V.     Capacity for Fair Share .............................................................................................................. 24
+           Land Capacity ....................................................................................................................................... 24
+           Utility Capacity...................................................................................................................................... 25
+           Appropriate Locations for Affordable Housing ................................................................................... 25
+           Potential Affordable Housing Developers............................................................................................ 25
+           Anticipated Development Patterns ...................................................................................................... 25
+           Multigenerational Family Continuity Evaluation................................................................................. 27
+           Highlands Regional Master Plan Compliance ..................................................................................... 27
+           State Development & Redevelopment Plan Consistency..................................................................... 28
+
+                                                                                                                                                          Page ii
+      WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 7 of 69 Trans ID: LCV20251858913
+
+
+
+
+FAIR SHARE PLAN ............................................................................................................................... 30
+VI. Required Content of Fair Share Plan ........................................................................................ 30
+VII. Regional Income Limits ............................................................................................................. 31
+VIII. Hackettstown’s Affordable Housing Obligation ..................................................................... 32
+           Present Need (Rehabilitation Obligation) | 87.................................................................................... 32
+           Prior Round (1987-1999) | 62 ............................................................................................................. 33
+           Third Round (1999-2025) | 163........................................................................................................... 33
+           Fourth Round (2025-2035) | 102 ........................................................................................................ 33
+           Highlands Build-out Analysis | 0 RDP ................................................................................................. 33
+IX. Mechanisms & Credits ............................................................................................................... 36
+           Rehabilitation Mechanisms & Credits.................................................................................................. 36
+           Prior Round (1987-1999) Mechanisms & Credits ................................................................................ 37
+           Third Round Mechanisms & Credits .................................................................................................... 39
+           Fourth Round (2025-2035) Mechanisms & Credits ............................................................................. 40
+           Highlands Build-out Unmet Need ........................................................................................................ 41
+           Summary of Mechanisms & Credits .................................................................................................... 43
+X.     Appendix ..................................................................................................................................... 44
+
+
+
+
+                                                                                                                                              Page iii
+     WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 8 of 69 Trans ID: LCV20251858913
+
+
+
+
+I.        Introduction
+According to the New Jersey Fair Housing Act of 1985 (L. 1985, c. 222, s. 1, eff. July 2, 1985), a Housing
+Plan Element shall be designed to achieve the goal of access to affordable housing to meet present
+and prospective housing needs, with particular attention to low- and moderate-income housing.
+
+This report is the Town of Hackettstown’s Housing Element and Fair Share Plan (“HEFSP”) for the
+period between 2025 and 2035 (known as the Fourth Round). Hackettstown seeks to voluntarily
+comply with its constitutional obligation to provide a realistic opportunity for affordable housing.
+This HEFSP is prepared utilizing the Prior Round Rules1, Third Round Rules2 (as applicable), and the
+amendments implemented in P.L. 2024, c.2. Each municipality in the State has a four-part obligation:
+
+     1.   Rehabilitation Obligation
+     2.   Prior (First and Second Round) Obligations (1987-1999)
+     3.   Third Round Obligation (1999–2025)
+     4.   Fourth Round Obligation (2025-2035)
+
+Affordable Housing History
+Mount Laurel Doctrine
+Affordable housing planning in New Jersey dates back to 1975, when the New Jersey Supreme Court
+ruled in Southern Burlington County NAACP v. the Township of Mount Laurel, 67 N.J. 151 (1975), 336
+(Mount Laurel I), that each municipality within New Jersey has a constitutional obligation to provide
+a realistic opportunity for the construction of their fair share of affordable housing. Mount Laurel I is
+the landmark decision that created what is commonly referred to as the “Mount Laurel Doctrine”.
+The Supreme Court found that Mount Laurel Township’s zoning ordinance only permitted one type
+of housing—single-family detached dwellings, while all other types of multi-family housing, such as
+garden apartments, townhomes, or mobile home parks, were prohibited, which the court
+determined resulted in economic discrimination and exclusion of substantial segments of the area
+population, and therefore the zoning ordinance was unconstitutional and invalid.
+
+In 1983, the New Jersey Supreme Court issued Southern Burlington County NAACP v. Township of
+Mount Laurel, 92 N.J. 158 (1983), another monumental decision which became known as the “Mount
+Laurel II” decision. In this case, the Supreme Court upheld and expanded upon the Mount Laurel I
+decision. Mount Laurel II clarified that the constitutional obligation applies to all municipalities, not
+just the “developing” municipalities as referenced in Mount Laurel I. Each municipality is required to
+establish zoning that provides a realistic opportunity for the construction of affordable housing to
+comply with the municipality’s fair share obligation. Mount Laurel II established the “Builder’s
+Remedy” as a judicial mechanism to enforce the Mount Laurel Doctrine. A Builder’s Remedy lawsuit
+allows a plaintiff (typically a developer) to challenge a municipality’s zoning ordinance if it fails to
+create a realistic opportunity to provide affordable housing units to meet the constitutional fair
+share obligation.
+
+
+
+1
+  NJAC 5:91 (Procedural) and NJAC 5:93 (Substantive) Rules. They can be found at:
+New Jersey Department of Community Affairs | Second Round Regulations
+2
+ NJAC 5:96 (Procedural) and NJAC 5:97 (Substantive) Rules, which can be found at:
+https://nj.gov/dca/dlps/hss/thirdroundregs.shtml
+
+
+
+                                                                                                   Page 1
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 9 of 69 Trans ID: LCV20251858913
+
+
+
+
+In 1985, the Fair Housing Act (“FHA”) was enacted in response to the court decisions, which provided
+an administrative process for municipal compliance. The FHA also created the New Jersey Council on
+Affordable Housing (“COAH”), which was the governmental agency responsible for promulgating
+municipal obligations, adopting regulations, and administering the compliance process.
+
+Prior Rounds (1993-1999)
+Under COAH, the First Round of affordable housing spanned from 1987 to 1993, followed by the
+Second Round from 1993 to 1999. The First Round Substantive Rules were enacted under N.J.A.C.
+5:92 and the Second Round Substantive Rules were enacted under N.J.A.C. 5:93.
+
+Hackettstown’s Prior Round Compliance
+The Town of Hackettstown has continuously addressed its affordable housing obligation since the
+1980’s. Hackettstown originally prepared its Housing Plan in December 1986 and first received
+substantive certification from the COAH on October 17, 1988. The Town prepared a Second Round
+Housing Plan in June 1995 and received substantive certification from COAH on August 2, 2000.
+
+Hackettstown received its first substantive certification from COAH on August 4, 1993 with an
+employment adjustment. The Town received 81 units of credit for Heritage House, a US-HUD
+Section 202 funded housing development. The Town also adopted a Planned Residential
+Development (PRD) zone at a gross density of 4 units per acre with an 11 percent set-aside for
+affordable units.
+
+On May 3, 2000, Hackettstown received substantive certification for its HEFSP, which addressed the
+Town’s 1987-1999 cumulative pre-credited need of 135 units, with a 74-unit rehabilitation share and
+a 61-unit new construction obligation. With the First Round employment adjustment, the Second
+Round obligation was reduced to 122 units, consisting of a 74-unit rehabilitation obligation and a 48-
+unit new construction obligation. Hackettstown contracted with Affordable Housing Management
+Services to administer its housing program and with the Warren County Housing Rehabilitation
+Program to administer its rehabilitation program. Hackettstown adopted an Affirmative Marketing
+Ordinance and payment-in-lieu of construction after receiving COAH certification. COAH extended
+Second Round to December 31, 2008 for all municipalities.
+
+Third Round (1999-2025)
+The Third Round of affordable housing commenced in 1999, which was supposed to end in 2018;
+however, due to numerous legal challenges and court orders, the Third Round was ultimately
+extended through 2025.
+
+The first version of COAH’s Third Round Substantive Rules was enacted under N.J.A.C. 5:94 in 2004.
+This version of the rules was challenged and in January 2007 the Appellate Court issued a decision
+requiring COAH to revise its rules.
+
+In October 2008, COAH adopted numerous amendments to its substantive and procedural
+regulations to address the Third Round fair housing requirements. The Third Round methodology,
+adopted in September 2008, required that a municipality’s fair share consist of three elements: the
+1) rehabilitation share, 2) any remaining Prior Round obligation that was not provided for, and 3) the
+Growth Share or Third Round, which is based upon one affordable housing unit for every four
+market-rate units built and one affordable unit for every 16 new jobs created. In addition to these
+new rules, COAH assigned new rehabilitation, Prior Round and Third Round obligation numbers to
+
+
+
+                                                                                                 Page 2
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 10 of 69 Trans ID: LCV20251858913
+
+
+
+
+each municipality. Additionally, the State legislature passed Assembly Bill A-500 (now P.L. 2008),
+which made significant changes to COAH’s rules.
+
+In 2009, appeals were filed regarding the new Third Round Rules’ growth share methodology. The
+case worked its way through the Appellate Division and finally went before the Supreme Court. The
+Supreme Court issued a decision on September 26, 2013, finding that the key set of rules
+establishing the growth share methodology as the mechanism for calculating “fair shares” was
+inconsistent with the FHA and the Mount Laurel Doctrine. The Supreme Court instructed COAH “to
+adopt new third round rules that use a methodology for determining prospective need similar to the
+methodologies used in the first and second rounds,” within five months, which was later extended
+to November 2014.
+
+In July 2014, COAH proposed new Third Round under N.J.A.C. 5:98 and 5:99. However, the new rules
+were never formally adopted by COAH.
+
+After COAH failed to promulgate its revised rules by the November 2014 deadline, the Supreme
+Court made a ruling on March 10, 2015 entitled In re Adoption of N.J.A.C. 5:96 & 5:97 by the N.J.
+Council on Affordable Housing, 221 N.J. 1 (2015) (Mount Laurel IV), which allows for judicial review
+for constitutional compliance, as was the case before the FHA was enacted. The ruling allowed low-
+and moderate-income families and their advocates to challenge exclusionary zoning in court, rather
+than having to wait for COAH to issue rules that may never come. The process provided a
+municipality that had sought to use the FHA’s mechanisms the opportunity to demonstrate
+constitutional compliance to a court’s satisfaction before being declared noncompliant and then
+being subjected to the remedies available through exclusionary zoning litigation, including a
+builder’s remedy.
+
+The transitional process created by the Supreme Court tracked the FHA procedures for compliance.
+In this regard, the process permitted municipalities to file a Declaratory Judgment Action during a
+30-day window between June 8 and July 8, 2015 that sought an adjudication as to their fair share.
+This would enable the municipality to comply voluntarily with its constitutional obligation to provide
+a realistic opportunity for the construction if its fair share of the regions’ low- and moderate-income
+households.
+
+On January 18, 2017, the Supreme Court decided In Re Declaratory Judgment Actions Filed by
+Various Municipalities, County of Ocean, Pursuant to The Supreme Court’s Decision In In re Adoption
+of N.J.A.C. 5:96, 221 N.J. 1 (2015) (“Mount Laurel V”), which held that municipalities are responsible
+for obligations accruing during the so-called “gap period,” the period between 1999 and 2015.
+However, the Court stated that the gap obligation should be calculated as a never-before calculated
+component of Present Need (also referred to as Rehabilitation Obligation), which would serve to
+capture Gap Period households that were presently in need of affordable housing as of the date of
+the Present Need calculation (i.e. that were still income eligible, were not captured as part of
+traditional present need, were still living in New Jersey and otherwise represented a Present
+affordable housing need).
+
+Between 2015 and 2024, municipalities that elected to voluntarily comply with their constitutional
+obligation participated in mediation sessions, reached settlement agreements, adopted Third Round
+Housing Element and Fair Share Plans, and most municipalities concluded the process with a Third
+Round Judgment of Compliance and Repose (“Third Round JOR”) from the courts. As a result of
+COAH’s inability to function, the Third Round period spanned from 1999 to 2025, a 26-year long
+
+
+
+                                                                                                 Page 3
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 11 of 69 Trans ID: LCV20251858913
+
+
+
+
+period as opposed to the 6-year periods for the first and second rounds. The Third Round is set to
+expire on June 30, 2025.
+
+Hackettstown’s Third Round Compliance
+Hackettstown adopted a HEFSP in April 2006 to address its Third Round obligation under the Third
+Round Substantive Rules in N.J.A.C. 5:94. This plan addressed a 53-unit rehabilitation obligation, a
+Prior Round obligation of 66 units, and a growth share obligation of 113 units. The growth share
+period in this report was 2004 to 2014. The Plan was submitted to COAH, but never received
+substantive certification because COAH’s Third Round Rules (N.J.A.C. 5:94) were overturned.
+
+Hackettstown adopted another HEFSP in April 2010 to address its Third Round obligation under
+COAH’s 2008 Rules (N.J.A.C. 5:97). The 2010 HEFSP addressed a rehabilitation obligation of 76 units,
+a 62-unit Prior Round obligation, and a growth share obligation of 132 units. Hackettstown
+petitioned COAH for Third Round substantive certification again on June 3, 2010. COAH deemed the
+petition complete on August 31, 2010, but never completed the substantive review due to litigation
+of N.J.A.C. 5:97.
+
+Pursuant to the Mount Laurel IV Supreme Court decision, the Town of Hackettstown filed for
+declaratory judgement on July 7, 2015, seeking a judicial declaration that its Housing Element and
+Fair Share Plan satisfied the Town’s constitutional obligation to address its fair share of the regional
+need for low- and moderate-income housing.
+
+On January 12, 2017, Hackettstown entered into a Settlement Agreement with the Fair Share
+Housing Center to memorialize the terms of settlement of the Town’s affordable housing
+obligations. On March 9, 2017, a Fairness Hearing was held, and the Honorable Judge Miller
+approved the Settlement Agreement.
+
+The Hackettstown Planning Board adopted a Housing Element & Fair Share Plan on July 25, 2017 to
+effectuate the terms of the Settlement Agreement.
+
+Subsequent to the adoption of the 2017 Housing Element & Fair Share Plan, the Town entered into
+negotiations with the developer of the Paftinos III (Bilby Road) development relative to the
+affordable housing set-aside associated with the previously approved inclusionary development.
+The negotiations resulted in the agreement of the Town to evaluate a 20-percent set-aside and to
+investigate whether the property qualifies as an area in need of redevelopment. The property was
+designated as a non-condemnation area in need of redevelopment by the Hackettstown Town
+Council on December 27, 2018. The Bilby Road Redevelopment Plan governing the redevelopment
+of the property was adopted by the Town Council on February 28, 2019. The property received
+amended final site plan approval on July 23, 2019 for the development of an inclusionary multi-
+family family rental apartment complex with 275 dwelling units and an affordable housing set-aside
+of 55 units (20 percent).
+
+The Hackettstown Land Use Board adopted an Amended Housing Element & Fair Share Plan on
+December 17, 2019 to account for the amended site plan approval reducing the affordable housing
+units to be developed by Paftinos III (Bilby Road) from 80 units to 55 units. Excess credits that were
+being reserved for future obligations were utilized to fulfill the reduction from Paftinos III.
+
+The Final Compliance Hearing was held on June 30, 2020. On July 23, 2020, Judge Miller issued a
+Conditional Judgment of Compliance and Repose (“JOR”), and Hackettstown was granted immunity
+
+
+
+                                                                                                   Page 4
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 12 of 69 Trans ID: LCV20251858913
+
+
+
+
+and protection from any Mount Laurel builder’s remedy actions through July 1, 2025, subject to a
+number of conditions. The Town issued a letter to the Special Court Master on June 2, 2021
+demonstrating compliance with the conditions and requesting a Letter of Final Concurrence from
+the Special Court Master indicating that the Town had complied with the Conditional JOR. The
+Honorable Kevin M. Shanahan, A.J.S.C. issued a Final JOR on August 22, 2022 granting immunity
+through July 1, 2025.
+
+Fourth Round (2025-2035)
+On March 20, 2024, Governor Murphy signed legislation that dramatically modified the State’s
+affordable housing regulations. The 75-page bill, known as the A4/S50 Bill, abolished COAH,
+modified the process of affordable housing compliance, amended bonus credits, and, among other
+changes, set forth several important deadlines. P.L. 2024, c.2 amended the FHA (hereinafter the
+“Amended FHA”) and charged the Department of Community Affairs (“DCA”) with the preparation of
+Fourth Round obligations and set forth aggressive timelines for compliance. In October 2024, DCA
+published a report on its calculations of regional need and municipal present need (Rehabilitation
+Obligation) and prospective fair share obligations (Fourth Round Obligation). The report is entitled
+“Affordable Housing Obligation of 2025-2035 (Fourth Round) Methodology and Background”.
+
+The DCA calculated Hackettstown’s Present Need (Rehabilitation) Obligation as 87 units and its Fourth
+Round Prospective Need Obligation as 105 units.
+
+Municipalities were required to adopt a binding resolution outlining their present and prospective fair
+share obligations by January 31, 2025. On January 30, 2025, the Town Council adopted Resolution
+2025-22 accepting the DCA’s calculations of the Town’s Present Need Obligation of 87 units and
+challenging the Fourth Round Prospective Need Obligation of 105 units. The Town identified
+discrepancies with the data for the land capacity factor which led to a reduction to the overall average
+allocation factor. Therefore, the Town requested that the obligation be reduced to 100 units.
+
+The Town also filed a “Complaint for a Declaratory of Compliance with the Fair Housing Act” on
+January 31, 2025. as part of the compliance certification process outlined in the Director of the
+Administrative Office of the Courts Directive #14-24.
+
+During the 30-day challenge window, Hackettstown received a challenge to from the New Jersey
+Builder’s Association (“NJBA”). NJBA’s objection contended that Hackettstown had improperly
+calculated its affordable housing obligations and should be required to utilize the calculation
+prepared by the DCA in its October 18, 2024 report, setting the Prospective Need obligation at 105.
+The Town and NJBA entered into mediation through the Affordable Housing Dispute Resolution
+Program (“the Program”) and ultimately agreed that Hackettstown’s prospective need obligation
+shall be 102 units. The Honorable William G. Mennen, J.S.C. issued an order on March 26, 2025,
+ordering that Hackettstown’s Present Need shall be 87 units and the prospective need for the
+Fourth Round housing cycle shall be 102 units (Docket No. WRN-L-63-25).
+
+Municipal Summary
+The Town of Hackettstown contains approximately 3.7 square miles (or 2,374 acres) situated in the
+easternmost part of Warren County, New Jersey. Hackettstown is bordered by Washington Township
+and Mount Olive Township in Morris County and Allamuchy, Independence and Mansfield
+Townships in Warren County. Hackettstown is traversed by US Route 46, State Route 182, County
+
+
+
+
+                                                                                                    Page 5
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 13 of 69 Trans ID: LCV20251858913
+
+
+
+
+Route 517, and State Route 57. Additionally, Hackettstown is served by a transit stop on the NJ
+Transit Montclair-Boonton and Morristown rail lines.
+
+Hackettstown is a suburban community with predominately single-family detached housing units.
+Hackettstown has an estimated population of 10,429 residents and estimated 7,022 jobs.
+Hackettstown is served by public water and sewer.
+
+Hackettstown is situated entirely within the Highlands Region, with 203 acres being located within
+the Highlands Preservation Area and 2,171 acres within the Highlands Planning Area. Hackettstown
+received Plan Conformance from the Highlands Council on August 3, 2011 for lands in both the
+Preservation Area and Planning Area. According to the Highlands Land Use Capability Zone (“LUCZ”)
+Map, Hackettstown includes 426 acres of land in the Protection Zone, 1,336 acres in the Existing
+Community Zone, 152 acres of land in the Existing Community Zone – Environmentally Constrained
+Sub-Zone, and 214 acres of land in the Wildlife Management Sub-Zone.
+
+The approved Petition for Plan Conformance for Hackettstown Town was accompanied by approval
+of a Highlands Center Designation for the Hackettstown Highlands Center. Hackettstown’s
+Highlands Center encompasses the central business district, the Hackettstown Historic District, the
+Centenary University Campus, the Stiger Street Redevelopment Area, the Hackettstown Regional
+Medical Center and adjacent affordable housing projects, M&M/Mars, and commercial/residential
+development near the border with Mansfield Township. The total area of the Highlands Center
+includes approximately 743 acres, all of which is in the Planning Area and is served by both water
+and sewer service.
+
+Hackettstown Affordable Housing Goals
+The overriding policy of the HEFSP is to ensure the provision of a variety of housing opportunities
+sufficient to address the needs of the community and the region, including the need for affordable
+housing, while at the same time respecting the density limits and resource constraints of lands
+within the Highlands Preservation Area, and the numerous other policies, goals and objectives set
+forth by the Town’s Master Plan. The Housing Plan furthers the Municipal Land Use Law purposes of
+zoning and fulfills the New Jersey Fair Housing Act, which in keeping with New Jersey Supreme Court
+doctrine, as expressed in the “Mount Laurel” decisions, recognizes that every municipality in a
+“growth area” has a constitutional obligation to provide, through its land use regulations, a realistic
+opportunity for its fair share of affordable housing.
+
+In furtherance of Hackettstown’s efforts to ensure sound planning, this HEFSP incorporates the
+following goals and objectives with respect to future housing:
+
+1. To the extent feasible, the Town’s zoning will guide anticipated new residential development into
+   compact, center-based projects.
+
+2. To provide a realistic opportunity for the provision of the municipal share of the region’s present
+   and prospective needs for housing for low- and moderate-income families.
+
+3. To the maximum extent feasible, to incorporate affordable housing units into any new residential
+   construction that occurs within Hackettstown, including any mixed-use, redevelopment, and/or
+   adaptive reuse projects.
+
+
+
+
+                                                                                                  Page 6
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 14 of 69 Trans ID: LCV20251858913
+
+
+
+
+4. To preserve and monitor the existing stock of affordable housing.
+
+5. To reduce long term housing costs through:
+
+        a. The implementation of green building and energy efficient technology in the
+             rehabilitation, redevelopment and development of housing. Recent innovations in
+             building practices and development regulations reflect significant energy efficiency
+             measures, and therefore cost reductions, through building materials, energy efficient
+             appliances, water conservation measures, innovative and alternative technologies that
+             support conservation practices, and common sense practices, such as recycling and re-
+             use.
+
+        b. The promotion of the use of sustainable site design, efficient water management, energy
+             efficient technologies, green building materials and equipment, and retrofitting for
+             efficiencies.
+
+        c.   Maximizing the efficient use of existing infrastructure, through such means as
+             redevelopment, infill and adaptive reuse.
+
+6. To use a smart growth approach to achieve housing needs:
+
+        a. Use land more efficiently to engender economically vibrant communities, complete with
+             jobs, houses, shopping, recreation, entertainment and multiple modes of transportation.
+
+        b.   Support a diverse mix of housing that offers a wide range of choice in terms of value, type
+             and location. In addition, seek quality housing design that provides adequate light, air and
+             open space.
+
+        c.    Target housing to areas with existing higher densities and without environmental
+             constraints, within walking distance of schools, employment, services, transit and
+             community facilities with sufficient capacity to support them.
+
+Affordable Housing Obligation
+For the Fourth Round, Hackettstown accepted the DCA’s calculations for the Present Need of 87
+units and will address a Fourth Round Prospective Need obligation of 102 units.
+
+Therefore, Hackettstown’s four-part obligation is as follows:
+
+   1.   Present Need (Rehabilitation Obligation): 87 units
+   2.   Prior Round Obligation: 62 units
+   3.   Third Round Obligation: 163 units
+   4.   Fourth Round Obligation: 102 units
+
+
+
+
+                                                                                                  Page 7
+      WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 15 of 69 Trans ID: LCV20251858913
+
+
+
+
+                      HOUSING ELEMENT
+II.        Required Content of Housing Element
+The Amended Fair Housing Act requires that “the housing element be designed to achieve the goal
+of access to affordable housing to meet present and prospective housing needs, with particular
+attention to low and moderate income housing”. As per the Municipal Land Use Law (hereinafter
+“MLUL”), specifically N.J.S.A. 52:27D-310, a housing element must contain at least the following
+items:
+
+      a. An inventory of the municipality's housing stock by age, condition, purchase or rental value,
+         occupancy characteristics and type, including the number of units affordable to low and
+         moderate income households and substandard housing capable of being rehabilitated, and
+         in conducting this inventory the municipality shall have access, on a confidential basis for the
+         sole purpose conducting this inventory, to all necessary property tax assessment records
+         and information in the assessor’s office, including but not limited to the property record
+         cards;
+
+      b. A projection of the municipality's housing stock, including the probable future construction
+         of low and moderate income housing for the next ten years, taking into account, but not
+         necessarily limited to, construction permits issued, approvals of applications for
+         development and probable residential development of lands;
+
+      c.   An analysis of the municipality's demographic characteristics, including but not necessarily
+           limited to, household size, income level and age;
+
+      d. An analysis of the existing and probable future employment characteristics of the
+         municipality;
+
+      e. A determination of the municipality’s present and prospective fair share for low and
+         moderate income housing and its capacity to accommodate its present and prospective
+         housing needs, including its fair share for low and moderate income housing, as stablished
+         pursuant to section 3 of P.L.2024, c.2 (C.52-27D-304.1);
+
+      f.   A consideration of the lands that are most appropriate for construction of low and moderate
+           income housing and of the existing structures most appropriate for conversion to, or
+           rehabilitation for, low and moderate income housing, including a consideration of lands of
+           developers who have expressed a commitment to provide low and moderate income
+           housing;
+
+      g. An analysis of the extent to which municipal ordinances and other local factors advance or
+         detract from the goal f preserving multigenerational family continuity as expressed in the
+         recommendations of the Multigenerational Family Housing Continuity Commission, adopted
+         pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 (C.52D-329.20);
+
+      h. For a municipality located within the jurisdiction of the Highlands Water Protection and
+         Planning Council, established pursuant to section 4 of P.L.2004, C.120 (C.13-20-4), an analysis
+         of compliance of the housing element with the Highlands Regional Master Plan of lands in
+         the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands-
+
+
+
+                                                                                                   Page 8
+WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 16 of 69 Trans ID: LCV20251858913
+
+
+
+
+     conforming municipalities. This analysis shall include consideration of the municipality’s
+     most recent Highlands Municipal Build Out Report, consideration of opportunities for
+     redevelopment of existing developed lands into inclusionary or 100 percent affordable
+     housing, or both, and opportunities for 100 percent affordable housing in both the
+     Highlands Planning Area and Highlands Preservation Area that are consistent with the
+     Highlands regional master plan; and
+
+i.   An analysis of consistency with the State Development and Redevelopment Plan, including
+     water, wastewater, stormwater, and multi-modal transportation based on guidance and
+     technical assistance from the State Planning Commission.
+
+
+
+
+                                                                                              Page 9
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 17 of 69 Trans ID: LCV20251858913
+
+
+
+
+III. Population Demographics
+Population Growth
+The Town of Hackettstown’s population saw rapid growth through the 1970s. During the 1950s,
+Hackettstown gained 1,382 new residents, followed by 4,196 new residents during the 1960s.
+However, since 1970, the Town’s population has decreased by over 500 each decade until 2000. As
+of the 2023 Census, the population of Hackettstown was 10,249, which is 154 residents less than its
+peak of 10,403 in 2000. See the table below for additional details.
+
+                                               Population Growth
+
+                 Year                Population                      Change                 Percent
+
+                 1940                    3,289                           --                     --
+                 1950                    3,894                         605                    18.4%
+                 1960                    5,276                        1,382                   35.5%
+                 1970                    9,472                        4,196                   79.5%
+                 1980                    8,850                         -622                   -6.6%
+                 1990                    8,120                         -730                   -8.2%
+                 2000                   10,403                        2,283                   28.1%
+                 2010                    9,724                         -679                   -6.5%
+                 2020                   10,249                         525                    5.4%
+              Source: 2010 & 2020 Census Table P1; New Jersey Population Trends, 1790 to 2000,
+              https://www.nj.gov/labor/labormarketinformation/assets/PDFs/census/2kpub/njsdcp3.pdf
+
+
+
+
+The North Jersey Transportation Planning Authority (“NJTPA”) projects that the Town’s population will
+grow to 10,455 residents by 2050 from their baseline 2015 population of 9,705. This represents an
+increase of 750 residents, or an average increase of approximately 21 residents annually over 35
+years. However, as noted above, the Town’s estimated population according to the 2023 American
+Community Survey (“ACS”) is 10,249, which is just 312 less than the 2050 population of 10,455
+projected by the NJTPA.
+
+                                             Population Projection
+
+                  Year                Population                    Change                Percent
+
+                  2015                    9,705                         ---                   ---
+                  2020                   10,249                        544                  5.6%
+                  2050                   10,455                        206                  2.0%
+                Source: NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts,
+                https://www.njtpa.org/plan2050; 2020 Census Table P1
+
+
+
+
+                                                                                                      Page 10
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 18 of 69 Trans ID: LCV20251858913
+
+
+
+
+Age Distribution of Population
+The 2023 ACS estimates just 16.3 percent of Hackettstown’s population was 65 years or older, while
+27.3 percent of the population was 19 years or younger. The largest age cohort was estimated to be
+those aged 15 to 19 years, which comprised 12 percent (1,217) of the Town’s population. Residents
+aged 40 to 44 years comprised the second-largest age cohort at 8.2 percent (836) of the population,
+followed by those aged 20 to 24 years at 7.2 percent (733) of the population. The median age was
+estimated at 38 years in the 2023 ACS.
+
+            Population by Age Cohort
+                                                              Population by Age Cohort
+             Age                Total    Percent
+                                                   85 years and over            238
+ 85 years and over               238      2.3%
+                                                      80 to 84 years            177
+ 80 to 84 years                  177      1.7%
+                                                      75 to 70 years            280
+ 75 to 70 years                  280      2.8%
+                                                      70 to 74 years            444
+ 70 to 74 years                  444      4.4%
+ 65 to 69 years                  511      5.0%        65 to 69 years            511
+
+ 60 to 64 years                  631      6.2%        60 to 64 years            631
+
+ 55 to 59 years                  543      5.4%        55 to 59 years            543
+
+ 50 to 54 years                  708      7.0%        50 to 54 years            708
+
+ 45 to 49 years                  476      4.7%        45 to 49 years            476
+
+ 40 to 44 years                  836      8.2%        40 to 44 years            836
+ 35 to 39 years                  716      7.1%        35 to 39 years            716
+ 30 to 34 years                  366      3.6%        30 to 34 years            366
+ 25 to 29 years                  716      7.1%
+                                                      25 to 29 years            716
+ 20 to 24 years                  733      7.2%
+                                                      20 to 24 years            733
+ 15 to 19 years                 1,217    12.0%
+                                                      15 to 19 years           1,217
+ 10 to 14 years                  585      5.8%
+                                                      10 to 14 years            585
+ 5 to 9 years                    514      5.1%
+                                                        5 to 9 years            514
+ Under 5 years                   452      4.5%
+                                                      Under 5 years             452
+ Total                          10,143    100%
+ Source: 2023 ACS Table S0101
+
+
+
+
+Household Size & Type
+According to the 2023 ACS, Hackettstown had 3,790 households of various types. A majority were
+married-couple households, which comprised just over 48 percent of all households. Of those, 814
+had children under 18 years old. Male householders with no spouse present comprised only 16
+percent of all households, while female householders with no spouse present comprised 27.9
+percent. Of all households with no spouse present, 275 had children under the age of 18 (7.3
+percent), while 1,046 were living alone (27.6 percent).
+
+
+
+
+                                                                                            Page 11
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 19 of 69 Trans ID: LCV20251858913
+
+
+
+
+                                                      Household Type
+
+                                          Type                    Number          Percent
+
+                        Married-couple                                1,834        48.4%
+                          with children under 18                      814          21.5%
+                        Cohabitating couple                           294           7.8%
+                          with children under 18                      135           3.6%
+                        Male householder, no spouse                   606          16.0%
+                          with children under 18                       44           1.2%
+                          living alone                                435          11.5%
+                        Female householder, no spouse                 1,056        27.9%
+                          with children under 18                      231           6.1%
+                          living alone                                611          16.1%
+
+                        Total                                         3,790        100%
+                        Source: 2023 ACS Table DP02
+
+
+
+
+The most common household size in Hackettstown was estimated to be two-person households,
+which comprised 32.9 percent of households in 2023. One-person households comprised the
+second-largest number of households at just over 27 percent. Finally, four-person households
+comprised 16.3 percent of the 3,790 households in Hackettstown. It should be noted that 51
+households contained seven or more people. The table and pie chart below graphically illustrate
+the household size composition in Hackettstown. Additionally, the 2023 ACS estimated the average
+household size at 2.48 persons, which is the same as that reported in the 2010 Census (2.48
+persons).
+
+
+
+                                                                              Household Size     0.6%
+                 Household Size
+                                                             6.9%                              7+ person
+         Size             Total          Percent           5-person
+
+ 1-person                 1046            27.6%
+ 2-person                 1,246           32.9%                         16.3%                   27.6%
+ 3-person                  546            14.4%                        4-person                1-person
+ 4-person                  617            16.3%
+ 5-person                  262             6.9%
+ 6-person                   22             0.6%                         14.4%
+                                                                       3-person
+ 7+ person                  51             1.3%
+
+ Total                    3,790           100%                                          32.9%
+                                                                                       2-person
+ Source: 2023 ACS Table B11016
+
+
+
+
+                                                                                                           Page 12
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 20 of 69 Trans ID: LCV20251858913
+
+
+
+
+Income & Poverty Status
+The 2023 ACS estimated the median household income for the Town of Hackettstown to be $91,250,
+which is over $8,000 less than Warren County’s and over $5,000 less than the State’s. Similarly, the
+median family income for Hackettstown was estimated at $115,905, which is over $3,000 below the
+County’s and over $3,000 less than the State’s. Finally, the Town’s per capita income was estimated
+at $40,297, which is less than the County’s and less than the State’s. Based on this data, residents of
+Hackettstown represent the lower end of incomes between the high incomes of Warren County and
+the median State incomes. This is reflected in the poverty rates of individuals and families
+estimated in the 2023 ACS. Hackettstown’s poverty rate for individuals was estimated at 7.8 percent,
+which is less State’s by 1.9 percent and more than the County’s by 4 percent. The Town’s poverty
+rate for families was estimated at 5.7 percent, which is 3.4 percent more than the County’s and less
+than the State’s by 1.2 percent. The table and bar chart below provide a comparison between
+income and poverty characteristics.
+
+                                  Income and Poverty Characteristics
+
+                    Income Type                   Hackettstown      Warren County       New Jersey
+
+ Median Household Income                            $91,250            $99,596            $97,126
+
+ Median Family Income                               $115,905          $118,994           $119,240
+
+ Per Capita Income                                  $40,297            $48,232            $50,995
+
+ Poverty Status (Percent of People)                   7.8%                3.8%              9.7%
+
+ Poverty Status (Percent of Families)                 5.7%                2.3%              6.9%
+
+ Source: 2023 ACS Table DP03
+
+
+
+
+                                           Income Characteristics
+       $200,000
+       $180,000
+       $160,000
+       $140,000
+       $120,000
+       $100,000
+        $80,000
+        $60,000
+        $40,000
+        $20,000
+               $0
+                      Median Household Income      Median Family Income          Per Capita Income
+
+                                   Hackettstown     Warren County     New Jersey
+
+
+
+
+                                                                                                     Page 13
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 21 of 69 Trans ID: LCV20251858913
+
+
+
+
+According to the 2023 ACS, only 11 percent of households in Hackettstown (426) earn over $200,000
+annually. Household earning $100,000 or more annually were estimated to include 1,794
+households or 47.3 percent of all households in Hackettstown. Over 49 percent of household in
+Warren County earned at least $100,000 annually, including 13.7 percent earning more than
+$200,000. Households in New Jersey earning $100,000 or more according to the 2023 ACS included
+48.8 percent of households. It should be noted that nearly 23 percent of households in
+Hackettstown earned less than $50,000.
+
+                                           Household Income
+                                    Hackettstown       Warren County         New Jersey
+             Income Range
+                                   Total    Percent   Total    Percent     Total     Percent
+     Less than $10,000             122       3.2%     1,650     3.7%     139,920      4.1%
+     $10,000 to $14,999             52       1.4%      954      2.1%     102,608      3.0%
+     $15,000 to $24,999            206       5.4%     2,402     5.3%     185,476      5.4%
+     $25,000 to $34,999            204       5.4%     2,270     5.1%     196,998      5.7%
+     $35,000 to $49,999            305       8.0%     3,230     7.2%     281,264      8.2%
+     $50,000 to $74,999            740       19.5%    6,714    14.9%     455,543     13.2%
+     $75,000 to $99,999            367       9.7%     5,349    11.9%     397,730     11.6%
+     $100,000 to $149,999          778       20.5%    10,482   23.3%     620,335     18.0%
+     $150,000 to $199,999          590       15.6%    5,733    12.8%     396,837     11.5%
+     $200,000 or more              426       11.2%    6,159    13.7%     661,451     19.2%
+
+     Total                         3,790     100%     44,943    100%     3,438,162    100%
+     Source: 2023 ACS Table DP03
+
+
+
+
+                                                                                             Page 14
+     WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 22 of 69 Trans ID: LCV20251858913
+
+
+
+
+I.      Housing Demographics
+Housing Type
+The 2023 ACS estimated the Town’s housing stock at 3,823 units, which contains a variety of
+residential dwellings. Single-family, detached dwellings comprised a majority of the housing stock
+with 2,159 units or 56.5 percent of all dwellings. One-unit, attached dwellings (e.g. townhomes)
+comprised 319 units (8.3 percent), while two-family dwellings comprised 149 units (3.9 percent) of
+the housing stock. The Town contains 973 multi-family units (25.5 percent), which are buildings
+containing five or more dwelling units. It should be noted that the 2023 ACS estimated 53 dwellings
+to be mobile homes. See the table below for details. Of the estimated 3,823 existing housing units
+in 2023, 269 or 7 percent of the housing stock are deed restricted for low- and moderate-income
+households.
+
+                                         Housing Units in Structure
+
+                                 Structure             Number of Units    Percent
+
+                     1-unit, detached                       2,159          56.5%
+                     1-unit, attached                        319            8.3%
+                     2 units                                 149            3.9%
+                     3 or 4 units                            170            4.4%
+                     5 to 9 units                            275            7.2%
+                     10 to 19 units                          227            5.9%
+                     20 or more units                        471           12.3%
+                     Mobile Home                              53            1.4%
+                     Other (boat, RV, van, etc.)              0             0.0%
+
+                     Total                                  3,823          100%
+                     Source: 2023 ACS Table DP04
+
+
+
+
+Occupancy Status
+Of the 3,823 residential units, 3,790 units, or 99.1 percent of the housing stock, was occupied. This
+includes 2,246 owner-occupied units and 1,544 rental units. The 33 vacant units only included
+properties classified as “other”.
+
+The 2023 ACS estimated the average household size in Hackettstown was 2.48 persons, while the
+average family size was 2.99 persons. Comparing tenure, the average owner-occupied household
+was 2.59, while the average renter-occupied household was 2.32 persons.
+
+
+
+
+                                                                                               Page 15
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 23 of 69 Trans ID: LCV20251858913
+
+
+
+
+                                                          Occupancy Status
+
+                                                 Status                    Units         Percent
+
+                          Occupied Total                                   3,790         99.1%
+                               Owner Occupied                              2,246         59.3%
+                               Renter Occupied                             1,544         40.7%
+                          Vacant Total                                      33               0.9%
+                               For rent                                      0               0.0%
+                               Rented, not occupied                          0               0.0%
+                               For Sale                                      0               0.0%
+                               Sold, not occupied                            0               0.0%
+                               Seasonal                                      0               0.0%
+                               For migrant workers                           0               0.0%
+                               Other                                        33           100.0%
+
+                          Total                                            3,823         100%
+                          Source: 2023 ACS Tables DP04 & B25004
+
+
+
+
+Value & Rent of Housing Stock
+The 2023 ACS provided estimates for owner-occupied housing units in Hackettstown. According to
+the data, a plurality of homes in the Town were valued between $300,000 and $499,999 (56 percent).
+Homes worth between $200,000 and $299,999 comprised 28.1 percent of the owner-occupied
+housing units, while 7.3 percent of homes were estimated to be worth between $100,000 and
+$199,999. Only 5.8 percent of homes (131 units) were valued between $500,000 and $999,999, while
+only 17 homes were estimated to be valued at greater than $1 million. The median home value
+estimated in the 2023 ACS was $337,100.
+
+         Value of Owner Occupied Units                                       Value of Owner Occupied Units
+                                  Number of                                        1%
+           Value                                     Percent                                 2%
+                                    Units                                                                 Less than $99,999 -
+ Less than $99,999                        45              2.0%                                            2.0%
+                                                                                 6%     7%
+                                                                                                          $100,000 to $199,999 -
+ $100,000 to $199,999                  165                7.3%
+                                                                                                          7.3%
+ $200,000 to $299,999                  631            28.1%                                               $200,000 to $299,999 -
+ $300,000 to $499,999                  1,257          56.0%                                               28.1%
+                                                                                                    28%
+ $500,000 to $999,999                  131                5.8%                                            $300,000 to $499,999 -
+                                                                                                          56.0%
+ $1,000,000 or more                       17              0.8%
+                                                                     56%                                  $500,000 to $999,999 -
+ Total                                 2,246          100%                                                5.8%
+                                                                                                          $1,000,000 or more -
+ Median Value                                  $337,100                                                   0.8%
+
+ Source: 2023 ACS Table DP04
+
+
+
+
+                                                                                                                    Page 16
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 24 of 69 Trans ID: LCV20251858913
+
+
+
+
+The median rent in the Town was estimated at $1,419 per the 2023 ACS. Looking at the rent ranges,
+a little less than half of the Town’s rental units fell between $1,500 and $1,999 per month (42.6
+percent). Units that cost between $1,500 and $1,999 comprised 24.6 percent of rentals (380 units),
+while only 9.8 percent (152 units) cost between $2,000 and $2,499 per month. See the table below
+and chart on the following page for more information.
+
+                    Cost of Rentals                                           Cost of Rentals
+
+         Cost             Number of Units         Percent
+                                                                  1.7%     2.3%
+                                                                                                Less than $1,000
+ Less than $1,000                  254            16.5%           2.5%
+
+ $1,000 to $1,499                  657            42.6%                                         $1,000 to $1,499
+                                                                              16.5%
+ $1,500 to $1,999                  380            24.6%          9.8%                           $1,500 to $1,999
+ $2,000 to $2,499                  152             9.8%
+                                                                                                $2,000 to $2,499
+ $2,500 to $2,999                  38              2.5%
+ $3,000 or more                    27              1.7%       24.6%                             $2,500 to $2,999
+
+ No rent paid                      36              2.3%                           42.6%         $3,000 or more
+
+ Total                           1,544             100%                                         No rent paid
+
+ Median (in dollars)                     $1,419
+ Source: 2023 ACS Table DP04
+
+
+
+
+Condition of Housing Stock
+The Census does not classify housing units as standard or substandard, but it can provide an
+estimate of the substandard housing units that are occupied by low and moderate income
+households. The Appellate Division upheld COAH’s use of three indicators to determine
+substandard housing in the State. Those three indicators are:
+
+     ▪    Houses built before 1970, and which are overcrowded with more than one person per
+          room;
+     ▪    Homes lacking complete plumbing;
+     ▪    Homes lacking kitchen facilities.
+
+Most of the Census indicators available at the municipal level indicate a sound housing stock. Only
+22 occupied homes were estimated to not contain adequate heat and 41 lack telephone service,
+while all homes within the Town had complete plumbing and kitchen services.
+
+                                         Condition of Housing Stock
+                                Condition                   Number of Units       Percent
+                Lack of complete plumbing                             0            0.00%
+                Lack of complete kitchen                              0            0.00%
+                Lack of telephone service                             41           1.1%
+                Lack of adequate heat                                 22           0.6%
+                Total Occupied Housing Units                     3,790             1.66%
+                Source: 2023 ACS Table DP04
+
+
+
+
+                                                                                                           Page 17
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 25 of 69 Trans ID: LCV20251858913
+
+
+
+
+Housing with 1.01 or more persons per room is an index of overcrowding as defined by the U.S.
+Department of Housing and Urban Development. According to the 2023 ACS, 4.7 percent of the
+Town’s 3,790 occupied housing units contained 1.01 or more persons per room.
+
+                                            Occupants Per Room
+
+                               Occupants               Number of Units            Percent
+
+                         1.00 or less                       3,611                  95.3%
+                         1.01 to 1.50                       129                     3.4%
+                         1.51 or more                        50                     1.3%
+
+                         Total                              3,790                  100%
+                         Source: 2023 ACS Table DP04
+
+
+Research has demonstrated that units built 50 or more years ago (i.e. 1975 or earlier) are much
+more likely to be in substandard condition. Included in the rehabilitation calculation are
+overcrowded units and dilapidated housing as discussed above.
+
+The table and bar graph on the following page provide the 2023 ACS estimates for the age of
+housing units in Hackettstown. An estimated 2,144 units, or 56.1 percent, of the Town’s housing
+stock were constructed prior to 1970 with over 19 percent being constructed prior to 1940. Since
+1980, an estimated 1,202 homes have been constructed.
+
+It should be noted that the “2020 or later” line item may be inaccurate. The New Jersey Department
+of Community Affairs’ (“DCA”), Division of Codes and Standards website provides data on building
+permits, certificates of occupancy, and demolition permits for both residential and non-residential
+development. We have reviewed the data from the State for 2020 through 2024 and 5 certificates of
+occupancy have been issued for new residential units since the beginning of 2020. (See page 25.)
+
+             Age of Housing Stock                                        Age of Housing Stock
+   Year Built        Number of Units         Percent
+ 2020 or later                  17             0.4%          2020 or later        17
+
+ 2010 to 2019                  202             5.3%          2010 to 2019          202
+
+ 2000 to 2009                  444             11.6%         2000 to 2009                     444
+
+ 1990 to 1999                  269             7.0%          1990 to 1999               269
+
+ 1980 to 1989                  270             7.1%          1980 to 1989               270
+
+ 1970 to 1979                  477             12.5%         1970 to 1979                       477
+
+ 1960 to 1969                  862             22.5%         1960 to 1969                                     862
+
+ 1950 to 1959                  417             10.9%         1950 to 1959                     417
+ 1940 to 1949                  119             3.1%          1940 to 1949         119
+ 1939 or earlier               746             19.5%
+                                                            1939 or earlier                             746
+ Total                         3,823           100%
+                                                                              0         200     400   600     800   1,000
+ Source: 2023 ACS Table DP04
+
+
+
+
+                                                                                                                            Page 18
+      WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 26 of 69 Trans ID: LCV20251858913
+
+
+
+
+II.      Employment Demographics
+The 2023 ACS estimated that Hackettstown had 5,877 residents over the age of 16 in the workforce.
+Of those, 5,413 (92.1 percent) were employed, which translates to a 7.9 percent unemployment rate.
+A majority of workers were private wage and salary worker (73.8 percent). However, 13.2 percent
+were workers employed by the government and 5.1 percent were self-employed.
+
+                                                     Class of Workers
+
+                                             Class                      Workers       Percent
+
+                   Private wage and salary workers                       4,337            73.8%
+                   Government workers                                     775             13.2%
+                   Self-employed workers                                  301              5.1%
+                   Unpaid family workers                                  0                0.0%
+
+                   Total employed residents                              5,413            92.1%
+
+                   Total unemployed residents                             464              7.9%
+
+                   Total residents in workforce                          5,877             100%
+                   Source: 2023 ACS Table DP03
+
+
+
+
+Occupational Characteristics
+The 2023 ACS estimated 2,157 workers were employed management, business, science, and arts
+fields, which represents 39.8 percent of the Town’s employed residents. Sales and office workers
+totaled 21.5 percent of employed residents, while 20.5 percent were employed in service jobs.
+
+                                         Occupation of Employed Population
+
+                                           Occupation                             Workers         Percent
+
+         Management, business, science, & arts                                     2,157          39.8%
+         Service                                                                   1,112          20.5%
+         Sales & office                                                            1,165          21.5%
+         Natural resources, construction, & maintenance                             534            9.9%
+         Production, transportation, & material moving                              445            8.2%
+
+         Total                                                                     5,413           100%
+         Source: 2023 ACS Table DP03
+
+
+
+
+                                                                                                            Page 19
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 27 of 69 Trans ID: LCV20251858913
+
+
+
+
+Employment Projections
+NJTPA’s Plan 2050 estimates that the number of available jobs in Hackettstown will increase from
+906 reported in 2015 to 924 in 2050. This represents an increase of 18 jobs, or an average annual
+increase of 0.51 jobs annually. However, as detailed in the following section, the New Jersey
+Department of Labor and Workforce Development estimated a total of 538 jobs in Hackettstown in
+2023, which is 386 less than projected by NJTPA. Utilizing this number, roughly 14 new jobs would
+need to be created within the Town each year for the next 27 years.
+
+                                            Employment Projection
+
+                    Year               Jobs                 Change                 Percent
+
+                    2015              7,210                     ---                  ---
+                    2050              7,296                     86                  1.2%
+                Source: NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts,
+                https://www.njtpa.org/plan2050
+
+
+
+
+In-Place Employment by Industry
+New Jersey’s Department of Labor and Workforce Development (“NJDLWD”) is the entity that reports
+on employment and wages within the State of New Jersey through the Quarterly Census of
+Employment and Wages (“QCEW”). The latest Municipal Report was completed in 2023. The QCEW
+data reflects employment within Hackettstown, regardless of where the employee lives.
+
+The Municipal Report redacted data from two private-sector industries for not meeting minimum
+publication standards (agriculture and information industries). The 2023 QCEW reported that
+Hackettstown had an average of 8,324 private-sector jobs provided by 751 employers, including the
+redacted data.
+
+Based on the 2023 QCEW data provided, the health/social industry contained the largest number of
+jobs in the Town with an average of 1,770 jobs (20 percent). These jobs were provided by 145
+employers, which is the largest industry of employers in Hackettstown largely due to the
+Hackettstown Medical Center and related medical offices. The retail trade industry had 107
+employers and an average of 1,387 (15.7 percent), which was the second-largest industry and
+number of employees. In the public sector, the 2023 QCEW Municipal Report indicated that there
+were 4 federal government employers, which had an average of 71 employees, 2 state government
+employers with an average of only 3 employees, and 5 local government employers, which had an
+average of 443 jobs. This included 2 local government education employers providing an average of
+334 jobs. See the table on the following page for data on each industry sector.
+
+
+
+
+                                                                                             Page 20
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 28 of 69 Trans ID: LCV20251858913
+
+
+
+
+                           Private and Public Sector Employment (2023)
+                                                     Establishments              Employees                Annual
+                   Industry
+                                                     Total      Percent       Total     Percent           Wages
+ Agriculture                                            -           -            -           -                -
+ Construction                                          76        10.0%         330         3.7%           $76,961
+ Manufacturing                                         33         4.3%         667         7.5%           $72,169
+ Wholesale Trade                                       25         3.3%         147         1.7%           $61,759
+ Retail Trade                                         107        14.0%        1,387       15.7%           $36,279
+ Transportation/Warehousing                            17         2.2%         155         1.8%           $46,677
+ Information                                            -           -            -           -                -
+ Finance/Insurance                                     26         3.4%         139         1.6%           $69,870
+ Real Estate                                           17         2.2%          44         0.5%           $54,405
+ Professional/Technical                                64         8.4%         277         3.1%           $77,088
+ Admin/Waste Remediation                               42         5.5%         391         4.4%           $54,272
+ Health/Social                                        145        19.0%        1,770       20.0%           $62,499
+ Arts/Entertainment                                    13         1.7%         139         1.6%           $13,799
+ Accommodations/Food                                   62         8.1%         673         7.6%           $27,149
+ Other Services                                        67         8.8%         342         3.9%           $46,824
+ Unclassified                                          35         4.6%          44         0.5%           $30,233
+
+ Private Sector Total                                 751         99%         8,324        94%            $70,026
+
+ Federal Government                                     4         0.5%          71         0.8%           $59,505
+ State Government                                       2         0.3%          3          0.0%           $75,669
+ Local Government                                       5         0.7%         443         5.0%           $71,872
+   Local Government Education                           2         0.3%         334         3.8%           $75,767
+
+ Public Sector Total                                   11          1%          517          6%
+
+ Source: The table values above are sourced from the NJDLWD's QCEW 2023 Municipal Report. It is noted that this Report
+ has redacted multiple private sector industries for not meeting the minimum publication standard.
+
+
+
+
+Travel Time to Work
+The 2023 ACS collected data regarding employed resident’s commute time. The most common
+commute time was between 45 and 59 minutes, which was made by 699 workers (14.9 percent). A
+commute between 5 and 9 minutes followed close behind with 692 workers (14.7 percent).
+Rounding off the top three was a commute of 60 to 89 minutes, which was reported by 679 workers
+(14.4 percent). The mean travel time was estimated at 30.9 minutes. It should be noted that 209
+workers (4.4 percent) reported a commute of more than 90 minutes. Additionally, 509 workers, or
+9.7 percent of the Town’s employed residents, reported working from home. See the table and
+chart on the following page for additional details.
+
+
+
+
+                                                                                                                         Page 21
+WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 29 of 69 Trans ID: LCV20251858913
+
+
+
+
+                                         Commute Time
+
+                  Travel Time (minutes)             Workers     Percent
+
+         Less than 5                                    228      4.9%
+         5 to 9                                         692     14.7%
+         10 to 14                                       553     11.8%
+         15 to 19                                       557     11.9%
+         20 to 24                                       373      7.9%
+         25 to 29                                       203      4.3%
+         30 to 34                                       349      7.4%
+         35 to 39                                        76      1.6%
+         40 to 44                                        82      1.7%
+         45 to 59                                       699     14.9%
+         60 to 89                                       679     14.4%
+         90 or more                                     209      4.4%
+
+         Total                                          4,700   100.0%
+         Source: 2023 ACS Table B08303
+
+
+
+
+                                                                          Page 22
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 30 of 69 Trans ID: LCV20251858913
+
+
+
+
+IV. Projection of Housing Stock
+As per the MLUL, specifically N.J.S.A. 52:27D-310, a housing element must contain a projection of the
+municipality's housing stock, including the probable future construction of low- and moderate-
+income housing for the next ten years, taking into account, but not necessarily limited to,
+construction permits issued, approvals of applications for development and probable residential
+development of lands.
+
+The DCA Division of Codes and Standards website provides data on building permits, certificates of
+occupancy, and demolition permits for both residential and non-residential development through
+the New Jersey Construction Reporter. This database contains permit and certificate of occupancy
+information that is submitted by municipal construction officials across the State each month. The
+Construction Reporter has information dating back to 2000, which can be used to show the Town’s
+historic development trends. However, data from 2013 and onward was reviewed to determine
+more recent trends.
+
+As shown in the table below, the issuance of residential certificates of varies from year to year in the
+Town of Hackettstown. The years with large numbers of COs recorded coincide with the inclusionary
+housing developments that have been constructed. Sycamore Landing contains 247 units completed
+in 2017. The Autumn Ridge inclusionary family rental development contains a total of 198 units
+which were constructed in 2020 and 2021.
+
+    Historic Trend of Residential Certificates of Occupancy & Demolition Permits (2013-2024)
+
+                                      '13    '14     '15    '16    '17    '18     '19     '20     '21     '22     '23   '24   Total
+
+ COs Issued                            41     30      5      7     49      37     54     124      170         6   7     2      532
+ Demolitions                           0       0      0      0      1       0      0       1       0          0   0     NR      2
+
+ Net Development                       41     30      5      7     48      37     54     123      170         6   7     NR     530
+ Source: NJDCA, Construction Reporter - Housing Units Certified and Demolition Permits, Yearly Summary Data
+
+
+
+
+Projecting into the future, given the limited remaining vacant land within the Town, it is not expected
+that any significant residential developments will occur within the next ten years, aside from
+ongoing construction or proposed inclusionary projects.
+
+
+
+
+                                                                                                                              Page 23
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 31 of 69 Trans ID: LCV20251858913
+
+
+
+
+V. Capacity for Fair Share
+This chapter of the HEFSP provides the following information as required:
+
+   ▪   The Town’s capacity to accommodate its housing needs.
+   ▪   A consideration of the lands that are most appropriate for construction of low and moderate
+       income housing and of the existing structures most appropriate for conversion to, or
+       rehabilitation for, low and moderate income housing.
+   ▪   Lands of developers who have expressed a commitment to provide low and moderate
+       income housing.
+   ▪   The location and capacities of existing and proposed water and sewer lines and facilities
+       relevant to the proposed affordable housing sites.
+
+Land Capacity
+Hackettstown’s capacity to accommodate its present and prospective affordable housing need is
+determined by three components: available land, water availability/capacity, and sewer availability/
+capacity. Land development is limited by parcel size, easements (conservation, sewer, water, etc.),
+municipal regulations, and a variety of environmental features.
+
+Nearly half of Hackettstown’s total land area is encumbered by environmentally sensitive areas.
+Environmental constraints within the Town include the following:
+
+   ▪   Waterbodies – 81.9 acres (3.5% of Town)
+
+   ▪   Wetlands – 243.1 acres (10.2% of Town)
+
+   ▪   FEMA Special Flood Hazard Area Zones
+
+           o   AE – 234.1 acres (9.9% of Town)
+
+           o   A – 14.8 acres (0.6% of Town)
+
+   ▪   Steep Slopes Protection Area (greater than 15% slopes) – 262.3 acres (11% of Town)
+
+   ▪   Critical Wildlife Habitat – 645.4 acres (27.2% of the Town’s area)
+
+   ▪   Highlands Open Water Protection Area (“OWPA”) – 1,140.7 acres (48% of Town)
+
+   ▪   Highlands Riparian Area – 867.8 acres (36.5% of Town)
+
+Hackettstown previously conducted a vacant land analysis as part of the Third Round HEFSP to
+identify vacant and developable properties remaining in the Town that may be suitable for
+affordable housing development. The study found that most of Hackettstown is developed and
+properties that are vacant or public property not used for any purpose are undersized,
+environmentally constrained, have the potential for infill development or redevelopment or have
+vested development approvals. The study found three parcels that have a realistic development
+potential (“RDP”) to be developed with inclusionary housing based on a minimum presumptive
+density of 6 du/ac. and affordable housing set-aside of 20 percent. The total developable area of
+these properties is 22.81 acres. The properties were found have potential to be developed with a
+total of 136 units, resulting in an RDP of 26 units. However, despite the lack of available vacant
+
+
+
+                                                                                              Page 24
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 32 of 69 Trans ID: LCV20251858913
+
+
+
+
+lands, Hackettstown did not seek an adjustment of its Third Round obligation at that time since
+there were sufficient existing and proposed credits to satisfy the Third Round obligation. The Town
+reserved its rights to request a vacant land adjustment in the future if necessary.
+
+For the Fourth Round, the Town has prepared a highlands build-out study and determined the RDP
+to be 0 units for the Town, as described in Chapter XI. Hackettstown is located within the Highlands
+Region and is a fully conforming municipality. Therefore, development within the Town is also
+controlled and limited by the Highlands Regional Master Plan.
+
+Utility Capacity
+Wastewater Treatment Capacity
+Hackettstown’s Wastewater Management Plan (“WMP”) was approved by the New Jersey Highlands
+Council on February 12, 2016. The WMP establishes the Highlands Existing Community Zone and
+the Hackettstown Highlands Center as the wastewater service area for Hackettstown. Hackettstown
+is served by the Hackettstown Municipal Utilities Authority (“HMUA”) wastewater treatment plant,
+which also services portions of Independence Township, Mansfield Township, Mount Olive
+Township, and Washington Township (Morris). The WMP analyzes the existing flows and potential
+flows from anticipated future development of the lands within the HMUA service area and found
+that there is sufficient capacity at the plant to address anticipated wastewater flows from the
+combined build out.
+
+Water Capacity
+Public water supply in Hackettstown is provided by the HMUA. According to the Hackettstown Town
+Municipal Build-Out Report prepared by the Highlands Council in July 2009, the buildout for
+Hackettstown does not exceed the available water supply capacity.
+
+Appropriate Locations for Affordable Housing
+Given the limited availability of vacant and developable land within the Highlands Center and sewer
+service area, the Town does not believe there are any properties that are currently suitable or
+appropriate for the construction of low- and moderate-income.
+
+Existing structures appropriate for conversion to affordable housing may include ranch-style homes,
+which may be cost effective to buy and convert to an alternative living arrangement. As for
+structures suitable for rehabilitation, according to the Rehabilitation Obligation, 87 homes within the
+Town are in need of a major system repair (e.g. roof, electric, plumbing, etc.).
+
+Potential Affordable Housing Developers
+No developers have approached the Town with a concept plan or request to construct affordable
+housing within the Highlands Center.
+
+Anticipated Development Patterns
+Anticipated land use patterns within the Town of Hackettstown will most likely follow the established
+zoning map. The Town does not propose any changes to the existing zoning map at this time.
+
+
+
+
+                                                                                               Page 25
+WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 33 of 69 Trans ID: LCV20251858913
+
+
+
+
+                                                                        Page 26
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 34 of 69 Trans ID: LCV20251858913
+
+
+
+
+Multigenerational Family Continuity Evaluation
+P.L. 2024, c.2 amended various aspects of the Fair Housing Act. These amendments modified the
+mandatory components of a municipality’s housing element. NJSA 52:27D-310g. has been added,
+which states “An analysis of the extent to which municipal ordinances and other local factors
+advance or detract from the goal of preserving multigenerational family continuity as expressed in
+the recommendations of the Multigenerational Family Housing Continuity Commission, adopted
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c. 273 (C.52:27D-329.20)”
+
+P.L. 2021, c.273 took effect on November 8, 2021. The law established the Multigenerational Family
+Housing Continuity Commission, which consists of a body of nine members. The duties of the
+Commission include the preparation and adoption of recommendations on how State government,
+local government, community organizations, private entities, and community members may most
+effectively advance the goal of enabling senior citizens to reside at the homes of their extended
+families, thereby preserving and enhancing multigenerational family continuity, through the
+modification of State and local laws and policies in the areas of housing, land use planning, parking
+and streetscape planning, and other relevant areas. The Law requires the Commission to report
+annually to the Governor on its activities, findings, and recommendations, if any, for State and local
+government. The Department of Community Affairs (“DCA”) is required to provide staff services as
+may be needed for the Commission to carry out its responsibilities, including assembly of necessary
+information and statistics, and preparation of draft reports, analyses, and recommendations.
+
+The State of New Jersey’s website was reviewed on March 18, 2025. A search of the website revealed
+no webpage for the Multigenerational Family Housing Continuity Commission. As DCA is required to
+provide staff and research for the Commission, DCA’s website was reviewed on March 18, 2025.
+DCA’s website is silent regarding the Commission, its annual required reports, studies, and/or
+recommendations. Without recommendations from the Commission, Hackettstown is unable to
+conduct an analysis of its ordinances and other local factors. Despite the absence of
+recommendations, it should be noted that there is nothing in Hackettstown’s zoning ordinance that
+prohibits senior citizens from residing at the home of their extended families.
+
+Highlands Regional Master Plan Compliance
+The Amended FHA lists the essential components of a municipality’s housing element. NJSA 52-27D-
+310h. states the following:
+
+   For a municipality located within the jurisdiction of the Highlands Water Protection and Planning
+   Council, established pursuant to section 4 of P.L.2004, C.120 (C.13-20-4), an analysis of compliance of
+   the housing element with the Highlands Regional Master Plan of lands in the Highlands Preservation
+   Area, and lands in the Highlands Planning Area for Highlands-conforming municipalities. This analysis
+   shall include consideration of the municipality’s most recent Highlands Municipal Build Out Report,
+   consideration of opportunities for redevelopment of existing developed lands into inclusionary or 100
+   percent affordable housing, or both, and opportunities for 100 percent affordable housing in both the
+   Highlands Planning Area and Highlands Preservation Area that are consistent with the Highlands
+   regional master plan.
+
+Hackettstown has lands within both the Highlands Preservation Area (203.1 acres, 8.6% of Town)
+and Planning Area (2,171.7 acres, 91.4% of Town).
+
+
+
+
+                                                                                                  Page 27
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 35 of 69 Trans ID: LCV20251858913
+
+
+
+
+Highlands Build-Out
+As detailed in Chapter XI., on November 1, 2024, the Highlands Council issued a Highlands Municipal
+Build-Out Update, which outlined the process the Council utilized to determine parcels eligible for
+development. Conforming municipalities were provided access to an online GIS portal to evaluate
+identified properties as well as any properties that did not have a tax code classification.
+
+For Hackettstown, there are no remaining vacant and developable parcels suitable for affordable
+housing, resulting in a Realistic Development Potential of 0 affordable units.
+
+However, the Highlands build-out does not consider redevelopment opportunities. As noted in
+Chapter XI, there are three sites that have been designated for redevelopment: Bergen Tool, Lion
+Gate, and Bilby Road. No other sites have been identified as being suitable for redevelopment at this
+time.
+
+The Highlands build-out restricts all affordable housing obligations, not just the Fourth Round.
+Build-out is a limit on development in the entire community and does not consider past outstanding
+affordable housing obligations. Therefore, unbuilt Third Round and Fourth Round RDP obligations
+are adjusted to or capped at a Highlands affordable housing obligation of 174 units, with the
+remaining 91 units becoming the Unmet Need.
+
+Site-Specific Consistency Issues
+Many of the remaining vacant properties in Hackettstown are not suitable for development of
+affordable housing due to environmentally sensitive features, such as wetlands, stream corridors
+and riparian areas, floor hazard areas, steep slopes, and vernal pools, which are regulated and
+protected by the Town’s conformance with the Highlands Regional Master Plan.
+
+Redevelopment Opportunities
+As noted in Chapter XI, the Town believes the only redevelopment opportunities have already been
+identified and designated as redevelopment areas for inclusionary housing to capture any future
+redevelopment opportunities. Should any additional redevelopment opportunities arise, the Town
+will put a mandatory set-aside ordinance to capture any potential for affordable housing units.
+
+100% Affordable Opportunities
+The Town has a finite affordable housing trust fund and does not propose any 100% affordable
+housing developments within this HEFSP. It is the Town’s opinion that the Amended FHA cannot
+require a municipality to spend its own money on compliance and consequently cannot compel
+100% projects. Nonetheless, the Town has not identified any areas suitable for a 100% affordable
+project.
+
+State Development & Redevelopment Plan Consistency
+P.L. 2024, c.2 amended the Fair Housing Act to include a new requirement for housing elements.
+NJSA 52:27D-310i. reads “An analysis of consistency with the State Development and Redevelopment
+Plan, including water, wastewater, stormwater, and multi-modal transportation based on guidance
+and technical assistance from the State Planning Commission.”
+
+The Draft State Development and Redevelopment Plan was approved by the State Planning
+Commission (“SPC”) on December 4, 2024, and was released on December 6, 2024. The Office of
+
+
+
+                                                                                              Page 28
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 36 of 69 Trans ID: LCV20251858913
+
+
+
+
+Planning Advocacy (“OPA”) conducted public hearings in each of New Jersey’s 21 Counties between
+February 12, 2025 and April 16, 2025. Municipalities are tasked with completing Cross-Acceptance
+Response Template forms to determine a municipality’s consistency with the Draft State Plan. The
+OPA anticipates collecting all Cross-Acceptance Response Template forms in the Summer of 2025.
+During this time, the OPA is accepting comments on the Draft Plan. The OPA anticipates releasing a
+Final Draft Plan and holding six additional public hearings in the Summer/Fall of 2025. The expected
+adoption of the Final Plan by the SPC is anticipated to be in the Winter of 2025.
+
+As the document is draft, the Town cannot opine on consistency until the final version is adopted.
+Hackettstown has not received guidance from the State Planning Commission concerning water,
+wastewater, or multi-modal transportation.
+
+
+
+
+                                                                                              Page 29
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 37 of 69 Trans ID: LCV20251858913
+
+
+
+
+                FAIR SHARE PLAN
+VI. Required Content of Fair Share Plan
+The Fair Share Plan contains the following information:
+
+   ▪   Description of existing credits intended to satisfy the obligation;
+   ▪   Description of mechanisms that will be used to meet any outstanding obligation; and
+   ▪   An implementation schedule that sets forth a detailed timetable for units to be provided.
+
+In adopting its housing element, a municipality may provide for its fair share of low and moderate
+income housing by means of any technique or combination of techniques that provide a realistic
+opportunity for the provision of the fair share. As per N.J.A.C. 5:93, these potential techniques
+include but are not limited to:
+
+   ▪   Rehabilitation of existing substandard housing units;
+   ▪   ECHO units (as a Rehabilitation credit);
+   ▪   Municipally-sponsored and 100 percent affordable developments;
+   ▪   Zoning for inclusionary development;
+   ▪   Alternative living arrangements;
+   ▪   Accessory apartment program;
+   ▪   Purchase of existing homes;
+   ▪   Write-down/buy-down programs; and
+   ▪   Assisted living residences.
+
+
+
+
+                                                                                             Page 30
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 38 of 69 Trans ID: LCV20251858913
+
+
+
+
+VII. Regional Income Limits
+Dwelling units are affordable to low and moderate income households if the maximum sales price
+or rental cost is within their ability to pay such costs, based on a specific formula. The State
+historically provided income limits based upon the median gross household income of the
+affordable housing region in which the household is located. A moderate income household is one
+with a gross household income equal to or more than 50 percent, but less than 80 percent, of the
+median gross regional household income. A low income household is one with a gross household
+income equal to 50 percent or less of the median gross regional household income. Very-low
+income households are those with a gross household income equal to 30 percent or less of the
+median gross household income. Hackettstown is located in Region 2, which contains Essex, Morris,
+Union, and Warren Counties.
+
+Using the Affordable Housing Professionals of New Jersey’s latest chart on the regional income limits
+for Housing Region 2 in 2024, a four-person moderate income household is capped at $103,533.
+Two-person moderate income households are capped at $82,826, while two-person households
+could make up to $51,766 to be considered a low-income household. The table on the following
+page provides the median, moderate, low, and very-low income limits for one-, two-, three-, and
+four-person households in Region 2.3
+
+                                     2024 Regional Income Limits (Region 2)
+                                                                      Household Size
+                       Income
+                                              1 Person          2 Person           3 Person          4 Person
+              Median                          $90,591           $103,533           $116,475          $129,416
+              Moderate                        $72,473            $82,826           $93,180           $103,533
+              Low                             $45,296            $51,766           $58,237            $64,708
+              Very-Low                        $27,177            $31,060           $34,942            $38,825
+              Source: https://ahpnj.org/member_docs/Income_Limits_2024_FINAL.pdf
+
+
+
+
+3
+  In October 2018, Judge Miller signed a vicinage wide income limits order applying to all of the 60 or so municipalities with
+cases in Somerset, Hunterdon, and Warren Counties. All of these municipalities can now utilize the most current income
+limits available as it applies both to towns that have settled and those that have not and reserves all rights on the
+methodology.
+
+
+
+                                                                                                                        Page 31
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 39 of 69 Trans ID: LCV20251858913
+
+
+
+
+VIII. Hackettstown’s Affordable Housing Obligation
+This chapter outlines the four-part affordable housing obligation Hackettstown has been assigned.
+
+Present Need (Rehabilitation Obligation) | 87
+Third Round Present Need
+The Opinion issued by the Supreme Court of New Jersey on March 10, 2015 (the Mount Laurel IV
+Opinion) directs that that the Prior Round methodology be used to calculate municipal Present
+Need. This methodology was utilized by David N. Kinsey, PhD, FAICP, P.P. in his July 22, 2016 report
+“New Jersey Fair Share Housing Obligations for 1999-2025 (Third Round) Under Mount Laurel IV”,
+prepared on behalf of the Fair Share Housing Center (FSHC), to calculate the Present Need. For
+Hackettstown, the Kinsey Report calculated a Present Need of 123 units in need of rehabilitation for
+the Third Round period.
+
+Due to the wide margin of error associated with the ACS data used to calculate the present need,
+Hackettstown performed a Structural Conditions Survey. COAH and the Courts have recognized that
+the census indicators may yield an inaccurate result. COAH’s prior round rules (N.J.A.C. 5:93-5.2(a)
+and N.J.A.C. 5:93-Appendix C) provide a survey for municipalities to utilize that may be used to alter
+the census-generated indigenous need estimates. The survey requires an exterior inspection of the
+existing housing stock to determine if a unit is substandard. It then provides for the use of census
+data to estimate the number of substandard units that are occupied by low and moderate income
+households, since the income of the families residing in the substandard units is unknown.
+
+The Survey requires seven components of the exterior structure to be inspected. Foundation, siding
+and walls, roof, and chimney are considered major systems, and the remaining components are
+considered minor systems. If one major system or two or more minor systems are determined to
+be in fair/poor conditions, the structure and all units within the structure are considered to be
+substandard.
+
+The Structural Conditions Survey for Hackettstown was prepared by Richard O’Connor,
+Hackettstown’s Construction Official who is licensed by the State of New Jersey to perform building
+and/or housing inspections. According to Mr. O’Connor’s survey, there were 73 dwelling units in the
+Town that are structurally deficient. According to the FSHC report, the estimated proportion of low
+and moderate income households within deficient units is 81.82 percent. Applying that ratio to the
+73 surveyed structurally deficient dwelling units, resulted in a rehabilitation share of 60 units for
+Hackettstown. Therefore, Hackettstown’s Third Round HEFSP addressed a Rehabilitation Obligation
+of 60 units.
+
+Fourth Round Present Need
+For the Fourth Round, NJDCA calculated a present need of 87 units of rehabilitation for
+Hackettstown. Hackettstown accepted this rehabilitation obligation for the Fourth Round and has
+not prepared an updated Structural Conditions Survey at this time due to the stringent deadlines to
+prepare the HESFP as set forth in the Amended Fair Housing Act. Hackettstown reserves the right to
+conduct a Structural Conditions Survey and may amend this HEFSP to document the results of the
+survey and the reduction in the rehabilitation obligation. At this time, Hackettstown intends to
+comply with the 87-unit rehabilitation obligation.
+
+
+
+
+                                                                                              Page 32
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 40 of 69 Trans ID: LCV20251858913
+
+
+
+
+Prior Round (1987-1999) | 62
+Hackettstown received Second Round Substantive Certification in 2000 from COAH. The Town had
+1987-1999 pre-credited need of 122 affordable units, comprised of 48 new construction units and 74
+rehabilitation units.
+
+Third Round (1999-2025) | 163
+For the Third Round, Hackettstown’s Third Round HEFSP addressed a 163-unit prospective need for
+the 1999-2025 period, as well as a rehabilitation share of 60 units.
+
+Fourth Round (2025-2035) | 102
+As indicated in the 2025 Order setting the Fourth Round obligations, Hackettstown’s Fourth Round
+Obligation is 102 units.
+
+Highlands Build-out Analysis | 0 RDP
+As part of the Third Round HEFSP, Hackettstown previously conducted a vacant land analysis to
+identify vacant and developable properties remaining in the Town that may be suitable for
+affordable housing development. The study found that most of Hackettstown is developed and
+properties that are vacant or public property not used for any purpose are undersized,
+environmentally constrained, have the potential for infill development or redevelopment or have
+vested development approvals. The study found three parcels that have a realistic development
+potential (“RDP”) to be developed with inclusionary housing based on a minimum presumptive
+density of 6 du/ac. and affordable housing set-aside of 20 percent. The total developable area of
+these properties is 22.81 acres. The properties were found have potential to be developed with a
+total of 136 units, resulting in an RDP of 26 units. However, despite the lack of available vacant
+lands, Hackettstown did not seek an adjustment of its Third Round obligation at that time since
+there were sufficient existing and proposed credits to satisfy the Third Round obligation. The Town
+reserved its rights to request a vacant land adjustment in the future if necessary.
+
+The Amended FHA requires municipalities located within the Highlands Region to provide an
+analysis of compliance of the housing element with the Highlands Regional Master Plan of lands in
+the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands-
+conforming municipalities. This analysis shall include consideration of the municipality’s most
+recent Highlands Municipal Build Out Report, consideration of opportunities for redevelopment of
+existing developed lands into inclusionary or 100 percent affordable housing, or both, and
+opportunities for 100 percent affordable housing in both the Highlands Planning Area and
+Highlands Preservation Area that are consistent with the Highlands regional master plan.
+
+The Highlands Council issued a Highlands Municipal Build-Out Update dated November 1, 2024.
+The document outlines the process the Council utilized to determine parcels eligible for
+development. Utilizing Mod-IV tax data, the Highlands Council included Class 1 (Vacant) and Class
+3B (Farmland Assessed) properties with 0.83 acres or greater as available for development.4 Parcels
+with a public classification (Class 15C or 15F) where 0.83 acres or greater after the existing
+impervious surface area is subtracted from the maximum building coverage (based on the
+
+
+4
+ Utilizing a presumptive minimum density of 6 units per acre, a parcel would need to have a minimum of 0.83 acres to
+develop 5 units.
+
+
+
+                                                                                                                  Page 33
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 41 of 69 Trans ID: LCV20251858913
+
+
+
+
+maximum building coverage percentage permitted by local zoning) were also included as available
+for development.
+
+The Highlands Council provided conforming municipalities with access to an online GIS portal
+hosted through ArcGIS to evaluate identified developable properties as well as any properties that
+did not have a tax code classification. For Hackettstown, 15 properties required municipal review.
+The portal review required confirmation of sewer service, Mod-IV property class, preservation status,
+and whether or not the site is available for development. Any changes to a parcel’s developability
+required rationale to be entered into the portal.
+
+The analysis concluded that no parcels remaining in Hackettstown are vacant and available for
+development.
+
+In terms of the interplay between affordable housing obligations and the build-out, the Highlands
+Guidance Document stresses the long historical interaction between the Council on Affordable
+Housing (“COAH”) standards and affordable housing. This includes, the Regional Master Plan,
+COAH’s second attempt at Round 3 rules, Executive Order 114, a Memorandum of Understanding
+(“MOU”) between the Highlands and COAH, a 2009 guidance document from the Highlands and the
+2011 Appellate Division decision upholding the Regional Master Plan (“RMP”), Executive Order 114
+and the MOU – but invalidating, on non-substantive grounds, the Highlands Guidance Document
+and 2009 COAH resolution as rulemaking that would have had to go through the administrative rule
+making process. Not mentioned in the Guidance Document is that, in addition to all of those
+documents, COAH’s proposed 2014 regulations imposed a “buildable limit” on Highlands
+municipalities, which corresponded to the Highlands Build Out numbers. COAH was rendered
+Moribund in 2015 and towns lost the benefit of the regional planning entity’s interaction with COAH.
+This had significant consequences in Round 3 in the context of impacts on the RMP from an
+environmental perspective (the “Adverse Consequences”).
+
+On March 20, 2024, Governor Murphy signed amendments to the New Jersey Fair Housing Act into
+law. The Amended FHA made clear that the Adverse Consequences would need to be avoided in
+Round 4 and beyond in order to protect the State’s drinking water and the environmental features
+of the Highlands. To effectuate renewed and legitimate protections in the Highlands, the Amended
+FHA provided for a lower “off-the-top” allocation in the Highlands by providing a 0-weighting factor
+for developable land in the Preservation Area and Planning Areas outside of a sewer service area
+and the Existing Community Zone.
+
+As part of the consideration of the Regional Master Plan in the regional allocation of need, the New
+FHA also renews the statutory requirement that Highlands municipalities specifically comply with
+the Highlands Build-Out in the context of their Housing Plans.
+
+The only way to conform with the Highlands Build-Out in the HEFSP, in the context of affordable
+housing, is to adjust the off-the-top number downward so that inclusionary development would not
+exceed the build out. For example, if a Highland’s municipality had a prospective need of 1,000 units,
+and a highlands buildout of 500 units, then it would need to have an adjusted affordable housing
+obligation of 100 units to achieve the maximum yield with a 20 percent affordable housing set-aside.
+
+In addition, the municipality would consider: “opportunities for redevelopment of existing developed
+lands into inclusionary or 100 percent affordable housing, or both… that are consistent with the
+Highlands regional master plan”.
+
+
+
+
+                                                                                              Page 34
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 42 of 69 Trans ID: LCV20251858913
+
+
+
+
+That is precisely what the Highlands Guidance document envisions. The Highlands document
+provides that Build-out is effectively a cap on the number of units that can be supported in the
+Town. Since the FHA cannot require a municipality to spend municipal funds on compliance (and
+therefore cannot compel 100 percent affordable projects), the only way to reconcile the build-out
+with the Amended FHA is assume a 20 percent set aside relative to the upward capacity for multi-
+family units in the build-out.
+
+It should also be noted that the Highlands Municipal Build-Out Update states that a minimum
+presumptive density of 6 units per acre based on developable acreage should be assumed. While
+this recommendation is blind to specific site conditions, the guidance document does provide that
+the analysis should be done “within the parameters of sound land use planning, municipalities will
+generally have to determine appropriate densities for lands that have the potential to be serviced by
+public wastewater.” Thus, the Highlands Build-out also requires an analysis of suitability for multi-
+family use of at least 5 units.
+
+In addition to the build-out, the Town must identify properties that may be suitable for
+redevelopment. The Town had previously declared three parcels in need of redevelopment. The
+Bergen Tool Redevelopment Area is under construction. The Bilby Road Redevelopment Area is also
+under construction. The Lion Gate Redevelopment Area remains vacant despite land use approvals
+being in place since 2017. No other sites have been identified as potential redevelopment areas in
+Hackettstown.
+
+The Highlands build-out restricts not just the Fourth Round Obligation, but all affordable housing
+obligations. Build-out is a limit on development in the entire community, blind to past outstanding
+affordable housing obligations. Therefore, the unbuilt Third Round Unmet Need and Fourth Round
+Obligation are adjusted to or capped at an amended Highlands affordable housing obligation of 0
+units.
+
+Build-Out Unmet Need | 91
+The unbuilt units from the Third and Fourth Round obligations become the unmet need from the
+Highlands Build-out. The 18 units previously proposed to address the Third Round from Lion Gate
+remain unbuilt from the Third Round. Additionally, the Town is applying 26 units of existing
+development towards the Fourth Round. Therefore, there are 18 unbuilt units from the Third Round
+and 73 unbuilt units from the Fourth Round, which result in a combined Highlands Buildout Unmet
+Need of 91 units.
+
+
+
+
+                                                                                              Page 35
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 43 of 69 Trans ID: LCV20251858913
+
+
+
+
+IX. Mechanisms & Credits
+This chapter provides the existing and proposed mechanisms and credits for each of the four
+affordable housing obligations.
+
+Rehabilitation Mechanisms & Credits
+Rehabilitation must occur within the affordable housing round to count for credit.
+
+Third Round Rehabilitation Share (1999-2025)
+Warren County operates a Housing Rehabilitation Program (“WCHRP”) for qualified low and
+moderate income households that gives homeowners money to fix major systems (such as roofs,
+heating, structural, well, septic, etc.) of their home. In return for the rehabilitation money, the house
+must have a lien with 99-year affordability controls placed on the property. Since July 2015, one
+home has been rehabilitated in Hackettstown through the WCHRP.
+
+Pursuant to N.J.A.C. 5:97-6.2(b)(7), units that are eligible to receive new construction credit may be
+used to address a municipal rehabilitation share. Van Paftinos II is an inclusionary development
+with 21 age restricted affordable rentals of 100 total units. Hackettstown plans to utilize 15 new
+construction credits from Van Paftinos II to be applied to the rehabilitation obligation. These 15
+credits are rental units, which will fulfill the requirement to include renter-occupied units in the
+rehabilitation program, pursuant to NJAC 5:93-5.2(f).
+
+Hackettstown continues to encourage residents to utilize the existing WCHRP to rehabilitate homes.
+Hackettstown transferred $210,000 from its affordable housing trust fund to WCHRP in 2012 to be
+designated for rehabilitation of homes in Hackettstown. At an average cost of $10,000 per home,
+this is assumed to be sufficient funds for 21 homes to be rehabilitated. It is also assumed that
+additional funds will be available from the WCHRP to rehabilitate an additional 23 units in
+Hackettstown, for a total of 45 anticipated units through WCHRP.
+
+In the case of a shortfall, Hackettstown will apply for a Small Cities/CBDG grant available through the
+Department of Community Affairs. The grant’s purpose is to rehabilitate homes and encourage the
+construction of affordable housing. Other eligible costs include activities that support an affordable
+housing development, such as site assemblage, engineering, infrastructure improvements, and
+utilities hook ups. The Town will earmark funds from its total development fees projected to be
+collected for rehabilitation to supplement the existing rehabilitation mechanisms in the case of a
+shortfall of rehabilitation credits.
+
+Fourth Round Rehabilitation Share (2025-2035)
+Pursuant to N.J.A.C. 5:97-6.2(b)(7), units that are eligible to receive new construction credit may be
+used to address a municipal rehabilitation share. The Town will apply 6 units of new construction
+credit from Van Paftinos II and 21 units from Jane Paftinos, for a total of 27 age-restricted credits
+towards the Fourth Round Rehabilitation obligation. The Amended FHA permits up to 30 percent of
+the obligation to be met by age-restricted credits, which is 27 of the 87 unit obligation.
+
+1. Van Paftinos II
+Van Paftinos II is an inclusionary development located at 620 Willow Grove Street (Block 119.03, Lot
+15). The site contains 100 total units, of which 21 units are age-restricted affordable rental units.
+
+
+                                                                                                  Page 36
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 44 of 69 Trans ID: LCV20251858913
+
+
+
+
+The development received its certificates of occupancy in 2003, and the affordable units have a 30-
+year deed restriction. The facility is eligible for 21 credits. Hackettstown previously applied 15 of the
+units to the Third Round rehabilitation obligation, and will apply the remaining 6 units to the Fourth
+Round rehabilitation obligation.
+
+2. Jane Paftinos, LLC
+Jane Paftinos is an age-restricted inclusionary development, located at 21 Route 57 (Block 129, Lot
+26). The development received preliminary approval in 2004 for a total of 128 units including 26
+affordable units. Subsequently, the development changed owners, and the amended plan was
+decreased to 104 total units with 21 age-restricted rental affordable units deed restricted for 30
+years. Construction of the development was completed in 2014. The site is eligible for 21 credits.
+
+3. Warren County Housing Rehabilitation Program (“WCHRP”)
+Hackettstown will continue to encourage residents to utilize the existing WCHRP to rehabilitate
+homes. Since the Fourth Round period has not commenced, there are no existing units from WCHRP
+eligible for credits during the 2025 to 2035 period. Hackettstown will plan for 60 units to be
+rehabilitated through the WCHRP.
+
+Prior Round (1987-1999) Mechanisms & Credits
+1. Heritage House
+Heritage House is an age-restricted rental housing development constructed in 1985 and funded
+through the HUD Section 202 program. The development has a 40-year mortgage expiring in 2025.
+There are a total of 81 affordable units at Heritage House. These 81 units were deemed creditworthy
+in the.
+
+Pursuant to the Settlement Agreement with FSHC, Hackettstown has agreed to comply with FSHC
+determination that credits for age-restricted units constructed between April 1, 1980 and December
+15, 1986 may not be applied in a manner consistent with N.J.A.C. 5:93-3.2. As a result, the Town is no
+longer able to satisfy the entirety of its Prior Round obligation with this development as the Town
+has done in the past. Therefore, 15 credits from units at Heritage House have been applied to Prior
+Round obligation, 40 credits are applied to the Third Round obligation, and the remaining 26 credits
+are applied to the Fourth Round obligation.
+
+2. B&W Associates, LLP and Gordon MAB Hackettstown, LLC
+As a part of two non-residential development approvals, B&W Associates, LLP and Gordon MAB
+Hackettstown, LLC entered into agreements with Robert Russell, owner of 103 Valentine Street, Unit
+1 and 105 Valentine Street, Units 1, 2, 3, 4 and 5 to provide six family rental units. The units are
+deed restricted for 30 years and are managed by Housing Affordability Services. Pursuant to the
+Third Round JOR, the units were deemed eligible for a total of 12 credits, 6 from the units along with
+6 bonus credits.
+
+3. Arc of Warren County Group Home (109 Carter Terrace)
+ARC of Warren County operates a group home located at 109 Carter Terrace (Block 114, Lot 16). The
+facility has 4 bedrooms for developmentally disabled adults and is licensed by the NJ Department of
+Human Services, Division of Developmental Disabilities. Pursuant to the Third Round JOR, the facility
+was deemed eligible for 4 credits.
+
+
+
+                                                                                                  Page 37
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 45 of 69 Trans ID: LCV20251858913
+
+
+
+
+4. Arc of Warren County Group Home (431 Hurley Drive)
+ARC of Warren County operates a group home located at 431 Hurley Drive (Block 46, Lot 6). The
+facility has 4 bedrooms for developmentally disabled adults and is licensed by the NJ Department of
+Human Services, Division of Developmental Disabilities. Pursuant to the Third Round JOR, the facility
+was deemed eligible for 4 credits.
+
+5. Center for Humanistic Change
+The Center for Humanistic Change of New Jersey maintains a group home at 101–105 Christopher
+Street. The facility is regulated by the New Jersey Department of Human Services, Division of
+Developmental Disabilities. The facility has a total of 5 bedrooms that serve low-income residents.
+The facility received its Certificate of Occupancy in 1995. Pursuant to the Third Round JOR, the facility
+was deemed eligible for 5 credits. Hackettstown is applying 2 credits to the Prior Round and 3
+credits to the Third Round.
+
+6. Van Paftinos III (Bilby Road)
+Van Paftinos III (Bilby Road) consists of Block 45, Lots 1.01 and 2, located along Bilby Road. The
+property was designated as a non-condemnation area in need of redevelopment by the
+Hackettstown Town Council on December 27, 2018. The Bilby Road Redevelopment Plan governing
+the redevelopment of the property was adopted by the Town Council on February 28, 2019. The
+property received amended final site plan approval on July 23, 2019 for the development of an
+inclusionary multi-family family rental apartment complex with 275 dwelling units. The property
+must provide 55 affordable units. Pursuant to the Third Round JOR, the site was deemed eligible for
+55 credits. Hackettstown intends to apply 15 credits along with 10 bonus credits from Van Paftinos
+III to the Prior Round obligation.
+
+7. Rental Bonus Credits
+Pursuant to N.J.A.C. 5:93-5.15(d), the Town may claim 2 units of credit for rental units available to the
+general public (i.e. family rentals or non-age-restricted group homes) or 1.33 units of credit for age-
+restricted rentals. Rental bonuses for the Prior Round are capped at the rental obligation, which is
+25 percent of the new construction obligation. For the Prior Round, Hackettstown has a rental
+obligation of 16 units and, therefore, may apply up to 16 bonus credits. Hackettstown will apply 6
+family rental bonus credits from B&W and Gordon MAB, and 10 family rental bonus credits from Van
+Paftinos III, for a total of 16 bonus credits.
+
+Summary of Prior Round Credits
+The Town has a total of 46 existing or under construction affordable units along with 16 rental
+bonus credits to meet its Prior Round obligation.
+
+
+
+
+                                                                                                 Page 38
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 46 of 69 Trans ID: LCV20251858913
+
+
+
+
+                                                CREDITS
+
+                                                                         Total   Available   Prior Round
+                    Project                  Credit Type     Status
+                                                                         Units    Credits
+                                                                                          Units Bonus Total
+Heritage House                              Prior Cycle AR  Existing      81       81      15          15
+B & W and Gordon MAB                        Family Rental   Existing       6        6       6     6    12
+Arc of Warren County (109 Carter Terrace)    Group Home     Existing       1        4       4           4
+Arc of Warren County (431 Hurley Drive)      Group Home     Existing       1        4       4           4
+Center for Humanistic Change                 Group Home     Existing       1        5       2           2
+Van Paftinos III (Bilby Road)               Family Rental Under Const.   275       55      15    10    25
+                                                                                    Total 46     16    62
+                                                                               Obligation        62
+                                                                           Age-Restricted        15
+                                                                              Max Bonus          16
+
+
+
+
+Third Round Mechanisms & Credits
+Based on the Highlands Build-out, the Third Round obligation of 163 units is being reduced to a
+Realistic Development Potential (RDP) of 145 units. Hackettstown intends to satisfy the 145-unit RDP
+with the following projects:
+
+1. Heritage House
+The Third Round JOR deemed the Heritage House eligible for 40 credits towards the Third Round
+obligation.
+
+2. Center for Humanistic Change
+The Center for Humanistic Change of New Jersey group home has 3 eligible credits that will be
+applied to the Third Round obligation.
+
+3. Brook Hollow Estates
+Brook Hollow Estates is an inclusionary development completed by K. Hovnanian in 1998 on Block
+119.03, Lot 14. The development contains 187 total units, of which 21 are family affordable for-sale
+units. Pursuant to the Third Round JOR, the site is eligible for 21 credits towards the Third Round
+obligation along with 1 rental bonus credit.
+
+4. Van Paftinos III (Bilby Road)
+Pursuant to the Third Round JOR, Hackettstown applied 40 credits along with 40 bonus credits from
+Van Paftinos III to the Third Round obligation.
+
+5. Rental Bonus Credits
+Pursuant to N.J.A.C. 5:93-5.15(d), the Town may claim 2 units of credit for rental units available to the
+general public (i.e. family rentals) or 1.33 units of credit for age-restricted rentals. Rental bonuses
+for the Third Round are capped at the rental obligation, which is 25 percent of the new construction
+obligation. For the Third Round, Hackettstown has a rental obligation of 41 units and therefore, may
+apply up to 41 bonus credits. Hackettstown will utilize 40 rental bonus credits for units within Van
+Paftinos I and 1 unit from Brook Hollow Estates to satisfy the Third Round obligation.
+
+
+
+                                                                                                    Page 39
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 47 of 69 Trans ID: LCV20251858913
+
+
+
+
+Summary of Third Round Credits
+The Town has a total of 104 existing or under construction affordable units along with 41 rental
+bonus credits to meet its Third Round obligation.
+
+                                               CREDITS
+                                                                        Total   Available     Third Round
+                    Project                 Credit Type     Status
+                                                                        Units    Credits
+                                                                                            Units Bonus Total
+Heritage House                             Prior Cycle AR  Existing      81       81         40           40
+Center for Humanistic Change                Group Home     Existing       1        5          3           3
+Van Paftinos III (Bilby Road)              Family Rental Under Const.   275       55         40     40    80
+Brook Hollow Estates                        Family Sales   Existing     187       21         21      1    22
+                                                                                   Total     104    41   145
+                                                                              Obligation           163
+                                                                          Age-Restricted            40
+                                                                             Max Bonus              41
+
+Fourth Round (2025-2035) Mechanisms & Credits
+Based on the Highlands Build-out, the Fourth Round obligation of 102 units is being reduced to a
+Realistic Development Potential (RDP) of 0 units. Due to existing credits carried over from previous
+cycles, Hackettstown will apply 26 units towards the Fourth Round RDP, as follows:
+
+1. Heritage House
+There are 26 age-restricted credits remaining from Heritage House that can be applied to the Fourth
+Round. No bonus credits are eligible for Heritage House.
+
+Summary of Fourth Round Credits
+The Town has a total of 26 existing or under construction affordable units along with 13 rental
+bonus credits to meet its Third Round obligation.
+
+                                               CREDITS
+                                                                        Total   Available     Fourth Round
+                    Project                 Credit Type     Status
+                                                                        Units    Credits
+                                                                                         Units Bonus Total
+Heritage House                             Prior Cycle AR   Existing     81       81      26          26
+                                                                                   Total 26      0    26
+                                                                              Obligation        102
+                                                                          Age-Restricted        26
+                                                                             Max Bonus          26
+
+
+
+
+                                                                                                      Page 40
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 48 of 69 Trans ID: LCV20251858913
+
+
+
+
+Highlands Build-out Unmet Need
+The unbuilt units from the Third and Fourth Round obligations become the unmet need from the
+Highlands Build-out. There are 18 unbuilt units from the Third Round and 73 unbuilt units from the
+Fourth Round, which result in a combined Highlands Buildout Unmet Need of 91 units. The
+following projects will be applied to the unmet need:
+
+1. Van Paftinos I
+Van Paftinos I is an inclusionary development located along Vans Drive adjacent to Mountain Avenue
+(Block 127, Lot 7). The project contains 76 total units, of which 14 are age-restricted affordable
+rental units. The units received certificates of occupancy in 1995 and are deed restricted for 30
+years. The units are eligible for 14 credits that could not be applied due to the age-restricted caps.
+
+2. Bergen Tool Redevelopment
+The Bergen Tool, known as Block 21, Lot 18, has been designated as an area in need of
+redevelopment and has been rezoned as the PMU Planned Mixed Use Downtown Development
+Zone. The PMU Zone permits a variety of non-residential and residential uses. The Ordinance
+requires a minimum of 10% of the dwelling units to be set aside as affordable housing units. The
+affordable housing obligation may also be satisfied by a minimum in lieu payment of $25,000 per
+affordable unit obligation. These funds would be used for a market to affordable program or
+rehabilitation of dwelling units in the downtown area. The property is expected to be developed
+with 108 units, which would yield an 11-unit affordable housing obligation or a $275,000 payment in
+lieu.
+
+3. Hunter’s Brook Payment-in-Lieu
+As a part of the approval for Hunter’s Brook, a 101-unit residential project, Hackettstown received a
+payment in lieu of $275,000, which was deposited into the affordable housing trust fund. Much of
+this money was transferred to the WCHRP in 2012 to assist with housing rehabilitation in
+Hackettstown. There are no credits available for this payment-in-lieu.
+
+4. Lion Gate at Musconetcong
+The Lion Gate site consists of 15.7 acres with 440 feet of frontage along the easterly side of
+Mountain Avenue (State Route 182). A portion of the southerly and westerly sides of the subject site
+borders the Musconetcong River. The river is also the municipal boundary and County boundary.
+The property also abuts the former Hackettstown Mall site which was redeveloped with the Lowe’s
+shopping center.
+
+The site has remained vacant since the 1980s when partial building foundations, asphalt surfaces,
+and stormwater management facilities were constructed in association with a shopping center
+approved for development that was never completed.
+
+The site is located entirely within the HC (Highway Commercial) District, which permits a variety of
+retail, office, restaurant, motel, hotel, bed and breakfast, public playground, and indoor recreation
+uses as principal permitted uses. The site was designated as a Non-Condemnation Area in Need of
+Redevelopment by the Hackettstown Common Council and is subject to the land use requirements
+and procedures outlined in a Redevelopment Plan that was adopted by ordinance by the
+
+
+
+
+                                                                                               Page 41
+   WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 49 of 69 Trans ID: LCV20251858913
+
+
+
+
+Hackettstown Common Council on February 23, 2017. The Redevelopment Plan approved for the
+site allows for a mixed use retail commercial and multi-family residential project.
+
+The Planning Board granted preliminary and final major site plan and subdivision plan approvals to
+redevelop the site for a 5,558 square foot Wawa convenience store with fuel dispensing facilities
+including 6 multi-unit fuel dispensers beneath a canopy, and 145 apartment units, including 25 low
+and moderate income units in two buildings. The resolution memorializing the grant of preliminary
+and final major site plan and subdivision plan approvals was adopted on June 27, 2017.
+
+The Third Round HEFSP included the Lions Gate site as providing 18 units along with 1 rental bonus
+credit to satisfy 19 units of the Third Round obligation.
+
+Subsequent to the granting of approvals in 2017 for the project, the subdivision was perfected and
+the Wawa convenience store with fuel dispensing facilities was constructed and placed into
+operation on Lot 9.02. A Certificate of Occupancy for the Wawa convenience store was issued in
+December 2018 by the Town of Hackettstown. While the commercial component of the
+Redevelopment Plan adopted by the Hackettstown Common Council in 2017 is now complete, the
+residential component on Lot 9.01 remains outstanding and undeveloped.
+
+Lion Gate at Musconetcong River Urban Renewal, LLC received amended preliminary and final major
+site plan approval from the Land Use Board on September 27, 2022 with respect to the residential
+portion of the redevelopment on Lot 9.01 in Block 125. Specifically, the applicant was approved to
+separate previously approved Building 2 into two (2) buildings known as Buildings 2 and 3 and
+modify the site layout as a result of the building separation.
+
+Despite the amended approval in 2022, the site remains undeveloped, and construction has yet to
+commence. The site continues to be in poor condition which impairs the public health and safety,
+contributes to an image of a site in a state of disrepair and abandonment, which exerts a blighting
+influence on neighboring properties and the community. Due to the decades of inaction on the
+property, including the past 8 years specifically since the site was declared an area in need of
+redevelopment, the Town of Hackettstown has lost faith in the redeveloper and believes that this
+property is no longer a realistic site for inclusionary housing. Therefore, this site is being removed
+from the plan and will be applied as an unmet need site if development ever moves forward.
+
+5. Town-Wide Mandatory Set-aside Ordinance
+The Town intends to amend the Affordable Housing Ordinance to require any future residential
+development of 5 or more units throughout the entire municipality to provide a mandatory 20
+percent set-aside for low- and moderate-income households, regardless of tenure (sale or rental).
+
+
+
+
+                                                                                                 Page 42
+           WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 50 of 69 Trans ID: LCV20251858913
+
+
+
+
+Summary of Mechanisms & Credits
+The table below provides a summary of the mechanisms, credits and bonuses this HEFSP proposes.
+
+                                                                                  CREDITS
+                                                                         Total   Available     Rehab        Prior Round      Third Round       Fourth Round
+                 Project                     Credit Type     Status                                                                                              Excess
+                                                                         Units    Credits
+                                                                                             3rd   4th   Units Bonus Total Units Bonus Total Units Bonus Total
+Heritage House                              Prior Cycle AR  Existing      81        81                    15          15    40           40   26          26      0
+B & W and Gordon MAB                        Family Rental   Existing       6        6                      6     6    12                 0                 0      0
+Arc of Warren County (109 Carter Terrace)    Group Home     Existing       1        4                      4           4                 0                 0      0
+Arc of Warren County (431 Hurley Drive)      Group Home     Existing       1        4                      4           4                 0                 0      0
+Center for Humanistic Change                 Group Home     Existing       1        5                      2           2     3           3                 0      0
+Van Paftinos III (Bilby Road)               Family Rental Under Const.   275        55                    15    10    25    40     40    80                0      0
+Brook Hollow Estates                         Family Sales   Existing     187        21                                 0    21      1    22                0      0
+Van Paftinos I (Vans Drive)                   AR Rental     Existing      76        14                                 0                 0                 0      14
+Van Paftinos II (Willow Grove St)             AR Rental     Existing     100        21       15    6                   0                 0                 0      0
+Jane Paftinos (Route 57)                      AR Rental     Existing     104        21             21                  0                 0                 0      0
+WCHRP Rehabilitation                            Rehab       Existing      1         1        1                         0                 0                 0
+WCHRP Rehabilitation                            Rehab      Proposed                          44    60                  0                 0                 0
+                                                                                    Total    60    87     46    16    62 104       41   145 26       0    26      14
+                                                                               Obligation    60    87           62                163               102
+                                                                           Age-Restricted    15    27           15                 40               26
+                                                                              Max Bonus                         16                 41               26
+
+
+
+
+                                                                                                                                                              Page 43
+     WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 51 of 69 Trans ID: LCV20251858913
+
+
+
+
+X.      Appendix
+
+
+
+
+                                                                             Page 44
+       WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 52 of 69 Trans ID: LCV20251858913
+
+
+
+Shelbourne at Hunterdon
+53 Frontage Road, Suite 110
+Hampton, New Jersey 08827
+Main: 877 627 3772
+
+
+
+
+Memorandum
+Date:                  June 13, 2025
+
+Subject:               Town of Hackettstown: Highlands Build-Out Analysis
+
+From:                  Daniel N. Bloch, PP, AICP, Township Planner
+
+Project No.:           HKL0030
+
+
+
+The Amended FHA requires municipalities located within the Highlands Region to provide an
+analysis of compliance of the housing element with the Highlands Regional Master Plan of lands in
+the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands-
+conforming municipalities. This analysis shall include consideration of the municipality’s most
+recent Highlands Municipal Build Out Report, consideration of opportunities for redevelopment of
+existing developed lands into inclusionary or 100 percent affordable housing, or both, and
+opportunities for 100 percent affordable housing in both the Highlands Planning Area and
+Highlands Preservation Area that are consistent with the Highlands regional master plan.
+
+The Highlands Council issued a Highlands Municipal Build-Out Update dated November 1, 2024.
+The document outlines the process the Council utilized to determine parcels eligible for
+development. Utilizing Mod-IV tax data, the Highlands Council included Class 1 (Vacant) and Class
+3B (Farmland Assessed) properties with 0.83 acres or greater as available for development.1 Parcels
+with a public classification (Class 15C or 15F) where 0.83 acres or greater after the existing
+impervious surface area is subtracted from the maximum building coverage (based on the
+maximum building coverage percentage permitted by local zoning) were also included as available
+for development.
+
+The Highlands Council provided conforming municipalities with access to an online GIS portal
+hosted through ArcGIS to evaluate identified developable properties as well as any properties that
+did not have a tax code classification. For Hackettstown, 15 properties required municipal review.
+The portal review required confirmation of sewer service, Mod-IV property class, preservation status,
+and whether or not the site is available for development. Any changes to a parcel’s developability
+required rationale to be entered into the portal.
+
+The analysis concluded that no parcels remaining in Hackettstown are vacant and available for
+development.
+
+
+
+
+1
+    Utilizing a presumptive minimum density of 6 units per acre, a parcel would need to have a minimum of 0.83 acres to
+    develop 5 units.
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 53 of 69 Trans ID: LCV20251858913
+
+
+Project No. HKL0030
+June 13, 2025
+Page 2 | 3
+
+
+
+
+In terms of the interplay between affordable housing obligations and the build-out, the Highlands
+Guidance Document stresses the long historical interaction between the Council on Affordable
+Housing (“COAH”) standards and affordable housing. This includes, the Regional Master Plan,
+COAH’s second attempt at Round 3 rules, Executive Order 114, a Memorandum of Understanding
+(“MOU”) between the Highlands and COAH, a 2009 guidance document from the Highlands and the
+2011 Appellate Division decision upholding the Regional Master Plan (“RMP”), Executive Order 114
+and the MOU – but invalidating, on non-substantive grounds, the Highlands Guidance Document
+and 2009 COAH resolution as rulemaking that would have had to go through the administrative rule
+making process. Not mentioned in the Guidance Document is that, in addition to all of those
+documents, COAH’s proposed 2014 regulations imposed a “buildable limit” on Highlands
+municipalities, which corresponded to the Highlands Build Out numbers. COAH was rendered
+Moribund in 2015 and towns lost the benefit of the regional planning entity’s interaction with COAH.
+This had significant consequences in Round 3 in the context of impacts on the RMP from an
+environmental perspective (the “Adverse Consequences”).
+
+On March 20, 2024, Governor Murphy signed amendments to the New Jersey Fair Housing Act into
+law. The Amended FHA made clear that the Adverse Consequences would need to be avoided in
+Round 4 and beyond in order to protect the State’s drinking water and the environmental features
+of the Highlands. To effectuate renewed and legitimate protections in the Highlands, the Amended
+FHA provided for a lower “off-the-top” allocation in the Highlands by providing a 0-weighting factor
+for developable land in the Preservation Area and Planning Areas outside of a sewer service area
+and the Existing Community Zone.
+
+As part of the consideration of the Regional Master Plan in the regional allocation of need, the New
+FHA also renews the statutory requirement that Highlands municipalities specifically comply with
+the Highlands Build-Out in the context of their Housing Plans.
+
+The only way to conform with the Highlands Build-Out in the HEFSP, in the context of affordable
+housing, is to adjust the off-the-top number downward so that inclusionary development would not
+exceed the build out. For example, if a Highland’s municipality had a prospective need of 1,000 units,
+and a highlands buildout of 500 units, then it would need to have an adjusted affordable housing
+obligation of 100 units to achieve the maximum yield with a 20 percent affordable housing set-aside.
+
+In addition, the municipality would consider: “opportunities for redevelopment of existing developed
+lands into inclusionary or 100 percent affordable housing, or both… that are consistent with the
+Highlands regional master plan”.
+
+That is precisely what the Highlands Guidance document envisions. The Highlands document
+provides that Build-out is effectively a cap on the number of units that can be supported in the
+Town. Since the FHA cannot require a municipality to spend municipal funds on compliance (and
+therefore cannot compel 100 percent affordable projects), the only way to reconcile the build-out
+with the Amended FHA is assume a 20 percent set aside relative to the upward capacity for multi-
+family units in the build-out.
+     WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 54 of 69 Trans ID: LCV20251858913
+
+
+Project No. HKL0030
+June 13, 2025
+Page 3 | 3
+
+
+
+
+It should also be noted that the Highlands Municipal Build-Out Update states that a minimum
+presumptive density of 6 units per acre based on developable acreage should be assumed. While
+this recommendation is blind to specific site conditions, the guidance document does provide that
+the analysis should be done “within the parameters of sound land use planning, municipalities will
+generally have to determine appropriate densities for lands that have the potential to be serviced by
+public wastewater.” Thus, the Highlands Build-out also requires an analysis of suitability for multi-
+family use of at least 5 units.
+
+In addition to the build-out, the Town must identify properties that may be suitable for
+redevelopment. The Town had previously declared three parcels in need of redevelopment. The
+Bergen Tool Redevelopment Area is under construction. The Bilby Road Redevelopment Area is also
+under construction. The Lion Gate Redevelopment Area remains vacant despite land use approvals
+being in place since 2017. No other sites have been identified as potential redevelopment areas in
+Hackettstown.
+
+The Highlands build-out restricts not just the Fourth Round Obligation, but all affordable housing
+obligations. Build-out is a limit on development in the entire community, blind to past outstanding
+affordable housing obligations. Therefore, the unbuilt Third Round Unmet Need and Fourth Round
+Obligation are adjusted to or capped at an amended Highlands affordable housing obligation of 0
+units.
+
+The unbuilt units from the Third and Fourth Round obligations become the unmet need from the
+Highlands Build-out. The 18 units previously proposed to address the Third Round from Lion Gate
+remain unbuilt from the Third Round. Additionally, the Town is applying 26 units of existing
+development towards the Fourth Round. Therefore, there are 18 unbuilt units from the Third Round
+and 73 unbuilt units from the Fourth Round, which result in a combined Highlands Buildout Unmet
+Need of 91 units.
+
+
+
+
+R:\Projects\E-H\HKL\HKL0030\HL_BO_Hackettstown\250613_Hackettstown_Buildout_Results.docx
+                                                                                                                                                                             Town of Hackettstown
+                                                                                                                                                                           Highlands Build-out Results
+                                                                              BLOCK LOT       PROP         PROP LOC               FAC NAME   ACRES    TOTAL    DEVELOPABLE SEWER COMBINED                  REGION        PROPERTY   PRESERVED DEVELOPABLE             MUNICIPAL RATIONALE
+                                                                                              CLASS                                                CONSTRAINTS      AC             SEPTIC                                  CLASS
+                                                                                              MODIV                                                    AC                         DENSITY                                 REVIEW
+                                                                              4       5         1   HIGH ST                                   0.65        0.65        0.00 YES                           Planning Area       1      NO       NO
+WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 55 of 69 Trans ID: LCV20251858913
+
+
+
+
+                                                                              4       5.01      1   HIGH ST                                   1.73        1.73        0.00 YES                           Planning Area       1      NO       NO
+                                                                              21      18.02     1   93-95 MAIN ST                             9.36        0.65        8.71 YES                           Planning Area      4C      NO       NO             Parcel is the Bergen Tool Redevelopment
+                                                                                                                                                                                                                                                            Area currently under construction
+                                                                              26      12.01     1    113 E BALDWIN ST                         0.45        0.45        0.00 YES                           Planning Area      1       NO       NO
+                                                                              38      4         1    210 STIGER ST                            0.29        0.29        0.00 YES                           Planning Area      1       NO       NO
+                                                                              41      17        1    500 W VALLEY VIEW AVE                   28.63       28.63        0.00 YES                           Planning Area      1       NO       NO
+                                                                              41.01   5         1    300 W PROSPECT ST                        0.26        0.26        0.00 YES                        Planning Area          1      NO       NO
+                                                                              41.03   5         1    W VALLEY VIEW AVE                        2.37        1.96        0.41 YES                        Planning Area          1      NO       NO
+                                                                              41.04   12        1    .                                        2.22        2.22        0.00 NO            0.25         Planning Area          1      NO       NO
+                                                                              41.04   16        1    .                                        1.60        1.60        0.00 NO            0.18         Planning Area          1      NO       NO
+                                                                              41.04   19        1    .                                        9.22        9.04        0.18 YES                        Planning Area          1      NO       NO
+                                                                              44      1         1    WILLOW GROVE ST                         10.41        6.37        4.04 NO            0.00       Preservation Area        1      NO       NO
+                                                                              44      3.01                                                   12.52       10.18        2.33 YES                        Planning Area         4B      NO       NO             Parcel is developed with existing industrial
+                                                                                                                                                                                                                                                            use
+                                                                              44      4.01      1    717 WILLOW GROVE ST                      2.86        2.22        0.64 YES                           Planning Area      1       NO       NO
+                                                                              44      4.02      1    713 WILLOW GROVE ST                      5.32        2.24        3.09 YES                           Planning Area      1       NO       NO             Parcel is developed with stormwater
+                                                                                                                                                                                                                                                            management improvements associated
+                                                                                                                                                                                                                                                            with development on adjacent Lot 4.03 in
+                                                                                                                                                                                                                                                            Block 44
+                                                                              44      4.03                                                    3.53        1.98        1.55 YES                           Planning Area      4B      NO       NO             Parcel is common area for industrial
+                                                                                                                                                                                                                                                            development
+                                                                              45     1.01       1    112 BILBY RD                             6.26        5.57        0.69 YES                           Planning Area      1       NO       NO
+                                                                              45     2          1    104 BILBY RD                             8.55        8.55        0.00 YES                           Planning Area      1       NO       NO
+                                                                              45     3.01       1    689 WILLOW GROVE ST                      1.42        1.42        0.00 YES                           Planning Area      1       NO       NO
+                                                                              45     3.02       1    691 WILLOW GROVE ST                      1.82        1.82        0.00 YES                           Planning Area      1       NO       NO
+                                                                              45     4.01       1    637 WILLOW GROVE ST                     13.96       13.67        0.28 YES                           Planning Area      1       NO       NO
+                                                                              53     2          1    304 LAFAYETTE ST                         0.18        0.18        0.00 YES                           Planning Area      1       NO       NO
+                                                                              53     3          1    306 LAFAYETTE ST                         0.10        0.10        0.00 YES                           Planning Area      1       NO       NO
+                                                                              58     24.02      1    321 WILLOW GROVE ST                      0.33        0.00        0.33 YES                           Planning Area      1       NO       NO
+                                                                              62     5          1    307 LAFAYETTE ST                         0.15        0.00        0.15 YES                           Planning Area      1       NO       NO
+                                                                              64     4.01       1    1 ASHLEY AVE                             0.08        0.00        0.08 YES                           Planning Area      1       NO       NO
+                                                                              67     9.01       1    195 SHARP ST                             0.12        0.00        0.12 YES                           Planning Area      1       NO       NO
+                                                                              72     18         1    273-275 MAIN ST                          0.15        0.06        0.08 YES                           Planning Area      1       NO       NO
+                                                                              73     10         1    98 MAIN ST                               0.02        0.00        0.02 YES                           Planning Area      1       NO       NO
+                                                                              75     8          1    184 MAIN ST                              0.09        0.00        0.09 YES                           Planning Area      1       NO       NO
+                                                                              78     12         1    501 WASHINGTON ST                        0.44        0.00        0.44 YES                           Planning Area      1       NO       NO
+                                                                              98     2          1    503 VALENTINE ST                         0.22        0.00        0.22 YES                           Planning Area      1       NO       NO
+                                                                              107    21         1    509 CENTER ST                            1.02        1.00        0.01 YES                           Planning Area      1       NO       NO
+                                                                              107    63         1    89 MITCHELL RD                           0.47        0.00        0.47 YES                           Planning Area      1       NO       NO
+                                                                              107    75         1    ARTHUR TERR                              0.15        0.00        0.15 YES                           Planning Area      1       NO       NO
+                                                                              116    12         1    9 PARKE AVE                              0.25        0.25        0.00 YES                           Planning Area      1       NO       NO
+                                                                              117    4          1    10 THE TRAIL                             0.29        0.29        0.00 YES                           Planning Area      1       NO       NO
+                                                                              117    14         1    1 THE TRAIL NORTH                        0.13        0.13        0.00 YES                           Planning Area      1       NO       NO
+                                                                              117.01 1                                                        3.88        1.87        2.01 YES                           Planning Area     15F      NO       NO             Private Right-of-Way
+                                                                              118    1          1    1 BIRCH RD                               0.26        0.14        0.13 YES                           Planning Area      1       NO       NO
+                                                                              118    5          1    1 GREEN ST                               0.40        0.00        0.40 NO            0.04            Planning Area      1       NO       NO
+                                                                              119    1.47       1    HELM'S MILL RD                           0.84        0.37        0.47 NO            0.09            Planning Area      1       NO       NO
+                                                                              119    1.56       1    CRANE RD                COMMON AREA      0.17        0.17        0.00 NO            0.02            Planning Area      1       NO       NO
+                                                                              119    19.86      1    MUSKY RIDGE DR                          31.84       31.84        0.00 NO            2.44            Planning Area      1       YES      NO
+                                                                              119    47         1    8 THE TRAIL SOUTH                        0.24        0.24        0.00 NO            0.03            Planning Area      1       NO       NO
+                                                                              119    59.01                                                    3.00        0.56        2.45 YES                           Planning Area     4A       NO       NO             Parcel is common open space for existing
+                                                                                                                                                                                                                                                            office park
+                                                                              1
+                                                                                                                                                                            Town of Hackettstown
+                                                                                                                                                                          Highlands Build-out Results
+                                                                              BLOCK LOT     PROP         PROP LOC           FAC NAME        ACRES    TOTAL    DEVELOPABLE SEWER COMBINED                  REGION             PROPERTY PRESERVED DEVELOPABLE            MUNICIPAL RATIONALE
+                                                                                            CLASS                                                 CONSTRAINTS      AC             SEPTIC                                       CLASS
+                                                                                            MODIV                                                     AC                         DENSITY                                      REVIEW
+                                                                              119    107      1   119 MILL ST                                1.27        1.27        0.00 YES                           Planning Area            1    NO        NO
+WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 56 of 69 Trans ID: LCV20251858913
+
+
+
+
+                                                                              119.03 14                                                      2.49        1.03        1.46 YES                           Planning Area           4A    NO        NO          Parcel is common open space for existing
+                                                                                                                                                                                                                                                            office park
+                                                                              119.04 9        1    HELM'S MILL RD     COMMON AREA HUNTERS    1.09        1.06        0.02 NO            0.12            Planning Area            1     YES         NO
+                                                                              119.04 13       1    BROOK HOLLOW DR                           0.16        0.15        0.01 YES                           Planning Area            1     NO          NO
+                                                                              121    3                                                       1.09        0.13        0.97 YES                           Planning Area           4A     NO          NO           Parcel is common area for an existing office
+                                                                                                                                                                                                                                                                condominium development
+                                                                              122   10                                                       0.85        0.00        0.85 YES                           Planning Area           4A     NO          NO           Parcel is developed with Quick Check
+                                                                                                                                                                                                                                                                convenience/gas station
+                                                                              123   16        1    173 MOUNTAIN AVE                          0.32        0.32        0.00 YES                         Planning Area              1     NO          NO
+                                                                              125   9.01      1    301 MOUNTAIN AVE                         13.78       13.09        0.69 YES                  Preservation/Planning Areas      4A     NO          NO           Parcel is partially developed with Wawa gas
+                                                                                                                                                                                                                                                                station and has site plan approval for
+                                                                                                                                                                                                                                                                apartments in rear pursuant to
+                                                                                                                                                                                                                                                                Redevelopment Plan
+                                                                              127   13       4A    204 MOUNTAIN AVE                          4.13        3.01        1.12 YES                           Planning Area           4A     NO          NO           parcel contains parking lot for McDonalds
+                                                                                                                                                                                                                                                                on adjacent lot
+                                                                              127   13.02    15F   210 MOUNTAIN AVE   CLUB HOUSE             5.32        0.71        4.62 YES                           Planning Area           15F    NO          NO           Parcel is developed with Elks Lodge
+                                                                              127   17.02                                                    1.63        0.22        1.41 YES                           Planning Area           4A     NO          NO           Parcel is common area for existing office
+                                                                                                                                                                                                                                                                park
+                                                                              2
+WRN-L-000063-25
+      WRN-L-000063-25
+                06/26/2025
+                       04/08/2025
+                           11:57:31 Pg
+                                    AM1 of
+                                        Pg557 of
+                                             Trans
+                                                 69 ID: LCV20251025362
+                                                      Trans ID: LCV20251858913
+WRN-L-000063-25
+      WRN-L-000063-25
+                06/26/2025
+                       04/08/2025
+                           11:57:31 Pg
+                                    AM2 of
+                                        Pg558 of
+                                             Trans
+                                                 69 ID: LCV20251025362
+                                                      Trans ID: LCV20251858913
+WRN-L-000063-25
+      WRN-L-000063-25
+                06/26/2025
+                       04/08/2025
+                           11:57:31 Pg
+                                    AM3 of
+                                        Pg559 of
+                                             Trans
+                                                 69 ID: LCV20251025362
+                                                      Trans ID: LCV20251858913
+WRN-L-000063-25
+      WRN-L-000063-25
+                06/26/2025
+                       04/08/2025
+                           11:57:31 Pg
+                                    AM4 of
+                                        Pg560 of
+                                             Trans
+                                                 69 ID: LCV20251025362
+                                                      Trans ID: LCV20251858913
+WRN-L-000063-25
+      WRN-L-000063-25
+                06/26/2025
+                       04/08/2025
+                           11:57:31 Pg
+                                    AM5 of
+                                        Pg561 of
+                                             Trans
+                                                 69 ID: LCV20251025362
+                                                      Trans ID: LCV20251858913
+
+
+
+
+                                     William G. Mennen
+
+            4/8/25
+             EERE                                         ee
+        WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 62 of 69 Trans ID: LCV20251858913
+
+
+
+
+                                          TOWN OF HACKETTSTOWN
+                                        WARREN COUNTY, NEW JERSEY
+
+                                                RESOLUTION# ZORS ~hA
+                                                   HOUSING OBLIGATIONS
+        RESOLUTION REGARDING FAIR SHARE AFFORDABLE
+                             FOR THE FOURTH ROUND
+
+                WHEREAS, the New Jersey Supreme Court, through its rulings in Southern Burlington
+        County NAACP vy. Mount Laurel, 67 13 N.J. 151 (1975) and Southern Burlington County
+                                                                                                       New
+        NAACP 14 v. Mount Laurel, 92 N.J. 158 (1983), has determined that every municipality in
+                                                                       its land use regulatio ns a realistic
+        Jersey has a constitutional obligation to provide through
+                                                                                          housing for low-
+        opportunity for its fair share of its region’s present and prospective needs for
+        and moderate-income families; and
+
+                                                                                               into law,
+                WHEREAS, on March 20, 2024, Governor Murphy signed P.L.2024, c.2
+                                                                                            le   housing
+        establishing a new framework for determining and enforcing municipalities’ affordab
+                                                                                                   Jersey
+        obligations under the New Jersey Supreme Court’s Mount Laurel doctrine and the New
+        Fair Housing Act (N.J.S.A. 52:27D-301 et al.); and
+
+                WHEREAS, pursuant to N.J.S.A. 52:27D-304.1(f)(1)(b), each municipality must adopt a
+        binding resolution no later than January 31, 2025 determining its present and prospective fair
+        share obligation for the Fourth Round; and
+
+               WHEREAS, pursuant to Administrative Directive #14-24 issued by the Administrative
+        Office of the Courts on December 13, 2024, “[a] municipality seeking a certification of
+        compliance with the [Fair Housing Act] shall file an action in the form of a declaratory judgment
+        complaint and Civil Case Information Statement (Civil CIS) in the county in which the
+        municipality is located” within 48 hours of adopting the municipal resolution of fair share
+        obligations; and
+
+              WHEREAS,        pursuant to N.J.S.A. 52:27D-304.1(d), the New Jersey Department of
+        Community Affairs     issued “a report on the calculations of regional need and municipal
+        obligations for each region of the State” on or about October 18, 2024 (the “DCA Report”); and
+
+               WHEREAS,       on or about November 20, 2024, DCA provided a GIS data set that was
+        used to calculate each municipality’s land capability factor in the DCA Report.
+
+               WHEREAS,           the       webpage       associated      with       such      data      set
+        (https://njdca.maps.arcgis.com/home/item.html?id=12acdfe0a5 104 f8f8a2f604e96063e74) notes:
+“a
+               The land areas identified in this dataset are based on an the best available data using
+               publicly available data enumerated in N.J.S.A. 52:27D-304.3c(4) to estimate the area of
+               developable land, within municipal and regional boundaries, that may accommodate
+
+ee re
+               development. Jt is important to note that the identified areas could be over or under
+               inclusive depending on various conditions and that municipalities are permitted to
+                                                                         —   —     ee
+
+      WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 63 of 69 Trans ID: LCV20251858913
+
+
+ SE
+
+
+ a
+
+
+ ES
+
+              provide more detailed mappings as part of their participation                  in the Affordable
+ EL
+              Housing Dispute Resolution Program. (emphasis added).
+
+ rT
+              WHEREAS, the DCA Report set the municipal obligation for Hackettstown as follows:
+
+              Present Need: 87
+              Prospective Need: 105
+ ie
+               WHEREAS, the Town accepts the conclusions set forth in the DCA Report, except those
+       regarding the land capacity allocation factor applicable to Hackettstown: and
+
+               WHEREAS, pursuant to N.J.S.A. 52:27D-304.1(f)(1)(a), a municipality may determine
+ EE
+       its present and prospective fair share obligation for affordable housing consistent with the
+       established methodologies; and
+
+              WHEREAS,        DCA maintains that the areas the DCA identified as developable may be
+       “overinclusive;” and
+
+              WHEREAS,         the Town's    Professional   Planner,   has determined     that such data set is
+      “overinclusive” and has prepared a report dated January 29, 2025 stating such, which is attached
+      hereto as Exhibit A; and
+
+              WHEREAS, the data compiled by DCA to calculate the Town's “land capacity factor”
+      erroneously included approximately 6.336368 acres as vacant and developed land as outlined in
+      the attached report from the Town Planner (Exhibit A); and
+
+              WHEREAS, removing such property from the inventory of vacant land in the Town
+      reduces the total vacant land from 10.522 acres to 4.185632 acres and the land capacity factor
+      from 0.2% to 0.12%, as outlined in the report attached hereto as Exhibit A; and
+
+              WHEREAS, the correction of the land capacity factor and the average allocation factor
+      reduces the Town’s prospective affordable housing obligation from 105 to 100, as outlined in the
+      report attached hereto as Exhibit A; and
+
+             WHEREAS,          N.JS.A.      52:27D-304.1(f(1)(b)       provides   that:   “the   municipality’s
+      determination of its fair share obligation shall have a presumption of validity, if established in
+      accordance with sections 6 and 7 of P.L. 2024, c. 2...” and
+
+
+
+
+ee
+             WHEREAS,         the Town’s calculation of need is entitled to a “presumption of validity”
+      because it complies with Sections 6 and 7 of P.L. 2024, c. 2; and
+
+             WHEREAS, the Town specifically reserves its rights to:
+
+                 a.   Adjust the Town’s fair share obligations based on a Vacant Land Adjustment, a
+                      lack of public water or sewer infrastructure (i.e. a Durational Adjustment),
+                      Highlands Build Out Analysis, a structural conditions survey pursuant to N.J.A.C.
+WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 64 of 69 Trans ID: LCV20251858913
+
+
+
+
+                 5:93-5.2(a), and / or all other applicable adjustments, permitted in accordance
+                 with applicable statute, regulations or law;
+
+            b.   Revoke or amend this Resolution and the Town's Fourth Round Affordable
+                 Housing Obligations to account for decisions of a court of competent jurisdiction
+                 or a change in applicable legislation; and
+
+            c.   The right to take any contrary position, or adjust its Fourth Round Affordable
+                 Housing Obligations, in the event of a third party challenge to the Town’s Fourth
+                 Round Affordable Housing Obligations.
+
+       NOW, THEREFORE, BE IT RESOLVED, by the Mayor and Council of the Town of
+Hackettstown, Warren County, New Jersey, as follows:
+
+   2.   The Town of Hackettstown hereby determines, based on the DCA Report, corrections to
+        the data utilized therein, and advice of the Municipal Planner and Attorney, to adopt the
+        following obligations as its binding Fourth Round Affordable Housing Obligations:
+
+                 Present Need: 87
+                 Prospective Need: 100
+
+   3.   The adoption of this Resolution and the aforementioned Fourth Round Affordable
+        Housing Obligations is subject to all reservations of rights, which specifically include,
+        without limitation, the following:
+
+            a.   The right to adjust the Town’s     fair share obligations based on a Vacant Land
+                 Adjustment, a lack of public water or sewer infrastructure (i.e. a Durational
+                 Adjustment), Highlands Build Out Analysis, a structural conditions survey
+                 pursuant to N.J.A.C. 5:93-5.2(a), and all other applicable adjustments, permitted
+                 in accordance with applicable statute, regulations or law with such adjustments to
+                 be adopted as part of the municipality’s Fourth Round Housing Element and Fair
+                 Share Plan.;
+
+            b.   The right to revoke or amend this Resolution and the Town’s Fourth Round
+                 Affordable Housing Obligations to account for decisions of a court of competent
+                 jurisdiction or a change in applicable legislation; and
+
+           c.    The right to take any contrary position, or adjust its Fourth Round Affordable
+                 Housing Obligations, in the event of a third party challenge to the Town’s Fourth
+                 Round Affordable Housing Obligations.
+
+  4.    The Municipal Clerk and Municipal Attorney are authorized to take all actions required
+        by N.J.S.A. 52:27D-304.1(f)(1)(b), including:
+
+           a.    Filing a Declaratory Judgment Complaint, along with this Resolution and a Case
+                 Information Statement, in the appropriate venue with the Program or any other
+                                                                            rma
+    .             —————EEEE—E————
+                           WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 65 of 69 Trans ID: LCV20251858913
+
+
+
+
+                                             such entity as may be determined to be appropriate, to initiate an action within 48
+                                             hours of the adoption of this Resolution pursuant to the requirements of P.L.2024,
+     i                                       c.2, and AOC Directive #14-24
+                                                                                                                                       |
+                                        b.   Publishing this Resolution on the Town's website.
+                                                                                                                                       |
+   i                           5. The Municipal Attorney, Municipal Planner, and Planning Board are authorized to take
+                                                                                                                       e
+                                    all actions to draft documents necessary to comply with all Fourth Round affordabl
+                                                                                                               Plan, an                |
+                                    housing obligations, including drafting a Housing Element and Fair Share
+                                                   Housing   Trust   Fund   Spending   Plan,   and   effectuating   ordinances   and
+                                    Affordable
+                                    resolutions.
+
+                               6.   This Resolution shall take effect immediately.
+
+
+ae
+
+                                                          le to be a true copy of a Resolution adopted by the Mayor and
+
+
+
+
+BT, ARIEL
+        OT MREa
+                                                         tstown at a meeting held on January 30,        ;
+
+
+                           P.J. Rejlly, Clerk           /                            Jerry DiMaio, Mayor
+
+
+
+
+IETS
+
+
+TT,
+
+
+Pee
+
+
+
+
+Ret
+
+
+PL
+
+
+PD
+      WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 66 of 69 Trans ID: LCV20251858913
+
+
+
+Shelbourne at Hunterdon
+53 Frontage Road, Suite 110
+Hampton, New Jersey 08827
+Main: 877 627 3772
+
+
+
+
+Memorandum
+To:               Town of Hackettstown
+
+From:             Daniel N. Bloch, PP, AICP, EADA
+
+Date:             January 29, 2025
+
+Subject:          Fourth Round Allocation Factors
+
+Project No.:      HKL0030
+
+
+P.L. 2024, c.2 specifies the formula and process by which Fourth Round affordable housing
+obligation numbers are to be calculated. The Department of Community Affairs (DCA) was charged
+with the preparation of the Fourth Round numbers. DCA published their report on or about
+October 18, 2024. It was accompanied by a detailed spreadsheet illustrating the various calculations
+used in determining the Fourth Round affordable housing obligations. The spreadsheet includes a
+tab for each of the three allocation factors (land capacity, equalized non-residential valuation, and
+income). However, the spreadsheet only noted an aggregated acreage value for each town.
+Detailed Geographic Information Systems (“GIS”) mapping illustrating the location of the
+developable areas was not released until November 27, 2024.
+
+The allocation process starts with a state-wide number. DCA has calculated this number to be
+84,698. This number is allocated amongst the six affordable housing regions. Hackettstown is
+located in Region 2 – Essex, Morris, Union, and Warren. Region 2 has a Fourth Round obligation of
+20,506.
+
+The regional need is then distributed to the non-urban aid municipalities based on three allocation
+factors:
+
+      ▪   Equalized Non-residential Valuation
+      ▪   Income Capacity
+      ▪   Land Capacity
+
+Equalized non-residential valuation is determined by the change in value for commercial and
+industrial parcels between 1999 and 2023. The Township value change is divided by the change in
+value of Region 2, which produces a percentage. This percentage is the Equalized Non-residential
+Valuation factor.
+
+Income capacity measures the extent to which the Township’s income level differs from that of the
+lowest-income municipality in its Region. For Region 2, Newark has the lowest median income. The
+analysis reviews the income difference and does account for number of households in each
+community. Once again, each community is compared to the Region’s aggregate median income
+difference. Essentially, the higher median income a community has, the higher percentage it is
+allocated.
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 67 of 69 Trans ID: LCV20251858913
+
+
+Project No. HKL0030
+January 29, 2025
+Page 2 | 4
+
+
+
+
+Land capacity estimates the total acreage that is developable based on 2020 aerial imagery. The
+Township’s developable acreage is divided by the Region’s total acreage, which produces a
+percentage. This percentage is the Land Capacity factor.
+
+The three factors are then averaged for each community. That average is then multiplied by the
+obligation for the municipality’s Region.
+
+The information below summarizes the three allocation factors and the average allocation assigned
+to Hackettstown Township.
+
+    ▪   Non-residential ~ 0.81%
+    ▪   Land Capacity ~ 0.20%
+    ▪   Income ~ 0.52%
+    ▪   Average allocation is 0.51%; therefore, the Fourth Round Obligation is 105 (0.51% x 20,506)
+
+DCA provided a detailed excel workbook with their data inputs and calculations. Below is a
+summary of the data we reviewed and our findings.
+
+Equalized Non-residential Valuation
+
+    ▪   2023 commercial and industrial values are correct (total = $285,683,500)
+    ▪   2023 State Equalization Table Average Ratio – 84.76% from state table on website is correct
+    ▪   1999 commercial and industrial values are correct (total = $114,744,000)
+    ▪   1999 State Equalization Table Average Ratio – 90.4% is correct
+    ▪   The calculations for Hackettstown are correct
+
+Income Capacity
+
+    ▪   2022 number of households is correct (3,698) [2023 number of households is 3,790]
+    ▪   2022 median income is correct ($95,174) [2023 median income is $91,250]
+    ▪   Regional 2 minimum median income was Newark with $46,460, correct
+    ▪   Difference from median household floor with household weight is correct
+    ▪   Household weighted income difference percentage is correct
+    ▪   Difference from median household income floor is correct
+    ▪   Income difference percentage of region is correct
+    ▪   Income capacity allocation calculations for Hackettstown Township are correct
+    ▪   DCA used 2022 5-year data, which was the latest available. 2023 5-year data was released today
+        and is included above in brackets for reference but not used in calculations.
+
+Land Capacity
+
+    ▪   Table states 10.522 acres – we do not agree with this
+        - The DCA GIS data identifies 14 areas within the Township as developable. These areas
+           total 10.522 acres according to the GIS data. Each area has been assigned a unique
+           “ObjectID” or identification number. The table attached as Exhibit A lists each area’s
+       WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 68 of 69 Trans ID: LCV20251858913
+
+
+Project No. HKL0030
+January 29, 2025
+Page 3 | 4
+
+
+
+
+                 identification number (see column “DCA ObjectID”), and the associated vacant acres
+                 identified by DCA.1 Our office then added a column to identify the block(s) and lot(s)
+                 each area encompasses. We then reviewed each area to confirm if it was developable as
+                 it stands at the time of this review. Our findings for each of the 14 areas is provided
+                 under “Comments”. Finally, the table contains a column labeled “Adjusted Developable
+                 Acres” based upon the results of our area-by-area analysis.
+
+                 This detailed evaluation reveals that only 4 of the 14 identified areas are developable.
+                 The developable areas encompass 4.185632 acres. Therefore, Hackettstown’s
+                 developable acreage is 4.18 acres, not 10.522 acres. When this corrected acreage data is
+                 entered into DCA’s excel spreadsheet2 the Township’s Land Capacity Factor decreased
+                 from 0.2% to 0.12%. The Township’s Average Allocation Factor decreased from 0.51% to
+                 0.49% and, accordingly, Hackettstown’s Fourth Round Obligation is reduced to 100 units.
+
+                 Based upon our review of the data for Hackettstown Township, the GIS analysis
+                 prepared by DCA has the following shortcomings:
+                    • It does not capture conservation easements or deed restrictions.
+                    • It fails to account for a lack of street frontage.
+                    • It is blind to block and lot lines and identifies portions of existing developed sites
+                        as developable. Many of these instances occur in rear and side yard setback
+                        areas.
+                    • It fails to account for area shape and size. For example, areas as narrow as 5 feet
+                        are identified as developable.
+                    • It does not take into account utility easements.
+
+
+Our analysis has identified discrepancies with the data for the allocation factors, specifically the land
+capacity factor. Once analyzed and updated to reflect the status of developable land, the land
+capacity factor was reduced which led to a reduction to the overall average allocation factor.
+Therefore, there was a decrease in the calculated obligations for the Township. As a result, we have
+reason to object to the Fourth Round obligation DCA has calculated for Hackettstown and request
+that the obligation be reduced to 100 units.
+
+
+
+R:\Projects\E-H\HKL\HKL0030\DCA Fourth Round Land Analysis\250129_Hackettstown_Affordable_Allocation_Factors_Memorandum.docx
+
+
+
+
+1
+    Note that the DCA GIS attribute table labels this column as “vacant acres” not developable acres.
+2
+    https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml
+    WRN-L-000063-25 06/26/2025 11:57:31 AM Pg 69 of 69 Trans ID: LCV20251858913
+
+
+Project No. HKL0030
+January 29, 2025
+Page 4 | 4
+
+
+
+
+Exhibit A: DCA Land Capacity Factor Analysis
+                                                                                                          Adjusted
+   DCA       Weighted      Vacant       Block(s) /
+                                                                       Comments                          Developable
+ ObjectID     Acres         Acres         Lot(s)
+                                                                                                            Acres
+ 30099           0.90085     0.90085   B107/L21        Selection has frontage on an unimproved                0.90085
+                                                       right-of-way. Selection is developable.
+ 30100         2.170823     2.170823   B3.01/L1        This selection part of a developed house of                 0
+                                                       worhship property. Selection is not
+                                                       developable.
+ 30101         0.222844     0.222844   B45/L4.01       Selection is part of the Hackettstown                 0.222844
+                                                       Community Hospital campus. Selection is
+                                                       developable.
+ 30102         2.585275     2.585275   B45/L4.01       Selection is part of the Hackettstown                 2.585275
+                                                       Community Hospital campus. Selection is
+                                                       developable.
+ 30103         0.476753     0.476753   B118/L1 &5      Selection is vacant with access to roadway.           0.476663
+                                                       Area is developable
+ 30104         0.402935     0.402935   B4/L5.01        Selection is a narrow strip of land along the               0
+                                                       railroad right-of-way with no street frontage.
+                                                       Not developable.
+ 30105         0.166056     0.166056   B45/L2          This parcel is currently under construction for             0
+                                                       an inclusionary housing development.
+ 30106         0.094564     0.094564   B4/L5.01 & L2   Selection is a narrow strip of land along the               0
+                                                       railroad right-of-way with no street frontage.
+                                                       Not developable.
+ 30107           0.22228     0.22228   B45/L2          This parcel is currently under construction for             0
+                                                       an inclusionary housing development.
+ 30108         0.972406     0.972406   B45/3.01 &      This area is within 1000 feet of a vernal pool.             0
+                                       3.02            Not developable.
+ 30109         0.279592     0.279592   B4/L6           Selection is a narrow strip of land along the               0
+                                                       railroad right-of-way with no street frontage.
+                                                       Not developable.
+ 30110         0.315887     0.315887   B4/L5           Selection is part of an existing development                0
+                                                       in adjacent municipality. Not developable
+ 30111         0.214255     0.214255   B44/L4.01       Selection is irregularly shaped with no access              0
+                                                       to a roadway due to slope constraints. Area is
+                                                       undevelopable
+ 30112         1.497876     1.497876   B44/L4.01       Parcel has vested development approvals                     0
+                                                       and is not considered developable.
+ Total                     10.522396                                                                         4.185632
+

@@ -1,0 +1,1246 @@
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 1 of 27 Trans ID: LCV20252340652
+
+
+
+
+                        Master Plan Amendment
+        Housing Plan Element and Fair Share Plan
+
+                                                             Borough of South
+                                                            Toms River, Ocean
+                                                           County, New Jersey
+
+                                                                                    Prepared:
+                                                                                 June 9, 2025
+
+                                                                                   Revised:
+                                                                            August 20, 2025
+
+                                                                              Prepared for:
+                                               Borough of South Toms River Land Use Board
+
+
+
+
+                                                                                 Prepared by:
+
+
+
+
+                                                                  ___________________________
+                                                                  Mark Rohmeyer P.E., P.P., C.M.E.
+                                                                            Morgan Municipal, LLC
+                                                      137 Central Avenue, Island Heights, NJ 08732
+
+
+
+
+         Adopted on 8/19/25 by the Borough of South Toms River Land Use Board.
+             Endorsed on             by the South Toms River Borough Council.
+
+
+
+                     The original of this document has been signed
+                     and sealed in accordance with New Jersey Law.
+ OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 2 of 27 Trans ID: LCV20252340652
+
+
+
+                                                                                                    Housing Plan Element and Fair Share Plan
+                                                                                                  Borough of South Toms River, Ocean County
+
+
+
+Table of Contents
+HOUSING PLAN ELEMENT ................................................................................................ 1
+MANDATORY CONTENTS OF THE HOUSING PLAN ELEMENT ............................................................... 2
+ANALYSIS OF DEMOGRAPHIC, HOUSING, AND EMPLOYMENT CHARACTERISTICS...................... 3
+      SOUTH TOMS RIVER'S DEMOGRAPHICS ......................................................................................... 4
+      SOUTH TOMS RIVER'S HOUSING STOCK ........................................................................................... 6
+      SOUTH TOMS RIVER'S EMPLOYMENT AND INCOME CHARACTERISTICS ............................... 8
+AFFORDABLE HOUSING OBLIGATION ........................................................................................................ 9
+             PRESENT NEED ..................................................................................................................................... 9
+       PRIOR ROUND 0BLIGA TION .............................................................................................................. 10
+       PROSPECTIVE NEED............................................................................................................................. 10
+ABILITY TO ACCOMMODATE AFFORDABLE HOUSING OBLIGATION .............................................. 10
+             ANTICIPATED LAND USE PATTERNS .............................................................................................. 10
+             ANTICIPATED DEMAND FOR TYPES OF USES PERMITTED BY ZONING, BASED ON PRESENT
+             AND ANTICIPATED FUTURE DEMOGRAPHIC CHARACTERISTICS............................................... 10
+       AVAILABILITY OF EXISTING AND PLANNED INFRASTRUCTURE ............................................... 11
+       ECONOMIC DEVELOPMENT POLICIES .............................................................................................. 11
+       CONSTRAINTS ON DEVELOPMENT .................................................................................................... 11
+IDENTIFICATION OF AFFORDABLE HOUSING SITES ............................................................................... 12
+FAIR SHARE PLAN ............................................................................................................. 13
+              FULFILLMENT OF THE PRESENT NEED.............................................................................................. 13
+              FULFILLMENT OF THE UNMET NEED (PROSPECTIVE NEED OBLIGATIONS)......................... 13
+              DESCRIPTION OF THE AFFORDABLE HOUSING SITE ...................................................................... 13
+VACANT LAND ANALYSIS REPORT ............................................................................ 1
+INTRODUCTION.................................................................................................................................................. 2
+PERMITTED EXCLUSIONS ............................................................................................................................... 3
+METHODOLOGY ................................................................................................................................................. 4
+             METHOD 1: Minimum Lota Area to Meet Density ................................................................................. 4
+             METHOD 2: ROSI (Registered Open Space Inventory) or Green Acres Designation ............................... 4
+             METHOD 3: Prior Round RDP ................................................................................................................. 4
+             METHOD 4: Previously Site Plan Approved.............................................................................................. 4
+             METHOD 5: Landlocked Parcels .............................................................................................................. 5
+             METHOD 6: Environmentally Sensitive Lands .......................................................................................... 5
+      METHOD 7: Constructed / No longer vacant ........................................................................................... 6
+SUMMARY & CONCLUSION ............................................................................................................................ 7
+APPENDICES ........................................................................................................................................................ 8
+             Vacant Land Inventory Table ..................................................................................................................... 8
+             Vacant Land Map ........................................................................................................................................ 9
+             Existing Land Use Map .............................................................................................................................. 10
+
+
+
+
+                                                           Page i (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 3 of 27 Trans ID: LCV20252340652
+
+
+
+                                                                     Housing Plan Element and Fair Share Plan
+                                                                          Borough of South Toms River, Ocean
+
+
+List of Figures
+TABLE 1: POPULATION TRENDS ..................................................................................... 6
+TABLE 2: DEMOGRAPHIC INDICATORS ........................................................................ 7
+TABLE 3: POPULATION BY AGE ...................................................................................... 7
+TABLE 4: HOUSING UNIT TOTALS .................................................................................. 8
+TABLE 5: HOUSING PHYSICAL AND VALUE CHARACTERISTICS ...................... 9
+TABLE 6: OCCUPATION OF EMPLOYED CIVILIAN POPULATION ...................... 10
+TABLE 7: HOUSEHOLD INCOME ................................................................................... 11
+
+
+
+
+                                         Page ii (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 4 of 27 Trans ID: LCV20252340652
+
+
+
+                                                        Housing Plan Element and Fair Share Plan
+                                                             Borough of South Toms River, Ocean
+
+
+
+
+Housing Plan Element
+The Borough of South Toms River, Ocean County, has prepared this Housing Plan
+Element and Fair Share Plan as an amendment to the municipal master plan in
+accordance with the New Jersey Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.)
+and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-310 et seq.).
+
+The Municipal Land Use Law requires that a municipal master plan include a
+housing plan element to enable the municipality to exercise the power to zone and
+regulate land use. The housing plan element is adopted by the municipal planning
+board and endorsed by the municipal governing body and is drawn to achieve the
+goal of meeting the municipal obligation to provide for a fair share of the regional
+need for affordable housing.
+
+This Housing Plan Element and Fair Share Plan amends the Borough's master plan
+to address current affordable housing planning requirements. It addresses the
+Borough's cumulative fair share obligation for the period from 2025 through 2035.
+
+The rules and regulations that have been followed to prepare this plan are the
+applicable provisions of the substantive rules of the New Jersey Council on
+Affordable Housing (COAH) for the periods beginning on June 6, 1994 (N.J.A.C. 5:93-
+1.1 et seq.) and on June 2, 2008 (N.J.A.C. 5:97-1.1 et seq.), as impacted and
+influenced by the March 10, 2015 decision of the New Jersey Supreme Court In the
+Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by COAH., 221 N.J. 1 (2015)("Mount
+Laurel IV"), In re Declaratory judgment Actions Filed By Various Municipalities, and
+a Settlement Agreement, dated October 6, 2016, between the Borough and the Fair
+Share Housing Center (hereinafter "FSHC Agreement"), which was approved by Hon.
+Mark A. Troncone, J.S.C. on November 18, 2016.
+
+
+
+
+                               Page 1 (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 5 of 27 Trans ID: LCV20252340652
+
+
+
+                                                        Housing Plan Element and Fair Share Plan
+                                                              Borough of South Toms River, Ocean
+
+
+Mandatory Contents of the Housing Plan Element
+
+The Municipal Land Use Law (N.J.S.A. 40:55D-1, et. seq.) provides that a municipal
+master plan must include a housing plan element as a prerequisite for the adoption
+of zoning ordinances and zoning amendments. This Housing Plan Element and Fair
+Share Plan was prepared in accordance with N.J.S.A. 40:55D-28. Pursuant to Section
+10 of the Fair Housing Act (N.J.S.A. 52:27D-310), a municipal housing plan element
+is to be designed to achieve the goal of providing access to affordable housing to
+meet present and prospective housing needs, with particular attention to "low" and
+"moderate" income housing.
+
+The New Jersey Municipal Land Use Law, N.J.S.A. 40:55D-1 to -136 (MLUL) and the
+New Jersey Fair Housing Act, N.J.S.A. 52:27D-301 to -329 (FHA) require every
+municipal planning board to adopt a housing plan element as part of its master plan
+and permit the board to adopt a fair share plan as a component to the housing plan
+element. Once adopted, the fair share plan may be endorsed by the governing body
+and thereafter filed with COAH or the courts for review and approval. To be
+approved, the fair share plan must address the municipal present and prospective
+housing needs, "with particular attention to low- and moderate-income housing."
+
+The Borough of South Toms River has prepared this Housing Plan Element and Fair
+Share Plan in response to Mount Laurel IV, and at the direction of the Ocean County
+Superior Court. This Housing Plan Element and Fair Share Plan has been prepared
+in accordance with the provisions of N.J.A.C. 5:93, as outlined in the Mount Laurel
+IV decision, and with the provisions of the FSHC Agreement and the order
+approving same entered by the Court on November 14, 2016.
+
+In accordance with the Fair Housing Act at N.J.S.A. 52:27D-310, a housing plan element
+shall contain at least the following:
+
+   •   An inventory of the municipality's housing stock by age, condition, purchase
+       or rental value, occupancy characteristics, and type, including the number of
+       units affordable to low and moderate income households and substandard
+       housing capable of being rehabilitated, and in conducting this inventory the
+       municipality shall have access, on a confidential basis for the sole purpose
+       of conducting the inventory, to all necessary property tax assessment records
+       and information in the assessor's office, including but not limited to the
+       property record cards;
+
+   •   A projection of the municipality's housing stock, including the probable
+       future construction of low- and moderate-income housing, for the next ten
+       years subsequent to the adoption of the housing plan element, taking into
+       account, but not necessarily limited to, construction permits issued,
+       approvals of applications for development and probable residential
+       development of lands.
+
+
+                               Page 2 (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 6 of 27 Trans ID: LCV20252340652
+
+
+
+                                                                Housing Plan Element and Fair Share Plan
+                                                                    Borough of South Toms River, Ocean
+
+
+   •   An analysis of the municipality's demographic characteristics, including but
+       not necessarily limited to, household size, income level, and age.
+
+   •   An analysis of the existing and probable future employment characteristics
+       of the municipality.
+
+   •   A determination of the municipality's present and prospective fair share for
+       low- and moderate-income housing and its capacity to accommodate its
+       present and prospective housing needs, including its fair share for low- and
+       moderate-income housing.
+
+   •   A consideration of the lands that are most appropriate for construction of
+       low- and moderate-income housing and of the existing structures most
+       appropriate for conversion to, or rehabilitation for, low- and moderate-
+       income housing, including a consideration of lands of developers who have
+       expressed a commitment to provide low- and moderate-income housing.
+
+The preparation and submission of a housing plan element of a municipality's Master Plan,
+and a Fair Share Plan, is the first major step in the process for seeking the approval of same
+by the Court via a Judgment of Compliance and Repose. Affordable Housing regulations
+define "Fair Share Plan" as follows:
+
+       "Fair Share Plan" means that plan or proposal which is in a form that may
+       readily be converted into an ordinance, by which a municipality proposed to
+       satisfy its obligation to create a realistic opportunity to meet its fair share of
+       low and moderate income housing needs of its region and which details the
+       affirmative measures the municipality proposes to undertake to achieve its
+       fair share of low and moderate income housing, as provided in sections 9
+       and 14 of the Act, addresses the development regulations necessary to
+       implement the housing element, and addresses the requirements of N.J.A.C.
+       5:93-7 through 11.
+
+This Housing Plan Element and Fair Share Plan satisfies all of the applicable requirements
+set forth within the MLUL, the FHA, applicable COAR regulations, Mount Laurel IV, in re
+Declaratory Judgment Actions Filed by Various Municipalities, and the FSHC Agreement.
+
+
+
+Analysis of Demographic, Housing, and Employment
+Characteristics
+
+As required by N.J.S.A. 52:27D-310, all housing plan elements must contain a
+discussion of the municipality's demographic, housing, and economic
+characteristics. The following subsections fulfill this requirement by providing a
+profile of the Borough of South Toms River with information from the US Census
+Bureau
+                                 Page 3 (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 7 of 27 Trans ID: LCV20252340652
+
+
+
+                                                              Housing Plan Element and Fair Share Plan
+                                                                  Borough of South Toms River, Ocean
+
+
+
+(incl., the 2020 US Census and 2019-2023 American Community Survey), the New
+Jersey Department of Labor and Workforce Development, and the North Jersey
+Transportation Planning Authority.
+
+South Toms River's Demographics
+
+The Borough of South Toms River had a population of 3,736 residents at the time of
+the 2023 ACS 5-Year Estimates provided by the US Census. This figure represents
+a 1.41 percent increase over the 2010 US Census population figure of 3,684, which
+represented a 1.4 percent increase from the 2000 US Census population figure of
+3,634. By comparison, Ocean County's population grew by 10.5 percent during the
+period between 2010 and 2020, and 17.9 percent between 1990 and 2000. Table 1
+shows the rate of growth experienced by South Toms River and Ocean County from
+1990 through 2023.
+
+                          Table 1: Population Trends, 1930-2023
+
+                                                                  Percent
+                   Borough of South Toms River,
+                        Ocean County, NJ             Year         Change
+
+
+                   1930                       .             405      —
+
+                   1940                                     445          9.9%
+
+                   1950                                     492          10.6%
+
+                   1960                                 1,603         225.8%
+
+                   1970                                 3,981         148.3%
+
+                   1980                                 3,954            -0.7%
+
+                   1990                                 3,869            -2.1%
+
+                   2000                                 3,634            -6.1%
+
+                   2010                                 3,684            1.4%
+
+                   2020                                 3,643            -1.1%
+
+                   2023                                 3,736            2.6%
+
+                  Source: US Census Bureau
+
+According to the 2023: ACS 5-Year Estimates US, the Borough's population is
+composed of 1,141 households with an average household size of 3.47 members
+(Table 2). The average household size is larger than the State of New Jersey's and
+Ocean County’s average of 2.68 and 2.65 persons per household, respectively. The
+Borough's percentage of population over 65 years of age (7.1 percent) is lower than
+at the county level (23.0%) and the state level (17.7%). The median age of the
+Borough's population of 33.4 years is also lower than the county and state median
+ages of 41.1 years and 40.4 years, respectively.
+
+                               Page 4 (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 8 of 27 Trans ID: LCV20252340652
+
+
+
+                                                                Housing Plan Element and Fair Share Plan
+                                                                    Borough of South Toms River, Ocean
+
+
+
+                            Table 2: Demographic Indicators, 2023
+
+                                                                                          Percent of
+                                 Number of         Average
+                                                                         Median Age       Population
+                                Households      Household Size
+                                                          .                                65 Years·
+
+ Borough of South Toms River            1,141                 3.47                33.4             7.1%
+
+ Ocean County                         245,827                 2.65                42.6             23.0%
+
+ New Jersey                         3,538,457                 2.68                40.4             17.7%
+
+ Source: US Census Bureau
+
+
+As shown in Table 3, there were 272 pre-school age residents in 2023, or 7.3
+percent of the Borough's population. School age children accounted for 889
+residents, or 23.8 percent of the total population. Working aged persons accounted
+for 61 percent of the Borough's population, with 2,279 individuals. Seniors aged 65
+years and older accounted for 7.1 percent of South Toms River's population, with
+261 individuals.
+
+                               Table 3: Population by Age, 2023
+
+                                                          Number                         Percent
+
+ Pre-School Age        .
+ Under 5 Years                                                             272                      7.3%
+
+ School Age
+
+ 5 to 9 Years                                                              171                      4.6%
+
+ 10 to 14 Years                                                            348                      9.4%
+
+ 15 to 19 Years                                                            370                     10.0%
+
+ Working Age
+ 20 to 24 Years                                                            280                       7.6%
+
+ 25 to 34 Years                                                            498                      13.5%
+
+ 35 to 44 Years                                                            534                      14.4%
+
+ 45 to 54 Years                                                            474                      12.8%
+
+ 55 to 59 Years                                                            287                       7.8%
+
+  60 to 64 Years                                                           206                       5.6%
+                                                                     .
+  Senior Age
+  65 Years and Older                                                        261                      7.1%
+
+Source: US Census Bureau
+
+
+
+
+                                 Page 5 (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 9 of 27 Trans ID: LCV20252340652
+
+
+
+                                                                 Housing Plan Element and Fair Share Plan
+                                                                     Borough of South Toms River, Ocean
+
+
+
+South Toms River's Housing Stock
+
+According to 2023 ACS Survey, South Toms River had a total of 1,112 housing units
+(Table 4). This was a decrease of 48 units since the 2010 US Census, from 1,160
+units. Of this total of 1,112 housing units, 1,066 of those units (95.9 percent) were
+listed as being occupied; owners occupied 877 (82.3 percent) of these units, and
+renters occupied 189 units (17.7 percent).
+
+Of the total of 1,141 occupied households, the average household size was 3.47
+persons, and the average family size was 3.65 persons. Of the total number of
+households, family households accounted for 927 units and non-family household
+accounted for 139 units. Householders 65 years of age or older were present in 154
+(14.5 percent) of households.
+
+
+
+             Table 4: Housing Unit Totals and Occupancy Characteristics, 2023
+
+
+                                                          Number                     Percent
+
+ I. Housing Units
+
+ Number of units                                                      1,112                    100.0%
+
+ Occupied Housing Units                                               1,066                    94.7%
+
+ Vacant Housing Units                                                    60                      5.3%
+
+ II. Occupancy/Household Characteristics
+
+ Number of Households                                                 1,066                    100.0%
+
+ Average Persons Per Household                                          3.47                      N/A
+
+ Average Persons Per Family                                              3.0                      N/A
+
+ Family Households                                                      927                     79.1%
+
+ Non-Family Households                                                  139                     20.9%
+
+ Householders 65 and over                                               154                     14.5%
+
+ Source: US Census Bureau
+
+With regard to the age of the Borough's housing stock, it is noted that a total of 15.6
+percent of all housing units were constructed in 1980 or later, and a total of about
+10.5 percent of all housing units were constructed in 2000 or later (Table 5). It is also
+noted that the housing stock has zero (0) units lacking complete plumbing facilities,
+seventy (70) units exhibiting overcrowded conditions (i.e., having at least 1.01
+persons per room), and zero (0) units lacking complete kitchen facilities. The source
+of this information is the 2019-2023 American Community Survey of the US Census
+Bureau.
+                                  Page 6 (Draft: June 9, 2025)
+    OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 10 of 27 Trans ID: LCV20252340652
+
+
+
+                                                                           Housing Plan Element and Fair Share Plan
+                                                                               Borough of South Toms River, Ocean
+
+
+
+    In addition to the above, it is noted that the 2019-2023 American Community
+    Survey of the US Census Bureau indicates that the median value of the owner­
+    occupied housing units in South Toms River is $269,200. This is lower than the
+    median value of $408,000 in Ocean County, and also the median value of $461,000
+    in the State of New Jersey. The 2019-2023 American Community Survey of the US
+    Census Bureau also indicates that South Toms River's median gross rent is $2,019
+    per month; this is higher than the median gross rents of $1,667 in the State of New
+    Jersey and the median gross rent of $1,692 in Ocean County.
+
+
+
+       Table 5: Housing Physical and Value Characteristics, American Community Survey
+                               (2019-2023 Five-year Estimates)
+
+                                                                       Number                   Percent
+
+     I. Year Structure Built (2019-2023 American Community Survey)
+
+     2020 or later                                                                    0                     0%
+
+     2010 or 2019                                                                    13                    1.2%
+
+     2000 to 2009                                                                   103                    9.3%
+
+     1980 to 1999                                                                    57                    5.1%
+
+     1960 to 1979                                                                   707                   63.6%
+
+     1940 to 1959                                                                   191                   17.2%
+
+     1939 or earlier                                                                 41                    3.7%
+    II. Condition of Units and Overcrowding (2019-2023 American Community Survey)
+
+      Lacking complete plumbing facilities                                            0                      0%
+
+      Lacking complete kitchen facilities                                             0                      0%
+
+      Overcrowding (units with 1.01 persons/room}                                     0                      0%
+
+      Ill, Median Home Value (Owner-Occupied Units; 2019-2023 American Community Survey)                      .
+
+      Median Value                                                              269,200                     N/A
+      IV. Median Gross Rent (Renter-Occupied Units; 2019-2023 American Community Survey)
+
+      Median Gross Rent                                                            2,019                    N/A
+      Source: US Census Bureau
+
+
+
+1
+
+
+
+
+                                            Page 7 (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 11 of 27 Trans ID: LCV20252340652
+
+
+
+                                                                Housing Plan Element and Fair Share Plan
+                                                                    Borough of South Toms River, Ocean
+
+
+
+South Toms River's Employment and Income Characteristics
+
+According to the 2019-2023 American Community Survey of the US Census Bureau,
+2,039 of South Toms River's residents aged 16 years and over were employed in the
+civilian labor force. A total of 29.2 percent of those who were employed in the
+civilian labor force were involved in management, business, science, and arts
+occupations, while approximately 22.2 percent were employed in sales and office
+related occupations. Service occupations employed 23.3 percent of South Toms
+River residents that were employed in the civilian labor force. Natural resources,
+construction, and maintenance occupations employed 12.1 percent of the Borough's
+residents, whereas production, transportation, and material moving occupations
+employed 13.2 percent of the Borough's residents.
+
+
+     Table 6: Occupation of Employed Civilian Population, 16 and Over, American
+                 Community Survey (2019-2023 Five-Year Estimates)
+
+                                                                          Number        Percent
+                                        .
+                Management, Business, Science, and Arts Occupations             544         29.2%
+                       .                           ·.
+                                        Sales and Office Occupations            414         22.2%
+
+                                               Service Occupations              435         23.3%
+                                    .
+       Natural Resources, Construction, and Maintenance Occupations             225          12.1%
+
+         Production, Transportation, and Material Moving Occupations            246          13.2%
+
+ Source: US Census Bureau
+
+
+Regarding the number of jobs that are located within the Borough, it is noted that
+the North Jersey Transportation Planning Authority indicates that there was an
+average of 321 jobs located within the municipality in 2015. The number of jobs in
+South Toms River is expected to grow throughout the future. This is indicated by
+recent projections of the NJTPA, which projects a total of 388 jobs by 2050.
+
+Regarding household income, it is noted that South Toms River's median household
+income, as reported by the 2019-2023 American Community Survey of the US
+Census Bureau, is $101,466. This was $35,216 more than the 2015 median
+household income of $66,250. Table 7 provides complete information on the
+income of South Toms River's households in 2023.
+
+
+
+
+                                 Page 8 (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 12 of 27 Trans ID: LCV20252340652
+
+
+
+                                                                      Housing Plan Element and Fair Share Plan
+                                                                          Borough of South Toms River, Ocean
+
+
+
+
+       Table 7: Household Income, American Community Survey (2019-2023 Five-Vear
+                                        Estimates)
+
+                                                                Number                     Percent
+
+                                    Less than $10,000                         19                        1.8%
+
+                                   $10,000 to $14,999                           0                        0%
+
+                                   $15,000 to $24,999                         19                        1.8%
+
+                                   $25,000 to $34,999                         26                        2.4%
+
+                                   $35,000 to $49,999                         58                        5.4%
+
+           .           .           $50,000 to $74,999                        192                        18%
+
+                                   $75,000 to $99,999                        151                      14.2%
+
+                                 $100,000 to $149,999                         406                     38.0%
+
+                  .                 $150,000 or More                         196                       18.4%
+
+               Median Household Income (2023 Dollars)                    101,466                         N/A
+     Source: US Census Bureau
+
+
+
+
+Affordable Housing Obligation
+
+The Borough's affordable housing obligation is described in the following
+subsections.
+
+Present Need
+
+The present need is a measure of overcrowded and deficient housing that is
+occupied by low- and moderate-income households.1 The present need has
+previously been called "rehabilitation share." The present need for the Borough
+of South Toms River is zero (0) units.
+
+
+
+
+ 1     It is acknowledged that a January 18, 2017 ruling of the New Jersey Supreme Court has modified the
+       definition of "present need" to include " ... an analytic component that addresses the affordable
+       housing need of presently existing New Jersey low- and moderate-income households, which formed
+       during the gap period and are entitled to their delayed opportunity to seek affordable housing."
+       However, the township entered into a settlement agreement with the Fair Share Housing Center that
+       was approved by the court before the January 18, 2017 New Jersey Supreme Court ruling.
+       Consequently, this Housing Plan Element and Fair Share Plan continues to define "present need" as a
+       measure of overcrowded and deficient housing that is occupied by low- and moderate-income
+       households and in need of rehabilitation.
+
+                                       Page 9 (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 13 of 27 Trans ID: LCV20252340652
+
+
+
+                                                              Housing Plan Element and Fair Share Plan
+                                                                  Borough of South Toms River, Ocean
+
+
+
+Prior Round Obligation
+
+The prior round obligation covers the period from 2000 through 2024 and is a
+municipality's adjusted third round new construction obligation carried forward to
+the fourth round. The Borough's prior round obligation is zero (0) units.
+
+Prospective Need
+
+The prospective need is a measure of low- and moderate-income housing needs,
+based on development and growth that occurred or is reasonably likely to occur in a
+region or municipality. The prospective need covers the period from 2025 through
+2035. The township's prospective need is thirty-five (35) units, this is established by
+the New Jersey Department of Community Affairs.
+
+
+Ability to Accommodate Affordable Housing Obligation
+
+Through the 2025 Vacant Land Analysis, South Toms River has identified two
+potential development sites. These properties provide an RDP of (4) units.
+
+Besides the two potential sites, the Borough lacks vacant, developable land that is
+suitable for residential use. Based on the Borough’s 2013 Master Plan, South Toms
+River anticipates that future development and growth will predominantly be
+limited to redevelopment activity (incl., reconstruction of existing housing), as
+well as infill development and expansions as may be permitted under the Borough's
+zone plan. Further changes and residential development within the Borough will be
+incremental and small in scale and on scattered sites. The compliance mechanisms
+included in the Borough's Housing Plan Element and Fair Share Plan provide as
+much affordable housing as possible, given the Borough's development character,
+to meet the Borough's affordable housing obligation. Most of the current
+undeveloped land is found to be environmentally sensitive or wetlands and cannot
+be developed into residential uses. The share of residential housing land use within
+the municipality cannot grow any further than it has.
+
+
+Anticipated Land Use Patterns
+
+The Borough of South Toms River is a fully developed community with existing
+and balanced land use pattern. The anticipated land use pattern is expected to be
+consistent with the current adopted land use and zone plans of the Borough.
+
+
+
+
+                              Page 10 (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 14 of 27 Trans ID: LCV20252340652
+
+
+
+                                                              Housing Plan Element and Fair Share Plan
+                                                                  Borough of South Toms River, Ocean
+
+
+
+Anticipated Demand for Types of Uses Permitted by Zoning, Based on Present
+and Anticipated Future Demographic Characteristics
+
+According to 2023 US Census data, 60 of the 1,141 housing units in South Toms River
+were vacant. Of these 60 vacant housing units, none of the total housing stock were for
+seasonal, recreational, or occasional use. All of these units are being used for “Other
+Vacant” uses. This includes, but is not limited, to the owner making repairs or renovations
+and not occupying the residence, using the unit for storage, or elderly owners that are
+living with family or in a nursing home.
+
+As has been previously demonstrated, South Toms River's population has grown
+in the period since 2000, by approximately 102 residents, or around 2.8 percent.
+The North Jersey Transportation Planning Authority projects that the Borough's
+population could rise to 3,999 by 2050, which represents an increase of residents,
+or around 3.2 percent, over the population of 3,736 that was reported in the 2023
+ACS Community Survey.
+
+Since South Toms River is a developed community, the projected residential and
+non-residential growth is expected to be the result of limited infill and small-scale
+private redevelopment efforts.
+
+Availability of Existing and Planned Infrastructure
+
+The Borough is a fully developed community and has a developed infrastructure.
+Water and sewer service are available throughout the Borough. As has been
+previously stated, South Toms River anticipates that future development and
+growth will predominantly be limited to redevelopment activity (incl., reconstruction
+of existing housing), as well as infill development and expansions as may be
+permitted under the Borough's zone plan. The Borough contains sections of both
+US Highway Route 9 and The Garden State Parkway which play a large role in
+their infrastructure system.
+
+Economic Development Policies
+
+The Borough has limited land for commercial development; however, the Borough
+has encouraged redevelopment to commercial areas through the adoption of new
+design standards. The economic goals set forth in the Borough’s 2013 Master Plan
+include broadening the tax base through commercial uses that are compatible with a
+residential community like that found throughout the Borough, strengthening retail
+and service trade, concentrating economic and commercial uses into existing
+centers of commerce. The Borough is currently looking into expanding the Special
+Economic Zone. The Borough policy is to provide for economic development that
+is beneficial to the community, permitted by the Borough zone plan, and
+compatible with the overall goals and objectives of the Borough's master plan.
+
+
+                              Page 11 (Draft: June 9, 2025)
+OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 15 of 27 Trans ID: LCV20252340652
+
+
+
+                                                             Housing Plan Element and Fair Share Plan
+                                                                 Borough of South Toms River, Ocean
+
+
+
+Constraints on Development
+
+The Borough contains several environmental features that are constraints to
+development, including water bodies and flood hazard areas. Generally, these
+environmentally constrained areas are located along the Toms River and Jakes Branch
+
+Tributary. The Borough also contains areas in the CAFRA Coastal Planning area,
+which results in additional regulatory constraints on development. Many of the
+vacant lots found through the Vacant Land Analysis, if not environmentally
+constrained, were undersized and could not then support Affordable Housing
+Development. These lots could still be bought in the future for private
+development, providing that the use complies with the area the property is found
+in. The biggest constraint on development is the lack of vacant land within the
+Borough.
+
+
+Identification of Affordable Housing Sites
+Through the Vacant Land Analysis Report, found later in this document, there are 2
+vacant lots of sufficient size and suitability to support new development with
+affordable housing. These are Block 15, Lot 3 and Block 10, Lot 18. These two
+properties have a realistic development potential (RDP) of 3 and 1 respectively.
+
+The Borough must obtain 25% of their unmet need, which totals eight (8) units needed
+to satisfy the Fourth Round Obligations. This comes from the original unmet need for
+the Fourth-Round totaling (35) units minus the (4) units expected from the identified
+site. The Borough will address its unmet need of (31) units through a combination of
+credits from existing affordable housing units and encouraging development and
+redevelopment in residential zones.
+
+
+
+
+                             Page 12 (Draft: June 9, 2025)
+   OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 16 of 27 Trans ID: LCV20252340652
+
+
+
+                                                                  Housing Plan Element and Fair Share Plan
+                                                                      Borough of South Toms River, Ocean
+
+
+
+
+Fair Share Plan
+The fair share plan outlines the mechanisms by which the Borough proposes to fulfill its:
+present and prospective needs, which is a measure of overcrowded and deficient housing
+that is occupied by low- and moderate-income households1; prior round obligation; and,
+prospective need, which is a measure of low and moderate-income housing needs based
+on development and growth that occurred or is reasonably likely to occur in a region or
+municipality.
+
+
+
+Fulfillment of the Present Need
+
+As has been previously noted, the Borough's present need is zero (0) units.
+
+
+Fulfillment of the Unmet Need (Prospective Need Obligations)
+
+The difference between the Borough's affordable housing obligation and its RDP is known
+as unmet need. South Toms River's unmet need is calculated as the sum of its prior round
+obligation and prospective need. The prior round obligation covers the period from 2000
+through 2024, and is a municipality's adjusted third round new construction obligation
+carried forward to the fourth round. The Borough's prior round obligation is (0) units.
+
+The prospective need is a measure of low- and moderate-income housing needs, based on
+development and growth that occurred or is reasonably likely to occur in a region or
+municipality. The prospective need covers the period from 2025 through 2035. The
+township's prospective need is (35) units.
+
+The resulting unmet need from the prior round obligation and prospective need is (35)
+units. After factoring in the Vacant Land Analysis Report finding an RDP of (6) units, the
+unmet need then becomes (29) units. The Borough proposes to address its unmet need of
+(29) units through credits from existing units and encouraging development and
+redevelopment in residential zones.
+
+
+
+Description of the Affordable Housing Site
+
+Block 10, Lots 13, 17, 18, and 21 are contiguous and share a total area of 2.16 Acres. All of
+these properties appear within the R-10, Medium Density Residential, Zone which has the
+primary use of Single-Family Dwellings.
+
+
+                                  Page 13 (Draft: June 9, 2025)
+   OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 17 of 27 Trans ID: LCV20252340652
+
+
+
+                                                                   Housing Plan Element and Fair Share Plan
+                                                                       Borough of South Toms River, Ocean
+
+
+
+To keep with the existing character of the rest of the Borough but to also accommodate
+affordable housing, a mixture of SDF’s, duplexes or row homes, and small apartments
+would meet those criteria. The Borough has many options on this site for housing layouts
+and any possible developer can take it in many different directions to fit the Borough’s
+current need.
+
+
+
+
+Pictured above is a potential building layout for the Dover Road neighborhood of
+contiguous lots, Block 10, Lots 13, 17, 18, and 21. There is potential for at least three (3)
+SFD’s and one (1) larger site with multiple dwellings and an access road connecting to
+Mill Street. This is not a final layout, but an approximation of how the site may be
+developed. Within our Vacant Land Analysis, found later in this document, we outline
+that this site of contiguous lots has the potential to support thirteen (13) total units with
+three (3) of those units being designated affordable. Based on this potential site layout,
+there are six (6) units able to be supported and all of them will be designated affordable
+units. Depending on the final site layout, this number is subject to change.
+
+
+
+
+                                   Page 14 (Draft: June 9, 2025)
+       OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 18 of 27 Trans ID: LCV20252340652
+
+
+
+
+           2025 VACANT LAND ANALYSIS REPORT
+                                                                 Prepared For:
+
+                                      Borough of South Toms River
+                                           Ocean County, New Jersey
+                                                              Dated: April 23, 2025
+
+
+
+
+ Prepared by:
+
+
+
+
+_____________________________________________
+Mark Rohmeyer P.E., P.P., C.M.E.
+Morgan Municipal, LLC
+137 Central Avenue, Island Heights, NJ 08732
+
+The original of this document has been signed and sealed in accordance with New Jersey Law.
+
+
+
+                                                                                              1
+        OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 19 of 27 Trans ID: LCV20252340652
+
+
+
+
+Re:           Fourth Round of Affordable Housing Obligations – Vacant Land Analysis
+              South Toms River, Ocean County, NJ
+              Morgan Municipal Project No. STOM25-01
+
+
+
+
+                                                                         Introduction
+      Municipalities may request an adjustment to their affordable housing obligations due to a lack of
+      available vacant and developable land. Pursuant to N.J.A.C. 5:93-4.2, municipalities requesting such
+      an adjustment must submit an inventory of vacant and undeveloped parcels by lot and block,
+      including property ownership and acreage. Although the Council on Affordable Housing (COAH) is
+      no longer operational, the process of seeking adjustments remains based on established regulations.
+
+      In recognition of the need to provide the opportunity to adjust municipal affordable housing
+      obligations, N.J.A.C. 5:93 outlines standards and procedures for municipalities to demonstrate that
+      a municipal response to its housing obligation is limited by lack of land, water, or sewer. This report
+      outlines the methodology and summarizes the results of the vacant land analysis prepared on behalf
+      of the Borough of South Toms River by Morgan Municipal, LLC.
+
+      In order to demonstrate the lack of vacant, developable land in South Toms River Borough, the
+      Borough has identified all vacant parcels currently existing within its borders through 2025 data from
+      the Borough Tax Assessor’s office and has listed each parcel on the vacant land inventory table in
+      accordance with N.J.A.C. 5:93-4.2(b) (see Appendix A).
+
+      A vacant land map depicting vacant properties within the Borough is included as Appendix B.
+
+      An existing land use map for the Borough has been appended to this report as Appendix C in
+      accordance with N.J.A.C. 5:93-4.2(a).
+
+      This document serves as the Borough of South Toms River Vacant Land Inventory and Analysis to
+      reflect the conditions in 2025. Morgan Municipal, LLC has analyzed the Realistic Development
+      Potential (RDP) of the remaining vacant lands within the Borough in accordance with the provisions
+      of Subchapter 4 of N.J.A.C. 5:93.
+
+          •       According to the Affordable Housing Obligation for 2025-2035 (Fourth Round), the
+                  Borough has a present RDP need of zero (0) and a prospective RDP need of thirty-five (35).
+
+Our office has taken into consideration sites that have changed in circumstances since the previous
+Vacant Land Analysis that was done in reference to the 3rd Round of Affordable Housing. We did not
+determine any sites that had changed significantly enough to warrant redevelopment on the site.
+
+
+
+
+                                                                                                      Page 2 of 10
+        OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 20 of 27 Trans ID: LCV20252340652
+
+
+
+
+Re:        Fourth Round of Affordable Housing Obligations – Vacant Land Analysis
+           South Toms River, Ocean County, NJ
+           Morgan Municipal Project No. STOM25-01
+
+
+
+
+                                                            Permitted Exclusions
+      This Vacant Land Inventory is prepared in accordance with N.J.A.C. 5:93, which establishes criteria
+      by which sites, or portions thereof, in a municipal land inventory may be excluded from a
+      municipality’s RDP.
+
+      The Borough has provided the inventory, including the: block, lot, address, owner’s name, current
+      zone, total lot acreage, total acreage suitable for development (uplands) and total acreage unsuitable
+      for development (constraints) for each vacant property based on current Borough property tax
+      records (See Vacant Land Inventory in Appendix).
+
+      As provided by N.J.A.C. 5:93-4.2.c, lands meeting certain specified criteria may also be excluded from
+      the Inventory. The following criteria were used to further exclude vacant properties from the
+      Inventory:
+       1) Minimum Lota Area to meet Density - Vacant contiguous publicly or privately-owned parcels
+           where the merged total could not accommodate at least 5 dwelling units at a minimum density
+           of 6 units per acre (less than 0.83 acres);
+       2) ROSI or Green Acres Designation - Parcels engaged with the Green Acres program may also be
+           excluded
+       3) Prior Round RDP - Properties that were included in the Prior Round RDP based on the 1997 Vacant
+           Land Inventory.
+       4) Previously Site Plan Approved - Vacant lots under development or properties for which site plan
+           approval has been granted may also be excluded.
+       5) Landlocked parcels - or sites with limited or no access
+       6) Environmentally sensitive lands, including flood hazard areas, wetlands, and areas characterized
+           by steep slopes of greater than 15 percent, which limits the contiguous developable uplands area
+           to less than 0.83 acres. Additionally, groundwater contamination areas have been included.
+       7) Constructed / No Longer Vacant – properties that have been determined to have development
+           occur within the parcel. Determination of development was made based on a review of the vacant
+           land analysis.
+
+      It should be noted that the Borough is permitted to reserve up to three percent of its total
+      developed and developable acreage, less existing active municipal recreation areas, for active
+      municipal recreation and exclude this acreage from consideration as potential sites for low- and
+      moderate-income housing pursuant to N.J.A.C. 5:93-4.2(e)4. Any such site designated for active
+      recreation in accordance with this section must be purchased and limited to active recreational
+      purposes within one year of substantive certification. Although this calculation has not been
+      completed as part of this analysis, the Borough reserves the right to revise this analysis to
+      complete this calculation
+
+
+
+
+                                                                                                     Page 3 of 10
+      OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 21 of 27 Trans ID: LCV20252340652
+
+
+
+
+Re:       Fourth Round of Affordable Housing Obligations – Vacant Land Analysis
+          South Toms River, Ocean County, NJ
+          Morgan Municipal Project No. STOM25-01
+
+
+
+
+                                                                    Methodology
+      The Borough has identified all vacant parcels currently existing within its borders through data from
+      the Borough Tax Assessor’s office. The following information summarizes our findings:
+           (64) Vacant Private & Borough Lots exist within the Borough of South Toms River.
+
+
+      METHOD 1: Minimum Lot Area to meet Density
+      As per N.J.A.C. 5:93-4.1f, properties may be excluded from the RDP if the minimum density to be
+      applied to developable acres is less than 6 dwelling units per acre (this excludes lots less than 0.83
+      acres).
+
+      a) Of the (64) Vacant Lots in the Borough, (42) are less than 0.83 acres. Therefore, this results in a
+         total of (22) Vacant & Sufficient Area Lots.
+
+
+      METHOD 2: ROSI (Registered Open Space Inventory) or Green Acres Designation
+      As per N.J.A.C. 5:93-4.2, properties may be excluded from the RDP if the parcels are engaged with the
+      Green Acres program. According to the 2011 Open Space, Recreation and Conservation Element of
+      the Master Plan, Borough of South Toms River has a total of 7 Lots recorded in the ROSI Inventory
+      list.
+
+      a) Out of the remaining (22) lots available for RDP analysis, (1) lots are on the ROSI list. Therefore,
+         this results in a total of (21) lots left available for RDP analysis.
+
+
+      METHOD 3: Prior Round RDP
+      As per N.J.A.C. 5:93-4.2, properties may be excluded from the RDP if the lots were included in the
+      prior round RDP based on the Vacant Land Inventory.
+
+      The following lot(s) are currently listed as vacant which was part of the 3rd Round and have since been
+      nearing completion or fully completed for construction:
+      1. None
+
+      a) Out of the remaining (21) lots available for RDP analysis, (0) lot has been nearing completion
+         or fully completed from the Prior Round RDP. Therefore, this results in a total of (21) lots left
+         available for RDP analysis.
+
+
+      METHOD 4: Previously Site Plan Approved
+      As per N.J.A.C. 5:93-4.2, properties may be excluded from the RDP if a Site Plan has previously been
+      approved:
+
+      We note the following Block & lots were currently listed as vacant, but have received site Plan
+      Approval:
+      1. Block 20, Lot 11.03 – The Lofts at South Toms River
+
+                                                                                                      Page 4 of 10
+      OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 22 of 27 Trans ID: LCV20252340652
+
+
+
+
+Re:       Fourth Round of Affordable Housing Obligations – Vacant Land Analysis
+          South Toms River, Ocean County, NJ
+          Morgan Municipal Project No. STOM25-01
+
+
+
+
+      a) Out of the remaining (21) lots available for RDP analysis, (1) additional sites are being excluded
+         due to previous site plan approval. Therefore, this results in a total of (20) lots left available for
+         RDP analysis.
+
+
+      METHOD 5: Landlocked parcels
+      Landlocked parcels or sites with limited or no access may also be excluded from the calculation of the
+      RDP.
+
+      a) Out of the remaining (20) lots available for RDP analysis, (2) lots are being excluded due to the
+         parcel being landlocked. Therefore, this results in a total of (18) lots left available for RDP
+         analysis.
+
+
+      METHOD 6: Environmentally sensitive lands
+
+      METHOD 6.1: Wetlands
+      As per N.J.A.C. 5:93-4.2, properties may be excluded from the RDP if a parcel contains inland wetlands
+      which render a site unsuitable for low- and moderate-income housing.
+
+      a) Out of the remaining (18) lots available for RDP analysis, (1) lot(s) are being excluded due to
+         wetlands. The wetlands on these parcels minimized the buildable lot area to be below the 0.83-
+         acre threshold. Therefore, this results in a total of (17) lots left available for RDP analysis.
+
+
+      METHOD 6.2: Steep Slope
+      As per N.J.A.C. 5:93-4.2, properties may be excluded from the RDP if a parcel contains steep slopes
+      (in excess of 15%) which render a site unsuitable for low- and moderate-income housing.
+
+      a) Parcels have been analyzed for steep slope exclusions. Out of the remaining (17) lots available
+         for RDP analysis, (0) lots are being excluded due to steep slope. Steep slope(s) have been located;
+         this results in a total of (17) lots left available for RDP analysis.
+
+      METHOD 6.2: Groundwater Contamination Area
+      Parcels with groundwater contamination which render a site unsuitable for low- and moderate-income
+      housing may also be excluded from the calculation of the RDP.
+
+      We note the following Block & lots were currently listed as vacant, but have been excluded due to
+      groundwater contamination:
+      1. Block 20, Lot 1.04 (Former Landfill)
+      2. Block 20, Lot 1.05 (Former Landfill)
+
+      a) Out of the remaining (17) lots available for RDP analysis, (2) lot(s) is being excluded due to
+         groundwater contamination. The groundwater contamination on these parcel(s) minimized the
+         buildable lot area to be below the 0.83-acre threshold. Therefore, this results in a total of (15)
+         lots left available for RDP analysis.
+
+
+                                                                                                        Page 5 of 10
+      OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 23 of 27 Trans ID: LCV20252340652
+
+
+
+
+Re:       Fourth Round of Affordable Housing Obligations – Vacant Land Analysis
+          South Toms River, Ocean County, NJ
+          Morgan Municipal Project No. STOM25-01
+
+
+
+
+      METHOD 7: Constructed / No longer vacant
+      Parcels or sites that have been determined to have development occur within the parcel may also be
+      excluded from the calculation of the RDP.
+
+      We note the following Block & lots were currently listed as vacant, but have been excluded due to
+      being no longer vacant:
+      1. Block 6, Lot 1.04
+      2. Block 8.04, Lot 1
+      3. Block 10, Lot 10.01
+      4. Block 10, Lot 22
+      5. Block 10, Lot 24
+      6. Block 12, Lot 35
+      7. Block 15, Lot 2
+      8. Block 20, Lot 1.03
+      9. Block 22, Lot 9
+
+      a) Out of the remaining (15) lots available for RDP analysis, (9) lots are being excluded due to
+         development within the parcel, or the parcel is no longer vacant. Therefore, this results in a total
+         of (6) lots left available for RDP analysis.
+
+
+
+
+                                                                                                      Page 6 of 10
+      OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 24 of 27 Trans ID: LCV20252340652
+
+
+
+
+Re:     Fourth Round of Affordable Housing Obligations – Vacant Land Analysis
+        South Toms River, Ocean County, NJ
+        Morgan Municipal Project No. STOM25-01
+
+
+
+
+                                                      Summary & Conclusion
+This analysis reveals that the Borough has (6) vacant and developable sites which yield an RDP of six
+(6), which is less than the required RDP number of thirty-five (35).
+
+Thus, the Borough does NOT have the sufficient amount of land to meet the required obligation.
+
+
+
+
+                                                                                               Page 7 of 10
+      OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 25 of 27 Trans ID: LCV20252340652
+
+
+                                                                                   8
+
+
+
+
+APPENDICES
+
+
+
+
+             A. Vacant Land Inventory Table
+          OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 26 of 27 Trans ID: LCV20252340652
+
+
+                                                                                                                        9
+
+
+
+
+                                                                                       Source: NJ MAP Parcel Explorer
+
+
+
+
+B. Vacant Land Map
+                         OCN-L-001010-25 08/26/2025 3:43:57 PM Pg 27 of 27 Trans ID: LCV20252340652
+
+
+
+                                                                                                      10
+
+
+
+
+C. Existing Zoning Map
+

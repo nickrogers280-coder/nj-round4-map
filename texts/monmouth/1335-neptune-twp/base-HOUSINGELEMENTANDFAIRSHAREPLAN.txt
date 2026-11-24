@@ -1,0 +1,1689 @@
+MON-L-000477-25 06/26/2025 3:01:14 PM Pg 1 of 40 Trans ID: LCV20251861228
+MON-L-000477-25 06/26/2025 3:01:14 PM Pg 2 of 40 Trans ID: LCV20251861228
+MON-L-000477-25 06/26/2025 3:01:14 PM Pg 3 of 40 Trans ID: LCV20251861228
+
+
+
+
+                        Township Committee
+                        Robert Lane, Jr., Mayor
+                    Kevin McMillan, Deputy Mayor
+                            Jason A. Jones
+                            Derel M. Stroud
+                            Tassie D. York
+
+
+                           Planning Board
+                             Bryan Acciani
+                            Patrick Gilliam
+                             Richard Culp
+                               Lisa Boyd
+                        Stephanie Oppegaard
+                          Bishop Paul Brown
+                        Robert Lane, Jr., Mayor
+                             Dyese Davis
+                         Richard Schlossbach
+                        Roslyn Hurt-Steverson
+
+
+              Township Planning Board Professionals
+                 Mark G. Kitrick, Esq., Board Attorney
+            Peter R. Avakian, PE, PP, CME, Board Engineer
+             Jennifer C. Beahm, PP, AICP, Board Planner
+                Heather Kepler, Board Administrator
+
+
+                            Project Team
+                      Jennifer Beahm, PP, AICP
+                    Christine Bell, PP, AICP, CFM
+                           Matthew Joyner
+       MON-L-000477-25 06/26/2025 3:01:14 PM Pg 4 of 40 Trans ID: LCV20251861228
+
+
+
+
+Contents
+INTRODUCTION ....................................................................................................................... 1
+MUNICIPAL SUMMARY ............................................................................................................ 3
+DEMOGRAPHIC CHARACTERISTICS...................................................................................... 4
+   POPULATION ........................................................................................................................ 4
+      Population Composition by Age .......................................................................................... 4
+   HOUSEHOLDS ...................................................................................................................... 6
+   INCOME ................................................................................................................................. 8
+   HOUSEHOLD COSTS ........................................................................................................... 9
+EXISTING HOUSING CONDITIONS.........................................................................................10
+   HOUSING UNIT DATA ..........................................................................................................10
+      Housing Type and Size ......................................................................................................11
+      Housing Values and Contract Rents ..................................................................................12
+      Housing Conditions ............................................................................................................13
+   EMPLOYMENT DATA ...........................................................................................................15
+Lands Most Appropriate for Affordable Housing ........................................................................20
+      Infrastructure......................................................................................................................20
+      Anticipated Demand and Land Use Patterns ......................................................................20
+      Environmental Constraints .................................................................................................21
+      Historic ...............................................................................................................................21
+   EXISTING LAND USE DESIGNATIONS ...............................................................................22
+   CONSISTANCY WITH THE STATE PLAN ............................................................................28
+Fair Share Plan .........................................................................................................................30
+   FAIR SHARE OBLIGATION SUMMARY ...............................................................................30
+   SATISFACTION OF PRIOR ROUND OBLIGATION ..............................................................30
+   SATISFACTION OF THIRD ROUND OBLIGATION ..............................................................31
+      Age-Restricted Rental Units ...............................................................................................31
+      Family Rental Units ............................................................................................................32
+      For Sale Units ....................................................................................................................32
+      Supportive and Special Needs Housing .............................................................................32
+   FOURTH ROUND OBLIGATION ...........................................................................................33
+      Satisfaction of the Township’s Realistic Development Potential .........................................33
+      Satisfaction of the Township’s Unmet Need .......................................................................34
+Appendices ...............................................................................................................................35
+   Appendix A. Vacant Land Adjustment
+   Appendix B. Tides at Memorial Draft Ordinance
+      MON-L-000477-25 06/26/2025 3:01:14 PM Pg 5 of 40 Trans ID: LCV20251861228
+
+
+
+
+   Appendix C. Faith Ventures Draft Ordinance
+   Appendix D. Mandatory Set Aside Ordinance
+   Appendix E. Overlay Zone Ordinance
+   Appendix F. Development Fee Ordinance
+   Appendix G. Affordable Housing Ordinance
+   Appendix H. Spending Plan.
+   Appendix I. Neptune Township Home Improvement Program Rehab Manual
+   Appendix J. Affordability Assistance Program Manual
+   Appendix K. Operating Manual for Sale Units
+   Appendix L. Affirmative Marketing Plan
+
+
+
+
+List of Tables
+TABLE 1: POPULATION TRENDS, 1940-2050.................................................................................... 4
+TABLE 2: POPULATION BY AGE COHORT, NEPTUNE, 2010-2023 ....................................................... 5
+TABLE 3: POPULATION BY AGE COHORT, MONMOUTH COUNTY, 2010-2023 ................................... 6
+TABLE 4: MEDIAN AGE, 2010 - 2023 .............................................................................................. 6
+TABLE 5: HOUSEHOLD CHARACTERISTICS ........................................................................................ 7
+TABLE 6: HOUSEHOLDS BY TYPE (2023) .......................................................................................... 7
+TABLE 7: PER CAPITA INCOME AND MEDIAN HOUSEHOLD INCOME, 2010-2023 ................................ 8
+TABLE 8: HOUSEHOLD INCOME DISTRIBUTION................................................................................. 9
+TABLE 9: MONTHLY OWNER COSTS AS A ......................................................................................10
+TABLE 10: GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME, 2023 ....................................10
+TABLE 11: OCCUPANCY DATA, 2023 .............................................................................................11
+TABLE 12: AGE OF HOUSING, 2023 ..............................................................................................11
+TABLE 13: HOUSING UNITS BY TYPE, 2023 ....................................................................................12
+TABLE 14: VALUE OF OWNER-OCCUPIED HOUSING UNITS, 2023 ....................................................13
+TABLE 15: GROSS RENT PAID, 2023 ..............................................................................................13
+TABLE 16: HOUSING DEFICIENCY CHARACTERISTICS, 2023..............................................................14
+TABLE 17: BUILDING PERMITS AND DEMOLITION PERMITS ISSUED, 2004 - 2023 ................................14
+TABLE 18: EMPLOYMENT STATUS, 2023 .........................................................................................15
+TABLE 19: CLASSIFICATION OF WORKERS IN NEPTUNE, 2023..........................................................15
+TABLE 20: WORKFORCE BY SECTOR, 2023 ....................................................................................16
+TABLE 21: COMPARISON OF WORKFORCE BY SECTOR ...................................................................17
+TABLE 22: OCCUPATIONS BY TYPE, 2023 ......................................................................................17
+TABLE 23: TRAVEL TIME TO WORK, 2023 .......................................................................................18
+TABLE 24: MEANS OF COMMUTE, 2023 .........................................................................................18
+TABLE 25: PROJECTED EMPLOYMENT, MONMOUTH COUNTY, 2032 .................................................19
+TABLE 26: FAIR SHARE OBLIGATION SUMMARY ..............................................................................30
+TABLE 27: THIRD ROUND OBLIGATION SUMMARY ..........................................................................31
+TABLE 28: FOURTH ROUND OBLIGATION COMPLIANCE SUMMARY ..................................................33
+MON-L-000477-25 06/26/2025 3:01:14 PM Pg 6 of 40 Trans ID: LCV20251861228
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 7 of 40 Trans ID: LCV20251861228
+
+
+
+
+INTRODUCTION
+
+In the case of Southern Burlington County NAACP v. the Township of Mount Laurel,
+(commonly known as Mount Laurel I), the New Jersey Supreme Court established the
+doctrine that developing municipalities in New Jersey have a constitutional obligation to
+provide a realistic opportunity for the construction of low and moderate income housing in
+their communities. In its Mount Laurel decision, decided on January 20, 1983 (Mount Laurel
+II), the Supreme Court expanded the Mount Laurel doctrine by stating that this
+constitutional responsibility extended to all municipalities in New Jersey. The Court also
+established various remedies, including the “builder remedy” or court-imposed zoning, to
+ensure that municipalities affirmatively addressed this obligation.
+
+In response to the Mount Laurel II decision, the New Jersey Legislature adopted the Fair
+Housing Act in 1985 (Chapter 222, Laws Of New Jersey, 1985). The Fair Housing Act
+established a Council on Affordable Housing (COAH) as an administrative alternative to the
+courts. COAH was also given the responsibility of establishing various housing regions in
+the state, determining regional and municipal fair share affordable housing obligations and
+adopting regulations establishing the guidelines and approaches that municipalities may
+use in addressing their affordable housing need.
+
+Under COAH’s regulations, low income households are defined as those with incomes no
+greater than 50 percent of the median household income, adjusted for household size, of
+the housing region in which the municipality is located, and moderate-income households
+are those with incomes no greater than 80 percent and no less than 50 percent of the
+median household income, adjusted for household size, of the housing region. For the
+Township of Neptune, the housing region is defined by COAH as Region 4 and is comprised
+of Mercer, Monmouth, and Ocean counties. For 2024, the Region 4 median income for a
+four-person household is $130,054, the moderate-income limit is $104,043, the low-
+income limit is $65,027, and the very low income limit is $39,016.
+
+Pursuant to both the Fair Housing Act and the Municipal Land Use Law (MLUL),
+municipalities in New Jersey are required to include a housing element in their master
+plans. The principal purpose of the housing element is to provide for methods of achieving
+the goal of access to affordable housing to meet the municipality’s low- and moderate-
+income housing needs. The statutory required contents of the housing element are:
+
+   •   An inventory of the municipality’s housing stock by age, condition, purchase or
+       rental value, occupancy characteristics, and type, including the number of units
+       affordable to low- and moderate- income households and substandard housing
+       capable of being rehabilitated;
+   •   A projection of the municipality’s housing stock, including the probable future
+       construction of low- and moderate-income housing, for the ten years, taking into
+       account, but not necessarily limited to, construction permits issued, approvals of
+MON-L-000477-25 06/26/2025 3:01:14 PM Pg 8 of 40 Trans ID: LCV20251861228
+
+
+
+
+    applications for development and probable residential development of lands;
+•   An analysis of the municipality’s demographic characteristics, including but not
+    necessarily limited to, household size, income level and age;
+•   An analysis of the existing and probable future employment characteristics of the
+    municipality;
+•   A determination of the municipality’s present and prospective fair share for low-
+    and moderate-income housing and its capacity to accommodate its present and
+    prospective housing needs, including its fair share for low- and moderate-income
+    housing; and
+•   A consideration of the lands that are most appropriate for construction of low-
+    and moderate-income housing and of the existing structures most appropriate for
+    conversion to, or rehabilitation for low- and moderate-income housing, including a
+    consideration of lands of developers who have expressed a commitment to provide
+    low- and moderate-income housing.
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 9 of 40 Trans ID: LCV20251861228
+
+
+
+
+MUNICIPAL SUMMARY
+The Township of Neptune is an 8.13 square mile, diverse, suburban, community located in
+the southern half of Monmouth County, directly abutting the Atlantic Ocean. It is bordered
+by the City of Asbury Park, to the north-east, Ocean Township, to the north, the Borough of
+Avon-By-The-Sea and the Borough of Bradley Beach, to the east, the Borough of Tinton Falls,
+to the west, Wall Township, to the south, and the Borough of Neptune City, towards the
+central portion of the Township, lying directly on the Shark River to the east. The Borough of
+Belmar shares a maritime border with Neptune along the Shark River, to the south-east.
+Neptune is a Jersey Shore Town, and its land uses are typical of a suburban coastal
+community and consist mostly of residential areas with commercial uses located along
+major transportation corridors including NJ Route 35, Asbury Avenue, NJ Route 66, and NJ
+Route 33.
+
+Most of the Township is located inland, except for the small historic district/ Victorian
+beachfront neighborhood of Ocean Grove, and the Shark River Hills/Island areas. Ocean
+Grove is an unincorporated community and Census Designated Place within Neptune
+Township and had 2023 population of 2,916.
+
+Neptune had a population of 28,108 in 2023, according to the U.S. Census Bureau’s
+American Community Survey Demographics and Housing Estimates. Neptune has a
+population density of 3,453 persons per square mile of land area, which is higher than
+Monmouth County’s overall density of 1,375 persons per square mile.
+
+Neptune grew older between 2010 and 2023, with a 2010 median age of 41.6, and a 2023
+median age of 45.6 years of age. The Township’s 2023 median household income estimate
+of $90,827 was lower than that of the County ($122,727) and that of the State ($101,050). In
+the guidelines established by the COAH, Neptune Township is located in affordable housing
+Region 4 which is comprised of Mercer, Monmouth, and Ocean Counties.
+          MON-L-000477-25 06/26/2025 3:01:14 PM Pg 10 of 40 Trans ID: LCV20251861228
+
+
+
+
+     DEMOGRAPHIC CHARACTERISTICS
+
+     POPULATION
+     In 2023, the Township of Neptune had a total population of 28,180. This number
+     represented a net increase of 255 individuals or 0.9 percent since the 2010 Census. During
+     this same time Monmouth County experienced a population increase of 2.5 percent, and a
+     net increase of 15,503 individuals. Neptune’s population grew steadily from 1940 through
+     1970 but had begun to slow by the year 1980.
+     The decade of the 1960s saw Neptune experience its greatest overall population increase,
+     adding 7,874 new residents, growing by 57.8 percent. The decade of the 2000s would see
+     Neptune’s largest recorded decline in population, losing 458 residents, or 1.6 percent of the
+     Township’s population. The 2023 estimated population of 28,108 represented
+     approximately 4.4 percent of the total population of Monmouth County. The total
+     population pattern over time for Neptune, Monmouth County, and the State of New Jersey
+     are detailed below.
+                                    TABLE 1: POPULATION TRENDS, 1940-2050
+                      Neptune                           Monmouth County                New Jersey
+ Year                       Change                               Change                       Change
+           Population                              Population                Population
+                       Number Percent                         Number Percent             Number Percent
+ 1940         10,207           -           -        161,238           -        -    4,160,165       -          -
+ 1950         13,613        3,406       33.4%       225,327        64,089   39.7%   4,835,329    675,164    16.2%
+ 1960         21,487        7,874       57.8%       334,401       109,074   48.4%   6,066,782   1,231,453   25.5%
+ 1970         27,863        6,376       29.7%       461,849       127,448   38.1%   7,171,112   1,110,330   18.2%
+ 1980         28,366         503         1.8%       503,173        41,324    8.9%   7,365,011    193,899     2.7%
+ 1990         28,148        -218        -0.8%       553,124        49,951    9.9%   7,730,188    365,177     5.0%
+ 2000         27,690        -458        -1.6%       615,301        62,177   11.2%   8,414,350    684,162     9.0%
+ 2010         27,925         235         0.8%       628,112        12,811    2.1%   8,721,577    307,227     3.7%
+2020*         27,547        -378        -1.4%       620,821        -7,291   -1.2%   8,885,418    163,841     1.9%
+2023*         28,108         561         2.1%       643,615        15,503    2.5%   9,267,014    545,437     6.3%
+2050**        29,626        1,518        5.4%       669,624        26,009    4.4%       -           -          -
+Source: U.S. Census Bureau Decennial Census (table DP-1)
+NJSDC 2000 Census Publication: New Jersey Population Trends 1790 to 2000
+*U.S. Census Bureau, 2010-2023 ACS 5-Year Estimates (table DP05)
+**Projections from North Jersey Transportation Planning Authority
+
+     Population Composition by Age
+
+     The age composition of Neptune has shifted noticeably since the 2010 Census. According
+     to American Community Survey 2023 5-Year Estimates, significant changes occurred in
+     many age groups. Children and young adults, aged 5 to 19, saw substantial declines, as did
+     the 44 to 54 year old adult population and the 75 to 84 year old population. The largest
+     percent decrease (-37.7%) was seen among adolescents aged 10 to 14 years old, followed
+     closely by the 45 to 54 demographic which experienced a 36.5 percent decrease.
+
+     In terms of growth, the greatest gains were seen in the 60-64 demographic, which
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 11 of 40 Trans ID: LCV20251861228
+
+
+
+
+experienced a 94.3 percent increase. With the exception of persons aged 75-84, every age
+demographic over 55 years experienced positive growth from the time of the 2010 Census.
+
+                  TABLE 2: POPULATION BY AGE COHORT, NEPTUNE, 2010-2023
+                                           2010                          2023                     Change 2010-2023
+         Population                                                                               Number
+                                Number           Percent       Number           Percent                      Percent
+ Total population                 27,925         100.0%         28,108          100.0%               183       0.7%
+ Under 5 years                     1,874           6.7%          1,410            5.0%              -464     -24.8%
+ 5 to 9 years                      1,710           6.1%          1,639            5.8%               -71      -4.2%
+ 10 to 14 years                    1,726           6.2%          1,075            3.8%              -651     -37.7%
+ 15 to 19 years                    1,964           7.0%          1,552            5.5%              -412     -21.0%
+ 20 to 24 years                    1,333           4.8%          1,695            6.0%               362      27.2%
+ 25 to 34 years                    2,969          10.6%          3,096           11.0%               127       4.3%
+ 35 to 44 years                    3,551          12.7%          3,414           12.1%              -137      -3.9%
+ 45 to 54 years                    5,058          18.1%          3,213           11.4%             -1,845    -36.5%
+ 55 to 59 years                    1,876           6.7%          2,569            9.1%               693      37.0%
+ 60 to 64 years                    1,396           5.0%          2,712            9.6%             1,316     94.3%
+ 65 to 74 years                    2,028           7.3%          3,315           11.8%             1,287     63.5%
+ 75 to 84 years                    1,932           6.9%          1,513            5.4%              -419     -21.7%
+ 85 years and over                  508            1.8%           905             3.2%               397      78.2%
+ U.S. Census Bureau, American Community Survey 2010, 2023 5- Year Estimates (table DP-05) S0101
+
+
+Monmouth County also experienced shifts in the age make-up of its population.
+Similarly to Neptune, the County als o experienced significant decreases in the
+adolescent population. Monmouth County’s 35 to 44 and 45 to 54-year-old cohorts
+experienced significant decreases in population, -18.8 percent and -18.9 percent
+respectively. The 65 to 74 age group saw the County’s largest jump in population, an
+increase of 70.4 percent between 2010 and 2023. The second largest increase was
+recorded in the 60 to 64 age brackets, seeing an increase of 48.4 percent.
+
+Similar to the Township, the percentage of the County’s age cohorts over the age of 55 years
+experienced increases between 2010 and 2023, suggesting that the County, like Neptune,
+has an aging population.
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 12 of 40 Trans ID: LCV20251861228
+
+
+
+
+        TABLE 3: POPULATION BY AGE COHORT, MONMOUTH COUNTY, 2010-2023
+                                               2010                      2023.                Change 2010-2023
+             Population                                                                       Number
+                                       Number        Percent    Number         Percent                     Percent
+    Total population                   628,112      100.0%       643,615      100.0%              15,503    2.5%
+       Under 5 years                    36,105       5.7%         32,114       5.0%               -3,991   -11.1%
+       5 to 9 years                     43,432       6.9%         37,013       5.8%               -6,419   -14.8%
+       10 to 14 years                   45,172       7.2%         39,484       6.1%               -5,688   -12.6%
+       15 to 19 years                   44,706       7.1%         42,163       6.6%               -2,543    -5.7%
+       20 to 24 years                   33,055       5.3%         37,390       5.8%               4,335     13.1%
+       25 to 34 years                   63,105       10.0%        70,569      11.0%               7,464     11.8%
+       35 to 44 years                   93,461       14.9%        75,860      11.8%              -17,601   -18.8%
+       45 to 54 years                  108,675       17.3%        88,083      13.7%              -20,592   -18.9%
+       55 to 59 years                   42,594       6.8%         50,654       7.9%               8,060     18.9%
+       60 to 64 years                   34,235       5.5%         50,797       7.9%               16,562    48.4%
+       65 to 74 years                   41,719       6.6%         71,107      11.0%              29,388    70.4%
+       75 to 84 years                   29,301       4.7%         33,953       5.3%               4,652    15.9%
+       85 years and over                12,552       2.0%         14,428       2.2%               1,876     14.9%
+    U.S. Census Bureau, American Community Survey 2010, 2023 5- Year Estimates (table DP-05) S0101
+
+
+
+The median age of Township residents increased between 2010 and 2023, rising 4 years
+from 41.6 years of age to 45.6 years. This trend follows a similar rise in the median age of
+Monmouth County and New Jersey’s population as well, rising 3 years and 1.6 years,
+respectively.
+                                  TABLE 4: MEDIAN AGE, 2010 - 2023
+                 Year           Neptune               Monmouth County                 New Jersey
+                2010              41.6                         40.6                       38.5
+                2023              45.6                         43.2                       40.1
+               Change              4                            2.6                        1.6
+             U.S. Census Bureau, American Community Survey 2010, 2023 5-Year Estimates (table DP-05)
+
+
+
+
+HOUSEHOLDS
+
+A household is defined as one or more persons, either related or not, living together in a
+housing unit. 2023 ACS 5-Year Estimates note that there were approximately 11,387
+households in the Township. Households that consisted of two (2) persons (35.2%) were
+the largest housing demographic in the Township, followed closely by one (1) person
+households at 31.6 percent. Together, one (1) and two (2) person units accounted for 66.8
+percent of all households in the Township. Monmouth County shares similar housing
+characteristics to Neptune. Similar to the Township, two (2) and one (1) person households
+were the most numerous housing types in Monmouth County, together accounting for 59.1
+percent of all housing in the County. The average household size in the Township is smaller
+than that of the County, with the Neptune average being 2.44 and the Monmouth County
+   MON-L-000477-25 06/26/2025 3:01:14 PM Pg 13 of 40 Trans ID: LCV20251861228
+
+
+
+
+average being 2.51.
+                           TABLE 5: HOUSEHOLD CHARACTERISTICS
+                          NEPTUNE AND MONMOUTH COUNTY, 2023
+                                                   Neptune                  Monmouth County
+                                                Number Percent              Number    Percent
+           Total Households                      11,387      100.0%         250,195        100.0%
+           1-person                              3,603        31.6%          66,589         26.6%
+           2-persons                             4,012        35.2%          81,289         32.5%
+           3-persons                             1,592        14.0%          40,929         16.4%
+           4 or more persons                     2,180        19.1%          61,388         24.5%
+           Average Household Size                        2.44                       2.51
+           U.S. Census Bureau, American Community Survey 2023 5 Year Estimates (tables S2501 &
+           B25010)
+
+
+Family households are defined as two or more persons living in the same household,
+related by blood, marriage or adoption. Most households in Neptune were families,
+comprising 62.1 percent of all households. Approximately 68.7 percent of all family
+households were family households with married couple householders, while 8.2 percent
+and 23.1 percent of family households consisted of single parent male or female
+householders, respectively. The average family size was 3.08 persons. Of all Township
+households, 37.9 percent were non-family households.
+
+
+                              TABLE 6: HOUSEHOLDS BY TYPE (2023)
+           Household Size                                                       Total      Percent
+           Total Households                                                    11,387      100.0%
+           1 person household                                                  3,603        31.6%
+           2 or more person household                                           7,784          68.3%
+              Family households                                                 7,068          62.1%
+                 Married Couple Family                                          4,855          68.7%
+                    With own children under 18 years                            1,268          26.1%
+                    No children under 18 years                                  3,587          73.9%
+              Other Family                                                      2,213          31.3%
+                 Male householder, no spouse present                             578            8.2%
+                    With own children under 18 years                             237           41.0%
+                    No own children under 18 years                               341           59.0%
+                 Female householder, no spouse present                          1,635          23.1%
+                    With own children under 18 years                             817           50.0%
+                    No own children under 18 years                               818           50.0%
+           Nonfamily Households                                                 4,319          37.9%
+
+
+           Average Family Size (persons)                                                3.08
+           U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (tables S2501, S1101)
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 14 of 40 Trans ID: LCV20251861228
+
+
+
+
+INCOME
+Neptune experienced a 63.8 percent increase in per capita income between 2010 and 2023,
+higher than Monmouth County’s 60 percent increase and the State’s 52.4 percent increase
+over the same period. The Township’s per capita income of $50,214 is lower than the
+County’s $65,545 per capita income figure, and the State’s $53,118 per capita income.
+
+        TABLE 7: PER CAPITA INCOME AND MEDIAN HOUSEHOLD INCOME, 2010-2023
+                          2010 Per         2023 Per                    2010 Median       2023 Median
+                                                           Percent                                     Percent
+                            Capita           Capita                     Household         Household
+                                                           Change                                      Change
+                           Income           Income                       Income            Income
+ Neptune                  $30,656           $50,214         63.8%         $74,422            $96,827   30.1%
+ Monmouth County          $40,976           $65,545         60.0%         $82,265           $122,727   49.2%
+ New Jersey               $34,858           $53,118         52.4%         $69,811           $101,050   44.7%
+ U.S. Census Bureau, American Community Survey 2010, 2023 5-Year Estimates (tables S1902 and S1903)
+
+
+
+Median household incomes in Neptune Township are lower than the incomes for the
+County and the State overall, however, the Township experienced a higher percentage
+growth than Monmouth County did over the same period of time. 48.5 percent of Neptune
+Township households had incomes over $100,000; while a majority (58.9%) of County
+households had incomes greater than $100,000. The median h o u s e h o l d income in
+Neptune was $96,827; $25,900 less than the County median household income, and only
+around $4,200 less than the State median household income. Between 2010 and 2023,
+the median household income increased by 30.1 percent, lower than the 49.2 percent
+growth rate experienced in Monmouth County, and the 44.7 percent growth rate for the
+State overall.
+   MON-L-000477-25 06/26/2025 3:01:14 PM Pg 15 of 40 Trans ID: LCV20251861228
+
+
+
+
+                           TABLE 8: HOUSEHOLD INCOME DISTRIBUTION
+                            NEPTUNE AND MONMOUTH COUNTY, 2023
+                                               Neptune                           Monmouth County
+                                     Number                Percent             Number       Percent
+    Total Households                 11,387                100.0%              250,195      100.0%
+       Less than $10,000               507                  4.5%                8,165        3.3%
+       $10,000 to $14,999              269                  2.4%                5,319        2.1%
+       $15,000 to $19,999              282                  2.5%                5,203        2.1%
+       $20,000 to $24,999              477                  4.2%                5,578        2.2%
+       $25,000 to $29,999              336                  3.0%                5,530        2.2%
+       $30,000 to $34,999              210                  1.8%                5,175        2.1%
+       $35,000 to $39,999              175                  1.5%                5,648        2.3%
+       $40,000 to $44,999              280                  2.5%                5,544        2.2%
+       $45,000 to $49,999              420                  3.7%                6,198        2.5%
+       $50,000 to $59,999              482                  4.2%                9,995        4.0%
+      $60,000 to $74,999               999                  8.8%               15,158        6.1%
+       $75,000 to $99,999             1,425                12.5%               25,542       10.2%
+     $100,000 to $124,999             1,264                11.1%               24,161        9.7%
+     $125,000 to $149,999             1,095                 9.6%               19,756        7.9%
+     $150,000 to $199,999             1,524                13.4%               33,996       13.6%
+       $200,000 or more               1,642                14.4%               69,227       27.7%
+    U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table B19001)
+
+
+HOUSEHOLD COSTS
+
+The tables below show housing expenditures for owner- and renter-occupied units in
+Neptune during the 2023 5-Year Estimate. The first table shows the housing costs of owner
+occupants as a percentage of total income. A total of 2,346 households (30%) were
+devoting more than 30 percent of their annual income to housing costs. The State
+affordability threshold for housing as a percentage of income suggests that not more than
+28 percent of gross income should be allocated for housing costs. In Monmouth County,
+27.3 percent of households dedicated more than 30 percent of their income to housing.
+
+The second table shows rental costs as a percentage of household income. A total of 1,842
+households renting in Neptune, or 51.5 percent, were spending over 30 percent of their
+income on rent. The State affordability threshold for housing as a percentage of income
+suggests that not more than 30 percent of gross income should be allocated for rent.
+   MON-L-000477-25 06/26/2025 3:01:14 PM Pg 16 of 40 Trans ID: LCV20251861228
+
+
+
+
+                              TABLE 9: MONTHLY OWNER COSTS AS A
+                            PERCENTAGE OF HOUSEHOLD INCOME, 2023
+                                                          Neptune                    Monmouth County
+                                                    Number Percentage             Number    Percentage
+     Total Owner-Occupied Housing Units              7,812     100.0%             188,578     100.0%
+     Less than 10.0 percent                          1,131     14.5%               28,917     15.3%
+     10.0 to 14.9 percent                            1,125     14.4%               32,253     17.1%
+     15.0 to 19.9 percent                            1,435     18.4%               31,997     17.0%
+     20.0 to 24.9 percent                            1,163     14.9%               25,780     13.7%
+     25.0 to 29.9 percent                             604       7.7%               16,946      9.0%
+     30.0 to 34.9 percent                             433       5.5%               10,722      5.7%
+     35.0 to 39.9 percent                             385       4.9%               8,426       4.5%
+     40.0 to 49.9 percent                             482       6.2%               10,377      5.5%
+     50.0 percent or more                            1,046     13.4%               21,847     11.6%
+     Not computed                                      8       0.15%               1,313       0.7%
+     U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table B25091)
+
+
+
+
+        TABLE 10: GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME, 2023
+                                                           Neptune                  Monmouth County
+                                                    Number Percentage             Number   Percentage
+     Total Renter-Occupied Housing Units             3,575      100.0%            61,617     100.0%
+        Less than 10.0 percent                        91         2.5%              2,113      3.4%
+        10.0 to 14.9 percent                          156        4.4%              4,993      8.1%
+        15.0 to 19.9 percent                          450       12.6%              6,970     11.3%
+        20.0 to 24.9 percent                          358       10.0%              6,927     11.2%
+        25.0 to 29.9 percent                          442       12.4%              6,419     10.4%
+        30.0 to 34.9 percent                          272        7.6%              4,751      7.7%
+        35.0 to 39.9 percent                          234        6.5%              3,057      5.0%
+        40.0 to 49.9 percent                          439       12.3%              6,163     10.0%
+        50.0 percent or more                          897       25.1%             16,805     27.3%
+     Not computed                                     236        6.6%              3,419      5.5%
+     U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table B25070)
+
+
+
+EXISTING HOUSING CONDITIONS
+
+HOUSING UNIT DATA
+
+Neptune’s housing stock is predominantly owner occupied and relatively old. According to
+the 2023 ACS, the Township had a total of 12,976 housing units, 11,387 (87.8%) of which
+are occupied. Of the Township’s fully occupied housing units, most (68.6%) were owner-
+occupied, while 31.4 percent were renter-occupied. When compared with Monmouth
+   MON-L-000477-25 06/26/2025 3:01:14 PM Pg 17 of 40 Trans ID: LCV20251861228
+
+
+
+
+County, the housing stock in Neptune Township is older, with 1963 being the median year
+when most of the Township’s housing stock was built. In Monmouth County, 1975 is the
+median year when most housing units were constructed.
+
+                                TABLE 11: OCCUPANCY DATA, 2023
+           Housing Units in Neptune                                         Number        Percent
+           Total Housing Units                                              12,976        100.0%
+              Occupied Housing Units                                        11,387         87.8%
+                  Owner Occupied                                             7,812         68.6%
+                  Renter Occupied                                            3,575         31.4%
+              Vacant Housing Units                                           1,589         12.2%
+                  For Rent / Rented Not Occupied                              196          12.3%
+                  For Sale Only                                               159          10.0%
+                  Sold, not occupied                                           88          5.5%
+                  For Seasonal, Recreational or Occasional Use                855          53.8%
+                  Other Vacant                                                291          18.1%
+           U.S. Census Bureau, American Community Survey 2023 (tables DP04 and B25004)
+
+
+
+                                 TABLE 12: AGE OF HOUSING, 2023
+                                                                           Number         Percent
+                 Built 2020 or later                                         68            0.5%
+                 Built 2010 to 2019                                          978           7.5%
+                 Built 2000 to 2009                                          994           7.7%
+                 Built 1990 to 1999                                          578           4.5%
+                 Built 1980 to 1989                                         1,431         11.0%
+                 Built 1970 to 1979                                         1,032          8.0%
+                 Built 1960 to 1969                                         2,102         16.2%
+                 Built 1950 to 1959                                         2,335         18.0%
+                 Built 1940 to 1949                                          651           5.0%
+                 Built 1939 or earlier                                      2,807         21.6%
+           Total                                                            12,976      100.0%
+           Median Year Structure Built                                               1963
+           U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table DP04 and
+           B25035)
+
+
+Housing Type and Size
+
+A majority of housing units in Neptune (64.8%) are comprised of one (1) unit detached
+homes. One (1) unit attached units (i.e. townhomes) comprised the second largest
+percentage of the Township’s housing typology (10.9%).
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 18 of 40 Trans ID: LCV20251861228
+
+
+
+
+                          TABLE 13: HOUSING UNITS BY TYPE, 2023
+                    Units in Structure                      Total            Percent
+                    Total                                  12,976            100.0%
+                    1 Unit, detached                       8,405             64.8%
+                    1 Unit, attached                       1,412             10.9%
+                    2 Units                                 406               3.1%
+                    3 or 4 Units                            931               7.2%
+                    5 to 9 Units                            339               2.6%
+                    10 to 19 Units                          585               4.5%
+                    20 Units or more                        800               6.2%
+                    Mobile home                              98               0.8%
+                    Boat, RV, van, etc.                       0               0.0%
+
+                    Rooms                                   Total            Percent
+                    1 room                                   226              1.7%
+                    2 rooms                                  592              4.6%
+                    3 rooms                                  970              7.5%
+                    4 rooms                                 1,476            11.4%
+                    5 rooms                                 2,691            20.7%
+                    6 rooms                                 2,487            19.2%
+                    7 rooms                                 1,739            13.4%
+                    8 rooms                                 1,359            10.5%
+                    9 or more rooms                         1,436            11.1%
+                    Median number of rooms                             5.7
+                    U.S. Census Bureau, American Community Survey 2023 5 Year Estimates
+                    (DP04)
+
+
+
+Housing Values and Contract Rents
+
+According to t he 2 0 2 3ACS 5-Year Estimates, the median value of o w n e r - o c c u p i e d
+housing units in Neptune was $424,400, with the majority (84.1%) of units valued at
+$300,000 or greater. Table 14 provides a breakdown of home values for owner-occupied
+units within the Township. Of the Township’s 7,812 total owner-occupied housing units,
+fewer than 400 units (accounting for about 4.5%) were reported to be worth less than
+$100,000.
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 19 of 40 Trans ID: LCV20251861228
+
+
+
+
+                  TABLE 14: VALUE OF OWNER-OCCUPIED HOUSING UNITS, 2023
+                                                             Neptune                 Monmouth County
+                                                      Number      Percentage        Number    Percentage
+ Total                                                 7,812       100.0%           188,578    100.0%
+ Less than $50,000                                      190          2.4%            3,202       1.7%
+ $50,000 to $99,999                                     114          1.5%            2,703       1.4%
+ $100,000 to $149,999                                   44           0.6%            1,760       0.9%
+ $150,000 to $199,999                                   118          1.5%            2,797       1.5%
+ $200,000 to $299,999                                   777          9.9%           12,780       6.8%
+ $300,000 to $499,999                                  3,924        50.2%           55,119      29.2%
+ $500,000 to $999,999                                  2,208        28.3%           88,909      47.1%
+ $1,000,000 and greater                                 437          5.6%           21,308      11.3%
+ Median Value                                                  $424,400                   $566,500
+ U.S. Census Bureau, American Community Survey 2023 5 Year Estimates (table DP04)
+
+
+With respect to renter-occupied units, a quarter of them (24.2%) fell into the gross rent paid
+range of ‘$2,000 to $2,499’ per month, with another quarter (24%) of the Township paying in
+the range of $1,000 to $1,499 per month. At the time of the ACS 5-Year Estimates, the
+median gross rent in Neptune was $1,700, slightly less than the County median rent of
+$1771. 8.6% of Neptune’s occupied rental units cost fewer than $500 per month, while only
+34 units did not require cash rent payments.
+
+                                     TABLE 15: GROSS RENT PAID, 2023
+                                                               Neptune                Monmouth County
+                                                        Number      Percentage       Number      Percentage
+ Total                                                   3,509        100.0%         59,223       100.0%
+ Less than $500                                           301          8.6%           4,045         6.8%
+ $500 to $999                                             320          9.1%           3,453         5.8%
+ $1,000 to $1,499                                         843         24.0%          13,711        23.2%
+ $1,500 to $1,999                                         725         20.7%          15,499        26.2%
+ $2,000 to $2,499                                         849         24.2%          10,920        18.4%
+ $2,500 to $2,999                                         243          6.9%           6,150        10.4%
+ $3,000 or more                                           228          6.5%           5,445         9.2%
+ No cash rent                                             34            (x)           2,394          (x)
+ Median Contract Rent                                          $1,700                       $1,771
+ U.S. Census Bureau, American Community Survey 2023 5 Year Estimates (table DP04)
+
+
+Housing Conditions
+According to the 2023 ACS, 4.8 percent and 4.5 percent of Neptune’s owner occupied and
+renter occupied housing units, respectively, experienced overcrowding. There were 21 units
+lacking complete plumbing facilities and an additional 181 units lacked any complete
+kitchen facilities in Neptune. These factors are utilized in determining housing deficiency
+and general housing problems and are used as the basis to calculate the municipal
+rehabilitation obligation. According to the data, 4.7 percent of occupied housing units
+   MON-L-000477-25 06/26/2025 3:01:14 PM Pg 20 of 40 Trans ID: LCV20251861228
+
+
+
+
+experienced over-crowding, while 0.2 percent of occupied units lacked complete plumbing
+facilities and 1.6 percent lacked complete kitchen facilities.
+                     TABLE 16: HOUSING DEFICIENCY CHARACTERISTICS, 2023
+                                                                       Count            Percent
+                   Housing Units with 1.01 or More Persons Per Room
+                   Owner-Occupied                              375                       4.8%
+                   Renter-Occupied                             160                       4.5%
+
+                   Total Occupied Housing Units                       11,387            100.0%
+                   Lacking complete plumbing facilities                 21               0.2%
+
+                   Total Occupied Housing Units                       11,387            100.0%
+                   Lacking complete kitchen facilities                 181               1.6%
+                   U.S. Census Bureau, American Community Survey 2023 (tables B25014, S2504)
+
+
+PROJECTED HOUSING STOCK
+
+According to the New Jersey Department of Community Affairs, Neptune Township issued
+building permits for 579 new residential dwelling units between January 2004 and
+December 2023. During that same time period, the Township also issued 179 residential
+demolition permits. Subtracting demolition permits from construction permits yields a net
+increase of 400 dwelling units over this time period.
+       TABLE 17: BUILDING PERMITS AND DEMOLITION PERMITS ISSUED, 2004 - 2023
+                 1&2            Multi       Mixed       Total New          Total Residential      Net Units
+     Year
+                Family         Family        Use       Construction          Demolitions           Added
+     2004           5             0           3              8                     7                  1
+     2005           6             0           0              6                     9                 -3
+     2006           8             0           0              8                     4                  4
+     2007          19             0           0             19                    12                  7
+     2008           5             1           1              7                     1                  6
+     2009           0             0           0              0                     3                 -3
+     2010           2             0           0              2                     3                 -1
+     2011           5             1           0              6                    12                 -6
+     2012           6             0           0              6                     8                 -2
+     2013           6             0           0              6                    16                -10
+     2014          26            213          1             240                   37                203
+     2015          15             0           0             15                    22                 -7
+     2016          16             0           0             16                    12                  4
+     2017           3             0           0              3                     0                  3
+     2018           1             44          0             45                     0                45
+     2019          42             73          0             115                   10                105
+     2020          33             0           0             33                     2                31
+     2021          20             0           0             20                    12                  8
+     2022           8             0           0              8                     6                  2
+     2023          16             0           0             16                     3                13
+     Total         242           332          5             579                   179               400
+     Source: NJ DCA Construction Reporter
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 21 of 40 Trans ID: LCV20251861228
+
+
+
+
+EMPLOYMENT DATA
+
+Data set DP03 of the 2023 ACS reports on work activity of residents aged 16 years and older.
+While Neptune’s working age population was 23,763, the Township has a labor force of
+15,725 residents. Approximately 33.8 percent of the Township’s working age residents were
+not participating in the labor force at the time of the estimates. Most of the Township’s labor
+force (66%) were employed in civilian jobs, with only 39 individual residents reported as
+members of the armed forces. Approximately 5.4 percent of Township residents reported
+being unemployed.
+
+                                TABLE 18: EMPLOYMENT STATUS, 2023
+                                                             Neptune                 Monmouth County
+                                                       Number      Percent           Number   Percent
+       Population 16 years and over                    23,763      100.0%            526,352 100.0%
+         In labor force                                15,725       66.2%            349,815  66.5%
+            Civilian Labor Force                       15,686       66.0%            349,355  66.4%
+               Employed                                14,413       60.7%            331,018  62.9%
+               Unemployed                               1,273        5.4%             18,337   3.5%
+            Armed Forces                                  39         0.2%              460     0.1%
+         Not in labor force                             8,038       33.8%            176,537  33.5%
+       U.S. Census Bureau, American Community Survey 2023 5 Year Estimates table DP03)
+
+
+The majority of the Township’s workers, 76.4 percent were employed in private wage and
+salary positions, while 5.8 percent of workers were self-employed. Government workers
+comprised approximately 17.8% of the Township’s workforce. Table 19 provides a
+breakdown of worker classifications.
+
+
+                 TABLE 19: CLASSIFICATION OF WORKERS IN NEPTUNE, 2023
+                                                                    Number         Percent
+                    Total                                           14,413         100.0%
+                    Private Wage and Salary Worker                  11,011         76.4%
+                    Government Worker                                2,550         17.7%
+                    Self-Employed Worker                              836           5.8%
+                    Unpaid Family Worker                              16            0.1%
+                    U.S. Census Bureau, American Community Survey 2023 5 Year Estimates (table
+                    DP03)
+
+An analysis of employees (over the age of 16) by economic sector indicates that employed
+working age individuals in Neptune were involved in a range of economic sectors. The
+highest concentration of workers (34%) were found in the ‘educational services, and health
+care and social assistance’ sector. ‘Professional, scientific, and management, and
+administrative and waste management services’ and ‘retail trade’ were the second and third
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 22 of 40 Trans ID: LCV20251861228
+
+
+
+
+largest sectors in the Township workforce, comprising 12.3 percent and 9.7 percent
+respectively.
+
+
+                                TABLE 20: WORKFORCE BY SECTOR, 2023
+ Industry                                                                           Number   Percent
+ Civilian employed population 16 years and over                                     14,413   100.0%
+   Agriculture, forestry, fishing and hunting, mining                                 94      0.7%
+   Construction                                                                       839     5.8%
+   Manufacturing                                                                      531     3.7%
+   Wholesale Trade                                                                    414     2.9%
+   Retail Trade                                                                      1,402    9.7%
+   Transportation and Warehousing, and Utilities                                      954     6.6%
+   Information                                                                        246     1.7%
+   Finance and insurance, and real estate and rental and leasing                      824     5.7%
+   Professional, scientific, and management, and administrative and waste            1,775    12.3%
+ management services
+   Educational services, and health care and social assistance                      4,898    34.0%
+   Arts, entertainment, and recreation, and accommodation and food                  1,229    8.5%
+ services
+   Other Services, except public administration                                      455      3.2%
+   Public administration                                                             752      5.2%
+ U.S. Census Bureau, American Community Survey 2023 5 Year Estimates (table DP03)
+
+
+Table 21 provides a percentage comparison of the Township’s workforce against that of the
+County. The Township’s profile of employment by sector generally mirrors that of the
+County, with the largest sectors of employment being the ‘educational services, and health
+care and social assistance’ sector. ‘Professional, scientific, and management, and
+administrative and waste management services’ for both. However, a much higher
+percentage of the County’s workforce is employed in ‘Finance and insurance, and real
+estate and rental and leasing’ when compared with the Neptune.
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 23 of 40 Trans ID: LCV20251861228
+
+
+
+
+                       TABLE 21: COMPARISON OF WORKFORCE BY SECTOR
+                       NEPTUNE TOWNSHIP AND MONMOUTH COUNTY, 2023
+                                                                                              Monmouth
+ Industry                                                                           Neptune
+                                                                                                County
+ Civilian employed population 16 years and over                                      14,413    331,018
+   Agriculture, forestry, fishing and hunting, mining                                 0.7%       0.4%
+   Construction                                                                       5.8%       7.0%
+   Manufacturing                                                                      3.7%       6.2%
+   Wholesale Trade                                                                    2.9%       2.5%
+   Retail Trade                                                                       9.7%      10.5%
+   Transportation and Warehousing, and Utilities                                      6.6%       4.4%
+   Information                                                                        1.7%       3.2%
+   Finance and insurance, and real estate and rental and leasing                      5.7%      10.3%
+
+   Professional, scientific, and management, and administrative and                  12.3%     15.5%
+ waste management services
+   Educational services, and health care and social assistance                       34.0%     24.4%
+   Arts, entertainment, and recreation, and accommodation and food                   8.5%      7.7%
+ services
+   Other Services, except public administration                                      3.2%       3.7%
+   Public administration                                                             5.2%       4.3%
+ U.S. Census Bureau, American Community Survey 2023 5 Year Estimates (table DP03)
+
+
+
+
+Table 22 provides a breakdown of occupations by type for the Township’s employed civilian
+labor force. Almost half of the Township’s civilian labor force was employed in the
+‘management, business, science, and arts occupations’ sector. The ‘service occupations’
+and ‘sales and office occupations’ were the second and third most common occupation
+type, respectively.
+
+                                 TABLE 22: OCCUPATIONS BY TYPE, 2023
+                                                                                    Number    Percentage
+ Employed Civilian population 16 years and over                                     14,413     100.0%
+ Management, business, science and arts occupations                                 6,765       46.9%
+ Service occupations                                                                2,572       17.8%
+ Sales and office occupations                                                       2,467       17.1%
+ Natural resources, construction and maintenance occupations                         985        6.8%
+ Production Transportation and material moving occupations                          1,624       11.3%
+ U.S. Census Bureau, American Community Survey 2023 5 Year Estimates (table DP03)
+   MON-L-000477-25 06/26/2025 3:01:14 PM Pg 24 of 40 Trans ID: LCV20251861228
+
+
+
+
+As shown in Table 23, 68.6 percent of Neptune residents commute less than half an hour
+from home to their place of work. Approximately 22.2 percent commute between half an
+hour to an hour from home to their place of work, and 9 percent of residents have commutes
+greater than one hour. The mean travel time to work was 24.3 minutes, less than Monmouth
+County’s average of 34.8 minutes. The majority of Neptune workers who commute to work
+do so by private automobile (73.4%).
+
+
+                              TABLE 23: TRAVEL TIME TO WORK, 2023
+                                                            Neptune                 Monmouth County
+                                                      Number     Percent           Number      Percent
+       Workers who did not work at home               12,551     100.0%            270,382 100.0%
+         Less than 5 minutes                            218       1.7%              7,133       2.6%
+         5 to 9 minutes                                1,598      12.7%            23,580       8.7%
+         10 to 14 minutes                              2,481      19.8%            34,617      12.8%
+         15 to 19 minutes                              1,970      15.7%            34,788      12.9%
+         20 to 24 minutes                              1,649      13.1%            30,346      11.2%
+         25 to 29 minutes                               706       5.6%             15,220       5.6%
+         30 to 34 minutes                              1,437      11.4%            30,368      11.2%
+         35 to 39 minutes                               217       1.7%              8,941       3.3%
+         40 to 44 minutes                               309       2.5%             12,716       4.7%
+         45 to 59 minutes                               834       6.6%             25,519       9.4%
+         60 to 89 minutes                               600       4.8%             27,152      10.0%
+         90 or more minutes                             532       4.2%             20,002       7.4%
+       Mean travel time to work (minutes)                    25.7                         32.8
+       U.S. Census Bureau, American Community Survey 2023 5 Year Estimates (table DP03 and B08303)
+       *-percentages may not total 100 due to rounding
+
+                               TABLE 24: MEANS OF COMMUTE, 2023
+                                                            Neptune                 Monmouth County
+                                                      Number     Percent           Number    Percent
+       Workers 16 years and over                      14,246     100.0%            325,092 100.0%
+       Car, truck, van- Drove Alone                   10,453      73.4%            217,077   66.8%
+       Car, truck, van- Carpooled                      1,088      7.6%             23,553     7.2%
+       Public Transportation                            451       3.2%             17,981     5.5%
+       Walked                                           293       2.1%              4,775     1.5%
+       Other Means                                      266       1.9%              6,996     2.2%
+       Worked at home                                  1,695      11.9%            54,710    16.8%
+       U.S. Census Bureau, American Community Survey 2023 5 Year Estimate (table DP03)
+
+
+As indicated in Table 25 below, it is projected that Monmouth County will add 21,400 jobs
+by 2032. The Ambulatory Health Care Services, Transportation and Warehousing, and
+Information sectors are poised to experience the greatest increase in number of jobs over
+the course of the projection period.
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 25 of 40 Trans ID: LCV20251861228
+
+
+
+
+               TABLE 25: PROJECTED EMPLOYMENT, MONMOUTH COUNTY, 2032
+
+                                                         2032                      Annual
+                                      2022 Actual                     Numeric                  Percent
+ Industry Title                                        Projected                   Growth                Outlook
+                                      Employment                      Change                   Change
+                                                      Employment                    Rate
+ Mining                                     0              50            13.6        0.0        0.0%      Stable
+ Utilities                               16,250          16,900          650         4.1        4.0%     Growing
+ Construction                             1,300          1,400           100         6.9        7.8%     Growing
+ Manufacturing                            9,700          10,250          550         5.9        5.6%     Growing
+ Wholesale Trade                          8,900          9,200           300         3.5        3.3%     Growing
+ Retail Trade                            36,450          36,700          250         0.7        1.5%     Growing
+ Transportation and Warehousing           6,100          7,100          1,000        16.6      16.3%     Growing
+ Postal Service                           1,050          1,000           -50         -6.8      -4.7%     Declining
+ Information                              6,050          6,950           900         14.8      14.8%     Growing
+ Finance and Insurance                   10,950          11,050          100          0.9      0.9%      Growing
+ Real Estate and Rental and Leasing       4,150           4,300          150         4.0        3.6%     Growing
+ Professional, Scientific, and
+                                                                                                         Growing
+ Technical Services                      21,850          22,650          800         3.9        3.6%
+ Management of Companies and
+                                                                                                         Growing
+ Enterprises                              4,150           4,800          650         15.3      15.7%
+ Administrative and Support and
+ Waste Management and                                                                                    Growing
+ Remediation Services                    14,650          15,450          800         5.4        5.4%
+ Educational Services                    25,800          27,350         1,550        6.0        6.0%     Growing
+ Health Care and Social Assistance       51,200          57,750         6,550        12.7      12.7%     Growing
+ Ambulatory Health Care Services         24,450          29,550         5,100        20.8      20.9%     Growing
+ Hospitals                               11,250          11,600          350          3.2      3.1%      Growing
+ Nursing and Residential Care
+                                                                                                         Growing
+ Facilities                               8,150           8,400          250          3.0      3.1%
+ Social Assistance                        7,350           8,200          850         11.4      11.5%     Growing
+ Arts, Entertainment, and
+                                                                                                         Growing
+ Recreation                               8,150           9,700         1,550        19.4      13.9%
+ Accommodation and Food Services         28,750          30,650         1,900        6.7        6.6%     Growing
+ Other Services (except
+                                                                                                         Growing
+ Government)                             14,150          15,450         1,300        9.1        9.2%
+ Government                              14,350          15,150          800         5.3        5.5%     Growing
+ Total Federal Government
+                                                                                                         Declining
+ Employment                               1,950           1,900          -50         -3.3       -2.5%
+ State Government, Excluding
+                                                                                                         Declining
+ Education and Hospitals                  1,300           1,200          -100        -7.3       -7.6%
+ Local Government, Excluding
+                                                                                                         Growing
+ Education and Hospitals                 11,100          12,050          950         8.3        8.6%
+ Federal Government, Excluding
+                                                                                                          Stable
+ Post Office                               900             900            0          0.8        0.0%
+
+ Total Self Employed and Unpaid                                                                          Growing
+ Family Workers, All Jobs                 18,700          19,950        1,250        6.5        6.6%
+ Total All Industries                    302,150         323,550       21,400        7.1        7.0%     Growing
+Source: 2022- 2032 Industry Employment Projections, NJ Department of Labor and Workforce Development
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 26 of 40 Trans ID: LCV20251861228
+
+
+
+
+LANDS MOST APPROPRIATE FOR AFFORDABLE HOUSING
+An analysis was conducted to determine which areas of the Township could accommodate
+developments that address affordable housing need. This analysis reviews the Township’s
+existing zoning and planned zoning changes, and outlines the Township’s capacity to
+accommodate residential and non-residential growth projections. The following are
+included:
+   •   An analysis of the available existing and planned infrastructure;
+   •   The projected demand for types of uses permitted by zoning based on present and
+       anticipated future demographic characteristics of the Township and anticipated
+       land use patterns; and
+   •   Factors, such as environmental conditions, that present constraints on
+       development.
+
+Infrastructure
+
+Water and Sewer
+The American Water Company is based in Camden, NJ as is the largest investor-owned
+water and wastewater utility company in the United States. The New Jersey subsidiary of
+American Water serves approximately 2.5 million people across 17 of the 21 counties. In
+Neptune, the company is located at 611 Old Corlies Avenue.
+
+The Township of Neptune Sewage Authority (TNSA) provides sewage service to Neptune
+Township and other municipalities in Monmouth County such as Bradley Beach, Avon-by-
+the-Sea, Neptune City, Tinton Falls, and Wall Township. The Authority owns and operates
+an 8.5 M.G.D. secondary trickling filter treatment facility with a stabilization pond as the
+polishing point before discharging a mile into the ocean via an outfall pipe. The daily average
+this year has been 6.3 million gallons. The system also consists of a regional pumping
+station, force main, ocean outfall and the trunk line. Currently all sewage from the western
+portion of Neptune Township, while a portion of Neptune Township pumps their sewage to
+the Authority through a pump station. The Authority currently operates two inlet facilities
+and three parallel treatment trains (process units in series) which provide the ability to
+distribute the flow of sewage for the most efficient treatment.
+
+The Ocean Grove Sewerage Authority (OGSA), located at 25 Neptune Boulevard, provides
+sewage service to the Ocean Grove section of Neptune Township. The OGSA contracts with
+the TNSA and have reserved 800,000 gallons per day.
+
+Anticipated Demand and Land Use Patterns
+
+The Township of Neptune has been approaching a near build-out of its vacant, developable
+parcels. The Township is comprised of a variety of land uses, including residential, retail,
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 27 of 40 Trans ID: LCV20251861228
+
+
+
+
+office, public, and institutional uses and a nominal amount of light industrial uses.
+According to NJTPA population estimates projected to 2050, it is anticipated that the
+Township’s population will grow by approximately 1,581 people, an increase of 5.4 percent.
+
+Residential
+Neptune Township is a primarily suburban community and residential uses comprise the
+single largest land use category in the Township (87%). As a mature suburban community,
+additional residential development will likely be accommodated with redevelopment or
+infill opportunities. Opportunities for new multi-family development may exist above
+existing retail stores within the Township’s existing mixed-use zones.
+
+
+Non-Residential
+Commercial uses within the Township of Neptune tend to be focused along State Highways
+33/Corlies, 35, and 66. The Historic District Mixed-Use zone in the Ocean Grove portion of
+Neptune contains a vibrant pedestrian oriented shopping experience and professional
+office spaces. Other non-residential uses include hospital complexes, light industry,
+beaches, boardwalks, and public lands. New non-residential development will continue to
+take place as the market allows along the major transportation corridors within the
+Township.
+
+
+Environmental Constraints
+
+Neptune’s topography can be characterized at flat to gently sloping, with steeper slopes
+located in the central portion of the Shark River Hills neighborhood, the northern section of
+the Township, and near the interchange of State Hwy 18 and Asbury Avenue. While areas of
+steel slopes do exist, they are isolated and generally do not cause any serious limitations to
+commercial and residential development.
+
+The Township is located within the Shark River watershed which itself contains five (5)
+smaller watersheds. Floodplains have been identified along the Jumping Brook, Musquash
+Brook, and the Shark River. Flood plain areas generally coincide with stream corridors and
+wetland areas; however, the wetlands are more geographically extensive than the flood
+plain areas. As Neptune continues to develop and increase the amount of impervious
+coverage, the Township will continue to see incremental impacts on flooding and drainage
+patterns.
+
+Historic
+
+The entirety of Ocean Grove, an unincorporated community within Neptune Township, is
+listed on the State and National Register of Historic Places. Established in 1869 by a group
+of spiritual lay leaders, Ocean Grove claims to have the largest collection of authentic
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 28 of 40 Trans ID: LCV20251861228
+
+
+
+
+Victorian architecture in the United States. The community was originally founded to serve
+as a Camp Meeting location, an outdoor religious gathering spot used by Methodists.
+
+
+EXISTING LAND USE DESIGNATIONS
+The Township’s land use designations have been continually examined and updated
+through the Master Plan Reexamination process. The last Reexamination Report was
+adopted in 2023.
+
+The following districts comprise the Township’s residential zones: R-1, R-2, R-3, R-4, R-5.
+.
+       •   R-1: The R-1 Very Low Density Residential Zone district is in the western
+           portion of the Township and is bounded by Jumping Brook Road, to the
+           west, and West Bangs Road, to the east. The district is intended for single
+           family residential development at densities of less than 3.5 units per acre.
+           Other permitted uses include: community centers, community shelters,
+           detached single family residences, parks, places of worship, and
+           recreational facilities.
+       •   R-2: The R-2 Low Density Residential Zone District is primarily located in
+           the western portion of the Township, bounded by State Hwy 18, to the
+           east, and State Hwu 66, to the west; however, several smaller R-2 districts
+           exist through Neptune Township. The district is intended single family
+           residential development at densities ranging between four and five
+           dwelling units per acre. Other permitted uses are identical to those found
+           in the R-1 Zone, and include: cemeteries, marinas, public or private
+           elementary, middle, or high schools.
+       •   R-3: The Moderate Density Residential Zone district is primarily located in
+           the portions of the Township east of State Hwy 18; however, smaller
+           instances of this zone can be found elsewhere in the Township. The
+           district is intended for single family residential development at densities
+           not exceeding 5.8 dwelling units per acre. Other permitted uses are
+           identical to those found in the R-1 Zone.
+       •   R-4: The R-4 Medium Density Single-Family Residential Zone District is
+           primarily located in the eastern portion of the Township, near the vicinity
+           of Stokes Avenue. The district is intended for single family residential
+           development at densities not exceeding 8.7 dwelling units per acre. Other
+           permitted uses are identical to those found in the R-1 Zone, excluding
+           community centers and including private or public elementary, middle, or
+           high schools.
+       •   R-5: The R-5 Multi-Family Residential Zone district is located throughout
+           the Township, though notable clusters are found in the vicinity of State
+           Hwy 18 and State Hwy 33/ Corlies Avenue. The district is intended for
+  MON-L-000477-25 06/26/2025 3:01:14 PM Pg 29 of 40 Trans ID: LCV20251861228
+
+
+
+
+         multi-family residential development at densities not exceeding 12
+         dwelling units per acre. Other permitted uses include: age restricted
+         residences, cemeteries, community shelters, detached single family
+         residences, multifamily residences, parks, places of worship,
+         recreational facilities, and townhouses.
+
+The following districts comprise the Township’s commercial/mixed use/industrial
+zones: B-1, R-2, R-3, R-4, R-5.
+
+     •   B-1: The B-1 Town Commercial Zone district is located throughout the
+         Township, notably in the vicinities of State Hwy 33/ Corlies Ave and State
+         Hwy 35/Stokes Avenue. The district is intended to serve the needs of
+         specific surrounding residential neighborhoods by providing for retail sale
+         and service uses. The need to complement and preserve the character of
+         the surrounding residential neighborhoods is paramount.
+     •   B-2: The B-2 Professional Office Zone district is in the eastern portion of
+         the Township, bounded by North Taylor Road, to the east, Wells Avenue,
+         to the south and, Neptune Boulevard, to the west. The zone is intended to
+         provide for professional office development in designated areas.
+     •   B-3: The B-3 Marina Mixed Use Zone district is located on Shark River
+         Island, and areas adjacent to in on the Township’s mainland. The district
+         is intended to provide a well balanced mix of residential and marine
+         oriented retail uses that enhance the Shark River Waterfront area while
+         respecting important coastal environments. Permitted uses include, but
+         are not limited to: marinas/boat and marine equipment dealers, detached
+         single family homes, multifamily dwellings, restaurants, and nightclubs.
+     •   C-1: The Planned Commercial Development Zone district is located
+         throughout the Township, primarily in the western portion of the Township
+         along either side of State Hwy 66. The district is meant to provide for
+         business uses that are appropriate to the Route 66 highway corridor,
+         including, but not limited to: new car dealers, ambulatory healthcare
+         services, banks, and other amusement and recreation industries.
+     •   C-2: The Corridor Commercial Zone district is located in the eastern
+         portion of Neptune, bounded by Springwood Avenue, to the north, the
+         North Jersey Coast Line train tracks, to the east, and State Hwy 33/Corlies
+         Avenue, to the south. The district is meant to provide for roadway oriented,
+         non-retail business uses including, but not limited to: doctor’s offices,
+         golf courses, and sports and recreation instruction.
+     •   C-3: The Route 66 West Commercial Zone district is located in the
+         northwest corner of the Township and is intended to provide for business
+         uses appropriate to the Route 66 highway corridor situated west of Route
+MON-L-000477-25 06/26/2025 3:01:14 PM Pg 30 of 40 Trans ID: LCV20251861228
+
+
+
+
+      18. Permitted uses within the district include, but are not limited to:
+      automobile dealerships, furniture stores, vocational schools, and
+      banquet facilities.
+  •   C-4: The C-4 Route 66 East Commercial Zone district is located in the
+      eastern portion of the Township and is intended to provide for business
+      uses appropriate to the Route 66 highway corridor situated east of Route
+      18. Permitted uses within the district include, but are not limited to:
+      doctor’s offices, childcare centers, full service restaurants, municipal
+      facilities, and cemeteries.
+  •   C-5: The C-5 Corridor Commercial Zone district is located in the southern
+      portion of the Township and is intended to provide for business uses
+      appropriate to the Route 33 highway corridor situated west of Route 18.
+      Permitted uses within the district include, but are not limited to: furniture
+      stores, retail bakeries, musical instrument stores, and garden
+      centers/nurseries.
+  •   C-6: The C-6 Route 33 East Commercial Zone district is intended to
+      provide for business uses appropriate to the Route 33 highway corridor of
+      Neptune Township situated east of Route 18. Permitted uses within the
+      district include but are not limited to: radio/television/electronic stores,
+      butchers/delicatessens, art dealers, and jewelry stores.
+  •   C-7: The C-7 Route 35 East Commercial Zone is intended to provide for
+      business uses appropriate to the Route 35 highway corridor of Neptune
+      Township situated south of the West Lake Avenue Town Commercial
+      Zone. Permitted uses within the district include but are not limited to:
+      household appliance stores, retail bakeries, fish/seafood markets, and
+      grocery stores.
+  •   LI: The LI Light Industrial Zone district is located throughout the Township
+      and is intended to provide for light industrial uses, as well as office uses
+      according to the design standards set forth in the Municipal Code.
+      Permitted uses within the district include but are not limited to: planned
+      commercial development, commercial banking, and heating/fuel oil
+      dealers and distributors.
+  •   PUD: The PUD Planned Unit Development Zone district is located in the
+      western portion of the Township. The purpose of the district is to
+      encourage innovations in residential, commercial and public
+      development and redevelopment to achieve greater variety in type, layout
+      and siting of buildings and the conservation and more efficient use of open
+      space ancillary to those buildings or tracts of land under a comprehensive
+      plan of development. Such comprehensive control over an entire
+      development, rather than lot-by-lot regulations, should produce a well
+      designed development that will have a beneficial effect upon the health,
+   MON-L-000477-25 06/26/2025 3:01:14 PM Pg 31 of 40 Trans ID: LCV20251861228
+
+
+
+
+           safety, general welfare and morals of the Township and the neighboring
+           areas. Zoning Ordinance regulations specific to Planned Commercial
+           Development in the LI and C-1 Zone Districts are contained in
+           Section LDO-414.
+The following districts comprise the Township’s public use zones: C,
+       •   C: The C Civic Zone district is intended to provide for public and quasi-
+           public uses, as well as community and service facilities that serve a
+           general public purpose. Permitted uses within the district include but are
+           not limited to: adult retirement communities, detached single family
+           residences, commercial banking, and doctor’s offices.
+The following districts comprise the Township’s historic zones: HD-R-1, HD-O, HD-
+R-2, HD-B-1, HD-1
+       •   HD-R-1: The HD-R-1 Historic District Single Family Residential Zone
+           district is intended for single family residential development at a density
+           not exceeding 24.2 dwelling units per acre that is consistent with the
+           established scale and pattern of development in the Ocean Grove
+           portion of the Township. Permitted uses within the district include:
+           community centers, community shelters, detached single-family
+           residences, parks, places of worship, and Ocean Grove Camp Meeting
+           Association (OGCMA) facilities in accordance with permitted,
+           conditional, and accessory uses in the district.
+       •   HD-O: The HD-O Historic District Oceanfront is intended to recognize the
+           character and historic land use pattern of the oceanfront blocks in the
+           Ocean Grove portion of the Township, east of Central Avenue. All zoning
+           regulations applicable in the HD-O Zone District are intended to protect,
+           preserve and perpetuate the historical framework in Ocean Grove. This
+           framework includes single-family residences, bed and breakfasts, and
+           historic hotels. Permitted uses within the district include: community
+           shelters, detached single family dwellings, parks, and Ocean Grove
+           Camp Meeting Association (OGCMA) facilities in accordance with
+           permitted, conditional, and accessory uses in the district.
+       •   HD-R-2: The HD-R-2 Historic District Multi-family Residential Zone
+           district is located in the Ocean Grove portion of the Township and is
+           intended to provide for single-family and multi-family residential
+           development at a density of 48 dwelling units per acre, limited to areas
+           that are already devoted to this use. Permitted uses within the district
+           include: detached single family dwellings, long term care facilities, multi
+           family dwellings, parks, townhouses, and Ocean Grove Camp Meeting
+           Association (OGCMA) facilities in accordance with permitted,
+           conditional, and accessory uses in the district.
+       •   HD-B-1: The HD-B-1 Historic District Mixed Use Zone serves as the
+   MON-L-000477-25 06/26/2025 3:01:14 PM Pg 32 of 40 Trans ID: LCV20251861228
+
+
+
+
+            commercial core for the Ocean Grove portion of the Township, and
+            intends to serve the specific retail sales and service needs of local
+            residents and seasonal visitors. This Zone District also acknowledges the
+            suitability of residential uses located at upper stories of mixed-use
+            buildings, with the ground story devoted to permitted uses in the district.
+            Permitted within the district include: detached single family residences,
+            general stores, pharmacies, and doctor’s offices.
+       •    HD-R: The HD-R Historic District Recreation Zone is intended to provide
+            for the active and passive recreational use of land by the general public
+            in the Township's Historic District. All uses, including parking and
+            amenities for the use and comfort of residents and visitors to the District,
+            should be consistent with, and representative of, the historic character
+            of the area. Permitted uses within the district include: beach and beach
+            related uses, boardwalk and fishing pier, noncommercial recreational
+            facilities, parks, and Ocean Grove Camp Meeting Association (OGCMA)
+            facilities in accordance with permitted, conditional, and accessory uses
+            in the district.
+
+
+The following districts comprise the Township’s redevelopment areas:
+        •   High Pointe: Route 18 Redevelopment Plan: This is an area bound by
+            State Highways 66 and 18; Neptune Boulevard, West Bangs Avenue and
+            Wayside Road. The larger parcel, located to the west of State Highway
+            18 and containing 122 acres, is designated as the west parcel, while the
+            smaller parcel, located to the east of State Highway 18 and containing
+            about 44 acres, is designated as the east parcel. The area is identified
+            as Blocks 345-390 and including all the lots therein; Block 1000, Lots
+            1,2,6,10.01, 11.02, 12.01; Block 1006, Lots 4, 14.01, 17, 18; and Block
+            1008, Lots 10, 11, 12, 13, 14, 14.02 and 24. The High Pointe – Route 18
+            Redevelopment Plan was adopted on December 26, 2001 and
+            subsequently a Redevelopment Agreement was approved by and
+            between the Township of Neptune and Garden State Hi-Tech Park,
+            L.L.C. on July 30, 2001. This Plan was subsequently amended in
+            November 2005 and February 2008 to reflect the changes in market
+            demand since the adoption of the original Plan. This Redevelopment
+            Area is proposed as Planned Commercial Development (PCD) that will
+            serve both local and regional patrons and is intended to be developed to
+            encourage high quality uses such as planned retail centers, including
+            regional retail, restaurants, hotels, research and development facilities.
+            Additionally, the area is proposed to contain Planned Residential and
+            Commercial development, which would allow residential, retail and
+            service uses in accordance with the C-1 Commercial Zoning. Overall the
+            Planned Residential and Commercial development option permits
+MON-L-000477-25 06/26/2025 3:01:14 PM Pg 33 of 40 Trans ID: LCV20251861228
+
+
+
+
+        residential development within high-rise structures of 12 stories and
+        150 feet in 32 height, office buildings to be developed to a height of eight
+        (8) stories and 96 feet with garages to be a maximum of six (6) stories
+        and 65 feet.
+    •   West Lake Avenue Redevelopment Plan: The West Lake Avenue
+        Redevelopment Plan was adopted in 2005 and subsequently the
+        Township entered into a Redevelopment Agreement with CityWorks
+        West Lake, LLC. The area governed by the West Lake Avenue
+        Redevelopment Plan includes all properties fronting along West Lake
+        Avenue between State Highway 35 and the Township’s boundary with
+        Asbury Park. The area is identified as Block 178, Lots 4, 4.01, 5 and 6;
+        Block 179, Lots 4, 5, and 6; Block 194, Lots 1, 2, 3 and 173-178; Block
+        195, Lots 1, 1.01, 2, 3 and 167-172; Block 217, Lots 56-61 and 482, 484
+        and 487; Block 218.02, Lots 612-618, 627-637, 642, 643 and 646; Block
+        219, Lots 50, 55 and 488-493; and Block 225, Lots 564-568 and 589-611.
+        West Lake Avenue was the Township’s premier commercial corridors
+        but has declined since the 1960s and at the present state consists of
+        primarily underutilized and vacant properties. Some of the commercial
+        establishments show signs of disinvestment and many buildings in the
+        corridor are substandard. The overall goal of the Redevelopment Plan is
+        the creation of walkable, attractive and inviting neighborhood center to
+        serve the needs of the surrounding residential neighborhoods and the
+        Neptune Township community. Additionally, the Plan was put in place
+        with the objective of improving business opportunities and expansion
+        through promotion of new and diverse economic activities and a variety
+        of businesses in the said area. To that end the land uses proposed within
+        the area consist of senior residential, commercial, restaurant, office
+        and mixed use option, residential and office use overlay and mixed uses
+        consisting of commercial on the first floor and residential on the second
+        and third floor, if applicable. The Plan is currently in the process of being
+        implemented, with Phase I of the project being completed.
+    •   Redevelopment Plan for the North Channel of the Shark River: The
+        North Channel of the Shark River is one of the numerous waterfront
+        areas in Neptune. The Redevelopment Plan for the North Channel of the
+        Shark River was revised on November 27, 2006. In order to further
+        enhance its role as a “Gateway” to the Jersey shore, Neptune Township
+        33 has identified the North Channel of the Shark River as a critical
+        community and regional resource and proposed its redevelopment as a
+        new waterfront destination for Neptune and the surrounding region. To
+        that end the Redevelopment Plan proposes the creation of a mixed-use
+        waterfront center supporting the recreational, commercial and
+        residential needs of the Township. To that end the area is slated to be
+        developed to contain a variety of residential, commercial and office
+   MON-L-000477-25 06/26/2025 3:01:14 PM Pg 34 of 40 Trans ID: LCV20251861228
+
+
+
+
+            buildings. If planned and implemented appropriately, the
+            redevelopment of the North Channel can help initiate and support
+            further economic growth and redevelopment in Neptune and provide a
+            wide variety of commercial, recreational and cultural activities that will
+            benefit the residents of the Township. Additionally, it will also promote
+            public access to the waterfront by providing improved circulation, a new
+            public plaza and pedestrian mall and a waterfront walkway and
+            promenade. It is the intent of the Plan to avail of the scenic vistas and
+            waterways in order to attract residents and visitors into the area to shop,
+            dine and recreate in an attractive setting, consequently support
+            economic activity and job creation in the Township as well as an
+            appreciation of the natural resources of the Township.
+        •   Route 35 and West Bangs Avenue Redevelopment Plan: The Route 35
+            and West Bangs Avenue Redevelopment Plan was adopted in 2008. This
+            area, identified as Block 249, Lots 1,4,5,6 and 10.1 and Block 250, Lots
+            1.01 and 3 and containing an area of approximately 1.34 acres, has
+            frontage along State Highway 35, Monroe Avenue and Bangs Avenue.
+            The area contains a mix of vacant commercial and residential buildings.
+            The overall goal of the Redevelopment Plan is the commercial
+            redevelopment of the 1.34 acre tract in a manner that will enhance the
+            Township’s overall economic base.
+        •   Ocean Grove North End Redevelopment Plan: The Ocean Grove North
+            End Redevelopment Plan, adopted in 2008, provides a planning
+            framework for the redevelopment and revitalization of the former North
+            End Hotel site situated at the north end of the Ocean Grove oceanfront
+            and boardwalk. The subject area containing approximately 5.60 acres is
+            identified as Block 1, Lots 1 and 2, Block 1.01, Lots 3 and part of Lot 1,
+            Block 146.03 and Portions of Lots 1 and 2. The Plan proposes to
+            redevelop the site into a new mixed-use community with a hotel and
+            combination of single-family residential and 34 commercial uses
+            including public spaces and amenities. The purpose of the Plan is to
+            reclaim the North End site as the northern anchor to Ocean Grove, while
+            providing for new opportunities for employment and housing within the
+            Township, as well as enhanced public access to the Wesley Lake
+            waterfront and the oceanfront and beach areas of the Township.
+
+
+CONSISTANCY WITH THE STATE PLAN
+
+The Township of Neptune remains consistent with New Jersey State Development and
+Redevelopment Plan. The majority of the Township falls within the State’s PA-1
+Metropolitan Planning Area. This Planning Area is intended to: provide for much of the
+state’s future growth in compact development and redevelopment; revitalize cities, towns
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 35 of 40 Trans ID: LCV20251861228
+
+
+
+
+and neighborhoods, and in particular overburdened neighborhoods; address existing
+legacy issues such as air pollution, urban heat islands, lead contamination, Brownfields,
+urban highways, and combined sewer systems; prevent displacement and gentrification;
+promote growth that occurs in Centers, other appropriate areas that are pedestrian friendly,
+and in compact transit-oriented forms; rebalance urbanization with natural systems;
+promote increased biodiversity and habitat restoration; stabilize and enhance older inner
+ring suburbs; redesign and revitalize auto oriented areas; protect and enhance the
+character of existing stable communities.
+
+A small portion of southwestern Neptune adjacent to the Shark River/ Jumping Brook is
+classified as Parks, Open Space, and Natural Areas. The goal of this Area is to: protect
+critical natural resources; provide for public recreational and educational opportunities;
+promote continued maintenance of associated facilities; and incentivize the connection of
+these areas to a system of open lands.
+
+In compliance with the NJ Department of Environmental Protection, Neptune Township
+maintains multiple public documents related to storm water planning, most notably, a
+stormwater management plan that outlines the proactive steps the Township is taking to
+protect citizens and property from thew adverse effects of stormwater flooding.
+
+Neptune Township is not one of the State’s 36 designated Transit Villages, nor is the
+Township serviced by any NJ Transit rail connections. The nearest Transit Villages to
+Neptune are centered around the Asbury Park train station (~1.6 miles from the Neptune
+Municipal Complex) and the Belmar train station (~3 miles from the Neptune Municipal
+Complex); both of which are served by NJ Transit’s North Jersey Coast Line. Neptune
+Township is services by the 317, 830, 832, and 836 NJ Transit bus routes. The NJ Transit
+North Jersey Coast Line runs through the portion of Neptune Township west of Ocean Grove
+and forms the Township’s eastern border with Bradley Beach. The Bradley Beach Train
+Station is located just outside of the Neptune Township municipal boundary.
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 36 of 40 Trans ID: LCV20251861228
+
+
+
+
+FAIR SHARE PLAN
+
+FAIR SHARE OBLIGATION SUMMARY
+The Fourth Round (2025- 2035) housing obligation is based upon the figures calculated by
+the NJ Department of Community Affairs Affordable Housing Obligations for 2025-2035
+(Fourth Round) Methodology and agreed upon by Fair Share Housing and The Township of
+Neptune. The Township’s 2025-2035 affordable housing obligation is outlined in Table 26
+below.
+
+
+                      TABLE 26: FAIR SHARE OBLIGATION SUMMARY
+                                                                     Number of
+         Obligation Component
+                                                                  Credits Required
+         Present Need                                                    97
+         Prior Round Obligation (1987-1999)                              0
+         Third Round “Gap” and Prospective Need (1999-2025)             202
+         Fourth Round Prospective Need (2025-2035)                      170
+
+The following sections outline how the Township will comply with its Fair Share Obligation.
+
+Lack of Developable Vacant Land
+Given the Township’s relative lack of vacant and developable land, the Township’s ability to
+satisfy its Court-determined affordable housing obligation is limited. To demonstrate its
+lack of vacant developable land, the Township has prepared a Vacant Land Adjustment
+analysis in accordance with N.J.A.C. 5:93:4.2, submitted as part of this plan as Appendix A.
+The Township exhibits a lack of vacant developable land, with redevelopment over time
+presenting itself as the principal vehicle for accomplishing projects with affordable housing.
+The prepared VLA illustrated a lack of vacant land and a Realistic Development Potential
+(RDP) of 38 affordable units.
+
+Satisfaction of the Township’s Rehabilitation/ Present Need Obligation
+The Township of Neptune has a present need/ rehabilitation obligation of 97 units. The
+Township will continue to implement its Home Improvement Program to meet this 100 unit
+rehabilitation obligation. The average per unit rehabilitation costs shall be $10,000 or more.
+Financing in the form of a forgivable loan in an amount up to $25,000 shall be made available
+for eligible rehabilitation work on residential units owned by eligible households. If a
+particular unit requires more than $25,000, the Township will review the application for
+consideration for approval or denial on a case by case basis. For funding amounts over
+$25,000 the applicant would need to demonstrate an urgent need based upon public or
+homeowner health and safety.
+
+SATISFACTION OF PRIOR ROUND OBLIGATION
+As noted in Table 26, Neptune Township was previously classified as an Urban Aid
+municipality and did not have an affordable housing obligation during the first or second
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 37 of 40 Trans ID: LCV20251861228
+
+
+
+
+rounds.
+
+SATISFACTION OF THIRD ROUND OBLIGATION
+Pursuant to the terms of the settlement agreement between the Township and the Fair Share
+Housing Center, the Township had a Third Round obligation of 203 units. The Township
+satisfied its Third-Round obligation with existing affordable housing and associated bonus
+credits as outlined below:
+
+                    TABLE 27: THIRD ROUND OBLIGATION SUMMARY
+               Obligation Component and Eligible Credits                                          Number
+                                                                                                    of
+                                                                                                  Credits
+  Age-Restricted Rental Units                                                                       50
+     Carver Inn                                                                                     14
+     West Lake Senior Apartments1                                                                   36
+  Family Rental Units                                                                               99
+     Winding Ridge Apartments                                                                       99
+  Family For-Sale Units                                                                             18
+     Summerfield Estates                                                                            10
+     Coastal Habitat                                                                                 3
+     Interfaith Neighbors                                                                            5
+  Supportive/Special needs Housing                                                                  12
+     M&O Housing                                                                                    12
+  Bonus Credits                                                                                     50
+     Winding Ridge Apartments (Family Rental Bonus)                                                 50
+  Total Number of Units                                                                            179
+  Total Number of Credits                                                                          229
+  Third Round Prospective Need Obligation                                                          203
+  Third Round Prospective Need Surplus                                                              26
+  1 Project contains a total of 42 units. The Township proposes to claim 36 units to comply with the age-
+
+  restricted cap pursuant to N.J.A.C 5:93-5.14.
+
+Age-Restricted Rental Units
+Carver Inn (Block 602, Lot 12)
+The Affordable Housing Alliance (formerly Monmouth Housing Alliance) developed and
+operates the 100-percent affordable development knows as Carver Inn on Block 602, Lot
+12. The development contains a total of 14 age-restricted rental units that were issued
+certificates of occupancy in 2008. The Township claimed a total of 14 credits toward
+satisfying its Third Round prospective need obligation.
+
+West Lake Senior Apartments (JP Housing) (Block 606, Lots 13 and 15)
+The West Lake Senior Apartments are located at 1609 West Lake Avenue. The community
+was developed utilizing tax-credit financing and is comprised of 42 one-bedroom, age-
+restricted rental units. The community has been in service since 2005. The Township
+claimed credit for 36 of the 42 affordable units to satisfy its Third Round prospective need
+obligation and ensure compliance with the cap on the number of age-restricted units
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 38 of 40 Trans ID: LCV20251861228
+
+
+
+
+pursuant to N.J.A.C. 5:93-5.14.
+
+Family Rental Units
+Winding Ridge Apartments (Block 1401, Lot 1)
+Winding Ridge Apartments is a 99-unit affordable family rental community located off of
+West Bangs Avenue near Route 18. These units have been in service since 1994 and were
+developed utilizing Low Income Housing Tax Credits. The Township applied 99 credits plus
+50 bonus credits toward satisfying its 203-unit Third Round prospective need obligation.
+
+For Sale Units
+Summerfield Estates (Various Blocks/Lots)
+Summerfield Estates contains a total of 17 non-age-restricted sale units, ten of which are
+affordable. The development is located on Summerfield Avenue and is comprised of a
+number of properties. This residential development was financed with assistance from the
+New Jersey Housing and Mortgage Finance Agency and was issued certificates of
+occupancy in 2005. The Township claimed one credit for each of the ten affordable units in
+the development, for a total of ten (10) credits.
+
+Coastal Habitat (Block 617, Lot 15; Block 510, Lot 18; Block 608, Lot 2)
+Coastal Habitat has constructed a total of three (3) affordable, non-age restricted sale units
+at 1810 McBride Road, 138 Division Street, and 1701 Columbus Avenue. These units were
+issued certificates of occupancy in 2005 on property donated to Habitat for Humanity by the
+Township of Neptune. The Township claimed a total of three credits for each of the units
+constructed through this program.
+
+Interfaith Neighbors (Various Blocks/Lots)
+Interfaith Neighbors has constructed a total of five (5) affordable, non-age-restricted sale
+units on five (5) properties located throughout the Township. These units were issued
+certificates of occupancy in 2005 and 2006, and the property used to construct them was
+donated by the Township of Neptune. The Township claimed five (5) credits for these
+properties.
+
+Supportive and Special Needs Housing
+ M&O Housing (Block 3705, Lot 4)
+This property, located at 2550 Asbury Avenue, was developed in 1991 and contains 12 units
+of supportive and special needs housing. The units have been continuously occupied as
+supportive and special needs housing since being developed. Neptune Township claimed
+12 credits for this property.
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 39 of 40 Trans ID: LCV20251861228
+
+
+
+
+FOURTH ROUND OBLIGATION
+
+Satisfaction of the Township’s Realistic Development Potential
+The Township’s Realistic Development Potential (RDP) is 38 units. The Township proposed
+to address this RDP through the following two (2) inclusionary affordable housing projects,
+as well as Third Round surplus credits, totaling 66.5 credits:
+
+          TABLE 28: FOURTH ROUND OBLIGATION COMPLIANCE SUMMARY
+ Project                                     Affordable Units   Bonus Credits    Total Credits
+ Tides at Memorial                                 15               1.5              16.5
+ Faith Ventures                                    16                8                24
+ Third Round Surplus Credits                       26                                 26
+ Total                                             57                9.5             66.5
+ Surplus Credits                                                                     28.5
+
+The Township anticipates a surplus of 28.5 credits, to be used towards future housing
+obligations.
+
+Tides at Memorial
+The proposed Tides at Memorial development is located at Block 302, Lot 27, and consists
+of 83,311.62 acres, located along Memorial Drive, with additional frontage on 11th Avenue
+and Vanderbilt Place. The property is currently utilized as a metal recycling facility,
+containing a masonry building and garage and a separate garage building. The property will
+be redeveloped with a four-story, 75 unit residential building, consisting of a one-story lobby
+and common area and three-stories over a parking garage. Additional site improvements
+would include ADA complaint and EV charging stations, curbing ,sidewalks, stormwater
+management facilities, utility infrastructure, landscaping, and lighting. Fifteen (15) of the
+total 75 units would be set aside for affordable family rental units. As this site is the
+redevelopment of non-residential space, the development is eligible for a 0.5 credit/unit
+bonus, which would result in an additional 7.5 bonus credits. However, as bonus credits are
+capped at 25% of the perspective obligation, this project can only receive credit for 1.5
+bonus credits, when combined with the other Fourth Round projects. The draft zoning
+ordinance is attached herein as Appendix B.
+
+Faith Ventures
+The proposed Faith Ventures development is located Block 1004, Lot 1 which is a 3.21 acres
+located at 57 Highway 35 in Neptune New Jersey. The site currently houses the Living Word
+Christian Fellowship. The site will be subdivided and a smaller church structure will be
+located on one lot. The other lot will be a mixed use development with modest commercial
+on the first floor with 84 total rental units on the second lot with a twenty (20%) set aside
+yielding 16 low- and moderate-income family rental units. As this site is the redevelopment
+of non-residential space, the development is eligible for a 0.5 credit/unit bonus which
+results in 8 bonus credits for 24 total credits. The draft zoning ordinance is attached herein
+as Appendix C.
+    MON-L-000477-25 06/26/2025 3:01:14 PM Pg 40 of 40 Trans ID: LCV20251861228
+
+
+
+
+Satisfaction of the Township’s Unmet Need
+
+The Township has an unmet need of 132 units bases on the remaining Fourth Round
+Obligation. The Township proposes to implement the following mechanisms to address its
+unmet need.
+
+Mandatory Set Aside Ordinance
+The Township will adopt a Township-wide Mandatory Set-Aside Ordinance (“MSO”). The
+MSO will require a 20% affordable housing set aside for residential developments
+comprised of five or more dwelling units. The MSO exempts developments less than five
+dwelling units, residential expansions/additions/renovations/replacements, or any other
+type of residential development that does not result in a net increase in the number of
+dwelling units. In addition, the MSO requires fractional dwelling units to be either (a)
+constructed as an additional unit on site, or (b) be provided for via a payment-in-lieu of
+constructing the second unit to the Township’s Affordable Housing Trust Fund.
+
+The MSO does not give any developer the right to any such rezoning, variance,
+redevelopment designation or other relief, or establish any obligation on the part of Neptune
+or its boards to grant such rezoning, variance, redevelopment designation or other relief. The
+proposed ordinance is included herein as Appendix D.
+
+Overlay Zone Ordinance
+The Township will adopt an Affordable Housing Overlay Zone along the Highway 35 Corridor
+from the Highway 35/Highway 66/Asbury Avenue Circle south to the intersection of Highway
+33. All properties fronting on Highway 35 will be included in the overlay zone which will
+permit Mixed-Use development, requiring commercial/retail and/or office on the first floor
+and residential units on the second and third floors. The residential development will
+require a twenty percent (20%) set aside for low- and moderate-income units. The proposed
+ordinance is included herein as Appendix E.
+
+
+Development Fee Ordinance
+The Township last updated its development fee ordinance in 2012 (LDO-1001). The
+Township will update the development fee ordinance or all new non-residential
+development and new non-inclusionary residential development. The ordinance will
+require residential development fees be collected for all residential expansions that
+increase density pursuant to N.J.S.A. 40:55D-70d(5). The existing ordinance can be found
+in Appendix F.
+

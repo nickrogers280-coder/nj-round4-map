@@ -1,0 +1,2401 @@
+HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 1 of 60 Trans ID: LCV20251899757
+
+
+
+
+Housing Element
+& Fair Share Plan
+                 Township of Clinton
+            Hunterdon County, New Jersey
+                         June 19, 2025
+                      Adopted June 30, 2025
+                   HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 2 of 60 Trans ID: LCV20251899757
+
+                                COMMUNITY PLANNING                                                              PRINCIPALS:
+
+
+  b a
+                                LAND DEVELOPMENT AND DESIGN                                         Joseph H. Burgis PP, AICP
+                                LANDSCAPE ARCHITECTURE                                      Edward Snieckus, Jr. PP, LLA, ASLA
+                                                                                                       David Novak PP, AICP
+
+
+
+
+B U R G I S
+A S S O C I A T E S,   I N C.
+
+
+
+
+HOUSING ELEMENT & FAIR S HARE PLAN
+
+TOWNSHIP OF CLINTON
+HUNTERDON COUNTY, NEW JERSEY
+
+
+PREPARED FOR:
+CLINTON TOWNSHIP PLANNING BOARD
+BA# 4134.08
+
+
+
+
+The original document was appropriately signed and sealed on June 19, 2025 in accordance with Chapter 41 of Title
+13 of the State Board of Professional Planners.
+
+
+
+
+________________________________
+Thomas Behrens, Jr., P.P., AICP
+Professional Planner #6323
+HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 3 of 60 Trans ID: LCV20251899757
+HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 4 of 60 Trans ID: LCV20251899757
+
+
+
+          MEMBERS OF THE CLINTON TOWNSHIP PLANNING BOARD
+
+                Kevin Cimei, Chairman & Acting Board Secretary
+                       Thomas McCaffrey, Vice Chairman
+                              Brian Mullay, Mayor
+                             Bill Glaser, Councilman
+                                  Sandra Butcher
+                                   John Higgins
+                               Suzanne Kleinhans
+                            Mike Aversa, Alternate 1
+                          Richard Grube, Alternate 2
+
+           PLANNING BOARD & AFFORDABLE HOUSING ATTORNEY
+                            Jonathan Drill, Esq.
+                      Stickel, Koenig, Sullivan & Drill
+
+                            TOWNSHIP ENGINEER
+                             Stanley Schrek, P.E.
+                            Van Cleef Engineering
+
+                            TOWNSHIP PLANNER
+                           Tom Behrens, P.P., AICP
+                            Burgis Associates, Inc.
+                         HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 5 of 60 Trans ID: LCV20251899757
+
+
+
+
+CONTENTS
+    Executive Summary ............................................................................................................................................................................................................ 1
+Section 1: Introduction ................................................................................................................................................................................................. 7
+    1.1           Defining Affordable Housing ...........................................................................................................................................................................7
+    1.2           History of Affordable Housing in New Jersey .............................................................................................................................................8
+    1.3           Housing Element and Fair Share Plan Requirements ............................................................................................................................. 10
+Section 2: Housing Element...................................................................................................................................................................................... 12
+    2.1           Community Overview ....................................................................................................................................................................................... 12
+    2.2           Inventory of Municipal Housing Stock ........................................................................................................................................................ 14
+    2.3           Projection of Municipal Housing Stock ...................................................................................................................................................... 20
+    2.4           Population Analysis ........................................................................................................................................................................................... 21
+    2.5           Employment Analysis....................................................................................................................................................................................... 24
+    2.6           Housing and Employment Projections ....................................................................................................................................................... 26
+Section 3: Fair Share Obligation ............................................................................................................................................................................. 28
+    3.1           Summary of Fair Share Obligation .............................................................................................................................................................. 28
+    3.2           Realistic Development Potential (RDP) ....................................................................................................................................................... 29
+Section 4: Fair Share Plan......................................................................................................................................................................................... 34
+    4.1           General Provisions ............................................................................................................................................................................................ 34
+    4.2           Plan Components ............................................................................................................................................................................................. 35
+    4.3           Development Sites & Plan Mechanisms .................................................................................................................................................... 38
+    4.4           Developments Not Included .......................................................................................................................................................................... 51
+    4.5           Crediting Documentation and Ongoing Compliance ........................................................................................................................... 52
+    4.6           Consistency with State Planning Initiatives & Other Plans ................................................................................................................... 52
+Appendix ..................................................................................................................................................................................................................... 55
+     4th Round Complaint for Declaratory Relief Pursuant to AOC Directive #14-24 w/ Resolution .................................................................
+     Mediation Settlement Agreement w/ FSHC ................................................................................................................................................................
+     2017 Third Round Settlement Agreement w/ FSHC ..................................................................................................................................................
+     2018 Third Round Amended Settlement Agreement w/ FSHC..............................................................................................................................
+     Third Round Final Judgment of Compliance and Repose .......................................................................................................................................
+     2021 Third Round Third Amendment to the Settlement Agreement w/ FSHC.................................................................................................
+     Court Opinion Approving Third Amendment to the Settlement Agreement ...................................................................................................
+     2021 Fairness Order and Amended Final Judgment of Compliance and Repose ...........................................................................................
+     2023 Consent Order ...........................................................................................................................................................................................................
+     NJHMFA 2025 Income Limits ...........................................................................................................................................................................................
+     Draft Spending Plan ............................................................................................................................................................................................................
+     Draft Main Street/AH-11 Zone Ordinance ....................................................................................................................................................................
+     Draft AH-12 Zone Ordinance (3 Grayrock Road) .......................................................................................................................................................
+             HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 6 of 60 Trans ID: LCV20251899757
+
+
+
+
+EXECUTIVE SUMMARY
+
+Clinton Township’s 2025 Housing Element and Fair Share Plan (“HE&FSP”) of the Master Plan has been prepared to
+address the manner in which the Township will fulfill its Fourth Round affordable housing obligations in accordance with
+P.L. 2024, c.2. commonly referred to as the “Fair Housing Act 2” or “2024 Fair Housing Act Amendments”. As detailed
+herein, the Township’s Fourth Round and Prior Round affordable housing obligations are derived from several sources.
+These sources include the regulatory provisions of the Council on Affordable Housing (“COAH”), prior settlement
+agreements with Fair Share Housing Center (“FSHC”) for the Third Round, Prior Court-approved Judgments of
+Compliance and Repose, and the recent legislation establishing a new Fourth Round Process and associated housing
+need calculations prepared by the Department of Community Affairs (“DCA’). The Township’s affordable housing
+obligation and Fair Share Plan mechanisms also take into consideration conformance with the Highlands Regional
+Master Plan (“RMP”) as amended and Highlands Council guidance for developing new affordable housing in the
+Highlands Region.
+
+The Township’s affordable housing obligations are summarized as follows:
+
+                          TABLE 1 – CLINTON TOWNSHIP AFFORDABLE HOUSING OBLIGATIONS SUMMARY
+
+             Round                                                      Obligation          RDP            Unmet Need
+             Present Need (Rehabilitation) Obligation                     0 units            N/A              N/A
+             First & Second Round Obligation (1987-1999)                 335 units            -                 -
+             Third Round Obligation (1999 – 2025)                        337 units            -                 -
+             Fourth Round Obligation (2025 – 2035)                      150 units (1)      22 units         128 units
+              (1)   Clinton Township’s DCA calculated Fourth Round Prospective Need Obligation of 174 units was modified
+                    through a mediation agreement between Clinton Township and FSHC.
+
+
+The Township has adopted several HE&FSPs to address its affordable housing obligations through the first three rounds
+of the published affordable housing obligations. These are described herein. In accordance with the FHA-2, all new
+ordinances and ordinance amendments identified herein must be adopted no later than March 31, 2025.
+
+
+
+
+                                                                                        2025 Housing Element and Fair Share Plan
+                                                                                                               Clinton Township
+                                                                                                                                   1
+             HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 7 of 60 Trans ID: LCV20251899757
+
+
+
+First & Second Round Obligation
+
+In 1987, COAH adopted a “fair share” methodology to determine municipal housing need numbers for the First Round
+that was utilized again in 1994 for the Second Round resulting in a combined obligation of 335 units for Clinton Township
+for the period 1987-1999. The Township received substantive certification of its First Round Housing Plan from COAH
+on February 3, 1993 and of its Second Round Plan on March 7, 2001. The Township addressed its combined First and
+Second Round obligation of 335 units in its entirety through the plan components summarized in Table 2, all of which
+are rental units except as otherwise indicated.
+
+                         TABLE 2 – CLINTON TOWNSHIP FIRST & SECOND ROUND PLAN MECHANISMS
+
+                                                                                Bonus
+                                                      Block/                    Credit        Bonus       Total
+ Plan Mechanism                                        Lot         # Units     Multiplier     Credits    Credits      Status
+ Prior Cycle Credits (Pre-1986)
+      Credits Without Controls                           -            13            -               -      13       Complete
+ RCA with New Brunswick                                  -           108            -               -     108       Complete
+ Inclusionary & Group Home Rentals                                                                         55
+      Village Green at Annandale                       49/25         4              -            -          4       Complete
+      The Mews (Senior Housing)                         47/3         35         x 1.33 (1)      3 (3)      38       Complete
+      CRC Longview Group Home                        10/1, 9.01      4           x 2 (2)         4          8        Pending
+      142-144 West Main Street                        60/3, 4         3          x 2 (2)         2          5       Complete
+ 100% Affordable Rentals
+      Willows at Annandale                           60.03/26        66          x 2 (2)            66    132       Complete
+ 100% Affordable – Municipally Sponsored Rentals                                                           27
+      Annandale Village, LLC                          53/3           1              -            -          1      Approved (4)
+      Clinton Woods                                  82/4.04        26              -            -         26       Complete
+ Total                                                  -           260             -          75 (3)     335           -
+                                      (1) Senior restricted bonus credits per Third Round Rules.
+                                          (2) Rental bonus credits per Third Round Rules.
+                                     (3) Bonus credits are capped at 25% of the total obligation.
+                                             (4) Site plan approved by Planning Board.
+
+
+
+
+    2                                                                                                                 2
+                    HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 8 of 60 Trans ID: LCV20251899757
+
+
+
+     Third Round Obligation
+
+     On December 12, 2017, Clinton Township entered into its original Settlement Agreement (“Initial Agreement”) with FSHC
+     establishing its Third Round affordable housing obligation of 337 units. This Settlement Agreement was subsequently
+     amended on February 7, 2018 (“Amended Agreement”), June 15, 2020 (“Second Amendment to the Agreement”) and
+     May 2, 2021 (“Third Amendment to the Agreement”) to facilitate modifications to the Township’s Third Round Fair Share
+     Plan, specifically to replace certain plan mechanisms with others deemed to be more realistic as such opportunities
+     became available. The Township’s Third Round Settlement Agreements with FSHC and amendments are attached to
+     hereto in the Appendix.
+
+     The Clinton Township Planning Board adopted its original Third Round HE&FSP on May 7, 2018 in accordance with the
+     December 12, 2017 Settlement Agreement with FSHC. The Board adopted several amendments to the HE&FSP on June
+     7, 2021 and March 6, 2023 to reflect the several amendments to the Settlement Agreement. The Township was first
+     granted a Final Judgment of Compliance (Third Round “JOR”) for it’s Third Round HE&FSP on January 9, 2019 and on
+     December 10, 2021 for the Third Amendment to the Agreement. In addition, the Township received a Consent Order
+     dated October 12, 2023 authoring modification of the Willows at Spruce Run project to a 96-unit 100% affordable
+     development to be constructed in phases. The Township satisfied the entirety of its 337-unit Third Round Obligation
+     with a combination of plan mechanisms including several inclusionary developments and municipally sponsored 100%
+     affordable rental developments as summarized in Table 3, all of which are rental units except as otherwise indicated.
+
+     It is noted that the status of two of the Township’s Third Round plan mechanisms are indicated as durational adjustments
+     as they have been determined to be realistic opportunities for inclusionary development but lack the necessary water
+     and/or sewer capacity to support the development. In accordance with N.J.A.C. 5:93-4.3, the lack of sewer and water
+     capacity shall constitute a durational adjustment of the municipal housing obligation. The Township has prioritized
+     these sites in coordination with the applicable utilities to ensure that they will be first in line to receive such capacities
+     when available and are otherwise developable.
+
+                                       TABLE 3 – CLINTON TOWNSHIP THIRD ROUND PLAN MECHANISMS
+
+                                                                                      Bonus
+                                                           Block/                     Credit         Bonus         Total
+  Plan Mechanism                                            Lot          # Units     Multiplier      Credits      Credits                    Status
+Inclusionary Development                                                                                            139
+      Headley Farm Estate                               46/33, 33.01       104           -               -          104        Durational Adjustment (3)
+      108 Alton Place                                     79.07/1           28           -               -           28        Durational Adjustment (3)
+      Grayrock Road (AH-10 Zone)                        77.01/2, 3, 4        7           -               -            7              Approved (2)
+  100% Affordable Municipally Sponsored Rentals
+      Clinton Woods                                       82/4.04          58          x 2 (1)          58          116              Complete
+      Willows at Spruce Run (Family Units)               70/6, 6.01        80            -               -          80            Under construction
+      Willows at Spruce Run (Special Needs Units)        70/6, 6.01         2            -               -           2            Under construction
+  Total                                                      -             279           -              58          337                   -
+                                                         (1) Rental bonus credits per Third Round Rules.
+          (2) 3 of the 7 total units are in the Greyrock Crossing, LLC application approved by Planning Board in 2024. The remaining 4 units to be
+                                                      constructed on Lot 3 are pending as durational adjustment.
+             (3) “Durational Adjustment” means a deferral of the municipal low and moderate-income housing obligation based on the lack of
+                                                infrastructure pursuant to N.J.S.A. 52:27D-307(c)(2) and NJ.A.C. 5:93-4.
+
+
+
+
+                                                                                                  2025 Housing Element and Fair Share Plan
+                                                                                                                         Clinton Township
+                                                                                                                                                  3
+              HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 9 of 60 Trans ID: LCV20251899757
+
+
+
+Fourth Round Obligation
+
+In accordance with the methodology prescribed in the FHA-2, the DCA calculated for Clinton Township a Fourth Round
+Prospective Need Obligation of 174 units and Present Need (Rehabilitation) Obligation of 0 units. The Act makes clear
+that the DCA’s Fourth Round municipal housing need calculations are advisory and non-binding, and require
+municipalities to determine their respective affordable housing obligations utilizing the same methodology. Upon
+inspection of the DCA’s land capacity factor analysis mapping made public in November 2024, the Township concluded
+that modification of the DCA calculated Prospective Need Obligation of 174 units was warranted based on the latest
+up to date data and local information. The Township adopted Resolution No. 2025-36 on January 22, 2025 to modify
+its Prospective Need Obligation to 109 units based on its more current local data and information as applied to the
+methodology prescribed in the FHA-2. The Township subsequently filed Resolution No. 2025-36 with the Affordable
+Housing Dispute Resolution Program on January 23, 2025 indicating same in accordance with the requirements of
+N.J.S.A. 52:27D-301, et seq. and the timeframes set forth in Administrative Office of the Courts (“AOC”) Directive #14-
+24.
+
+For the purposes of establishing its Fourth Round affordable housing obligation, and while the Township disputed
+FSHC’s objections that the Township’s Fourth Round Prospective Need should be more than 109 units, Clinton Township
+entered into a Mediation Agreement with FSHC executed March 27, 2025 modifying the Township’s Fourth Round
+Prospective Need Obligation to 150 units and confirming its Present Need Obligation of 0 Units. The Program issued
+an Order dated March 28, 2025 that officially set the Township’s Fourth Round affordable housing obligation in
+accordance with the FSHC Mediation Agreement.
+
+The Township’s Resolution 2025-36 noted that the Township reserves the right to seek an adjustment of its Fourth Round
+Prospective Need Obligation available under the FHA-2 and compliance mechanisms adopted by COAH. Specifically,
+Clinton Township as a municipality in the Highlands Region that is fully conforming with the Highlands Regional Master
+Plan (“RMP”) is entitled to conduct a Highlands Vacant Land Analysis (“HVLA”) to adjust its Fourth Round Prospective
+Need Obligation. Accordingly, the Township conducted a detailed HVLA through the Highlands Build-Out Portal
+application pursuant to the FHA-2, COAH’s compliance mechanisms and Highlands Municipal Build-Out Update. The
+Township’s HVLA analyzed private and publicly owned vacant parcels (Property Classes 1 and 15C), farm qualified
+properties (Property Class 3B) and recent development and approvals, among other considerations, resulting in a
+Fourth Round Realistic Development Potential (“RDP”) of 22 units and Unmet Need (difference between Prospective
+Need Obligation and RDP) of 128 units.
+
+In addition to the RDP calculation, the FHA-2 includes language which requires municipalities seeking a vacant land
+adjustment to satisfy at least 25% of the Fourth Round RDP obligation through redevelopment. Specifically, amended
+Section 1 of P.L.1995, c.231 (C.52:27D-310.1) of FHA-2 states:
+
+        Any municipality that receives an adjustment of its prospective need obligations for the fourth round or
+        subsequent rounds based on a lack of vacant land shall as part of the process of adopting and implementing its
+        housing element and fair share plan identify sufficient parcels likely to redevelop during the current round of
+        obligations to address at least 25 percent of the prospective need obligation that has been adjusted, and adopt
+        realistic zoning that allows for such adjusted obligation, or demonstrate why the municipality is unable to do so.
+
+Clinton Township interprets this requirement to mean 25% of the Township’s Fourth Round Unmet Need of 128 units
+resulting in a redevelopment obligation of 32 units (128 units * 25%).
+
+    4                                                                                                            4
+               HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 10 of 60 Trans ID: LCV20251899757
+
+
+
+Clinton Township will address the entirety of its combined 22-unit Fourth Round RDP and 32-unit redevelopment
+obligation totaling 54 units with several plan mechanisms, including inclusionary development and 100% affordable
+municipally sponsored rental development as summarized in the table below, all of which are rental units except as
+otherwise indicated.
+
+         TABLE 4 – CLINTON TOWNSHIP PLAN MECHANISMS TO ADDRESS COMBINED FOURTH ROUND RDP & REDEVELOPMENT
+                                                     OBLIGATION
+
+                                                                                Bonus
+                                                        Block/                  Credit         Bonus        Total
+  Plan Mechanism                                         Lot        # Units    Multiplier      Credits     Credits            Status
+Inclusionary Development
+      9 Main St./Village Green                          49/25          2         x 0.5             1          3          To be rezoned
+  100% Affordable Municipally Sponsored Rentals
+      Willows at Spruce Run (Special Needs)           70/6, 6.01       8          x2              8           16             Under
+      Willows at Spruce Run (Family)                  70/6, 6.01       6           -              0            6          construction
+      3 Grayrock Road                                   74/19         25          x2             4 (1)        29             Under
+                                                                                                                          construction
+                                                                                                                         To be rezoned
+ Total                                                                 41          -             13 (1)       54                -
+                           (1)   Bonus credits are capped at a maximum of 25% of the Fourth Round Obligation.
+
+
+
+
+                                                                                         2025 Housing Element and Fair Share Plan
+                                                                                                                Clinton Township
+                                                                                                                                       5
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 11 of 60 Trans ID: LCV20251899757
+
+
+
+The Township’s 2025 HE&FSP addressing its Fourth Round affordable housing obligations is divided into the following
+sections:
+
+    Section 1: Introduction
+     The first section of the 2025 HE&FSP provides an introduction to affordable housing. It summarizes what
+     affordable housing is, offers an overview of the history of affordable housing in the state, and explains the
+     role of a housing element and fair share plan.
+
+    Section 2: Housing Element
+     Section 2 contains the Housing Element for Clinton Township. It offers a community overview of the
+     Township, as well as background information regarding its population, housing, and employment
+     characteristics. It also provides projections of the Township’s housing stock and employment.
+
+    Section 3: Fair Share Obligation
+     Next, Section 3 provides an overview of the Township’s fair share obligation. It includes a brief history of
+     the methodologies utilized to calculate affordable housing obligations throughout the state.
+
+    Section 4: Fair Share Plan
+     Finally, Section 4 details the manner in which the Township has addressed its prior First, Second and Third
+     Round obligations, how it will address its Fourth Round Prospective Need Obligation, and how same is
+     consistent with the FHA, applicable COAH and UHAC regulations, State planning initiatives and Highlands
+     Regional Master Plan (“RMP”).
+
+
+
+
+   6                                                                                                      6
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 12 of 60 Trans ID: LCV20251899757
+
+
+
+
+Section 1: Introduction
+The following section provides an overview of affordable housing in New Jersey, the role of a housing element
+and fair share plan and the Township’s previous compliance efforts.
+
+
+1.1    DEFINING AFFORDABLE HOUSING
+Affordable housing is income-restricted housing available for sale or rent at varying income thresholds generally
+characterized as very-low (30%), low (50%) and moderate-income (80%) households in relation to the respective
+housing region’s median income. New Jersey is divided into six housing regions. Clinton Township is located in Region
+3 which includes Hunterdon, Middlesex and Somerset Counties.
+
+The State’s regional income limits are updated annually with different categories based on household income levels
+and size. Table 5 provides a sample of the 2025 regional income limits for Region 3. For example, a four-person
+household with a maximum income of $122,720 could qualify for affordable housing in Clinton Township. The complete
+2025 NJHMFA income table is provided in the Appendix.
+
+                                       TABLE 5 – 2025 REGION 3 INCOME LIMITS
+
+                        Income Level         2 Person     3 Person    4 Person      5 Person
+                        Median (100%)        $122,800     $138,100    $153,400      $165,700
+                        Moderate (80%)       $98,240      $110,480    $122,720      $132,560
+                        Low (50%)            $61,400      $69,050     $76,700       $82,850
+                        Very-Low (30%)       $36,840      $41,430     $46,020        $49,710
+                        Source: NJHMFA UHAC 2025 Affordable Housing Regional Income Limits by
+                        Household Size effective May 16, 2025.
+
+
+Affordable housing exists in several forms including 100% affordable developments, deed-restricted accessory
+apartments, special needs/supportive housing or group homes, assisted living facilities, age-restricted housing and
+inclusionary development in which a certain percentage of the housing units are reserved for affordable housing while
+the remaining units are market rate.
+
+
+
+
+                                                                            2025 Housing Element and Fair Share Plan
+                                                                                                   Clinton Township
+                                                                                                                       7
+               HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 13 of 60 Trans ID: LCV20251899757
+
+
+
+1.2       HISTORY OF AFFORDABLE HOUSING IN NEW JERSEY
+
+Municipal affordable housing requirements in New Jersey began in 1975 when the New Jersey Supreme Court rendered
+its ‘Mount Laurel I’ decision which established that every developing municipality in the State has a constitutional
+obligation to provide a realistic opportunity for the creation of affordable housing. The Mount Laurel I decision was
+followed by a series of New Jersey Supreme Court decisions known as the ‘Mount Laurel Doctrine’ and State legislation
+which provided further clarity regarding municipal housing need calculations, compliance requirements and
+administrative review. Most recently, in March 2024, the State Legislature adopted amendments to the Fair Housing
+Act originally enacted in 1985 to create a new Fourth Round municipal compliance program for the period 2025 to
+2035.
+
+         Mount Laurel I. In 1975, the New Jersey Supreme Court in its So. Burlington Cty. NAACP v. Township of Mount
+          Laurel decision, commonly referred to as ‘Mount Laurel I’, determined that every developing municipality in
+          New Jersey has a constitutional obligation to provide a realistic opportunity for the construction its fair share of
+          affordable housing. A ‘realistic opportunity’ means that municipalities cannot have exclusionary zoning that
+          prohibits the development of affordable housing. Municipalities initially disregarded this obligation given the
+          decision’s general lack of guidance including regulatory standards, housing need numbers and an agency to
+          administer such a program.
+
+         Mount Laurel II. The New Jersey Supreme Court’s 1983 decision known as ‘Mount Laurel II’ clarified that all
+          municipalities, whether developing or not, have a constitutional obligation to provide for their fair share of
+          affordable housing. The Mount Laurel II decision called upon the State Legislature to enact legislation that
+          would shift the responsibility of the courts from having to administer the affordable housing process and
+          determine municipal housing need numbers. The decision also introduced the concept of the ‘builder’s remedy’
+          suit whereby developers could challenge municipal zoning to develop affordable housing where municipalities
+          did not otherwise meet their fair share obligation.
+
+         Fair Housing Act. The State Legislature responded to the Mount Laurel II decision by passing the Fair Housing
+          Act in 1985 which established the framework for an administrative affordable housing process and creation of
+          the Council on Affordable Housing (COAH), the agency intended to implement the process. COAH would be
+          responsible for assigning municipal fair share housing obligations, reviewing municipal affordable housing plans
+          and issuing substantive certification for compliant plans. A town in receipt of substantive certification would be
+          immune from builder’s remedy suits.
+
+         Mounter Laurel III. The New Jersey Supreme Court affirmed the validity of the Fair Housing Act in its 1986
+          ‘Mount Laurel III’ decision.
+
+         First Round. The First Round of affordable housing governed by COAH covered the period 1987 to 1993 with
+          municipal affordable housing obligations based on a “fair share” methodology.
+
+         Second Round. The Second Round of affordable housing spanned from 1993 to 1999 which also utilized a “fair
+          share” methodology to assign municipal affordable housing need numbers.
+
+
+
+
+      8                                                                                                             8
+        HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 14 of 60 Trans ID: LCV20251899757
+
+
+
+   Third Round. While the First and Second Rounds utilized a ‘fair share’ methodology, COAH utilized a new
+    ‘growth share’ methodology in preparing the Third Round substantive and procedural rules and affordable
+    housing need numbers first adopted in 2004, 5 years after the expiration of the Second Round, intending to
+    cover the period from 1999 to 2014. However, these rules were challenged and ultimately invalidated by the
+    Appellate Division in 2007 which directed to adopt revised rules. COAH adopted its second iteration of the
+    Third Round rules in 2008 that were also challenged and again invalidated by the Appellate Division in 2010
+    which directed COAH to revert back to the original ‘fair share’ methodology. This decision was affirmed by the
+    New Jersey Supreme Court in 2013. COAH published its third iteration of Third Round rules in 2014 but failed
+    to adopt the regulations in a deadlocked 3-3 vote.
+
+   Mount Laurel IV. In the New Jersey Supreme Court’s 2015 ‘Mount Laurel IV’ decision, the Court decided that
+    COAH had become dysfunctional and returned jurisdiction of municipal affordable housing administration to
+    the trial courts as had been the arrangement prior to the creation of COAH in 1985. The decision included
+    procedures for municipal participation but did not provide housing need numbers leaving municipalities to
+    determine their affordable housing obligations. Several sets of housing need numbers were prepared by
+    various entities which, in most cases, led to individual municipal settlement agreements with Fair Share Housing
+    Center and intervening developers. Municipalities receiving substantive certification of their Third Round plans
+    from the courts received immunity until the end of the Third Round in July 2025.
+
+   Gap Period Decision. On January 18, 2017, the New Jersey Supreme Court ruled that municipalities are
+    responsible for affordable housing obligations that accrued during the “gap-period” between 1999 and 2015
+    when prior iterations of the Third Round rules were being litigated.
+
+   Fair Housing Act Amendments (A-4/S-50). On March 20, 2024, Governor Murphy signed the A4/S50 Bill into
+    law, which significantly amended the FHA for the 4th Round and beyond (FHA-2”). The amendments to the
+    FHA eliminated COAH, kept superior oversight of the trial courts to ultimately approve municipal HE&FSPs, and
+    created a new entity to act as an intermediary in resolving disputes and reviewing municipal plans known as
+    the Affordable Housing Dispute Resolution Program, commonly referred to as “the Program,” which consists of
+    seven retired Mount Laurel Judges who have the discretion to hire “Special Adjudicators,” which were formerly
+    called Court Special Master in previous rounds. FHA-2 also involved the Department of Community Affairs
+    (“DCA”) and the Administrative Office of the Courts (“AOC”) in the process.
+
+    The DCA was designated by the FHA-2 as the entity responsible for calculating the state’s regional needs as
+    well as each municipality’s present and prospective fair share obligations pursuant to the methodology set forth
+    in the unpublished Jacobson Decision. However, the FHA-2 makes it clear that these numbers are advisory and
+    non-binding, and that each municipality must set its own obligation number utilizing the same methodology.
+    The Program was tasked to handle any disputes regarding affordable housing obligations and plans, and issuing
+    recommendations to the Superior Court judges, as the Courts were kept in the process to ultimately issue a
+    Compliance Certification formally approving a municipality’s HE&FSP, which would continue immunity from all
+    exclusionary zoning lawsuits until July 30, 2035.
+
+
+
+
+                                                                         2025 Housing Element and Fair Share Plan
+                                                                                                Clinton Township
+                                                                                                                    9
+               HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 15 of 60 Trans ID: LCV20251899757
+
+
+
+1.3        HOUSING ELEMENT AND FAIR SHARE PLAN REQUIREMENTS
+
+The Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.) stipulates that municipalities must adopt a master plan
+containing at least a land use plan element and housing plan element in order to lawfully adopt and enforce a zoning
+ordinance. The HE&FSP serves as the blueprint for how a municipality will satisfy its fair share of affordable housing.
+Municipalities without an approved HE&FSP are susceptible to a builder’s remedy (exclusionary zoning) lawsuit whereby
+a prospective developer can file suit to circumvent the municipality’s zoning ordinance and rezone specific property to
+permit housing development at higher densities and intensities than a municipality would otherwise allow for the
+provision of a certain percentage of units reserved as affordable.
+
+C.52:27D-310, Essential components of municipality’s housing element, of the 2024 Fair Housing Act Amendments sets
+forth the required HE&FSP components as follows:
+
+      a. An inventory of the municipality's housing stock by age, condition, purchase or rental value, occupancy
+         characteristics, and type, including the number of units affordable to low- and moderate-income households
+         and substandard housing capable of being rehabilitated, and in conducting this inventory the municipality shall
+         have access, on a confidential basis for the sole purpose of conducting the inventory, to all necessary property
+         tax assessment records and information in the assessor's office, including but not limited to the property record
+         cards;
+
+      b. A projection of the municipality's housing stock, including the probable future construction of low- and
+         moderate-income housing, for the next ten years, taking into account, but not necessarily limited to,
+         construction permits issued, approvals of applications for development and probable residential development
+         of lands;
+
+      c. An analysis of the municipality's demographic characteristics, including but not necessarily limited to, household
+         size, income level and age;
+
+      d. An analysis of the existing and probable future employment characteristics of the municipality;
+
+      e. A determination of the municipality's present and prospective fair share for low- and moderate-income housing
+         and its capacity to accommodate its present and prospective housing needs, including its fair share for low-
+         and moderate-income housing, as established pursuant to section 3 of P.L.2024, c.2 (C.52:27D-304.1);
+
+      f.   A consideration of the lands that are most appropriate for construction of low- and moderate-income housing
+           and of the existing structures most appropriate for conversion to, or rehabilitation for, low- and moderate-
+           income housing, including a consideration of lands of developers who have expressed a commitment to provide
+           low- and moderate-income housing;
+
+      g. An analysis of the extent to which municipal ordinances and other local factors advance or detract from the
+         goal of preserving multigenerational family continuity as expressed in the recommendations of the
+         Multigenerational Family Housing Continuity Commission, adopted pursuant to paragraph (1) of subsection f.
+         of section 1 of P.L.2021, c.273 (C.52:27D-329.20);
+
+
+
+   10                                                                                                           10
+         HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 16 of 60 Trans ID: LCV20251899757
+
+
+
+h. For a municipality located within the jurisdiction of the Highlands Water Protection and Planning Council,
+   established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an analysis of compliance of the housing element
+   with the Highlands Regional Master Plan of lands in the Highlands Preservation Area, and lands in the Highlands
+   Planning Area for Highlands conforming municipalities. This analysis shall include consideration of the
+   municipality’s most recent Highlands Municipal Build Out Report, consideration of opportunities for
+   redevelopment of existing developed lands into inclusionary or 100 percent affordable housing, or both, and
+   opportunities for 100 percent affordable housing in both the Highlands Planning Area and Highlands
+   Preservation Area that are consistent with the Highlands regional master plan; and
+
+i.   An analysis of consistency with the State Development and Redevelopment Plan, including water, wastewater,
+     stormwater, and multi-modal transportation based on guidance and technical assistance from the State
+     Planning Commission.
+
+
+
+
+                                                                          2025 Housing Element and Fair Share Plan
+                                                                                                 Clinton Township
+                                                                                                                     11
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 17 of 60 Trans ID: LCV20251899757
+
+
+
+
+Section 2: Housing Element
+This section provides the Housing Element portion of Clinton Township’s Fourth Round HE&FSP including an overview
+of the Township’s existing land use pattern and information pertaining to population, housing and employment
+characteristics and projections.
+
+
+2.1     COMMUNITY OVERVIEW
+
+Clinton Township comprises a land area of approximately 21,693 acres located in northwest Hunterdon County. The 8
+municipalities adjacent to Clinton Township include Tewksbury, Union, Readington, Raritan and Franklin Townships, Town
+of Clinton and Boroughs of Lebanon and High Bridge. The Township is located at the crossroads of Interstate Route
+78, State Route 31 and U.S. Route 22 with additional regional access via County Routes 623, 629, 639 and 641. Public
+transportation options include a bus park and ride located at the intersection of Center Street and Route 31 and NJ
+Transits Raritan Velly Line accessed via Annandale Station.
+
+The Township is characterized by rolling hills and its agricultural heritage with substantial areas devoted to permanent
+open space and farmland. The majority of residential development in the Township has occurred west of Route 31 and
+north of Route 78 which consists of single-family homes, townhouses and multifamily development. Commercial uses
+are generally concentrated along Routes 31 and 22 with commercial nodes located along Beaver Avenue and Center
+Street. Spruce Run and Round Valley Reservoirs both located in Clinton Township provides drinking water to
+approximately 2.5 million people in the State while much of the local housing stock is served by wells underscoring the
+significance of water and land conservation in the vicinity of these regional resources. The Township is also impacted
+by the South Branch of the Raritan River, Beaver Brook and associated tributaries, many of which are classified as
+Category One streams warranting the highest levels of protection in New Jersey. The accompanying Existing Land Use
+Map depicts the distribution of land uses and major water resources throughout the Township.
+
+The Township is located in the New Jersey Highlands region with 97% (21,054 acres) of its land area located in the
+Highlands Planning Area and 3% (639 acres) located in the Preservation Area along the Township’s northern boundary.
+In December 2009, the Clinton Township Mayor and Council adopted Resolutions Nos. 144-09 and 145-09 (appendices
+A-1 and A-2) petitioning the Highlands Council for plan conformance for its lands located in both the Highlands
+Preservation and Planning Areas. The Highlands Council approved the Township’s petition for plan conformance on
+June 18, 2015. Clinton Township is now fully conforming with the Highlands Regional Master Plan (“RMP”) having
+received Highlands Council approval for Highlands Modules 1, 2 and 3 and adoption of the Township’s Highlands Land
+Use Ordinance, the first iteration of which was adopted in January 2021 and latest in December 2024 via Ordinance No.
+1205-2024 to implement recent Highlands RMP amendments, including a mandatory affordable housing set-aside of
+20% for all residential development of five units or more.
+
+
+
+
+   12                                                                                                        12
+HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 18 of 60 Trans ID: LCV20251899757
+
+
+
+
+                                                   2025 Housing Element and Fair Share Plan
+                                                                          Clinton Township
+                                                                                              13
+             HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 19 of 60 Trans ID: LCV20251899757
+
+
+
+2.2      INVENTORY OF MUNICIPAL HOUSING STOCK
+
+This section of the Housing Element provides an inventory of the Township’s housing stock as required by the Fair
+Housing Act as amended in 2024. The inventory details such housing characteristics as age, condition, purchase/rental
+value, and occupancy of the Township’s existing housing stock. It also details the number of affordable housing units
+available to low-and-moderate income households and the number of substandard housing units capable of being
+rehabilitated.
+
+It is noted that there may be inconsistencies in some of the data presented herein derived from the various data sources
+which include estimates that in some cases clearly exhibit margins of error. However, this information from the U.S.
+Decennial Census and American Community Survey Estimates prepared by the U.S. Census Bureau is considered among
+the most reliable and current data available and as such, is utilized in this document to illustrate trends and projections
+impacting the Township’s housing stock.
+
+    1.   Number of Dwelling Units. The Township experienced its most significant growth from 1990 to 2000 for the
+         period depicted with modest growth occurring between 2000 and 2020. The decrease in housing units shown
+         from 2000 to 2023 represents an error in the American Community Survey Estimate during which the number
+         of housing units in the Township remained stable. These figures do not include the 84-unit, 100% affordable
+         Clinton Woods development located on the Marookian site at Block 82 Lot 4.04 which began leasing units in
+         2023. The Township’s housing stock is anticipated to increase by over 700 hundred units in the next decade
+         from the several housing developments included in the Township’s Third and Fourth Round Fair Share Plan’s
+         summarized in Section 4.
+
+                                                TABLE 6 - DWELLING UNITS (1990-2023)
+                                                   CLINTON TOWNSHIP, NEW JERSEY
+
+                                                   Total
+                                                  Dwelling        Numerical         Percentage
+                                        Year       Units           Change             Change
+                                         1990        3,514               -                 -
+                                        2000         4,234             720               17.0%
+                                         2010        4,516             282               6.7%
+                                        2020         4,888             372               8.2%
+                                        2023         4,807             (81)              (1.7%)
+                         Source: U.S. Decennial Census 1990 - 2020; 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+   14                                                                                                                  14
+         HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 20 of 60 Trans ID: LCV20251899757
+
+
+
+2. Occupancy Status. The Township’s housing stock experienced a decrease in ownership from 2010 to 2020 but
+   has since increased again. The recent increase in ownership is due in part to the recent boom in home sales
+   since the COVID-19 Pandemic, the height of which began in March 2020 and led to an influx of home and land
+   purchases in rural and suburban areas. The relative rate of homeownership in the Township is anticipated to
+   decrease somewhat over the next decade due to the several residential developments included in the Township’s
+   Third and Fourth Round Fair Share Plans which include several hundred rental units and some for sale units.
+
+                            TABLE 7 - HOUSING UNITS BY TENURE AND OCCUPANCY STATUS (2000-2023)
+                                               CLINTON TOWNSHIP, NEW JERSEY
+
+                                      2000                      2010                       2020                        2023
+       Category                 Units   Percent           Units   Percent            Units    Percent            Units   Percent
+       Owner-Occupied            3,748      88.5%           3,922     86.8%            4,024     82.3%             4,273     88.9%
+       Renter-Occupied             381       9.0%             500      11.1%             634     13.0%               469      9.8%
+       Vacant                      105       2.5%              94       2.1%             230      4.7%                65      1.4%
+       Total Units               4,234     100.0%           4,516    100.0%            4,888    100.0%             4,807    100.0%
+                            Source: U.S. Decennial Census 2000 - 2020; 2023 American Community Survey 5-Year Estimates.
+
+
+
+3. Housing Characteristics. Tables 8 and 9 quantify the types of units that comprise the Township’s housing stock
+   and the bedroom distribution among units. It is noted that the number of 1-unit attached (townhouses) shown
+   for the year 2000 appears to be an inaccurate estimation. Between 2010 and 2023, the number of townhouses
+   in the Township increased by at least 150 units resulting from the Willows at Annandale (66 units) and Clinton
+   Woods (84 units) projects. The number of townhouse and multifamily units is expected to further increase from
+   the several residential developments included in the Township’s Third and Fourth Round Fair Share Plans.
+
+                                              TABLE 8 - UNITS IN STRUCTURES (2000-2023)
+                                                   CLINTON TOWNSHIP, NEW JERSEY
+
+      Units in                     2000                        2010                      2020(1)                      2023
+      Structure               Number  Percent             Number Percent             Number Percent              Number Percent
+      1-unit, detached             3,347         79.1%         3,321       73.5%          3,414        78.6%         3,659         76.1%
+      1-unit, attached               430         10.2%          557        12.3%           304          7.0%           621         12.9%
+      2 units                          74         1.7%            89        2.0%             76         1.7%            71          1.5%
+      3 or 4 units                    117         2.8%           161        3.6%             93         2.1%            89          1.9%
+      5 to 9 units                    131         3.1%           198        4.4%           248          5.7%           157          3.3%
+      10 to 19 units                  111         2.6%           105        2.3%            180         4.1%           170          3.5%
+      20 or more units                  8         0.2%            85        1.9%             30         0.7%            40          0.8%
+      Mobile home                      16         0.4%             0        0.0%              0         0.0%             0          0.0%
+      Boat, RV, van, etc.               0         0.0%             0        0.0%              0         0.0%             0          0.0%
+      Total                        4,234       100.0%          4,516      100.0%         4,345        100.0%         4,807        100.0%
+                         Source: U.S. Decennial Census 1990 - 2000; 201 & 2023 American Community Survey 5-Year Estimates.
+                                       (1) Based upon ACS data and as such, differs from data in Tables 1 and 2.
+
+
+
+
+                                                                                                  2025 Housing Element and Fair Share Plan
+                                                                                                                         Clinton Township
+                                                                                                                                             15
+         HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 21 of 60 Trans ID: LCV20251899757
+
+
+
+     The bedroom distribution of units in the Township has remained relatively stable with apparent decreases in the
+     number of 1-bedroom units and increase in the number of 4-bedroom units. The residential developments
+     included in the Township’s Fair Share Plan will increase the numbers of 1 and 2-bedroom units.
+
+                            TABLE 9 - NUMBER OF BEDROOMS IN HOUSING UNITS (2000-2023)
+                                          CLINTON TOWNSHIP, NEW JERSEY
+
+                                   2000                       2010                        2020(1)                 2023
+         Bedrooms       Number Percent Number Percent Number Percent Number Percent
+          0                         0         0.0%             0          0.0%             13          0.3%        0     0.0%
+          1                      354          8.4%          389           8.6%            251          5.8%      243     5.1%
+          2                      613         14.5%           681         15.1%           553          12.7%      767    16.0%
+          3                     1,171        27.7%         1,106        24.5%           1,133         26.1%    1,258    26.2%
+          4                    1,783         42.1%        1,990         44.1%           2,012        46.3%     2,229    46.4%
+          5 or More              313          7.4%          350           7.8%           383           8.8%      310     6.4%
+          Total               4,234         100.0%        4,516        100.0%          4,345        100.0%     4,807   100.0%
+                    Source: U.S. Decennial Census 1990 – 2000; 2010 - 2023 American Community Survey 5-Year Estimates.
+                                    (1) Based upon ACS data and as such, differs from data in Tables 1 and 2.
+
+
+
+4. Housing Age. As shown in Table 10, 49.3% of the Township’s housing stock was constructed between 1980 and
+   2000. Only 9.0% of housing units were constructed after 2000 indicating that approximately 91% of all housing
+   units are 25 years or older. Not factored in this data is the 84-unit 100% affordable Clinton Woods development
+   on the Marookian site which began leasing in 2023 and was fully occupied in 2024. The slowdown in housing
+   starts since 2000 is likely attributable to several factors including the lack of available public sewer and water in
+   Clinton Township and Highlands regulations.
+
+                                               TABLE 10 - YEAR STRUCTURE BUILT
+                                               CLINTON TOWNSHIP, NEW JERSEY
+
+                                              Year Built         Units      Percent
+                                              2020 or later            0           0.0%
+                                              2010 or 2019            86           1.8%
+                                              2000 to 2009           346           7.2%
+                                              1990 to 1999          1,138         23.7%
+                                              1980 to 1989          1,231         25.6%
+                                              1970 to 1979           726          15.1%
+                                              1960 to 1969           495          10.3%
+                                              1950 to 1959           271           5.6%
+                                              1940 to 1949            67           1.4%
+                                              1939 or earlier        447           9.3%
+                                              Total                4,807         100.0%
+                                          Source: 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+16                                                                                                                              16
+           HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 22 of 60 Trans ID: LCV20251899757
+
+
+
+5. Housing Conditions. Overcrowding is defined as housing units with more than one occupant per room. As
+   shown in Table 11, since at least 2000, the Township has had very few housing units (less than 1%) considered to
+   be overcrowded.
+
+                                            TABLE 11 - OCCUPANTS PER ROOM (2000-2023)
+                                                   CLINTON TOWNSHIP, NEW JERSEY
+
+         Occupants                  2000                       2010                        2020                      2023
+         Per Room        Number         Percent       Number Percent Number                   Percent       Number       Percent
+         1.00 or less           4,121         99.8%         4,416         99.9%        4,140       99.0%          4,742    100.0%
+         1.01 to 1.50               8          0.2%             6          0.1%           28        0.7%              0      0.0%
+         1.51 or more               0          0.0%             0        100.0%           13        0.3%              0      0.0%
+         Total                  4,129        100.0%         4,422        100.0%        4,181      100.0%          4,742    100.0%
+                      Source: U.S. Decennial Census 1990 - 2000; 2010 - 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+6. Housing Facilities. It is estimated that all of the housing units in Clinton Township contain complete kitchen and
+   plumbing facilities. Approximately 98.5% of housing units utilize standard heating equipment. This information
+   reveals that few housing units in Clinton Township are characterized as deficient with respect to these indices.
+
+            TABLE 12 - KITCHEN, PLUMBING & HEATING FACILITIES FOR OCCUPIED DWELLING UNITS (2000-2023)
+                                          CLINTON TOWNSHIP, NEW JERSEY
+
+                                        2000                      2010                       2020                       2023
+    Facilities                     Number  Percent           Number Percent             Number Percent             Number  Percent
+    Kitchen:
+     With Complete Facilities           4,122       99.8%         4,422       100.0%          4,181      100.0%          4,742       100.0%
+     Lacking Complete Facilities            7        0.2%             0         0.0%              0        0.0%              0         0.0%
+    Plumbing:
+     With Complete Facilities           4,113       99.6%         4,408        99.7%          4,181      100.0%          4,742       100.0%
+     Lacking Complete Facilities           16        0.4%            14         0.3%              0        0.0%              0         0.0%
+    Heating Equipment:
+     Standard Heating Facilities       4,088        99.0%         4,370        98.8%         4,065        97.2%          4,673       98.5%
+     Other Means, No Fuel
+                                          41          1.0%           52          1.2%           116        2.8%             69        1.5%
+     Used
+                         Source: U.S. Decennial Census 1990 - 2000; 2010 - 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+                                                                                                 2025 Housing Element and Fair Share Plan
+                                                                                                                        Clinton Township
+                                                                                                                                              17
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 23 of 60 Trans ID: LCV20251899757
+
+
+
+  7. Purchase and Rental Values. For several decades, the Township experienced median gross rents higher than
+     Hunterdon County. In 2023, the Township’s median gross rent was estimated at $2,401 more than 40% higher
+     than that of the County’s median gross rent of $1,707. The Township’s median gross rent increased an estimated
+     75% since 2010.
+
+                      TABLE 13 - GROSS RENT OF SPECIFIED RENTER-OCCUPIED HOUSING UNITS (1990-2023)
+                                              CLINTON TOWNSHIP, NEW JERSEY
+
+                                           2000                         2010                        2020                    2023
+          Rent                    Number Percent Number Percent Number Percent Number Percent
+            Less than $200                  7          1.9%              -            -               -           -          -           -
+            $200 to $299                    0         0.0%               -            -               -           -          -           -
+            $300 to $499                    7          1.9%              -            -           38(3)      9.2%(3)       0(3)     0.0%(3)
+            $500 to $999                  148        40.9%            70(2)     14.0%(2)             0         0.0%        22         4.7%
+            $1,000 to $1,499              116        32.0%            230         36.0%             70        17.0%        28         6.0%
+            $1,500 to $1,999             84(1)      23.2%(1)         155(1)     31.0%(1)           145       35.2%        105       22.4%
+            $2,000 to $2,499                 -            -              -            -             65        15.8%        58        12.4%
+            $2,500 to $2,999                 -            -              -            -             37         9.0%        68        14.5%
+            $3,000 or more                   -            -              -            -             15         3.6%       122       26.0%
+            No Cash Rent                    0         0.0%             45          9.0%             41        10.0%        66        14.1%
+            Total                        362        100.0%            500        100.0%            412      100.0%       469       100.0%
+          Median Gross Rent                 $1,602                      $1,367                       $1,764                 $2,401
+          Hunterdon County
+                                             $867                       $1,154                       $1,443                 $1,707
+          Median Gross Rent
+                          Source: U.S. Decennial Census 1990 - 2000; 2010 - 2023 American Community Survey 5-Year Estimates.
+                                               (1)   Denotes rents of $2,000 or more per revised Census categorization.
+                                                (2) Denotes rents of less than $500 per revised Census categorization.
+                                                (3) Denotes rents of less than $300 per revised Census categorization.
+
+
+
+       Since 2000, the value of owner-occupied housing units in Clinton Township has increased approximately 62%
+       while the median value of owner-occupied housing units in Hunterdon County more than doubled based on
+       Census data. 91% of the Township’s owner-occupied housing units were valued over $300,000 with about 60%
+       valued at $500,000 or more.
+
+                         TABLE 14 - VALUE OF SPECIFIED OWNER-OCCUPIED HOUSING UNITS (2000-2023)
+                                               CLINTON TOWNSHIP, NEW JERSEY
+
+                                   2000                             2010                          2020                             2023
+Value Range                 Number      Percent              Number     Percent             Number     Percent             Number      Percent
+  Less than $50,000                0         0.0%                    7        0.2%                15        0.4%                  83        1.9%
+  $50,000 to $99,999              36          1.1%                   7        0.2%                 0        0.0%                  19        0.4%
+  $100,000 to $149,999           182         5.4%                   16        0.4%                20        0.5%                   0        0.0%
+  $150,000 to $199,999           312         9.2%                  118        3.0%               152        4.0%                  79        1.8%
+  $200,000 to $299,999         1,385        40.7%                 438        11.2%               262        7.0%                203         4.8%
+  $300,000 to $499,999         1,347        39.6%               1,380       35.2%              1,853       49.2%              1,343        31.4%
+  $500,000 to $999,999           122         3.6%               1,828       46.6%              1,435       38.1%              2,430        56.9%
+  $1,000,000 or More              16         0.5%                 128         3.3%                32        0.8%                 116        2.7%
+Total                          3,400       100.0%               3,922      100.0%              3,769      100.0%              4,273       100.0%
+Median Value                      $283,900                        $499,400                       $455,600                        $458,800
+Hunterdon County
+                                     $245,000                        $446,700                        $418,700                       $498,800
+Median Value
+                            Source: U.S. Decennial Census 2000; 2010 – 2023 American Community Survey 5-Year Estimates.
+
+
+
+  18                                                                                                                                      18
+        HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 24 of 60 Trans ID: LCV20251899757
+
+
+
+8. Number of Units Affordable to Low- and Moderate-Income Households. Clinton Township is placed in housing
+   Region 3, which is comprised of Hunterdon, Middlesex and Somerset Counties. Based on the New Jersey
+   Housing and Mortgage and Finance Agency’s May 16, 2025 update of its UHAC 2025 Affordable Housing
+   Regional Income Limits by Household Size, the median household income for a four-person household in
+   Region 3 is $153,400. A four-person moderate-income household earning 80% of the region’s median income
+   would have an income not to exceed $122,720.
+
+   An affordable sales price for a four-bedroom moderate-income household earning 80% of the median income
+   is estimated at $415,000. In 2023, the percentage of housing units in Clinton Township valued at less than
+   $500,000 was estimated to be 40.4%.
+
+   For renter-occupied housing, an affordable monthly rent for a four-person moderate-income household is
+   estimated at approximately $3,068. According to the most recent Census data, approximately 10.7% of the
+   Township’s rental units have a gross rent less than $1,500. However, it is noted that the 100% affordable Willows
+   at Annandale and Clinton Woods sites have a combined total of 150 affordable rental units. At a minimum, the
+   Willows at Spruce Run 100% affordable development which received final site plan approval in 2024 will add
+   another 96 affordable rental units to the Township’s housing stock within the next several years.
+
+9. Substandard Housing Capable of Being Rehabilitated. The DCA’s October 18, 2024 of “Affordable Housing
+   Obligations for 2025-2035 (Fourth Round) Methodology and Background” calculated Present Need obligations
+   representing the number of units in a municipality that are in need of rehabilitation and are not likely to
+   experience ‘spontaneous rehabilitation’. This DCA report assigned Clinton Township a Fourth Round Present
+   Need or Rehabilitation Obligation of 0 units.
+
+
+
+
+                                                                         2025 Housing Element and Fair Share Plan
+                                                                                                Clinton Township
+                                                                                                                    19
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 25 of 60 Trans ID: LCV20251899757
+
+
+
+2.3     PROJECTION OF MUNICIPAL HOUSING STOCK
+
+The FHA-2 regulations require the HE&FSP to include a projection of the community’s housing stock, including the
+probably future construction of low and moderate-income housing for the ten-year round, which for the Fourth Round
+is from 2025 to 2035. This projection shall be based upon an assessment of data which minimally must include the
+number of residential construction permits issued, approvals of applications for residential development, and probable
+residential development of lands. Each of these items are identified and outlined below.
+
+   1.   Housing Units Constructed. Table 15 illustrates the number of residential building permits issued for new
+        construction between 2004 and 2023 according to the DCA’s New Jersey Construction Reporter. During this
+        period, a total of 379 building permits were issued for new construction, 157 of which were for multifamily
+        development. 47% of the Township’s residential growth during this period occurred between 2004 and 2006
+        while the subsequent increase in multifamily housing was due to several developments included in the
+        Township’s Fair Share Plan to address its affordable housing obligations.
+
+                              TABLE 15 - NUMBER OF BUILDING PERMITS ISSUED (2004-2023)
+                                           CLINTON TOWNSHIP, NEW JERSEY
+
+                                 Year        Single and
+                                Issued       Two-Family      Multifamily         Total
+                                 2004            93               0               93
+                                 2005            72               0               72
+                                 2006            12               0                12
+                                 2007             9               0                9
+                                 2008             8               0                8
+                                 2009             3               0                3
+                                 2010             3               0                3
+                                  2011            0               0                0
+                                 2012             1               0                 1
+                                 2013             2               0                2
+                                 2014             3               0                3
+                                 2015             3               0                3
+                                 2016             0              35               35
+                                 2017             2               0                2
+                                 2018             1               0                 1
+                                 2019             2              54               56
+                                 2020             3               0                3
+                                 2021             4               0                4
+                                 2022             0              68               68
+                                 2023             1               0                 1
+                                 Total          222             157               379
+                                         Source: New Jersey Construction Reporter.
+
+
+   20                                                                                                      20
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 26 of 60 Trans ID: LCV20251899757
+
+
+
+   2. Probable Residential Development of Lands. Based on the Township’s Third and Fourth Round Fair Share Plan
+      mechanisms identified herein, it is anticipated that approximately 750 new housing units will be constructed in
+      the Township within the next decade. This includes the 96-unit 100% affordable Willows at Spruce Run project
+      which received final site plan approval in 2024. It is unlikely that any significant housing development will occur
+      beyond the sites identified in this plan due to the lack of developable vacant land, lack of sewer and water
+      availability and impact of Highlands regulations in both the Preservation and Planning Areas.
+
+
+
+
+2.4     POPULATION ANALYSIS
+The MLUL requires that a Housing Element provides data on the municipality’s population, including population size,
+age and income characteristics.
+
+   1.   Population Size. As indicated in Table 16, Clinton Township experienced significant population increase from
+        1960 to 2000 but stabilized thereafter. It is noted that the following period coincided with the 2008 Financial
+        Crisis and corresponding housing market crash as well as the Township’s inclusion in the Highlands Region
+        created in 2008. The Township became fully conforming with the Highlands Regional Master Plan (“RMP”) in
+        2016. These factors have somewhat limited housing growth and associated population growth in Clinton
+        Township since 2000. However, it is noted that two 100% affordable rental developments totaling 150 units have
+        been occupied since 2024 (66 units began leasing in 2023 with several hundred more units included in the
+        Township’s Third and Fourth Round Fair Share Plans that will result in further increases to the Township’s
+        population within the next decade. According to the 2023 American Community Survey, Clinton Township had
+        an estimated population of 13,347 residents representing an increase of 3% since 2000.
+
+                                                 TABLE 16 - POPULATION GROWTH
+                                                 CLINTON TOWNSHIP, NEW JERSEY
+
+                                                 Total            Numerical         Percentage
+                                     Year      Population          Change             Change
+                                     1960                3,770                  -                   -
+                                     1970                 5,119             1,349             35.8%
+                                     1980                7,345             2,226              43.5%
+                                     1990                10,816             3,471             43.3%
+                                     2000               12,957              2,141              19.8%
+                                     2010               13,478                521              4.0%
+                                     2020               13,505                 27              0.2%
+                                     2023               13,347              (158)             (1.2%)
+                        Source: U.S. Decennial Census 1960 - 2020; 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+                                                                                            2025 Housing Element and Fair Share Plan
+                                                                                                                   Clinton Township
+                                                                                                                                       21
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 27 of 60 Trans ID: LCV20251899757
+
+
+
+2. Age Characteristics. The Township’s age characteristics are outlined in the table below. As shown, the Township’s
+   median age increased from 36.4 years old in 2000 to 43.5 years old in 2023. In 2023, approximately 35% of the
+   Township’s population consisted of school-aged children between the ages of 5 and 19. Roughly 18% of the
+   population was 65 and over where in 2000 this age cohort represented 7% of the population.
+
+                                              TABLE 17 - AGE CHARACTERISTICS (2000-2023)
+                                                    CLINTON TOWNSHIP, NEW JERSEY
+
+                                       2000                         2010                        2020                        2023
+         Age                 Number         Percent      Number          Percent      Number           Percent    Number         Percent
+         Under 5 years              852          6.6%            584           4.3%           587           4.3%          717         5.4%
+         5 to 19 years            2,818         21.7%          2,975          22.1%         2,323          17.2%       2,338         17.5%
+         20 to 24 years            1,166         9.0%          1,298           9.6%          1,451         10.7%          990         7.4%
+         25 to 34 years           1,372         10.6%          1,032           7.7%         1,380          10.2%       1,349         10.1%
+         35 to 44 years           2,363         18.2%          1,704          12.6%         1,303           9.6%        1,528        11.4%
+         45 to 54 years           2,226         17.2%          2,647          19.6%         1,889         14.0%        1,648         12.3%
+         55 to 64 years           1,209          9.3%           1,801         13.4%         2,362          17.5%       2,354         17.6%
+         65 to 74 years             570          4.4%            863           6.4%         1,375          10.2%       1,324          9.9%
+         75 to 84 years              261         2.0%            430           3.2%           658           4.9%          773         5.8%
+         85 years +                  120         0.9%             144           1.1%           219          1.6%          326         2.4%
+         Total                         12,957                       13,478                       13,505                     13,347
+         Median Age                     36.4                         40.9                         43.1                       43.5
+                             Source: U.S. Decennial Census 2000 - 2010; 2020 - 2022 American Community 5-Year Estimates.
+
+
+
+
+   3. Average Household Size. From 1980 to 2023, the average household size in Clinton Township has decreased
+      from 3.12 persons per household to 2.59. This is likely due to a reduction in the number of children per
+      household since 2000 which is indicated by the sharp drop off in average household size of 3.14 in 2000 to 2.68
+      in 2010 which has reduced further since.
+
+                                            TABLE 18 - AVERAGE HOUSEHOLD SIZE (1990-2023)
+                                                    CLINTON TOWNSHIP, NEW JERSEY
+
+                                                                         Average
+                                                                        Household
+                                                             Year          Size
+                                                             1990             3.12
+                                                             2000            3.14
+                                                             2010            2.68
+                                                             2020            2.56
+                                                             2023            2.59
+                          Source: U.S. Decennial Census 1990 - 2000; 2010 – 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+   22                                                                                                                                    22
+         HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 28 of 60 Trans ID: LCV20251899757
+
+
+
+4. Household Income. The Township’s household income distribution from 1999 (2000 U.S. Decennial Census) to
+   2023 is shown in Table 19. As indicated, the Township’s median income increased 59.2% since 1999. The
+   Township’s median income has remained above that of Hunterdon County since at least 1999. Roughly 71% of
+   Township households had incomes of $100,000 or more in 2023.
+
+                                 TABLE 19 - HOUSEHOLD INCOME DISTRIBUTION (1999-2023)
+                                             CLINTON TOWNSHIP, NEW JERSEY
+
+ Income                        1999                         2010                          2020                          2023
+ Category                Number Percent               Number Percent                Number Percent               Number Percent
+ Less than $10,000             53     1.3%                  54      1.2%                 171     4.1%                  138     2.9%
+ $10,000 to $14,999            37     0.9%                  36      0.8%                  25     0.6%                   47      1.0%
+ $15,000 to $24,999           117     2.8%                 208      4.7%                  50     1.2%                   47      1.0%
+ $25,000 to $34,999           112     2.7%                 222      5.0%                 155     3.7%                  100      2.1%
+ $35,000 to $49,999          252      6.1%                 341      7.7%                  92     2.2%                 270       5.7%
+ $50,000 to $74,999          793     19.2%                 580     13.1%                 431    10.3%                 337       7.1%
+ $75,000 to $99,999           781    18.9%                 452    10.2%                 447     10.7%                 375       7.9%
+ $100,000 to $149,999        983     23.8%                 916    20.7%                 748     17.9%                1,010    21.3%
+ $150,000 to $199,999        577     14.0%               1,743    39.4%                 560     13.4%                 555      11.7%
+ $200,000 or more             421    10.2%                   -         -               1,501    35.9%               1,864     39.3%
+ Total                      4,126   100.0%               4,422   100.0%                4,181   100.0%               4,742    100.0%
+ Median Household
+                                  $96,570                      $120,565                     $145,824                     $153,771
+ Income
+ Hunterdon County
+                                  $79,888                      $100,980                     $117,858                     $139,453
+ Median Income
+                        Source: U.S. Decennial Census 2000; 2010 – 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+5. Housing cost-burden. Households that pay more than thirty percent (30%) of their income for housing are
+   considered to be cost-burdened, and may have difficulty affording basic necessities such as food, clothing,
+   transportation, and medical care. The 2023 ACS estimates that approximately 46.3% of renter-occupied and
+   25.8% of owner-occupied housing units have housing costs of at least 30% of their incomes.
+
+                                TABLE 20 - HOUSING COST AS PERCENTAGE OF INCOME (2023)
+                                             CLINTON TOWNSHIP, NEW JERSEY
+
+                          Percentage of               Owner-occupied (1)              Renter-occupied
+                          Income                      Number Percent                  Number Percent
+                          Less than 15.0%                      -        --                 47     10.0%
+                          15.0% to 19.9%                1,986(2)  48.1%(2)                 80      17.1%
+                          20.0% to 24.9%                    746     18.1%                  92     19.6%
+                          25.0% to 29.9%                    334      8.1%                  33       7.0%
+                          30.0% to 34.9%                    336      8.1%                  33       7.0%
+                          35.0% or more                     689    16.7%                   87     18.6%
+                          Not computed                        40     1.0%                  97     20.7%
+                          Total Occupied Units             4,131  100.0%                  469    100.0%
+                                        Sources: 2023 American Community Survey 5-Year Estimate
+                                      (Note: Does not include households with zero or negative income)
+                                        (1) Includes owner-occupied units with and without mortgages.
+                                              (2) Denotes percentage of income of less than 20.0%.
+
+
+
+
+                                                                                            2025 Housing Element and Fair Share Plan
+                                                                                                                   Clinton Township
+                                                                                                                                       23
+                 HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 29 of 60 Trans ID: LCV20251899757
+
+
+
+2.5        EMPLOYMENT ANALYSIS
+The MLUL requires that the housing element include data on employment characteristics in the community. The
+following is noted with respect to employment status and related information.
+
+   1.      Employment Status. Table 21 summaries the employment status of Township residents age 16 and over.
+           Historically, approximately 60% of the Township’s working age population was in the civilian labor force. In 2000,
+           there was a decrease in participation in the civilian labor force to 54% which may be attributable to the COVID-
+           19 Pandemic and/or anomalies in the data. There was also an increase in the percentage of the Township’s
+           population age 65 and over from 7.3% to 18.1% since 2000. In the same period, the Township’s unemployment
+           rate increased from 2.1% to 4.0% in 2023,
+
+                                     TABLE 21 - EMPLOYMENT STATUS- POPULATION 16 & OVER (2000-2023)
+                                                      CLINTON TOWNSHIP, NEW JERSEY
+
+        Employment                         2000                         2010                         2020                         2023
+        Status                       Number Percent               Number Percent               Number Percent               Number Percent
+        In labor force                  6,170   62.6%                6,207   58.3%                5,908   53.9%                6,578   59.2%
+            Civilian labor force        6,170   62.6%                6,201   58.2%                5,898   53.8%                6,578   59.2%
+                Employed                5,958   60.1%                5,847   54.9%                5,502   50.2%                6,136   55.2%
+                Unemployed                212    2.1%                  354    3.3%                  396    3.6%                  442    4.0%
+            Armed Forces                    0    0.0%                    6    0.1%                   10    0.1%                    0    0.0%
+        Not in labor force              3,740   37.7%                4,443   41.7%                5,055   46.1%                4,528   40.8%
+        Total Population 16
+                                               9,910                       10,650                       10,963                      11,106
+        and Over
+                                   Source: U.S. Decennial Census 2000; 2010 – 2023 American Community Survey 5-Year Estimates.
+
+
+
+   2. Employment Characteristics of Employed Residents. The following two tables detail information on the
+      employment characteristics of employed residents of Clinton Township. Since 2000, roughly 60% of Township
+      employees worked in management, business, science or the arts while the second largest cohort working in
+      sales and office roles accounted for approximately 22%. The distribution of employees in the five Census
+      categories shown has remained relatively stable since 2000
+
+                            TABLE 22 - EMPLOYED RESIDENTS AGED 16 AND OVER BY OCCUPATION (2000-2023)
+                                                  CLINTON TOWNSHIP, NEW JERSEY
+
+                                             2000                         2010                         2020                          2023
+  Occupation                             Number Percent               Number Percent               Number Percent                Number Percent
+  Management, Business,
+                                               3,542        59.4%           3,519        60.2%           3,357         61.0%        3,664         59.7%
+  Science & Arts
+
+  Service                                        411          6.9%            417          7.1%            394          7.2%         427           7.0%
+
+  Sales & Office                       1,339       22.5%          1,246      21.3%        1,176      21.4%                          1,388         22.6%
+  Natural Resources,
+                                         296        5.0%            315       5.4%         226        4.1%                           345          5.6%
+  Construction & Maintenance
+  Production, Transportation &
+                                         370        6.2%            350       6.0%         349        6.3%                            312          5.1%
+  Material Moving
+  Total                               5,958       100.0%         5,847      100.0%       5,502      100.0%                          6,136     100.0%
+                      Source: U.S. Decennial Census 2000; 2010 - 2023 American Community Survey 5-Year Estimates.
+
+
+  24                                                                                                                                         24
+    HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 30 of 60 Trans ID: LCV20251899757
+
+
+
+In 2023, the categories representing the largest groups of employed Township residents were educational,
+health and social services at 19.5%, manufacturing at 16.6% and finance, insurance, real estate and rental and
+leasing at 12.9%. The employment category experiencing the most significant increase from 2000 to 2023 was
+finance, insurance, real estate and rental and leasing accounting for 8.5% of employed residents in 2000 and
+12.9% of employed residents in 2023. The largest decrease was in information related professions which
+accounted for 7.1% of employed residents in 2000 and 4.5% in 2023.
+
+                   TABLE 23 - EMPLOYED RESIDENTS AGE 16 AND OVER, BY INDUSTRY (2000-2023)
+                                       CLINTON TOWNSHIP, NEW JERSEY
+
+                                                2000                 2010                       2023
+  Industry                                  Number Percent       Number Percent             Number Percent
+  Agriculture, forestry, fishing, hunting
+                                                 16       0.3%           15         0.3%             18          0.3%
+  and mining
+  Construction                                  321       5.4%          323         5.5%            335          5.5%
+  Manufacturing                                1,102     18.5%          908        15.5%          1,020         16.6%
+  Wholesale trade                               210       3.5%          227         3.9%            147          2.4%
+
+  Retail trade                                  495       8.3%          489         8.4%            643         10.5%
+  Transportation and warehousing,
+                                                210       3.5%          197         3.4%            264          4.3%
+  and utilities
+  Information                                   421       7.1%          236         4.0%            278          4.5%
+  Finance, insurance, real estate and
+                                                508       8.5%          673        11.5%            793         12.9%
+  rental and leasing
+  Professional, scientific,
+  management, administrative and                942      15.8%         1,091       18.7%            804         13.1%
+  waste management services
+  Educational, health and social
+                                               1,121     18.8%         1,023       17.5%           1,199        19.5%
+  services
+  Arts, entertainment, recreation,
+                                                248       4.2%          336         5.7%            274          4.5%
+  accommodation and food services
+  Other services                                239       4.0%           151        2.6%            239          3.9%
+
+  Public administration                         125       2.1%          178         3.0%            122          2.0%
+  Total                                       5,958      100.0%        5,847     100.0%         6,136         100.0%
+             Source: U.S. Decennial Census 2000; 2010 & 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+                                                                               2025 Housing Element and Fair Share Plan
+                                                                                                      Clinton Township
+                                                                                                                          25
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 31 of 60 Trans ID: LCV20251899757
+
+
+
+2.6     HOUSING AND EMPLOYMENT PROJECTIONS
+The following section provides estimated housing and employment projections in the Township based on trends from
+the data presented herein.
+
+   1. Probable Future Employment and Regional or Community Factors Impacting Upon Future Municipal
+        Employment. As indicated in Table 24, employment in Clinton Township has decreased by 17.1% from 2014 to
+        2023. This is the result of several corporate entities having relocated out of the Township in that period. Given
+        the limited availability of developable land, opportunities to develop new nonresidential development that
+        would substantially increase the number of jobs in the Township is limited. The State Development and
+        Redevelopment Plan states that new housing and affordable housing should occur where there are employment
+        opportunities and job growth where Clinton Township has experienced a significant decline in employment
+        opportunities.
+
+                                 TABLE 24 - COVERED EMPLOYMENT TRENDS (2014-2023)
+                                            CLINTON TOWNSHIP, NEW JERSEY
+
+                                                           Change in
+                                              Number       Number of         Percent
+                                     Year     of Jobs        Jobs            Change
+                                      2014      3,902             -               -
+                                      2015      3,874           (28)           (0.7%)
+                                      2016      3,757          (117)           (3.0%)
+                                      2017      3,595          (162)           (4.3%)
+                                      2018      3,763           168             4.7%
+                                      2019      3,953           190             5.0%
+                                      2020      3,502          (451)          (11.4%)
+                                      2021      3,349           (15)           (4.4%)
+                                      2022      3,248          (101)           (3.0%)
+                                      2023       3,236          (12)           (0.4%)
+                                   Sources: Department of Labor and Workforce Development.
+
+
+
+
+   26                                                                                                         26
+           HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 32 of 60 Trans ID: LCV20251899757
+
+
+
+2. Projection of the Municipality’s Housing Stock. As indicated below, Clinton Township had a net housing increase
+    of 125 units over the last 10-year period based the number of building permits issued for new residential
+    construction and number of demolition permits issued. It is noted that within this period, at least 122 of the 141
+    (86.5%) building permits issued for new residential construction were for multifamily development. The
+    Township’s existing 100% affordable Willows at Annandale site (66 units) and Clinton Woods site (84 units) alone
+    created 150 new affordable housing units within the last decade which do not appear to be accurately reflected
+    in the State’s permit data.
+
+      TABLE 25 - ANALYSIS OF RESIDENTIAL CERTIFICATES OF OCCUPANCY AND DEMOLITION PERMITS (2000-2023)
+                                         CLINTON TOWNSHIP, NEW JERSEY
+
+             Year       One & Two                              Mixed-
+                                          Multifamily                          Total         Demos          Net Growth
+            Issued        Family                                Use
+             2014            3                   0               0               3               3                 0
+             2015            3                   0               0               3               2                 1
+             2016            0                   0               0               0               0                 0
+             2017            2                   0               0               2               1                 1
+             2018            1                   0               0               1               1                 0
+             2019            2                  54               0              56               3                53
+             2020            3                   0               0               3               1                 2
+             2021           4                    0               0               4               2                 2
+             2022            0                   68              0              68               2                66
+             2023            1                   0               0               1               1                 0
+             Total          19                  122              0              141             16               125
+                            Source: New Jersey Department of Community Affairs Construction Reporter.
+
+
+3. Probable Future Construction of Housing Affordable to Low and Moderate-Income Households (2015-2025).
+    New housing construction in the Township will be focused at the sites identified in Section 4, Fair Share Plan, of
+    this document. These developments are summarized in the table below. As shown, the Township’s housing
+    stock is anticipated to increase by roughly 682 units of which 258 units (37.8%) are designated for low and
+    moderate-income households over the next decade. This estimate represents an increase of 14.2% to the
+    Township’s housing stock as of 2023 and does not include additional units that may be created elsewhere,
+    including single-family detached dwellings where permitted.
+
+                            TABLE 26 – ANTICIPATED RESIDENTIAL DEVELOPMENT (2025 – 2035)
+                                            CLINTON TOWNSHIP, NEW JERSEY
+
+Site                               Block/Lot            Total # Units    # AH Units           Status
+Willows at Spruce Run              70/6, 6.01           96               96                   Under Construction
+Headley Farm Estate                46/33, 33.01         400              104                  Pending Site Plan Application
+108 Alton Place                    79.07/1              140              28                   Durational Adjustment (1)
+3 Grayrock Road 100%               74/19                25               25                   To Be Rezoned as Fourth Round
+Affordable Development                                                                        Plan Mechanism
+Greyrock Crossing                  77.01/2, 4           18               3                    Final Site Plan Approval Granted
+Annandale Village, LLC             53/3                 12               2                    Final Site Plan Approval Granted
+Total                                                   682              258                  -
+     (1)   “Durational Adjustment” means a deferral of the municipal low and moderate-income housing obligation based on the lack of
+                                     infrastructure pursuant to N.J.S.A. 52:27D-307(c)(2) and NJ.A.C. 5:93-4.
+                                                                                       2025 Housing Element and Fair Share Plan
+                                                                                                              Clinton Township
+                                                                                                                                  27
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 33 of 60 Trans ID: LCV20251899757
+
+
+
+
+Section 3: Fair Share Obligation
+The following section provides an overview of the Township’s Fourth Round fair share obligation. It includes a brief
+overview of the methodology utilized to calculate affordable housing obligations throughout the State.
+
+
+3.1     SUMMARY OF FAIR SHARE OBLIGATION
+
+On March 20, 2024, Governor Murphy signed Bill A4/S50 Bill into law, thereby significantly amending the Fair
+Housing Act (“FHA”) originally adopted in 1985. The amended FHA commonly referred to as the Fair Housing Act-
+2 (“FHA-2”) eliminated COAH and created the new Affordable Housing Dispute Resolution Program (“The
+Program”) consisting of seven retired Mount Laurel judges to review municipal compliance plans and resolve
+disagreements between municipalities and objectors. The legislation also tasked the DCA with calculating
+municipal Present and Prospective Need obligations, and the Administrative Office of the Courts (AOC) with
+creating rules related to the required procedures for the Program and the Courts to function together in
+accordance with the FHA-2. The FHA-2 also established a new methodology for calculating municipal affordable
+housing-need numbers, municipal compliance requirements and administrative review process through the
+Program for the 4th and subsequent rounds. These rounds span a period of 10 years each whereas the First and
+Second Rounds administered by COAH covered 6-year periods. The 3rd Round extending from 1999 to 2025 (26
+years) was an anomaly due to extensive litigation and COAH becoming dysfunctional to such a degree that the
+Court ruled it could no longer administer the State’s affordable housing process and returned it to the trial courts.
+
+The FHA-2 designates DCA as the entity responsible for calculating the State’s regional affordable housing needs.
+Specifically, N.J.S.A. 52:27D-304.2 establishes the methodology to be utilized by DCA to determine the State’s
+regional prospective needs of low- and moderate-income housing for the ten-year period spanning from July 1,
+2025 to June 30, 2035. In summary, the projected household change for this period is estimated by establishing
+the household change experienced in each of the State’s six regions between the most recent federal decennial
+census and the second-most recent decennial census. This household change, if positive, is then divided by 2.5 to
+estimate the number of low- and moderate-income homes needed to address low- and moderate-income
+household change in the region for the next ten years. According to the DCA, this methodology resulted in a
+statewide prospective need of 84,698 low- and moderate-income units.
+
+In addition, DCA was tasked with calculating individual municipal present need (rehabilitation) and prospective
+need obligations. However, the FHA-2 states that these DCA calculations are advisory and non-binding, and that
+each municipality is responsible for determining its own obligation utilizing the same methodology. Clinton
+Township conducted a review of the DCA calculations and based on more current local information as it relates to
+the land capacity factor data and mapping, determined the Township’s Fourth Round Prospective Need Obligation
+should be modified from 174 units to 109 units.
+
+
+
+
+   28                                                                                                     28
+               HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 34 of 60 Trans ID: LCV20251899757
+
+
+
+On January 22, 2024, Clinton Township adopted a binding resolution (see Appendix) accepting DCA’s calculated
+Present Need of 0 and modified Prospective Need Obligation of 109 units thereby establishing the Township’s
+Fourth Round affordable housing obligations. The Township’s Prospective Need Obligation of 109 units was
+challenged in February 2025 by FSHC and the New Jersey Builders’ Association (“NJBA”). Ultimately, following a
+Court settlement conference, the Township entered into a Mediation Agreement with FSHC executed March 27,
+2025 setting the Township’s Fourth Round Present Need Obligation at 0 units and Prospective Need Obligation at
+150 units, which was also accepted by NJBA. The Township’s Fourth Round obligation was confirmed by Judge
+Miller in his Order dated March 28, 2025.
+
+In addition, the Township’s Resolution No. 2025-36 noted that the Township reserves the right to adjust its Prospective
+Need Obligation by taking any adjustments that may be available under the Amended FHA. ,One such adjustment is
+through a Highlands Vacant Land Analysis which is required by N.J.S.A. 52:27D-310.h. This analysis results in a Realistic
+Development Potential (“RDP”)of 22 units and Unmet Need of 128 units.
+
+                            TABLE 27 – CLINTON TOWNSHIP SUMMARY OF FOURTH ROUND OBLIGATION
+
+                                          Affordable Obligation                    # Units
+                                          Present Need (Rehabilitation)               0
+                                          Prospective Need                          150 (1)
+        (1)   2025 Mediation Agreement with FSHC modified the Township’s DCA calculated Fourth Round Prospective Need of 174 units.
+
+
+
+3.2     REALISTIC DEVELOPMENT POTENTIAL (RDP)
+
+Clinton Township is among the 88 municipalities in New Jersey located in the Highlands Region. As of 2016, the
+Township fully conforms with the Highlands Regional Master Plan (“RMP”) in both the Highlands Preservation and
+Planning Areas and is therefore required to conduct a Highlands Vacant Land Analysis (“HVLA”) to adjust its Fourth
+Round Prospective Need Obligation as required by N.J.S.A. 52:27D-310.h and in accordance with the procedures set
+forth in the Highlands RMP.
+
+For the first time in the New Jersey’s administration of municipal affordable housing requirements, the FHA-2 specifically
+recognized the importance of the Highlands Regional Master Plan in governing the responsible development of
+affordable housing in the Highlands Region. Specifically, N.J.S.A. 52:27D-310.h, as amended by the FHA-2 enacted in
+March 2024, requires conforming municipalities to include in their HE&FSP a “consideration of the most recent Highlands
+Municipal Build-Out report.” Furthermore, with respect to the computation of adjustments to the municipal prospective
+need for municipalities in the Highlands Region, the FHA-2 excludes as vacant “environmentally sensitive lands where
+development is prohibited by any State or federal agency, including but not limited, the Highlands Water Protection and
+Planning Council, established pursuant to section 4 of P.L. 2004, c. 120 for lands in the Highlands Preservation Area and
+lands in the Highlands Planning Area for Highlands-conforming municipalities.”
+
+On April 18, 2024 in response to the Fair Housing Act amendments, the Highlands Council adopted an amendment to
+the RMP which provides standards based on the RMP and FHA-2 establishing appropriate locations for affordable
+housing development based on the goals, objectives and policies of the RMP. Affordable housing development in
+Highlands conforming municipalities must be consistent with the RMP Land Use Capability Zone (LUCZ) designations
+while providing protection of individual environmental resources.
+                                                                                        2025 Housing Element and Fair Share Plan
+                                                                                                               Clinton Township
+                                                                                                                                   29
+             HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 35 of 60 Trans ID: LCV20251899757
+
+
+
+To guide municipalities in developing plans to address their affordable housing obligations, the Highlands Council issued
+a Highlands Municipal Build-Out Update (see Appendix) issued on November 1, 2024 which specifies the procedures
+and criteria for conducting a municipal build-out analysis to calculate the municipality’s realistic development potential
+(“RDP”). The guidelines apply environmental and regulatory constraints to develop a dataset that identifies parcels that
+can support the development of five units or more and have a net developable area of 0.83 acres or greater. This is
+consistent with the vacant land analysis criteria set forth in the FHA-2 and N.J.A.C. 5:93-4.2. In addition, the dataset
+from the Highlands Build-Out analysis provides information as to whether parcels have access to water and sewer
+infrastructure.
+
+The Township conducted its Fourth Round HVLA through the Highlands Council’s Highlands Build-Out Portal
+application pursuant to the requirements set forth in the FHA-2, COAH regulations and Highlands Municipal Build-Out
+Update. An RDP analysis requires an identification of vacant sites and underutilized sites in a municipality. Municipalities
+are required to consider all privately and municipally owned vacant parcels, as well as underutilized sites such as driving
+ranges, farms in State Development and Redevelopment (“SDRP”) Planning Areas 1 and 2, nurseries, golf courses not
+owned by their members, and non-conforming uses.
+
+Municipalities are also permitted to eliminate a site or a portion of a site based on a variety of factors, including: lands
+dedicated for public uses other than housing since 1997; parklands or open space; vacant contiguous parcels in private
+ownership of a size which would accommodate fewer than five housing units; historic and architecturally important
+sites listed on the State Register of Historic Places or the National Register of Historic Places; preserved architectural
+lands; sites designated for active recreation; and environmentally sensitive lands.
+
+The Township’s HVLA analyzed private and publicly owned vacant parcels (Property Classes 1 and 15C), farm qualified
+properties (Property Class 3B) and recent development and approvals, among other considerations, resulting in a
+Fourth Round Realistic Development Potential (“RDP”) of 22 units and Unmet Need (difference between Prospective
+Need Obligation and RDP) of 128 units.
+
+
+
+
+   30                                                                                                           30
+              HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 36 of 60 Trans ID: LCV20251899757
+
+
+
+1.     Fourth Round RDP
+
+       The Township’s Fourth Round HVLA identified 9 parcels which qualify as contributing to the Township’s RDP as
+       summarized below and depicted on the accompanying HVLA Map.
+
+                                          TABLE 28 – SUMMARY OF 4TH ROUND RDP SITES
+
+                                       Land Area     Constrained      Developable      Highlands       Sewer      Total
+          Site ID    Block    Lot         (Ac)        Area (Ac)        Area (Ac)         LUCZ                    Units (1)   RDP
+          1            4      20         53.16          15.47            37.69         ECZ: 21.03;       No        5.5        1.1
+                                                                                        CZ: 32.13
+          2            4       22       52.49            31.33             21.16           CZ           No          5.2       1.0
+          3           13        1        51.35          34.09              17.27           CZ           No          5.1       1.0
+          4           13       38       182.08          63.63             118.45           CZ           No         18.2       3.6
+          5           30       17       242.73           77.91            164.82           CZ           No         24.3       4.9
+          6           59        4        2.69             1.57              1.12          ECZ           Yes         6.7       1.3
+          7           68       24         1.67           0.06               1.61          ECZ           Yes         9.7       1.9
+          8           74      19 (2)      1.44           0.13               1.31          ECZ           Yes        25.0       5.0
+          9           82       54        91.79          59.58              32.20           CZ           No          9.2       1.8
+                    Total                679.4          283.77            395.63            -            -         109        22
+                 (1) Presumptive densities of 6 du/ac where there is sewer; 9 ac/du in EZC without sewer & 10/ ac/du in CZ.
+     (2) Formerly Block 74 Lots 18, 19 and a portion of Lot 16 that have been consolidated as the result of an approved subdivision and are
+                                      included in the Fair Share Plan as a 25-unit 100% affordable development.
+                                               CZ: Conservation Zone; ECZ: Existing Community Zone.
+
+
+
+
+                                                                                           2025 Housing Element and Fair Share Plan
+                                                                                                                  Clinton Township
+                                                                                                                                      31
+     HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 37 of 60 Trans ID: LCV20251899757
+
+
+
+
+32                                                                                32
+HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 38 of 60 Trans ID: LCV20251899757
+
+
+
+
+                                                   2025 Housing Element and Fair Share Plan
+                                                                          Clinton Township
+                                                                                              33
+              HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 39 of 60 Trans ID: LCV20251899757
+
+
+
+
+Section 4: Fair Share Plan
+This Fair Share Plan component of the 2025 HE&FSP addresses the manner in which the Township will address its
+affordable housing obligations through 2035, in a manner that affirmatively addresses affordable housing need while
+at the same time addressing planning concerns, maintaining the overall character of the community and demonstrating
+conformance with the Highlands Regional Master Plan. These affordable housing obligations are as follows:
+
+                        TABLE 29 – CLINTON TOWNSHIP AFFORDABLE HOUSING OBLIGATIONS SUMMARY
+
+     Category                                     Obligation                                                     Unmet Need
+     1st & 2nd Round Obligation (1987-1999)       335 units                                                      0 units
+     3rd Round Obligation (1999-2025)             337 units                                                      0 units
+     4th Round Obligation (2025-2035)             150 units adjusted to 22-unit RDP through a HVLA*              128 units (1)
+     Present Need (Rehabilitation) Obligation     0 units                                                        N/A
+                             * RDP = Realistic Development Potential. HVLA = Highlands Vacant Land Adjustment.
+                                                (1) Inclusive of 32-unit redevelopment obligation.
+
+
+
+4.1       GENERAL PROVISIONS
+
+The following are maximum and minimum requirements which the Township’s Fair Share Plan must comply with:
+
+1.        4th Round Bonuses. 4th Round bonuses will be applied in accordance with N.J.A.C. 52:27d-311.k.
+
+2.        Very-Low Income and Low-Income Units. At least 50 percent of the units addressing the 4th Round Prospective
+          Need obligation shall be affordable to very low-income and low-income households with the remainder
+          affordable to moderate-income households. A minimum of 13 percent of the affordable units will be made
+          available to very low-income households, defined as households earning 30 percent or less of the regional
+          median income by household size.
+
+3.        Rental Component. At least 25 percent of the Round’s Prospective Need obligation shall be met through rental
+          units, including at least half of the rental units available to families.
+
+4.        Families. At least half of the actual units created to address the Round’s Prospective Need obligation must be
+          available to families.
+
+5.        Age-Restricted Cap. No more than 30 percent of all units developed or planned to meet the Round’s Prospective
+          Need obligation shall be met with age-restricted units.
+
+
+
+
+     34                                                                                                               34
+              HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 40 of 60 Trans ID: LCV20251899757
+
+
+
+4.2      PLAN COMPONENTS
+
+Clinton Township’s various plan mechanisms to address its affordable housing obligations are summarized below. The
+Plan Components Map at the end of this section illustrates the locations of all of the plan components identified herein.
+
+All sites included in the Township’s Fair Share Plan must meet the site suitability criteria set forth in N.J.A.C. 5:93-1.3 listed
+below. This analysis includes a review of the Township’s several undeveloped plan mechanisms as it relates to the
+statutory site suitability criteria.
+
+         Approvable Site:         A site that may be developed for low and moderate-income housing in a manner
+                                  consistent with the rules or regulations of all agencies with jurisdiction over the site. A
+                                  site may be approvable although not currently zoned for low and moderate-income
+                                  housing.
+
+         Available Site:          A site with clear title, free of encumbrances which preclude development for low and
+                                  moderate-income housing.
+
+         Developable Site:        A site that has access to appropriate water and sewer infrastructure, and is consistent
+                                  with the applicable areawide water quality management plan (including the wastewater
+                                  management plan) or is included in an amendment to the areawide water quality
+                                  management plan submitted to and under review by DEP.
+
+         Suitable Site:           A site that is adjacent to compatible land uses, has access to appropriate streets and is
+                                  consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+
+The Township’s various affordable housing sites were selected based on a comprehensive range of factors including
+proximity to public and regional transportation, location within developed areas, surrounding development patterns
+and conformance with the Highlands RMP. In addition, the sites are located within or adjacent to existing water and
+sewer utilities allowing for future connectivity as may be required to accommodate the developments. Ultimately, the
+Township’s 2025 HE&FSP continues to provide a realistic opportunity to satisfy the Township’s constitutional affordable
+housing obligation for the Fourth Round in a manner that conforms with the Highlands RMP.
+
+
+    1.   Present Need (Rehabilitation) Obligation
+
+         The DCA assigned Clinton Township a Present Need obligation of 0 units which the Township accepted on
+         January 22, 2025 in its Resolution No. 2025-36.
+
+
+
+
+                                                                                    2025 Housing Element and Fair Share Plan
+                                                                                                           Clinton Township
+                                                                                                                               35
+                HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 41 of 60 Trans ID: LCV20251899757
+
+
+
+      2. Prior (First, Second & Third) Round Obligations
+
+           The Township’s Court-approved 2018 Settlement Agreement with FSHC as amended establishes the Township’s
+           combined First and Second Round Obligation of 337 units and Third Round Prospective Need of 335 units. The
+           Township utilized several plan mechanisms to satisfy the entirety of both of those obligations, including prior
+           cycle credits, regional contribution agreement (“RCA”) with New Brunswick, inclusionary rental development,
+           100% affordable rental development and senior housing as summarized in the following two tables, all of which
+           are rental units except as otherwise indicated. Inclusionary developments consist of a mix of market-rate and
+           affordable units typically with a minimum 20% affordable housing set-aside as required in the Highlands Region.
+           For example, an inclusionary development of 100 units with a 20% affordable housing set-aside would consist
+           of 80 market-rate units and 20 affordable units.
+
+           It is noted that the status of two of the Township’s Third Round plan mechanisms are indicated as durational
+           adjustments as they have been determined to be realistic opportunities for inclusionary development but lack
+           the necessary water and/or sewer capacity to support the development. In accordance with N.J.A.C. 5:93-4.3,
+           the lack of sewer and water capacity shall constitute a durational adjustment of the municipal housing
+           obligation. The Township has prioritized these sites in coordination with the applicable utilities that they will be
+           first in line to receive capacities when available and are otherwise developable.
+
+                                      TABLE 30 –FIRST & SECOND ROUND PLAN MECHANISMS
+
+                                                                                 Bonus
+                                                      Block/                     Credit       Bonus      Total
+Plan Mechanism                                         Lot         # Units      Multiplier    Credits   Credits           Status
+Prior Cycle Credits (Pre-1986)
+     Credits Without Controls                            -            13             -            -       13            Complete
+RCA with New Brunswick                                   -           108             -            -      108            Complete
+Inclusionary & Group Home Rentals                                                                         55
+     Village Green at Annandale                        49/25         4               -           -        4             Complete
+     The Mews (Senior Housing)                          47/3         35          x 1.33 (1)      3        38            Complete
+     CRC Longview Group Home                         10/1, 9.01      4            x 2 (2)        4         8      Pending Site Plan App.
+     142-144 West Main Street                         66/3, 4         3           x 2 (2)        2         5            Complete
+     Annandale Village, LLC                             53/3          1              -           -         1            Approved
+100% Affordable Rentals
+     Willows at Annandale                            60.03/26        66           x 2 (2)        66      132            Complete
+100% Affordable – Municipally Sponsored Rentals
+     Clinton Woods (84 Total Units)                  82/4.04         26              -            -      26             Complete
+Total                                                   -            260             -           75      335               -
+                                         (1)   Senior restricted bonus credits per Third Round Rules.
+                                               (2) Rental bonus credits per Third Round Rules.
+
+
+
+
+      36                                                                                                                  36
+                  HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 42 of 60 Trans ID: LCV20251899757
+
+
+
+                                                 TABLE 31 –THIRD ROUND PLAN MECHANISMS
+
+                                                                                      Bonus
+                                                            Block/                    Credit        Bonus        Total
+  Plan Mechanism                                             Lot          # Units    Multiplier     Credits     Credits                Status
+Inclusionary Development                                                                                          139
+      Headley Farm Estate                               46/33, 33.01          104         -            -          104         Durational Adjustment (3)
+      108 Alton Place                                     79.07/1              28         -            -           28         Durational Adjustment (3)
+      Grayrock Road (AH-10 Zone)                        77.01/2, 3, 4           7         -            -            7               Approved (2)
+  100% Affordable Municipally Sponsored Rentals
+      Clinton Woods (84 Total Units)                       82/4.04          58         x 2 (1)         58         116              Complete
+      Willows at Spruce Run (Family Units)                70/6, 6.01        80           -              -         80            Under construction
+      Willows at Spruce Run (Special Needs Units)         70/6, 6.01         2           -              -          2            Under construction
+  Total                                                       -             279          -             58         337                   -
+                                                        (1) Rental bonus credits per Third Round Rules.
+             (2) 3 of the 7 total units are in the Greyrock Crossing, LLC application approved by Planning Board. The remaining 4 units to be
+                                                           constructed on Lot 3 are durational adjustment.
+            (3) “Durational Adjustment” means a deferral of the municipal low and moderate-income housing obligation based on the lack of
+                                               infrastructure pursuant to N.J.S.A. 52:27D-307(c)(2) and NJ.A.C. 5:93-4.
+
+
+
+         3. Fourth Round Obligation
+
+             The Township’ will satisfy the entirety of its Fourth Round RDP of 22 units and Redevelopment Obligation of 32
+             units totaling 54 units with several plan mechanisms, including inclusionary and 100% affordable developments
+             as summarized below, all of which are rental units except as otherwise indicated.
+
+              TABLE 32 –PLAN MECHANISMS TO ADDRESS COMBINED FOURTH ROUND RDP & REDEVELOPMENT OBLIGATION
+
+                                                                                     Bonus
+                                                          Block/                     Credit          Bonus           Total
+   Plan Mechanism                                          Lot          # Units     Multiplier       Credits        Credits                 Status
+ Inclusionary Development
+       9 Main St./Village Green                           49/25           2           1 x 0.5              1            3           To be rezoned
+   100% Affordable Municipally Sponsored Rentals
+       Willows at Spruce Run (Special Needs)            70/6, 6.01         8           x2               8               16        Under Construction
+       Willows at Spruce Run (Family)                   70/6, 6.01         6           x2              4 (1)            10        Under Construction
+       3 Grayrock Road                                    74/19           25            -                -              25          To be rezoned
+   Total                                                    -             41            -              13 (1)           54                 -
+                                            (1) Bonus credits capped at a maximum of 25% of the total obligation.
+
+
+
+
+                                                                                                 2025 Housing Element and Fair Share Plan
+                                                                                                                        Clinton Township
+                                                                                                                                                37
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 43 of 60 Trans ID: LCV20251899757
+
+
+
+4.3     DEVELOPMENT SITES & PLAN MECHANISMS
+The Township’s affordable housing sites and plan mechanisms identified in Section 4.2 are discussed in this section.
+The Plan Components Map below illustrates the locations of the sites identified herein.
+
+
+
+
+   38                                                                                                    38
+         HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 44 of 60 Trans ID: LCV20251899757
+
+
+
+1.   Prior (First, Second and Third) Rounds Plan Mechanisms
+
+        A. Credits Without Controls. In accordance with N.J.A.C. 5:93-3.2, Clinton Township initiated the Credits
+           without Controls process in May 1999. The Township collected 200 surveys of which, 80 were submitted
+           to COAH for review. Through its review, COAH found 28 of those units to represent income-eligible
+           households, which all were from the Beaver Brook (Block 79.02) and Oak Knoll (Block 82.13)
+           developments. COAH calculated the affordability factors of these developments and granted the
+           Township eligibility for 13 credits without controls units. COAH’s approval of these credits is included in
+           the appendix of this document.
+
+        B. Regional Contribution Agreement (RCA). The Township entered into a regional contribution agreement
+           (RCA) with the City of New Brunswick to transfer funds for the development of 108 affordable housing
+           units for the same number of credits. On August 26, 2002, the Township made its final payment toward
+           this agreement having paid a total of $2,265,000 to the City of New Brunswick in accordance with the
+           RCA. The Roberts Bill, P.L. 2008, c. 46, eliminated the use of regional contribution agreements in
+           satisfying affordable housing obligations precluding the Township from entering into any additional
+           RCA’s.
+
+        C. CRC Longview Group Home (Block 10 Lots 1 & 9.01). The 4 proposed group home bedrooms at
+           Longview were a condition of approval in the Planning Board’s Resolution No. 2009-17 approving CRC’s
+           preliminary subdivision application for the creation of 15 lots. The condition stipulates that CRC is
+           required to fund the purchase by a qualified non-profit of 4 qualified group home bedrooms for persons
+           with developmental disabilities. CRC submitted an active application to the Planning Board which is
+           scheduled for a public hearing in July 2025. The developer will be required to confirm the required
+           provision of affordable housing to be provide shortly after Board approval, if approved.
+
+        D. 142-144 West Main Street (Block 66 Lots 3 & 4). This West Main Street gut rehabilitation project was
+           included in the Township’s Second Round Plan accounting for 3-units as previously certified by COAH.
+           In 1995, a certificate of occupancy was issued to the Hunterdon County Housing Corporation (HCHC)
+           for the rehabilitation of 3 affordable units on the 3-acre property.
+
+
+
+
+                                                                           2025 Housing Element and Fair Share Plan
+                                                                                                  Clinton Township
+                                                                                                                      39
+     HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 45 of 60 Trans ID: LCV20251899757
+
+
+
+     E. Village Green at Annandale (Block 49 Lot 25). Village Green at Annandale is a mixed-use development
+        that had been approved with the inclusion of three units of affordable housing. In February 2015,
+        amendments to the plan were approved increasing the number of affordable units to four. The site is
+        now developed and occupied. As noted in the section outlining the Fourth Round Fair Share Plan
+        Mechanisms, the Township will rezone this site to facilitate the creation of an additional 9 units, 2 of
+        which will be designated for low and moderate-income households.
+
+
+
+
+     F. The Mews Senior Housing (Block 47 Lot 3). The Mews is an existing inclusionary development consisting
+        of 35 senior-restricted low- and moderate-income rental housing units. The 43-acres property received
+        approval for the development of 221 units in 2001 which are now developed and occupied. The
+        Township applied 38 senior-restricted housing units and bonuses, or a maximum of 25%, toward its
+        Prior Round obligation of 335 units.
+
+
+
+
+40                                                                                                   40
+HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 46 of 60 Trans ID: LCV20251899757
+
+
+
+G. Willows at Annandale (Block 60.03 Lot 26). The property formerly known as the Beaver Brook
+   Homestead is a 10.65-acre parcel located in Annandale Village. The Clinton Township Mayor and
+   Council designated the site an “area in need of redevelopment” by Resolution No. 131-15, dated
+   December 9, 2015. A redevelopment plan was subsequently prepared for the site, adopted by
+   Ordinance No. 1080-16, dated January 27, 2016, establishing a new AH-4 Affordable Housing District.
+   In August 2017, the developer, Ingerman, received an award for New Jersey Housing Mortgage and
+   Finance Agency’s competitive 9% financing. The site is now developed and occupied as of 2019.
+
+   The development consists of 66 100% affordable multifamily units allocated as one-, two- and three-
+   bedroom units in accordance with COAH requirements. These units include a hybrid of flats and
+   townhouses designed with architectural features consistent with the historic main house. In addition,
+   the development features a central community green space, preservation of the northerly area of the
+   site with environmentally sensitive areas and restoration of the historic main house for use as a
+   community center.
+
+   The site is located within a developed area of the community adjacent to the Annandale Historic District
+   within walking distance to the Annandale Train Station. While the northerly portion of the site is
+   impacted by environmental constraints, the southerly portion of the site where the site is developed is
+   generally unconstrained. The site is located in close proximity to highway Routes 78, 31 and 22 providing
+   convenient regional access.
+
+
+
+
+                                                                 2025 Housing Element and Fair Share Plan
+                                                                                        Clinton Township
+                                                                                                            41
+     HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 47 of 60 Trans ID: LCV20251899757
+
+
+
+     H. Annandale Village (Block 53 Lot 3). The Township’s Annandale Village site formerly known as the “Old
+        Municipal Building” or “Fox/seals” site is located in the heart of the Annandale historic district within
+        walking distance to the Annandale Train Station. The approximately 1-acre flag-shaped parcel is
+        developed with a large structure and associated paved areas deemed to have some historic significance
+        given the building’s original use as a general store, and later the Township’s municipal offices, fire
+        department, post office and other miscellaneous uses.
+
+        The Township adopted a Redevelopment Plan for mixed-use development of the site after which the
+        selected developer received final site plan approval in 2020 to improve the existing historic building
+        with a commercial space on the first floor and two apartments above, one of which will be affordable,
+        and develop a second multifamily building consisting of 10 units fronting Center Street. The southern
+        portion of the property was subdivided and will become a public surface parking lot for the surrounding
+        neighborhood. The Township anticipates that construction on the site will begin shortly.
+
+
+
+
+42                                                                                                    42
+ HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 48 of 60 Trans ID: LCV20251899757
+
+
+
+I.   Clinton Woods (Marookian Site) (Block 82 Lot 4.04). The Clinton Woods site is an 84-unit 100%
+     affordable multifamily development located on Route 31 S at Block 82 Lot 4.04. The property is a 6-
+     acre flag lot that was subdivided from the larger Marookian tract to satisfy a portion of the Township’s
+     Third Round affordable housing obligation. The site is now developed and occupied.
+
+
+
+
+J.   Headley Farm Estate (Block 46 Lots 33 & 33.01). CRC Communities at Headley Farms Estates, Inc. (“CRC”)
+     seeks to construct an inclusionary housing development on the property identified as Block 46, Lots 33
+     and 33.01 on the official tax map of the Township (the “Property”). The Project includes 400 total units,
+     including a 26% set aside that will yield 104 low- and moderate-affordable units (the “Project”) on the
+     155-acre tract. The development is contemplated around the existing road network and within the
+     cleared areas of the site. While the periphery of the site has environmental constraints, the proposed
+     development is generally away from those features within the developable 79.96 acres. Access to the
+     site will be provided via East Main Street and Petticoat Lane with regional access via Routes 22, 78 and
+     31 in close proximity.
+
+     The Project is included in the Township’s Third Round Affording Housing and Fair Share Plan pursuant
+     to a Settlement Agreement with Fair Share Housing Center approved by a Judgment of Compliance
+     and Repose entered by the Superior Court of New Jersey. Because there was not enough water and
+     sewer capacity available to accommodate the Project, the Property is included in the Township’s Plan
+     subject to a durational adjustment for water and sewer availability. In addition, the New Jersey
+     Highlands Water Protection and Planning Council approved the Township’s petition to create a
+     Highlands Center which includes the site and parcels to the south to allow for the proposed density of
+     5 units per acre based on the developable 79.96 acres and required site improvements. The site was
+     rezoned in the AH-8 Affordable Housing District by Ordinance No. 1121-18 adopted November 7, 2018
+     to facilitate the contemplated 400-unit inclusionary development of the site.
+
+     Pursuant to the Settlement Agreement, the Project has priority over all other inclusionary development
+     sites in the Township because it offers both the highest percentage set-aside for affordable housing and
+     the most units of affordable housing of any project.
+
+
+
+                                                                   2025 Housing Element and Fair Share Plan
+                                                                                          Clinton Township
+                                                                                                              43
+     HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 49 of 60 Trans ID: LCV20251899757
+
+
+
+       The Court approved the Township’s request for a durational adjustment in including the Headley site in
+       its Fair Share Plan based on Clinton’s affordable housing obligation and lack of available water and
+       sewer capacity. Given the large affordable housing set-aside resulting in 104 affordable units within a
+       single inclusionary development, the Township prioritizes this site above other inclusionary sites for the
+       allocation of sewer and water capacity when it becomes available. The developer may alternatively
+       choose to install a package sewer plant and private water system or new public well to meet the needs
+       of the development, which the Township agrees to support. In either scenario, the developer is
+       responsible for the purchase and/or production of required sewer and water capacities. The Township
+       agrees to amend the sewer service area to include the Headley Farm Estate site. One of the advantages
+       of this site is its adjacency to the utilities in Annandale Village allowing for relatively easy connectivity if
+       so necessary.
+
+       The Project continues to present a realistic opportunity for the development of affordable housing in
+       accordance with applicable law. As detailed herein, CRC has made substantial progress in advancing
+       the Project and is actively working with regulators in order to secure the necessary approvals for the
+       Project. As CRC is continually working to advance the Project, CRC will provide updates to the Township
+       regarding the status of the Project.
+
+       Water Quality Management Plan Amendment
+
+       The Project will be served by an on-site treatment and disposal system. Because the Project site is not
+       currently in a sewer service area, the Project requires a Water Quality Management Plan (WQMP)
+       amendment for the permitting of this system. This application for WQMP amendment was filed with
+       the New Jersey Department of Environmental Protection (NJDEP) in December 2022. CRC has
+       responded to all NJDEP comments on the WQMP amendment to date and the application remains
+       pending.
+
+       In connection with the pending WQMP amendment, CRC has also engaged in extensive coordination
+       with the Highlands Council regarding its consistency review of the WQMP amendment with the Regional
+       Master Plan. In January 2023, the Highlands Council advised that its consistency certification would be
+       subject to the adoption by Clinton Township of an ordinance establishing the Annandale Highlands
+       Center. By Ordinance adopted on May 10, 2023, the Township implemented the Highlands Council
+       approval of its Petition for Center Designation and established the Annadale Highlands Center.
+
+       The Highlands Council also required the submission and approval of a Site-Specific Water Deficit
+       Mitigation Plan demonstrating the water conservation and mitigation measures for the Project. CRC
+       engaged a consultant, One Water Consulting, LLC (“One Water”), to prepare the Site-Specific Water
+       Deficit Mitigation Plan for the Project. CRC submitted the Site-Specific Water Deficit Mitigation Plan
+       prepared by One Water to the NJDEP and Highlands Council in January 2025.
+
+       More recently, the Highlands Council required the submission of additional information from the Town
+       of Clinton (the “Town”) regarding water capacity for the Project and the submission of a completed and
+       adopted municipal-wide Water Use and Conservation Management Plan (“WUCMP”) for the Township.
+       We understand that the Township is in the process of preparing its WUCMP and CRC is actively working
+       with both the Town and the Township to provide the necessary information to the Highlands.
+
+
+44                                                                                                         44
+HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 50 of 60 Trans ID: LCV20251899757
+
+
+
+  Upon Highlands Council issuance of the consistency certification, NJDEP may proceed with its review of
+  the WQMP amendment.
+
+  Status of Other NJDEP Approvals
+
+  CRC has also worked diligently to obtain other NJDEP approvals.
+
+      •   CRC applied for a new Letter of Interpretation (LOI) from the NJDEP. The NJDEP has signed off
+          on the Wetland Delineation Plan and CRC is awaiting the signed plan and issuance of the LOI.
+          The NJDEP recently advised that it misplaced CRC’s initial submission which required CRC to
+          resubmit and has delayed issuance of the LOI.
+      •   CRC also submitted for and obtained NJDEP Flood Hazard Area Verification Approval dated
+          December 14, 2023 for the Project.
+
+  Water Availability
+
+  With respect to water, the Town has been unable to provide sufficient capacity to serve the Project. To
+  date, CRC has secured 52,595 gpd from the Town to serve the Project and is confident that it will be
+  able to secure the remaining water for the Project. CRC is actively pursuing additional water as it
+  becomes available from the Town and will seek alternative sources of water, as necessary.
+
+  As discussed herein, if sufficient water is not available to serve the Project, CRC intends to pursue a
+  phased approach to the Project to enable it to move forward with that portion of the Project that can
+  be served by existing water reservations.
+
+  On-Site Treatment and Disposal Facility
+
+  As noted, the Project will be served by an on-site treatment and disposal system. If the Project is phased
+  based on water availability, the on-site treatment and disposal facility will be designed to utilize multiple
+  treatment trains that will work in parallel to process the wastewater. In wastewater treatment, a
+  “treatment train” refers to a sequence of interconnected treatment processes or technologies designed
+  to effectively remove pollutants from wastewater. In a phased development, each treatment train will
+  be designed to accommodate varying levels of wastewater production from different phases of the
+  development. Although there will be some components of the facility that will be designed and
+  constructed for full buildout, the treatment trains can be constructed/put into service as subsequent
+  phases of the Project are approved and constructed. Such a phased approach allows for the efficient
+  and cost-effective expansion of infrastructure as the Project is built out. Similarly, the treated water
+  recharge areas will be designed to be constructed in phases.
+
+  If sufficient water for the Project is available, the treatment train approach will not be needed for the
+  on-site treatment and disposal facility, which will be constructed in its entirety.
+
+
+
+
+                                                                  2025 Housing Element and Fair Share Plan
+                                                                                         Clinton Township
+                                                                                                             45
+     HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 51 of 60 Trans ID: LCV20251899757
+
+
+
+       Ongoing Hydrogeological Investigation
+
+       CRC is also actively engaged in the due diligence and hydrogeological investigation necessary to
+       advance the Project.
+
+       To that end, CRC engaged a consultant, Dwyer Geosciences, Inc. (“Dwyer Geosciences”) to undertake
+       the necessary investigation for the design of the Project’s wastewater and stormwater management
+       facilities, which in turn impacts CRC’s ability to develop a complete and cost-effective site layout for the
+       Project. This investigation takes significant time and is ongoing.
+
+           •   As part of this investigation, test pits were completed during the first week of January of 2024.
+               Based on the results of this testing, Dwyer Geosciences recommended the installation of
+               monitoring wells so that a water source would be available for infiltration testing.
+           •   Drilling of test borings and the installation of five monitoring wells were completed during the
+               last week of June and first week of July of 2024. This was followed by a multiple-well aquifer test
+               during the first week of July of 2024.
+           •   Based on the results of the aquifer test, Dwyer Geosciences determined that additional ground-
+               water elevation information was needed to calibrate the ground-water mounding analysis and
+               more accurately account for interactions with the Project’s stormwater basins.
+           •   On or about November 15, 2024, water levels were obtained from the five monitoring wells as
+               well as from older wells located on the Property in connection with prior geotechnical
+               investigations.
+           •   Based on these levels, Dwyer Geosciences determined that additional investigation of the
+               aquifer hydraulic boundary conditions at the far southeast corner of the Property, where several
+               fault zones are mapped by the New Jersey Geological Survey, was needed.
+           •   An additional monitoring well was installed in this area in February of 2025.
+           •   The additional information was used to calibrate a numerical ground-water flow model for the
+               site to confirm wastewater discharge capacity for the project.
+
+       Based on the extensive hydrogeologic evaluation performed for the Project, Dwyer Geosciences has
+       confirmed the feasibility of the subsurface discharge for the Project. This analysis will be supplemented
+       in connection with the New Jersey Pollutant Discharge Elimination System (“NJPDES”) discharge permit
+       and Treatment Works Approval (“TWA”) applications to be made to the NJDEP. Once CRC receives initial
+       approval of the WQMP amendment, it will submit its NJPDES discharge permit application and prepare
+       its TWA application while the NJPDES discharge permit application is under review.
+
+
+
+
+46                                                                                                     46
+HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 52 of 60 Trans ID: LCV20251899757
+
+
+
+  Next Steps
+
+  CRC previously submitted an application for preliminary site plan approval to the Clinton Township
+  Planning Board for the Project. CRC anticipates moving forward with a preliminary site plan application
+  for the Project this summer. If sufficient water is not available to serve the Project, CRC will pursue a
+  phased approach to the Project to enable it to move forward with that portion of the Project that can
+  be served by existing water reservations.
+
+  CRC will move forward with an application for final site plan approval for the Project upon receipt of
+  NJDEP’s approval of the WQMP amendment.
+
+
+
+
+                                                                2025 Housing Element and Fair Share Plan
+                                                                                       Clinton Township
+                                                                                                           47
+     HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 53 of 60 Trans ID: LCV20251899757
+
+
+
+     K. 108 Alton Place (Block 79.07 Lot 1). 108 Alton Place is a rectangular 16.17-acre site located in the westerly
+        area of the Township in close proximity to Routes 31, 22 and 78. Access to the site may be provided via
+        Alton Place and/or St. Ledger Way. A riparian buffer impacts the northerly portion of the site while the
+        remaining 13.73 acres of the site are unconstrained.
+
+         The development proposal features a 140-unit inclusionary development with a 20% affordable housing
+         set-aside yielding 28 affordable units. This translates to a density of approximately 10 units per acre
+         within the developable 13.73 acres of the site, including a mix of townhouse and multifamily units
+         consistent with the surrounding development pattern generally comprised of townhouses developed
+         at similar densities. All of the affordable units will be included as apartments.
+
+         The site was rezoned within the AH-6 Affordable Housing District by the adoption of Ordinance 1120-
+         18 on September 12, 2018. The Court approved the Township’s request for a durational adjustment in
+         including the Alton Place site in its Fair Share Plan given the lack of available water and sewer capacity
+         and the site’s location within existing water and sewer service areas.
+
+
+
+
+48                                                                                                       48
+HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 54 of 60 Trans ID: LCV20251899757
+
+
+
+L. Grayrock Road (AH-10 Zone) (Block 77.01 Lots 2, 3 & 4). The AH-10 Zone encompasses 3 parcels with
+   frontage on Grayrock Road, Center Street and Old Highway 22. The site serves as a transitional area
+   between the VR Village Residential Zone to the west and HC Highway Commercial Zone to the east.
+   Lots 2 and 4 received site plan approval from the Planning Board in 2024 for the development of a
+   three-story, 18-unit multifamily building that includes 3 affordable housing units.
+
+
+
+
+M. Willows at Spruce Run 100% Affordable Development (Block 70 Lots 6 & 6.01). Willows at Spruce Run
+   is a 96-unit 100% affordable development, including 10 special needs bedrooms, at Block 70 Lots 6 and
+   6.01. The site is roughly 12 acres in area fronting Route 31 N where the rear half of the site is impacted
+   by steep slopes and other environmental constraints. The site received final site plan approval from the
+   Planning Board in 2024 and is currently under construction. A portion of the special needs units are
+   surplus credits that are applied to the Township’s Fourth Round affordable housing obligation.
+
+
+
+
+                                                                  2025 Housing Element and Fair Share Plan
+                                                                                         Clinton Township
+                                                                                                             49
+       HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 55 of 60 Trans ID: LCV20251899757
+
+
+
+2. Fourth Round Plan Mechanisms
+
+      A. 9 Main Street/Village Green (Block 49 Lot 25). The Village Green site is a 1.93-acre corner lot with
+         frontages on Main Street and East Street immediately south of the Annandale Train Station developed
+         with a mix of commercial spaces and apartments. There are four existing affordable units which satisfy
+         a portion of the Township’s Third Round affordable housing obligation as previously discussed. The
+         Township will rezone the property to accommodate the conversion of all but one of the existing
+         commercial spaces and one storage space into 9 new residential apartment units, including two low
+         and moderate-income units to satisfy a portion of the Township’s Fourth Round affordable housing
+         obligation. The existing site conditions are not expected to change significantly given most of the
+         proposed improvements will occur in the interior of the existing structures.
+
+      B. Willows at Spruce Run (block 70 Lots 6 & 6.01). As indicated above, the Willows at Spruce Run is a 96-
+         unit 100% affordable development currently under construction. The development generates surplus
+         units including 8 of the 10 special needs units and 2 family units plus 12 bonus credits for a total of 26
+         credits applied to the Township’s Fourth Round affordable housing obligation.
+
+      C. 3 Grayrock Road 100% Affordable Development (Block 74 Lot 19). The Township will rezone Block 74
+         Lot 19 to facilitate the construction of a 25-unit 100% affordable multifamily development. This 1.44-
+         acre parcel has frontages on Grayrock Road, Center Street and Fairview Avenue. The property received
+         prior site plan approval for medical office use, the construction of which began nearly a decade ago
+         but stalled shortly thereafter due to market conditions. The site has since remained vacant with some
+         retaining walls, stormwater management and other site improvements installed. This development will
+         be consistent with the AH-10 located on the east side of Grayrock Road.
+
+
+
+
+50                                                                                                      50
+             HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 56 of 60 Trans ID: LCV20251899757
+
+
+
+4.4     DEVELOPMENTS NOT INCLUDED
+
+The Township’s Fourth Round Fair Share Plan addresses the entirety of its various affordable housing obligations with a
+variety of mechanisms that conform with the Highlands RMP. In accordance with the FHA-2 and pertinent COAH
+regulations, the Township is entitled to select development sites and plan mechanisms deemed most appropriate for
+the community in satisfying its affordable housing obligations. The Township received several development proposals
+not included in its Fair Share Plan as summarized below.
+
+   1.   Exxon. Exxon proposed an inclusionary development on Block 30 Lot 30 as identified in Township tax records
+        currently developed and occupied as a research and development facility. The development proposal which
+        has ranged between 255 units and 750 residential units in addition to maintaining the existing R&D facility and
+        potentially adding other uses is unrealistic for several reasons. The portion of the site where residential
+        development is proposed is located in the Highlands Conservation Environmentally Constrained Sub-Zone
+        (CECSZ) into which the extension of utilities is prohibited and where the development of affordable housing is
+        discouraged pursuant to the Highlands RMP and Affordable Housing Implementation Guidelines.
+
+        The proposal has not accurately reflected the actual development constraints impacting the property including
+        Highlands land use capability zone designations and environmental features and associated buffers that greatly
+        limit the potential development footprint of any prospective development of the site in addition to the R&D
+        facility to remain. Exxon is entitled to initiate a Highlands Redevelopment process directly through the Highlands
+        Council to develop an area equivalent to an additional 30% of the site’s existing contiguous impervious
+        coverage. However, to date, the developer has not pursued this opportunity.
+
+        The site only has permits for on-site industrial water and wastewater utilities. At present, it is unclear whether
+        the site can obtain NJDEP permitting for on-site residential water and wastewater utilities given the presence of
+        C-1 streams and associated buffers impacting the site. In addition, the Applicant has not specified how much
+        water and sewer capacity will be required for the proposed nonresidential uses of the site leaving to question
+        the amount of remaining capacities available for residential development. Furthermore, it remains unclear how
+        the proposed development can occur in the area of the existing spray field that supports the nonresidential use
+        which may or may not be able to be converted into a new on-site wastewater treatment system that discharges
+        wastewater into the ground. Therefore, the Applicant has yet to demonstrate the feasibility of developing any
+        of the various iterations of residential development on the site. If some iteration of residential development on
+        this site is included in the Township’s Fourth Round Plan, the site would be a durational adjustment site for the
+        reasons stated above.
+
+        Finally, the developer has not submitted a comprehensive plan for the site demonstrating that the various
+        undefined mix of uses can be supported in consideration of the above. It is unclear that residential development
+        can safely occur adjacent to the existing industrial use to remain, which again is undefined. The site is also not
+        proximate to public transportation and is not served by public sewer or water which are significant
+        considerations in the Township’s affordable housing site selection criteria.
+
+
+
+
+                                                                               2025 Housing Element and Fair Share Plan
+                                                                                                      Clinton Township
+                                                                                                                          51
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 57 of 60 Trans ID: LCV20251899757
+
+
+
+   2. Beaver Brook Country Club. Beaver Brook Country Club proposed an inclusionary development on the
+      designated golf course open space areas of the Country Club property identified as Block 79.01 Lot 4, Block
+      79.02 and Block 79.10 Lot 10 in Township tax records. Based on a title search of the subject parcels and prior
+      site approvals, the prospective developer does not have the right to develop these areas of the site with housing.
+      In addition, the developer has not secured water or sewer capacity to serve the development and would
+      therefore be a durational adjustment site if included in the Township’s Fourth Round Plan.
+
+   3. Hionis. Representatives of property listed as Block 4 Lots 20, 22 and 23 in Township tax records proposed an
+      inclusionary development of the site. However, the site does not have enough sewer and water capacity
+      sufficient to accommodate the proposed 500 to 700 units on the property. In addition, the proposal does not
+      take into consideration the appliable Highlands regulations and environmental constraints impacting the
+      property that significantly limit the developable area and prohibit the extension of utilities.
+
+   4. Solar Field. The owner of Block 47 Lots 18 and 19 had proposed multifamily development of the approximately
+      3-acre site currently developed with a solar array. However, the conceptual development of the site was deemed
+      unrealistic and infeasible as the developer could not demonstrate a clear path to obtaining the necessary water
+      and sewer capacity to support the development.
+
+
+4.5     CREDITING DOCUMENTATION AND ONGOING COMPLIANCE
+
+Clinton Township commits to adhering to the State’s Fourth Round compliance requirements. In addition, all
+crediting documentation submitted to and approved by the Court as part of the Township’s Third Round Housing
+Element and Fair Share Plan remains on file with and accessible from the Court.
+
+
+4.6     CONSISTENCY WITH STATE PLANNING INITIATIVES & OTHER PLANS
+
+As noted in Section 1 of this plan, a HE&FSP must also include:
+
+       An analysis of the extent to which municipal ordinances and other local factors advance or detract from the
+        goal of preserving multigenerational family continuity as expressed in the recommendations of the
+        Multigenerational Family Housing Continuity Commission; and
+
+       An analysis of consistency with the State Development and Redevelopment Plan, including water, wastewater,
+        stormwater, and multi-modal transportation based on guidance and technical assistance from the State
+        Planning Commission.
+
+Accordingly, the following subsection analyzes the consistency of this HE&FSP to the above referenced state planning
+initiatives as well as consistency with the Highlands Regional Master Plan. For municipalities in the Highlands Region,
+the FHA-2 requires an analysis of compliance of the housing element with the Highlands Regional Master Plan of lands
+in the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands conforming municipalities.
+This analysis shall include consideration of the municipality’s most recent Highlands Municipal Build Out Report,
+consideration of opportunities for P.L. 2024, CHAPTER 2 32 redevelopment of existing developed lands into inclusionary
+or 100 percent affordable housing, or both, and opportunities for 100 percent affordable housing in both the Highlands
+   52                                                                                                        52
+            HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 58 of 60 Trans ID: LCV20251899757
+
+
+
+Planning Area and Highlands Preservation Area that are consistent with the Highlands regional master plan.
+
+   1.   Highlands Regional Master Plan (“RMP”)
+
+        On April 18, 2024, the Highlands Council adopted the Highlands Affordable Housing RMP Amendment. This
+        Amendment provides standards based on the RMP and FHA-2 regarding suitable locations for affordable
+        housing based on the Highlands RMP goals, objectives and policies. The Highlands Council subsequently
+        published its Highlands Affordable Housing Implementation Guidelines dated October 2024 to assist
+        municipalities in evaluating Highlands RMP conformance when reviewing proposals for residential
+        development.
+
+        The following are Highlands RMP goals and objectives that relate to the development of affordable housing in
+        the Highlands Region:
+
+                Compliance mechanisms that limit development should be favored over those that promote more
+                 development.
+
+                Inclusionary developments provide density bonuses for developers to support the imposition of a set
+                 aside. Although municipalities have the right to rely on “inclusionary” developments to satisfy their
+                 Highlands Municipal Affordable Housing Guidelines affordable housing obligations, reliance on this
+                 technique is discouraged to limit the impact on the scarce resources of the region. Reliance on 100%
+                 affordable projects and other techniques that place less stress on infrastructure are encouraged to
+                 reduce impact on the ecosystem and water resources.
+
+                Regarding the design of affordable housing projects, energy usage can increase the cost of housing,
+                 as can dependence on cars. Incorporation of green building standards as outlined by the EPA should
+                 be part of any housing project. Solar readiness should be considered in design as on-site solar
+                 generating facilities can assist in offsetting electricity costs and the proper orientation of buildings can
+                 provide energy savings. Finally, planning for future electric vehicle (EV) charging is of particular
+                 importance for multi-family and apartment style housing where it is typically more difficult for
+                 occupants to install their own chargers than at a single-family home.
+
+                Affordable housing site criteria:
+
+                   (1) Sites should be proximate to public transportation options such as bus and/or train service. A
+                       site qualifies as being “proximate” to transit if it is within a half mile of an existing or proposed
+                       transit stop and that it is a walkable route (i.e. accessible by sidewalks). Sites within ½ mile of a
+                       transit stop may be eligible for one unit of credit and one-half bonus credit for each unit of low-
+                       or moderate-income housing located within a one-half mile radius surrounding a New Jersey
+                       Transit rail or bus station.
+
+                   (2) Sites should be accessible to schools.
+
+                   (3) Sites should be accessible to employment, using the walkable/transit criteria above.
+
+                   (4) Sites should be proximate to shopping areas, using the criteria above.
+                                                                                2025 Housing Element and Fair Share Plan
+                                                                                                       Clinton Township
+                                                                                                                           53
+         HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 59 of 60 Trans ID: LCV20251899757
+
+
+
+                 (5) Sites should be served by public water and public sanitary sewer.
+
+                 (6) Sites should be close to recreational opportunities.
+
+                 (7) Sites should avoid regulated environmental resources of the Highlands Region as set forth in
+                     the Highlands Act and/or the regulations of the New Jersey Department of Environmental
+                     Protection including but not limited to: special environmental zones; Highlands open water
+                     buffers; prime/municipally important groundwater recharge areas; vernal pool buffers;
+                     significant natural areas, areas of severe steep slopes (20%+).
+
+                 (8) Sites that necessitate significant extension of water and sewer service should be avoided. Said
+                     another way, in accordance with the mission of the Highlands Act, municipalities should be
+                     extremely judicious in extending sewer and water service and thereby encouraging the
+                     development the Legislature enacted the Highlands Act to suppress.
+
+                 (9) Sites should comply with the most recent Flood Hazard Area rules.
+
+                 (10) Sites should not be located in close proximity to industrial or other uses with the potential for
+                      health and safety impacts.
+
+2. State Development and Redevelopment Plan (SDRP)
+
+     The State Development and Redevelopment Plan was adopted in 2001 prior to the State Legislature’s adoption
+     of the New Jersey Highlands Water Protection and Planning Act in 2004 and subsequent Highlands Council’s
+     adoption of the Highlands Regional Master Plan in 2008. The Highlands RMP governs the development of
+     Highlands-conforming municipalities apart from the SDRP. The FHA-2 in prescribing the methodology to
+     calculate a municipality’s land capacity factor recognizes the Highlands Preservation and Planning Areas,
+     Highlands Land Use Capability Zones (LUCZ) and whether sites are within a designated sewer service area as
+     criteria for determining the municipality’s land capacity factor. Furthermore, the FHA-2 exempts all lands within
+     the Highlands Preservation Area and not in the Highlands Existing Community Zone (ECZ) or Highlands Center
+     from generating an affordable housing obligation as such locations are contrary to the goals, policies and
+     objectives of the Highlands RMP.
+
+3. Multigenerational Family Housing Continuity Commission
+
+     The Multigenerational Family Housing Continuity Commission was established by the State of New Jersey in
+     2021. As noted in N.J.S.A. 52:27D-329.20, one of the primary duties of the Commission is to “prepare and adopt
+     recommendations on how State government, local government, community organizations, private entities, and
+     community members may most effectively advance the goal of enabling senior citizens to reside at the homes
+     of their extended families, thereby preserving and enhancing multigenerational family continuity, through the
+     modification of State and local laws and policies in the areas of housing, land use planning, parking and
+     streetscape planning, and other relevant areas.”
+
+     As of the date of this HE&FSP, the Multigenerational Family Housing Continuity Commission has not yet adopted
+     any recommendations.
+
+
+54                                                                                                          54
+    HNT-L-000049-25 06/30/2025 7:32:49 PM Pg 60 of 60 Trans ID: LCV20251899757
+
+
+
+
+Appendix
+
+
+
+
+                                                       2025 Housing Element and Fair Share Plan
+                                                                              Clinton Township
+                                                                                                  55
+

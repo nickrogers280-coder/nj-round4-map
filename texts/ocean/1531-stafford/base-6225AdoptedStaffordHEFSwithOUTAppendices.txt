@@ -1,0 +1,2021 @@
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 1 of 44 Trans ID: LCV20251872498
+
+
+
+
+                            TOWNSHIP OF STAFFORD
+                         OCEAN COUNTY, NEW JERSEY
+                   Housing Plan Element & Fair Share Plan
+                            Fourth Round (2025‐2035)
+
+
+
+
+                                       June 2, 2025
+
+
+
+                                       Prepared by:
+
+
+                                               CME Associates
+                                               1460 Rt.9 South
+                                               Howell, NJ07731
+                                               732-462-7400
+
+
+
+
+                                  Malvika Apte, PP, AICP
+                          NJ Professional Planner License # 6056
+
+The original document was appropriately signed and sealed in accordance with the Chapter 41
+                    Title 13 of the State Board of Professional Planners.
+OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 2 of 44 Trans ID: LCV20251872498
+
+
+
+
+                               Acknowledgments:
+
+                 Stafford Township Mayor and Township Council
+
+                                Mayor Robert Henken
+
+                          Council President Lisa Mower
+
+                        Councilman Christopher DarConte
+
+                           Councilman Steven Esposito
+
+                               Councilman Sergio Fossa
+
+                            Councilman Owen LaRocca
+
+                               Councilwoman Amy Otte
+
+                               Township Administrator
+
+                               Matthew von der Hayden
+
+                        Stafford Township Planning Board
+
+    Joseph Kosa, Chairperson                            Mayor Robert Henken
+        Thomas Kuenzler                                   Thomas Steadman
+           Lisa Mower                                 Matthew von der Hayden
+          Robert Kirwan                                     Anthony Pesic
+        Stephen Donnelly                                    Kevin Leonard
+         Leonard Wilson                            Councilman Christopher DarConte
+
+                        Linda Yockachonis, Board Secretary
+
+             Allison Iannaccone, CFM, Office of the Municipal Engineer
+
+                     Joseph D. Coronato, Esq., Board Attorney
+
+                Christopher Dasti, Esq., Affordable Housing Counsel
+
+                                    Project Team
+
+                         Malvika Apte, PP, AICP‐ Director
+                     Pooja Lakshmi Hegde – Associate Planner
+                          Myles Elgart‐ Associate Planner
+      OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 3 of 44 Trans ID: LCV20251872498
+
+
+
+
+TABLE OF CONTENTS
+Introduction ............................................................................................................................ 1
+   Location and Context .................................................................................................................. 1
+   Affordable Housing...................................................................................................................... 2
+   Stafford Township’s Compliance History .................................................................................... 4
+Housing Plan Element ............................................................................................................ 18
+   Analysis of Demographic, Housing, and Employment Characteristics ...................................... .6
+Fair Share Plan....................................................................................................................... 20
+   Fair Share Obligation ................................................................................................................. 23
+   Rehabilitation Obligation .......................................................................................................... 24
+   Prior Round Obligations (1987‐1999) ....................................................................................... 24
+   Third Round Obligation ............................................................................................................. 27
+   Third Round Compliance Mechanisms...................................................................................... 28
+   Unmet Need .............................................................................................................................. 31
+   Fourth Round Obligation and Compliance Mechanisms .......................................................... 33
+Housing Administration ......................................................................................................... 38
+   Affordable Housing Ordinance .................................................................................................. 38
+   Development Fee Ordinance .................................................................................................... 38
+   Affordable Housing Trust Fund ................................................................................................. 38
+   Affordability Assistance Program .............................................................................................. 39
+   Municipal Housing Liaison ......................................................................................................... 39
+   Affordable Housing Administrative Agent ................................................................................ 39
+Appendices ............................................................................................................................ 40
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 4 of 44 Trans ID: LCV20251872498
+
+
+
+
+List of Appendices:
+
+   A. Resolution No. 2025‐64
+   B. Resolution No. 2025‐120
+   C. Filed Program Settlement Recommendation Docket No. OCN‐L‐96‐25
+   D. Fair Share Agreement August 17, 2016
+   E. Final Compliance Letter August 29, 2017
+   F. Vacant Land Analysis June 2, 2025
+   G. Resolution appointing Municipal Housing Liaison
+   H. Resolution appointing Administrative Agent
+   I. Spending Plan
+   J. Resolution 2016‐27‐ Approving GDP
+   K. Perry’s Lake Agreement
+   L. NJ Homes RFP
+   M. Prior Round Affordable Housing Sites Map
+   N. Fourth Round Affordable Housing Sites Map
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 5 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+INTRODUCTION
+LOCATION AND CONTEXT
+
+Stafford Township is a suburban municipality located along the Jersey Shore in southern Ocean
+County. The Township has a total area of 54.7 square miles including 46.11 square miles of land
+and 8.59 square miles of water. It borders Barnegat Township and Lacey Township to the north,
+Eagleswood Township to the south, and touches the Atlantic Ocean to the east via access to Long
+Beach Island through Route 72. The eastern portion includes a network of lagoons and waterfront
+communities such as Beach Haven West, while the western areas predominantly cover preserved
+lands under New Jersey Pinelands National Reserve.
+
+As of the latest 2023 ACS 5‐year estimates, the Township has a population of 29,375. Stafford’s
+residential hubs including Manahawkin and Ocean Acres have grown substantially over the past
+few decades due to the Township’s access to regional highways and Jersey Shore.
+
+
+
+
+As mentioned above, approximately 40% of the Township falls within the NJ Pinelands Area (PA
+10). The eastern portion is divided between the Suburban Planning Area (PA2), Parks and Natural
+Areas (PA 6,7,8) and Environmentally Sensitive Planning Area (PA 5).
+
+
+
+
+                                                                                    1|Page
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 6 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+AFFORDABLE HOUSING
+
+In 1975 the New Jersey Supreme Court determined, in Southern Burlington County NAACP v.
+Township of Mount Laurel (“Mount Laurel I”) that every developing municipality in New Jersey
+had an affirmative obligation to provide a “realistic opportunity” for its fair share of low‐ and
+moderate‐income housing. In 1983, frustrated with the lack of voluntary compliance, the
+Supreme Court sought to create an incentive for voluntary compliance in its “Mount Laurel II”
+decision. In this decision, the Court exposed municipalities that refused to comply voluntarily to
+the possibility of builder’s remedy relief. The Court also called for the state legislature to enact
+legislation that would save municipalities from the inefficiency of having the courts determine
+their affordable housing needs.
+
+In 1985 the Legislature adopted the Fair Housing Act (N.J.S.A. 52:27D‐301 et. seq.) (“FHA”). The
+FHA created the New Jersey Council on Affordable Housing (COAH) and charged COAH with the
+responsibility of adopting regulations by which municipalities could determine their fair share
+responsibilities and the means by which they could satisfy those responsibilities. The Legislature
+also sought to promote voluntary compliance and empowered municipalities to submit to
+COAH’s jurisdiction and voluntarily comply under the protections of the COAH process.
+
+Pursuant to the FHA, COAH adopted regulations for the first housing cycle in 1986; which covered
+the years 1987 through 1993 (“First Round”) and for the second housing cycle in 1994; which
+covered the years 1993 through 1999 (“Second Round”). Under both the First and Second
+Rounds, COAH utilized what is commonly referred to as the “fair share” methodology. COAH
+utilized a different methodology, known as “growth share,” beginning with its efforts to prepare
+Third Round housing‐need numbers.
+
+COAH first adopted the Third Round rules in 2004; which were to cover the years 1999 through
+2014. The “growth share” approach created a nexus between the production of affordable
+housing and future residential and non‐residential development within a municipality, based on
+the principle that municipalities should provide affordable housing opportunities proportionate
+to their market rate residential growth, and that along with employment opportunities there
+should be proportionate opportunities for affordable housing. Each municipality was required to
+project the amount of residential and nonresidential growth that would occur during the period
+2004 through 2014 and prepare a plan to provide proportionate affordable housing
+opportunities. The regulations were challenged and in January 2007, the New Jersey Appellate
+Division invalidated key aspects of COAH’s third round rules and ordered COAH to propose and
+adopt amendments to its rules to address the deficiencies it had identified.
+
+COAH adopted new Third Round rules in May of 2008 and subsequently adopted amendments
+that became effective on October 20, 2008. Changes to the Fair Housing Act were also adopted
+in July of 2008 (P.L. 2008 c. 46 on July 17, 2008). The COAH rules and regulations adopted in 2008
+were subsequently challenged, and in an October 2010 decision the Appellate Division
+invalidated the “Growth Share” methodology and also indicated that COAH should adopt
+regulations pursuant to the “Fair Share” methodology utilized in the First and Second Rounds.
+The Supreme Court affirmed this decision in September 2013, invalidating the third iteration of
+
+
+                                                                                         2|Page
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 7 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+the Third‐Round regulations and sustaining the invalidation of growth share, and directing COAH
+to adopt new regulations pursuant to the methodology utilized in the First and Second Rounds.
+In October of 2014 COAH was deadlocked and failed to adopt their newly revised Third Round
+regulations. Fair Share Housing Center, who was a party in the earlier cases, responded by filing
+a motion in aid of litigants’ rights with the New Jersey Supreme Court. On March 20, 2015, the
+Court ruled that COAH was effectively dysfunctional and consequently returned jurisdiction of
+affordable housing issues back to the trial courts as it had been prior to the creation of COAH in
+1986.
+
+Since the 2015 Mt. Laurel IV decision, municipalities turned to the courts to seek a declaratory
+judgement of their Third‐Round housing plans to determine whether they met their
+constitutional affordable housing obligations and were granted immunity from any “builder’s
+remedy” lawsuits. With no COAH functioning and providing guidance to municipalities to
+determine their municipal fair share of statewide and regional obligations, a number of
+independent groups produced their own reports to determine individual obligations across the
+state. In several court decisions in 2016 and 2018, judges in Middlesex and Mercer County
+developed a methodology following closely one proposed by Fair Share Housing Center to
+determine municipal obligations. In the 2018 decision by Judge Jacobson, it was further
+determined that the initial period of the Third Round which had not been addressed (1999 –
+2015) known as the “gap period” is to be included in each municipality’s fair share calculations
+to address the Third Round.
+
+To achieve Third Round Compliance, municipalities addressed the obligations of the period from
+1999 – 2015 through the courts, and through private settlement agreements with Fair Share
+Housing Center, ultimately leading to a judgement of compliance and repose from the courts for
+municipalities that could demonstrate full compliance with the requirements of the Fair Housing
+Act. Due to the ongoing litigation throughout the Third Round, many municipalities achieved this
+substantive certification from the courts well into the period.
+
+In March of 2024, P.L. 2024, c.2 was signed into law establishing new procedures for determining
+statewide needs and municipal obligations for low‐ and moderate‐income housing. This new law
+formally abolished COAH and established a new “Program” for resolving affordable housing
+disputes, as well as the authority to review and certify municipal fair share housing plans. The
+law required municipalities to determine their own fair share obligations by applying the
+methodology of the Jacobsen decision in Mercer County as it related to the Third Round and
+adopting a binding resolution setting those obligation numbers. The law also provided revisions
+to the crediting structures for affordable units, with changes to the types of affordable units that
+are permitted to be granted bonus credits. The law established timelines for submission of
+documents to demonstrate compliance with the Fair Housing Act.
+
+In addition to the revisions to low‐ and moderate‐income housing crediting, the amended law
+established a new Affordable Housing Alternative Dispute Resolution Program. The Program is
+intended to adjudicate any disputes in affordable housing, and function as the administrative
+body responsible for reviewing and certifying municipal compliance with the Fair Housing Act.
+
+
+
+                                                                                         3|Page
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 8 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+Through the Program and the Administrative Office of the Courts, municipalities seeking a
+judgment of compliance with Affordable Housing regulations must submit a motion for a
+declaratory judgment from the Program to retain immunity from any potential builders remedy
+lawsuits.
+
+STAFFORD TOWNSHIP’S COMPLIANCE HISTORY
+
+Township of Stafford has demonstrated a commitment to comply voluntarily with its Mount
+Laurel obligations. On June 28, 2000, the Stafford Township Planning Board adopted a Housing
+Element and Fair Share Plan (“2000 Plan”) addressing the Township’s 1987‐1999 affordable
+housing obligations. The Township Council endorsed the 2000 Plan on June 29, 2000. The
+Township petitioned COAH ( Council on Affordable Housing) on June 30th, 2000 for Substantive
+Certification, which included a “senior cap” waiver request. Subsequent to this petition and prior
+to COAH action, the Township had to amend the plan on June 5, 2002 and July 2, 2002 , following
+which the Stafford Township re‐petitioned to COAH for Substantive Certification on July 15, 2004.
+
+COAH adopted third round rules which when into effect December 20, 2004. In 2005, the
+Township prepared a Housing Element and Fair Share Plan (“2005 Plan”) consistent with the new
+regulations. On June 15, 2005, the Township adopted a new plan based on the new rules. The
+Township petitioned COAH for Substantive Certification on July 11, 2005.
+
+Prior to COAH action on Township’s petition, COAH’s third round regulations were challenged by
+various parties and they were invalidated, in part, by the Appellate Divisions in In Re Adoption of
+N.J.A.C. 5:94 and 5:95 by the New Jersey Council on Affordable Housing, 390 N.J Super.1
+(App.Div.), certify.denied 192 N.J. 72 (2007). On May 6, 2008 COAH adopted revised Third Round
+regulations in response to the Appellate Division Decision, and became effective on June 2, 2008.
+
+On December 31, 2008 the Township petitioned COAH for substantive certification of a Housing
+Element and Fair Share Plan (“2008 Plan”) addressing its total 1987‐ 2018 affordable housing
+obligations. The 2008 Plan was granted third round substantive certification by COAH on
+December 9, 2009.
+
+Subsequently Stafford Township adopted three (3) ordinances in accordance with the certified
+2008 Plan including:
+
+       Ordinance 2010‐03 which revised the Township Code in connection with the mixed use
+       zone and the requirement for affordable units to be included when a project has 5 or
+       more residential units;
+
+       Ordinance 2010‐04 which revised the Township Code using COAH’s Affordable Housing
+       Ordinance model. This related to affirmative marketing, bedroom distribution, controls
+       on affordability, etc.
+
+       Ordinance 2010‐05 which revised the Township Code in connection with the duties and
+       responsibilities of the Municipal Housing Liaison.
+
+
+
+                                                                                        4|Page
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 9 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+In March of 2015 The New Jersey Supreme Court in Its Mount Laurel IV decision (In re N.J.A.C.
+5:96 and 5:97, 221 N.J. 1[2015]) cited COAH’s inability to adopt constitutional rules for the “third
+round” (1999‐2025) in order to guide municipal affordable housing compliance. Given the lack of
+regulatory guidance from COAH or the Legislature, the Supreme Court’s decision directed the
+Trial Courts to assume the role of determining the constitutionality of municipal affordable
+housing plans. In response to the Mount Laurel IV decisions, the Township filed a declaratory
+judgement action and motion for temporary immunity on July 2, 2015. Ocean County Court
+granted temporary immunity on August 28, 2015, which was subsequently extended to
+November 20, 2016.
+
+Township of Stafford prepared a Housing Element and Fair Share Plan for the third round on
+January 5, 2016. Township Received a final Order granting Judgement of Compliance and Repose
+on August 17, 2017.
+
+In March 2024, P.L. 2024, c.2 was signed into law establishing new procedures for determining
+statewide needs and municipal obligations for low‐ and moderate‐income housing. To begin the
+process of compliance with the Fourth Round of affordable housing obligations, the Township
+Council adopted Resolution 2025‐64 on January 7, 2025 to identify the Township’s Fourth Round
+affordable housing obligations. Township adopted a resolution stating the Township’s fourth
+round obligation shall be as follows: 38( present need) and 66 (prospective need). This resolution
+was challenged and through negotiations and dispute resolution, it was determined Township’s
+fourth round obligation shall be 38 ( present need) and 175 ( prospective need) for duration 2025‐
+2035. The filed Order by the Affordable Housing Program Settlement Recommendation is
+attached.
+
+The Township has prepared this Housing Plan Element and Fair Share Plan in accordance with all
+requirements of the Municipal Land Use Law, and the Amended Fair Housing Act.
+
+
+
+
+                                                                                         5|Page
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 10 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+
+
+A NALYSIS OF D EMOGRAPHIC , H OUSING , AND E MPLOYMENT C HARACTERISTICS
+As required by N.J.S.A. 52:27D‐310, all housing elements must contain a discussion of the
+municipality’s demographic, housing, and economic characteristics. The following subsections
+fulfill this requirement by providing a profile of the Township’s demographic, housing and
+employment characteristics based on information from the US Census Bureau, and the New
+Jersey Department of Labor and Workforce Development.
+
+D EMOGRAPHICS
+
+POPULATION
+
+Stafford Township has experienced increased steady growth over the past few decades. Table 1
+below illustrates the population growth trends for both Ocean County and the Township.
+According to the 2020 U.S Census, the Township’s population stood at 28,617 residents. This
+marks a 7.8% increase from 26,535 residents recorded in 2010. In comparison, Ocean County
+grew by 10.5% from 2010 to 2020.
+
+                                     Table 1: Population Trends, 2000 ‐ 2010
+
+                                                                                Percent     Percent
+                                       2000                2010      2020       Change      Change
+                                                                               2000‐2010   2010‐2020
+
+      Stafford Township               22,532              26,535    28,617      17.8%        7.8%
+        Ocean County                  510,916             576,567   637,229     12.8%       10.5%
+ Source: US Census Bureau Decennial Census (Table DP‐1)
+
+
+
+
+                                                                                             6|Page
+     OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 11 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+                                       Figure 1: Population over time in Stafford
+ 35,000                                                                                                32,813
+
+                                                                                              28,617
+ 30,000
+                                                                                    26,535
+
+ 25,000                                                                22,532
+
+ 20,000
+                                                             13,325                                                    Population
+ 15,000
+                                                    10,385
+ 10,000
+
+                                         3,684
+   5,000      1,253 1,347      1,930
+
+       0
+              1940      1950      1960      1970      1980      1990         2000    2010      2020      2050
+
+
+Source: US Census Bureau, Decennial Census, North Jersey Transportation Planning Authority Demographic Forecasts
+
+
+The Township’s population growth has only seen an upward trend especially after 1970 as
+illustrated in Figure 1 above. As seen in the figure, population growth exponentially rose from
+3,684 to 10,385 in the years between 1970 and 1980. There was a similar jump from 1990 to
+2000, mostly owing to the gradual expansion of the suburbs in the State. In addition, it is
+projected that the Township’s population might experience a considerable increase by 2050, with
+an estimated population of 32,813.
+
+POPULATION COMPOSITION BY AGE
+
+The age composition of Stafford has shifted notably since 2000, as shown in Table 2. According
+to the U.S. Census Bureau’s Decennial Census Estimates, significant growth has occurred among
+both younger adult and older age groups. The number of high school‐age youth (15–19 years)
+increased by 49.2%, while college‐age young adults (20–24 years) grew by a striking 84.5%.
+Similarly, the older population, particularly those aged 55 and above—experienced comparable
+growth. The 55–59 age group increased by 84.4%, and those aged 85 and over grew by 82.7%. In
+contrast, the infant population saw a slight decline of 9.5%.
+
+                         Table 2: Population by Age Cohort, Stafford Township, 2000 ‐ 2020
+
+                                                          2000                                2020                   Percent
+   Population and Cohort Type                                                                                      Change 2000‐
+                                             Number             Percent             Number            Percent
+                                                                                                                      2020
+           Total population                      22,532               100%           28,617            100%           27.0%
+            Under 5 years                        1,466                6.5%            1,326             4.6%          ‐9.5%
+             5 to 9 years                        1,585                7.0%            1,484             5.2%          ‐6.4%
+            10 to 14 years                       1,506                6.7%            1,762             6.2%          17.0%
+
+
+
+                                                                                                                       7|Page
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 12 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+                      Table 2: Population by Age Cohort, Stafford Township, 2000 ‐ 2020
+
+                                                   2000                        2020               Percent
+  Population and Cohort Type                                                                    Change 2000‐
+                                        Number             Percent   Number           Percent
+                                                                                                    2020
+          15 to 19 years                   1,236             5.5%      1,844           6.4%         49.2%
+          20 to 24 years                    873              3.9%      1,611           5.6%        84.5%
+          25 to 34 years                   2,673             11.9%     3,008           10.5%        12.5%
+          35 to 44 years                   3,563             15.8%     3,067           10.7%       ‐13.9%
+          45 to 54 years                   2,984             13.2%     3,927           13.7%        31.6%
+          55 to 59 years                   1,206             5.4%      2,224           7.8%        84.4%
+          60 to 64 years                   1,196             5.3%      2,041           7.1%         70.7%
+          65 to 74 years                   2,361             10.5%     3323            11.6%       40.7%
+          75 to 84 years                   1,398             6.2%      2,114           7.4%         51.2%
+        85 years and over                   485              2.2%       886            3.1%        82.7%
+ Source: US Census Bureau, Decennial Census (Table DP‐1)
+
+
+Ocean County has also seen notable shifts in the composition of its population over the past two
+decades, as shown in Table 3 below. With the exception of the 35–44‐year cohorts (which also
+decreased within the Township), all other cohorts increased. Similar to the Township, the number
+of high school–age youth (15–19) rose by 32.0%, and college‐age young adults (20–24) increased
+by 49.2%. Significant growth also occurred among older adults, particularly ages 60–64 (87.0%)
+and 55–59 (63.9%). Overall, there is an aging population both at the Township and County level.
+
+                         Table 3: Population by Age Cohort, Ocean County, 2000 ‐ 2020
+
+                                                   2000                        2020               Percent
+  Population and Cohort Type                                                                    Change 2000‐
+                                        Number             Percent   Number           Percent
+                                                                                                   2020
+         Total population                510,916             100%     637,229         100.0%       24.7%
+          Under 5 years                   32,181             6.3%     44,884           7.0%        39.5%
+           5 to 9 years                   34,396             6.7%     43,622           6.8%         26.8%
+          10 to 14 years                  33,898             6.6%     41,909           6.6%        23.6%
+          15 to 19 years                  28,690             5.6%     37,880           5.9%         32.0%
+          20 to 24 years                  23,528             4.6%     35,107           5.5%        49.2%
+          25 to 34 years                  57,098             11.2%    71,896           11.3%        25.9%
+          35 to 44 years                  75,878             14.9%    64,640           10.1%       ‐14.8%
+          45 to 54 years                  63,293             12.4%    67,819           10.6%        7.2%
+          55 to 59 years                  25,587             5.0%     41,928           6.6%        63.9%
+          60 to 64 years                  23,107             4.5%     43,205           6.8%         87.0%
+          65 to 74 years                  54,304             10.6%    76,886           12.1%       41.6%
+          75 to 84 years                  44,042             8.6%     47,329           7.4%         7.5%
+        85 years and over                 14,914             2.9%     20,124           3.2%        34.9%
+ Source: US Census Bureau, Decennial Census (Table DP‐1)
+
+
+
+                                                                                                    8|Page
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 13 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+The median age of Stafford residents increased significantly by 13.4% between 2000 and 2020,
+rising from 40 to 45.7 years. This growth outpaced both the county and state trends—Ocean
+County's median age rose by just 1.2%, while the State of New Jersey saw an 8.7% increase over
+the same period.
+
+                                         Table 4: Median Age, 2000 – 2020
+
+                                                  2000                  2020                Percent Change
+             Stafford Township                             40.3                  45.7               13.4%
+                Ocean County                               41.0                  41.5               1.2%
+                 New Jersey                                36.7                  39.9               8.7%
+ Source: US Census Bureau, Decennial Census (Table DP‐1)
+
+
+HOUSEHOLDS
+
+A household is defined as one or more individuals, related or not, living together in a single
+housing unit. According to the 2023 ACS 5‐Year Estimates, the Township had approximately
+11,837 households. Among these, household sizes were relatively balanced, with 1‐person
+households comprising 25% and those with 4 or more people making up 23%. The largest share,
+however, was 2‐person households, accounting for 35.8% of all households.
+
+As illustrated in Table 5, the Township and the County have a similar makeup of household size,
+with the largest being a 2‐person household at 34.4% at the County level.
+
+The Township’s average household size was 2.46 people, slightly lower to the County’s average
+of 2.65 and New Jersey’s average of 2.61, according to the ACS estimates.
+
+                                      Table 5: Household Characteristics, 2023
+
+                             Stafford Township                    Ocean County                 New Jersey
+                           Number          Percent         Number            Percent     Number        Percent
+ Total Households          11,837          100.0%          241,521           100.0%     3,478,355      100.0%
+      1‐person               2,964          25.0%           68,021           28.2%      918,897         26.4%
+     2‐persons               4,242          35.8%           83,181           34.4%      1,081,842       31.1%
+     3‐persons               1,910          16.1%           33,386           13.8%      594,946         17.1%
+     4 or more
+                             2,721          23.0%           56,933           23.6%      882,670         25.4%
+      persons
+      Average
+                                 2.46 people                      2.65 people                 2.61 people
+   Household Size
+ Source: US Census Bureau, ACS 5‐year Estimates 2023 (Table S2501& B25010)
+
+
+Family households are defined as two or more individuals living together in the same residence,
+related by blood, marriage, or adoption. Of the total 11,837 households within Stafford, a total
+of 8,015 (67.7 %) are family households. Similarly, Ocean County has 66.6% family and 35.4%
+non‐family households.
+
+
+                                                                                                      9|Page
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 14 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+                                   Table 6: Household by Type, 2023
+                                                        Stafford                                 Ocean County
+                                                Number           Percent                    Number         Percent
+ Total Households                                11,837          100.0%                     241,521        100.0%
+ Average Family Size                                  2.99 people                                 3.31 people
+ Family Households                               8,015            67.7%                     160,799         66.6%
+ Married Couple Family                            6,378           79.6%                     127,318         79.2%
+     - With own children under 18 years           2,411           37.8%                      48,896         38.4%
+     - No children under 18 years                 3,967           62.2%                      78,422         61.6%
+ Male householder, no wife present                 339             4.2%                       9,784          6.1%
+     - With own children under 18 years            157            46.3%                       3,965         40.5%
+     - No own children under 18 years              182            53.7%                       5,819         59.5%
+ Female householder, no husband present           1298            16.2%                      23,697         14.7%
+     - With own children under 18 years            569            43.8%                       8,312         35.1%
+     - No own children under 18 years              729            56.2%                      15,385         64.9%
+ Nonfamily Households                            3,822            32.3%                     80,722          33.4%
+ 65 years and over                                1,598           13.5%                      42,025         17.4%
+ Source: US Census Bureau, American Community Survey 5‐year Estimates 2019 to 2023 (Table S1101)
+
+
+Within the Township, approximately 79.6% of family households consist of married couple
+householders. Among the remaining family households, 4.2% are headed by a single male
+householder while 16.2% are headed by a single female householder. The average family size in
+the Township is 2.99 persons. The percentage share within family households is similar at the
+Conty level as well. To note, there are about 13.5% and 17.4% non‐family households that are
+aged 65 years and above, at the County and Township level, respectively.
+
+EXISTING HOUSING CONDITIONS
+
+Stafford’s housing stock is predominantly occupied, as indicated in Table 7. About 21% of the
+housing units are vacant out of which 86.6% are sold but not occupied. Of the total of 11,837
+occupied housing units, 89.1% are owner‐occupied while 10.9% are renter‐occupied.
+
+                                      Table 7: Housing Units, 2023, Stafford
+                                                                       Number                       Percent
+ Total Housing Units                                                   14,988                       100.0%
+ Occupied Housing Units                                                11,837                        79.0%
+         Owner Occupied                                                10,550                        89.1%
+         Renter Occupied                                                1,287                        10.9%
+ Vacant Housing Units                                                   3,151                        21.0%
+         For rent                                                         0                           0.0%
+         Rented, not occupied                                            198                          6.3%
+         For sale only                                                   125                          4.0%
+         Sold, not occupied                                             2,730                        86.6%
+
+
+
+                                                                                                       10 | P a g e
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 15 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+                                    Table 7: Housing Units, 2023, Stafford
+          For seasonal, recreational, or occasional use                 0                             0.0%
+          For migrant workers                                           98                            3.1%
+          Other vacant                                                  0                             0.0%
+ Source: US Census Bureau, ACS 5‐year Estimates 2023 (Tables DP04 and B25004)
+
+
+As illustrated in Figure 2, building activity in the Township was at its peak during the period of
+1970‐1979 and 1990‐2000, incidentally when the Township experienced large population spikes.
+Lately, post 2020, construction appears to have dipped substantially, due to slower housing
+market post‐recession.
+
+                                Figure 2: Age of Housing Stock, Stafford Township
+
+ Built 1940 to 1949             167
+ Built 1950 to 1959                   368
+ Built 1960 to 1969                                      1,206
+ Built 1970 to 1979                                                                                          3,135
+ Built 1980 to 1989                                                             1,978
+ Built 1990 to 1999                                                                                         3,118
+ Built 2000 to 2009                                                                               2,724
+ Built 2010 to 2019                                                        1,856
+ Built 2020 or later       61
+
+
+                       0              500      1,000        1,500         2,000         2,500       3,000           3,500
+
+
+HOUSING TYPE AND SIZE
+
+Stafford’s housing stock is predominantly comprised of single‐family detached homes, making up
+approximately 88.2% of the total housing units. It is followed by 1‐unit attached housing at 3.3%
+and mobile homes at 2.3%. Multi‐family housing containing 10 or more units comprise 3.8% of
+the total units. In terms of bedrooms, 42.2% and 26.1% are made up of 3‐ and 4‐bedroom units,
+respectively.
+
+                             Table 8: Housing Units by Type, 2023, Stafford
+                                                   Number                                       Percent
+ Total Housing Units                                14,988                                      100.0%
+         1‐unit detached                            13,220                                       88.2%
+         1‐unit, attached                            499                                         3.3%
+         2 units                                     179                                         1.2%
+         3 or 4 units                                103                                         0.7%
+         5 to 9 units                                 79                                         0.5%
+         10 to 19 units                              332                                         2.2%
+         20 or more units                            238                                         1.6%
+         Mobile home                                 338                                         2.3%
+         Boat, RV, Van, etc.                          0                                          0.0%
+
+
+
+                                                                                                          11 | P a g e
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 16 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+                                  Table 8: Housing Units by Type, 2023, Stafford
+ Bedrooms
+       No bedroom                                             14                         0.1%
+       1 bedroom                                             792                         5.3%
+       2 bedrooms                                           2,899                        19.3%
+       3 bedrooms                                           6,327                        42.2%
+       4 bedrooms                                           3,914                        26.1%
+       5 or more bedrooms                                   1,042                        7.0%
+ Source: US Census Bureau, ACS 5‐year Estimates 2023 (Tables DP04)
+
+
+HOUSING VALUES AND CONTRACT RENTS
+
+Table 9 provides a detailed breakdown of home values for owner‐occupied units within the
+Township. According to the ACS 5‐Year Estimates, the majority of housing units in Stafford
+(42.7%) were valued between $300,000 to $499,999, similar to the County’s highest share at
+36.7%. The median value of an owner‐occupied home in Stafford in 2023 was $379,400, which is
+slightly higher than the County's median.
+
+                             Table 9: Value of Owner‐Occupied Housing Units, 2023
+
+                                                            Stafford                    Ocean County
+                                                   Number              Percent     Number         Percent
+                   Total                           10,550              100.0%      193,630        100.0%
+            Less than $50,000                        285                2.7%         6722          3.5%
+           $50,000 to $99,999                        264                2.5%         7606          3.9%
+          $100,000 to $149,999                       127                1.2%         6557          3.4%
+          $150,000 to $199,999                       368                3.5%        10614          5.5%
+          $200,000 to $299,999                      2170                20.6%       38410          19.8%
+          $300,000 to $499,999                      4,505               42.7%       71,026         36.7%
+          $500,000 to $999,999                      2,613               24.8%       43,985         22.7%
+         $1,000,000 and greater                      218                2.1%        8,710          4.5%
+
+              Median Value                                  $379,400                      $366,600
+
+ Source: US Census Bureau, ACS 5‐year Estimates 2019 to 2023 (Tables DP04)
+
+
+Table 10 below provides a breakdown of gross rent paid within the Township and County. Rental
+prices in Stafford majorly fall between the range of $1,500 to $1,999 per month at 35.9%. Even
+at the County level, the majority share lies between the same range at 33.5%. According to the
+2023 ACS 5‐Year Estimates, the median gross rent in the Township was $1,734, slightly higher
+than the County median of $1,702.
+
+Additionally, approximately 122 units in the Township did not require cash rent payments,
+compared to 3,010 such units across the County.
+
+
+
+                                                                                                 12 | P a g e
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 17 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+                                          Table 10: Gross Rent Paid, 2023
+
+                                                               Stafford                 Ocean County
+                                                      Number              Percent   Number       Percent
+                    Total                              1,165              100.0%    44,881       100.0%
+               Less than $500                           151                13.0%     1,911        4.3%
+                $500 to $999                             96                8.2%      3,137        7.0%
+              $1,000 to $1.499                          140                12.0%    11,324        25.2%
+              $1,500 to $1,999                          418                35.9%    15,025        33.5%
+              $2,000 to $2,499                          270                23.2%     8,562        19.1%
+              $2,500 to $2,999                           83                7.1%      2,654        5.9%
+               $3,000 or more                            7                 0.6%      2,268        5.1%
+                No rent paid                            122                10.5%     3,010        6.7%
+
+           Median Contract Rent                                  $1,734                     $1,702
+
+ Source: US Census Bureau, ACS 5‐year Estimates 2019 to 2023 (Tables DP04)
+
+
+HOUSING CONDITIONS
+
+According to the 2023 ACS estimates, only 31 units out of the total owner‐occupied units and 19
+units out of the renter‐occupied units are overcrowded in Stafford, meaning that they house
+more than 1 persons per room. The data also reveals that there are 9 units that lack plumbing
+facilities and 9 units that lack kitchen equipment in the Township as of 2023. These housing
+deficiencies are key factors in assessing overall housing conditions across the Township and
+determining municipal rehabilitation needs. Table 11 below provides a breakdown of housing
+deficiency characteristics based on the 5‐year ACS data.
+
+                    Table 11: Housing Deficiency Characteristics, 2023, Stafford Township
+
+                               Housing Units with 1.01 or More Persons Per Room
+                                                                  Count                     Percent
+ Owner‐Occupied                                                    31                        0.3%
+ Renter‐Occupied                                                   19                        1.5%
+ Plumbing Facilities
+ Total Occupied Housing Units                                          11,837                100.0%
+ Lacking complete plumbing facilities                                    9                    0.1%
+ Kitchen Equipment
+ Total Occupied Housing Units                                          11,837                100.0%
+ Lacking complete kitchen facilities                                     9                    0.1%
+ Source: US Census Bureau, ACS 5‐year Estimates 2023 (Tables B25014, S2504)
+
+
+
+
+                                                                                                 13 | P a g e
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 18 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+HOUSING STOCK
+
+According to the New Jersey Department of Community Affairs (DCA), Township of Stafford
+issued building permits for 2,157 new residential units between January 2013 and December
+2023. During this period, the Township also approved 8 residential demolition permits.
+Subtracting the demolition permits from the construction permits reveals a net increase of 2,149
+residential units over the same timeframe.
+
+Notably, the Township’s 1&2‐family housing stock saw consistent increased growth over the
+years compared to multi‐family homes.
+
+                   Table 12: Building Permits and Demolition Permits Issued 2013 ‐ 2023
+                             Multi                     Total New          Total Residential   Net Units
+  Year       1&2 Family                Mixed Use
+                            Family                   Construction           Demolitions        Added
+  2013          226            24           0              250                    1             249
+  2014          308            0            0              308                    2             306
+  2015          141            1            0              142                    0             142
+  2016          140            0            0              140                    1             139
+  2017          138           100           0              238                    1             237
+  2018          145            0            0              145                    0             145
+  2019          116            60           0              176                    0             176
+  2020          356            0            0              356                    1             355
+  2021          174            0            0              174                    0             174
+  2022          138            0            0              138                    1             137
+  2023           90            0            0               90                    1              89
+  Total        1,972          185           0             2,157                   8            2,149
+ Source: NJ DCA, Construction Reporter 2013 to 2023
+
+
+E MPLOYMENT D ATA
+
+EMPLOYMENT STATUS
+
+ACS estimates provide data on the work activity of residents aged 16 and older. As of 2023,
+Stafford’s working‐age population was 24,602 with approximately 16,230 (66%) residents in the
+labor force. Around 34% of the Township’s working‐age residents were not participating in the
+labor force at the time of the estimates, which is lower than the County's non‐participation rate
+of 41%. Most of the Township’s labor force were employed in civilian jobs, with 29 residents
+reported as members of the armed forces. The unemployment rate for Township residents was
+approximately 2.9%, comparable to the County’s rate of 3.2%.
+
+                                        Table 13: Employment Status, 2023
+
+                                                        Stafford                   Ocean County
+                                               Number              Percent     Number        Percent
+   Population 16 years and over                24,602              100.0%      502,187       100.0%
+
+
+                                                                                              14 | P a g e
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 19 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+                                        Table 13: Employment Status, 2023
+
+                                                          Stafford                    Ocean County
+                                               Number                Percent     Number         Percent
+                 In labor force                16,230                 66.0%      296,116         59.0%
+              Civilian Labor Force             16,201                 65.9%      295,499         58.8%
+                    Employed                   15,490                 63.0%      279,228         55.6%
+                  Unemployed                     711                  2.9%        16,271         3.2%
+                 Armed Forces                     29                  0.1%         617           0.1%
+              Not in Labor Force                8,372                 34.0%      206,071         41.0%
+ Source: US Census Bureau, ACS 5‐year Estimates 2023 (Table DP03)
+
+
+WORKER CLASSIFICATION
+
+As shown in Table 14 below, approximately 72.4% of Township’s workers were employed in
+private wage and salary positions, while 4.5% were self‐employed. Government employees made
+up 23.1% of the workforce, with no unpaid family workers.
+
+                         Table 14: Classification of Workers, Stafford Township, 2023
+                                                                       Number                Percent
+                            Total                                       15,490               100.0%
+              Private Wage and Salary Worker                            11,217                72.4%
+                    Government Worker                                    3,577                23.1%
+                   Self‐Employed Worker                                   696                 4.5%
+                   Unpaid Family Worker                                    0                  0.0%
+ Source: US Census Bureau, ACS 5‐year Estimates 2023 (Table DP03)
+
+
+WORKFORCE BY SECTOR
+
+An analysis of employed individuals over the age of 16 by economic sector reveals while there is
+a diverse range of industries in which the Township’s working‐age population is engaged. Sector
+with the highest share of workforce is educational and healthcare services at 29.8%. It is followed
+by retail trade and professional & management services at 13% and 10.4%, respectively.
+
+                            Table 15: Workforce by Sector, Stafford Township, 2023
+
+                                  Industry                                     Number         Percent
+          Civilian employed population 16 years and over                       15,490         100.0%
+          Agriculture, forestry, fishing and hunting and mining                  25            0.2%
+          Construction                                                          1,501          9.7%
+          Manufacturing                                                          721           4.7%
+          Wholesale trade                                                        287           1.9%
+          Retail trade                                                          2,007          13.0%
+          Transportation and warehousing, and utilities                          840           5.4%
+          Information                                                            282           1.8%
+
+
+
+                                                                                               15 | P a g e
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 20 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+                            Table 15: Workforce by Sector, Stafford Township, 2023
+
+                                  Industry                                      Number        Percent
+          Finance and insurance, and real estate and rental and
+                                                                                 950           6.1%
+          leasing
+          Professional, scientific, and management, and
+                                                                                1,617         10.4%
+          administration and waste management services
+          Educational services, health care and social assistance               4,611         29.8%
+          Arts, entertainment, recreation, and accommodation and
+                                                                                1,261          8.1%
+          food services
+          Other services, except public administration                           465           3.0%
+          Public administration                                                  923           6.0%
+ Source: US Census Bureau, ACS 5‐year Estimates 2023 (Table DP03)
+
+
+OCCUPATIONS BY TYPE
+
+Table 16 presents a breakdown of occupations by type within the Township’s employed civilian
+labor force. The largest segment is engaged in management, business, science, and arts
+occupations (46.1%), followed by sales and office occupations (24.5%), service occupations
+(13%).
+
+                            Table 16: Occupations by Type, Stafford Township, 2023
+
+                                                                                 Number       Percent
+          Employed Civilian population 16 years and over                         15,490       100.0%
+          Management, business, science, and arts occupations                     7,141        46.1%
+          Service occupations                                                     2,011        13.0%
+          Sales and office occupations                                            3,793        24.5%
+          Natural resources, construction, and maintenance occupations            1,319        8.5%
+          Production, transportation, and material moving occupations             1,226        7.9%
+ Source: US Census Bureau, ACS 5‐year Estimates 2023 (Table DP03)
+
+
+COMMUTING TO WORK
+
+As shown in Table 17 below, the vast majority of residents (76%) commute to work alone by
+private vehicle, which is comparable to the County's rate of 76.5%. At the Township level, 12.2%
+of workers work from home and 9% who carpool to work. Similarly, at the County level, 11.6%
+work from home and 8% carpool for work.
+
+                                        Table 17: Means of Commute, 2023
+
+                                                          Stafford Township           Ocean County
+                                                         Number       Percent     Number       Percent
+ Workers 16 years and over                               15,276       100.0%      271,882      100.0%
+ Car, truck, van ‐ Drove Alone                           11,608        76.0%      207,910       76.5%
+
+
+
+
+                                                                                              16 | P a g e
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 21 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+                                        Table 17: Means of Commute, 2023
+
+                                                          Stafford Township         Ocean County
+                                                         Number       Percent   Number       Percent
+ Car, truck, van ‐ Carpooled                              1,379        9.0%     21,641        8.0%
+ Public transportation (excluding taxicab)                 70          0.5%      3,128        1.2%
+ Walked                                                    245         1.6%      3,589        1.3%
+ Other means                                               103         0.7%      4,192        1.5%
+ Worked from home                                         1,871        12.2%    31,422        11.6%
+ Source: US Census Bureau, ACS 5‐year Estimates 2023 (Table DP03)
+
+
+As indicated in Table 18 below, 45.2% of Stafford residents have a commute of more than 30
+minutes, which is comparable to the County at 42.3%. Similarly, 38.4% of Township residents
+have a commute of less than 20 minutes, while the County’s share is 39%.
+
+Mean travel time to work at the Township is 31 while at the County level it is 30.7 minutes.
+
+                                     Table 18: Travel Time to Work, 2023
+                                                         Stafford Township          Ocean County
+                                                        Number       Percent     Number      Percent
+                Less than 10 minutes                     2,062       15.38%      29,788      12.39%
+                  10 to 19 minutes                       3,079       22.97%      64,200      26.70%
+                  20 to 29 minutes                       2,202       16.43%      44,761      18.61%
+                  30 to 44 minutes                       2,317       17.28%      44,155      18.36%
+                  45 to 59 minutes                       1,763       13.15%      21,155       8.80%
+                  60 to 89 minutes                       1,345       10.03%      23,748       9.88%
+                 90 or more minutes                       637         4.75%      12,653       5.26%
+
+       Mean travel time to work (minutes)                              31                30.7
+
+ Source: US Census Bureau, ACS 5‐year Estimates 2023 (Table DP03, B08303)
+
+
+
+
+                                                                                            17 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 22 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+
+
+HOUSING PLAN ELEMENT
+According to the Municipal Land Use Law (MLUL) (40:55D‐28.b(3)), a municipality is required to
+adopt a Housing Plan Element of the Master Plan, as well as a Fair Share Plan for addressing its
+low‐ and moderate‐income housing obligations in accordance with the Fair Housing Act (FHA).
+Pursuant to the Fair Housing Act, Section 10 of P.L. 1985, c. 222 (C. 52:27D‐310), a municipality’s
+housing plan element shall be designed to achieve the goal of access to affordable housing to
+meet present and prospective housing needs, with attention to low‐ and moderate‐income
+housing. This updated Housing Plan Element for Stafford Township has been prepared in a
+manner that is consistent with the FHA and MLUL requirements, and contains the following, as
+spelled out in the FHA:
+
+   1. An inventory of the municipality's housing stock by age, condition, purchase or rental
+      value, occupancy characteristics, and type, including the number of units affordable to
+      low and moderate income households and substandard housing capable of being
+      rehabilitated, and in conducting this inventory the municipality shall have access, on a
+      confidential basis for the sole purpose of conducting the inventory, to all necessary
+      property tax assessment records and information in the assessor's office, including but
+      not limited to the property record cards;
+   2. A projection of the municipality's housing stock, including the probable future
+      construction of low‐ and moderate‐income housing, for the next ten years, taking into
+      account, but not necessarily limited to, construction permits issued, approvals of
+      applications for development and probable residential development of lands;
+   3. An analysis of the municipality's demographic characteristics, including but not
+      necessarily limited to, household size, income level and age;
+   4. An analysis of the existing and probable future employment characteristics of the
+      municipality;
+   5. A determination of the municipality's present and prospective fair share for low‐ and
+      moderate‐income housing and its capacity to accommodate its present and prospective
+      housing needs, including its fair share for low‐ and moderate‐income housing; and
+   6. A consideration of the lands that are most appropriate for construction of low‐ and
+      moderate‐income housing and of the existing structures most appropriate for conversion
+      to, or rehabilitation for, low‐and moderate‐income housing, including a consideration of
+      lands of developers who have expressed a commitment to provide low‐ and moderate‐
+      income housing.
+   7. A map of all sites designated by the municipality for the production of low‐ and moderate
+      income‐housing and a listing of each site that includes its owner, acreage, lot, and block;
+   8. The location and capacities and proposed water and sewer lines and facilities relevant to
+      the designated sites;
+
+
+                                                                                       18 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 23 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+   9. Copies of necessary applications for amendments to, or consistency determinations
+      regarding, applicable area‐wide water quality management plans (including wastewater
+      management plans).
+   10. A copy of the most recently adopted master plan and where required, the immediately
+       preceding, adopted master plan;
+   11. For each designated site, a copy of the New Jersey Freshwater Wetlands maps where
+       available. When such maps are not available, municipalities shall provide appropriate
+       copies of the National Wetlands Inventory maps provided by the U.S. Fish and Wildlife
+       Service;
+   12. A copy of appropriate, United States Geological Survey Topographic Quadrangles for
+       designated sites; and
+   13. Any other documentation pertaining to the review of the municipal housing element may
+       be required by the appropriate authority.
+
+
+This Housing Plan Element and Fair Share Plan will address the Township’s obligations to provide
+a realistic opportunity for the construction of low‐ and moderate‐income housing in accordance
+with the Fair Housing Act, and the MLUL for the Fourth Round period of 2025 – 2035. The
+preparation of a Housing Plan Element and Fair Share Plan is the first step in petitioning the court
+for Substantive Certification and Judgement of Response.
+
+
+
+
+                                                                                        19 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 24 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+FAIR SHARE PLAN
+A Fair Share Plan has been defined by the Amended Fair Housing Act at N.J.A.C. 52:27D‐304 as:
+
+   “Fair Share Plan” means the plan or proposal that is in a form which may readily be adopted,
+   with accompanying ordinances and resolutions, pursuant to subsection f. of section 3 of
+   P.L.2024, c.2 (C.52:27D‐304.1), by which a municipality proposes to satisfy its obligation to
+   create a realistic opportunity to meet its fair share of low‐ and moderate‐income housing
+   needs of its region and which details the affirmative measures the municipality proposes to
+   undertake to achieve its fair share of low‐ and moderate‐income housing, as provided in the
+   municipal housing element, and addresses the development regulations necessary to
+   implement the housing element, including, but not limited to, inclusionary requirements and
+   development fees, and the elimination of unnecessary housing cost‐generating features from
+   the municipal land use ordinances and regulations.
+
+The Fair Share Plan for the Township of Stafford is broken up into four sections;
+
+      Present Need or Rehabilitation Obligation: 38 Units
+      Prior Round / First and Second Round (1987‐1999) Prospective Need Obligation 555 Units
+      Third Round (1999‐2025) Prospective Need Obligation: 792 units
+      Fourth Round (2025‐2035) Prospective Need Obligation: 175 Units
+
+The Township’s Fair Share Plan specifically describes the completed and proposed mechanisms
+to address the present need (rehabilitation) obligation, First and Second Round (Prior Round)
+obligation, Third Round obligation, and Fourth Round obligation.
+
+
+
+CONSIDERATION OF LANDS SUITABLE FOR AFFORDABLE HOUSING
+
+The New Jersey Fair Housing Act (N.J.S.A. 52:27D‐310(f)) requires that the Housing Element
+provide a narrative that includes “a consideration of the lands that are most appropriate for
+construction of low and moderate income housing and of the existing structures most
+appropriate for conversion to, or rehabilitation for, low and moderate income housing, including
+a consideration of lands of developers who have expressed a commitment to provide low and
+moderate income housing.”
+
+The Township of Stafford, situated along Barnegat Bay, has historically served as a agricultural
+community and resort town. Its strategic location connected greater New Jersey with Long Beach
+Island. Today, the majority of residential and commercial development is concentrated in the
+central and eastern areas of the Township at exit 63 of the Garden State Parkway, along the New
+Jersey State Route 72, and US Route 9.
+
+
+
+
+                                                                                    20 | P a g e
+      OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 25 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+The Township is actively working to develop new housing, rehabilitate its existing housing stock,
+and enhance infrastructure to support sustainable growth along State Route 72 and areas with
+existing infrastructure and established residential neighborhoods.
+
+The New Jersey State Development and Redevelopment Plan places the Township into the
+following classifications.
+
+           Suburban Planning Area (PA2)
+                  o Encourages Development and Redevelopment
+           Rural Planning Area (PA4)
+                  o Includes Agricultural Uses and encourages the preservation of these uses.
+           Environmentally Sensitive Planning Areas (PA5)
+                  o Discourages development and promotes preservation.
+
+
+
+S I T E S U I TA B I L I T Y
+
+As per previous COAH regulations, the Fair Share Plan must demonstrate site suitability for
+proposed new units that are not yet fully approved, as required by N.J.A.C. 5:93 ‐5.3.
+
+      A. An “available site” is a site with clear title, and that is free of encumbrances which
+         preclude development for low‐ and moderate‐income housing.
+
+                       All sites in the compliance plan are “available”.
+
+      B. A “developable site” is a site that has access to appropriate water and sewer
+         infrastructure and is consistent with the applicable area‐wide water quality management
+         plan and wastewater management plan.
+
+                       All sites in the compliance plan are “developable”. All sites are within the sewer
+                        service area and will be served by the Municipal Utilities Authority (MUA).
+
+      C. A “suitable site” is a site that is adjacent to compatible land uses, has access to
+         appropriate streets and is consistent with the environmental policies delineated in
+         N.J.A.C. 5:93‐4 (not in wetlands, flood hazard areas, steep slopes).
+
+                       All sites in the compliance plan are “suitable”. Sites encumbered by wetlands,
+                        steep slopes, or flood hazards are not included. Sites located in lands that are
+                        surrounded by industrial users and lack sufficient space for adequate buffering
+                        have also not been included.
+
+
+
+                                                                                              21 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 26 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+   D. An “approvable site” is a site that may be developed for low‐ and moderate‐income
+      housing in a manner consistent with the rules or regulations of all agencies with
+      jurisdiction over the site. A site may be approvable although not currently zoned for low‐
+      and moderate‐income housing.
+
+             All sites in the compliance plan are “approvable”. All projects noted in the Prior
+              Round and Third Round plans are either completed, have been approved, or have
+              appropriate zoning regulations in place to make them completely “approvable”.
+
+             Projects for the Fourth Round are proposed at this time, and appropriate zoning
+              regulations or redevelopment plans will be adopted to implement the
+              recommendations of this Housing Plan.
+
+
+
+
+                                                                                    22 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 27 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+FAIR SHARE OBLIGATION
+
+The Township has the following cumulative affordable housing obligations:
+
+       Rehabilitation / Present Need = 38 Units
+       Prior Round / First and Second Round (1987‐1999) Prospective Need = 555 Units
+       Third Round (1999‐2025) Prospective Need = 792 Units
+       Fourth Round (2025‐2035) Prospective Need = 175 Units
+
+
+
+Income Levels
+
+Stafford Township is in COAH’s Region 4, which includes Monmouth, Mercer, and Ocean
+Counties. Moderate‐income households are those earning between 50% and 80% of the regional
+median income. Low‐income households are those with annual incomes that are between 30%
+and 50% of the regional median income. Very‐low income households are a subset of “low
+income” households, and are defined as households earning 30% or less of the regional median
+income.
+                                                  2025 Income Limits for Region 4
+
+ Household     1‐Person    2‐Person    3‐Person       4‐Person     5‐Person     6‐Person       7‐Person    8+‐Person
+ Income         House‐      House‐      House‐         House‐       House‐     House‐hold     House‐hold   House‐hold
+ Levels          hold        hold        hold           hold         hold
+
+ Moderate       $75,440    $86,160      $96,960      $107,680     $116,320      $124,960      $133,600         $142,160
+
+ Low            $47,150    $53,850      $60,600       $67,300      $72,700          78,100     $83,500         $88,850
+
+ Very Low       $28,290    $32,310      $36,360       $40,380      $43,620          $46,860    $50,100         $53,310
+
+ Source: 2025 Income Limits prepared by Affordable Housing Professionals of New Jersey
+
+
+
+
+                                                                                                23 | P a g e
+    OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 28 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+REHABILITATION OBLIGATION
+
+The Township has a rehabilitation, or present need obligation of 38 units.
+
+The Township currently participates in Ocean County’s owner‐occupied rehabilitation program,
+and will continue to participate in the program, making all Township residents who are income
+qualified eligible for home improvements through the County’s CDBG funded program.
+
+In addition, Township conducts its own municipal rehabilitation Program and shall continue to
+rehabilitate units.
+
+P R I O R R O U N D O B L I G A TI O N S (1987‐1999)
+
+The Township had a obligation of 555 units in its Prior Round (1987 – 1999) obligations. The prior
+round obligation was cited in the Township’s Second Round Substantive Certification from COAH
+and in Township’s Third Round Settlement Agreement. Per the third‐round plan, all prior round
+developments have been constructed and are occupied and all such units ( and bonuses) were
+included in First and/or Second Round Fair Share Plans that received Substantive Certification
+from COAH.
+
+In accordance with previous COAH rules found at N.J.A.C. 5:93, the Township must meet the
+following minimum and maximum requirements in addressing its prior Obligation
+
+                                                                        Permitted or    Provided
+    Round I/II Obligation Requirements and Caps
+                                                                         Required
+    Minimum Number of Rentals (5:93‐5.15)                                   139           143
+    Maximum Number of Age‐Restricted Units (5:93‐5.14)                      104            83
+    Maximum Rental Bonus Credits*                                           139            73
+
+
+The Township satisfied its prior round obligation through the following projects:
+                                                            Potential                   Status
+ Rounds I/II Compliance Mechanism Affordable                              Total
+                                                             Bonus
+              Summary                Units                               Credits
+                                                             Credits
+ Family Rental
+ Stafford Park Family Units (Block 25                                                  Completed
+                                                       71      71          142
+ Lot 33.02)
+ Age Restricted Rental
+ Stafford by the Bay (Presbyterian                                                     Completed
+                                                       72      2            74
+ Homes)
+ Age Restricted For Sale
+ Perry’s Lake                                          11                   11         Completed
+ Family For Sale
+ Pinecrest Village                                     75                   75         Completed
+
+
+
+                                                                                         24 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 29 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+                                                                              Amended GDP
+                                           10                       10
+ SOCH For Sale Units                                                            10/5/16
+ Credits Without Controls
+ Prior Cycle Credits                                                            Completed
+                                          243                      243
+ (04/01/80/12/31/86)
+
+ Totals                                                            555
+
+
+The Township was found to have fully addressed its prior round obligation of 555 units as
+reflected the Settlement Agreement between Stafford Township and Fair Housing Center dated
+August 16, 2016, and as accepted in the Judgement of Compliance and Repose.
+Credits without Controls
+
+In the preparation of the 2000 Housing Element and Fair Share Plan, the Township conducted
+the necessary survey and prepared the required documentation pursuant to N.J.A.C. 5:93‐3.2,
+for the purposes of identifying affordable units eligible for crediting that were constructed
+between April 1, 1980 and December 15, 1986. COAH verified a total of 243 units that met this
+criteria.
+
+Perry’s Lake (Block 120.30, Lot 51.01)
+
+Perry’s Lake is an inclusionary age‐restricted project, and includes 46 affordable units,
+consisting of 22 low and 24 moderate units, and 426 market rate units. A total of 46 age‐
+restricted affordable modular for‐sale units were completed within the development under the
+modified agreement. All 46 units were affirmatively marketed and are now occupied. 11 credits
+are applied towards Prior Round.
+
+Pinecrest Mobile Home Park (Block 123, Lot 17)
+
+Pinecrest Village is an inclusionary mobile home park project which includes 75 affordable
+units, consisting of 38 low and 37 moderate, and approximately 32 market‐rate units. Pursuant
+to bedroom mix requirements, there are 43 two bedroom units and 32 three bedroom units.
+The units are restricted for 30 years. The construction was completed October 2007.
+
+Southern Ocean County Hospital (SOCH) Health Village
+
+The SOCH Health Village project consists of approximately 80 acres located along Route 72
+within the Highway Medical Commercial (HMC) district, with 21 acres in connection with the
+affordable housing component. A General Development Plan for the project was approved by
+the Stafford Township Planning Board on January 16, 2008. SOCH received subsequent
+Amended General Development Plan approvals on August 6, 2008 and August 3, 2011. Most
+recently the Health Village went before the Planning Board on September 21, 2016 to seed a
+third amendment to the General Development Plan. Resolution 2016‐27, memorializing the
+approval of the Amended General Development Plan is included in Appendix J. The project
+
+
+                                                                                   25 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 30 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+includes the expansion of the existing Southern Ocean County Hospital, realigning of
+surrounding roadways as well as the construction of 350,500 square feet of office space, 50,000
+square feet of retail space, 239 market rate dwelling units, and 74 affordable dwelling units. Of
+the 74 units, 44 are affordable “for‐sale” units and 30 are affordable “for rent” units. The total
+number of affordable housing units will be split, 37 low and 37 moderate units.
+
+Stafford by the Bay (Presbyterian Homes (Block 229, Lot 21)
+
+As part of its prior housing efforts, the Township collaborated with Presbyterian Homes and
+Services in the development of a 5.5 acre site for 84 age‐restricted low‐income rental units. The
+project received US Department of Housing and Urban Development Funding under the Section
+202 program. The construction of the project is complete. Under Section 202 program
+requirements, the units have the requisite affordability controls and Presbyterian Homes and
+Services is an accepted administrator. The Township requests 74 affordable housing credits,
+specifically 72 credits and 2 bonus credits towards the Prior Round Obligation.
+
+Stafford Park Apartments (Block 25, Lot 33.02)
+
+The Stafford Park Apartments are part of the Stafford Business Park Redevelopment Area and
+are located at the interchange of Route 72 and the Garden State Parkway. The approval
+included 650,000 square feet of retail and office place, 565 age‐restricted residential units, and
+111 affordable housing units. The Planning Board approved the site plan for the affordable
+housing component on July 16, 2008, and construction was completed in 2009. Stafford Park
+Apartments includes a mix of 1‐, 2‐, and 3‐ bedroom family units with 56‐low and 56‐moderate
+units. The Township requests 71 credits and 71 bonus credits towards the Prior Round
+Obligation, and 40 credits and 40 bonus credits towards the Third Round Obligation.
+
+
+
+
+                                                                                       26 | P a g e
+     OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 31 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+T H I R D R O U N D O B L I G A TI O N
+
+The Township Third Round (1999 – 2025) Obligation was 792 affordable units. This was based on
+the Settlement Agreement between the Township and FSHC, executed on August 16, 2016.
+Township did seek a vacant land adjustment and calculated the RDP ( Realistic Development
+Potential) to 360 units.
+
+         Low/Moderate Income Split: at least fifty percent (50%) of the units addressing the Third
+          Round Prospective Need shall be affordable to very‐low‐income and low‐income
+          households with the remainder affordable to moderate‐income households.
+
+               o 360 x 0.5 = 180
+               o A minimum of 180 units must be affordable to low income households.
+
+         Very Low Income Units: Thirteen percent (13%) of all affordable units referenced in the
+          Settlement Agreement, except for those units constructed or approved prior to July 1,
+          2008, shall be affordable for very low‐income households, with half of the very‐low‐
+          income units being available to families. Therefore of the Township’s 360 unit RDP, 47
+          units must be very‐low income. Township provided at least 53 very low income units.
+
+         Rental Units: At least twenty‐five percent (25%) of the Third Round Prospective Need
+          shall be met through rental units, including at least half in non‐age‐restricted rental units
+          available to families.
+
+               o 360 x 0.25 = 90
+               o A minimum of 90 units must be rental units, and at least 45 of those units must be
+                 non‐age‐restricted units that are available to families. Total number of rentals
+                 provided is 243 of which 153 are for families
+
+         Age Restricted Units: A maximum of 25 percent (25%) of the Township’s credits can be
+          from age‐restricted senior units.
+
+               o 360 x 0.25 = 90
+
+               o The Township may claim a maximum of 90 credits from senior units. 90 credits are
+                 claimed.
+
+         Family Units: A minimum of fifty percent (50%) of the units addressing the Third Round
+          Obligation must be non‐age restricted affordable units available to families. 164 are
+          provided.
+
+               o 270 x 0.5 =135
+               o A minimum of 135 units must be available to families.
+
+
+                                                                                          27 | P a g e
+           OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 32 of 44 Trans ID: LCV20251872498
+
+
+
+        Stafford Township – Housing Plan Element and Fair Share Plan
+
+              Rental Bonus Credits: The Township may claim bonus credits for rental units in
+               accordance with N.J.A.C. 5:93‐5.15(d), which states that a municipality shall receive two
+               units (2.0) of credit for rental units available to the public, but no rental bonuses shall be
+               granted for rental units in excess of the rental obligation. A municipality shall receive one
+               and one‐third 1.33 units of credit for age restricted rental units. However no more than
+               50 percent of the rental obligation shall receive a bonus for age restricted rental units.
+               The rental bonus claimed shall not exceed the minimum rental obligation.
+
+        THIRD ROUND COMPLIANCE MECHANISMS
+
+        The Township shall satisfy its 792‐unit Third Round (1999‐2025) prospective need obligation
+        through the following mechanisms:
+
+        VACANT LAND ADJUSTMENT
+
+        Township sought the vacant land adjustment for its third round obligation. To demonstrate the
+        lack of vacant, developable land in the Township, Stafford identified all vacant parcels within the
+        Township and listed each parcel on the vacant land inventory table in accordance with N.J.A.C.
+        5:93‐4.2(b).. An existing land use map for the Township was provided in accordance with N.J.A.C.
+        5:93‐4.2(a). The realistic development potential (RDP) of the remaining vacant lands within the
+        Township was calculated in accordance with the provisions of Subchapter 4 of N.J.A.C. 5:93. This
+        analysis revealed that Stafford Township has limited acreage to accommodate its new
+        construction he obligation. The Township’s total RDP between the VLA and Stafford Park
+        Redevelopment Area was calculated to 360 units.
+
+                                                            Potential                         Status
+   Round III Compliance Mechanism            Affordable                     Total
+                                                             Bonus
+               Summary                          Units                      Credits
+                                                             Credits
+Family For Sale
+Scattered Site Program                           12                          12             Competed
+Family Rental
+Stafford Park Family Units                       40             40            80           Completed
+Manahawkin Family Apartments                     92             50           142           Completed
+SOCH Rentals                                     30                           30          GDP Approved
+Age Restricted Rental
+Stafford Park Age Restricted Rentals                                                       Completed
+                                                 90                          90
+(Cornerstone at Stafford)
+Supportive Special Needs Housing
+Admiral Group Home                                3                           3            Completed
+Starboard Group Home                              3                           3            Completed
+Total                                            270            90           360
+
+
+
+
+                                                                                                28 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 33 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+Municipally‐Sponsored Scattered Site Program‐ Ocean Acres ( Habitat and Homes Now)
+
+The Township has implemented a scattered site program in Ocean Acres to develop vacant lots into
+affordable single‐family units.
+
+The Township entered into agreements with Habitat for Humanity has constructed and completed
+eleven (11) single family units. All are completed and has 30 years affordability controls placed.
+
+        Location           Block      Lots       Total Credits                  Status
+ 45 Crest Avenue                                       1                    ‐
+ 53 Crest Avenue          44.05        9               1                CO issued 07/05/2017
+ 81 Capstan               44.08       15               1                CO issued 11/16/2017
+ 1062 Clearwater Ave      44.37       24               1                          ‐
+ 1078 Clearwater Ave      44.37       28               1                          ‐
+ 91 Flipper Ave           44.114      23               1                CO issued 09/05/2018
+ 340 Neptune Dr.          44.201      19               1                CO issued 11/16/2017
+ 219 Float Ave            44.54       19               1                CO issued 08/28/2019
+ 332 Neptune Drive        44.201      21               1                   CO issued 2021
+ 336 Neptune Drive        44.201      20               1                          ‐
+ 113 Commodore
+                          44.206       5               1
+ Road
+ Totals                                               11
+
+Homes Now, Inc. has built up to eight (8) units per the affordable housing with two (2) single‐family
+homes under construction and a group home in the funding and permitting stage.
+
+        Location           Block     Lots        Total Credits                    Status
+ 22 Atlantis Ave          44.125       6               1                 CO issued 05/10/2019
+ 18 Atlantis Ave          44.125       5               1                 CO issued 05/10/2019
+ 561 Nautilus Dr.         44.205       5               1                 CO issued 12/03/2019
+ 484 Lighthouse Dr.       44.84       24               1                 CO issued 11/22/2017
+ 488 Lighthouse Dr.       44.84       23               1                 CO issued 11/22/2017
+ 100 Topsail Dr.          44.94       34               1                 CO issued 06/11/2020
+ 492 Lighthouse Dr.       44.205       2               1                           ‐
+ 121 Lighthouse Dr.       44.14        5               1                 CO issued 06/28/2018
+
+                                                                       Community Options Group
+                           44.70     12                4
+ 511 Lighthouse Dr.                                                    Home
+                                                                       Community Options Group
+                          44.204     13                4
+ 1178 Bucaneer Ln.                                                             Home
+ Totals                                               16
+
+
+
+
+                                                                                           29 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 34 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+Stafford Park Apartments
+
+The Township applies 40 credits and 40 bonus credits towards the Third Round Obligation. See
+Prior Round Obligation for full narrative.
+
+Manahawkin Family Apartments
+
+The proposed Manahawkin Family Apartments is located on Block 120.20, Lots 43, 44, and 45
+and is approximately 7 acres. On April 5, 2017 the project received preliminary and final major
+site plan approval for Phase 1 of the project and preliminary major site plan approval for Phase
+2 from the Stafford Township Planning Board. The construction is completed. A total of 94 units
+are provided through this project. 92 credits are applied towards third round and rest towards
+unmet need.
+
+Southern Ocean County Hospital (SOCH) Health Village
+
+The Township requests 30 credits towards the Third Round Obligation. See Prior Round
+Obligation for full narrative.
+
+Stafford Park Redevelopment Area Age‐Restricted Housing (Cornerstone at Stafford)
+
+Walters Homes is expanding the Stafford Park Redevelopment Area to include 100 age‐
+restricted affordable units for residents 55 years of age and older. This is an HMFA project. A
+total of 100 units are built. Township applies 90 credits towards the third round and the rest
+towards unmet need.
+
+Supportive/Special Needs Housing
+Community Options Incorporated‐ Admiral (Block 44.122, Lot 14)
+
+The Township requests credit for a group home located at 31 Admiral Avenue. A certificate of
+occupancy was issued on April 23, 1997. This three‐bedroom facility serves four
+developmentally disabled adults. The New Jersey Department of Health and Senior Services has
+confirmed that its Division of Developmental Disabilities (DDD) provides the group home with
+capital finding which carries with it 20‐year affordability controls with ability to renew every 10
+years. Pursuant to N.J.A.C. 5:93‐5.8(b), the unit of credit is the bedroom, therefore this group
+home is eligible for three credits. This group home is funded through DDD with an automatically
+renewable deed restriction for an additional 10 years at the end of the original 20‐year
+restriction.
+
+Community Options Incorporated‐ Starboard (Block 44.07, Lot 7)
+
+Community Options, Incorporated converted an existing dwelling on 1000 Starboard Avenue
+into a three‐bedroom group home. The site totals .25 acres and is within the R‐90 zone. The
+Township entered into an agreement with Community Options to utilize $30,000.—from the
+Affordable Housing Trust Fund to help defray the costs of the group home. The home was
+completed in 2008 and is deed restricted for at least 30 years.
+
+
+                                                                                       30 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 35 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+UNMET NEED
+
+The Township established the RDP of 360 units, thereby creating a unmet need of 432 unit. The
+Third Round Plan proposed several mechanisms to meet this unmet need. The following are the
+mechanisms:
+
+Affordable Housing Ordinance—Mixed Use Zone Overlay
+
+On January 19, 2010, through Ordinance 2010‐03, the Township revised the Mixed Use Zone to
+require a mandatory set aside of 20 percent affordable housing for projects consisting of 5 or
+more residential units with incentives including density bonuses, reduction in off‐street parking,
+increase in maximum lot coverage, and reduction in common or open space requirements. The
+Mixed Use Zone is located in the Township’s business district on Bay Avenue and Hilliard
+Boulevard. The entire MU Zone is located in Planning Area 2, and within the Township’s Regional
+Center. The entire MU Zone is located within an existing sewer service area.
+
+Cedar Run (Block 123, Lot 11)
+
+The Township applied 72 credits toward the Unmet Need for 72 affordable age‐restricted rental
+units created as part of the Cedar Run Apartments located on the west side of Route 9. The
+project was financed with funding from the US Department of Agriculture (USDA) through a
+Section 515 Rural Rental Housing Loan. According to a June 5, 2000 letter from USDA, formerly
+the Farmers Home Administration, Cedar Run Apartments is designated a “senior project” for
+very‐low income individuals but also permits non‐senior disabled residents. Certificates of
+occupancy were issued in April 1987 and June 1989 for the project and affordability controls are
+part of the funding which carried a term of 50 years. This project has been completed.
+
+Summerville Stafford (Block 13, Lot 35.05) ‐
+
+Brookdale Stafford is an assisted living community located on Route 72. The complex is
+surrounded by similar uses including the proposed SOCH Health Village. The complex includes 77
+one‐bedroom or studio apartments with a kitchen, full bath, and amenities. 5 of these units are
+required to be reserved for those with Medicaid. The facility is licensed by the New Jersey
+Department of Health and Senior Services. The Township applied 5 affordable housing credits
+towards the Prior Round Obligation.
+
+
+
+
+                                                                                      31 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 36 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+  Unmet Need Compliance
+  Mechanism                                    Credits               Status
+  Perry's Lake                                   35                Completed
+  Cedar Run                                      72                Completed
+  Manahawkin Family Apartments                    2                Completed
+  SOCH For Sale Units                            34               Approved GDP
+  Presbyterian Homes                             12                Completed
+  Scattered Site                                 15                Completed
+  Mixed Use Zone                                TBD
+  Town Wide Ordinance                           TBD
+  Stafford Park Age Restricted Housing                             Completed
+  (Cornerstone at Stafford)                       10
+  Summerville                                      5               Completed
+   Total Hard Credits                            185
+
+
+
+
+                                                                       32 | P a g e
+     OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 37 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+FOURTH ROUND OBLIGATION AND COMPLIANCE MECHANISMS
+
+The Township shall satisfy its 17‐unit Fourth Round (2025‐2035) Realistic Development Potential
+(RDP) need obligation through the following mechanisms:
+Extension of Controls
+
+1.      Perry’s Lake
+
+        Block 120.30 Lot 51.01
+        Perry’s Lane
+        Status – Proposed
+        The Township is planning to extend the controls on the 46 affordable units at this
+        inclusionary age restricted project. The project was completed 1998 and had affordability
+        controls for 30 years. These controls are set to expire on March 9, 2028. The Township
+        plans to negotiate and extend the controls on these for sale units for another 30 years.
+
+
+Inclusionary for Rental
+
+2.      301 East Bay Ave
+
+        Block 143 Lot 23
+        Status – Proposed
+
+        The subject site is located in the MU – Mixed Use zone with a partial overlay of ARMFAH‐
+        Age Restricted‐Multifamily Affordable Housing Zone. The site is approximately 2.1 acre
+        lot, located on East Bay Ave, south of Route 9. The site is a rectangular shaped property
+        with approximately 92 feet frontage. The site is currently zoned to permit Mixed use
+        buildings with residential density not to exceed 11 dwelling units/ acre with a required
+        set‐aside of 20%. It is anticipated that this site should yield upto 22 units of which 5 units
+        are to be affordable units.
+
+        Site Suitability
+
+        As per previous COAH regulations, the Fair Share Plan must demonstrate site suitability
+        for proposed new units that are not yet fully approved, as required by N.J.A.C. 5:93 ‐5.3.
+
+        Site Suitability
+               Availability ‐ The Township is working to develop this site as a inclusionary
+                development and is working with the property owner. Although a title search has
+                not been completed, there do not appear to be any deed restrictions or title issues
+                as property is developed with Single family structure. Maps do not indicate any
+                presences of areas of wetlands or flood hazard area on the property indicating
+
+
+
+
+                                                                                         33 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 38 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+              minimal environmental encumbrances. There is sufficient land for the project to
+              be developed.
+             Developability ‐ The site has access to appropriate water and sewer infrastructure
+              and is consistent with the applicable area‐wide water quality management plan
+              and wastewater management plan. The site exhibits no environmental constraints
+              that would interfere with the proposed redevelopment. The site is within the
+              sewer service area.
+             Suitability ‐ The location of the site is appropriate for an inclusionary development,
+              as there are surrounding properties consist of compatible uses and the site is
+              accessible to public utilities and services. The surrounding properties consist of
+              existing commercial, office and residential uses. The site is consistent with the
+              environmental policies delineated in N.J.A.C. 5:93‐4). The site is not surrounded
+              by industrial uses and has sufficient space for adequate buffering.
+             Approvability – The property is currently located in the zone wherein the proposed
+              use is permitted. No changes to the ordinances may be required since the zone
+              already states set‐aside requirement. In the event minor design standard or bulk
+              standards changes are required, Township shall work with the developer to
+              amend and edit the ordinance.
+
+
+Market to Affordable Units
+
+   1. Letts Vienna Bakery
+
+       67 Stafford Ave
+       Block 232 Lot 11
+       Status – Proposed
+
+       Township of Stafford plans to work with the property owner to rehabilitate the existing
+       historic home on the property and convert it into a market to affordable unit. The site
+       identified as Letts Vienna Bakery was one of the prominent historic sites in Township of
+       Stafford. Township of Stafford intends to apply to the NJ Homes (New Jersey Housing
+       Opportunities for Municipal Equity and Success), which is a new program offered by the
+       DCA (Department of Community Affairs) that would assist municipalities in the State to
+       create affordable housing in communities. Township intends to apply for this program
+       and then work with the property owner and a non‐profit organization in order to create
+       this historic commercial property into a multifamily 2‐3 unit affordable housing
+       development. Township intends atleast 2 credits from this mechanism.
+
+
+
+
+                                                                                       34 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 39 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+
+
+
+   2. Scattered Historic Sites properties
+
+   As mentioned above, Township of Stafford intends to participate in NJ Homes program that
+   shall offer upto $10 million in funds to support municipalities that partner with non‐profit
+   developers on projects that will create, special needs housing and or family housing two and
+   three bedroom units.
+
+   Historic properties that are developed with these large single family homes are ideal for such
+   conversions, rehabilitating these units and creating new affordable housing units with
+   existing inventory of structures within the Township.
+
+  Township intends to apply for the funds to be eligible to rehabilitate at least three (3) more
+   units and possibly convert them into 2 family units and or special needs housing. Township
+   anticipates at least 6 credits for this program.
+
+
+
+
+                                                                                     35 | P a g e
+         OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 40 of 44 Trans ID: LCV20251872498
+
+
+
+   Stafford Township – Housing Plan Element and Fair Share Plan
+
+
+
+   Overall, Township shall meet its 4th Round Requirement through the following mechanisms:
+
+                                                             Potential                        Status
+   Round IV Compliance Mechanism              Affordable                     Total
+                                                              Bonus
+              Summary                            Units                      Credits
+                                                              Credits
+Family Rental
+301 East Bay Ave                                   5                           5             Proposed
+Extensions of Controls
+                                                                                          Set to expire
+                                                   4                           4
+Perry’s Lake                                                                              March 9, 2028
+Market to Affordable
+                                                                                           Proposed NJ
+                                                   3                           2
+Letts‐Vienna Bakery Property                                                               Homes Grant
+                                                                                           Proposed NJ
+                                                   6                           6
+Scattered Historic Sites Program                                                           Homes Grant
+
+Totals                                                                        17
+
+
+   UNMET NEED
+
+   As per the requirements of the Amended Fair Housing Act, the Township is required to address
+   25% of the remaining unmet need obligation by identifying sites likely to redevelop. As noted
+   above, the Township of Stafford unmet need is 158 units.
+
+   As per N.J.A.C. 52:27D‐310.1
+
+         Any municipality that receives an adjustment of its prospective need obligations for the fourth
+         round or subsequent rounds based on a lack of vacant land shall as part of the process of
+         adopting and implementing its housing element and fair share plan identify sufficient parcels
+         likely to redevelop during the current round of obligations to address at least 25 percent of
+         the prospective need obligation that has been adjusted and adopt realistic zoning that allows
+         for such adjusted obligation, or demonstrate why the municipality is unable to do so.
+
+   Township of Stafford’s unmet need requirement shall be to plan for at least 40 of the units.
+
+   The Township intends to meet this through the extension of controls of the 42 units that are set
+   to expire controls on March 9, 2028. Further, it is to be noted, Township currently has MU
+   Overlay zone that requires require a mandatory set aside of 20 percent affordable housing for
+   projects consisting of 5 or more residential units.
+
+   Additionally, Township currently has a MU Mixed use Zone that requires a mandatory set aside
+   of 20 percent affordable housing projects consisting of 5 or more residential units with incentives
+
+
+                                                                                            36 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 41 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+including density bonuses and reduction in off street parking. This area of the Township is readily
+connected with infrastructure and is the main commercial corridor. It is anticipated that the
+parcels within this zone are most likely is to be developed in the next ten to twenty‐five years.
+
+Further, as demonstrated through vacant land analysis, Township’s relative lack of available
+vacant land, its limited portion of land that lies within the designated Sewer Service Area, land to
+the west of the Garden State Parkway is mostly undisturbed Pinelands Forest Area and the west
+of the Parkway within CFRA boundaries, redevelopment in the Township of Stafford is especially
+challenging. With all these constraining parameters and the fact that the overlay zone exists, the
+Township of Stafford intends to meet its unmet need through the surplus and current MU Zone.
+
+
+
+
+                                                                                        37 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 42 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+
+
+HOUSING ADMINISTRATION
+AFFORDABLE HOUSING ORDINANCE
+
+The Township Code at Chapter XV and is compliant with all Fair Housing Act and Uniform Housing
+Affordability Controls (UHAC) requirements.
+
+      All new housing units will have a minimum of 50% of the units available to low income
+       households, with at least 13% of units being available to very‐low‐income households. No
+       more than 50% of housing units shall be made available to moderate income households.
+      All new construction shall be adaptable in conformance with P.L.2005, c.350/N.J.S.A.
+       52:27D‐311a and ‐311b.
+      All affordable units shall fully comply with UHAC.
+      In inclusionary developments, the affordable units shall be integrated with the market
+       rate units.
+      Construction of affordable units in inclusionary developments shall be phased in
+       compliance with N.J.A.C. 5:93‐5.6(d).
+      All affordable units shall be affirmatively marketed in accordance with UHAC and
+       applicable laws.
+The Township’s code will be amended to require that all affordable units shall be subject to
+affordability controls of at least 40 years from the initial date of occupancy for new construction.
+
+DEVELOPMENT FEE ORDINANCE
+
+The Township’s current development fee ordinance at Section 130‐ 88.1 requires that all new
+residential construction make a contribution equal to 1.0% of the equalized assessed value of the
+construction, and all new non‐residential construction provide a contribution of 2.0% of the
+equalized assessed value of the construction, to the Township’s dedicated Affordable Housing
+Trust Fund. The Township shall consider updating and or amending the development fee
+ordinance to require new residential contribution to 1.0% of the equalized assessed value of
+construction and 2.5% of equalized assessed value of constriction for the non‐residential new
+construction.
+
+AFFORDABLE HOUSING TRUST FUND
+
+The Township has a non interest‐bearing affordable housing trust fund in place, and consistent
+with the updated development fee ordinance discussed above, will impose development fees on
+all applicable residential and non‐residential development, and said fees shall be deposited into
+the affordable housing trust fund.
+
+
+
+                                                                                        38 | P a g e
+     OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 43 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+The Township will adopt by resolution an updated Spending Plan for the affordable housing trust
+fund. The Spending Plan will provide an outline of how the Township intents to utilize these funds
+to further the goals and mechanisms established in this Plan, and in accordance with prior COAH
+regulations found at N.J.A.C. 5:97 et seq, and with the Fair Housing Act. This will include a
+summary of revenues and expenditures to date from the affordable housing trust fund, identify
+mechanisms to collect revenues, project anticipated future revenues and interest, as well as
+outline all proposed spending from the trust fund. Funds will be spent on appropriate housing
+activity, affordability assistance, and administrative expenses consistent with applicable prior
+COAH regulations.
+
+In the event that funding sources identified in the Spending Plan prove to be inadequate to
+complete the affordable housing programs outlined in this Housing Plan, the Township shall
+provide sufficient funding to address any such shortfalls.
+
+AFFORDABILITY ASSISTANCE PROGRAM
+
+The Township will address the minimum affordability assistance requirements of the Affordable
+Housing Trust Fund spending in accordance with an Affordability Assistance Program that it will
+be implemented, consistent with the Settlement Agreement and the Spending Plan outlined
+above.
+A draft Affordability Assistance Program Manual shall be provided.
+
+MUNICIPAL HOUSING LIAISON
+
+The Township will appoint a municipal staff member as the designated Municipal Affordable
+Housing Liaison, who will be responsible for overseeing all affordable housing regulations and
+corresponding with administrative agent(s), the public, and all other related affordable housing
+professionals.
+
+A F F O R D A B L E H O U S I N G A D M I N I S TR A T I V E A G E N T
+
+The Township will ensure that all future projects are administered by a qualified affordable
+housing professional and will appoint an Administrative Agent to administer all projects that do
+not have their own administrative agent.
+
+Pursuant to N.J.A.C. 5:80‐26.15(f), the Township will adopt an updated Affirmative Marketing
+Plan to ensure that all available affordable units are marketed to the appropriate populations.
+
+
+
+
+                                                                                      39 | P a g e
+   OCN-L-000096-25 06/27/2025 10:24:25 AM Pg 44 of 44 Trans ID: LCV20251872498
+
+
+
+Stafford Township – Housing Plan Element and Fair Share Plan
+
+APPENDICES
+
+
+
+
+                                                                       40 | P a g e
+

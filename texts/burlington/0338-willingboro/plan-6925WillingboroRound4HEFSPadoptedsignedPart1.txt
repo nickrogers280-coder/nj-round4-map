@@ -1,0 +1,3085 @@
+       BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 1 of 98 Trans ID: LCV20251726745
+
+
+
+
+0B   Housing Element and Fair Share Plan
+1B   Willingboro Township, Burlington County, New Jersey
+2B   Draft: May 30, 2025
+
+
+
+
+                   Adopted by the Willingboro Township Planning Board
+                                      on June 9, 2025
+
+
+                      Endorsed by the Willingboro Township Council
+                                          on DATE
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 2 of 98 Trans ID: LCV20251726745
+
+
+
+
+                 Housing Element and Fair Share Plan
+                      Willingboro Township, Burlington County
+
+
+
+
+                                   Prepared by:
+
+
+
+
+                                   PO Box 2293
+                              Medford Lakes, NJ 08055
+
+
+
+
+ Michael Kolber, PP, AICP        Sarah Oliver, PP, AICP          Megan Stanley, PP, AICP
+License No. 33LI00645100      License No. 33LI00602800          License No. 33LI00627800
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 3 of 98 Trans ID: LCV20251726745
+
+
+
+
+                          Acknowledgements
+
+                        Willingboro Township Council
+                          Samantha Whitﬁeld, Mayor
+                        Dr. Tiffani Worthy, Deputy Mayor
+                       Nathaniel Anderson, Councilman
+                        Kaya McIntosh, Councilwoman
+                       Rebecca Perrone, Councilwoman
+
+                          Willingboro Planning Board
+                     Kimbrali Davis, Chairwoman, Class IV
+                       Samantha Whitﬁeld, Mayor, Class I
+                    Kaya McIntosh, Councilwoman, Class III
+                    Gary Lowery, Township Manager, Class II
+              Marie Turner, Environnemental Commission, Class IV
+                              Martin Nock, Class IV
+                              Darryl Curtis, Class IV
+                    Amma Nsuansa Avant, Alternate, Class IV
+         BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 4 of 98 Trans ID: LCV20251726745
+
+
+
+
+Table of Contents
+     Introduction                                                                     1
+     Inventory of Housing Stock                                                       3
+     Age of Housing Stock                                                             3
+     Condition of Housing of Stock                                                    3
+     Housing Values and Contract Rents                                                5
+     Occupancy Characteristics and Types of Housing Units                             6
+     Units Affordable to Low- and M ode rate -Income Households                       7
+     Projected Housing Stock                                                          9
+     Demographic Characteristics                                                      10
+     Population                                                                       10
+     Population Projections                                                           11
+     Population by Age                                                                11
+     Poverty Status                                                                   14
+     Household Type                                                                   14
+     Employment Characteristics                                                       14
+     Conclusion                                                                       17
+     Fair Share Plan                                                                  17
+     Introduction                                                                     17
+     Bonus Credits                                                                    18
+     Prior Round Compliance (2015-2025)                                               19
+     Present and Prospective Need Obligation (2025-2035)                              20
+     Satisfaction of Present Need Obligation                                          21
+     Prospective Need Obligation                                                      22
+     Supportive Needs Housing                                                         22
+     Rental Units                                                                     23
+     For Sale Units                                                                   24
+     Appendices                                                                       25
+     BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 5 of 98 Trans ID: LCV20251726745
+
+
+
+
+Housing Element
+Introduction
+
+  Willingboro Township has prepared this Fourth Round Housing Plan Element and Fair Share Plan
+  (“HE&FSP” or “Plan”) in accordance with the requirements of the New Jersey Municipal Land Use
+  Law (N.J.S.A. 40:55D-1 et seq.), the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.), and
+  P.L. 2024, c. 2 (Assembly Bill 4/Senate Bill 50) passed March 24, 2024 that amends the New Jersey Fair
+  Housing Act outlining the Fourth Round (2025-2035) (“Amended FHA”). This Plan demonstrates
+  Willingboro’s ongoing commitment to providing affordable housing within the township. It outlines the
+  township’s approach based on the current understanding of New Jersey’s affordable housing framework,
+  including applicable precedents set by the Council on Affordable Housing (COAH) and the requirements
+  established by A4/S50, which governs municipal obligations in the Fourth Round.
+
+  The New Jersey Municipal Land Use Law ("MLUL") and the New Jersey Fair Housing Act ("FHA")
+  require every municipal planning board to adopt a Housing Plan Element to its Master Plan and
+  further require the governing body of each municipality to adopt a Fair Share Plan. The Housing
+  Element is required to address the municipal present and prospective housing needs, "with
+  particular attention to low- and moderate-income housing." In accordance with the Fair Housing Act
+  at N.J.S.A. 52:27D-310 and as reaffirmed in N.J.A.C. 5:93, a Housing Element shall contain at least
+  the following:
+
+      1. An inventory of the municipality's housing stock by age, condition, purchase or rental value,
+         occupancy characteristics, and type, including the number of units affordable to low and
+         moderate income households and substandard housing capable of being rehabilitated, and
+         in conducting this inventory the municipality shall have access, on a conﬁdential basis for
+         the sole purpose of conducting the inventory, to all necessary property tax assessment
+         records and information in the assessor's office, including but not limited to the property
+         record cards;
+      2. A projection of the municipality's housing stock, including the probable future construction
+         of low- and moderate-income housing, for the next ten years, taking into account, but not
+         necessarily limited to, construction permits issued, approvals of applications for
+         development and probable residential development of lands;
+      3. An analysis of the municipality's demographic characteristics, including but not necessarily
+         limited to, household size, income level and age;
+      4. An analysis of the existing and probable future employment characteristics of the
+         municipality;
+      5. A determination of the municipality's present and prospective fair share for low- and
+         moderate-income housing and its capacity to accommodate its present and prospective
+         housing needs, including its fair share for low- and moderate-income housing;
+
+                                                                                                      1
+  BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 6 of 98 Trans ID: LCV20251726745
+
+
+
+
+   6. A consideration of lands that are most appropriate for construction of low- and moderate-
+      income housing and of the existing structures most appropriate for conversion to, or
+      rehabilitation for, low- and moderate- income housing, including consideration of lands of
+      developers who have expressed a commitment to provide low- and moderate- income
+      housing
+   7. An analysis of the extent to which municipal ordinances or other factors advance or detract
+      from the goal of preserving multigenerational family continuity as expressed in the
+      recommendations of the Multigenerational Family Housing Continuity Commission,
+      adopted pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273
+      (C.52:327D-329.20)
+   8. For municipalities located within the jurisdiction of the Highlands Planning Area, and the
+      lands in the Highlands Planning Area for Highlands conforming municipalities, this analysis
+      should include consideration of municipality’s most recent Highlands Municipal Build Out
+      Report, consideration of opportunities for redevelopment of existing developed lands into
+      inclusionary or 100 percent affordable housing, or both, and opportunities for 100 percent
+      affordable housing in both Highlands Planning Area and Highlands Preservation Area that are
+      consistent with the Highlands regional master plan; and
+   9. An analysis of consistency with the State Development and Redevelopment Plan, including
+      water, wastewater, stormwater, and multi-modal transportation based on guidance and
+      technical assistance from the State Planning Commission.
+
+
+The preparation and submission of a Housing Element of a municipality's Master Plan, and a Fair
+Share Plan, is the ﬁrst major step in the process for petitioning the Program.
+
+Affordable Housing regulations deﬁne "Fair Share Plan" as follows:
+
+           "Fair Share Plan" means that a plan or proposal, which is in a form that may
+           readily be converted into an ordinance, by which a municipality proposed to
+           satisfy its obligation to create a realistic opportunity to meet its fair share of
+           low-and moderate- income housing needs of its region and which details the
+           affirmative measures the municipality proposes to undertake to achieve its
+           fair share of low and moderate income housing, as provided in sections 9 and
+           14 of the Act, addresses the development regulations necessary to
+           implement the housing element, and addresses the requirements of N.J.A.C.
+           5:93-7 through 11.
+
+This Housing Element and Fair Share Plan ("Plan") satisﬁes all of the applicable requirements set
+forth within the MLUL, FHA, and those requirements set forth in the updated Fourth Round Rules.
+
+
+
+
+                                                                                                2
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 7 of 98 Trans ID: LCV20251726745
+
+
+
+
+Inventory of Housing Stock
+Age of Housing Stock
+The age of a community's housing stock is considered a means of determining its overall condition
+and identifying housing units in need of rehabilitation, especially those units constructed 50 or more
+years ago. A little over half (53.3%) of the structures built in the township were built between 1960
+and 1970, while slightly less than a quarter (23.4%) of the township’s housing stock was built
+between 1950-1959. The rate of residential development within the township began to slow
+significantly after 1979, with approximately 7.1% of the township's housing stock was constructed
+during or after 1980. 12.3% of the township’s housing stock was constructed before 1949. As noted,
+a significant amount of the township's housing stock is over 50 years old and will continue to age,
+and it is anticipated that many of these homes will require significant repair or upgrades in the future.
+
+Figure 1, below, shows the years that housing structures were built. Note that there were 5 housing
+units built after 2020; however, it is depicted as 0.0%.
+
+
+                            2.2%
+                                     Year Structures Built
+                                         0.0% 2.3%      1.0%
+                                  3.7%
+                                                     1.5%
+                                                               2.3%
+                                                                                   2020 OR LATER
+                                                                                   2010 - 2019
+                                                     10.4%
+                                                                                   2000 - 2009
+                          23.4%                                                    1990 - 1999
+                                                                                   1980 - 1989
+                                                                                   1970 - 1979
+                                                                                   1960 - 1969
+                                                                                   1950 - 1959
+                                                53.2%                              1940 - 1949
+                                                                                   1939 or earlier
+
+
+
+
+      Figure 1: Year Structures Built
+      Source: American Community Survey 2023: ACS 5-year Estimates Subject Tables: DP04, B25034
+      and B25035
+
+
+Condition of Housing of Stock
+In addition to age, other factors are taken into consideration to determine the quality and condition
+of a municipality's housing stock and whether units are substandard. Data from the 2019- 2023
+American Community Survey 5-Year Estimates is used to estimate the number of substandard
+housing units in Willingboro using the following factors.
+
+
+
+                                                                                                       3
+      BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 8 of 98 Trans ID: LCV20251726745
+
+
+
+
+  •    Persons per room: The number of persons per room is an index of overcrowding. Dwelling
+       units exhibiting 1.01 or more occupants per room are overcrowded as defined by the U.S.
+       Department of Housing and Urban Development and therefore considered substandard.
+
+  •    Adequacy of Plumbing Facilities: The adequacy of plumbing facilities is used to
+       determine if a unit is substandard. If a unit lacks complete plumbing facilities as indicated
+       by either a lack of exclusive use of plumbing facilities or incomplete plumbing facilities, it
+       is considered substandard.
+
+  •    Adequacy of Kitchen Facilities: The adequacy of kitchen facilities is also used to
+       determine the quality of a unit and determine if it is substandard. Inadequate kitchen
+       facilities are marked by shared use of a kitchen or the lack of a sink with piped water, a
+       stove, or a refrigerator.
+
+The table below details the conditions of the housing within the township based on fuel,
+overcrowding, plumbing facilities, kitchen facilities, and telephone service. These factors determine
+housing deﬁciency. Using the above indicators, the table below shows the number of
+substandard occupied housing units in Willingboro Township. This data indicates that Willingboro's
+housing stock is generally high quality. Less than one percent of all of the township's occupied
+housing units exhibit overcrowding, while 0.4% and 0.5% of all occupied units exhibit a lack of
+complete plumbing and kitchen facilities respectively.
+ House Heating Fuel-Occupied Housing Units
+                                                                Number               Percentage
+     Total                                                      10,765                 100%
+      Utility gas                                                7,952                 73.9%
+      Bottled, tank, or LP gas                                    173                   1.6%
+      Electricity                                                2,197                 20.4%
+      Fuel oil, kerosene, etc.                                    183                   1.7%
+      Coal or coke                                                 0                    0.0%
+      Wood                                                         52                   0.5%
+      Solar energy                                                112                   1.0%
+      No fuel used                                                 85                   0.8%
+ Occupants per Room-Occupied Housing Units
+      TOTAL                                                      91                       .8%
+      1.01 to 1.50                                               91                      0.8%
+      1.51 or more                                                0                      0.0%
+ Housing Facilities-Occupied Housing Units
+      Total                                                      140                     1.3%
+      Lacking complete plumbing facilities                        44                     0.4%
+      Lacking complete kitchen facilities                        49                      0.5%
+      No telephone service available                             47                      0.4%
+Table 2: Housing Deﬁciency Characteristics
+Source: 2023 ACS 5-Year Estimates, Table B25040, B25014, DP04
+
+
+                                                                                                        4
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 9 of 98 Trans ID: LCV20251726745
+
+
+
+
+Housing Values and Contract Rents
+Figure 2, below, shows that the majority of owner-occupied housing units fall within the $200,000 to
+$299,999 price range, with over 40% of homes valued in this bracket. This category clearly dominates
+the distribution, indicating a strong concentration of mid-range home values in the area.
+
+The second most common value range is $300,000 to $499,999, which makes up about 23% of
+owner-occupied units. Following this, approximately 20% of homes are valued between $150,000
+and $199,999, while around 8% fall in the $100,000 to $149,999 range. At the lower end of the
+spectrum, housing units valued under $100,000 are relatively rare.
+
+Homes worth less than $50,000 make up around 4%, and those in the $50,000 to $99,999 category
+represent less than 1%. At the high end, homes valued between $500,000 and $999,999 account for
+about 3%, while those worth $1,000,000 or more are limited, constituting less than 1% of owner-
+occupied units.
+
+
+                                                       Value of Owner-occupied Housing Units
+                                       45.00%
+
+                                       40.00%
+
+
+
+
+        Owner-occupied housing units
+                                       35.00%
+
+                                       30.00%
+
+                                       25.00%
+
+                                       20.00%
+
+                                       15.00%
+
+                                       10.00%
+
+                                       5.00%
+
+                                       0.00%
+                                                Less than $50,000 to $100,000 to $150,000 to $200,000 to $300,000 to $500,000 to $1,000,000
+                                                 $50,000   $99,999 $149,999 $199,999 $299,999 $499,999 $999,999                   or more
+                                                                       Value of owner-occupied housing units
+
+      Figure 2: Owner-occupied units Housing Values
+      Source: American Community Survey 2022/2023: ACS 5-year Estimates Subject Tables DP04
+
+
+
+
+                                                                                                                                         5
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 10 of 98 Trans ID: LCV20251726745
+
+
+
+
+                                                                     Gross Rent Paid
+                                  35.0%
+
+                                  30.0%
+
+
+
+
+        Renter occupied housing
+                                  25.0%
+
+                                  20.0%
+
+                                  15.0%
+
+                                  10.0%
+
+                                  5.0%
+
+                                  0.0%
+                                          Less than   $500 to $999   $1,000 to    $1,500 to   $2,000 to   $2,500 to   $3,000 or
+                                            $500                      $1,499       $1,999      $2,499      $2,999       more
+                                                                                 Gross Rent
+
+      Figure 3: Contract Rent Paid
+      Source: American Community Survey 2022/2023: ACS 5-year Estimates Subject Tables DP04
+
+
+Figure 3 reveals that the majority of renters fall within the mid-to-upper rent ranges. The most
+common rent category is $2,000 to $2,499, accounting for just over 30% of renter-occupied housing
+units. This is followed by the $1,500 to $1,999 range, which represents slightly more than 20% of
+renters. Together, these two categories encompass more than half of all rental units. The next most
+common category is $1,000 to $1,499, comprising around 20% of the rental market. On the higher
+end, $3,000 or more accounts for about 10%, while $2,500 to $2,999 captures slightly less than that.
+
+
+Occupancy Characteristics and Types of Housing Units
+According to the 2019-2023 American Community Survey 5-year estimates, Willingboro Township
+had a total of 10,765 occupied housing units, representing a 133 increase from 2010. The occupied
+units were predominantly owner-occupied (81.7%), while the remainder (18.3%) were renter
+occupied.
+
+The majority of the housing stock in Willingboro Township is single family detached dwellings. In
+2023, there were 10,019 single family detached homes representing 87.1% of the housing stock.
+Single-family attached homes were the second most common housing type with 963 units or 7.7%
+of the township’s housing stock. The balance of housing (5.1%) within the township is comprised of
+a variety of residential unit types including duplexes, three- and four-family buildings, multi-family
+buildings consisting of ﬁve or more dwelling units.
+
+
+
+
+                                                                                                                              6
+   BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 11 of 98 Trans ID: LCV20251726745
+
+
+
+
+                                                         Housing Type
+
+                       20 or more units
+
+                          10 to 19 units
+
+                            5 to 9 units
+
+
+
+        Housing Type
+                            3 or 4 units
+
+                                2 units
+
+                       1-unit, attached
+
+                       1-unit, detached
+
+                                       0.0%   10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+                                                                   Percentage
+
+      Figure 4: Housing Type (Units in Structure)
+      Source: American Community Survey 2023: ACS 5-year Estimates Data Proﬁles Tables B25024,
+      B25017 and B25018
+
+
+Units Affordable to Low- and M ode rate -In come Households
+Low-income households are deﬁned as those households earning less than or equal to 50 percent of
+the median gross household income compared to households of the same size within the housing
+region in which the housing is located. Similarly, moderate-income households are deﬁned as those
+households earning more than 50 percent but less than 80 percent of the regional median household
+income and very low-income households are deﬁned as those households earning less than 30
+percent of the regional median household income, adjusted for household size. This deﬁnition is
+derived from the U.S. Department of Housing and Urban Development (HUD). A sliding scale based
+on household size has been developed to establish income limits for low- and moderate­ income
+households. This sliding scale establishes income limits for households of one up to households of
+eight.
+
+
+
+
+                                                                                                             7
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 12 of 98 Trans ID: LCV20251726745
+
+
+
+
+                                     Household            Very Low            Low          Moderate                  Median
+                                     size                 Income
+                                     1 Person              $24,087          $40,145             $64,232          $80,290
+                                     2 Person              $27,528          $45,880             $73,408           $91,760
+                                     3 Person              $30,969          $51,615             $82,584          $103,230
+                                     4 Person              $34,410          $57,350             $91,760          $114,700
+                                     5 Person              $37,163          $61,938             $99,101          $123,876
+                                     6 Person              $39,916          $66,526             $106,442         $133,052
+                                     7 Person              $42,668          $71,114             $113,782         $142,228
+                                     8+ Person             $38,950          $64,917             $103,868         $129,835
+Table 3 Regional Household Income Limits for Region 5 (Burlington, Camden, and Gloucester Counties)
+
+To be affordable, a household should not be paying more than 28% of its gross income on principal,
+interest, taxes and insurance, subsequent to a minimum down payment of 5%. A rental unit is
+considered affordable if the household occupying the unit is paying more than 30% on rent and
+utilities. The following tables display how many households are spending more than 30% of gross
+income on mortgages or rent.
+
+
+
+                                            Monthly Owner Cost as a Percentage
+                                    30.0%
+
+
+
+
+         Percentage of homeowners
+                                    25.0%
+
+                                    20.0%
+
+                                    15.0%
+
+                                    10.0%
+
+                                    5.0%
+
+                                    0.0%
+                                            Less than   10.0 to   15.0 to   20.0 to   25.0 to      30 to   35.0 or
+                                             10.0%      14.9%     19.9%     24.9 %    29.9%       34.9%     more
+                                                             Percentage of Household Income
+
+      Figure 5: Monthly Cost as a Percentage of Household Income, 2023
+      Source: American Community Survey 2023:ACS 5-year Estimates Subject Tables B25040, B25014, DP04
+
+
+
+
+                                                                                                                              8
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 13 of 98 Trans ID: LCV20251726745
+
+
+
+
+                                              Gross Rent as a Percentage
+                                45.0%
+                                40.0%
+
+
+
+
+        Percentage of Renters
+                                35.0%
+                                30.0%
+                                25.0%
+                                20.0%
+                                15.0%
+                                10.0%
+                                5.0%
+                                0.0%
+                                        Less than   15.0 to   20.0 to 24.9   25.0 to   30 to 34.9%   35.0 or
+                                         15.0%      19.9%          %         29.9%                    more
+                                                      Percentage of Household Income
+
+      Figure 6: Gross Rent as a Percentage of Household Income, 2023
+      Source: American Community Survey 2023: ACS 5-year Estimates Subject Tables B25040, B25014, DP04
+
+
+As shown in the graphs above, approximately half of all homeowners and renters spend more than
+30% of their gross incomes on mortgages or rent. The data reveals that the largest share of
+homeowners, over 25%, spend 35% or more of their income on housing, indicating a signiﬁcant cost
+burden for a substantial portion of the population. This is the highest percentage among all
+categories, suggesting that many households may be ﬁnancially strained by their housing costs.
+
+The next largest group, at around 15%, falls in the 20% to 24.9% range. This is generally considered a
+manageable portion of income spent on housing and reﬂects a more stable housing cost scenario.
+
+Other ranges show a relatively even but lower distribution. About 7% to 8% of homeowners spend
+between 10% and 14.9%, and 25% to 29.9% of their income on housing.
+
+Projected Housing Stock
+Building permit data is important for determining the need for affordable housing. It provides insights
+into construction trends, helping governments and policymakers make informed decisions about
+infrastructure, zoning, and housing needs. Analyzing building permit data, can provide an insight into
+anticipated population growth in order allocate resources efficiently. According to the New Jersey
+Department of Community Affairs, between January 2013 and December 2023, building permits
+were authorized for the construction of 358 new residential units, which averages to approximately
+25.8 units per year in Willingboro Township. In that same period, the Township of Willingboro
+approved 16 demolition permits. This results in a net gain of 342 residential dwelling units in the
+township over this time period. The building and demolition permit information is depicted within
+Table 4 below.
+
+
+
+
+                                                                                                               9
+        BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 14 of 98 Trans ID: LCV20251726745
+
+
+
+
+                               Building Permits and Demolition Permits Issued: 2013-2023
+ YEAR                    1 & 2 Family Multi Family Mixed-Use        Demolished TOTAL
+ 2013                    1               24           0             4            21
+ 2014                    2               121          0             4            119
+ 2015                    1               158          0             3            156
+ 2016                    0               0            0             0            0
+ 2017                    1               0            0             3            -2
+ 2018                    3               24           0             0            27
+ 2019                    2               0            0             0            2
+ 2020                    2               0            0             0            2
+ 2021                    4               0            0             0            4
+ 2022                    10              0            1             0            11
+ 2023                    4             0                  0               2            2
+ Total                   30                  327          1               16           342
+Table 4: Building Permits and Demolition Permits Issued: 2013-2023
+Source: New Jersey Department of Community Affairs
+
+Demographic Characteristics
+Population
+From 1930 through 1950, Willingboro’s population remained relatively low and stable, with only slight
+growth during those early decades. A dramatic population surge occurred between 1950 and 1970,
+when the township experienced rapid development and suburban expansion. During this period, the
+population skyrocketed, reaching a peak of 43,386 residents by 1970.
+
+Following this peak, Willingboro saw a gradual population decline. From 1970 to 2000, the number
+of residents steadily decreased, dropping to around 33,000. This downward trend continued slightly
+into the early 2000s but appears to have stabilized by 2020, with the population maintaining just
+under 33,000.
+
+                          Willingboro Population Trends 1930- 2020
+               45000
+               35000
+
+
+  Population
+               25000
+               15000
+                5000
+               -5000   1930   1940   1950    1960     1970      1980   1990    2000   2010   2020
+                                                     Census Year
+
+
+  Figure 7: Population Trends 1930-2020
+  Source: U.S. Census Bureau
+
+
+
+
+                                                                                                    10
+        BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 15 of 98 Trans ID: LCV20251726745
+
+
+
+
+Population Projections
+According to the Department of Labor and Workforce Development, New Jersey's population is
+projected to increase from 9,648,100 in 2030 by 142,000 or 166,000 by 2080, depending on net
+migration scenarios. The state's population is expected to continue growing at a rate of 0.43% per
+year between 2020 and 2030. The number of children under 16 is expected to decrease over the next
+10–20 years, while the older population is expected to increase rapidly, with the population between
+75 and 85 expected to increase by around 50%. Willingboro Township is currently growing at a similar
+rate of 0.41% per year, which projects a population of 33,196 people by 2030 and 34,503 people by
+2040.
+
+Population by Age
+Figure 8 displays the age comparison in Willingboro from 2010 to 2020. Willingboro Township saw an
+increase within the 20 to 24, 25 to 34, 55 to 59, 60 to 64, 65 to 74, and 85 and over age groups. The 25
+to 34 age group experienced the largest increase in population, increasing by 744 or 36%. There was
+a decrease in the under 5 to 19 years, 35 to 54 years, 75 to 84, over 18 years and over 65-year age
+groups. The age group with the largest decrease was 45 to 54, decreasing by 760 or 2.3%.
+Additionally, there was a slight decrease in the 15 to 19 and 35 to 44 age groups.
+
+
+                                    Age Comparison, 2010 & 2020
+               6000
+
+               5000
+
+               4000
+
+
+  Population
+               3000
+
+               2000
+
+               1000
+
+                  0
+                      UNDER 5 TO 9 10 TO 15 TO 20 TO 25 TO 35 TO 45 TO 55 TO 60 TO 65 TO 75 TO 85 AND
+                        5           14    19    24    34    44    54    59    64    74    84    OVER
+
+                                                     2010    2020
+
+
+Figure 8: Population Comparison by Age in Willingboro Township
+Source: US Census Bureau
+
+
+
+Figure 9 provides an age cohort breakdown of the township against that of Burlington County.
+The age distribution of the township's population is similar to that of Burlington County, and the
+median age of each geography is also similar.
+
+
+
+
+                                                                                                        11
+                BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 16 of 98 Trans ID: LCV20251726745
+
+
+
+
+                                                              Population by Age
+                              16.00%
+
+
+
+
+   Percentage of Population
+                              14.00%
+                              12.00%
+                              10.00%
+                               8.00%
+                               6.00%
+                               4.00%
+                               2.00%
+                               0.00%
+
+
+
+
+                                                                               Age
+
+                                                        Willingboro Township    Burlington County
+
+
+Figure 9: Population Comparison by Age in Willingboro Township compared to Burlington County
+Source: US Census Bureau ACS 2023
+
+
+Figure 10 provides a breakdown of township households according to household income. At the
+time of the survey, the township's median household income was $91,615, which is less than
+the county's median household income of $102,532. The township has a similar percentage of
+low- and moderate-income households within the county, while the county exhibits much higher
+percentages of households with incomes greater than $200,000.
+
+
+
+                                                                 Households by Income
+                                  $200,000 or more
+                              $150,000 to $199,999
+                              $100,000 to $149,999
+                                $75,000 to $99,000
+
+   Income
+                                $50,000 to $74,999
+                                $35,000 to $49,999
+                                $25,000 to $34,999
+                                $15,000 to $24,999
+                                $10,000 to $14,999
+                                 Less than $10,000
+                                                 0.0%             5.0%            10.0%             15.0%   20.0%    25.0%
+                                                                                Percentage of households
+
+                                                               Willingboro Township    Burlington County
+
+Figure 10: Willingboro Households by income compared to Burlington County
+Source: 2023 American Community Survey 5-year Estimates, Tables B19001 and B19013
+
+
+
+
+                                                                                                                    12
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 17 of 98 Trans ID: LCV20251726745
+
+
+
+
+The distribution of household income for Willingboro Township in 2010 and 2020 is shown in the chart
+below. The highest percentage of households in 2020 fall into the $100,000 to $149,999 bracket
+(20.6%). This category was followed by those households that earned $200,000 or more (17.5%). The
+household income that experienced the most growth between 2010 to 2020 was the $150,000 to
+$199,99 bracket increasing from 457 to 1,342 or 8.5%. In Willingboro, 22.3% of households earned
+less than $50,000 in 2020, which is a 9.6% decrease from 2010 where 31.9% of households earned
+less than $50,000.
+
+
+
+                               Household Income, 2010 & 2020
+ 25.0%
+ 20.0%
+ 15.0%
+ 10.0%
+   5.0%
+   0.0%
+           Less than $10,000 to $15,000 to $25,000 to $35,000 to $50,000 to $75,000 to $100,000 $150,000 $200,000
+            $10,000 $14,999 $24,999 $34,999 $49,999 $74,999 $99,000                       to       to     or more
+                                                                                       $149,999 $199,999
+
+                                                        2010     2020
+
+Figure 11: Household Income 2010-2020
+Source: 2010/2020/2023 American Community Survey 5-year Estimates, Tables B19001 and B19013
+
+
+The table below compares the per capita and household income of Willingboro Township, Burlington
+County, and the State of New Jersey in 2010, 2022, and 2023 according to the American Community
+Survey. As measured in 2010, 2022 and 2023, Willingboro Township has a lower median income than
+average for Burlington County and the State of New Jersey. In 2023, the median income for
+Willingboro was $91,615 which was $13,656 less than the county’s median income of $105,271 and
+$8,166 less than the State’s median income of $99,781. The township’s median income grew from
+$66,479 in 2010 to $88,516 in 2022 to $91,615 in 2023.
+
+
+
+
+                                                                                                                    13
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 18 of 98 Trans ID: LCV20251726745
+
+
+
+
+                       Per Capita and Household Income, 2010, 2022, 2023
+                           2010                    2022                       2023
+                     Per       Median        Per       Median       Per Capita     Median
+                    Capita    Household     Capita    Household    Household      Household
+                   Income      Income      Income      Income        Income        Income
+ Willingboro      $25,989    $66,479      $32,085    $88,516      $38,494        $91,615
+ Township
+ Burlington   $34,802          $76,258         $51,549      $102,615        $50,701           $105,271
+ County
+ State of New $34,858          $69,811         $50,995      $97,126         $52,583           $99,781
+ Jersey
+Table 5: Household Income and Per Capita Income
+Source: 2010/2022/2023 American Community Survey 5-year Estimates, Tables B19001 and B19301
+
+
+Poverty Status
+In 2023, 9.1% of Willingboro Township’s residents lived below the poverty level. Of the 2,919
+individuals in poverty, 19.1% were under the age of 5, 18.3% were between 5 and 17 years old, 6.4%
+were between 18 and 34, 7.0% were between 35 and 64, and 6.4% were over 65. Overall, the number
+of residents below the poverty level increased slightly from 2,649 in 2010 to 2,851 in 2020 to 2,919 in
+2023, a 0.10% rise. The largest increase occurred among those under 18, with the number of children
+in poverty growing from 1,083 in 2010 to 1,221 in 2023. Of the 7,865 families in Willingboro, 7.3% are
+families living below the poverty line in 2023.
+
+Household Type
+As per the 2023 ACS, the average household size in Willingboro Township is 2.96 persons per
+household. Family households occupied 73.1% of all of the township's occupied housing units,
+while nonfamily households occupied 26.9% of the township's occupied housing units. One
+quarter of all occupied households included the householder's own children. Almost a quarter
+of family households were comprised of female householder only compared to male
+householder only of 5.4%.
+
+Employment Characteristics
+The American Community Survey ﬁve-year estimates report on the work activity of residents
+aged 16 years and older. A total of 16,197 residents aged 16 years and older were employed in
+the civilian labor force, while 5.9% of the township's population aged 16 years and older were
+unemployed at the time of the ACS estimates. Figure 12 provides a description of worker
+classiﬁcations for employed individuals in the township. More than three quarters of workers in
+the township are employed in the private sector, while government workers comprise slightly
+less than 20% of the township's total employed population.
+
+
+
+
+                                                                                                         14
+      BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 19 of 98 Trans ID: LCV20251726745
+
+
+
+
+                            Class of Worker (civilian employed population
+                                         over 16 years old)
+
+
+
+
+                                      Private wage and salary workers
+                                      Government workers
+                                      Self-employed in own not incorporated business
+
+
+Figure 12: Class of Worker(civilian employed population 16 years + in Willingboro
+Source: American Community Survey 2022/2023: ACS 5-year Estimates Data Proﬁles
+
+An analysis of the township's civilian labor force by economic sector indicates that Willingboro
+workers are employed by a broad array of economic sectors. As depicted in Figure 13 below, the
+highest concentration of workers (27.2% of the total workforce) is employed in the educational,
+health, and social services sector. Retail Trade professions employ almost 15% of the
+township's workforce followed by Transportation and Warehousing at 9.4% of the workforce in
+Willingboro.
+
+                                    Employment by Industry Sector
+                            PUBLIC ADMINISTRATION
+                                             OTHER
+                 ARTS, ENTERTAINMENT, RECREATION,…
+             EDUCATIONAL, HEALTHCARE AND SOCIAL…
+                                     PROFESSIONAL
+
+
+  Industry
+              FINANCE AND INSURANCE, REAL ESTATE
+                                      INFORMATION
+               TRANSPORTATION AND WAREHOUSING
+                                       RETAIL TRADE
+                                 WHOLESALE TRADE
+                                  MANUFACTURING
+                                    CONSTRUCTION
+                                      AGRICULTURE
+                                                 0.00%     5.00%    10.00%     15.00%     20.00%   25.00%   30.00%
+                                                                             Percentage
+
+
+Figure 13: Employment by Industry Sector in Willingboro Township
+Source: 2023 American Community Survey 5-Year Estimates, Table DP03
+
+
+
+
+                                                                                                                15
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 20 of 98 Trans ID: LCV20251726745
+
+
+
+
+New Jersey’s Department of Labor (NJDOL) is the entity that reports on employment and wages
+within the State of New Jersey on a quarterly basis. The latest municipal-level report was completed
+in 2022, which summarized the quarterly reports. According to the data, there was an average of
+3,981 private sector jobs in Willingboro which were provided by 467 employers. Note that these are
+jobs within Willingboro, the daytime working population regardless of where the employee lives.
+
+ Industry                                   Establishments        Employees           Annual Wages
+                                            Total    Percent   Total    Percent
+ Construction                                   17    3.6%      135      3.4%     $      67,426
+ Manufacturing                                    .     .        .                .
+ Wholesale Trade                                  .     .        .                .
+ Retail Trade                                   44    9.4%      387      9.7%     $      34,687
+
+ Transp/Warehousing                             11    2.4%      65       1.6%     $      30,581
+
+ Information                                     .      .       .                 .
+ Finance/Insurance                              16    3.4%     121       3.0%     $      60,873
+
+ Real Estate                                     .      .       .                 .
+ Professional/Technical                         17    3.6%     118       3.0%     $      45,411
+
+ Management                                      .      .        .                .
+ Admin/Waste Remediation                         .      .        .                .
+ Education                                       .      .        .                .
+ Health/Social                                 221   47.3%     1,517    38.1%     $      60,832
+
+ Arts/Entertainment                              .      .       .          .      .
+ Accommodations/Food                            27    5.8%     277       7.0%     $      19,810
+
+ Other Services                                 44    9.4%      94       2.4%     $      22,461
+
+ Unclassified                                   24    5.1%      23       0.6%     $      34,763
+
+ Private Sector Total                          467             3,981              $      53,656
+ Federal                                         1   12.5%       50     3.3%      $      65,231
+ State                                           -     -          -       -       -
+       State Education                           -     -          -       -       -
+ Local                                           5   62.5%      897     59.8%     $      70,160
+       Local Education                           2    25%       552     36.8%     $      75,038
+ Government Total                                8             1,500              $      70,143
+Table 6: Industry and Jobs in Willingboro
+Source: NJDOL
+
+
+The New Jersey Department of Labor ("NJDOL") has prepared projections which analyze the
+expected increase or decrease in a particular employment sector by the year 2032. These labor
+projections provide an estimation of anticipated employment trends at the county level over the
+projection period. It is projected that 8,200 jobs will be added in Burlington County over the
+projection period (2024 through 2034). The Healthcare Support Occupation and Transportation and
+
+                                                                                                  16
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 21 of 98 Trans ID: LCV20251726745
+
+
+
+
+Materials sectors are poised to experience the greatest increase in jobs over the course of the
+projection period.
+
+Conclusion
+An analysis of demographic, housing, and employment data from the U.S. Census and American
+Community Survey provides critical insight into the current and evolving conditions within
+Willingboro Township. These data reveal a community shaped by a history of rapid suburban
+development, followed by demographic stabilization and gradual shifts in population
+characteristics.
+
+Willingboro's population trends reﬂect a maturing community, with modest changes in size over
+recent decades and increasing diversity in household composition and age distribution. These
+demographic patterns point to the need for a housing strategy that supports both aging residents and
+new household formations, including young families and individuals seeking to establish roots in the
+township.
+
+The township’s housing stock is largely comprised of single-family homes developed during the mid-
+20th century. While homeownership remains a deﬁning feature of the community, the uniformity and
+aging of the housing supply present challenges related to affordability, accessibility, and long-term
+sustainability. There is a growing need to promote a more diverse housing inventory that includes
+options for low- and moderate-income households, seniors, and those with special housing needs.
+
+Employment data indicate that Willingboro functions primarily as a bedroom community, with a
+signiﬁcant portion of the labor force commuting to jobs outside the township. However, the presence
+of a diverse and well-educated workforce presents opportunities for targeted economic
+development efforts aimed at attracting and retaining local employment. Strengthening the local
+economy will not only enhance the township’s ﬁscal health but also improve quality of life for
+residents by reducing commuting times and supporting community-based job opportunities.
+
+Collectively, this information reinforces the importance of a forward-looking, inclusive approach to
+housing policy. The Housing Element is designed to respond to the current needs of the community
+while positioning Willingboro to adapt to future demographic, economic, and housing trends.
+
+
+Fair Share Plan
+Introduction
+On March 20, 2024, Governor Murphy signed P.L.2024, c.2. into law, establishing a new framework
+for determining and enforcing municipalities’ affordable housing obligations under the New Jersey
+Supreme Court’s Mount Laurel doctrine and the State’s Fair Housing Act. The Act sets forth the
+procedures for how New Jersey municipalities are assigned affordable housing obligations and how
+they may meet those obligations over a series of affordable housing “rounds.” On July 1, 2025, the
+Fourth Round will begin and run for a ten-year period ending on July 30, 2035.
+
+
+                                                                                                  17
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 22 of 98 Trans ID: LCV20251726745
+
+
+
+
+The Act required the Department of Community Affairs (DCA) to prepare a report calculating both
+regional and municipal Present and Prospective Need for the Fourth Round, using the formula
+established by the Amended Act. On October 18, 2024, the DCA released its report, Affordable
+Housing Obligations for 2025–2035 (Fourth Round), which determined that Willingboro’s fair share
+obligations include a Present Need of 16 units and a Prospective Need of 77 units. On January 21,
+2025 the Township Council passed Resolution 2025-37 (“binding resolution”) (Appendix A)
+committing to the Fourth Round Present and Prospective Need Affordable Housing Obligation. The
+Township did not receive any objections by the February 28, 2025 statutory deadline, and pursuant
+to the Amended FHA, the Present and Prospective Need obligations set forth in the Township’s
+binding resolution automatically became the Township’s Fourth Round obligations. On April 8, 2025,
+the Court entered an order conﬁrming the Township’s Round 4 Present and Prospective Need
+obligations that were accepted in the Township’s resolution.
+
+This Housing Element and Fair Share Plan satisﬁes all of the applicable requirements set forth within
+the MLUL, FHA, COAH's regulations for the Second Round, and the Affordable Housing Reform
+Statute, P.L. 2008, c.46. The Third Round (1999-2025) present and prospective need obligations
+alluded to herein are consistent with the Township’s Final Judgment of Compliance and Repose
+entered by the Court on November 1, 2018. The Township Fair Share Plan establishes how the
+township will satisfy its Fourth Round present and prospective need obligations. Table 1 below
+summarizes the township's cumulative affordable housing obligation for the period 1987-2035.
+
+                       Table 1: Fair Share Obligation Summary
+
+                                 OBLIGATION                 NUMBER
+                             Round 4 Rehabilitation           16
+                                 (2025-2035)
+                                 Prior Round                   268
+                                 (1986-1999)
+                                   Round 3                      0
+                                 (1999-2025)
+                                   Round 4                     77
+                                 (2025-2035)
+
+Bonus Credits
+The Law sets forth opportunities for bonus credits. These credits include:
+
+   a. One (1) bonus credit for special needs or permanent supportive housing;
+   b. One (1) bonus credit for 100% affordable housing projects for which the host municipality
+      has contributed towards the cost of the project, subject to certain minimum contribution
+      requirements;
+   c. One (1) bonus credit for market rate units that are converted to affordable units;
+   d. One-half (0.5) bonus credit for ownership units created in a partnership sponsorship with a
+      non-proﬁt housing developer;
+
+
+                                                                                                  18
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 23 of 98 Trans ID: LCV20251726745
+
+
+
+
+   e. One-half (0.5) bonus credit for units located within a one-half mile radius (or a one mile
+      radius for projects located in a Garden State Growth Zone) of NJ Transit or Port Authority rail,
+      bus, or ferry stations, including all light rail stations;
+   f. One-half (0.5) bonus credit for age-restricted units, subject to certain caps;
+   g. One-half (0.5) bonus credit for each three-bedroom unit in excess of the three bedroom
+      requirements set forth in the Uniform Housing Affordability Controls;
+   h. One-half (0.5) bonus credit for housing units constructed on previously developed land that
+      was utilized for retail, office, or commercial space; and
+   i. One-half (0.5) bonus credit for units whose affordability controls are extended for a new
+      term of affordability.
+
+   Municipalities will also be restricted to only claim one type of bonus credit per affordable unit.
+   Such bonus credits may only satisfy 25% of their Fourth Round obligation. Given Willingboro’s
+   prospective need of 77 units, the township is eligible to claim up to 19 bonus credits.
+
+Prior Round Compliance
+Willingboro Township secured a Third Round Final Judgment of Compliance and Repose (Final JOR)
+from the Superior Court on November 1, 2018, following the New Jersey Supreme Court Decision
+decided on March 10, 2015, In re: Adoption of N.J.A.C. 5:96 & 5:97 by the N.J. Council on Affordable
+Housing, 221 N.J. 1 (2015) ("Mount Laurel IV"). In this decision, the Supreme Court held that since
+the Council on Affordable Housing ("COAH") was no longer functioning, trial courts were to resume
+their role as the forum of ﬁrst instance for evaluating municipal compliance with Mount Laurel
+obligations, and also established a transitional process for municipalities to seek a Judgment of
+Compliance and Repose ("JOR") in lieu of Substantive Certiﬁcation from COAH.
+
+In response to Mount Laurel IV, Willingboro Township ﬁled a Declaratory Judgment action on June 12,
+2015, and simultaneously brought a motion to extend the immunity from exclusionary zoning
+lawsuits it enjoyed at the time due to the Prior Round Judgment of Compliance and Repose, which
+was entered by Judge Bookbinder on February 28, 2012. The township took these precautions
+because it had previously found itself the subject of a builder’s remedy suit ﬁled by Atlantic Delta
+Corp at Montgomery, Inc., in 2006, and wished to voluntarily comply.
+
+As part of a settlement involving a builder’s remedy lawsuit ﬁled by Plaintiff Atlantic Delta Corp at
+Montgomery, Inc., the township was required to prepare, adopt, endorse, and submit a Housing
+Element and Fair Share Plan for approval by the end of 2008 (referred to as the “2008 Plan”). In
+compliance with this requirement, the township submitted the 2008 Plan to the Court for review and
+approval on December 30, 2008.
+
+Following an unintentional administrative dismissal of the original lawsuit by the Court, the township
+ﬁled a Declaratory Judgment action on August 25, 2011, as a means to demonstrate compliance.
+This action sought Court approval of the Prior Round and rehabilitation components, as well as
+selected viable elements from the third round of the 2008 Plan.
+
+
+
+                                                                                                   19
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 24 of 98 Trans ID: LCV20251726745
+
+
+
+
+On February 28, 2012, the Court issued a Prior Round Judgment of Compliance and Repose, staying
+third round obligations and granting the township and its Planning Board continued immunity from
+all Mount Laurel lawsuits. The Court also approved a number of affordable housing credits. This Prior
+Round Judgment remains in full effect.
+
+Subsequently, on March 14, 2012, the Court lifted the scarce resource restraints that had been
+imposed during the prior builder’s remedy litigation. On June 13, 2012, COAH approved the
+township’s Spending Plan, thereby permitting the township to allocate funds toward a rehabilitation
+program.
+
+In response to the Mount Laurel IV decision, the township ﬁled a Declaratory Judgment action and a
+motion for temporary immunity on June 12, 2015 (the “DJ Action”). On November 9, 2015, the
+Township Planning Board adopted, and the Township Council endorsed, a Housing Element and Fair
+Share Plan (the “2015 Affordable Housing Plan”) to preserve immunity from builder’s remedy
+lawsuits. Although the 2015 Plan relied on fair share numbers calculated by COAH in 2014 and was
+not formally approved by the Court, the Court did extend the township’s immunity from Mount Laurel
+lawsuits, which also remained in effect.
+
+Under the direction of Court-appointed Master Elizabeth C. McKenzie, A.I.C.P., P.P., the township
+entered into mediation with Fair Share Housing Center (“FSHC”) and culminated in a Settlement
+Agreement between the Township and FSHC on November 9, 2016 (the “FSHC Settlement
+Agreement”). A duly noticed Fairness Hearing was held on June 21, 2017, and the Court approved
+the FSHC Settlement Agreement on that same day (Appendix B).
+
+A revised Housing Element and Fair Share Plan was prepared based on the terms and conditions of
+the FSHC Settlement Agreement and was adopted by the Township’s Planning Board and endorsed
+by the Township Council. A Final JOR was issued on November 1, 2018 (Appendix C), approving the
+Township’s 2018 Housing Element and Fair Share Plan (“2018 Fair Share Plan”). The 2018 Fair Share
+Plan addressed the following obligations, as established in the Settlement Agreement:
+
+       Present Need Obligation: 325
+
+       1987-1999 Obligation: 268
+
+       Round 3 Obligation (1999-2025): 0
+
+Fourth Round Present and Prospective Need Obligation (2025-2035)
+The analysis in this section shall satisfy Part E of P.L.1985, c.222 (C.52:27D-310), which requires:
+
+§ E) “A determination of the municipality's present and prospective fair share for low- and moderate-
+income housing and its capacity to accommodate its present and prospective housing needs,
+including its fair share for low and moderate income housing, as established pursuant to section 3
+P.L.2024, c.2 (C.52:27D-304.1)”
+
+
+
+
+                                                                                                       20
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 25 of 98 Trans ID: LCV20251726745
+
+
+
+
+Satisfaction of Present Need Obligation
+The present need rehabilitation share represents the portion of a municipality's affordable housing
+obligation that addresses existing substandard housing units occupied by low- and moderate-
+income households. This component ensures that Willingboro can not only plan for future growth
+but also address current deﬁciencies in the existing housing stock. The rehabilitation obligation
+focuses on bringing existing units up to habitable and code-compliant standards, thereby preserving
+affordable housing opportunities and improving living conditions for residents already residing in the
+community.
+
+To estimate the present need, or rehabilitation share, the Department of Community Affairs (DCA)
+identiﬁes housing units that are at least 50 years old, overcrowded, and occupied by LMI households.
+Because census data categorizes housing by decade built, pre-1980 housing serves as a proxy for
+50+ year-old units. DCA uses a combination of American Community Survey (ACS) summary and
+microdata to estimate the number of overcrowded, adequately plumbed and equipped housing units
+built before 1980, as well as those lacking complete kitchen or plumbing facilities. These ﬁgures are
+adjusted at the Public Use Microdata Area (PUMA) level and applied to each municipality.
+
+The ﬁnal rehabilitation need is calculated by identifying the number of substandard housing units
+that are both deﬁcient and occupied by LMI households. This includes pre-1980 overcrowded units
+with complete kitchen and plumbing, as well as all units lacking those basic facilities. The combined
+total of these two groups produces the municipality’s present need obligation. As of the most recent
+analysis, the statewide total of LMI deﬁcient housing units was estimated at 65,410, forming the
+foundation for this component of each municipality’s fair share housing obligation. The DCA
+methodology establishes the township’s Fourth Round rehabilitation obligation as 16 units.
+
+For the satisfaction of the Township’s Present Need Rehabilitation Obligation of 16, Willingboro can
+claim credits resulting from participation in the Burlington County Home Improvement Loan
+Program.
+
+The County Program
+Willingboro participates in the Burlington County Home Improvement Loan Program administered by
+the Burlington County Office of Community Development. This program is funded through the United
+States Department of Housing and Urban Development (HUD) Community Development Block Grant
+(CDBG) program. The County loans are 0% per annum, simple interest deferred loans up to
+$20,000.00 to income eligible single-family homeowners for the repair of major systems and to bring
+units up to code. As deﬁned at N.J.A.C. 5:93-5.2(b), major systems include: “weatherization, a roof,
+plumbing, (including wells), heating, electricity, sanitary plumbing (including septic systems) and/or
+a load bearing structural system.”
+
+Upon completion and acceptance of the work, a lien in the amount of the loan is placed against the
+property which is typically satisﬁed at the time of transfer of title or on the occasion of the death of
+the individual who received the loan. The Township will continue to participate in the County program
+throughout the Fourth Housing Round to satisfy its 16 unit obligation.
+
+
+                                                                                                     21
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 26 of 98 Trans ID: LCV20251726745
+
+
+
+
+Prospective Need Obligation
+Prospective need is a measure of low-and-moderate income housing needs, based on development
+and growth that occurred or is reasonably likely to occur in a region or municipality. The prospective
+need covers the period from 2025 through 2035 and is calculated by the New Jersey DCA to be 77
+units. The township accepted the Round 4 obligations as prepared by the New Jersey DCA and
+reserves the right to adjust the number and amend the number in the event of a challenge to the DCA
+calculations or any change in legislation. On April 8, 2025, the Court entered an Order conﬁrming
+the Township’s Fourth Round Prospective Need of 77. The table below provides an overview of
+achieving the township’s prospective housing needs.
+
+In accordance with the requirements in the Amended FHA, the Township must address its 77-unit
+Prospective Need obligation as follows:
+
+                                    Unit/Credit Type           # Units/Credits
+                                   Family Units               29 minimum
+                                   Bonus Credits              19 maximum
+                                   Rental Units               15 unit minimum;
+                                                              8 family unit
+                                                              minimum
+                                   Senior Units               17 maximum
+
+
+ Prospective Need Summary
+                                         2025-2035
+                     Project Name                                          Credits        Bonus Credits
+ Burlington County Times Site (4284 Route 130) 100%                          39
+ Affordable housing project
+ Supportive Needs Housing                                                    19               19*
+                                                 Total                               77
+                                          Surplus
+ Burlington County Times Site (4284 Route 130) 100%                          21
+ Affordable housing project
+ Burlington County Times Site (4284 Route 130)                               6
+ Townhome 5% set-aside
+ Supportive Needs                                                            41
+                                         Total Surplus                               68
+* One (1) bonus credit for special needs or permanent supportive housing
+
+Supportive Needs Housing
+According to N.J.A.C. 5:93-5.8, the unit of credit for an alternative living arrangement is the bedroom.
+As such, Willingboro can claim 19 credits, and 19 bonus credits, leaving 41 credits for future rounds,
+based on the number of bedrooms indicated in the chart below. Documentation for these supportive
+needs housing can be found in Appendix H.
+
+
+
+
+                                                                                                          22
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 27 of 98 Trans ID: LCV20251726745
+
+
+
+
+ Supportive Needs Housing Summary
+ Owner/Sponsor             Address                 Block Lot Type     Bedrooms         CO date
+ Dakota Properties, Inc.   18 Hanover Lane           635   5 Group        4             7/12/2020
+                                                             Homes
+ Oaks Integrated            40 Turner Lane          1101 10 Group         4             1/31/2019
+ Care/Dakota                                                 Homes
+ NeuroRestorative NJ        1101 Lyons Court        5.01 13 Group         3             4/29/2021
+                                                             Homes
+ Innovative Life            1 East River Drive       820   1 Group        5             3/29/2020
+                                                             Homes
+ Innovative Life            88 Club House Drive      409 52 Group         4             2/25/2022
+                                                             Homes
+ ResCare NJ, Inc/ LPC       18 Tillman Lane         1131 12 Group         5            11/20/2020
+ Venture                                                     Homes
+ SERV Property and          12 Creekview Road        421   2 Group        5             1/23/2025
+ Management                                                  Homes
+ SERV Property and          40 Winterberry Lane      401 14 Group         5             1/23/2025
+ Management                                                  Homes
+ SERV Property and          99 Country Club Road     410 13 Group         5             3/21/2024
+ Management                                                  Homes
+ ARC of Burlington          28 Grayson Circle        727 31 Group         3                    N/A
+                                                             Homes
+ ARC of Burlington          275 Evergreen Drive      833   4 Group        4                    N/A
+                                                             Homes
+ ARC of Burlington          82 Crestview Drive       412 29 Group         5                    N/A
+                                                             Homes
+ Community Options          32 Tinker Place         1135 27 Group         4                    N/A
+                                                             Homes
+ Community Options          11 Needwood Lane        1001   7 Group        4                    N/A
+                                                             Homes
+                                                                Total    60
+
+
+Rental Units
+4284 Route 130 100% Affordable Project: The Township is pursuing an Area in Need of
+Redevelopment designation for the former Burlington County Times site (Block 5.02, Lots 8, 9, 10, 11
+& 17) that will include two affordable housing projects: one 100% affordable project of 60 family
+rental units and an inclusionary townhome project.
+
+This proposed project is a 60-unit, 100% affordable rental community to be constructed on a 3.56-
+acre portion of the 16-acre site, where it will have frontage along Route 130. This development will
+consist of income-restricted units for very-low, low-, and moderate-income households, in full
+compliance with the Uniform Housing Affordability Controls (UHAC) and other applicable
+regulations. The project will include a unit mix of a maximum of 20% 1-bedroom, a minimum of 25%
+3-bedroom, and the remainder 2-bedroom. Although this project is still in the early design phase, it
+is expected that it will provide 50% of the units to low-income households, of which 13% will be set
+
+                                                                                                 23
+    BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 28 of 98 Trans ID: LCV20251726745
+
+
+
+
+aside for very low-income, and 50% moderate income. The concept plan for this project can be found
+in Appendix I.
+
+The Township is working with the property owner, AMS Acquisitions, to create the redevelopment
+area, redevelopment plan, and other items necessary for the 100% affordable project to move
+forward with tax credit funding applications for at least three rounds of funding applications in order
+to build the project.
+
+Willingboro Township is claiming 39 credits for this round and allocating 21 credits for future rounds.
+
+A site suitability assessment for this project is included in Appendix J.
+
+For Sale Units
+4284 Route 130 Inclusionary Project: This is a second phase of the above-mentioned project that will
+be constructed on the back 12.65 acres of the 16-acre former Burlington County Times site. It will
+include at least 125 for-sale townhomes, representing a critical investment in homeownership
+opportunities within the township. 5% of these units, approximately 6 to 7 homes, will be deed-
+restricted for low- and moderate-income households. These units will be seamlessly integrated into
+the development and subject to the same quality standards and architectural treatment as the
+market-rate homes, as well as complying with all UHAC regulations and phasing requirements.
+
+Willingboro is claiming at least 6 credits for future rounds.
+
+A site suitability assessment for this project is included in Appendix J.
+
+
+
+
+                                                                                                    24
+  BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 29 of 98 Trans ID: LCV20251726745
+
+
+
+
+Appendices
+  A. R-2025-37: Resolution of the Township Council of the Township of Willingboro Committing
+     to Fourth Round Present and Prospective Need Affordable Housing Obligations
+  B. Third Round Settlement Agreement
+  C. Third Round Judgement of Compliance and Repose
+  D. Affordable Housing Ordinance:
+          a. The township’s existing ordinance will remain in effect during the Fourth Round. The
+             township will make necessary modiﬁcations to the ordinance to comply with any
+             forthcoming Fourth Round requirements as updated regulations and rules are
+             released.
+  E. Development Fee Ordinance
+          a. The township’s existing ordinance will remain in effect during the Fourth Round. The
+             township will make necessary modiﬁcations to the ordinance to comply with any
+             forthcoming Fourth Round requirements as updated regulations and rules are
+             released.
+  F. Copy of Resolution appointing Administrative Agent
+  G. Affirmative Marketing Plan
+  H. Supportive Needs Housing Documentation
+  I. Concept Plan for Block 5.02, Lots 8, 9, 10, 11 & 17
+  J. Site Suitability Analysis (Block 5.02, Lots 8, 9, 10, 11 & 17)
+
+
+
+
+                                                                                               25
+  BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 30 of 98 Trans ID: LCV20251726745
+
+
+
+
+Appendix A: R-2025-37: Resolution of the Township Council of the
+Township of Willingboro Committing to Fourth Round Present and
+Prospective Need Affordable Housing Obligations
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 31 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 32 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 33 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 34 of 98 Trans ID: LCV20251726745
+  BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 35 of 98 Trans ID: LCV20251726745
+
+
+
+
+Appendix B: Third Round Settlement Agreement
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 36 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 37 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 38 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 39 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 40 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 41 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 42 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 43 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 44 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 45 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 46 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 47 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 48 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 49 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 50 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 51 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 52 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 53 of 98 Trans ID: LCV20251726745
+  BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 54 of 98 Trans ID: LCV20251726745
+
+
+
+
+Appendix C: Third Round Judgement of Compliance and Repose
+        BUR L 001380-15
+    BUR-L-000190-25       11/01/2018
+                    06/11/2025 10:19:28 AMPgPg
+                                             1 of
+                                               552ofTrans ID: LCV20181921962
+                                                     98 Trans   ID: LCV20251726745
+
+
+
+
+JEFFREY R. SURENIAN AND ASSOCIATES, LLC
+Brielle Galleria                                                    FILED with te Court
+707 Union Avenue, Suite 301
+Briellc, NJ 08730                                                        Nov - I 2018
+(732) 612-3100
+Attorneys for Declaratory Plaintifi Township of Willingboro         BrrtrtEBoolt&de,AJ.9O,
+        Jeffrey R. Surenian (Attorney [D 024231983)
+        Erik C. Nolan (Attorney ID: 014032006)
+
+                                                    SUPERIOR COURT OF NEW JERSEY
+                                                    I,AW DIVISION: BURLINGTON COUNTY
+IN THE MATTER OF                        THE
+APPLICATION OF THE TOWNSHIP                         DOCKET NO. : BUR-L-1380-15
+OF WILLINGBORO, COUNTY OF
+BURLINGTON                                                           Civil Case
+                                                                  (Mount Laurel II)
+
+                                                   ORDER TINALIZING THE TOWNSHIP'S
+                                                   JUDGMENT OF COMPLIANCE AND
+                                                   REPOSE
+
+
+
+
+       THIS MATTER having been opened to the Court by Jeffrey R. Surenian and Associates,
+
+LLC, on behalf of declaratory plaintiff, Township of Willingboro (hereinafter "the Township" or
+
+"Willingboro") via a Declaratory Judgment Complaint filed on June 12, 2015 to approve the
+
+Township's Housing Element and Fair Share Plan (hereinafter "Fair Sharc PIan") in response to
+
+In re N.J.A.C. 5:96 & N.J.A.C. 5:97 , 221 N.J. I (2015)("Mount Laurel IV"); and the Court
+
+having held a properly noticed Compliance Hearing on June 7,2018; and the Court having
+
+entered a Judgment of Compliance and Repose Order on June 7, 2018 (hereinafter "JOR Order"),
+
+which approved the Township's Fair Share Plan, subject to the satisfaction of certain short term
+
+conditions set forth in Paragraph 7 ofthe JOR Order; and the'fownship having since satisfied all
+
+of the short term conditions, which was confirmed in a letter from the Court Master to the Court
+
+dated October 13, 2018; and good cause having been shown;
+
+       It is hereby ordered on this /
+                                        5/ day
+                                                 of ,loa,n/.. , 201 8, as follows:
+        BUR L 001380-15
+    BUR-L-000190-25       11/01/2018
+                    06/11/2025 10:19:28 AMPgPg
+                                             2 of
+                                               562ofTrans ID: LCV20181921962
+                                                     98 Trans   ID: LCV20251726745
+
+
+
+        I   .   All ofthe shoft term conditions in Paragraph 7 ofthe Township's JOR Ordcr have
+
+been fully satisfied, and the Township's JOR Order is now a Final Judgment of Compliance and
+
+Repose, with no conditions remaining.
+
+        2.      While the JOR Order as modified by this Order is now a final judgment, the Court
+
+will retain jurisdiction for the limited purpose of allowing Fair Share Housing Center ("FSHC")
+
+and the Township the ability to enforce rights under the Settlement Agreement entered into
+
+between the Township and FSHC on November 9,2016, and (b) subject to the consent ofFSHC,
+
+allowing the Township to have the future ability to seek an amendment or amendments to its
+
+Housing Element and Fair Share Plan and/or the JOR Order should that be necessary.
+
+       3    .   All of the other terms and conditions set forth in the JOR Order remain in full
+
+force and effect, including the provision in Paragraph 2 of the JOR Order, that the Township has
+
+immunity from all Mount Laurel lawsuits until June 12,2025.
+
+        4.      Counsel for the Township shall provide copies of this Order to the Township's
+
+Service List within seven (7) days of receipt.
+
+
+
+
+                                                           A-t
+                                                 HON. RONALD E. BOOKBINDER, A.J.S.C.
+
+
+
+
+                                                 2
+  BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 57 of 98 Trans ID: LCV20251726745
+
+
+
+
+Appendix D: Affordable Housing Ordinance
+           BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 58 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-11                                                                                                                      § 79-12
+
+                                                       ARTICLE II
+                                              Affordable Housing Obligations
+                                           [Adopted 7-3-2018 by Ord. No. 2018-61]
+
+     § 79-11. Purpose.
+     A.     This article is intended to assure that low- and moderate-income units ("affordable units") are
+            created with controls on affordability and that low- and moderate-income households shall
+            occupy these units. This article shall apply except where inconsistent with applicable law.
+     B.     The Township of Willingboro Planning Board has adopted a Housing Element and Fair Share
+            Plan pursuant to the Municipal Land Use Law at N.J.S.A. 40:55D-1 et seq. (hereinafter "Fair
+            Share Plan"). The Fair Share Plan was subsequently endorsed by the governing body. The
+            Fair Share Plan describes how the Township of Willingboro shall address its fair share of
+            low- and moderate-income housing as documented in the Fair Share Plan itself, the
+            settlement agreement entered into between the Township and Fair Share Housing Center
+            ("FSHC") on November 9, 2016 (hereinafter "FSHC Settlement Agreement"), and the Court
+            order approving same, which was entered by the Court on June 21, 2017, after a properly
+            noticed fairness hearing.
+     C.     The Township of Willingboro shall track the status of the implementation of the Fair Share
+            Plan.
+
+     § 79-12. Monitoring and reporting requirements.
+     The Township of Willingboro shall comply with the following monitoring and reporting
+     requirements regarding the status of the implementation of its Court-approved Housing Element
+     and Fair Share Plan:
+     A.     Beginning one year after the entry of the Township's Round 3 Judgment of Compliance and
+            Repose, and on every anniversary of that date through 2025, the Township agrees to provide
+            annual reporting of its Affordable Housing Trust Fund activity to the New Jersey Department
+            of Community Affairs, Council, on Affordable Housing, or Local Government Services, or
+            other entity designated by the State of New Jersey, with a copy provided to Fair Share
+            Housing Center (FSHC) and posted on the municipal website, using forms developed for this
+            purpose by the New Jersey Department of Community Affairs (NJDCA), Council on
+            Affordable Housing (COAH), or Local Government Services (NJLGS). The reporting shall
+            include an accounting of all Affordable Housing Trust Fund activity, including the source
+            and amount of funds collected and the amount and purpose for which any funds have been
+            expended.
+     B.     Beginning one year after the entry of the Township's Round 3 Judgment of Compliance and
+            Repose, and on every anniversary of that date through 2025, the Township agrees to provide
+            annual reporting of the status of all affordable housing activity within the municipality
+            through posting on the municipal website with a copy of such posting provided to Fair Share
+            Housing Center, using forms previously developed for this purpose by COAH or any other
+
+
+     1.   Editor’s Note: This ordinance also repealed former Art. II, Affordable Housing Obligation, adopted 12-6-2011 by Ord. No. 2011-15.
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+           BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 59 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-12                                                                                     § 79-13
+
+            forms endorsed by the Court-appointed Special Master and FSHC.
+     C.     The Fair Housing Act includes two provisions regarding action to be taken by the Township
+            during its ten-year repose period. The Township will comply with those provisions as
+            follows:
+            (1) For the midpoint realistic opportunity review due on June 12, 2020, as required pursuant
+                to N.J.S.A. 52:27D-313, the Township will post on its municipal website, with a copy
+                provided to Fair Share Housing Center, a status report as to its implementation of its
+                Plan and an analysis of whether any unbuilt sites or unfulfilled mechanisms continue to
+                present a realistic opportunity and whether the mechanisms to meet unmet need should
+                be revised or supplemented. Such posting shall invite any interested party to submit
+                comments to the Township, with a copy to Fair Share Housing Center, regarding
+                whether any sites no longer present a realistic opportunity and should be replaced and
+                whether the mechanisms to meet unmet need should be revised or supplemented. Any
+                interested party may by motion request a hearing before the Court regarding these
+                issues.
+            (2) For the review of very-low-income housing requirements required by N.J.S.A.
+                52:27D-329.1, within 30 days of the third anniversary of the entry of the Township's
+                Judgement of Compliance and Repose, and every third year thereafter, the Township
+                will post on its municipal website, with a copy provided to Fair Share Housing Center,
+                a status report as to its satisfaction of its very-low-income requirements, including the
+                family very-low-income requirements referenced herein. Such posting shall invite any
+                interested party to submit comments to the Township and Fair Share Housing Center on
+                the issue of whether the Township has complied with its very-low-income housing
+                obligation under the terms of this settlement.
+            (3) In addition to the foregoing postings, the Township may also elect to file copies of its
+                reports with COAH or its successor agency at the state level.
+
+     § 79-13. Definitions.
+     The following terms when used in this article shall have the meanings given in this section:
+     ACT — The Fair Housing Act of 1985, P.L. 1985, c. 222 (N.J.S.A. 52:27D-301 et seq.) as has
+     been subsequently amended.
+     ADAPTABLE — Constructed in compliance with the technical design standards of the Barrier
+     Free Subcode, N.J.A.C. 5:23-7.2
+     ADMINISTRATIVE AGENT — The entity responsible for the administration of affordable
+     units in accordance with this article, applicable COAH regulations and the Uniform Housing
+     Affordability Controls (UHAC)(N.J.A.C. 5:80-26.1 et seq.).
+     AFFIRMATIVE MARKETING — A regional marketing strategy designed to attract buyers and/
+     or renters of affordable units pursuant to N.J.A.C. 5:80-26.15.
+     AFFORDABILITY AVERAGE — The average percentage of median income at which restricted
+
+
+     2.   Editor's Note: See now N.J.A.C. 5:23-3.14(b).
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 60 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-13                                                                                      § 79-13
+
+     units in an affordable housing development are affordable to low- and moderate-income
+     households.
+     AFFORDABLE — A sales price or rent within the means of a low- or moderate-income
+     household as defined by COAH in its applicable regulations or an equivalent controlling New
+     Jersey state agency; in the case of an ownership unit, that the sales price for the unit conforms
+     to the standards set forth in N.J.A.C. 5:80-26.6, as may be amended and supplemented, and, in
+     the case of a rental unit, that the rent for the unit conforms to the standards set forth in N.J.A.C.
+     5:80-26.12, as may be amended and supplemented.
+     AFFORDABLE DEVELOPMENT — A housing development, all or a portion of which consists
+     of restricted units.
+     AFFORDABLE HOUSING DEVELOPMENT — A development included in the Township's
+     Fair Share Plan, and includes, but is not limited to, an inclusionary development, a municipal
+     construction project or a 100% affordable development.
+     AFFORDABLE HOUSING PROGRAM(S) — Any mechanism in the Township's Fair Share
+     Plan prepared or implemented to address the Township's fair share obligation.
+     AFFORDABLE UNIT — A housing unit proposed or created pursuant to the Act, credited
+     pursuant to applicable COAH regulations, the FSHC Settlement Agreement, or an order of the
+     Court.
+     AGE-RESTRICTED UNIT — A housing unit designed to meet the needs of, and exclusively for,
+     the residents of an age-restricted segment of the population such that: 1) all the residents of the
+     development where the unit is situated are 62 years or older; or 2) at least 80% of the units are
+     occupied by one person that is 55 years or older; or 3) the development has been designated by
+     the Secretary of the U.S. Department of Housing and Urban Development as "housing for older
+     persons" as defined in Section 807(b)(2) of the Fair Housing Act, 42 U.S.C. § 3607.
+     AGENCY — The New Jersey Housing and Mortgage Finance Agency established by P.L. 1983,
+     c. 530 (N.J.S.A. 55:14K-1 et seq.).
+     ASSISTED LIVING RESIDENCE — A facility licensed by the New Jersey Department of Health
+     and Senior Services to provide apartment-style housing and congregate dining and to assure that
+     assisted living services are available when needed for four or more adult persons unrelated to
+     the proprietor and that offers units containing, at a minimum, one unfurnished room, a private
+     bathroom, a kitchenette and a lockable door on the unit entrance.
+     CERTIFIED HOUSEHOLD — A household that has been certified by an administrative agent as
+     a low-income household or moderate-income household.
+     COAH — The New Jersey Council on Affordable Housing.
+     DCA — The State of New Jersey Department of Community Affairs.
+     DEFICIENT HOUSING UNIT — A housing unit with health and safety code violations that
+     require the repair or replacement of a major system. A "major system" includes weatherization,
+     roofing, plumbing (including wells), heating, electricity, sanitary plumbing (including septic
+     systems), lead paint abatement and/or load-bearing structural systems.
+     DEVELOPER — Any person, partnership, association, company or corporation that is the legal or
+     beneficial owner or owners of a lot or any land proposed to be included in a proposed development
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 61 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-13                                                                                      § 79-13
+
+     including the holder of an option to contract or purchase, or other person having an enforceable
+     proprietary interest in such land.
+     DEVELOPMENT — The division of a parcel of land into two or more parcels, the construction,
+     reconstruction, conversion, structural alteration, relocation, or enlargement of any use or change
+     in the use of any building or other structure, or of any mining, excavation or landfill, and any use
+     or change in the use of any building or other structure, or land or extension of use of land, for
+     which permission may be required pursuant to N.J.S.A. 40:55D-1 et seq.
+     INCLUSIONARY DEVELOPMENT — A development containing both affordable units and
+     market-rate units. Inclusionary developments must have a minimum 20% set-aside of affordable
+     units if the development has five or more units and is a for-sale project, or a minimum 15% set-
+     aside if the development is a rental project. This term includes, but is not necessarily limited to:
+     new construction, the conversion of a nonresidential structure to residential and the creation of
+     new affordable units through the reconstruction of a vacant residential structure.
+     LOW-INCOME HOUSEHOLD — A household with a total gross annual household income equal
+     to 50% or less of the median household income.
+     LOW-INCOME UNIT — A restricted unit that is affordable to a low-income household.
+     MAJOR SYSTEM — The primary structural, mechanical, plumbing, electrical, fire protection, or
+     occupant service components of a building which include, but are not limited to, weatherization,
+     roofing, plumbing (including wells), heating, electricity, sanitary plumbing (including septic
+     systems), lead paint abatement or load-bearing structural systems.
+     MARKET-RATE UNITS — Housing not restricted to low- and moderate-income households that
+     may sell or rent at any price.
+     MEDIAN INCOME — The median income by household size for the applicable county, as
+     adopted annually by the Department.
+     MODERATE-INCOME HOUSEHOLD — A household with a total gross annual household
+     income in excess of 50% but less than 80% of the median household income.
+     MODERATE-INCOME UNIT — A restricted unit that is affordable to a moderate-income
+     household.
+     MUNICIPAL HOUSING LIAISON — The employee charged by the governing body with the
+     responsibility for oversight and administration of the affordable housing program for Willingboro.
+     NON-EXEMPT SALE — Any sale or transfer of ownership other than the transfer of ownership
+     between husband and wife; the transfer of ownership between former spouses ordered as a result
+     of a judicial decree of divorce or judicial separation, but not including sales to third parties; the
+     transfer of ownership between family members as a result of inheritance; the transfer of ownership
+     through an executor's deed to a class A beneficiary and the transfer of ownership by court order.
+     RANDOM SELECTION PROCESS — A process by which currently income-eligible households
+     are selected for placement in affordable housing units such that no preference is given to one
+     applicant over another except for purposes of matching household income and size with an
+     appropriately priced and sized affordable unit (e.g., by lottery).
+     REGIONAL ASSET LIMIT — The maximum housing value in each housing region affordable
+     to a four-person household with an income at 80% of the regional median as defined by the
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+           BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 62 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-13                                                                                    § 79-15
+
+     Department's adopted Regional Income Limits published annually by the Department.
+     REHABILITATION — The repair, renovation, alteration or reconstruction of any building or
+     structure, pursuant to the Rehabilitation Subcode, N.J.A.C. 5:23-6.
+     RENT — The gross monthly cost of a rental unit to the tenant, including the rent paid to the
+     landlord, as well as an allowance for tenant-paid utilities computed in accordance with allowances
+     published by DCA for its Section 8 program. In assisted living residences, "rent" does not include
+     charges for food and services.
+     RESTRICTED UNIT — A dwelling unit, whether a rental unit or ownership unit, that is subject to
+     the affordability controls of N.J.A.C. 5:80-26.1, as may be amended and supplemented, but does
+     not include a market-rate unit financed under UHORP or MONI.
+     THE DEPARTMENT — The Department of Community Affairs of the State of New Jersey, that
+     was established under the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.).
+     UHAC — The Uniform Housing Affordability Controls set forth in N.J.A.C. 5:80-26.1 et seq.
+     VERY-LOW-INCOME HOUSEHOLD — A household with a total gross annual household
+     income equal to 30% or less of the median household income.
+     VERY-LOW-INCOME UNIT — A restricted unit that is affordable to a very-low-income
+     household.
+     WEATHERIZATION — Building insulation (for attic, exterior walls and crawl space), siding to
+     improve energy efficiency, replacement storm windows, replacement storm doors, replacement
+     windows and replacement doors, and is considered a major system for rehabilitation.
+
+     § 79-14. Applicability.
+     A.     The provisions of this article shall apply to all affordable housing developments and
+            affordable housing units that currently exist and that are proposed to be created within the
+            Township of Willingboro pursuant to the Township's most recently adopted Housing
+            Element and Fair Share Plan.
+     B.     Moreover, this article shall apply to all developments that contain low- and moderate-income
+            housing units, including any currently unanticipated future developments that will provide
+            low- and moderate-income housing units.
+
+     § 79-15. Alternative living arrangements.
+     A.     The administration of an alternative living arrangement shall be in compliance with N.J.A.C.
+            5:93-5.83 and UHAC, with the following exceptions:
+            (1) Affirmative marketing (N.J.A.C. 5:80-26.15); provided, however, that the units or
+                bedrooms may be affirmatively marketed by the provider in accordance with an
+                alternative plan approved by the Court;
+            (2) Affordability average and bedroom distribution (N.J.A.C. 5:80-26.3).
+
+
+     3.   Editor's Note: The provisions of N.J.A.C. 5:93.1 et seq. expired 10-16-2016.
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 63 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-15                                                                                      § 79-17
+
+     B.    With the exception of units established with capital funding through a twenty-year operating
+           contract with the Department of Human Services, Division of Developmental Disabilities,
+           alternative living arrangements shall have at least thirty-year controls on affordability in
+           accordance with UHAC, unless an alternative commitment is approved by the Court.
+     C.    The service provider for the alternative living arrangement shall act as the administrative
+           agent for the purposes of administering the affirmative marketing and affordability
+           requirements for the alternative living arrangement.
+
+     § 79-16. Phasing schedule for inclusionary zoning.
+     In inclusionary developments the following schedule shall be followed:
+
+      Maximum Percentage of Market-Rate Units                Minimum Percentage of Low- and
+                   Completed                                 Moderate-Income Units Completed
+                                   25                                           0
+                                 25 + 1                                        10
+                                   50                                          50
+                                   75                                          75
+                                   90                                          100
+
+     § 79-17. New construction.
+     A.    Low/moderate split and bedroom distribution of affordable housing units:
+           (1) The fair share obligation shall be divided equally between low- and moderate-income
+               units, except that where there is an odd number of affordable housing units, the extra
+               unit shall be a low-income unit. At least 13% of all restricted rental units shall be very-
+               low-income units (affordable to a household earning 30% or less of regional median
+               income by household size). The very-low-income units shall be counted as part of the
+               required number of low-income units within the development. At least 50% of the very-
+               low-income units must be available to families.
+           (2) In each affordable development, at least 50% of the restricted units within each bedroom
+               distribution shall be very low or low-income units.
+           (3) Affordable developments that are not age-restricted shall be structured in conjunction
+               with realistic market demands such that:
+                  (a) The combined number of efficiency and one-bedroom units shall be no greater than
+                      20% of the total low- and moderate-income units;
+                  (b) At least 30% of all low- and moderate-income units shall be two-bedroom units;
+                  (c) At least 20% of all low- and moderate-income units shall be three-bedroom units;
+                      and
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+           BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 64 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-17                                                                                        § 79-17
+
+                   (d) The remaining units may be allocated among two- and three-bedroom units at the
+                       discretion of the developer.
+            (4) Affordable developments that are age-restricted shall be structured such that the number
+                of bedrooms shall equal the number of age-restricted low- and moderate-income units
+                within the inclusionary development. This standard may be met by having all one-
+                bedroom units or by having a two-bedroom unit for each efficiency unit.
+     B.     Accessibility requirements:
+            (1) The first floor of all restricted townhouse dwelling units and all restricted units in all
+                other multistory buildings shall be subject to the technical design standards of the
+                Barrier Free Subcode, N.J.A.C. 5:23-74 and the following:
+            (2) All restricted townhouse dwelling units and all restricted units in other multistory
+                buildings in which a restricted dwelling unit is attached to at least one other dwelling
+                unit shall have the following features:
+                   (a) An adaptable toilet and bathing facility on the first floor; and
+                   (b) An adaptable kitchen on the first floor; and
+                   (c) An interior accessible route of travel on the first floor; and
+                   (d) An adaptable room that can be used as a bedroom, with a door or the casing for the
+                       installation of a door, on the first floor; and
+                   (e) If all of the foregoing requirements in Subsection B(2)(a) through (d) cannot be
+                       satisfied, then an interior accessible route of travel must be provided between
+                       stories within an individual unit, but if all of the terms of Subsection B(2)(a)
+                       through (d) above have been satisfied, then an interior accessible route of travel
+                       shall not be required between stories within an individual unit; and
+                   (f)    An accessible entranceway as set forth at P.L. 2005, c. 350 (N.J.S.A. 52:27D-311a
+                          et seq.) and the Barrier Free Subcode, N.J.A.C. 5:23-7,5 or evidence that
+                          Willingboro has collected funds from the developer sufficient to make 10% of the
+                          adaptable entrances in the development accessible:
+                          [1] Where a unit has been constructed with an adaptable entrance, upon the
+                              request of a disabled person who is purchasing or will reside in the dwelling
+                              unit, an accessible entrance shall be installed.
+                          [2] To this end, the builder of restricted units shall deposit funds within the
+                              Township of Willingboro's Affordable Housing Trust Fund sufficient to
+                              install accessible entrances in 10% of the affordable units that have been
+                              constructed with adaptable entrances.
+                          [3] The funds deposited under Subsection B(2)(f)[2] above shall be used by the
+
+
+     4.   Editor's Note: See now N.J.A.C. 5:23-3.14(b).
+     5.   Editor's Note: See now N.J.A.C. 5:23-3.14(b).
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+           BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 65 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-17                                                                                          § 79-17
+
+                                 Township of Willingboro for the sole purpose of making the adaptable
+                                 entrance of an affordable unit accessible when requested to do so by a person
+                                 with a disability who occupies or intends to occupy the unit and requires an
+                                 accessible entrance.
+                          [4] The developer of the restricted units shall submit a design plan and cost
+                              estimate to the Construction Official of the Township of Willingboro for the
+                              conversion of adaptable to accessible entrances.
+                          [5] Once the Construction Official has determined that the design plan to convert
+                              the unit entrances from adaptable to accessible meet the requirements of the
+                              Barrier Free Subcode, N.J.A.C. 5:23-7,6 and that the cost estimate of such
+                              conversion is reasonable, payment shall be made to the Township's
+                              Affordable Housing Trust Fund in care of the Township Treasurer who shall
+                              ensure that the funds are deposited into the Affordable Housing Trust Fund
+                              and appropriately earmarked.
+                   (g) Full compliance with the foregoing provisions shall not be required where an entity
+                       can demonstrate that it is "site impracticable" to meet the requirements.
+                       Determinations of site impracticability shall be in compliance with the Barrier Free
+                       Subcode, N.J.A.C. 5:23-7.7
+     C.     Design:
+            (1) In inclusionary developments, low- and moderate-income units shall be integrated with
+                the market units to the extent possible.
+            (2) In inclusionary developments, low- and moderate-income units shall have access to all
+                of the same common elements and facilities as the market units.
+     D.     Maximum rents and sales prices:
+            (1) In establishing rents and sales prices of affordable housing units, the administrative
+                agent shall follow the procedures set forth in UHAC, utilizing the most recently
+                published regional weighted average of the uncapped Section 8 income limits published
+                by HUD.
+            (2) The maximum rent for restricted rental units within each affordable development shall
+                be affordable to households earning no more than 60% of median income, and the
+                average rent for restricted rental units shall be affordable to households earning no more
+                than 52% of median income.
+            (3) The developers and/or municipal sponsors of restricted rental units shall establish at
+                least one rent for each bedroom type for both low-income and moderate-income units,
+                provided that at least 13% of all low- and moderate-income rental units shall be
+                affordable to very-low-income households, which very-low-income units shall be part
+                of the low-income requirement.
+
+     6.   Editor's Note: See now N.J.A.C. 5:23-3.14(b).
+     7.   Editor's Note: See now N.J.A.C. 5:23-3.14(b).
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 66 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-17                                                                                        § 79-17
+
+           (4) The maximum sales price of restricted ownership units within each affordable
+               development shall be affordable to households earning no more than 70% of median
+               income, and each affordable development must achieve an affordability average of 55%
+               for restricted ownership units; in achieving this affordability average, moderate-income
+               ownership units must be available for at least three different sales prices for each
+               bedroom type, and low-income ownership units must be available for at least two
+               different sales prices for each bedroom type.
+           (5) In determining the initial sales prices and rent levels for compliance with the
+               affordability average requirements for restricted units other than assisted living facilities
+               and age-restricted developments, the following standards shall be used:
+                  (a) A studio shall be affordable to a one-person household;
+                  (b) A one-bedroom unit shall be affordable to a one-and-one-half person household;
+                  (c) A two-bedroom unit shall be affordable to a three-person household;
+                  (d) A three-bedroom unit shall be affordable to a four-and-one-half-person household;
+                      and
+                  (e) A four-bedroom unit shall be affordable to a six-person household.
+           (6) In determining the initial sales prices and rents for compliance with the affordability
+               average requirements for restricted units in assisted living facilities and age-restricted
+               developments, the following standards shall be used:
+                  (a) A studio shall be affordable to a one-person household;
+                  (b) A one-bedroom unit shall be affordable to a one-and-one-half person household;
+                      and
+                  (c) A two-bedroom unit shall be affordable to a two-person household or to two one-
+                      person households.
+           (7) The initial purchase price for all restricted ownership units shall be calculated so that
+               the monthly carrying cost of the unit, including principal and interest (based on a
+               mortgage loan equal to 95% of the purchase price and the Federal Reserve H.15 rate of
+               interest), taxes, homeowner and private mortgage insurance and condominium or
+               homeowner association fees do not exceed 28% of the eligible monthly income of the
+               appropriate size household as determined under N.J.A.C. 5:80-26.4, as may be amended
+               and supplemented; provided, however, that the price shall be subject to the affordability
+               average requirement of N.J.A.C. 5:80-26.3, as may be amended and supplemented.
+           (8) The initial rent for a restricted rental unit shall be calculated so as not to exceed 30% of
+               the eligible monthly income of the appropriate size household, including an allowance
+               for tenant-paid utilities, as determined under N.J.A.C. 5:80-26.4, as may be amended
+               and supplemented; provided, however, that the rent shall be subject to the affordability
+               average requirement of N.J.A.C. 5:80-26.3, as may be amended and supplemented.
+           (9) Income limits for all units that are part of the Township's Housing Element and Fair
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 67 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-17                                                                                        § 79-19
+
+                  Share Plan and for which income limits are not already established through a federal
+                  program exempted from the Uniform Housing Affordability Controls pursuant to
+                  N.J.A.C. 5:80-26.1 shall be updated by the Township annually within 30 days of the
+                  publication of determinations of median income by HUD as follows:
+                  (a) The income limit for a moderate-income unit for a household of four shall be 80%
+                      of the HUD determination of the median income for the Philadelphia-Camden-
+                      Wilmington, PA-NJ-DE-MD MSA for a family of four. The income limit for a
+                      low-income unit for a household of four shall be 50% of the HUD determination
+                      of the median income for the Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+                      MSA for a family of four. The income limit for a very-low-income unit for a
+                      household of four shall be 30% of the HUD determination of the median income
+                      for the Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA for a family of
+                      four. These income limits shall be adjusted by household size based on multipliers
+                      used by HUD to adjust median income by household size. In no event shall the
+                      income limits be less than the previous year.
+                  (b) The income limits are based on carrying out the process in Subsection D(9)(a)
+                      based on HUD determination of median income for the current fiscal year, and
+                      shall be utilized by the Township until new income limits are available.
+           (10) In establishing sale prices and rents of affordable housing units, the administrative agent
+                shall follow the procedures set forth in UHAC, utilizing the regional income limits
+                established by the Council:
+                  (a) The price of owner-occupied low- and moderate-income units may increase
+                      annually based on the percentage increase in the regional median income limit for
+                      each housing region determined pursuant to Subsection D(9). In no event shall the
+                      maximum resale price established by the administrative agent be lower than the
+                      last recorded purchase price.
+                  (b) The rents of very-low-, low- and moderate-income units may be increased annually
+                      based on the permitted percentage increase in the Housing Consumer Price Index
+                      for the Southern New Jersey Area, upon its publication for the prior calendar year.
+                      This increase shall not exceed 9% in any one year. Rents for units constructed
+                      pursuant to low-income housing tax credit regulations shall be indexed pursuant to
+                      the regulations governing low- income housing tax credits.
+
+     § 79-18. Utilities.
+     A.    Affordable units shall utilize the same type of heating source as market units within an
+           inclusionary development.
+     B.    Tenant-paid utilities included in the utility allowance shall be set forth in the lease and shall
+           be consistent with the utility allowance approved by the NJDCA for its Section 8 program.
+
+     § 79-19. Occupancy standards.
+     In referring certified households to specific restricted units, the administrative agent shall, to the
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 68 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-19                                                                                          § 79-21
+
+     extent feasible and without causing an undue delay in the occupancy of a unit, strive to:
+     A.    Provide an occupant for each bedroom;
+     B.    Provide children of different sexes with separate bedrooms;
+     C.    Provide separate bedrooms for parents and children; and
+     D.    Prevent more than two persons from occupying a single bedroom.
+
+     § 79-20. Control periods for restricted ownership units and enforcement mechanisms.
+     A.    Control periods for restricted ownership units shall be in accordance with N.J.A.C. 5:80-26.5,
+           as may be amended and supplemented, and each restricted ownership unit shall remain
+           subject to the requirements of this article for a period of at least 30 years, until Willingboro
+           takes action to release the unit from such requirements; prior to such action, a restricted
+           ownership unit must remain subject to the requirements of N.J.A.C. 5:80-26.1, as may be
+           amended and supplemented.
+     B.    The affordability control period for a restricted ownership unit shall commence on the date
+           the initial certified household takes title to the unit.
+     C.    Prior to the issuance of the initial certificate of occupancy for a restricted ownership unit and
+           upon each successive sale during the period of restricted ownership, the Township's
+           administrative agent, or an administrative agent appointed by a particular developer, shall
+           determine the restricted price for the unit and shall also determine the non-restricted, fair
+           market value of the unit based on either an appraisal or the unit's equalized assessed value
+           without the restrictions in place.
+     D.    At the time of the initial sale of the unit, the initial purchaser shall execute and deliver to the
+           Township's administrative agent, or an administrative agent appointed by a particular
+           developer, a recapture note obligating the purchaser (as well as the purchaser's heirs,
+           successors and assigns) to repay, upon the first non-exempt sale after the unit's release from
+           the restrictions set forth in this article, an amount equal to the difference between the unit's
+           non-restricted fair market value and its restricted price, and the recapture note shall be
+           secured by a recapture lien evidenced by a duly recorded mortgage on the unit.
+     E.    The affordability controls set forth in this article shall remain in effect despite the entry and
+           enforcement of any judgment of foreclosure with respect to restricted ownership units.
+     F.    A restricted ownership unit shall be required to obtain a continuing certificate of occupancy
+           or a certified statement from the Construction Official stating that the unit meets all Code
+           standards upon the first transfer of title following the removal of the restrictions provided
+           under N.J.A.C. 5:80-26.5(a), as may be amended and supplemented.
+
+     § 79-21. Price restrictions for restricted ownership units, homeowner association fees and
+     resale prices.
+     Price restrictions for restricted ownership units shall be in accordance with N.J.A.C. 5:80-26.1, as
+     may be amended and supplemented, including:
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 69 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-21                                                                                     § 79-24
+
+     A.    The initial purchase price for a restricted ownership unit shall be approved by the Township's
+           administrative agent, or an administrative agent appointed by a particular developer.
+     B.    The Township's administrative agent, or an administrative agent appointed by a particular
+           developer, shall approve all resale prices, in writing and in advance of the resale, to assure
+           compliance with the foregoing standards.
+     C.    The master deeds of inclusionary developments shall provide no distinction between the
+           condominium or homeowner association fees and special assessments paid by low- and
+           moderate-income purchasers and those paid by market purchasers.
+     D.    The owners of restricted ownership units may apply to the Township's administrative agent,
+           or an administrative agent appointed by a particular developer, to increase the maximum
+           sales price for the unit on the basis of anticipated capital improvements. Eligible capital
+           improvements shall be those that render the unit suitable for a larger household or the
+           addition of a bathroom. See § 79-23.
+
+     § 79-22. Buyer income eligibility.
+     A.    Buyer income eligibility for restricted ownership units shall be in accordance with N.J.A.C.
+           5:80-26.1, as may be amended and supplemented, such that low-income ownership units
+           shall be reserved for households with a gross household income less than or equal to 50% of
+           median income and moderate-income ownership units shall be reserved for households with
+           a gross household income less than 80% of median income.
+     B.    The administrative agent shall certify a household as eligible for a restricted ownership unit
+           when the household is a low-income household or a moderate-income household, as
+           applicable to the unit, and the estimated monthly housing cost for the particular unit
+           (including principal, interest, taxes, homeowner and private mortgage insurance and
+           condominium or homeowner association fees, as applicable) does not exceed 33% of the
+           household's eligible monthly income.
+
+     § 79-23. Limitations on indebtedness secured by ownership unit; subordination.
+     A.    Prior to incurring any indebtedness to be secured by a restricted ownership unit, the owner
+           shall apply to the Township's administrative agent, or an administrative agent appointed by a
+           particular developer, for a determination in writing that the proposed indebtedness complies
+           with the provisions of this section, and the Township's administrative agent, or an
+           administrative agent appointed by a particular developer, shall issue such determination prior
+           to the owner incurring such indebtedness.
+     B.    With the exception of first purchase money mortgages, neither an owner nor a lender shall at
+           any time cause or permit the total indebtedness secured by a restricted ownership unit to
+           exceed 95% of the maximum allowable resale price of the unit, as such price is determined
+           by the Township's administrative agent, or an administrative agent appointed by a particular
+           developer, in accordance with N.J.A.C. 5:80-26.6(b).
+
+     § 79-24. Capital improvements to ownership units.
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 70 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-24                                                                                          § 79-26
+
+     A.    The owners of restricted ownership units may apply to the Township's administrative agent,
+           or an administrative agent appointed by a particular developer, to increase the maximum
+           sales price for the unit on the basis of capital improvements made since the purchase of the
+           unit. Eligible capital improvements shall be those that render the unit suitable for a larger
+           household or that add an additional bathroom. In no event shall the maximum sales price of
+           an improved housing unit exceed the limits of affordability for the larger household.
+     B.    Upon the resale of a restricted ownership unit, all items of property that are permanently
+           affixed to the unit or were included when the unit was initially restricted (for example,
+           refrigerator, range, washer, dryer, dishwasher, wall-to-wall carpeting) shall be included in
+           the maximum allowable resale price. Other items may be sold to the purchaser at a reasonable
+           price that has been approved by the Township's administrative agent, or an administrative
+           agent appointed by a particular developer, at the time of the signing of the agreement to
+           purchase. The purchase of central air conditioning installed subsequent to the initial sale of
+           the unit and not included in the base price may be made a condition of the unit resale
+           provided the price, which shall be subject to ten-year, straight-line depreciation, has been
+           approved, by the Township's administrative agent, or an administrative agent appointed by a
+           particular developer. Unless otherwise approved by the Township's administrative agent, or
+           an administrative agent appointed by a particular developer, the purchase of any property
+           other than central air conditioning shall not be made a condition of the unit resale. The owner
+           and the purchaser must personally certify at the time of closing that no unapproved transfer
+           of funds for the purpose of selling and receiving property has taken place at the time of or as
+           a condition of resale.
+
+     § 79-25. Control periods for restricted rental units.
+     A.    Control periods for restricted rental units shall be in accordance with N.J.A.C. 5:80-26.11, as
+           may be amended and supplemented, and each restricted rental unit shall remain subject to the
+           requirements of this article for a period of at least 30 years, until Willingboro takes action to
+           release the unit from such requirements. Prior to such action, a restricted rental unit must
+           remain subject to the requirements of N.J.A.C. 5:80-26.1, as may be amended and
+           supplemented.
+     B.    Deeds of all real property that include restricted rental units shall contain deed restriction
+           language. The deed restriction shall have priority over all mortgages on the property, and the
+           deed restriction shall be filed by the developer or seller with the records office of the County
+           of Burlington. A copy of the filed document shall be provided to the Township's
+           administrative agent within 30 days of the receipt of a certificate of occupancy.
+     C.    A restricted rental unit shall remain subject to the affordability controls of this article despite
+           the occurrence of any of the following events:
+           (1) Sublease or assignment of the lease of the unit;
+           (2) Sale or other voluntary transfer of the ownership of the unit; or
+           (3) The entry and enforcement of any judgment of foreclosure on the property containing
+               the unit.
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 71 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-26                                                                                         § 79-27
+
+     § 79-26. Rent restrictions for rental units; leases.
+     A.    A written lease shall be required for all restricted rental units and tenants shall be responsible
+           for security deposits and the full amount of the rent as stated on the lease. A copy of the
+           current lease for each restricted rental unit shall be provided to the Township's administrative
+           agent, or an administrative agent appointed by a particular developer.
+     B.    No additional fees or charges shall be added to the approved rent (except, in the case of units
+           in an assisted living residence, to cover the customary charges for food and services) without
+           the express written approval of the Township's administrative agent, or an administrative
+           agent appointed by a particular developer.
+     C.    Application fees (including the charge for any credit check) shall not exceed 5% of the
+           monthly rent of the applicable restricted unit and shall be payable to the developer and/or
+           landlord or to the Township's administrative agent, or an administrative agent appointed by a
+           particular developer. If the fees are paid to the Township's administrative agent or an
+           administrative agent appointed by a particular developer they are to be applied to the costs of
+           administering the controls applicable to the unit as set forth in this article.
+     D.    No rent control ordinance or other pricing restriction shall be applicable to either the market
+           units or the affordable units in any development in which at least 15% of the total number of
+           dwelling units are restricted rental units in compliance with this article.
+
+     § 79-27. Tenant income eligibility.
+     A.    Tenant income eligibility shall be in accordance with N.J.A.C. 5:80-26.13, as may be
+           amended and supplemented, and shall be determined as follows:
+           (1) Very-low-income rental units shall be reserved for households with a gross household
+               income less than or equal to 30% of the regional median household income by
+               household size.
+           (2) Low-income rental units shall be reserved for households with a gross household
+               income less than or equal to 50% of the regional median household income by
+               household size.
+           (3) Moderate-income rental units shall be reserved for households with a gross household
+               income less than 80% of the regional median household income by household size.
+     B.    The Township's administrative agent, or an administrative agent appointed by a particular
+           developer, shall certify a household as eligible for a restricted rental unit when the household
+           is a very-low-income household, low-income household or a moderate-income household, as
+           applicable to the unit, and the rent proposed for the unit does not exceed 35% (40% for age-
+           restricted units) of the household's eligible monthly income as determined pursuant to
+           N.J.A.C. 5:80-26.16, as may be amended and supplemented; provided, however, that this
+           limit may be exceeded if one or more of the following circumstances exists:
+           (1) The household currently pays more than 35% (40% for households eligible for age-
+               restricted units) of its gross household income for rent, and the proposed rent will reduce
+               its housing costs;
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 72 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-27                                                                                       § 79-28
+
+           (2) The household has consistently paid more than 35% (40% for households eligible for
+               age-restricted units) of eligible monthly income for rent in the past and has proven its
+               ability to pay;
+           (3) The household is currently in substandard or overcrowded living conditions;
+           (4) The household documents the existence of assets with which the household proposes to
+               supplement the rent payments; or
+           (5) The household documents reliable anticipated third-party assistance from an outside
+               source such as a family member in a form acceptable to the administrative agent and the
+               owner of the unit.
+     C.    The applicant shall file documentation sufficient to establish the existence of the
+           circumstances in Subsections A and B above with the Township's administrative agent, or an
+           administrative agent appointed by a particular developer, who shall counsel the household on
+           budgeting.
+
+     § 79-28. Municipal housing liaison.
+     A.    The position of Municipal Housing Liaison (MHL) for the Township of Willingboro is
+           established by this article. The Township shall make the actual appointment of the MHL by
+           means of a resolution.
+           (1) The MHL must be either a full-time or part-time employee of Willingboro.
+           (2) The person appointed as the MHL must be reported to the Court and thereafter posted
+               on the Township's website.
+           (3) The MHL must meet all the requirements for qualifications, including initial and
+               periodic training, if such training is made available by COAH or the DCA.
+           (4) The Municipal Housing Liaison shall be responsible for oversight and administration of
+               the affordable housing program for the Township of Willingboro, including the
+               following responsibilities which may not be contracted out to the administrative agent,
+               or the administrative agent appointed by a specific developer:
+                  (a) Serving as the municipality's primary point of contact for all inquiries from the
+                      state, affordable housing providers, administrative agents and interested
+                      households;
+                  (b) The implementation of the Affirmative Marketing Plan and affordability controls;
+                  (c) When applicable, supervising any contracting administrative agent;
+                  (d) Monitoring the status of all restricted units in the Township's Fair Share Plan;
+                  (e) Compiling, verifying and submitting annual reports as required;
+                  (f)    Coordinating meetings with affordable housing providers and administrative
+                         agents, as applicable; and
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 73 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-28                                                                                       § 79-29
+
+                  (g) Attending continuing education opportunities, on affordability controls,
+                      compliance monitoring and affirmative marketing as offered or approved by the
+                      Affordable Housing Professionals of New Jersey (AHPNJ), if such continuing
+                      education opportunities are made available by COAH or the DCA.
+     B.    Subject to the approval of the Court, the Township of Willingboro shall designate one or
+           more administrative agent(s) to administer and to affirmatively market the affordable units
+           constructed in the Township in accordance with UHAC and this article. An operating manual
+           for each affordable housing program shall be provided by the administrative agent(s) to be
+           adopted by resolution of the governing body and may be subject to approval of the Court
+           appointed Special Master or the Court. The operating manual(s) shall be available for public
+           inspection in the office of the Township Clerk, in the office of the Municipal Housing
+           Liaison, and in the office(s) of the administrative agent(s). The Municipal Housing Liaison
+           shall supervise the work of the administrative agent(s).
+
+     § 79-29. Administrative agent.
+     An administrative agent may be either an independent entity serving under contract to and
+     reporting to the Township, or reporting to a specific individual developer. The fees of the
+     administrative agent shall be paid by the owners of the affordable units for which the services of
+     the administrative agent are required. The Township administrative agent shall monitor and work
+     with any individual administrative agents appointed by individual developers. The administrative
+     agent(s) shall perform the duties and responsibilities of an administrative agent as set forth in
+     UHAC, including those set forth in Sections 5:80-26.14, 16 and 18 thereof, which includes:
+     A.    Affirmative marketing:
+           (1) Conducting an outreach process to affirmatively market affordable housing units in
+               accordance with the Affirmative Marketing Plan of the Township of Willingboro and
+               the provisions of N.J.A.C. 5:80-26.15; and
+           (2) Providing counseling or contracting to provide counseling services to low- and
+               moderate-income applicants on subjects such as budgeting, credit issues, mortgage
+               qualification, rental lease requirements, and landlord/tenant law.
+     B.    Household certification:
+           (1) Soliciting, scheduling, conducting and following up on interviews with interested
+               households;
+           (2) Conducting interviews and obtaining sufficient documentation of gross income and
+               assets upon which to base a determination of income eligibility for a low- or moderate-
+               income unit;
+           (3) Providing written notification to each applicant as to the determination of eligibility or
+               noneligibility;
+           (4) Requiring that all certified applicants for restricted units execute a certificate
+               substantially in the form, as applicable, of either the ownership or rental certificates set
+               forth in Appendices J and K of N.J.A.C. 5:80-26.1 et seq.;
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 74 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-29                                                                                     § 79-29
+
+           (5) Creating and maintaining a referral list of eligible applicant households living in the
+               housing region and eligible applicant households with members working in the housing
+               region where the units are located;
+           (6) Employing a random selection process as provided in the Affirmative Marketing Plan
+               of the Township of Willingboro when referring households for certification to
+               affordable units; and
+           (7) Notifying the following entities of the availability of affordable housing units in the
+               Township of Willingboro: Fair Share Housing Center, the New Jersey State Conference
+               of the NAACP, the Latino Action Network, Burlington County and Salem County
+               Branches of NAACP, Senior Citizens United Community Services (S.C.U.C.S.), and
+               the Supportive Housing Association.
+     C.    Affordability controls:
+           (1) Furnishing to attorneys or closing agents forms of deed restrictions and mortgages for
+               recording at the time of conveyance of title of each restricted unit;
+           (2) Creating and maintaining a file on each restricted unit for its control period, including
+               the recorded deed with restrictions, recorded mortgage and note, as appropriate;
+           (3) Ensuring that the removal of the deed restrictions and cancellation of the mortgage note
+               are effectuated and properly filed with the Burlington County Register of Deeds or
+               Burlington County Clerk's office after the termination of the affordability controls for
+               each restricted unit;
+           (4) Communicating with lenders regarding foreclosures; and
+           (5) Ensuring the issuance of continuing certificates of occupancy or certifications pursuant
+               to N.J.A.C. 5:80-26.10.
+     D.    Resales and re-rentals:
+           (1) Instituting and maintaining an effective means of communicating information between
+               owners and the Township's administrative agent, or any administrative agent appointed
+               by a specific developer, regarding the availability of restricted units for resale or re-
+               rental; and
+           (2) Instituting and maintaining an effective means of communicating information to low-
+               (or very-low-) and moderate-income households regarding the availability of restricted
+               units for resale or re-rental.
+     E.    Processing requests from unit owners:
+           (1) Reviewing and approving requests for determination from owners of restricted units
+               who wish to take out home equity loans or refinance during the term of their ownership
+               that the amount of indebtedness to be incurred will not violate the terms of this article;
+           (2) Reviewing and approving requests to increase sales prices from owners of restricted
+               units who wish to make capital improvements to the units that would affect the selling
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 75 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-29                                                                                     § 79-30
+
+                  price, such authorizations to be limited to those improvements resulting in additional
+                  bedrooms or bathrooms and the depreciated cost of central air conditioning systems;
+           (3) Notifying the municipality of an owner's intent to sell a restricted unit; and
+           (4) Making determinations on requests by owners of restricted units for hardship waivers.
+     F.    Enforcement:
+           (1) Securing annually from the municipality a list of all affordable housing units for which
+               tax bills are mailed to absentee owners, and notifying all such owners that they must
+               either move back to their unit or sell it;
+           (2) Securing from all developers and sponsors of restricted units, at the earliest point of
+               contact in the processing of the project or development, written acknowledgement of
+               the requirement that no restricted unit can be offered, or in any other way committed, to
+               any person, other than a household duly certified to the unit by the Township's
+               administrative agent, or any administrative agent appointed by a specific developer;
+           (3) Posting annually, in all rental properties (including two-family homes), a notice as to
+               the maximum permitted rent together with the telephone number of the Township's
+               administrative agent, or any administrative agent appointed by a specific developer,
+               where complaints of excess rent or other charges can be made;
+           (4) Sending annual mailings to all owners of affordable dwelling units, reminding them of
+               the notices and requirements outlined in N.J.A.C. 5:80-26.18(d)4;
+           (5) Establishing a program for diverting unlawful rent payments to the Township's
+               Affordable Housing Trust Fund; and
+           (6) Creating and publishing a written operating manual for each affordable housing
+               program administered by the Township's administrative agent, or any administrative
+               agent appointed by a specific developer, to be approved by the Township Council and
+               the Court, setting forth procedures for administering the affordability controls.
+     G.    Additional responsibilities:
+           (1) The Township's administrative agent shall have the authority to take all actions
+               necessary and appropriate to carry out its responsibilities hereunder.
+           (2) The Township's administrative agent shall prepare monitoring reports for submission to
+               the Municipal Housing Liaison in time to meet the Court-approved monitoring and
+               reporting requirements in accordance with the deadlines set forth in this article. The
+               Township's administrative agent will be responsible for collecting monitoring
+               information from any administrative agents appointed by specific developers.
+           (3) The Township's administrative agent, or any administrative agent appointed by a
+               specific developer, shall attend continuing education sessions on affordability controls,
+               compliance monitoring, and affirmative marketing at least annually and more often as
+               needed.
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 76 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-30                                                                                       § 79-31
+
+     § 79-30. Affirmative marketing requirements.
+     A.    The Township of Willingboro shall adopt by resolution an Affirmative Marketing Plan that
+           is compliant with N.J.A.C. 5:80-26.15, as may be amended and supplemented.
+     B.    The Affirmative Marketing Plan is a regional marketing strategy designed to attract buyers
+           and/or renters of all majority and minority groups, regardless of race, creed, color, national
+           origin, ancestry, marital or familial status, gender, affectional or sexual orientation,
+           disability, age or number of children to housing units which are being marketed by a
+           developer, sponsor or owner of affordable housing. The Affirmative Marketing Plan is
+           intended to target those potentially eligible persons who are least likely to apply for
+           affordable units in that region. It is a continuing program that directs marketing activities
+           toward Housing Region 5 and is required to be followed throughout the period of restriction.
+     C.    The Affirmative Marketing Plan shall provide a regional preference for all households that
+           live and/or work in Housing Region 5, comprised of Burlington, Camden, and Burlington
+           Counties.
+     D.    The Township has the ultimate responsibility for adopting the Affirmative Marketing Plan
+           and for the proper administration of the Affirmative Marketing Program, including initial
+           sales and rentals and re-sales and re-rentals. The Township's administrative agent designated
+           by the Township of Willingboro, or any administrative agent appointed by a specific
+           developer, shall implement the Affirmative Marketing Plan to assure the affirmative
+           marketing of all affordable units.
+     E.    In implementing the Affirmative Marketing Plan, the Township's administrative agent, or
+           any administrative agent appointed by a specific developer, shall provide a list of counseling
+           services to low- and moderate-income applicants on subjects such as budgeting, credit issues,
+           mortgage qualification, rental lease requirements, and landlord/tenant law.
+     F.    The Affirmative Marketing Plan shall describe the media to be used in advertising and
+           publicizing the availability of housing. In implementing the Affirmative Marketing Plan, the
+           Township's administrative agent, or any administrative agent appointed by a specific
+           developer, shall consider the use of language translations where appropriate.
+     G.    The affirmative marketing process for available affordable units shall begin at least four
+           months (120 days) prior to the expected date of occupancy.
+     H.    Applications for affordable housing shall be available in several locations, including, at a
+           minimum, the County Administration Building and/or the County Library for each county
+           within the housing region; the municipal administration building and the municipal library in
+           the municipality in which the units are located; and the developer's rental office. Applications
+           shall be mailed to prospective applicants upon request.
+     I.    The costs of advertising and affirmative marketing of the affordable units shall be the
+           responsibility of the developer, sponsor or owner.
+
+     § 79-31. Enforcement of affordable housing regulations.
+     A.    Upon the occurrence of a breach of any of the regulations governing an affordable unit by an
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 77 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-31                                                                                         § 79-31
+
+           owner, developer or tenant, the municipality shall have all remedies provided at law or
+           equity, including but not limited to foreclosure, tenant eviction, a requirement for household
+           recertification, acceleration of all sums due under a mortgage, recoupment of any funds from
+           a sale in violation of the regulations, injunctive relief to prevent further violation of the
+           regulations, entry on the premises, and specific performance.
+     B.    After providing written notice of a violation to an owner, developer or tenant of a low- or
+           moderate-income unit and advising the owner, developer or tenant of the penalties for such
+           violations, the municipality may take the following action(s) against the owner, developer or
+           tenant for any violation that remains uncured for a period of 60 days after service of the
+           written notice:
+           (1) The municipality may file a court action pursuant to N.J.S.A. 2A:58-11 alleging a
+               violation or violations of the regulations governing the affordable housing unit. If the
+               owner, developer or tenant is adjudged by the Court to have violated any provision of
+               the regulations governing affordable housing units the owner, developer or tenant shall
+               be subject to one or more of the following penalties, at the discretion of the Court:
+                  (a) A fine of not more than $2,000 per day or imprisonment for a period not to exceed
+                      90 days, or both, provided that each and every day that the violation continues or
+                      exists shall be considered a separate and specific violation of these provisions and
+                      not a continuation of the initial offense;
+                  (b) In the case of an owner who has rented a low- or moderate-income unit in violation
+                      of the regulations governing affordable housing units, payment into the Township
+                      of Willingboro Affordable Housing Trust Fund of the gross amount of rent illegally
+                      collected;
+                  (c) In the case of an owner who has rented a low- or moderate-income unit in violation
+                      of the regulations governing affordable housing units, payment of an innocent
+                      tenant's reasonable relocation costs, as determined by the Court.
+           (2) The municipality may file a court action in the Superior Court seeking a judgment that
+               would result in the termination of the owner's equity or other interest in the unit, in the
+               nature of a mortgage foreclosure. Any such judgment shall be enforceable as if the same
+               were a judgment of default of the first purchase money mortgage and shall constitute a
+               lien against the low- or moderate-income unit.
+                  (a) The judgment shall be enforceable, at the option of the municipality, by means of
+                      an execution sale by the Sheriff, at which time the low- and moderate-income unit
+                      of the violating owner shall be sold at a sale price which is not less than the amount
+                      necessary to fully satisfy and pay off any first purchase money mortgage and prior
+                      liens and the costs of the enforcement proceedings incurred by the municipality,
+                      including attorney's fees. The violating owner shall have his right to possession
+                      terminated as well as his title conveyed pursuant to the Sheriff's sale.
+                  (b) The proceeds of the Sheriff's sale shall first be applied to satisfy the first purchase
+                      money mortgage lien and any prior liens upon the low- and moderate-income unit.
+                      The excess, if any, shall be applied to reimburse the municipality for any and all
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 78 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-31                                                                                          § 79-32
+
+                         costs and expenses incurred in connection with either the court action resulting
+                         in the judgment of violation or the Sheriff's sale. In the event that the proceeds
+                         from the Sheriff's sale are insufficient to reimburse the municipality in full as
+                         aforesaid, the violating owner shall be personally responsible for the full extent
+                         of such deficiency, in addition to any and all costs incurred by the municipality
+                         in connection with collecting such deficiency. In the event that a surplus remains
+                         after satisfying all of the above, such surplus, if any, shall be placed in escrow by
+                         the municipality for the owner and shall be held in such escrow for a maximum
+                         period of two years or until such earlier time as the owner shall make a claim with
+                         the municipality for such. Failure of the owner to claim such balance within the
+                         two-year period shall automatically result in a forfeiture of such balance to the
+                         municipality. Any interest accrued or earned on such balance while being held in
+                         escrow shall belong to and shall be paid to the municipality, whether such balance
+                         shall be paid to the owner or forfeited to the municipality.
+                  (c) Foreclosure by the municipality due to violation of the regulations governing
+                      affordable housing units shall not extinguish the restrictions of the regulations
+                      governing affordable housing units as the same apply to the low- and moderate-
+                      income unit. Title shall be conveyed to the purchaser at the Sheriff's sale, subject
+                      to the restrictions and provisions of the regulations governing the affordable
+                      housing unit. The owner determined to be in violation of the provisions of this plan
+                      and from whom title and possession were taken by means of the Sheriff's sale shall
+                      not be entitled to any right of redemption.
+                  (d) If there are no bidders at the Sheriff's sale, or if insufficient amounts are bid to
+                      satisfy the first purchase money mortgage and any prior liens, the municipality may
+                      acquire title to the low- and moderate-income unit by satisfying the first purchase
+                      money mortgage and any prior liens and crediting the violating owner with an
+                      amount equal to the difference between the first purchase money mortgage and any
+                      prior liens and costs of the enforcement proceedings, including legal fees and the
+                      maximum resale price for which the low- and moderate-income unit could have
+                      been sold under the terms of the regulations governing affordable housing units.
+                      This excess shall be treated in the same manner as the excess which would have
+                      been realized from an actual sale as previously described.
+                  (e) Failure of the low- and moderate-income unit to be either sold at the Sheriff's sale
+                      or acquired by the municipality shall obligate the owner to accept an offer to
+                      purchase from any qualified purchaser which may be referred to the owner by the
+                      municipality, with such offer to purchase being equal to the maximum resale price
+                      of the low- and moderate-income unit as permitted by the regulations governing
+                      affordable housing units.
+                  (f)    The owner shall remain fully obligated, responsible and liable for complying with
+                         the terms and restrictions of governing affordable housing units until such time as
+                         title is conveyed from the owner.
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 79 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-32                                                                                  § 79-32
+
+     § 79-32. Appeals.
+     Appeals from all decisions of an administrative agent appointed pursuant to this article shall be
+     filed in writing with the Court.
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+  BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 80 of 98 Trans ID: LCV20251726745
+
+
+
+
+Appendix E: Development Fee Ordinance
+           BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 81 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-1                                                                                                                     § 79-3
+
+                                                        ARTICLE I
+                                            Affordable Housing Development Fees
+                                           [Adopted 7-3-2018 by Ord. No. 2018-71]
+
+     § 79-1. Findings; purpose.
+     A.     In Holmdel Builder's Association v. Holmdel Township, 121 N.J. 550 (1990), the New Jersey
+            Supreme Court determined that mandatory development fees are authorized by the Fair
+            Housing Act of 1985, N.J.S.A. 52:27d-301 et seq., and the State Constitution, subject to the
+            adoption of Rules by the Council on Affordable Housing (COAH).
+     B.     Pursuant to P.L. 2008, c. 46, Section 8 (N.J.S.A. 52:27D-329.2) and the Statewide
+            Nonresidential Development Fee Act (N.J.S.A. 40:55D-8.1 through 8.7), COAH was
+            authorized to adopt and promulgate regulations necessary for the establishment,
+            implementation, review, monitoring and enforcement of municipal affordable housing trust
+            funds and corresponding spending plans. Municipalities that were under the jurisdiction of
+            COAH, and that are now before a court of competent jurisdiction and have a Court-approved
+            spending plan, may retain fees collected from nonresidential development.
+     C.     This article establishes standards for the collection, maintenance, and expenditure of
+            development fees that are consistent with COAH's regulations developed in response to P.L.
+            2008, c. 46, Sections 8 and 32-38 (N.J.S.A. 52:27D-329.2) and the Statewide Nonresidential
+            Development Fee Act (N.J.S.A. 40:55D-8.1 through 8.7). Fees collected pursuant to this
+            article shall be used for the sole purpose of providing low- and moderate-income housing in
+            accordance with a Court-approved spending plan.
+
+     § 79-2. Basic requirements.
+     A.     This article shall not be effective until approved by the Court.
+     B.     The Township of Willingboro shall not spend development fees until the Court has approved
+            a plan for spending such fees (spending plan).
+
+     § 79-3. Definitions.
+     The following terms, as used in this article, shall have the following meanings:
+     AFFORDABLE HOUSING DEVELOPMENT — A development included in the Housing
+     Element and Fair Share Plan, and includes, but is not limited to, an inclusionary development, a
+     municipal construction project or a 100% affordable housing development.
+     COAH or THE COUNCIL — The New Jersey Council on Affordable Housing established under
+     the Fair Housing Act.
+     DEVELOPER — The legal or beneficial owner or owners of a lot or of any land proposed to be
+     included in a proposed development, including the holder of an option or contract to purchase, or
+     other person having an enforceable proprietary interest in such land.
+     DEVELOPMENT FEE — Money paid by a developer for the improvement of property as
+
+     1.   Editor’s Note: This ordinance also repealed former Art. I, Development Fees, adopted 12-23-2008 by Ord. No. 2008-9.
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 82 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-3                                                                                         § 79-4
+
+     permitted by applicable COAH regulations.
+     EQUALIZED ASSESSED VALUE — The assessed value of a property divided by the current
+     average ratio of assessed to true value for the municipality in which the property is situated,
+     as determined in accordance with Sections 1, 5, and 6 of P.L. 1973, c. 123 (N.J.S.A. 54:1-35a
+     through 54:1-35c).
+     GREEN BUILDING STRATEGIES — Those strategies that minimize the impact of development
+     on the environment, and enhance the health, safety and well-being of residents by producing
+     durable, low-maintenance, resource-efficient housing while making optimum use of existing
+     infrastructure and community services.
+
+     § 79-4. Residential development fees.
+     A.    Imposition of fees.
+           (1) Within the Township of Willingboro, all residential developers, except for developers
+               of the types of developments specifically exempted below and developers of
+               developments that include affordable housing, shall pay a fee of 1.5% of the equalized
+               assessed value for all new residential development provided no increased density is
+               permitted. Development fees shall also be imposed and collected when an additional
+               dwelling unit is added to an existing residential structure; in such cases, the fee shall be
+               calculated based on the increase in the equalized assessed value of the property due to
+               the additional dwelling unit.
+           (2) When an increase in residential density is permitted pursuant to a d variance granted
+               under N.J.S.A. 40:55D-70d(5), developers shall be required to pay a bonus development
+               fee of 6% of the equalized assessed value for each additional unit that may be realized,
+               except that this provision shall not be applicable to a development that will include
+               affordable housing. If the zoning on a site has changed during the two-year period
+               preceding the filing of such a variance application, the base density for the purposes of
+               calculating the bonus development fee shall be the highest density permitted by right
+               during the two-year period preceding the filing of the variance application.
+     B.    Eligible exactions, ineligible exactions and exemptions for residential developments.
+           (1) Affordable housing developments, developments where the developer is providing for
+               the construction of affordable units elsewhere in the municipality, and/or developments
+               where the developer has made a payment in lieu of on-site construction of affordable
+               units, if permitted by ordinance or by agreement with the Township of Willingboro,
+               shall be exempt from the payment of development fees.
+           (2) Developments that have received preliminary or final site plan approval prior to the
+               adoption of Willingbor's first adopted development fee ordinance shall be exempt from
+               the payment of development fees, unless the developer seeks a substantial change in the
+               original approval. Where site plan approval is not applicable, the issuance of a zoning
+               and/or building permit shall be synonymous with preliminary or final site plan approval
+               for the purpose of determining the right to an exemption. In all cases, the applicable fee
+               percentage shall be determined based upon the development fee ordinance in effect on
+               the date that the building permit is issued.
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 83 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-4                                                                                         § 79-5
+
+           (3) Development fees shall be imposed and collected when an existing structure undergoes
+               a change to a more intense use, is demolished and replaced, or is expanded, if the
+               expansion is not otherwise exempt from the development fee requirement. The
+               development fee shall be calculated on the increase in the equalized assessed value of
+               the improved structure.
+           (4) Nonprofit organizations which have received tax-exempt status pursuant to Section
+               501(c)(3) of the Internal Revenue Code, providing current evidence of that status is
+               submitted to the Municipal Clerk, together with a certification that services of the
+               organization are provided at reduced rates to those who establish an inability to pay
+               existing charges, shall be exempted from paying a development fee.
+           (5) Federal, state, county and local governments shall be exempted from paying a
+               development fee.
+           (6) Homes demolished and replaced as a result of a natural disaster (such as a fire or flood)
+               shall be exempt from the payment of a development fee.
+
+     § 79-5. Nonresidential development fees.
+     A.    Imposition of fees.
+           (1) Within all zoning districts, nonresidential developers, except for developers of the types
+               of developments specifically exempted below, shall pay a fee equal to 2.5% of the
+               equalized assessed value of the land and improvements, for all new nonresidential
+               construction on an unimproved lot or lots.
+           (2) Within all zoning districts, nonresidential developers, except for developers of the types
+               of developments specifically exempted below, shall also pay a fee equal to 2.5% of the
+               increase in equalized assessed value resulting from any additions to existing structures
+               to be used for nonresidential purposes.
+           (3) Development fees shall be imposed and collected when an existing structure is
+               demolished and replaced. The development fee of 2.5% shall be calculated on the
+               difference between the equalized assessed value of the pre-existing land and
+               improvements and the equalized assessed value of the newly improved structure, i.e.,
+               land and improvements, and such calculation shall be made at the time a final certificate
+               of occupancy is issued. If the calculation required under this section results in a negative
+               number, the nonresidential development fee shall be zero.
+     B.    Eligible exactions, ineligible exactions and exemptions for nonresidential development.
+           (1) The nonresidential portion of a mixed-use inclusionary or market rate development shall
+               be subject to a 2.5% development fee, unless otherwise exempted below.
+           (2) The 2.5% development fee shall not apply to an increase in equalized assessed value
+               resulting from alterations, change in use within the existing footprint, reconstruction,
+               renovations and repairs.
+           (3) Nonresidential developments shall be exempt from the payment of nonresidential
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 84 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-5                                                                                         § 79-6
+
+                  development fees in accordance with the exemptions required pursuant to the Statewide
+                  Nonresidential Development Fee Act (N.J.S.A. 40:55D-8.1 through 8.7), as specified
+                  in Form N-RDF, "State of New Jersey Nonresidential Development Certification/
+                  Exemption." Any exemption claimed by a developer shall be substantiated by that
+                  developer.
+           (4) A developer of a nonresidential development exempted from the nonresidential
+               development fee pursuant to the Statewide Nonresidential Development Fee Act shall
+               be subject to the fee at such time as the basis for the exemption no longer applies, and
+               shall make the payment of the nonresidential development fee, in that event, within
+               three years after that event or after the issuance of the final certificate of occupancy for
+               the nonresidential development, whichever is later.
+           (5) If a property which was exempted from the collection of a nonresidential development
+               fee thereafter ceases to be exempt from property taxation, the owner of the property
+               shall remit the fees required pursuant to this section within 45 days of the termination
+               of the property tax exemption. Unpaid nonresidential development fees under these
+               circumstances may be enforceable by the Township of Willingboro as a lien against the
+               real property of the owner.
+
+     § 79-6. Collection procedures.
+     A.    Upon the granting of a preliminary, final or other applicable approval for a development, the
+           applicable approving authority or entity shall direct its staff to notify the Township
+           Construction Official responsible for the issuance of a building permit.
+     B.    For nonresidential developments only, the developer shall also be provided with a copy of
+           Form N-RDF, "State of New Jersey Nonresidential Development Certification/Exemption,"
+           to be completed as per the instructions provided. The developer of a nonresidential
+           development shall complete Form N-RDF as per the instructions provided. The Construction
+           Official shall verify the information submitted by the nonresidential developer as per the
+           instructions provided in the Form N-RDF. The Tax Assessor shall verify exemptions and
+           prepare estimated and final assessments as per the instructions provided in Form N-RDF.
+     C.    The Construction Official responsible for the issuance of a building permit shall notify the
+           local Tax Assessor of the issuance of the first building permit for a development which is
+           subject to a development fee.
+     D.    Within 90 days of receipt of such notification, the Township Tax Assessor, based on the
+           plans filed, shall provide an estimate of the equalized assessed value of the development.
+     E.    The Construction Official responsible for the issuance of a final certificate of occupancy shall
+           notify the Township Tax Assessor of any and all requests for the scheduling of a final
+           inspection on a property which is subject to a development fee.
+     F.    Within 10 business days of a request for the scheduling of a final inspection, the Township
+           Tax Assessor shall confirm or modify the previously estimated equalized assessed value of
+           the improvements associated with the development; calculate the development fee; and
+           thereafter notify the developer of the amount of the fee.
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 85 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-6                                                                                        § 79-7
+
+     G.    Should the Township of Willingboro fail to determine or notify the developer of the amount
+           of the development fee within 10 business days of the request for final inspection, the
+           developer may estimate the amount due and pay that estimated amount consistent with the
+           dispute process set forth in Subsection b. of Section 37 of P.L. 2008, c. 46 (N.J.S.A.
+           40:55D-8.6).
+     H.    50% of the initially calculated development fee shall be collected at the time of issuance of
+           the building permit. The remaining portion shall be collected at the time of issuance of the
+           certificate of occupancy. The developer shall be responsible for paying the difference
+           between the fee calculated at the time of issuance of the building permit and that determined
+           at the time of issuance of the certificate of occupancy.
+     I.    Appeal of development fees.
+           (1) A developer may challenge residential development fees imposed by filing a challenge
+               with the County Board of Taxation. Such a challenge must be made within 45 days from
+               the issuance of the certificate of occupancy. Pending a review and determination by the
+               Board, collected fees shall be placed in an interests-bearing escrow account by the
+               Township of Willingboro. Appeals from a determination of the Board may be made to
+               the tax court in accordance with the provisions of the State Tax Uniform Procedure Law,
+               R.S. 54:48-1, et seq., within 90 days after the date of such determination. Interest earned
+               on amounts escrowed shall be credited to the prevailing party.
+           (2) A developer may challenge nonresidential development fees imposed by filing a
+               challenge with the Director of the Division of Taxation. Pending a review and
+               determination by the Director, which shall be made within 45 days of receipt of the
+               challenge, collected fees shall be placed in an interest bearing escrow account by the
+               Township of Willingboro. Appeals from a determination of the Director may be made
+               to the tax court in accordance with the provisions of the State Tax Uniform Procedure
+               Law, N.J.S.A. 54:48-1 et seq., within 90 days after the date of such determination.
+               Interest earned on amounts escrowed shall be credited to the prevailing party.
+
+     § 79-7. Affordable Housing Trust Fund.
+     A.    There is hereby created a separate, interest-bearing Affordable Housing Trust Fund to be
+           maintained by the Chief Financial Officer of the Township of Willingboro for the purpose of
+           depositing development fees collected from residential and nonresidential developers and
+           proceeds from the sale of units with extinguished controls.
+     B.    The following additional funds shall be deposited in the Affordable Housing Trust Fund and
+           shall at all times be identifiable by source and amount:
+           (1) Payments in lieu of on-site construction of affordable units or of a fraction of an
+               affordable unit, where permitted by ordinance or by agreement with the Township of
+               Willingboro;
+           (2) Funds contributed by developers to make 10% of the adaptable entrances in a
+               townhouse or other multistory attached dwelling unit development accessible;
+           (3) Rental income from municipally operated units;
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 86 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-7                                                                                       § 79-8
+
+           (4) Repayments from affordable housing program loans;
+           (5) Recapture funds;
+           (6) Proceeds from the sale of affordable units; and
+           (7) Any other funds collected in connection with Willingboro's affordable housing
+               program.
+     C.    In the event of a failure by the Township of Willingboro to comply with trust fund monitoring
+           and reporting requirements or to submit accurate monitoring reports; or a failure to comply
+           with the conditions of the judgment of compliance or a revocation of the judgment of
+           compliance; or a failure to implement the approved spending plan and to expend funds within
+           the applicable required time period as set forth in In re Tp. of Monroe, 442 N.J. Super. 565
+           (Law Div. 2015) (aff'd 442 N.J. Super. 563); or the expenditure of funds on activities not
+           approved by the Court; or for other good cause demonstrating the unapproved use(s) of
+           funds, the Court may authorize the State of New Jersey, Department of Community Affairs,
+           Division of Local Government Services (LGS), to direct the manner in which the funds in
+           the Affordable Housing Trust Fund shall be expended, provided that all such funds shall, to
+           the extent practicable, be utilized for affordable housing programs within the Township of
+           Willingboro, or, if not practicable, then within the County or the Housing Region. Any party
+           may bring a motion before the Superior Court presenting evidence of such condition(s), and
+           the Court may, after considering the evidence and providing the municipality a reasonable
+           opportunity to respond and/or to remedy the noncompliant condition(s), and upon a finding
+           of continuing and deliberate noncompliance, determine to authorize LGS to direct the
+           expenditure of funds in the Trust Fund. The Court may also impose such other remedies as
+           may be reasonable and appropriate to the circumstances.
+     D.    Interest accrued in the Affordable Housing Trust Fund shall only be used to fund eligible
+           affordable housing activities approved by the Court.
+
+     § 79-8. Use of funds.
+     A.    The expenditure of all funds shall conform to a spending plan approved by the Court. Funds
+           deposited in the Affordable Housing Trust Fund may be used for any activity approved by
+           the Court to address the Township of Willingboro's fair share obligation and may be set up
+           as a grant or revolving loan program. Such activities include, but are not limited to:
+           preservation or purchase of housing for the purpose of maintaining or implementing
+           affordability controls; housing rehabilitation; new construction of affordable housing units
+           and related costs; accessory apartments; a market to affordable program; Regional Housing
+           Partnership programs; conversion of existing nonresidential buildings to create new
+           affordable units; green building strategies designed to be cost saving and in accordance with
+           accepted national or state standards; purchase of land for affordable housing; improvement
+           of land to be used for affordable housing; extensions or improvements of roads and
+           infrastructure to affordable housing sites; financial assistance designed to increase
+           affordability; administration necessary for implementation of the Housing Element and Fair
+           Share Plan; and/or any other activity permitted by the Court and specified in the approved
+           spending plan.
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 87 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-8                                                                                       § 79-9
+
+     B.    Funds shall not be expended to reimburse the Township of Willingboro for past housing
+           activities.
+     C.    At least 30% of all development fees collected and interest earned on such fees shall be used
+           to provide affordability assistance to low- and moderate-income households in affordable
+           units included in the municipal Fair Share Plan. One-third of the affordability assistance
+           portion of development fees collected shall be used to provide affordability assistance to
+           those households earning 30% or less of the median income for Housing Region 2, in which
+           Willingboro is located.
+           (1) Affordability assistance programs may include down payment assistance, security
+               deposit assistance, low-interest loans, rental assistance, assistance with homeowners
+               association or condominium fees and special assessments, and assistance with
+               emergency repairs. The specific programs to be used for affordability assistance shall
+               be identified and described within the spending plan.
+           (2) Affordability assistance to households earning 30% or less of median income may
+               include buying down the cost of low- or moderate-income units in the municipal Fair
+               Share Plan to make them affordable to households earning 30% or less of median
+               income. The specific programs to be used for very-low-income affordability assistance
+               shall be identified and described within the spending plan.
+           (3) Payments in lieu of constructing affordable housing units on site, if permitted by
+               ordinance or by agreement with the Township of Willingboro, and funds from the sale
+               of units with extinguished controls shall be exempt from the affordability assistance
+               requirement.
+     D.    The Township of Willingboro may contract with a private or public entity to administer any
+           part of its Housing Element and Fair Share Plan, including its programs for affordability
+           assistance.
+     E.    No more than 20% of all revenues collected from development fees may be expended on
+           administration, including, but not limited to, salaries and benefits for municipal employees
+           or consultants' fees necessary to develop or implement a new construction program, prepare
+           a Housing Element and Fair Share Plan, and/or administer an affirmative marketing program
+           or a rehabilitation program.
+           (1) In the case of a rehabilitation program, the administrative costs of the rehabilitation
+               program shall be included as part of the 20% of collected development fees that may be
+               expended on administration.
+           (2) Administrative funds may be used for income qualification of households, monitoring
+               the turnover of sale and rental units, and compliance with COAH's monitoring
+               requirements. Legal or other fees related to litigation opposing affordable housing sites
+               or related to securing or appealing a judgment from the Court are not eligible uses of the
+               Affordable Housing Trust Fund.
+
+     § 79-9. Monitoring.
+     The Township of Willingboro shall provide annual reporting of Affordable Housing Trust Fund
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+          BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 88 of 98 Trans ID: LCV20251726745
+
+Township of Willingboro, NJ
+
+     § 79-9                                                                                      § 79-10
+
+     activity to the State of New Jersey, Department of Community Affairs, Council on Affordable
+     Housing or Local Government Services or other entity designated by the State of New Jersey,
+     with a copy provided to Fair Share Housing Center and posted on the municipal website,
+     using forms developed for this purpose by the New Jersey Department of Community Affairs,
+     Council on Affordable Housing or Local Government Services. The reporting shall include an
+     accounting of all Affordable Housing Trust Fund activity, including the sources and amounts
+     of funds collected and the amounts and purposes for which any funds have been expended.
+     Such reporting shall include an accounting of development fees collected from residential and
+     nonresidential developers, payments in lieu of constructing affordable units on site (if permitted
+     by ordinance or by agreement with the Township), funds from the sale of units with extinguished
+     controls, barrier-free escrow funds, rental income from Township-owned affordable housing
+     units, repayments from affordable housing program loans, and any other funds collected in
+     connection with Willingboro's affordable housing programs, as well as an accounting of the
+     expenditures of revenues and implementation of the spending plan approved by the Court.
+
+     § 79-10. Ongoing collection of fees.
+     A.    The ability for the Township of Willingboro to impose, collect and expend development fees
+           shall expire with the expiration of the repose period covered by its Judgment of Compliance
+           unless the Township of Willingboro has first filed an adopted Housing Element and Fair
+           Share Plan with the Court or with a designated state administrative agency, has petitioned for
+           a judgment of compliance from the Court or for substantive certification or its equivalent
+           from a state administrative agency authorized to approve and administer municipal
+           affordable housing compliance and has received approval of its development fee ordinance
+           from the entity that will be reviewing and approving the Housing Element and Fair Share
+           Plan.
+     B.    If the Township of Willingboro fails to renew its ability to impose and collect development
+           fees prior to the expiration of its judgment of compliance, it may be subject to forfeiture of
+           any or all funds remaining within its Affordable Housing Trust Fund. Any funds so forfeited
+           shall be deposited into the "New Jersey Affordable Housing Trust Fund" established pursuant
+           to Section 20 of P.L. 1985, c. 222 (N.J.S.A. 52:27D-320).
+     C.    The Township of Willingboro shall not impose a residential development fee on a
+           development that receives preliminary or final site plan approval after the expiration of its
+           judgment of compliance, nor shall the Township of Willingboro retroactively impose a
+           development fee on such a development. The Township of Willingboro also shall not expend
+           any of its collected development fees after the expiration of its judgment of compliance.
+
+
+
+
+Downloaded from https://ecode360.com/WI3070 on 2025-05-01
+  BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 89 of 98 Trans ID: LCV20251726745
+
+
+
+
+Appendix F: Copy of Resolution appointing Administrative Agent
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 90 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 91 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 92 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 93 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 94 of 98 Trans ID: LCV20251726745
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 95 of 98 Trans ID: LCV20251726745
+  BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 96 of 98 Trans ID: LCV20251726745
+
+
+
+
+Appendix G: Affirmative Marketing Plan
+BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 97 of 98 Trans ID: LCV20251726745
+
+
+
+
+     Affordability Assistance Policies and
+             Procedures Manual
+                       In Accordance wth the
+               Uniform Housing Affordability Coonrols
+                              and the
+                     New Jersey Fair Housing Act
+
+
+
+                          February 2018
+                       Township of Willingboro
+                          Municipal Complex
+                             One Salem Road
+                         Willingboro, NJ 08046
+                             609.654.2608
+
+
+
+                                Prepared by:
+     BUR-L-000190-25 06/11/2025 10:19:28 AM Pg 98 of 98 Trans ID: LCV20251726745
+
+
+
+
+Table of Contents
+Introduction .................................................................................................................................... 2
+
+I. Types of Affordability Assistance ................................................................................................. 2
+
+II. Program Administration ............................................................................................................. 4
+
+   Emergency and Health/Safety Repairs Program Procedures ..................................................... 4
+
+   Creation of Additional Very Low Income Units Program Procedure .......................................... 9
+
+   Security Deposit Assistance Procedures…………………………………………………………………………..…..10
+
+   Downpayment Assistance Procedures.…………………………………………………………………………………..……11
+
+III. EXHIBITS:
+
+    EXHIBIT 1: Summary of Willingboro Township Affordability Assistance Program Terms
+
+    EXHIBIT 2: Affordability Assistance Application
+
+    EXHIBIT 3: Downpayment Assistance Program Documents
+
+    EXHIBIT 4: Security Deposit Assistance Program Documents
+
+    EXHIBIT 5: Emergency Repair Assistance Program Documents
+
+
+
+
+                                                                        1
+

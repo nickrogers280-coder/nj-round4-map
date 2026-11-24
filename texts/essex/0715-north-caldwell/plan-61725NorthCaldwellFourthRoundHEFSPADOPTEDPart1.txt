@@ -1,0 +1,2888 @@
+ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 1 of 80 Trans ID: LCV20251781724
+
+
+
+
+Housing Element
+& Fair Share Plan
+             Borough of North Caldwell
+             Essex County, New Jersey
+                             June 5, 2025
+                   ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 2 of 80 Trans ID: LCV20251781724
+
+                                Community Planning                                                               Principals:
+
+
+  b a
+                                Land Development and Design                                         Joseph H. Burgis PP, AICP
+                                Landscape Architecture                                      Edward Snieckus, Jr. PP, LLA, ASLA
+                                                                                                       David Novak PP, AICP
+
+
+
+
+B U R G I S
+A S S O C I A T E S,   I N C.
+
+
+
+
+HOUSING ELEMENT & FAIR S HARE PLAN
+
+BOROUGH OF NORTH CALDWELL
+ESSEX COUNTY, NEW JERSEY
+
+
+PREPARED FOR:
+BOROUGH OF NORTH CALDWELL PLANNING BOARD
+BA# 4154.07
+
+
+
+
+The original document was appropriately signed and sealed on June 5, 2025 in accordance with Chapter 41 of Title 13
+of the State Board of Professional Planners.
+
+
+
+
+Thomas Behrens, Jr., P.P., AICP
+Professional Planner #6323
+ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 3 of 80 Trans ID: LCV20251781724
+
+
+
+     MEMBERS OF THE BOROUGH OF NORTH CALDWELL PLANNING BOARD
+
+                          Joseph Brower, Chairman
+                          Joshua Raymond, Mayor
+                   Glenn Domenick, Borough Administrator
+                              James Campbell
+                               Scott Fishbone
+                              Sandra Nathans
+                                Arthur Rees
+                                Edward Roth
+                                Ankim Shah
+
+     PLANNING BOARD SECRETARY & BOROUGH BUSINESS ADMINISTRATOR
+
+                               Glenn Domenick
+
+                       PLANNING BOARD ATTORNEY
+
+                           John Dusinberre, Esq.
+                        John R. Dusinberre, Esq., LLC
+
+                     AFFORDABLE HOUSING COUNSEL
+
+                                Erik C. Nolan, Esq.
+                    Jeffrey R. Surenian and Associates, LLC
+
+                            BOROUGH ENGINEER
+
+                  Paul Ferriero, P.E., P.P., CME, CFM, LEED AP
+                              Boswell Engineering
+
+                            BOROUGH PLANNER
+
+                           Tom Behrens, P.P., A.I.C.P.
+                            Burgis Associates, Inc.
+                        ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 4 of 80 Trans ID: LCV20251781724
+
+
+
+
+Contents
+   Executive Summary .................................................................................................................................................................................................. 1
+Section 1: Introduction ................................................................................................................................................... 4
+   1.1       Defining Affordable Housing ................................................................................................................................................................... 4
+   1.2       History of Affordable Housing in New Jersey ................................................................................................................................... 5
+   1.3       Housing Element and Fair Share Plan Requirements ..................................................................................................................... 7
+Section 2: Housing Element ............................................................................................................................................ 9
+   2.1       Community Overview ................................................................................................................................................................................. 9
+   2.2       Data Sources ................................................................................................................................................................................................ 12
+   2.3       Inventory of Municipal Housing Stock ............................................................................................................................................... 13
+   2.4       Projection of Municipal Housing Stock ............................................................................................................................................. 19
+   2.5       Population Analysis.................................................................................................................................................................................... 20
+   2.6       Employment Characteristics ................................................................................................................................................................... 23
+   2.7       Employment Projections .......................................................................................................................................................................... 25
+Section 3: Fair Share Obligation ...................................................................................................................................27
+   3.1       Summary of Fair Share Obligation ...................................................................................................................................................... 27
+   3.2       Realistic Development Potential (RDP) .............................................................................................................................................. 28
+Section 4: Fair Share Plan ..............................................................................................................................................30
+   4.1       Plan Components ....................................................................................................................................................................................... 31
+   4.2       Development Sites & Plan Mechanisms ........................................................................................................................................... 33
+   4.3       Rejected Development Sites .................................................................................................................................................................. 38
+   4.4       General Provisions...................................................................................................................................................................................... 38
+   4.5       Crediting Documentation & Ongoing Compliance ...................................................................................................................... 39
+   4.6       Consistency with State Planning Initiatives ...................................................................................................................................... 39
+Appendices .....................................................................................................................................................................41
+   Fourth Round Complaint for Declaratory Relief Pursuant to AOC Directive #14-24 ......................................................................
+   Resolution No. R-41-2025 Determining Fourth Round Obligation .........................................................................................................
+   Order Fixing Fourth Round Obligation ...............................................................................................................................................................
+   Fourth Round Vacant Land Analysis (VLA) ........................................................................................................................................................
+   Fourth Round Draft Spending Plan ......................................................................................................................................................................
+   2018 Amended Settlement Agreement with Fair Share Housing Center .............................................................................................
+   Order Approving Settlement Agreement between Fair Share Housing Center & Green Brook Realty Assoc., LLC ............
+   Third Round Judgment of Compliance and Repose ......................................................................................................................................
+   Order Finalizing Third Round Judgment of Compliance and Repose ....................................................................................................
+   NJHFMA UHAC 2025 Affordable Housing Regional Income Limits by Household Size .................................................................
+   Resolution No. O-25-2023 Creating Senior Inclusionary Residential Overlay (SIRO) Zone ...........................................................
+   Resolution No. O-11-19 Creating Fairfield Road Overlay (FRO) Zone ...................................................................................................
+   Resolution No. O-10-19 Creating Bloomfield Avenue Overlay (BAO) Zone ........................................................................................
+             ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 5 of 80 Trans ID: LCV20251781724
+
+
+
+
+Executive Summary
+This 2025 Housing Element and Fair Share Plan of the Master Plan has been prepared for North Caldwell, Essex County,
+New Jersey to address its Fourth Round affordable housing obligation in accordance with P.L. 2024, c.2. commonly
+referred to as the “Fair Housing Act - 2” or “2024 Fair Housing Act Amendments”. As detailed herein, the Borough’s
+Fourth Round and prior round (First, Second and Third Round) affordable housing obligations are derived from several
+sources. These sources include the Council on Affordable Housing (“COAH”) for the First and Second Rounds, prior
+Court-approved Judgments of Compliance and Repose, settlement agreements with Fair Share Housing Center (“FSHC”)
+for Round Three, and most recently, the Fourth Round need numbers calculated by the Department of Community
+Affairs (“DCA”).
+
+The Borough’s affordable housing obligations are summarized as follows:
+
+                          TABLE 1 – NORTH CALDWELL AFFORDABLE HOUSING OBLIGATIONS SUMMARY
+
+                          Round                                                   Obligation
+                          Present Need (Rehabilitation Obligation                   0 units
+                          First & Second Round Obligation (1987-1999)              63 units
+                          Third Round Obligation (1999 – 2025)                    360 units
+                          Third Round Realistic Development Potential (RDP)        64 units
+                          Fourth Round Obligation (2025-2035)                      118 units
+                          Fourth Round Realistic Development Potential (RDP)        0 units
+                          Fourth Round Unmet Need                                  118 units
+
+
+Prior Round Obligations
+
+North Caldwell did not receive substantive certifications for COAH’s First or Second Round Obligations given the
+Borough is a fully developed community. In accordance with the Amended Settlement Agreement between the
+Borough and FSHC dated December 11, 2018 (original Settlement Agreement dated September 2017) establishing the
+Borough’s Third Round Affordable Housing Obligation, the Borough’s Prior Round Obligation for the period 1987 to
+1999 was 63 units and Third Round obligation of 360 units for a combined obligation of 423 units. The Borough’s
+calculated Third Round Realistic Development Potential (“RDP”) was 64 units resulting in an Unmet Need of 359 units.
+The Borough adopted a Third Round Housing Element and Fair Share Plan (HE&FSP”) on August 12, 2019 and was
+granted a Final Judgment of Compliance and Repose (Third Round “JOR”) by Judge Gardner on August 3, 2020.
+
+The 2018 Settlement Agreement with FSHC includes a provision that in the even the Green Brook Golf Course ceases
+to remain a golf course and development of the property is initiated the Borough would be required to revisit its Third
+Round RDP obligation, accept an RDP on the golf course property and satisfy the increased Third Round RDP with units
+from the golf course development and/or other appropriate mechanisms. In accordance with the Borough’s Third
+Round JOR, the Inclusionary Residential Overlay (IRO) Zone created July 21, 2020 by Ordinance No. O-8-20 to facilitate
+inclusionary development on the golf course site. The IRO Zone was amended December 19, 2023 by Ord. No. O-25-
+2023 to create the Senior Inclusionary Residential Overlay (SIRO) Zone for the site.
+
+
+
+                                                                             2025 Housing Element and Fair Share Plan   1
+                                                                                           Borough of North Caldwell
+                ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 6 of 80 Trans ID: LCV20251781724
+
+
+
+In 2025, a preliminary site plan application was filed with the North Caldwell Planning Board in accordance with the
+SIRO Zone that has yet to be deemed complete as of the preparation of this document. The development application
+includes 271 total units with 50 affordable units, including 25 affordable family rental units and 25 senior rental units as
+contemplated in the 2018 Settlement Agreements. This represents an affordable housing set-aside of 18.5% which is
+increased from the prior IRO Zone designation. It is also consistent with the terms of the 2018 and 2020 Settlement
+Agreements between the Borough and developer. Therefore, the Borough’s Third Round RDP has increased from 64
+units to 118 units (271 units x 20% set-aside = 54 units).
+
+The plan mechanisms that satisfy the entirety of North Caldwell’s Third Round RDP include a 50-unit 100% affordable
+development and Green Brook Country Club inclusionary development as summarized in Table 2.
+
+                          TABLE 2 – NORTH CALDWELL PLAN MECHANISMS TO ADDRESS THIRD ROUND RDP
+
+                                                                              Bonus
+                                                                              Credit      Bonus      Total
+  Plan Mechanism                                                 # Units    Multipliers   Credits   Credits      Status
+  RPM 100% Affordable Rental Development (48 units)                39            -           -        39      Completed
+  Green Brook Gold Course (SIRO Zone)                              50         x 2 (1)      29 (3)     69      Application
+                                                                             x 1.33 (2)                        In Review
+  Total                                                            89            -         29 (3)     118           -
+
+    (1)   Rental bonus credits per COAH rules.
+    (2) Senior bonus credits per COAH Rules.
+    (3) Regulations permit a maximum number of bonus credits not to exceed 25% of RDP.
+
+
+
+Fourth Round Obligation
+
+Governor Murphy signed the A-40/S-50 Bill into law on March 20, 2024 after the Senate and Assembly adopted it. This
+legislation (FHA-2) amended the Fair Housing Act (FHA or the Act) by abolishing COAH and created a new process that
+involved the creation of an entity known as the Affordable Housing Dispute Resolution Program (“The Program”), which
+is overseen by seven retired Mount Laurel judges. The Program has taken the place of the trial courts and COAH
+regarding the approval process involving municipal HE&FSPs. The DCA and the Administrative Office of the Courts
+(AOC) are both also involved in assisting the Program with this process.
+
+FHA-2 directed the DCA to calculate the Present Need (also referred to as the Rehabilitation obligation) and the
+Prospective Need (also known as the new construction obligation) for Round Four based upon the standards set forth
+in the Act. The DCA in its October 18, 2024 publication “Affordable Housing Obligations for 2025-2035 (Fourth Round)
+Methodology and Background” made public October 18, 2024 issued North Caldwell a Fourth Round Prospective Need
+Obligation of 118 units and Present Need (Rehabilitation Obligation of 0 units). In accordance with the FHA-2, the DCA
+report made clear that the obligations generated by the report were advisory only and were non-binding. Since the
+DCA report calculations are non-binding, North Caldwell conducted an analysis to determined the extent to which the
+DCA calculations could be modified. The Borough ultimately accepted its DCA assigned Fourth Round Obligations by
+Resolution No. R-41-2025 dated January 28, 2025 that was fixed by Order of Judge Russo dated March 24, 2025.
+
+
+
+
+    2                                                                                                                          2
+            ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 7 of 80 Trans ID: LCV20251781724
+
+
+
+The Borough’s January 2025 Resolution also noted that the Borough reserved the right to seek an adjustment of its
+Fourth Round Prospective Need number based upon a lack of vacant, developable and suitable land. Accordingly, the
+Borough conducted a Fourth Round VLA which concluded that the Borough has a Fourth Round RDP of 0 units and
+therefore an Unmet Need (difference between Prospective Need and RDP) of 118 units. The Borough’s Unmet Need
+Obligation will be addressed by the several mechanisms listed below including surplus units from the RPM 100%
+affordable development that is now occupied, two overlay zones and mandatory affordable set-aside ordinance. The
+Borough will also continue to consider emergent opportunities to create new affordable housing, including group
+homes, in appropriate locations consistent with the Borough’s Master Plan and Zoning Ordinance.
+
+                        TABLE 3 – NORTH CALDWELL PLAN MECHANISMS TO ADDRESS UNMET NEED
+
+                                                                                    Total
+             Plan Mechanism                                            # Units     Credits          Status
+             RPM 100% Affordable Rental Development (48 units)            9           9           Completed
+             Fairfield Road Overlay Zone                                  -           -            Adopted
+             Bloomfield Avenue Overlay Zone                               -           -            Adopted
+             Mandatory Affordable Set-Aside Ordinance                     -           -            Adopted
+             Total                                                        9           9                -
+
+
+The Borough’s 2025 HE&FSP addressing its Fourth Round affordable housing obligations is divided into the following
+sections:
+
+      Section 1: Introduction
+       The first section of the 2025 HE&FSP provides an introduction to affordable housing. It summarizes what
+       affordable housing is, offers an overview of the history of affordable housing in the state, and explains the role
+       of a housing element and fair share plan.
+
+      Section 2: Housing Element
+       Section 2 contains the Housing Element for the Borough of North Caldwell. It offers a community overview of
+       the Borough, as well as background information regarding its population, housing, and employment
+       characteristics. It also provides projections of the Borough’s housing stock and employment.
+
+      Section 3: Fair Share Obligation
+       Next, Section 3 provides an overview of the Borough’s fair share obligation. It includes a brief history of the
+       methodologies utilized to calculate affordable housing obligations throughout the state.
+
+      Section 4: Fair Share Plan
+      Finally, Section 4 details the manner in which the Borough has addressed its prior First, Second and Third Round
+       obligations, how it will address its Fourth Round Prospective Need Obligation, and how same is consistent with
+       the FHA, applicable COAH and UHAC regulations, and state planning initiatives.
+
+
+
+
+                                                                              2025 Housing Element and Fair Share Plan   3
+                                                                                            Borough of North Caldwell
+             ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 8 of 80 Trans ID: LCV20251781724
+
+
+
+
+Section 1: Introduction
+The following section provides an overview of affordable housing in New Jersey, the role of a housing element
+and fair share plan and the Borough’s previous compliance efforts.
+
+
+
+
+1.1 Defining Affordable Housing
+Affordable housing is income-restricted housing that is available for sale or rent at varying income thresholds generally
+characterized as very-low (30%), low (50%) and moderate-income (80%) households in relation to the respective
+housing region’s median income. New Jersey is divided into six housing regions. North Caldwell is located in Region
+2 which includes Essex, Morris, Union and Warren Counties.
+
+The State’s regional income limits are updated annually with different categories based on income levels and household
+size. Table 4 provides a sample of the 2025 regional income limits for Region 2. For example, a four-person household
+with a maximum income of $108,240 could qualify for affordable housing in North Caldwell. The complete 2025
+NJHMFA income table is provided in the Appendix.
+
+                                           TABLE 4 – 2025 REGION 2 INCOME LIMITS
+
+                          Income Level            2 Person       3 Person     4 Person      5 Person
+                          Median (100%)           $108,300       $121,800     $135,300      $146,200
+                          Moderate (80%)          $86,640        $97,440      $108,240      $116,960
+                          Low (50%)               $54,150        $60,900      $67,650        $73,100
+                          Very-Low (30%)          $32,490        $36,540      $40,590       $43,860
+
+           Source: NJHMFA UHAC 2025 Affordable Housing Regional Income Limits by Household Size effective May 16, 2025.
+
+
+Affordable housing exists in several forms which may be available for sale or rent including 100% affordable
+developments, deed-restricted accessory apartments, special needs/supportive housing or group homes, assisted living
+facilities, age-restricted housing and inclusionary development in which a certain percentage of the housing units are
+reserved for affordable housing while the remaining units are market rate.
+
+
+
+
+    4                                                                                                                       4
+             ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 9 of 80 Trans ID: LCV20251781724
+
+
+
+
+1.2 History of Affordable Housing in New Jersey
+Municipal affordable housing requirements in New Jersey began in 1975 when the New Jersey Supreme Court rendered
+its ‘Mount Laurel I’ decision which established that every developing municipality in the State has a constitutional
+obligation to provide a realistic opportunity for the creation of affordable housing. The Mount Laurel I decision was
+followed by a series of New Jersey Supreme Court decisions known as the ‘Mount Laurel Doctrine’ and State legislation
+which provided further clarity regarding municipal housing need calculations, compliance requirements and
+administrative review. Most recently, in March 2024, the State Legislature adopted amendments to the Fair Housing
+Act originally enacted in 1985 to create a new Fourth Round municipal compliance program for the period 2025 to
+2035.
+
+      Mount Laurel I In 1975, the New Jersey Supreme Court in its So. Burlington Cty. NAACP v. Township of Mount
+       Laurel decision, commonly referred to as ‘Mount Laurel I’, determined that every developing municipality in
+       New Jersey has a constitutional obligation to provide a realistic opportunity for the construction its fair share of
+       affordable housing. A ‘realistic opportunity’ means that municipalities cannot have exclusionary zoning that
+       prohibits the development of affordable housing. Municipalities initially disregarded this obligation given the
+       decision’s general lack of guidance including regulatory standards, housing need numbers and an agency to
+       administer such a program.
+
+      Mount Laurel II The New Jersey Supreme Court’s 1983 decision known as ‘Mount Laurel II’ clarified that all
+       municipalities, whether developing or not, have a constitutional obligation to provide for their fair share of
+       affordable housing. The Mount Laurel II decision called upon the State Legislature to enact legislation that
+       would shift the responsibility of the courts from having to administer the affordable housing process and
+       determine municipal housing need numbers. The decision also introduced the concept of the ‘builder’s remedy’
+       suit whereby developers could challenge municipal zoning to develop affordable housing where municipalities
+       did not otherwise meet their fair share obligation.
+
+      Fair Housing Act The State Legislature responded to the Mount Laurel II decision by passing the Fair Housing
+       Act in 1985 which established the framework for an administrative affordable housing process and creation of
+       the Council on Affordable Housing (COAH), the agency intended to implement the process. COAH would be
+       responsible for assigning municipal fair share housing obligations, reviewing municipal affordable housing plans
+       and issuing substantive certification for compliant plans. A town in receipt of substantive certification would be
+       immune from builder’s remedy suits.
+
+      Mount Laurel III The New Jersey Supreme Court affirmed the validity of the Fair Housing Act in its 1986 ‘Mount
+       Laurel III’ decision.
+
+      First Round The First Round of affordable housing governed by COAH covered the period 1987 to 1993 utilizing
+       a “fair shar” methodology.
+
+      Second Round The Second Round of affordable housing spanned from 1993 to 1999 utilizing a “fair share”
+       methodology.
+
+
+
+
+                                                                              2025 Housing Element and Fair Share Plan
+                                                                                            Borough of North Caldwell
+                                                                                                                         5
+        ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 10 of 80 Trans ID: LCV20251781724
+
+
+
+   Third Round While the First and Second Rounds utilized a ‘fair share’ methodology, COAH utilized a new
+    ‘growth share’ methodology in preparing the Third Round substantive and procedural rules and affordable
+    housing need numbers first adopted in 2004, 5 years after the expiration of the Second Round, intending to
+    cover the period from 1999 to 2014. However, these rules were challenged and ultimately invalidated by the
+    Appellate Division in 2007 which directed to adopt revised rules. COAH adopted its second iteration of the
+    Third Round rules in 2008 that were also challenged and again invalidated by the Appellate Division in 2010
+    which directed COAH to revert back to the original ‘fair share’ methodology. This decision was affirmed by the
+    New Jersey Supreme Court in 2013. COAH published its third iteration of Third Round rules in 2014 but failed
+    to adopt the regulations in a deadlocked 3-3 vote.
+
+   Mount Laurel IV In the New Jersey Supreme Court’s 2015 ‘Mount Laurel IV’ decision, the Court decided that
+    COAH had become dysfunctional and returned jurisdiction of municipal affordable housing administration to
+    the trial courts as had been the arrangement prior to the creation of COAH in 1985. The decision included
+    procedures for municipal participation but did not provide housing need numbers leaving municipalities to
+    determine their affordable housing obligations. Several sets of housing need numbers were prepared by
+    various entities which, in most cases, led to individual municipal settlement agreements with Fair Share Housing
+    Center and intervening developers. Municipalities receiving substantive certification of their Third Round plans
+    from the courts received immunity until the end of the Third Round in July 2025.
+
+   Gap Period Decision On January 18, 2017, the New Jersey Supreme Court ruled that municipalities are
+    responsible for affordable housing obligations that accrued during the “gap-period” between 1999 and 2015
+    when prior iterations of the Third Round rules were being litigated.
+
+   Fair Housing Act Amendments (A-4/S-50) On March 20, 2024, Governor Murphy signed Bill A-4/S-50 into law
+    amending the Fair Housing Act to create a new municipal compliance process for the Fourth Round and
+    subsequent rounds of 10-year periods. These amendments eliminated COAH, created a new review entity
+    known as the Program consisting of seven retired Mount Laurel judges. The DCA was designated to prepare
+    the State’s regional and municipal housing need numbers pursuant to the methodology prescribed in the
+    Jacobson Decision. However, the legislation makes it clear that the DCA calculations are advisory and non-
+    binding, and that each municipality must determine its respective obligation using the Jacobson methodology.
+    The Program was delegated to resolve any affordable housing disputes over municipal obligations, plans and
+    plan mechanisms, and to ultimately issue a compliance certification approving a municipality’s HE&FSP. The
+    certification will extend municipal immunity from exclusionary zoning (builder’s remedy) lawsuits until the end
+    of the Fourth Round in July 30, 2035.
+
+
+
+
+6                                                                                                                      6
+            ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 11 of 80 Trans ID: LCV20251781724
+
+
+
+
+1.3 Housing Element and Fair Share Plan Requirements
+The Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.) stipulates that municipalities must adopt a master plan
+containing at least a land use plan element and housing plan element in order to lawfully adopt and enforce a zoning
+ordinance. The HE&FSP serves as the blueprint for how a municipality will satisfy its fair share of affordable housing.
+Municipalities without an approved HE&FSP are susceptible to a builder’s remedy (exclusionary zoning) lawsuit whereby
+a prospective developer can file suit to circumvent the municipality’s zoning ordinance and rezone specific property to
+permit housing development at higher densities and intensities than a municipality would otherwise allow for the
+provision of a certain percentage of units reserved as affordable.
+
+C.52:27D-310, Essential components of municipality’s housing element, of the 2024 Fair Housing Act Amendments sets
+forth the required HE&FSP components as follows:
+
+   a. An inventory of the municipality's housing stock by age, condition, purchase or rental value, occupancy
+      characteristics, and type, including the number of units affordable to low- and moderate-income households
+      and substandard housing capable of being rehabilitated, and in conducting this inventory the municipality shall
+      have access, on a confidential basis for the sole purpose of conducting the inventory, to all necessary property
+      tax assessment records and information in the assessor's office, including but not limited to the property record
+      cards;
+
+   b. A projection of the municipality's housing stock, including the probable future construction of low- and
+      moderate-income housing, for the next ten years, taking into account, but not necessarily limited to,
+      construction permits issued, approvals of applications for development and probable residential development
+      of lands;
+
+   c. An analysis of the municipality's demographic characteristics, including but not necessarily limited to, household
+      size, income level and age;
+
+   d. An analysis of the existing and probable future employment characteristics of the municipality;
+
+   e. A determination of the municipality's present and prospective fair share for low- and moderate-income housing
+      and its capacity to accommodate its present and prospective housing needs, including its fair share for low-
+      and moderate-income housing, as established pursuant to section 3 of P.L.2024, c.2 (C.52:27D-304.1);
+
+   f.   A consideration of the lands that are most appropriate for construction of low- and moderate-income housing
+        and of the existing structures most appropriate for conversion to, or rehabilitation for, low- and moderate-
+        income housing, including a consideration of lands of developers who have expressed a commitment to provide
+        low- and moderate-income housing;
+
+   g. An analysis of the extent to which municipal ordinances and other local factors advance or detract from the
+      goal of preserving multigenerational family continuity as expressed in the recommendations of the
+      Multigenerational Family Housing Continuity Commission, adopted pursuant to paragraph (1) of subsection f.
+      of section 1 of P.L.2021, c.273 (C.52:27D-329.20);
+
+
+
+                                                                             2025 Housing Element and Fair Share Plan
+                                                                                           Borough of North Caldwell
+                                                                                                                        7
+         ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 12 of 80 Trans ID: LCV20251781724
+
+
+
+h. For a municipality located within the jurisdiction of the Highlands Water Protection and Planning Council,
+   established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an analysis of compliance of the housing element
+   with the Highlands Regional Master Plan of lands in the Highlands Preservation Area, and lands in the Highlands
+   Planning Area for Highlands conforming municipalities. This analysis shall include consideration of the
+   municipality’s most recent Highlands Municipal Build Out Report, consideration of opportunities for
+   redevelopment of existing developed lands into inclusionary or 100 percent affordable housing, or both, and
+   opportunities for 100 percent affordable housing in both the Highlands Planning Area and Highlands
+   Preservation Area that are consistent with the Highlands regional master plan; and
+
+i.   An analysis of consistency with the State Development and Redevelopment Plan, including water, wastewater,
+     stormwater, and multi-modal transportation based on guidance and technical assistance from the State
+     Planning Commission.
+
+
+
+
+8                                                                                                                       8
+            ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 13 of 80 Trans ID: LCV20251781724
+
+
+
+
+Section 2: Housing Element
+This section provides the Housing Element portion of North Caldwell’s Fourth Round HE&FSP including an overview of
+North Caldwell’s existing land use pattern and information pertaining to population, housing and employment
+characteristics and projections.
+
+
+
+2.1 Community Overview
+The Borough of North Caldwell is located in the northwestern area of Essex County adjacent to eight other
+municipalities, including Fairfield, Wayne, Little Falls, Cedar Grove, Verona, Essex Fells, Caldwell and West Caldwell.
+North Caldwell occupies an area of approximately 1,967 acres, or 3.1 square miles.
+
+As stated in the Borough’s 2019 Housing Element and Fair Share Plan, the Borough is a fully developed community.
+A review of North Caldwell’s land use pattern indicates the Borough is characterized by several distinct land use
+patterns. The Borough is primarily developed as detached single-family dwellings. Townhouse development is
+generally concentrated at the north end of the municipality and the majority of multifamily development is located
+in the south end associated with the Hilltop site. Nonresidential uses are located along Bloomfield Avenue and
+Fairfield Road. 100 acres of the Green Brook Country Club is located adjacent to the Borough’s western boundary
+shared with Fairfield. West Essex High School and Middle School are also located in the western area of the
+Borough. Public transportation in North Caldwell is limited to bus service on Bloomfield Avenue. The nearest NJ
+Transit train station in Little Falls located approximately ½-mile to the northeast corner of the Borough. Table 5
+provides a summary of the distribution of existing land uses in North Caldwell and accompanying maps.
+
+                                          TABLE 5 – NORTH CALDWELL EXISTING LAND USES
+
+                                                                     % of Total                     % of Total
+                 Land Use       Sub-Use               Acres                        Parcels
+                                                                       Acres                         Parcels
+                                Residential 1 &
+                                                      1283.8          73.34%        2032             89.71%
+                 Residential    2 Family
+                                Multifamily            78.9            4.51%         153              6.75%
+                                Commercial             13.4            0.77%          12              0.53%
+                 Commercial     Golf/Private
+                                                      173.3           9.90%           2               0.09%
+                                Club
+                                Municipal
+                                                       81.6           4.66%          35               1.55%
+                                Property
+                 Public/Semi-
+                                Public School          20.2            1.15%          3               0.13%
+                 Public
+                                Church         &
+                                                       15.2            0.87%          3               0.13%
+                                Charitable
+                                Vacant                 10.7            0.61%          8               0.35%
+                                Industrial             2.8             0.16%          2               0.09%
+                 Other
+                                Utility                25.6            1.46%          7               0.31%
+                                Other Exempt           44.9            2.57%          8               0.35%
+                 Totals                                       1750      100.00%            2265         100.00%
+
+
+                                                                                  2025 Housing Element and Fair Share Plan
+                                                                                                Borough of North Caldwell
+                                                                                                                             9
+     ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 14 of 80 Trans ID: LCV20251781724
+
+
+
+
+10                                                                                10
+ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 15 of 80 Trans ID: LCV20251781724
+
+
+
+
+                                                  2025 Housing Element and Fair Share Plan
+                                                                Borough of North Caldwell
+                                                                                             11
+             ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 16 of 80 Trans ID: LCV20251781724
+
+
+
+
+2.2 Data Sources
+The information contained in the Housing Element section of this document was obtained from a variety of publicly
+available data sources including the U.S. Decennial Census, American Community Survey (“ACS”), New Jersey
+Department of Health, New Jersey Department of Community Affairs (“DCA”) and New Jersey Department of Labor
+and Workforce Development.
+
+    1.   United States Decennial Census. The US Census is described in Article I, Section 2 of the Constitution of the
+         United States, which calls for an enumeration of the people every ten years for the apportionment of seats in
+         the House of Representatives. Since the time of the first Census conducted in 1790, it has become the leading
+         source of data about the nation’s people and economy. Please note that all incomes reported in the Census
+         are adjusted for inflation.
+
+    2. American Community Survey. The American Community Survey is a nationwide ongoing survey conducted
+       by the US Census Bureau. The ACS gathers information previously contained only in the long form version of
+       the decennial census, such as age, ancestry, educational attainment, income, language proficiency, migration,
+       disability, employment, and housing characteristics. It relies upon random sampling to provide ongoing,
+       monthly data collection. Please note that all incomes reported in the ACS are adjusted for inflation.
+
+    3. New Jersey Department of Health. The New Jersey Department of Health is a governmental agency of the
+       State of New Jersey. The department contains the Office of Vital Statistics and Registry, which gathers data
+       regarding births, deaths, marriages, domestic partnerships, and civil unions.
+
+    4. New Jersey Department of Health. The New Jersey Department of Community Affairs is a governmental
+       agency of the State of New Jersey. Its function is to provide administrative guidance, financial support, and
+       technical assistance to local governments, community development organizations, businesses, and individuals
+       to improve the quality of life in New Jersey.
+
+    5. New Jersey Department of Labor and Workforce Development. The New Jersey Department of Labor and
+       Workforce Development is a governmental agency of the State of New Jersey. One of its roles is to collect labor
+       market information regarding employment and wages throughout the state.
+
+
+
+
+   12                                                                                                                    12
+             ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 17 of 80 Trans ID: LCV20251781724
+
+
+
+
+2.3 Inventory of Municipal Housing Stock
+This section of the Housing Element provides an inventory of the Borough’s housing stock as required by the Fair
+Housing Act as amended in 2024. The inventory details such housing characteristics as age, condition, purchase/rental
+value, and occupancy of the Borough’s existing housing stock. It also details the number of affordable housing units
+available to low-and-moderate income households and the number of substandard housing units capable of being
+rehabilitated.
+
+It is noted that there may be inconsistencies in some of the data presented herein derived from the various data sources
+which include estimates that in some cases clearly exhibit margins of error. However, this information from the U.S.
+Decennial Census and American Community Survey Estimates prepared by the U.S. Census Bureau is considered among
+the most reliable and current data available and as such, is utilized in this document to illustrate trends and projections
+impacting the Borough.
+
+   1.   Number of Dwelling Units. As shown in the table below, the Borough’s housing stock grew considerably
+        from 1980 to 2000 after which it experienced growth slowed but remained steady for the following two
+        decades. It is anticipated that the number of housing units will increase in the next decade by roughly
+        11.5% as a result of the 271-unit senior inclusionary development proposed at the Green Brook Country
+        Club site included in this HE&FSP as a Third Round Plan Mechanism.
+
+                                           TABLE 6 - DWELLING UNITS (1970-2023)
+                                               NORTH CALDWELL, NEW JERSEY
+
+                                Year         Dwelling Units       Change (#)        Change (%)
+                                1970            1,549                  -                 -
+                                1980            1,608                 59               3.8%
+                                1990            1,996                388              24.1%
+                                2000            2,108                500               31.1%
+                                2010            2,252                144               6.8%
+                                2020            2,364                112               5.0%
+                                2023            2,353                (11)             (0.5%)
+
+                         Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+                                                                                    2025 Housing Element and Fair Share Plan
+                                                                                                  Borough of North Caldwell
+                                                                                                                               13
+           ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 18 of 80 Trans ID: LCV20251781724
+
+
+
+      The following table provides details regarding the tenure and occupancy of the Borough’s housing stock.
+      Since 2010, there has been a decrease in owner-occupied housing of approximately 4% and increase in
+      the number of renter occupied units by 1% and vacant units by 3.7%.
+
+                       TABLE 7 - HOUSING UNITS BY TENURE AND OCCUPANCY STATUS (2000 - 2023)
+                                           NORTH CALDWELL, NEW JERSEY
+
+                                2000                       2010                     2020                      2023
+ Characteristics         Number     Percent         Number Percent           Number     Percent        Number     Percent
+ Owner-occupied           1,994      94.6%           2,025      94.9%         2,160      91.4%          2,132      90.6%
+ Renter-occupied            76        3.6%             67        3.1%           98       4.1%             88        3.7%
+ Vacant units               38        1.8%            42         2.0%          106       4.5%            133        5.7%
+ Total                    2,108      100.0%          2,134     100.0%         2,364     100.0%          2,353     100.0%
+
+                         Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates.
+
+
+2.     Housing Characteristics. The following data provides additional information on the characteristics of the
+       Borough’s housing stock. Approximately 90% of the Borough’s housing stock is comprised of detached
+       single-family dwellings units, while roughly 6.5% are townhouses (single-family attached) and 3.6% based
+       on the 2020 Decennial Census data which appears to be more accurate than the 2023 ACS data.
+       Furthermore, it is noted that since 2010, the Four Seasons 108-unit, 55+ multifamily condominium
+       development was constructed as well as the RPM 50-unit 100% affordable multifamily rental development
+       totaling 158 units in addition to the development of detached single-family dwellings scattered throughout
+       the Borough.
+
+                                         TABLE 8 - UNITS IN STRUCTURE (1990-2023)
+                                               NORTH CALDWELL, NEW JERSEY
+
+         Units in            2000                     2010                       2020                     2023
+        Structure       Number Number            Number   Percent           Number Percent           Number   Percent
+     Single-Family,
+                          1,957      92.8%         2,003        88.9%        2,188       89.7%        2,025      86.1%
+     Detached
+     Single-Family,
+                           116        5.5%          106          4.7%         163         6.7%          155      6.6%
+     Attached
+     2                     18         0.9%           27         1.2%           0          0.0%          25       1.1%
+     3 or 4                 9         0.4%          54          2.4%           0          0.0%          15       0.6%
+     5 to 9                 0         0.0%          24          1.1%           0          0.0%          27       1.1%
+     10 to 19               8         0.4%           38         1.7%           88         3.6%         106       4.5%
+     20 or more             0         0.0%           0          0.0%           0          0.0%          0        0.0%
+     Other                  0         0.0%           0          0.0%           0          0.0%          0        0.0%
+     Total                2,108       2,252        2,252       100.0%        2,439       100.0%       2,353     100.0%
+
+                      Source: U.S. Decennial Census; 2020 & 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+14                                                                                                                          14
+         ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 19 of 80 Trans ID: LCV20251781724
+
+
+
+     Based on the 2010 and 2023 American Community Survey data depicted below, roughly 90% of the Borough’s
+     housing stock consists of 3 bedrooms or more, with about 25% having 5 bedrooms or more.
+
+                      TABLE 9 - NUMBER OF BEDROOMS IN HOUSING UNITS (2010 AND 2023)
+                                        North Caldwell, New Jersey
+
+                                             2010                         2023
+                      Bedrooms
+                                      Number      Percent          Number      Percent
+                      0                  37        ₺���                0        ₹�₹�
+                      1                  54        ₺���               23        ₺�₹�
+                      2                 112        ��₹�              259        ₺₺�₹�
+                      3                 741        �₺���             645        ₺����
+                      4                 765        ���₹�             776        ���₹�
+                      5 or more         543        ₺��₺�             650        ₺����
+                      Total            2,252      100.0%            2,353      100.0%
+
+                          Source: 2010 & 2023 American Community Survey 5-Year Estimates.
+
+
+
+3.   Housing Age. Table 10 indicates that about 75% of the Borough’s housing stock was constructed prior to
+     1990 with few units being constructed since 2020 where the actual number is somewhat higher than the
+     “0” figure reported by the ACS.
+
+                                    TABLE 10 - YEAR STRUCTURE BUILT (2023)
+                                             NORTH CALDWELL, NJ
+
+                                Year Units Built       Number           Percent
+                               2020 or later               0             0.0%
+                               2010 to 2019              353             15.0%
+                               2000 to 2009               98             4.2%
+                               1990 to 1999              126             5.4%
+                               1980 to 1989              174             7.4%
+                               1970 to 1979              270             11.5%
+                               1960 to 1969              300             12.7%
+                               1950 to 1959              667             28.3%
+                               1940 to 1949               82             3.5%
+                               1939 or earlier           283             12.0%
+                               Total                    2,353           100.0%
+
+                             Source: 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+                                                                            2025 Housing Element and Fair Share Plan
+                                                                                          Borough of North Caldwell
+                                                                                                                       15
+         ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 20 of 80 Trans ID: LCV20251781724
+
+
+
+4.   Housing Conditions. Table 11 provides the number of occupants per room within housing units. Housing
+     units containing more than one occupant per room are considered overcrowded. The data indicates that
+     none of the housing units in North Caldwell are considered overcrowded as of 2010 and only 0.5% since
+     2000.
+
+                                  TABLE 11 - OCCUPANTS PER ROOM (2000 - 2023)
+                                               NORTH CALDWELL, NJ
+
+                                       2000                              2010                             2023
+ Occupants Per Room         Number            Percent          Number           Percent         Number           Percent
+ 1.00 or less                2,059             99.5%            2,168           100.0%           2,220           100.0%
+ 1.01 to 1.50                  11              0.5%               0              0.0%              0              0.0%
+ 1.51 or more                  0               0.0%               0              0.0%              0              0.0%
+ Total Occupied Units        2,070             100%             2,168           100.0%           2,220           100.0%
+
+                    Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates.
+
+
+     Table 12 presents data regarding the presence of complete plumbing and kitchen facilities and the type of
+     heating equipment used. It appears that there are no dwelling units in North Caldwell that lack complete
+     plumbing or kitchen facilities and that the 2010 ACS data represents an anomaly. All units appear to use
+     standard means of heating.
+
+
+           TABLE 12 - EQUIPMENT AND PLUMBING FACILITIES FOR OCCUPIED DWELLING UNITS (2000 - 2023)
+                                           NORTH CALDWELL, NJ
+
+                                              2000                      2010                              2023
+ Facilities                        Number            Percent      Number     Percent            Number           Percent
+ Kitchen:
+ With Complete Facilities            2,108           100.0%         2,150         99.2%          2,220           100.0%
+ Lacking Complete Facilities           0              0.0%            18          0.0%             0              0.0%
+ Plumbing:
+ With Complete Facilities            2,108           100.0%         2,150         99.2%          2,220           100.0%
+ Lacking Complete Facilities           0              0.0%            18          0.0%             0              0.0%
+ Heating Equipment:
+ Standard Heating Facilities         2,108           100.0%         2,168        100.0%          2,220           100.0%
+ Other Means, No Fuel Used             0              0.0%            0           0.0%             0              0.0%
+
+                 Source: U.S. Decennial Census; 2010 & 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+16                                                                                                                         16
+           ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 21 of 80 Trans ID: LCV20251781724
+
+
+
+3.     Purchase and Rental Values. The Borough has experienced a significant increase in both rental costs and
+       purchase prices since 2000. In 2023, an estimated 100% of the Borough’s rental housing units had rents
+       over $2,500 where 45.6% accounted for rents of $1,500 or greater in 2010. The Borough’s median rent
+       increased 84.8% since 2000.
+
+                      TABLE 13 - GROSS RENT OF SPECIFIED RENTER-OCCUPIED UNITS (2000 - 2023)
+                                               NORTH CALDWELL, NJ
+
+                                          2000                               2010                               2023
+     Rent                       Number         Percent           Number          Percent             Number      Percent
+     Less than $500                0             0.0%              0               0.0%                 0          0.0%
+     $500 to $999                 26            34.2%              37             54.4%                 0          0.0%
+     $1,000 to $1,499             50            65.8%              0               0.0%                 0          0.0%
+     $1,500 to $1,999             0 (1)
+                                                 0.0%             31  (1)
+                                                                                  45.6%                 0          0.0%
+     $2,000 to $2,499              -               -                -                 -                 0          0.0%
+     $2,500 to $2,999              -               -                -                 -                25         36.8%
+     $3,000 or more                -               -                -                 -                43         63.2%
+     No cash rent                  0             0.0%               -                 -                 0          0.0%
+     Total                        76           100.0%              68            100.0%                68        100.0%
+     Median Gross Rent                  $1,759                         Data Error (2)                     $3,250
+
+                       Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates.
+                             (1) Represents $1,500 or more per 2000 Decennial Census categorizations.
+               (2) The 2010 ACS reports a median gross rent of $796 for North Caldwell which appears to be inaccurate.
+
+
+
+      In 2023, 97% of the Borough’s owner-occupied housing was valued at $500,000 or more where 38.8% was
+      estimated at $1,000,000 or more. The Borough’s median home value increased 127% from 2000 to 2023.
+
+                   TABLE 14 - VALUE OF SPECIFIED OWNER-OCCUPIED HOUSING UNITS (2000 – 2023)
+                                                NORTH CALDWELL, NJ
+
+                                              2000                        2010                           2023
+      Value                        Number            Percent        Number     Percent             Number     Percent
+      Less than $50,000               0               0.0%            13        0.6%                  0        0.0%
+      $50,000 to $99,999              0               0.0%             0        0.0%                 41        1.9%
+      $100,000 to $149,999           58               3.0%            16        0.8%                 20        0.9%
+      $150,000 to $199,999           72               3.7%            38        1.8%                  0        0.0%
+      $200,000 to $299,999            372            19.2%            17        0.8%                 27        1.3%
+      $300,000 to $499,999            825           42.6%              156           7.4%             182             8.5%
+      $500,000 to $999,999            610            31.5%            1,423       67.8%              1,035       48.5%
+      $1,000,000 or more               0             0.0%              437       20.8%                827        38.8%
+      Total                          1,937          100.0%            2,100      100.0%              2,132       100.0%
+      Median Value                           $399,000                     $745,800                        $906,100
+
+                       Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates.
+                                                                                    2025 Housing Element and Fair Share Plan
+                                                                                                  Borough of North Caldwell
+                                                                                                                               17
+         ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 22 of 80 Trans ID: LCV20251781724
+
+
+
+6. Number of Units Affordable to Low- and Moderate-Income Households. North Caldwell is placed in
+   housing Region 2 comprised of Essex, Morris, Union and Warren Counties. Based on the New Jersey
+   Housing and Mortgage and Finance Agency’s May 16, 2025 update of its UHAC 2025 Affordable Housing
+   Regional Income Limits by Household Size, the median income for a four-person household in Region 2
+   household is $135,300. A four-person moderate-income household earning 80% of the region’s median income
+   would have an income not to exceed $108,240.
+
+     An affordable sales price for a four-bedroom moderate-income household earning 80% of the median income
+     is estimated at $360,000. In 2023, the percentage of housing units in North Caldwell valued at less than
+     $500,000 was estimated to be 12.6%.
+
+     For renter-occupied housing, an affordable monthly rent for a four-person moderate-income household
+     is estimated at approximately $2,706. An affordable monthly rent for a four-person low-income household
+     is estimated at approximately $1,691. The 2023 American Community Survey data indicates North
+     Caldwell’s gross median rent was $3,230. This ACS data does not appear to reflect the existing RPM 50-
+     unit 100% rental development.
+
+7. Substandard Housing Capable of Being Rehabilitated. The DCA’s October 18, 2024 of “Affordable Housing
+   Obligations for 2025-2035 (Fourth Round) Methodology and Background” calculated Present Need
+   obligations representing the number of units in a municipality that are in need of rehabilitation and are not
+   likely to experience ‘spontaneous rehabilitation’. This DCA report assigned North Caldwell a Fourth Round
+   Present Need or Rehabilitation Obligation of 0 units.
+
+
+
+
+18                                                                                                                 18
+            ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 23 of 80 Trans ID: LCV20251781724
+
+
+
+
+2.4 Projection of Municipal Housing Stock
+The FHA-2 regulations require the HE&FSP to include a projection of the community’s housing stock, including the
+probable future construction of low and moderate-income housing for the ten-year round, which for the Fourth Round
+is from 2025 to 2035. This projection shall be based upon an assessment of data which minimally must include the
+number of residential construction permits issued, approvals of applications for residential development, and probable
+residential development of lands. Each of these items are identified and outlined below.
+
+   1.   Housing Units Constructed During the Last Ten Years. The table below provides data concerning residential
+        building permits issued for new residential construction during the past 15 years. During this period, a total
+        of 380 residential building permits were issued including 75 for multifamily development. North Caldwell
+        has issued, on average, 25.3 building permits per year since 2009. A total of 168 residential demolition
+        permits were issued since 2009 resulting in net housing growth of 212 units.
+
+            TABLE 15 - NUMBER OF RESIDENTIAL BUILDING PERMITS ISSUED FOR NEW CONSTRUCTION (2009-2023)
+                                                NORTH CALDWELL, NJ
+
+                        One & Two         Multi-          Mixed-                                                 Net
+        Year Issued       Family          Family           Use               Total           Demos              Growth
+           2009             8                0              0                  8                3                  5
+           2010             40               0              0                  4                5                 (1)
+           2011             36               0              0                  36               2                 34
+           2012             60              24              0                 84                1                 83
+           2013             77               0              0                  77               1                 76
+           2014             25               0              0                  25               2                 23
+           2015              7               0              0                   7              4                   3
+           2016             10               0              0                  10              74                (64)
+           2017             6                0              0                  6               70                (64)
+           2018             90               0              0                  19              4                  15
+           2019             26              51              0                  77               0                 77
+           2020             23               0              0                  23               0                 23
+           2021             3                0              0                  3                1                  2
+           2022              1               0              0                   1               1                  0
+           2023             0                0              0                  0                0                  0
+           Total           412              75              0                 380             168                212
+
+                                         Source: New Jersey Construction Reporter
+
+
+   2. Probable Residential Development of Lands. Given the lack of developable land in North Caldwell, the
+      most significant residential growth the Borough will experience in the next 10 years will be attributable to
+      the anticipated 271-unit inclusionary development at the Green Brook Country Club site. These units will
+      consist of townhouse and multifamily units. Other opportunities for new residential development included
+      parcels located within the Borough’s existing Bloomfield Avenue and Fairfield Road Overlay Zones.
+
+
+                                                                                2025 Housing Element and Fair Share Plan
+                                                                                              Borough of North Caldwell
+                                                                                                                           19
+            ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 24 of 80 Trans ID: LCV20251781724
+
+
+
+
+2.5 Population Analysis
+The MLUL requires that the Housing Element of this plan provide data on the municipality’s population, including
+population size, age and income characteristics.
+
+   1.   Population Size. As seen in the table below, the Borough’s population saw tremendous growth between
+        1950 and 1980, particularly during the 1950s and 60s. After reaching its census peak in 2000, the population
+        decreased 16.2% between 2000 and 2010. The population has since increased steadily but remains down
+        about 10% from the peak in 2000.
+
+                                      TABLE 16 - POPULATION GROWTH (1930-2023)
+                                                  NORTH CALDWELL, NJ
+
+                              Year        Population          Change ( # )         Change (%)
+                              1930          1,492                   -                    -
+                              1940          1,572                  80                 5.4%
+                              1950          1,781                 209                 13.3%
+                              1960          4,163                2,382               133.7%
+                              1970          6,425                2,262                54.3%
+                              1980          5,832                (593)                -9.2%
+                              1990          6,706                 874                 15.0%
+                              2000          7,375                 669                 10.0%
+                              2010          6,183               (1,192)              (16.2%)
+                              2020          6,694                  511                 8.2%
+                              2023          6,622                 (72)                (1.1%)
+
+                        Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+   20                                                                                                                  20
+           ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 25 of 80 Trans ID: LCV20251781724
+
+
+
+2.     Age Characteristics. The Borough’s age characteristics are represented in the table below. In 2023, 17.8%
+       of the Borough’s population was comprised of school-age children which declined from 23.5% in 2020.
+       The age cohort 65-74 experienced the most significant growth from 2010 to 2023 increasing from 7.9% of
+       the population to 14.6%. The number of residents 85 and over nearly doubled since 2000 representing
+       3.3% of the population in 2023. The Borough’s median age increased substantially since 2000 when it was
+       34.7 years old to 46.2 years old in 2023.
+
+                                      TABLE 17 - AGE CHARACTERISTICS (2000-2023)
+                                                  NORTH CALDWELL, NJ
+
+                              2000                      2010                    2020                        2023
+     Age Group        Total          % Total      Total    % Total        Total     % Total           Total     % Total
+     Under 5           431             5.8%        350       5.7%          331        4.9%             469         7.1%
+     5-19             1,395           18.9%       1,453     23.5%         1,486      22.3%            1,176       17.8%
+     20-24             515             7.0%        202       3.3%          364        5.4%             368         5.6%
+     25-34            1,092           14.8%        353       5.7%          436        6.5%             394         5.9%
+     35-44            1,196           16.2%        856      13.8%          795       11.8%             782        11.8%
+     45-54            1,223           16.6%       1,094     17.7%         1,067      15.9%             875        13.2%
+     55-64             722             9.8%       1,005     16.3%          947       14.2%            1,119       16.9%
+     65-74             458             6.2%        487       7.9%          800       11.9%             969        14.6%
+     75-84             295             4.0%        268       4.3%          351        5.2%             252         3.8%
+     85 +               48             0.7%        115       1.9%          117        1.7%             218         3.3%
+     Total            7,375          100.0%       6,183    100.0%         6,694     100.0%            6,622      100.0%
+     Median Age               34.7                     43.8                     44.4                           46.2
+
+                      Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates.
+
+
+
+3. Average Household Size. The average household size in North Caldwell has decreased every decade since
+   1980 except between 1990 and 2000. Since 2010, the Borough’s average household size has ranged from
+   2.9 to 2.98 persons per household.
+
+                                  TABLE 18 - AVERAGE HOUSEHOLD SIZE (1980 - 2023)
+                                                NORTH CALDWELL, NJ
+
+                                           Year        Average Household Size
+                                           1980                 3.67
+                                           1990                 3.47
+                                           2000                 3.56
+                                           2010                 2.96
+                                           2020                 2.90
+                                           2023                 2.98
+
+                   Source: U.S. Decennial Census; 2020 & 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+                                                                                 2025 Housing Element and Fair Share Plan
+                                                                                               Borough of North Caldwell
+                                                                                                                            21
+         ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 26 of 80 Trans ID: LCV20251781724
+
+
+
+4. Household Income. The median household income for North Caldwell households increased by
+   approximately 73 percent between 2000 and 2023. The distribution of various household income levels
+   are shown in the table below. It is noted that roughly 50% of the population’s households had incomes of
+   $200,000 or more in 2023.
+
+                            TABLE 19 - HOUSEHOLD INCOME DISTRIBUTION (2000 - 2023)
+                                             NORTH CALDWELL, NJ
+
+                                       2000                          2010                            2023
+     Income Category           Number      Percent         Number        Percent          Number        Percent
+     Less than $10,000             7         0.3%            ��           3.5%               47           2.1%
+     $10,000 to $14,999           25         1.2%             ₹           0.0%               27           1.2%
+     $15,000 to $24,999           70        3.4%             ��            1.5%             49           2.2%
+     $25,000 to $34,999           63         3.0%            ₺�            1.3%              31           1.4%
+     $35,000 to $49,999           91        4.4%             ��            1.5%              89          4.0%
+     $50,000 to $74,999          264        12.7%            ₺�₺          10.7%              56          2.5%
+     $75,000 to $99,999          315        15.1%            ₺�₺          8.4%              104          4.7%
+     $100,000 to $149,999        416        20.0%            ��₺          20.8%             495          22.3%
+     $150,000 to $199,999        213        10.2%            ₺�₹          12.0%             202           9.1%
+     $200,000 or more            621        29.8%            ���          40.3%            1,121         50.5%
+     Total                      2,085      100.0%           2,168        100.0%            2,220        100.0%
+     Median                          $117,395                     $151,953                       $203,140
+
+                 Source: U.S. Decennial Census; 2010 & 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+22                                                                                                                22
+              ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 27 of 80 Trans ID: LCV20251781724
+
+
+
+
+ 2.6 Employment Characteristics
+ The FHA-2 requires a Housing Element to include data on employment levels in the community. The following
+ tables present information on the Borough’s employment characteristics.
+
+     1. Employment Status. The table below provides information on North Caldwell’s employment status for the
+        segment of the population 16 and over. In 2023, approximately 70.3% of the population ages 16 and over
+        were in the labor force compared to 54.6% in 2000. From 2000 to 2023, the proportion of the Borough’s
+        working age population in the labor force that was unemployed increased from 1.3% to 4.4%.
+
+                            TABLE 20 - EMPLOYMENT STATUS- POPULATION 16 & OVER (2000 - 2023)
+                                                  NORTH CALDWELL, NJ
+
+                                                2000                             2010                                 2023
+    Employment Status                 Number           Percent        Number            Percent           Number             Percent
+    In labor force                     3,196            54.6%          3,348             68.1%             3,613              70.3%
+      Civilian labor force             3,196            54.6%          3,348             68.1%             3,613              70.3%
+         Employed                      3,118            53.3%          3,185             64.8%             3,387              65.9%
+         Unemployed                      78              1.3%           163               3.3%              226               4.4%
+      Armed Forces                       0               0.0%            0                0.0%               0                0.0%
+    Not in labor force                 2,653            45.4%          1,570             31.9%             1,528              29.7%
+    Total Population 16 & Over         5,849           100.0%          4,918            100.0%             5,141             100.0%
+
+                                  Source: U.S. Decennial Census; American Community Survey (2013-17)
+
+
+    2.   Employment Characteristics of Employed Residents. The following two tables detail information on the
+         employment characteristics of North Caldwell residents. In 2023, 67.7% of the Borough’s employed
+         residents 16 and over worked in management, professional and related occupations and 18.4% worked in
+         sales and office related jobs. The data indicates there was a significant increase in those working in
+         management, professional and related occupations and decreases in those working in sales and office and
+         production, transportation and material moving jobs.
+
+                       TABLE 21 - EMPLOYED RESIDENTS AGE 16 AND OVER, BY OCCUPATION (2000 – 2023)
+                                                   NORTH CALDWELL, NJ
+
+                                                              2000                           2010                             2023
+Occupation                                             Number      Percent        Number            Percent         Number           Percent
+Management, professional, and related                   1,967       47.1%          1,903             59.7%           2,292            67.7%
+Service                                                  482        9.0%            202              6.3%             376             11.1%
+Sales and office                                         513        28.6%           853              26.8%            622             18.4%
+Natural resources, construction, and maintenance          79         6.1%           165              5.2%              34              1.0%
+Production, transportation, and material moving           77        9.2%             62               1.9%             63              1.9%
+Total                                                   3,118       100.0          3,185            100.0%           3,387           100.0%
+
+                        Source: U.S. Decennial Census; 2010 & 2023 American Community Survey 5-Year Estimates.
+
+
+                                                                                        2025 Housing Element and Fair Share Plan
+                                                                                                      Borough of North Caldwell
+                                                                                                                                     23
+            ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 28 of 80 Trans ID: LCV20251781724
+
+
+
+       The industries representing the three largest categories of employed residents in North Caldwell in 2023 were
+       education, health and social services at 29.3%, professional and related services at 24.4% and finance, insurance
+       and real estate at 17.7% totaling 71.4% of the population.
+
+                      TABLE 22 - EMPLOYED RESIDENTS AGE 16 AND OVER, BY INDUSTRY (2000 - 2023)
+                                                NORTH CALDWELL, NJ
+
+                                                          2000                        2010                        2023
+Industry                                        Number           Percent     Number          Percent     Number          Percent
+Agriculture, Forestry, Fisheries & Mining          15              0.1%          0             0.0%          0             0.0%
+Construction                                       85             4.0%         101             3.2%        131             3.9%
+Manufacturing                                    235              17.0%        169             5.3%        124             3.7%
+Wholesale Trade                                   214             5.2%         237             7.4%         24             0.7%
+Retail Trade                                     296              11.5%        281             8.8%         96             2.8%
+Transportation, Warehousing, and Utilities         51             4.6%          65             2.0%        105             3.1%
+Information                                         0             5.6%          62             1.9%         21             0.6%
+Finance, Insurance & Real Estate                 503              10.0%        445            14.0%        599            17.7%
+Professional & Related Services                  548              15.1%        654            20.5%        828            24.4%
+Education, Health and Social Services             715             15.2%        713            22.4%        991            29.3%
+Arts, Entertainment & Recreational Services       129             5.5%         212             6.7%        160             4.7%
+Public Administration                             113              2.7%         92             2.9%        117             3.5%
+Other Services                                    214             3.5%         154             4.8%        191             5.6%
+Total                                            3,118            100.0       3,185          100.0%       3,387          100.0%
+
+                      Source: U.S. Decennial Census; 2010 & 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+  24                                                                                                                               24
+           ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 29 of 80 Trans ID: LCV20251781724
+
+
+
+
+2.7 Employment Projections
+A projection of the Borough’s probable future employment characteristics is based on an assessment of historic
+employment trends, the number of non-residential construction permits issued, and probable non-residential
+development of lands. Each of these items are identified and outlined below.
+
+   1. Historic Employment Trends. Employment in North Caldwell increased roughly 60 jobs since 2014 and
+      peaked in 2018 at 995. It is noted that the most significant declines in employment over the 10-year period
+      shown were in 2019 and 2020 due in part to the COVID-19 pandemic.
+
+                          TABLE 23 - AVERAGE COVERED EMPLOYMENT TRENDS (2014-2023)
+                                              NORTH CALDWELL, NJ
+
+                                                            Change in
+                           Year      Number of Jobs                           Percent Change
+                                                          Number of Jobs
+                          2014              849                   8                  1.0%
+                           2015             855                   6                 0.7%
+                           2016             875                  20                 2.3%
+                           2017             940                  65                 7.4%
+                           2018             995                  ��                 ����
+                           2019             956                  ���                �����
+                          2020              885                  ��₺                �����
+                           2021             898                  ₺�                 ₺���
+                          2022              934                  ��                 ��₹�
+                          2023              910                  �₺�                �₺���
+
+                                  Sources: Department of Labor and Workforce Development
+
+
+
+
+                                                                               2025 Housing Element and Fair Share Plan
+                                                                                             Borough of North Caldwell
+                                                                                                                          25
+        ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 30 of 80 Trans ID: LCV20251781724
+
+
+
+
+2. Non-Residential Square Footage Constructed During the Last Ten Years. The table below indicates there was
+   minimal nonresidential development in North Caldwell from 2014 to 2023. A single building permit was issued
+   for 4,968 square feet of storage space.
+
+                TABLE 24 - NON-RESIDENTIAL SPACE AUTHORIZED BY BUILDING PERMITS (2014 – 2023)
+                                        NORTH CALDWELL, NEW JERSEY
+
+              Year         Office         Retail        A-2        Hazardous          Storage             Total
+            Issued         (sq.ft.)      (sq.ft.)     (sq.ft.)       (sq.ft.)          (sq.ft.)          (sq.ft.)
+             2014             0             0            0              0                 0                 0
+             2015             0             0            0              0                 0                 0
+             2016             0             0            0              0                 0                 0
+             2017             0             0            0              0                 0                 0
+             2018             0             0            0              0                 0                 0
+             2019             0             0            0              0              4,968             4,968
+             2020             0             0            0              0                 0                 0
+             2021             0             0            0              0                 0                 0
+             2022             0             0            0              0                 0                 0
+             2023             0             0            0              0                 0                 0
+             Total
+                              0             0            0               0             4,968             4,968
+            (sq.ft.)
+
+                       Source: New Jersey Department of Community Affairs (DCA) Construction Reporter.
+
+
+3. Probable Non-Residential Development of Lands. Opportunities for non-residential development in North
+   Caldwell are limited given the lack of vacant land. Any new nonresidential development or redevelopment
+   is likely to occur along Bloomfield Avenue or Fairfield Road.
+
+4. Probable Future Employment Characteristics. The Borough’s employment trend combined with minimal
+   expectations for new non-residential development suggests that future employment growth within the
+   Borough will be limited and has yet to reach the number of jobs that existed prior to the COVID-19
+   pandemic.
+
+
+
+
+26                                                                                                                  26
+            ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 31 of 80 Trans ID: LCV20251781724
+
+
+
+
+Section 3: Fair Share Obligation
+The following section provides an overview of the Borough’s Fourth Round fair share obligation. It includes a brief
+overview of the methodology utilized to calculate affordable housing obligations throughout the State.
+
+
+
+3.1 Summary of Fair Share Obligation
+On March 20, 2024, Governor Murphy signed Bill A4/S50 Bill into law amending the Fair Housing Act (“FHA”)
+originally adopted in 1985. The amended FHA commonly referred to as the Fair Housing Act-2 (“FHA-2”)
+eliminated COAH and created a new entity known as the Affordable Housing Dispute Resolution Program (“The
+Program”)consisting of seven retired Mount Laurel judges to review municipal compliance plans and resolve
+disagreements. The legislation effectively split functions between the Department of Community Affairs (“DCA”)
+and the Administrative Office of the Courts (“AOC”). The FHA-2 also established a new methodology for
+calculating municipal need numbers, municipal compliance requirements and administrative review process
+through The Program for the Fourth Round and subsequent rounds. These rounds span a period of 10 years
+where the First and Second Rounds administered by COAH covered 6-year periods. The Third Round extending
+from 1999 to 2025 (26 years) was an anomaly due to extensive litigation and COAH becoming dysfunctional to
+where it could no longer administer the State’s affordable housing process which was returned to the trial courts.
+
+The FHA-2 designates the DCA as being responsible for calculating the State’s regional housing need numbers.
+N.J.S.A. 52:27D-304.2 establishes the methodology to be utilized by the DCA to determine the State’s regional
+prospective needs of low- and moderate-income housing for the ten-year period spanning from July 1, 2025 to
+June 30, 2035. In summary, the projected change in number of households for this period is estimated by
+establishing the household change experienced in each of the State’s six regions between the most recent federal
+decennial census and the second-most recent decennial census. This household change, if positive, is divided by
+2.5 to estimate the number of low- and moderate-income homes needed to address low- and moderate-income
+household change in the region for the next ten years. Utilizing this methodology, the DCA published its report
+entitled “Affordable Housing Obligations for 2025-2035 (Fourth Round) Methodology and Background)” which
+indicated a statewide prospective need of 84,698 low- and moderate-income units.
+
+In addition, the DCA was tasked with calculating individual municipal present need (rehabilitation) and prospective
+need obligations. However, the FHA-2 states that these DCA calculations are advisory and non-binding, and that
+each municipality is responsible for determining its own obligation utilizing the same methodology.
+
+On January 28, 2025, North Caldwell adopted Resolution No. R-41-2025 (see Appendix) accepting the DCA’s
+calculated Present Need of 0 units and Prospective Need of 118 units thereby establishing its Fourth Round
+affordable housing obligations. The Borough’s Fourth Round obligation was confirmed by Judge Russo in his
+Order dated March 24, 2025 (see Appendix).
+
+In addition, Resolution No. R-41-2025 also noted that the Borough reserves the right to conduct a Vacant Land
+Adjustment (VLA) to determine its realistic development potential (RDP) as discussed in greater detail herein.
+
+                                                                          2025 Housing Element and Fair Share Plan
+                                                                                        Borough of North Caldwell
+                                                                                                                     27
+            ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 32 of 80 Trans ID: LCV20251781724
+
+
+
+Table 25 provides a summary of the Borough’s Fourth Round affordable housing obligations.
+
+                         TABLE 25 – NORTH CALDWELL SUMMARY OF FOURTH ROUND OBLIGATION
+
+                                    Affordable Obligation               # Units
+                                    Present Need (Rehabilitation)          0
+                                    Prospective Need                      118
+                                    Fourth Round RDP                       0
+                                    Unmet Need                            118
+
+
+
+
+3.2 Realistic Development Potential (RDP)
+As noted in the Borough’s 2019 Third Round Housing Element and Fair Share Plan, North Caldwell is a fully
+developed community and is therefore entitled to conduct a vacant land analysis (“VLA”) to adjust its Prospective
+Need Obligation by calculating its RDP in accordance with the procedures set forth in the FHA-2 (N.J.S.A. 52:27D-
+310.1). A VLA is intended to identify sites in a municipality that are likely to develop with affordable housing.
+Municipalities are required to consider all privately and municipally owned vacant parcels and underutilized sites
+such as driving ranges, farms in the State’s Planning Areas 1 and 2, nurseries, golf courses not owned by their
+members and nonconforming uses. Upon identification of such potential sites, municipalities are permitted to
+eliminate a site entirely or a portion of a site based on a variety of factors, including: lands dedicated for public
+uses other than housing since 1997; park lands or open space; vacant contiguous parcels in private ownership of
+a size (0.83 acres or less) which would accommodate fewer than five housing units; historic and architecturally
+important sites listed on the State Register of Historic Places or the National Register of Historic Places; preserved
+architectural lands; sites designated for active recreation; and environmentally sensitive lands.
+
+   1. Third Round RDP
+
+        The Borough’s Third Round Prospective Need obligation was adjusted by a VLA which calculated the
+        Borough’s RDP to be 64 units as set forth in the Borough’s Settlement Agreement with FSHC and 2019
+        HE&FSP. The Borough’s Third Round RDP was ultimately approved by the Court in the Borough’s Third
+        Round JOR.
+
+        The 2018 Settlement Agreement with FSHC includes a provision that in the even the Green Brook Golf
+        Course ceases to remain a golf course and development of the property is initiated in accordance with the
+        Inclusionary Residential Overlay (IRO) Zone (amended on December 19, 2023 by Ordinance No. O-25-
+        2023 to SIRO Senior Inclusionary Residential Overlay Zone) created as part of the Third Round JOR, the
+        Borough would be required to revisit its Third Round RDP obligation, accept an RDP on the golf course
+        property and satisfy the increased Third Round RDP with units from the golf course development and/or
+        other appropriate mechanisms.
+
+
+
+
+   28                                                                                                                    28
+       ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 33 of 80 Trans ID: LCV20251781724
+
+
+
+   The developer of the Green Brook Country Club site has submitted a preliminary site plan application to
+   the North Caldwell Planning Board, which as of the adoption of this HE&FSP has yet to be deemed
+   complete. The application is for a 271-unit inclusionary development which generates an additional Third
+   Round RDP of 54 units (271 units x 20% affordable set-aside). Therefore, the Borough’s Third Round RDP
+   is modified from 64 to 118 units.
+
+2. Fourth Round RDP
+
+   North Caldwell is a fully developed community that continues to lack vacant, developable land and is
+   entitled to rely on its previous court-approved VLA, which established its RDP. This is informed by COAH’s
+   regulations regarding same at N.J.A.C. 5:97-5.1(c) and (d), as well as the Borough’s 2018 Settlement
+   Agreement with FSHC. Specifically, N.J.A.C. 5:97-5.1(c) and (d) state that:
+
+      A vacant land adjustment that was granted as part of a (previous) round certification or judgment of
+      compliance shall continue to be valid provided the municipality has implemented all of the terms of the
+      substantive certification or judgment of compliance. If the municipality failed to implement the terms of
+      the substantive certification or judgment of compliance, the Council may reevaluate the vacant land
+      adjustment.
+
+   Further, the Borough’s 2018 Settlement Agreement with FSHC states that “the Borough’s RDP shall not be
+   revisited by FSHC or any other interested party absent a substantial changed circumstance.” FSHC vs Twp.
+   of Cherry Hill, 173 NJ 303 (2002) is the leading case that required a possible recalibration of an RDP based
+   upon “changed circumstances.”
+
+   As such, the Borough’s Fourth Round VLA included a review of development applications and activity since
+   2019, vacant private and publicly owned parcels (Property Classes 1 and 15C) and farm qualified (Class 3B)
+   properties within Planning Areas 1 and 2 in the Borough. The VLA revealed there are no changed
+   circumstances or newly vacant properties which meet the criteria to qualify as contributing to the Borough’s
+   RDP. Therefore, the Borough’s Fourth Round RDP is zero (0) units. A summary of the Borough’s Fourth
+   Round VLA is provided in the Appendix.
+
+
+
+
+                                                                     2025 Housing Element and Fair Share Plan
+                                                                                   Borough of North Caldwell
+                                                                                                                29
+            ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 34 of 80 Trans ID: LCV20251781724
+
+
+
+
+Section 4: Fair Share Plan
+This Fair Share Plan component of North Caldwell’s 2025 HE&FSP outlines the manner in which the Borough will address
+its affordable housing obligations. These obligations are summarized as follows:
+
+                        TABLE 26 – NORTH CALDWELL AFFORDABLE HOUSING OBLIGATIONS SUMMARY
+
+         Round                                                           Obligation          RDP           Unmet Need
+         Present Need (Rehabilitation Obligation                           0 units             -                 -
+         First & Second Round Obligation (1987-1999)                      63 units             -                 -
+         Third Round Obligation (1999 – 2025)                            360 units        118 units (1)    359 units (2)
+         Fourth Round Obligation (2025 – 2035)                            118 units         0 units          118 units
+
+           (1) The Third Round RDP has been adjusted from 64 as contemplated in the 2018 Settlement Agreement with FSHC to account
+               for the RDP of 54 units generated from the Green Brook Country Club development.
+           (2) The Borough’s Third Round RDP of 359 units is based on the consolidation of the Borough’s First, Second and Third Round
+               Obligations totaling 423 units less the Borough’s Third Round RDP of 64 units in accordance with the Borough’s 2018
+               Settlement Agreement with FSHC and 2019 HE&FSP.
+
+
+As detailed herein, the Housing Element and Fair Share Plan addresses the manner in which the Borough will
+address its affordable housing obligations through 2035 in a manner that affirmatively addresses affordable
+housing need, while at the same time addressing planning concerns and maintaining the overall character of the
+community.
+
+
+
+
+   30                                                                                                                                    30
+              ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 35 of 80 Trans ID: LCV20251781724
+
+
+
+
+4.1 Plan Components
+The Borough’s various plan mechanisms to address its affordable housing obligations are summarized below. The
+Plan Components Map at the end of this section illustrates the locations of all of the plan components identified
+herein.
+
+   1. Present Need (Rehabilitation) Obligation
+
+          The DCA assigned North Caldwell a Present Need obligation of 0 units which the Borough accepted on
+          January 28, 2025 in its Resolution No. R-41-2025. The Borough will continue to cooperate with Essex
+          County’s Home Improvement Program to provide assistance to households in North Caldwell qualifying
+          for rehabilitation assistance.
+
+   2. Prior Round (First, Second & Third Round) Obligation
+
+          In accordance with the Borough’s 2018 Settlement Agreement with FSHC and 2019 HE&FSP, the Borough
+          has a Prior Round obligation of 423 units which consolidated its First and Second Round obligation of 63
+          units and 360-unit Third Round obligation. The Borough’s Third Round VLA resulted in the adjustment of
+          its obligation to a court-approved RDP of 64 units and Unmet Need (the difference between the
+          Prospective Need obligation and RDP) of 359 units. As indicated previously, the Borough’s Third Round
+          RDP has been modified from 64 units as indicated in the Borough’s 2019 HE&FSP to 118 units to include
+          the RDP of 54 units generated from the proposed 271-unit inclusionary development at the Green Brook
+          Country Club site. North Caldwell satisfies the entirety of its Third Round RDP through the plan mechanisms
+          summarized in Table 27 below, including the RPM 50-unit 100% affordable development and Green Brook
+          Country Club (SIRO Zone) inclusionary development.
+
+                       TABLE 27 – NORTH CALDWELL PLAN MECHANISMS TO ADDRESS THIRD ROUND RDP
+
+                                                                            Bonus
+                                                                            Credit        Bonus           Total
+  Plan Mechanism                                               # Units     Multiplier     Credits        Credits         Status
+  RPM 100% Affordable Rental Development (48 units)              39            -             -             39          Completed
+  Green Brook Gold Course (SIRO Zone)                            50         x 2 (1)        29 (3)          69           Pending
+                                                                           x 1.33 (2)
+  Total                                                           89           -            29 (3)          118                -
+
+                                                (1) Rental bonus credits per COAH rules.
+                                               (2) Senior bonus credits per COAH Rules.
+                          (3) Regulations permit a maximum number of bonus credits not to exceed 25% of RDP.
+
+
+
+
+                                                                                    2025 Housing Element and Fair Share Plan
+                                                                                                  Borough of North Caldwell
+                                                                                                                                   31
+         ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 36 of 80 Trans ID: LCV20251781724
+
+
+
+3. Fourth Round Obligation
+
+     As previously indicated, North Caldwell adopted Resolution No. R-41-2025 which accepted its Fourth
+     Round Prospective Need Obligation of 118 units as calculated by the DCA despite finding flaws in the DCA’s
+     land capacity factor analysis. That Resolution also stated that the Borough reserves the right to conduct a
+     vacant land analysis (“VLA”) to determine its realistic development potential (“RDP”). Accordingly, the
+     Borough prepared a new Fourth Round VLA which revealed there are no newly vacant parcels or parcels
+     with changed circumstances that meet the criteria to contribute to the Borough’s Fourth Round RDP.
+     Therefore, the Borough’s Fourth Round RDP is zero (0) affordable units.
+
+     The difference between the Borough’s Prospective Need obligation and its RDP obligations is what is known
+     as Unmet Need. For North Caldwell, its Fourth Round Prospective Need Obligation of 118 units less its
+     Fourth Round RDP of 0 units results in an Unmet Need of 118 units. Whereas the RDP obligations must be
+     affirmatively addressed by the Borough as outlined above, addressing Unmet Need involves a lower
+     standard, as the entire Unmet Need obligation does not have to be fully satisfied by 2035. The Borough’s
+     Unmet Need will be addressed by the plan mechanisms indicated in the table below, including 9 surplus
+     credits from the RPM 50-unit 100% development, two overlay zones and mandatory affordable set-aside
+     ordinance. The Borough will also continue to consider emergent opportunities to create new affordable
+     housing, including group homes, where appropriate consistent with the Borough’s Master Plan and Zoning
+     Ordinance.
+
+                    TABLE 29 – NORTH CALDWELL PLAN MECHANISMS TO ADDRESS UNMET NEED
+
+                                                                             Total
+          Plan Mechanism                                         # Units    Credits      Status
+          RPM 100% Affordable Rental Development (48 units)         9          9       Completed
+          Fairfield Road Overlay Zone                               -          -        Adopted
+          Bloomfield Avenue Overlay Zone                            -          -        Adopted
+          Mandatory Affordable Set-Aside Ordinance                  -          -        Adopted
+          Total                                                     9          9            -
+
+
+
+
+32                                                                                                                 32
+            ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 37 of 80 Trans ID: LCV20251781724
+
+
+
+
+4.2 Development Sites & Plan Mechanisms
+The Borough’s affordable housing sites and plan mechanisms identified in Section B are discussed below. The Plan
+Components Map below illustrates the locations of the sites identified herein.
+
+                             NORTH CALDWELL FOURTH ROUND PLAN COMPONENTS MAP
+
+
+
+
+                                                                        2025 Housing Element and Fair Share Plan
+                                                                                      Borough of North Caldwell
+                                                                                                                   33
+         ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 38 of 80 Trans ID: LCV20251781724
+
+
+
+1. RPM 50-unit 100% Affordable Development
+
+     On December 20, 2016, the Borough executed a Redevelopment Agreement with RPM Development, LLC,
+     subsequently amended in 2019, to develop a 50-unit, 100% affordable family rental development on 5
+     acres at Block 104 Lot 1 commonly known as the Hilltop site in the southeast area of the Borough. In
+     accordance with the Agreement, the Borough-owned property was conveyed to the developed via deed
+     on February 5, 2019. A separate PILOT (“Payment In Lieu of Taxes”) Agreement was entered into between
+     the Borough and RPM Development, LLC. The Borough contributed $1,194,962.49 from its affordable
+     housing trust fund to the project for construction costs and affordability assistance. In addition, RPM was
+     awarded NJHMFA’s competitive 9% tax credits to assist with the project financing. The development of the
+     RPM project is complete and occupied.
+
+
+
+
+34                                                                                                                 34
+        ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 39 of 80 Trans ID: LCV20251781724
+
+
+
+2. Senior Inclusionary Residential Overlay (SIRO) Zone (Green Brook Country Club)
+
+   On December 11, 2018, North Caldwell entered into a Settlement Agreement with Green Brook Realty
+   Associates, LLC establishing the development framework for the existing Green Brook Country Club at
+   Block 1600 Lot 1 comprising a land area of approximately 100 acres located along the Borough’s western
+   border. The Borough adopted Ordinance No. O-8-20 in July 2020 to establish the original Inclusionary
+   Residential Overlay (“IRO”) Zone contemplated in the Settlement Agreement that was subsequently
+   amended to the Senior Inclusionary Residential Overlay (“SIRO”) Zone. The SIRO Zone permits age-
+   restricted market rate stacked flats and townhouses not to exceed 271 units. It requires a minimum of 25
+   affordable non-age restricted family rental apartments and 25 affordable age-restricted apartments
+   resulting in an affordable housing set-aside of 18.5%. The developer submitted an application for
+   preliminary site plan approval in 2025, which as of the adoption of this document has yet to be deemed
+   complete for scheduling at a public hearing of the Planning Board but is anticipated to being public hearing
+   in 2025.
+
+
+
+
+                                                                     2025 Housing Element and Fair Share Plan
+                                                                                   Borough of North Caldwell
+                                                                                                                35
+         ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 40 of 80 Trans ID: LCV20251781724
+
+
+
+3. Bloomfield Avenue Overlay Zone
+
+     The Bloomfield Avenue Overlay (“BOA”) District was established in August 2019 via the adoption of
+     Ordinance No. O-10-19 encompassing the entirety of Block 100 bounded by Bloomfield Avenue to the
+     south and Elm Road to the north. This overlay zone permits residential development above the first floor
+     not to exceed a residential density of 10 units per acre and requires a mandatory affordable housing set-
+     aside of 20% of for sale units and 15% of rental units. The underlying Office District uses shall continue to
+     be permitted. The BOA Overlay Zone will address a portion of the Borough’s Unmet Need.
+
+
+
+
+36                                                                                                                   36
+        ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 41 of 80 Trans ID: LCV20251781724
+
+
+
+4. Fairfield Road Overlay Zone
+
+   The Fairfield Road Overlay (“FRO”) District was established in August 2019 via the adoption of Ordinance
+   No. O-10-19 comprised of Block 2200, Lots 3, 4, 5 and 6 and Block 2201 Lots 1 and 2. The FRO Zone
+   permits single-family an multifamily development with a maximum permitted residential density of 10 units
+   per acre and requires a mandatory affordable housing set-aside of 20% of for sale units and 15% of rental
+   units. The underlying zoning will remain in effect. The FRO Overlay Zone will address a portion of the
+   Borough’s Unmet Need.
+
+
+
+
+                                                                    2025 Housing Element and Fair Share Plan
+                                                                                  Borough of North Caldwell
+                                                                                                               37
+            ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 42 of 80 Trans ID: LCV20251781724
+
+
+
+   5. Mandatory Affordable Set-Aside Ordinance
+
+        The Borough adopted its Mandatory Set-Side Ordinance in August 2019 via Ordinance No. O-7-19 which
+        requires an affordable housing set-aside for multifamily residential development of five or more dwelling units
+        at rates of 20% of for sale units and 15% of rental units. This requirement will ensure that new multifamily
+        development in the Borough will provide its fair share of affordable units and continue to assist the Borough in
+        its efforts to address its Unmet Need obligations. To be clear, this does not obligate the Borough to grant any
+        subdivision or site plan approvals, rezonings, use variances or redevelopment/rehabilitation designations for
+        any such development which are required to comply with the Borough’s Zoning Ordinance and development
+        application review procedures.
+
+
+
+4.3 Rejected Development Sites
+There are no sites for which inclusionary development was considered that were rejected and not included in this Plan.
+
+
+
+4.4 General Provisions
+The following additional requirements are noted:
+
+   1.   Fourth Round Bonuses. Fourth Round bonuses will be applied in accordance with N.J.A.C. 52:27d-311.k.
+
+   2. Very-Low Income and Low-Income Units. At least 50% of the units addressing the Fourth Round Prospective
+      Need obligation shall be affordable to very low-income and low-income households with the remainder
+      affordable to moderate-income households. A minimum of 13% of the affordable units will be made available
+      to very low-income households, defined as households earning 30% or less of the regional median income by
+      household size.
+
+   3. Rental Component. At least 25% of the Fourth Round Prospective Need obligation shall be met through rental
+      units, including at least half in rental units available to families.
+
+   4. Family Units. At least half of the actual units created to address the Fourth Round Prospective Need obligation
+      must be available to families.
+
+   5. Age-Restricted Cap. No more than 30% of all units developed or planned to meet the Fourth Round Prospective
+      Need obligation may be satisfied with age-restricted units.
+
+   6. Development Fees. North Caldwell will continue to impose residential and non-residential development fees
+      in accordance with the Borough’s Development Fee Ordinance to be collected in the Borough’s existing
+      affordable housing trust fund. The funds generated from these development fees will be applied directly
+      towards any activity approved by State regulations for addressing the Borough’s affordable housing obligations.
+      The Borough’s Spending Plan (see draft spending plan in the Appendix) projects estimated annual revenues
+      and prescribes how the funds will be allocated over the course of the Fourth Round 10-year period.
+
+   38                                                                                                                      38
+             ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 43 of 80 Trans ID: LCV20251781724
+
+
+
+
+4.5 Crediting Documentation & Ongoing Compliance
+North Caldwell intends to adhere to the applicable State requirements pertaining to affordable unit monitoring and
+reporting. This includes compliance with the statutorily required updates to the municipal housing project status report
+by the DCA deadline of February 15, 2025. These updates are included in the State’s new Affordable Housing
+Monitoring System and fulfill the Borough’s obligation to specify the creditworthiness of all existing affordable housing
+units in North Caldwell. In addition, all crediting documentation submitted to and approved by the Court as part of
+the Borough’s Third Round Housing Element and Fair Share Plan remains on file with and accessible from the Court.
+
+
+
+4.6 Consistency with State Planning Initiatives
+As noted in Section 1 of this plan, a HE&FSP must also include:
+
+     An analysis of the extent to which municipal ordinances and other local factors advance or detract from the
+      goal of preserving multigenerational family continuity as expressed in the recommendations of the
+      Multigenerational Family Housing Continuity Commission; and
+
+     An analysis of consistency with the State Development and Redevelopment Plan, including water, wastewater,
+      stormwater, and multi-modal transportation based on guidance and technical assistance from the State
+      Planning Commission.
+
+Accordingly, the following subsection analyzes the consistency of this HE&FSP to the above referenced state planning
+initiatives.
+
+    1.   Multigenerational Family Housing Continuity Commission
+
+         The Multigenerational Family Housing Continuity Commission was established by the State of New Jersey in
+         2021. As noted in N.J.S.A. 52:27D-329.20, one of the primary duties of the Commission is to “prepare and adopt
+         recommendations on how State government, local government, community organizations, private entities, and
+         community members may most effectively advance the goal of enabling senior citizens to reside at the homes
+         of their extended families, thereby preserving and enhancing multigenerational family continuity, through the
+         modification of State and local laws and policies in the areas of housing, land use planning, parking and
+         streetscape planning, and other relevant areas.”
+
+
+         As of the date of this HE&FSP, the Multigenerational Family Housing Continuity Commission has not yet adopted
+         any recommendations.
+
+
+
+
+                                                                              2025 Housing Element and Fair Share Plan
+                                                                                            Borough of North Caldwell
+                                                                                                                         39
+          ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 44 of 80 Trans ID: LCV20251781724
+
+
+
+2. State Development and Redevelopment Plan
+
+     As established by N.J.S.A. 52:18A-200(f ), the purpose of the State Development and Redevelopment Plan (SDRP)
+     is to “coordinate planning activities and establish Statewide planning objectives in the following areas: land use,
+     housing, economic development, transportation, natural resource conservation, agriculture and farmland
+     retention, recreation, urban and suburban redevelopment, historic preservation, public facilities and services,
+     and intergovernmental coordination.”
+
+     As such, the SDRP establishes a number of goals and strategies related to a number of different topics, including
+     economic redevelopment. One such goal is to revitalize existing urban centers by directing growth and
+     development to those areas. Specifically, the SDRP seeks to revitalize the State’s cities and towns by protecting,
+     preserving, and developing the valuable human and economic assets in cities, town, and other urban areas.
+
+     As indicated by the SDRP’s Policy Map, the entirety of North Caldwell is located in the PA-1 Metropolitan
+     Planning Area, wherein development and redevelopment is intended to be directed. The intent of this Planning
+     Area is to:
+
+            Provide for much of the state’s future redevelopment;
+            Revitalize cities and towns;
+            Promote growth in compact forms;
+            Stabilize older suburbs;
+            Redesign areas of sprawl; and;
+            Protect the character of existing stable communities.
+
+     Accordingly, this HE&FSP is consistent with the intents of the PA-1. Specifically, it is designed to encourage
+     redevelopment and growth in a compact form within the portion of the municipality designated as PA-1, while
+     also protecting the character of the existing community.
+
+     It is noted that the State is in the process of preparing a new State Development and Redevelopment Plan by
+     the end of 2025.
+
+
+
+
+40                                                                                                                         40
+    ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 45 of 80 Trans ID: LCV20251781724
+
+
+
+
+Appendices
+
+
+
+
+                                                      2025 Housing Element and Fair Share Plan
+                                                                    Borough of North Caldwell
+                                                                                                 41
+    ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 46 of 80 Trans ID: LCV20251781724
+
+
+
+
+Fourth Round Complaint for Declaratory Relief
+Pursuant to AOC Directive #14-24
+    ESX-L-000792-25
+     ESX-L-000792-25 06/17/2025
+                      01/29/20252:01:58
+                                 2:43:16PM
+                                         PM Pg
+                                             Pg47
+                                                1 of 80
+                                                     17 Trans ID: LCV2025221342
+                                                                  LCV20251781724
+
+
+
+
+SURENIAN, EDWARDS, BUZAK & NOLAN LLC
+311 Broadway, Suite A
+Point Pleasant Beach, NJ 08742
+(732) 612-3100
+By: Erik C. Nolan, Esq. (Attorney ID: 014032006)
+Attorneys for Declaratory Plaintiff, Borough of North Caldwell
+
+                                                   SUPERIOR COURT OF NEW JERSEY
+                                                   LAW DIVISION: ESSEX COUNTY
+
+ IN   THE     MATTER    OF  THE DOCKET NO.: ESX-L-____
+ APPLICATION OF THE BOROUGH OF
+ NORTH CALDWELL, COUNTY OF                 CIVIL ACTION
+ ESSEX, STATE OF NEW JERSEY        AFFORDABLE HOUSING DISPUTE
+                                      RESOLUTION PROGRAM
+                                       PER DIRECTIVE # 14-24
+
+
+                                                   COMPLAINT FOR DECLARATORY
+                                                   RELIEF    PURSUANT TO AOC
+                                                   DIRECTIVE # 14-24
+
+
+       Declaratory Plaintiff, the Borough of North Caldwell, County of Essex, State of New Jersey
+
+(hereinafter, “North Caldwell” or the “Borough”), a municipal corporation of the State of New
+
+Jersey, with principal offices located at 141 Gould Ave, North Caldwell, New Jersey 07006, by
+
+way of filing this Declaratory Judgment Complaint to start this Declaratory Judgment Action (“DJ
+
+Action”) as authorized under Directive # 14-24 of the Administrative Office of the Courts (“AOC”)
+
+alleges and says:
+
+                                          Background
+
+       1.      North Caldwell is a municipal corporation of the State of New Jersey.
+
+       2.      The Planning Board of the Borough of North Caldwell (hereinafter, “Planning
+
+Board”) is a municipal agency created and organized under the Municipal Land Use Law, N.J.S.A.
+
+40:55D-1 et. seq., (“MLUL”), and, among other duties and obligations, is responsible for adopting
+
+
+
+
+                                               1
+     ESX-L-000792-25
+      ESX-L-000792-25 06/17/2025
+                       01/29/20252:01:58
+                                  2:43:16PM
+                                          PM Pg
+                                              Pg48
+                                                 2 of 80
+                                                      17 Trans ID: LCV2025221342
+                                                                   LCV20251781724
+
+
+
+
+the Fourth Round Housing Element and Fair Share Plan (“HEFSP") of North Caldwell’s Master
+
+Plan.
+
+        3.      Through this DJ Action, North Caldwell seeks the following relief in relation to its
+
+Fourth Round (2025-2035) affordable housing obligation: (a) to secure the jurisdiction of the
+
+Affordable Housing Dispute Resolution Program (the “Program”) pursuant to P.L. 2024, c.2
+
+(hereinafter, the “Act”) and the Court, pursuant to AOC Directive # 14-24; (b) to have the Program
+
+and the Court approve the Borough of North Caldwell’s Present and Prospective affordable
+
+housing obligations as set forth in the binding resolution adopted by the Borough, attached hereto
+
+as Exhibit 1; (c) to have the Program and the Court approve the Borough’s HEFSP, to be adopted
+
+by the Planning Board and endorsed by the Council, and issue a conditional or unconditional
+
+“Compliance Certification” pursuant to the Act or other similar declaration; (d) through the filing
+
+of this DJ Action and binding resolution, to have the Program and the Court confirm North
+
+Caldwell’s immunity from all exclusionary zoning litigation, including builder’s remedy lawsuits,
+
+during the pendency of the process outlined in the Act and for the duration of Fourth Round, i.e.,
+
+through June 30, 2035; and (e) to have the Program and the Court take such other actions and grant
+
+such other relief as may be appropriate to ensure that the Borough receives and obtains all
+
+protections as afforded to it in complying with the requirements of the Act, including, without
+
+limitation, all immunities and presumptions of validity necessary to satisfy its affordable housing
+
+obligations voluntarily without having to endure the expense and burdens of unnecessary third
+
+party litigation.
+
+
+
+
+                                                2
+     ESX-L-000792-25
+      ESX-L-000792-25 06/17/2025
+                       01/29/20252:01:58
+                                  2:43:16PM
+                                          PM Pg
+                                              Pg49
+                                                 3 of 80
+                                                      17 Trans ID: LCV2025221342
+                                                                   LCV20251781724
+
+
+
+
+                                        COUNT I
+
+                ESTABLISHMENT OF JURISDICTION UNDER P.L.2024, C. 2
+
+           4.   The Borough of North Caldwell repeats and realleges each and every allegation as
+
+set forth in the previous paragraphs of this Declaratory Judgment Complaint as if set forth herein
+
+in full.
+
+           5.   The Act represents a major revision of the Fair Housing Act of 1985, N.J.S.A.
+
+52:27D-301 et. seq.
+
+           6.   Among other things, the Act abolished the Council on Affordable Housing
+
+(hereinafter, “COAH”), and replaced it with seven retired, on recall judges designated as the
+
+Program, and also authorized the Director of the AOC (hereinafter, “Director”) to create a
+
+framework to process applications for a Compliance Certification.
+
+           7.   On or about December 19, 2024, the Director issued Directive #14-24, which
+
+among other things, required municipalities seeking Compliance Certification to file an action in
+
+the form of a Declaratory Judgment Complaint and Civil Case Information Statement in the
+
+County in which the municipality is located within 48 hours after the municipality’s adoption of a
+
+binding resolution establishing the municipality’s Fourth Round numbers, as authorized under the
+
+Act, with an attached copy of said binding resolution.
+
+           8.   The Borough adopted a binding resolution establishing its Fourth Round present
+
+and prospective affordable housing obligations within the statutory window of time set forth in the
+
+Act and in accordance with the methodology and formula set forth in the Act, a certified copy of
+
+which resolution is attached to this Declaratory Judgment Complaint as Exhibit 1.
+
+
+
+
+                                                3
+    ESX-L-000792-25
+     ESX-L-000792-25 06/17/2025
+                      01/29/20252:01:58
+                                 2:43:16PM
+                                         PM Pg
+                                             Pg50
+                                                4 of 80
+                                                     17 Trans ID: LCV2025221342
+                                                                  LCV20251781724
+
+
+
+
+       9.       Based on the foregoing, the Borough has established the jurisdiction of the
+
+Program and the Court in regard to this DJ Action for a Compliance Certification as set forth
+
+hereinafter.
+
+       WHEREFORE, the Borough of North Caldwell seeks a declaratory judgment for the
+
+following relief:
+
+               a. Declaring that the Borough has established jurisdiction for the Program and the
+
+                    Court to confirm its present and prospective affordable housing needs as set
+
+                    forth in the binding resolution attached as Exhibit 1 to this Declaratory
+
+                    Judgment Complaint or to adjust such determination consistent with the Act;
+
+               b. Declaring the present and prospective affordable housing obligations of the
+
+                    Borough under the Act;
+
+               c. Declaring the approval of the Borough’s HEFSP subsequent to its adoption by
+
+                    the Planning Board and its endorsement by the Borough Council, including, as
+
+                    appropriate and applicable, (i) a Structural Conditions Survey or similar
+
+                    exterior survey which accounts for a higher-resolution estimate of present need;
+
+                    (ii) a Vacant Land Adjustment predicated upon a lack of vacant, developable
+
+                    and suitable land; (iii) a Durational Adjustment (whether predicated upon lack
+
+                    of sanitary sewer or lack of water); (iv) an adjustment predicated upon regional
+
+                    planning entity formulas, inputs or considerations, as applicable; (v) an
+
+                    adjustment based on any future legislation that may be adopted that allows an
+
+                    adjustment of the affordable housing obligations; (vi) an adjustment based upon
+
+                    any ruling in litigation involving affordable housing obligations; and/or (vii)
+
+
+
+
+                                                 4
+    ESX-L-000792-25
+     ESX-L-000792-25 06/17/2025
+                      01/29/20252:01:58
+                                 2:43:16PM
+                                         PM Pg
+                                             Pg51
+                                                5 of 80
+                                                     17 Trans ID: LCV2025221342
+                                                                  LCV20251781724
+
+
+
+
+                    any other applicable adjustment permitted in accordance with the Act and/or
+
+                    applicable COAH regulations;
+
+               d. Declaring that the Borough continues to have immunity from all exclusionary
+
+                    zoning litigation and all litigation related to its affordable housing obligations
+
+                    as established by the Act;
+
+               e. Declaring and issuing a Compliance Certification and continuing immunity
+
+                    from exclusionary zoning litigation in accordance with the Act and Directive #
+
+                    14-24 to the Borough of North Caldwell for the period beginning July 1, 2025
+
+                    and ending June 30, 2035; and
+
+               f. Declaring such other relief that the Program and Court deems just and proper
+
+                    within the parameters of the Act and all applicable regulations related to
+
+                    affordable housing within the State of New Jersey.
+
+                                             COUNT II
+
+                  DETERMINATION OF THE PRESENT AND
+         PROSPECTIVE NEED OF THE BOROUGH OF NORTH CALDWELL
+
+
+       10.     North Caldwell repeats and realleges each and every allegation set forth in the
+
+previous paragraphs of this Declaratory Judgment Complaint as if set forth herein in full.
+
+       11.     The Act adopted the methodology to calculate every municipality’s present and
+
+prospective need affordable housing obligation for the Fourth Round (2025-2035) and beyond.
+
+       12.     The Act directed the Department of Community Affairs (“DCA”) to apply the
+
+methodology and to render a non-binding calculation of each municipality’s present and
+
+prospective affordable housing obligations to be contained in a report to be issued no later than
+
+October 20, 2024.
+
+
+
+
+                                                 5
+    ESX-L-000792-25
+     ESX-L-000792-25 06/17/2025
+                      01/29/20252:01:58
+                                 2:43:16PM
+                                         PM Pg
+                                             Pg52
+                                                6 of 80
+                                                     17 Trans ID: LCV2025221342
+                                                                  LCV20251781724
+
+
+
+
+       13.     The DCA issued its report on October 18, 2024.
+
+       14.     Pursuant to the October 18, 2024 report, the DCA calculated North Caldwell’s
+
+present and prospective affordable housing obligations as follows:
+
+                     FOURTH ROUND              FOURTH ROUND
+                     PRESENT NEED              PROSPECTIVE NEED
+                     (REHABILITATION)          OBLIGATION (2025-2035)
+                     OBLIGATION
+
+
+                                  0                          118
+
+
+       15.     Pursuant to the Act, a municipality desiring to participate in the Program is
+
+obligated to adopt a “binding resolution” determining its present and prospective affordable
+
+housing obligations to which it will commit based upon the methodology set forth in the Act.
+
+       16.     North Caldwell adopted a binding resolution, a copy of which resolution is attached
+
+hereto and made a part hereof as Exhibit 1 to this Declaratory Judgment Complaint.
+
+       17.      The binding resolution maintains that North Caldwell’s Round 4 (2025-2035)
+
+Present Need (Rehabilitation) Obligation is 0 and its Prospective Need (“New Construction”)
+
+Obligation is 118.
+
+       18.     North Caldwell seeks the approval of, and confirmation by, the Program and the
+
+Court of the Round 4 (2025-2035) Present and Prospective affordable housing obligations as set
+
+forth in the binding resolution attached hereto and made a part hereof as Exhibit 1, or the
+
+adjustment of those obligations consistent with the Act and all applicable regulations.
+
+       19.      Pursuant to the binding resolution, the Borough of North Caldwell reserves all
+
+rights to amend its affordable housing obligations in the event of a successful legal challenge, or
+
+legislative change, to the Act.
+
+
+
+
+                                                6
+    ESX-L-000792-25
+     ESX-L-000792-25 06/17/2025
+                      01/29/20252:01:58
+                                 2:43:16PM
+                                         PM Pg
+                                             Pg53
+                                                7 of 80
+                                                     17 Trans ID: LCV2025221342
+                                                                  LCV20251781724
+
+
+
+
+       20.     Pursuant to the binding resolution, North Caldwell specifically reserves the right
+
+to seek and obtain 1) a Structural Conditions Survey or similar exterior survey which accounts for
+
+a higher-resolution estimate of present need; 2) a Vacant Land Adjustment predicated upon a lack
+
+of vacant, developable and suitable land; 3) a Durational Adjustment (whether predicated upon
+
+lack of sanitary sewer or lack of water); 4) an adjustment predicated upon regional planning entity
+
+formulas, inputs or considerations, as applicable; 5) an adjustment based on any future legislation
+
+that may be adopted that allows an adjustment of the affordable housing obligations; 6) an
+
+adjustment based upon any ruling in litigation involving affordable housing obligations; and 7)
+
+any other applicable adjustment permitted in accordance with the Act and/or applicable COAH
+
+regulations.
+
+       WHEREFORE, the Borough of North Caldwell seeks a declaratory judgment for the
+
+       following relief:
+
+               a. Declaring that the Borough has established jurisdiction for the Program and the
+
+                   Court to confirm its present and prospective affordable housing needs as set
+
+                   forth in the binding resolution attached as Exhibit 1 to this Declaratory
+
+                   Judgment Complaint or to adjust such determination consistent with the Act;
+
+               b. Declaring the present and prospective affordable housing obligations of the
+
+                   Borough under the Act;
+
+               c. Declaring the approval of the Borough’s HEFSP subsequent to its adoption by
+
+                   the Planning Board and its endorsement by the Borough Council, including, as
+
+                   appropriate and applicable, (i) a Structural Conditions Survey or similar
+
+                   exterior survey which accounts for a higher-resolution estimate of present need;
+
+                   (ii) a Vacant Land Adjustment predicated upon a lack of vacant, developable
+
+
+
+
+                                                7
+        ESX-L-000792-25
+         ESX-L-000792-25 06/17/2025
+                          01/29/20252:01:58
+                                     2:43:16PM
+                                             PM Pg
+                                                 Pg54
+                                                    8 of 80
+                                                         17 Trans ID: LCV2025221342
+                                                                      LCV20251781724
+
+
+
+
+                    and suitable land; (iii) a Durational Adjustment (whether predicated upon lack
+
+                    of sanitary sewer or lack of water); (iv) an adjustment predicated upon regional
+
+                    planning entity formulas, inputs or considerations, as applicable; (v) an
+
+                    adjustment based on any future legislation that may be adopted that allows an
+
+                    adjustment of the affordable housing obligations; (vi) an adjustment based upon
+
+                    any ruling in litigation involving affordable housing obligations; and/or (vii)
+
+                    any other applicable adjustment permitted in accordance with the Act and/or all
+
+                    applicable regulations;
+
+                d. Declaring that the Borough continues to have immunity from all exclusionary
+
+                    zoning litigation and all litigation related to its affordable housing obligations
+
+                    as established by the Act;
+
+                e. Declaring and issuing a Compliance Certification and continuing immunity
+
+                    from exclusionary zoning litigation in accordance with the Act and Directive #
+
+                    14-24 to North Caldwell for the period beginning July 1, 2025 and ending June
+
+                    30, 2035; and
+
+                f. Declaring such other relief that the Program and Court deems just and proper
+
+                    within the parameters of the Act and all applicable regulations related to
+
+                    affordable housing within the State of New Jersey.
+
+                                              COUNT III
+
+        APPROVAL OF BOROUGH’S HOUSING ELEMENT AND FAIR SHARE PLAN
+
+
+          21.   The Borough of North Caldwell repeats and realleges each and every allegation set
+
+forth in the previous paragraphs of this Declaratory Judgment Complaint as if set forth herein in
+
+full.
+
+
+
+                                                 8
+    ESX-L-000792-25
+     ESX-L-000792-25 06/17/2025
+                      01/29/20252:01:58
+                                 2:43:16PM
+                                         PM Pg
+                                             Pg55
+                                                9 of 80
+                                                     17 Trans ID: LCV2025221342
+                                                                  LCV20251781724
+
+
+
+
+       22.     Pursuant to the Act, a HEFSP must be prepared, adopted by the Planning Board
+
+and endorsed by the municipality by June 30, 2025.
+
+       23.     North Caldwell hereby commits for its professionals to prepare the appropriate
+
+HEFSP to address its affordable housing obligations, as determined by the Program and the Court,
+
+which HEFSP shall apply as appropriate, any applicable adjustments, including, without
+
+limitation, 1) a Structural Conditions Survey or similar exterior survey which accounts for a
+
+higher-resolution estimate of present need; 2) a Vacant Land Adjustment predicated upon a lack
+
+of vacant, developable and suitable land; 3) a Durational Adjustment (whether predicated upon
+
+lack of sanitary sewer or lack of water); 4) an adjustment predicated upon regional planning entity
+
+formulas, inputs or considerations, as applicable; 5) an adjustment based on any future legislation
+
+that may be adopted that allows an adjustment of the affordable housing obligations; 6) an
+
+adjustment based upon any ruling in litigation involving affordable housing obligations; and 7)
+
+any other applicable adjustment permitted in accordance with the Act and/or applicable
+
+regulations.
+
+       WHEREFORE, the Borough of North Caldwell seeks a declaratory judgment for the
+
+       following relief:
+
+               a. Declaring that North Caldwell has established jurisdiction for the Program and
+
+                   the Court to confirm its present and prospective affordable housing needs as set
+
+                   forth in the binding resolution attached as Exhibit 1 to this Declaratory
+
+                   Judgment Complaint or to adjust such determination consistent with the Act;
+
+               b. Declaring the present and prospective affordable housing obligations of the
+
+                   Borough under the Act;
+
+
+
+
+                                                9
+ESX-L-000792-25
+ESX-L-000792-25 06/17/2025
+                 01/29/20252:01:58
+                            2:43:16PM
+                                   PM Pg
+                                      Pg56
+                                         10of
+                                            of80
+                                               17 Trans
+                                                  TransID:
+                                                        ID: LCV2025221342
+                                                           LCV20251781724
+
+
+
+
+        c. Declaring the approval of the Borough’s HEFSP subsequent to its adoption by
+
+           the Planning Board and its endorsement by the Borough Council, including, as
+
+           appropriate and applicable, (i) a Structural Conditions Survey or similar
+
+           exterior survey which accounts for a higher-resolution estimate of present need;
+
+           (ii) a Vacant Land Adjustment predicated upon a lack of vacant, developable
+
+           and suitable land; (iii) a Durational Adjustment (whether predicated upon lack
+
+           of sanitary sewer or lack of water); (iv) an adjustment predicated upon regional
+
+           planning entity formulas, inputs or considerations, as applicable; (v) an
+
+           adjustment based on any future legislation that may be adopted that allows an
+
+           adjustment of the affordable housing obligations; (vi) an adjustment based upon
+
+           any ruling in litigation involving affordable housing obligations; and/or (vii)
+
+           any other applicable adjustment permitted in accordance with the Act and/or all
+
+           applicable regulations;
+
+        d. Declaring that the Borough of North Caldwell continues to have immunity from
+
+           all exclusionary zoning litigation and all litigation related to its affordable
+
+           housing obligations as established by the Act;
+
+        e. Declaring and issuing a Compliance Certification and continuing immunity
+
+           from exclusionary zoning litigation in accordance with the Act and Directive #
+
+           14-24 to the Borough of North Caldwell for the period beginning July 1, 2025
+
+           and ending June 30, 2035; and
+
+        f. Declaring such other relief that the program and Court deems just and proper
+
+           within the parameters of the Act and all applicable regulations related to
+
+           affordable housing within the State of New Jersey.
+
+
+
+
+                                        10
+        ESX-L-000792-25
+        ESX-L-000792-25 06/17/2025
+                         01/29/20252:01:58
+                                    2:43:16PM
+                                           PM Pg
+                                              Pg57
+                                                 11of
+                                                    of80
+                                                       17 Trans
+                                                          TransID:
+                                                                ID: LCV2025221342
+                                                                   LCV20251781724
+
+
+
+
+                                                COUNT IV
+
+                                   CONFIRMATION OF IMMUNITY
+
+
+          24.    The Borough of North Caldwell repeats and realleges each and every allegation set
+
+forth in the previous paragraphs of this Declaratory Judgment Complaint as if set forth herein in
+
+full.
+
+          25.    Pursuant to the Act, a municipality that complies with the deadlines in the Act for
+
+both determining present and prospective affordable housing obligations and for adopting an
+
+appropriate HEFSP shall have immunity from exclusionary zoning litigation.
+
+          26.    The Borough of North Caldwell has met the deadline for the adoption and filing of
+
+its binding resolution not later than January 31, 2025, and the filing of this DJ Action in accordance
+
+with AOC Directive #14-24 not later than February 3, 2025, by adopting the binding resolution
+
+attached to this Declaratory Judgment Complaint as Exhibit 1, and has also committed to the
+
+adoption of its HEFSP by June 30, 2025.
+
+          WHEREFORE, the Borough of North Caldwell seeks a declaratory judgment for the
+
+          following relief:
+
+                 a. Declaring that the Borough has established jurisdiction for the Program and the
+
+                     Court to confirm its present and prospective affordable housing needs as set
+
+                     forth in the binding resolution attached as Exhibit 1 to this Declaratory
+
+                     Judgment Complaint or to adjust such determination consistent with the Act;
+
+                 b. Declaring the present and prospective affordable housing obligations of the
+
+                     Borough under the Act;
+
+                 c. Declaring the approval of the Borough’s HEFSP subsequent to its adoption by
+
+                     the Planning Board and its endorsement by the Borough Council, including, as
+
+
+
+                                                 11
+ESX-L-000792-25
+ESX-L-000792-25 06/17/2025
+                 01/29/20252:01:58
+                            2:43:16PM
+                                   PM Pg
+                                      Pg58
+                                         12of
+                                            of80
+                                               17 Trans
+                                                  TransID:
+                                                        ID: LCV2025221342
+                                                           LCV20251781724
+
+
+
+
+           appropriate and applicable, (i) a Structural Conditions Survey or similar
+
+           exterior survey which accounts for a higher-resolution estimate of present need;
+
+           (ii) a Vacant Land Adjustment predicated upon a lack of vacant, developable
+
+           and suitable land; (iii) a Durational Adjustment (whether predicated upon lack
+
+           of sanitary sewer or lack of water); (iv) an adjustment predicated upon regional
+
+           planning entity formulas, inputs or considerations, as applicable; (v) an
+
+           adjustment based on any future legislation that may be adopted that allows an
+
+           adjustment of the affordable housing obligations; (vi) an adjustment based upon
+
+           any ruling in litigation involving affordable housing obligations; and (vii) any
+
+           other applicable adjustment permitted in accordance with the Act and/or all
+
+           applicable regulations;
+
+        d. Declaring that the Borough continues to have immunity from all exclusionary
+
+           zoning litigation and all litigation related to its affordable housing obligations
+
+           as established by the Act;
+
+        e. Declaring and issuing a Compliance Certification and continuing immunity
+
+           from exclusionary zoning litigation in accordance with the Act and Directive #
+
+           14-24 to the Borough of North Caldwell for the period beginning July 1, 2025
+
+           and ending June 30, 2035; and
+
+        f. Declaring such other relief that the Program and Court deems just and proper
+
+           within the parameters of the Act and all applicable regulations related to
+
+           affordable housing within the State of New Jersey.
+
+
+
+
+                                        12
+ESX-L-000792-25
+ESX-L-000792-25 06/17/2025
+                01/29/20252:01:58
+                           2:43:16PM
+                                  PM Pg
+                                     Pg59
+                                        13of
+                                          of80
+                                             17 Trans
+                                                TransID:
+                                                      ID: LCV2025221342
+                                                         LCV20251781724
+ESX-L-000792-25
+ESX-L-000792-25 06/17/2025
+                01/29/20252:01:58
+                           2:43:16PM
+                                  PM Pg
+                                     Pg60
+                                        14of
+                                          of80
+                                             17 Trans
+                                                TransID:
+                                                      ID: LCV2025221342
+                                                         LCV20251781724
+ESX-L-000792-25
+ESX-L-000792-25 06/17/2025
+                 01/29/20252:01:58
+                            2:43:16PM
+                                   PM Pg
+                                      Pg61
+                                         15of
+                                            of80
+                                               17 Trans
+                                                  TransID:
+                                                        ID: LCV2025221342
+                                                           LCV20251781724
+
+
+
+                                                                 EXHIBIT 1
+ESX-L-000792-25
+ESX-L-000792-25 06/17/2025
+                 01/29/20252:01:58
+                            2:43:16PM
+                                   PM Pg
+                                      Pg62
+                                         16of
+                                            of80
+                                               17 Trans
+                                                  TransID:
+                                                        ID: LCV2025221342
+                                                           LCV20251781724
+ESX-L-000792-25
+ESX-L-000792-25 06/17/2025
+                 01/29/20252:01:58
+                            2:43:16PM
+                                   PM Pg
+                                      Pg63
+                                         17of
+                                            of80
+                                               17 Trans
+                                                  TransID:
+                                                        ID: LCV2025221342
+                                                           LCV20251781724
+ESX-L-000792-25
+ ESX-L-000792-2506/17/2025
+                 01/29/20252:01:58
+                             2:43:16
+                                   PMPMPgPg
+                                          641of
+                                             of 3
+                                                80 Trans
+                                                   TransID:
+                                                         ID:LCV2025221342
+                                                             LCV20251781724
+ESX-L-000792-25
+ ESX-L-000792-2506/17/2025
+                 01/29/20252:01:58
+                             2:43:16
+                                   PMPMPgPg
+                                          652of
+                                             of 3
+                                                80 Trans
+                                                   TransID:
+                                                         ID:LCV2025221342
+                                                             LCV20251781724
+ESX-L-000792-25
+ ESX-L-000792-2506/17/2025
+                 01/29/20252:01:58
+                             2:43:16
+                                   PMPMPgPg
+                                          663of
+                                             of 3
+                                                80 Trans
+                                                   TransID:
+                                                         ID:LCV2025221342
+                                                             LCV20251781724
+        ESX-L-000792-25   01/29/2025
+         ESX-L-000792-2506/17/2025
+       ESX-L-000792-25   01/29/2025   2:43:16
+                                     2:43:16
+                                   2:01:58  PMPM   671of
+                                              PMPgPg     2 Trans
+                                                      of80  TransID:
+                                                             TransID:LCV2025221342
+                                                                   ID:LCV2025221342
+                                                                       LCV20251781724
+
+
+
+
+                        Civil Case Information Statement
+Case Details: ESSEX | Civil Part Docket# L-000792-25
+
+Case Caption: IN THE MATTER OF NORTH CALDWELL                    Case Type: AFFORDABLE HOUSING
+BORO                                                             Document Type: Complaint
+Case Initiation Date: 01/29/2025                                 Jury Demand: NONE
+Attorney Name: ERIK C NOLAN                                      Is this a professional malpractice case? NO
+Firm Name: SURENIAN, EDWARDS, BUZAK & NOLAN LLC                  Related cases pending: NO
+Address: 311 BROADWAY STE A                                      If yes, list docket numbers:
+POINT PLEASANT BEACH NJ 08742                                    Do you anticipate adding any parties (arising out of same
+Phone: 7326123100                                                transaction or occurrence)? NO
+Name of Party: PLAINTIFF : Borough of North Caldwell             Does this case involve claims related to COVID-19? NO
+Name of Defendant’s Primary Insurance Company
+(if known): None                                                 Are sexual abuse claims alleged by: Borough of North Caldwell?
+                                                                 NO
+
+
+
+       THE INFORMATION PROVIDED ON THIS FORM CANNOT BE INTRODUCED INTO EVIDENCE
+                      CASE CHARACTERISTICS FOR PURPOSES OF DETERMINING IF CASE IS APPROPRIATE FOR MEDIATION
+
+
+
+
+Do parties have a current, past, or recurrent relationship? NO
+If yes, is that relationship:
+Does the statute governing this case provide for payment of fees by the losing party? NO
+Use this space to alert the court to any special case characteristics that may warrant individual
+management or accelerated disposition:
+
+
+Do you or your client need any disability accommodations? NO
+       If yes, please identify the requested accommodation:
+
+
+Will an interpreter be needed? NO
+         If yes, for what language:
+
+
+Please check off each applicable category: Putative Class Action? NO Title 59? NO Consumer Fraud? NO
+Medical Debt Claim? NO
+
+
+
+
+I certify that confidential personal identifiers have been redacted from documents now submitted to the
+court, and will be redacted from all documents submitted in the future in accordance with Rule 1:38-7(b)
+
+01/29/2025                                                                                                /s/ ERIK C NOLAN
+Dated                                                                                                                Signed
+ ESX-L-000792-25   01/29/2025
+  ESX-L-000792-2506/17/2025
+ESX-L-000792-25   01/29/2025   2:43:16
+                              2:43:16
+                            2:01:58  PMPM   682of
+                                       PMPgPg     2 Trans
+                                               of80  TransID:
+                                                      TransID:LCV2025221342
+                                                            ID:LCV2025221342
+                                                                LCV20251781724
+    ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 69 of 80 Trans ID: LCV20251781724
+
+
+
+
+Resolution No. R-41-2025 Determining Fourth
+Round Obligation
+ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 70 of 80 Trans ID: LCV20251781724
+ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 71 of 80 Trans ID: LCV20251781724
+ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 72 of 80 Trans ID: LCV20251781724
+     ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 73 of 80 Trans ID: LCV20251781724
+
+
+
+
+Order Fixing Fourth Round Obligation
+ESX-L-000792-25
+       ESX-L-000792-25
+                 06/17/2025
+                        03/24/2025
+                            2:01:58 PM
+                                     Pg 1Pg
+                                          of 3
+                                             74 of
+                                                Trans
+                                                   80 ID:
+                                                       Trans ID:
+                                                          LCV2025921146
+                                                                 LCV20251781724
+ESX-L-000792-25
+       ESX-L-000792-25
+                 06/17/2025
+                        03/24/2025
+                            2:01:58 PM
+                                     Pg 2Pg
+                                          of 3
+                                             75 of
+                                                Trans
+                                                   80 ID:
+                                                       Trans ID:
+                                                          LCV2025921146
+                                                                 LCV20251781724
+ESX-L-000792-25
+       ESX-L-000792-25
+                 06/17/2025
+                        03/24/2025
+                            2:01:58 PM
+                                     Pg 3Pg
+                                          of 3
+                                             76 of
+                                                Trans
+                                                   80 ID:
+                                                       Trans ID:
+                                                          LCV2025921146
+                                                                 LCV20251781724
+     ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 77 of 80 Trans ID: LCV20251781724
+
+
+
+
+Fourth Round Vacant Land Analysis (VLA)
+                                 COMMUNITY PLANNING                                                                                                                                                                                                                PRINCIPALS:
+                                 LAND DEVELOPMENT AND DESIGN                                                                                                                                                                                          Joseph H. Burgis PP, AICP
+                                 LANDSCAPE ARCHITECTURE                                                                                                                                                                                       Edward Snieckus, Jr. PP, LLA, ASLA
+  b a                                                                                                                                                                                                                                                    DAVID NOVAK PP, AICP
+
+
+
+
+B U R G I S
+A S S O C I A T E S,   I N C.
+
+
+
+
+                                                                                         B OROUGH OF N ORTH C ALDWELL : V ACANT L AND A SSESSMENT
+                                                               Property   Lot Area                    Developable
+ ID #       Block          Lot    Property Location                                                                 Comments
+                                                               Class      (ac)         Developable?   Area (ac)
+ 1          7              5      Elm Road                     15F              0.87   No             0             Developed with Magnuson Field parking area.
+ 2          100            3      21 Bloomfield Avenue         1                0.50   No             0             Lot too small to qualify for RDP analysis.
+ 3          100            11     Elm Road                     15F              0.49   No             0             Lot too small to qualify for RDP analysis.
+ 4          101            1      Elm Road                     15C              2.30   No             0             Magnuson Field
+ 5          102            12     Mountain Avenue              15C              0.22   No             0             Lot too small to qualify for RDP analysis.
+ 6          102            39     Ferndale Road                15C              0.04   No             0             Lot too small to qualify for RDP analysis.
+ 7          103            8      87 Mountain Avenue           15C              0.10   No             0             Lot too small to qualify for RDP analysis.
+ 8          202            18     Hilltop Drive                15F              9.20   No             0             Part of Hilltop Preserve (Green Acres).
+ 9          204            1      Arbor Road                   15C              1.35   No             0             Developed with parking lot and stormwater basin.
+ 10         204            4      150 Mountain Avenue          15C              0.16   No             0             Lot too small to qualify for RDP analysis.
+ 11         204            5      Mountain Avenue              15C              7.33   No             0             Developed with Mountain Avenue field (Green Acres)
+ 12         204            6      Hilltop Drive                15C              5.78   No             0             Developed with Hilltop Reservation Dog Park, parking area and access drive. (Green Acres)
+ 13         206            1      Mountain Avenue Rear         15F             11.72   No             0             Part of Hilltop Preserve (Green Acres).
+ 14         300            27     Mountain Avenue Rear         15F             19.54   No             0             Part of Hilltop Preserve (Green Acres).
+ 15         300            34     Arbor Road                   15C              0.97   No             0             Developed with stormwater basin.
+ 16         301            10     Wind Ridge Drive             15C              4.21   No             0             Almost enitrety of parcel is impacted by environmental constraints including wetlands, stream and steep slopes. Drainge area.
+ 17         308            14     Francisco Avenue             15C              1.02   No             0             Landlocked parcel impacted by stream corridor and steep slopes.
+ 18         320            292    North Mountain Avenue        15C              0.00   No             0             Lot too small to qualify for RDP analysis.
+ 19         343            1      233 West Lindsley Road       1                0.26   No             0             Lot too small to qualify for RDP analysis.
+ 20         343            99     West Lindsley Road           1                0.01   No             0             Lot too small to qualify for RDP analysis.
+ 21         400            14     Harding Avenue               1                1.80   No             0             Landlocked. Privately owned and deed restricted.
+ 22         401            2      25 Fox Run                   1                4.40   No             0             Almost enitrety of parcel is impacted by environmental constraints including wetlands, stream and steep slopes.
+ 23         405            32     1 Rose Avenue                15C              0.42   No             0             Lot too small to qualify for RDP analysis.
+ 24         500            11     Theresa Street               1                0.05   No             0             Lot too small to qualify for RDP analysis.
+ 25         500            12     Theresa Street               15C              0.47   No             0             Lot too small to qualify for RDP analysis.
+ 26         500            10     Theresa Street               15C              1.38   No             0             PSE&G utility corridor.
+ 27         504            20     Deer Trail Road Rear         15C              3.62   No             0             Landlocked parcel. Part of Hilltop Preserve (Green Acres)
+                                  Mountain Avenue Rear
+ 28         706            19     East                         15C             1.37    No             0             Developed with water tower.
+ 29         801            12     630 Mountain Avenue          15C             7.11    No             0             Entirety of parcel impacted by steep slopes.
+ 30         801            13     650 Mountain Avenue          15C             0.06    No             0             Lot too small to qualify for RDP analysis.
+ 31         801            14     640 Mountain Avenue          1               0.37    No             0             Lot too small to qualify for RDP analysis.
+ 32         902            9      209 Mountain Avenue          15D             3.19    No             0             Developed with Church of Jesus Christ of Latter-Day Saints
+                                                                                                                                                                                                                                                                                   ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 78 of 80 Trans ID: LCV20251781724
+
+
+
+
+                                                                                                                                                                                                                          2025 Housing Element & Fair Share Plan               1
+                                                                                                                                                                                                                                      Borough of North Caldwell
+                                              Property   Lot Area                   Developable
+ID #   Block   Lot   Property Location                                                            Comments
+                                              Class           (ac)   Developable?   Area (ac)
+33     905     23    Smull Avenue             15C             0.20   No             0             Lot too small to qualify for RDP analysis.
+34     1003    34    331 Mountain Avenue      15A             2.94   No             0             Developed with Gould Elementary School.
+35     1003    35    257 Smull Avenue         15C             0.26   No             0             Lot too small to qualify for RDP analysis.
+36     1003    38    249 Smull Avenue         15F             0.58   No             0             Lot too small to qualify for RDP analysis.
+37     1004    71    Mountain Avenue          1               0.09   No             0             Lot too small to qualify for RDP analysis.
+38     1100    1     17 Canterbury Drive      1               0.14   No             0             Lot too small to qualify for RDP analysis.
+39     1100    2     257 Park Avenue          1               5.33   No             0             PSEG&G utility easement.
+40     1100    3     258 Park Avenue          1               3.32   No             0             PSE&G utility easement
+41     1100    4     123 Gould Avenue         1               2.24   No             0             PSE&G utility Easement
+42     1100    5     Mountain Avenue Rear     1              10.99   No             0             PSE&G utility easement
+43     1100    6     67 Brookside Terrace     1               2.57   No             0             PSE&G utility easement.
+44     1100    7     68 Brookside Terrace     1               0.51   No             0             Lot too small to qualify for RDP analysis.
+45     1102    1     Park Avenue              15C             2.33   No             0             Inadeuate street frontage to support development.
+46     1102    9     110 Gould Avenue         15A             4.79   No             0             Developed with Gould Elementary School.
+47     1103    9     136 Gould Avenue         15C             0.68   No             0             Lot too small to qualify for RDP analysis.
+48     1106    6     30 Cambridge Drive       15F             0.53   No             0             Lot too small to qualify for RDP analysis.
+49     1200    39    141 Gould Avenue         15C            29.49   No             0             Developed with Borough municipal complex.
+50     1201    1     103 Gould Avenue         15D             1.43   No             0             Developed with St. Anthony of Padua Church.
+51     1201    3     115 Gould Avenue         15C             0.24   No             0             Lot too small to qualify for RDP analysis.
+52     1307    12    Evergreen Drive          15C             0.06   No             0             Lot too small to qualify for RDP analysis.
+53     1403    5     51 Green Place           15F             0.64   No             0             Lot too small to qualify for RDP analysis.
+54     1500    4     31 Hamilton Drive East   15A            12.45   No             0             Developed with Grandview Elementary School
+55     1501    9     Evergreen Drive          1               0.04   No             0             Lot too small to qualify for RDP analysis.
+56     1505    22    Oak Place                15C             0.09   No             0             Lot too small to qualify for RDP analysis.
+57     1600    4     359 Central Avenue       15D             9.79   No             0             Developed with Notre Dame RC Church
+58     1800    1     West Greenbrook Road     15A            67.77   No             0             Developed with West Essex High School and Middle School
+59     200     10    16 Glenview Road         15C             0.50   No             0             Lot too small to qualify for RDP analysis.
+60     2006    20    165 Grandview Avenue     1               2.11   No             0             Site impacted by steep slopes limiting developable area.
+61     2006    19    Grandview Avenue         15C             0.10   No             0             Lot too small to qualify for RDP analysis.
+62     2100    1     Granview Avenue          1               0.17   No             0             Lot too small to qualify for RDP analysis.
+63     2100    2     Granview Avenue          1               0.54   No             0             Lot too small to qualify for RDP analysis.
+64     2100    3     Granview Avenue          1               0.07   No             0             Lot too small to qualify for RDP analysis.
+65     2100    4     Granview Avenue          1               0.17   No             0             Lot too small to qualify for RDP analysis.
+66     2100    53    Granview Avenue          1               1.70   No             0             Utility line.
+67     2101    13    52 Greenbrook Road       1               0.00   No             0             Lot too small to qualify for RDP analysis.
+68     2102    6     Stephanie Drive          15F             8.17   No             0             Lindsley Heights Condominium common area.
+69     2103    18    Stephanie Drive          15F             0.04   No             0             Lot too small to qualify for RDP analysis.
+70     2103    20    W Lindsley Road          1               1.10   No             0             Common space associated with townhouse development of Block 2102 Lot 6
+71     2103    22    W Lindsley Road          1               0.26   No             0             Lot too small to qualify for RDP analysis.
+72     2103    24    Grandview Avenue         1               0.80   No             0             Lot too small to qualify for RDP analysis.
+73     2103    25    Grandview Avenue         1               0.06   No             0             Lot too small to qualify for RDP analysis.
+                                                                                                                                                                                                                        ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 79 of 80 Trans ID: LCV20251781724
+
+
+
+
+                                                                                                                                                                           2025 Housing Element & Fair Share Plan   2
+                                                                                                                                                                                       Borough of North Caldwell
+                                             Property   Lot Area                     Developable
+ID #   Block   Lot   Property Location                                                                Comments
+                                             Class           (ac)   Developable?     Area (ac)
+74     2107    2     56 Lindsley Road        1               0.10   No               0                Lot too small to qualify for RDP analysis.
+75     2111    8     70 Stanley Road         1               0.20   No               0                Lot too small to qualify for RDP analysis.
+76     2200    1     Grandview Avenue Rear   1               0.46   No               0                Lot too small to qualify for RDP analysis.
+77     2200    2     Stepping Ridge          15F            11.67   No               0                Stepping Ridge Condominium common areas.
+78     2201    2     6 Fairfield Road        1               0.08   No               0                Lot too small to qualify for RDP analysis.
+
+
+
+
+                                                                         Land Categorization
+                                                                         Total Vacant, Public, or Potentially Developable Land (ac.)       298.35 ac
+                                                                         Total Developable Area Qualifying for RDP Analysis                  0 ac
+                                                                         Total RDP                                                          0 units
+
+
+
+
+                                                                                                                                                                                                    ESX-L-000792-25 06/17/2025 2:01:58 PM Pg 80 of 80 Trans ID: LCV20251781724
+
+
+
+
+                                                                                                                                                       2025 Housing Element & Fair Share Plan   3
+                                                                                                                                                                   Borough of North Caldwell
+

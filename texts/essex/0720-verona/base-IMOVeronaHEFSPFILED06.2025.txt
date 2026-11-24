@@ -1,0 +1,2285 @@
+ESX-L-000594-25 06/20/2025
+                06/25/2025 5:23:21
+                           7:30:04 PM Pg 1 of 40 Trans ID: LCV20251815703
+                                                           LCV20251854671
+
+
+
+
+     TOWNSHIP OF VERONA
+FOURTH ROUND HOUSING ELEMENT
+     AND FAIR SHARE PLAN
+                 PREPARED BY DMR ARCHITECTS
+                               JUNE 9, 2025
+ADOPTED BY THE VERONA TOWNSHIP PLANNING BOARD
+                               JUNE 19, 2025
+           ENDORSED BY THE TOWNSHIP COUNCIL
+                               JUNE 23, 2025
+
+
+                SIGNED SEALED ORIGINAL ON FILE WITH CLERK
+                    _________________________
+    DANIEL HAUBEN, PP, AICP, LEED® GREEN ASSOCIATE™, DMR ARCHITECTS
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 2 of 40 Trans ID: LCV20251815703
+                                                                       LCV20251854671
+                                                           Verona Township Housing Element and Fair Share Plan
+                                                                                                     June 2025
+
+
+ACKNOWLEDGMENTS
+TOWNSHIP COUNCIL
+Mayor Christopher Tamburro
+Deputy Mayor Jack McEvoy
+Councilwoman Christine McGrath
+Councilwoman Cynthia Holland
+Councilman Alex Roman
+
+
+Kevin O’Sullivan, Township Manager
+Jennifer Kiernan, RMC, CMC, Township Clerk
+Brian Aloia, Esq., Township Counsel
+
+TOWNSHIP PLANNING BOARD
+Mayor Christopher Tamburro
+Mayor’s Alternate: Deputy Mayor Jack McEvoy
+Alex Roman, Member
+Kevin O’Sullivan, Township Manager
+Jessica Pearson, Planning Board Chairperson & Environmental Commission Liaison
+David Freschi, Planning Board Vice Chairperson
+Al DeOld, Planning Board Member
+Tim Camuti, Planning Board Member
+Jesse Lilley, Planning Board Member
+Jason Hyndman, Planning Board Member
+Jeremy Katzeff, Alternate Member #1
+Julie Parker, Alternate #2
+
+
+Greg Mascera, Esq., Planning Board Attorney
+Peter Ten Kate, Boswell Engineering, Township Engineer
+San Chavan, H2M Architects + Engineers, Planning Board Planner
+
+
+
+
+                                                                                                          ACKNOWLEDGMENTS
+Caitlin Kester, Acting Planning Board Secretary
+
+
+OTHER TOWNSHIP PROFESSIONALS AND PERSONNEL
+Daniel Hauben, PP, AICP, LEED Green Associate, Affordable Housing Planner, DMR Architects
+Jaime Placek, Esq, Township’s Affordable Housing Counsel
+
+
+
+
+                                                   2
+           ESX-L-000594-25 06/20/2025
+                           06/25/2025 5:23:21
+                                      7:30:04 PM Pg 3 of 40 Trans ID: LCV20251815703
+                                                                      LCV20251854671
+                                                            Verona Township Housing Element and Fair Share Plan
+                                                                                                      June 2025
+
+
+CONTENTS
+ACKNOWLEDGMENTS                                                                                          2
+Township Council                                                                                         2
+Township Planning Board                                                                                  2
+Other Township Professionals and Personnel                                                               2
+EXECUTIVE SUMMARY                                                                                        5
+WHAT IS AFFORDABLE HOUSING                                                                               5
+NEW JERSEY MOUNT LAUREL HISTORY                                                                          6
+First And Second Rounds                                                                                  6
+Third Round Rules                                                                                        6
+Mount Laurel IV                                                                                          7
+Fourth Round Rules                                                                                       8
+THE AFFORDABLE HOUSING OBLIGATION                                                                        9
+Determining Prospective Need                                                                             9
+Satisfying Prospective Need                                                                             10
+WHAT IS A HOUSING ELEMENT AND FAIR SHARE PLAN                                                           11
+ABOUT VERONA                                                                                            12
+Affordable Housing History                                                                              12
+What Is “Affordable” In Verona Township                                                                 14
+VERONA TOWNSHIP DEMOGRAPHICS AND HOUSING STOCK                                                          16
+Introduction                                                                                           16
+Housing Characteristics                                                                                16
+Population And Household Characteristics                                                               20
+Economic Characteristics                                                                               21
+Housing, Employment, And Population Projections                                                        24
+CONSIDERATION OF LANDS &                                                                               26
+THE VACANT LAND ANALYSIS (APPENDIX 5)                                                                  26
+Vacant Land Analysis                                                                                   26
+Lands Considered                                                                                       26
+FAIR SHARE PLAN                                                                                        30
+
+
+
+
+                                                                                                             TABLE OF CONTENTS
+Review of Prior Round Compliance Mechanisms                                                            30
+Fair Share Plan - Prospective Need                                                                     30
+Unmet Need (Appendix 17)                                                                               36
+Rehabilitation / present need                                                                          37
+OTHER HEFSP REQUIREMENTS                                                                               39
+Administration and marketing Of Affordable Housing                                                     39
+Cost Generation                                                                                        39
+Multigenerational Family Housing Consistency                                                           39
+State Development & Redevelopment Plan Consistency & Sewer/Water Capacity                              39
+CONCLUSION                                                                                             40
+
+
+                                                   3
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 4 of 40 Trans ID: LCV20251815703
+                                                                       LCV20251854671
+                                                                  Verona Township Housing Element and Fair Share Plan
+                                                                                                            June 2025
+
+
+TABLE OF FIGURES
+TABLE OF FIGURES                                        sor                                               12
+Figure 1. Fair Housing Act Income Categories       5    Figure 10. Vacant Land Analysis                   26
+Figure 2. Required Distributions                   7    Figure 11. 25% Rule                               30
+Figure 3. Affordability Standards                  7    Figure 12. Specific Targets Entities to Advertise
+                                                        to Include:                                       39
+Figure 4. Builder’s Remedy                         8
+Figure 5. 4th Round Housing Plan Ratios            9    TABLE OF MAPS
+Figure 6. Affordability Controls                   9
+                                                        Map 1. COAH Region Map                                 6
+Figure 7. Required Contents of a Housing Ele-
+ment and Fair Share Plan                           11   Map 2. Verona Township Land Use Map                   13
+Figure 8. Section 24 of P.L. 2024, c.2 (Section         Map 3. Map of properties analyzed for the
+311.m of the Fair Housing Act)                     11   vacant land analysis.                                28
+Figure 9. Use of lands other than road rights-          Map 4. Sites considered for, and included in,
+of-way, as classified by the Township Tax Asses-        the Fourth Round Plan                                29
+
+TABLE OF CHARTS
+
+Chart 1.  2025 Region 2 Income Limits                                                                 14
+Chart 2.  2025 Region 2 Affordable Rents                                                              15
+Chart 3.  2025 Region 2 Affordable Monthly Costs for Homeowners                                       15
+Chart 4.  Housing Units in Verona Township by Type of Structure, Tenure, and Occupancy Status in 2023 16
+Chart 5.  Housing Units in Verona Township by Year Built and Tenancy Type in 2023                     17
+Chart 7.  Housing Units in Verona Township by Number of Bedrooms in 2023                              17
+Chart 6.  Housing Units in Verona Township by Number of Rooms in a Unit in 2023                       17
+Chart 9.  Housing Units in Verona Township, Essex County, and New Jersey by Gross Rent in 2023        18
+Chart 8.  Owner-Occupied Housing Units in Verona Township by Value in 2023                            18
+Chart 10. Housing Units in Verona Township by Tenure and by Monthly Cost of Housing as a Percentage
+          of Household Income in 2023                                                                 19
+Chart 11. Population Changes in Verona Township, Essex County, and New Jersey between 2000 and
+          2023                                                                                        20
+Chart 12. Population Age Distribution in 2015 and 2023.                                               20
+Chart 13. Households in Verona Township by Type in 2023                                               20
+Chart 15. Households in Verona by Income in 2023                                                      21
+Chart 16. Poverty Rates in Verona Township, Essex County, and New Jersey in 2023                      21
+
+
+
+
+                                                                                                                   TABLE OF CONTENTS
+Chart 14. Average Household Size in Verona in 2015 and 2023                                           21
+Chart 17. Employed Verona Residents by Sector in 2023                                                 22
+Chart 18. Employed Verona Residents by Occupation Category                                            22
+Chart 19. Labor Force and Unemployment Rates Since 2015                                               22
+Chart 21. Number of Employees in Verona Covered by Unemployment Insurance in 2023                     23
+Chart 20. Mode of Commute for Employed Residents of Verona Township, Essex County, and New Jersey
+          in 2023                                                                                     23
+Chart 22. Projection of Population, Households, Employment from 2015-2050                             24
+Chart 23. Housing Supply Trend 2014 to 2024                                                           25
+Chart 24. Compliance Plan to satisfy the 57-unit RDP                                                  38
+Chart 25. Required Minimums and Maximums                                                              38
+
+
+
+                                                         4
+               ESX-L-000594-25 06/20/2025
+                               06/25/2025 5:23:21
+                                          7:30:04 PM Pg 5 of 40 Trans ID: LCV20251815703
+                                                                          LCV20251854671
+                                                                             Verona Township Housing Element and Fair Share Plan
+                                                                                                                       June 2025
+
+
+EXECUTIVE SUMMARY
+This Fourth Round Housing Element and Fair Share Plan (“HEFSP” or “Plan”) has been prepared for the
+Township of Verona (“Township” or “Verona”) in Essex County, New Jersey, in order to comply with its
+affordable housing obligation in accordance with the Fair Housing Act of 1985 (N.J.S.A. 52:27D-301
+et seq.) (“FHA”) as amended by the bill known as A4/S50 or P.L. 2024, c.2, signed on March 20, 2024.
+An HEFSP is a document required by the Fair Housing Act and the Municipal Land Use Law (N.J.S.A.
+40:55D-28) to be adopted by each municipality in the state to identify and address their respective,
+allocated need for safe and adequate housing for low- and moderate-income households. The
+HEFSP establishes the manner and means by which the Township of Verona will satisfy its State-
+mandated affordable housing or fair share obligation as that obligation is established in the
+Settlement Agreement. The Fair Share obligation is comprised of three components:
+► The Present Need obligation, which reflects the estimated number of housing units in the Township
+  which are occupied by low- and moderate-income households and are in deteriorated condition
+  that can be corrected through rehabilitation1. This obligation is also known as the “Rehabilitation
+  Share”, and the Township’s estimated obligation for this component is 0 units.
+► The “Fourth Round Prospective Need” obligation, which reflects the number of affordable units
+  the Township must create to address its share of the projected “regional” need for low- and
+  moderate-income housing for the period running from July 1, 2025 to June 30, 2035. That number
+  is 155 units.
+► A “review” of the Township’s satisfaction of its Prospective Need obligations from the First, Second,
+  and Third Rounds.
+
+
+
+WHAT IS AFFORDABLE HOUSING
+In 1975, the New Jersey Supreme Court (“Supreme Court”) ruled in the case of Southern Burlington
+County NAACP v. The Township of Mount Laurel, now simply referred to as “Mount Laurel I”, that
+every “developing” municipality in the State of New Jersey has a constitutional obligation to provide
+a reasonable opportunity for the construction of housing that is affordable to low- and moderate-
+income households. Eight years later, in 1983, the Supreme Court decided in what is known as
+“Mount Laurel II” that every municipality, regardless if its stage of development, must provide that
+opportunity for construction of affordable housing.
+Two years after the Mount Laurel II decision, the New Jersey State Legislature adopted the Fair
+Housing Act which, among other things, created the Council on Affordable Housing (“COAH”) to:
+► Define and delineate housing “regions” for estimating                  Figure 1. Fair Housing Act Income
+  affordable housing need, defining low- and                                       Categories
+  moderate-qualifying incomes, and other purposes;
+                                                                         Very-Low Income Household: Earns 30% or
+
+
+
+
+                                                                                                                              1 • INTRODUCTION
+► Estimating the need for low- and moderate-income                       less of regional median income
+  housing by region and allocation of that need to
+                                                                         Low-Income Household: Earns 30% to 50% of
+  municipalities;
+                                                                         Regional Median Income
+► Establishing the rules and means by which each
+                                                                         Moderate Income Household: Earns 50% to
+  municipality may address its need; and
+                                                                         80% of Regional median Income
+► Create a process for reviewing and “certifying” that
+  a municipality is meeting that need.
+The Fair Housing Act, when first adopted, identified only the income categories of “low” and
+“moderate” income households, but 2008 legislation known as the “Roberts Bill” updated the Act to
+
+1   Rehabilitation: Defined as the repair, renovation, alteration, or reconstruction of any building or structure, pursuant
+    to the Rehabilitation Subcode, N.J.A.C. 5:23-6
+
+                                                                  5
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 6 of 40 Trans ID: LCV20251815703
+                                                                       LCV20251854671
+                                                                Verona Township Housing Element and Fair Share Plan
+                                                                                                          June 2025
+
+add a “very-low” income category, in addition to making other changes. The three income
+categories are defined in Figure 1 - “Fair Housing Act Income Categories” .
+The values for what constitute very-low, low, or moderate
+income are based on the median incomes in COAH-defined
+“Regions”. The Fair Housing Act tasked COAH with the delineation
+of these “Regions” having between two and four counties each
+which have “significant social, economic, and income similarities
+and which constitute to the greatest extent practicable the primary
+metropolitan statistical areas” reflected by the U.S. Census. Map 1
+- “COAH Region Map” shows the current housing regions, with the
+relevant region highlighted.
+
+The Fair Housing Act defers to HUD and other “recognized”
+standards to define what makes housing “affordable”. HUD has,
+since the 1980s, considered housing to be affordable where the cost
+of such housing is less than 30% of the gross household’s income.
+This rate has also been adopted by banks and other institutions as
+the threshold for “affordability”. In practice, affordable housing
+in New Jersey must adhere to the Uniform Housing Affordability
+Controls (UHAC) at N.J.A.C. 5:80-26.1 et seq, which uses the 30%
+threshold for gross renter-household income and a 28% threshold
+for gross homeowner-household income. The UHAC also establishes
+additional standards to ensure that affordable housing units are
+available to households of various sizes and incomes and priced
+affordably, as shown in Figure 2 - “Required Distributions” and
+Figure 3 - “Affordability Standards”
+                                                                      Map 1. COAH Region Map
+
+
+NE W JERSEY MOUNT LAUREL HISTORY
+FIRST AND SECOND ROUNDS
+COAH published what has come to be known as its “first round” rules (N.J.A.C. 5:92-1 et seq.) to
+calculate the affordable housing need which municipalities would be required to address between
+1987 and 1993, and established the acceptable means to address that need. The rules included a
+calculation of an existing need based on an estimate of substandard housing that was occupied
+by low- and moderate-income households (commonly referred to as “present need”, as well as a
+projection of future demand for housing opportunities by low- and moderate-income households
+(commonly referred to as “prospective need” or “new construction obligation”). The income
+classifications were based on the income metrics established by the U.S. Department of Housing and
+Urban Development. The present need would be addressed by rehabilitating existing substandard
+
+
+
+
+                                                                                                               1 • INTRODUCTION
+housing and the prospective need would be addressed by creating new housing.
+In 1994, COAH adopted N.J.A.C. 5:93-1 et seq. which retroactively recalculated the present and
+prospective needs for 1987 to 1993 and provided new calculations of those needs for the period
+of 1993 to 1999. While the rules at the time were considered to be COAH’s “second round” of rules,
+the obligations calculated through those rules are referred to today as the “Prior Round” because
+the Second Round need numbers recalculated and included the need calculated for 1987 to 1993.
+THIRD ROUND RULES
+While the Fair Housing Act required COAH to adopt new rules in 1999, COAH did not adopt its Third
+Round rules until 2004, meaning there had been a five year gap following the effective period of the
+Second Round rules and the creation of new rules and need calculations. The 2004-adopted rules,
+located at N.J.A.C. 5:94-1 and 5:95-1 et seq., calculated a need period extending from 1999 to 2014
+
+
+                                                       6
+             ESX-L-000594-25 06/20/2025
+                             06/25/2025 5:23:21
+                                        7:30:04 PM Pg 7 of 40 Trans ID: LCV20251815703
+                                                                        LCV20251854671
+                                                                       Verona Township Housing Element and Fair Share Plan
+                                                                                                                 June 2025
+
+in order to capture the five years when rules were not in place and to project Prospective Need over
+the next 10 years (In 2001 the Fair Housing Act was amended to extend the effective time frame of
+any future-adopted COAH rules from the original 6 years used in Rounds 1 and 2 to a period of 10
+years).
+The 2004-adopted Third Round rules used a new method called “Growth Share” for calculating
+municipal new-construction obligation. Growth Share tied each municipality’s affordable housing
+obligation to actual residential and non-residential growth between 2004 to 2014. The New Jersey
+Appellate Court invalidated substantial portions of the Third Round rules, including the Growth Share
+methodology, in the January 25, 2007 decision In re Adoption of N.J.A.C. 5:94 and 5:95, and ordered
+COAH to adopt amendments to the rules within six (6) months.
+COAH did adopt amended rules more than 15 months later on June 2, 2008 (N.J.A.C. 5:96 and
+5:97), which used a modified Growth Share Figure 2. Required Distributions
+methodology establishing a need for the period Within and across all developments addressing the
+of 1999-2018, which had to be addressed by 2018, Township’s Prospective Need, the following ratios
+and recalculating the Prior Round obligations and must be met:
+the means of addressing those obligations. Once Income Distribution: Income Categories as a % of
+again, however, the new rules were challenged and affordable units
+largely invalidated in 2010 due to the continued • Moderate Income: 50% or less
+use of the Growth Share methodology to calculate
+                                                  • Low Income: 37% or more
+municipal obligations despite the methodology
+being struck down in 2007.                        • Very-Low Income: 13% or more
+
+COAH once more attempted to adopt Third Round                  Bedroom Distribution: Unit type as a % of affordable
+rules in 2014. Draft rules were published in April 30 of       units (non-age-restricted development)
+that year and scheduled for a decision on adoption             •   One-Bedroom or Studios: 20% or less
+on October 20, 2014. At that October 20 meeting,               •   Two-Bedroom: At least 30%
+COAH deadlocked in its vote to adopt the rules
+                                                               •   Three-Bedroom: At least 20%
+and did not reschedule to consider the rules again,
+effectively failing to adopt the new rules.
+MOUNT LAUREL IV
+After COAH failed to adopt its 2014 draft rules, Fair
+Share Housing Center, a prominent advocacy
+organization for the creation of affordable housing Figure 3. Affordability Standards
+in New Jersey, filed with the New Jersey Supreme Rentals Units:
+Court a motion in aid of litigant’s rights. On March
+                                                       • Maximum Rent: Affordable to 60% of RMI
+10, 2015, the Supreme Court issued a ruling on
+that Motion In re Adoption of N.J.A.C. 5:96 & 5:97, • Average Rent: Affordable to 52% of RMI
+which is now commonly referred to as “Mount For-Sale Units
+Laurel IV”, which transferred COAH’s responsibilities
+to designated Mount Laurel trial judges. These • Maximum Rent: Affordable to 70% of RMI
+
+
+
+
+                                                                                                                      1 • INTRODUCTION
+responsibilities primarily consist of reviewing and • Average Rent: Affordable to 55% of RMI
+approving municipal Housing Elements and Fair *RMI = Regional Median Income
+Share Plans. Additionally, the Mount Laurel IV
+decision directed municipalities to file Declaratory Judgments with those judges to seek to find
+themselves in compliance with their fair share obligations, and to prepare Housing Element and Fair
+Share Plans based on COAH’s Second Round rules and those portions of COAH’s 2008-adopted Third
+Round rules that were upheld by the Appellate Division in 2010.
+Given that the Supreme Court did not establish the affordable housing obligations that each
+municipality would be required to address, there had been much debate in the years following the
+Mount Laurel IV decision as to how to calculate municipal present and prospective need obligations
+in a manner that complies with that decision as well as Appellate Division decisions that had
+invalidated earlier versions of the Third Round rules. Numbers had been offered by experts recruited
+
+
+                                                           7
+             ESX-L-000594-25 06/20/2025
+                             06/25/2025 5:23:21
+                                        7:30:04 PM Pg 8 of 40 Trans ID: LCV20251815703
+                                                                        LCV20251854671
+                                                                   Verona Township Housing Element and Fair Share Plan
+                                                                                                             June 2025
+
+by Fair Share Housing Center, a consortium of municipalities, and even the Courts.
+As an intervenor recognized by the Courts in the affordable housing matters, Fair Share Housing
+Center (FSHC) has played a key role in municipalities’ Declaratory Judgment actions to be certified
+as compliant with their affordable housing obligation. As a result, municipalities have been required
+to enter into Settlement Agreements with FSHC as part of their compliance actions.
+On March 8, 2018, The Honorable Judge Mary Jacobson of the Superior Court of New Jersey Law
+Division in Mercer County published her opinion in the Matters of the Municipality of Princeton and
+the Township of West Windsor settling on a methodology for establishing the affordable housing
+obligations of municipalities in the vicinage containing Mercer County. Judges across New Jersey
+have since accepted and adopted her opinion and it has served as the basis for affordable housing
+settlement agreements since that time. Up until that point, most Settlement Agreements sought to
+find a middle ground between the affordable housing obligation calculations offered by the various
+“numbers” experts.
+Historically, a municipality that prepared a Housing
+                                                              Figure 4. Builder’s Remedy
+Element and Fair Share Plan for compliance with the
+Fair Housing Act would prepare and submit a Plan to Defined at N.J.S.A. 52:27D-328 as “a court
+COAH pursuant to COAH’s rules and seek “substantive imposed remedy for a litigant who is an
+certification”, a documented determination by COAH individual or a profit-making entity in which
+that a municipality’s HEFSP complies with COAH’s the court requires a municipality to utilize
+regulations and the FHA. Substantive certification zoning techniques such as mandatory set-
+would have the affect of protecting municipality’s from asides or density bonuses which provide for the
+“builder’s remedy” lawsuits, defined in Figure 4 - “Builder’s economic viability of a residential development
+Remedy” . Rather than seeking substantive certification, by including housing which is not for low and
+a municipality currently participating in the affordable moderate income households.”
+housing compliance process is seeking a Judgment of
+Compliance from the Court stating that the municipality has adopted an HEFSP and any ordinances
+and resolutions required to implement that HEFSP according to the Supreme Court’s Mount Laurel IV
+decision, which has the same affect as substantive certification.
+FOURTH ROUND RULES
+On March 20, 2024, Governor Phil Murphy signed into law the bill known as A4/S50 (P.L. 2024 c.2),
+which amended the Fair Housing Act (“FHA” or “Act”) to abolish the Council on Affordable Housing
+(“COAH”) and set forth the processes by which municipal affordable housing obligations will be
+determined and satisfied for the Fourth Affordable Housing Round (beginning on July 1, 2025 and
+terminating on June 30, 2035) and beyond.
+The Bill tasked the New Jersey Department of Community Affairs (“DCA”) with determining municipal
+affordable housing obligations for the Fourth Round by October 20, 2024, and required municipalities
+to declare their affordable housing obligations by binding resolution no later than January 31, 2025,
+and to adopt their HEFSPs by June 30, 2025, along with draft implementing ordinances, adopted
+resolutions, and supporting documents. Ordinances necessary to implement the plan, such as zoning
+
+
+
+
+                                                                                                                  1 • INTRODUCTION
+and affordable housing standards, are to be adopted by March 16, 2026.
+The Bill also created a new body called the Affordable Housing Dispute Resolution Program
+(“Program”) which will be responsible for reviewing plans for consistency with the Fair Housing Act
+and handling challenges to municipalities’ stated housing obligations or to their affordable housing
+plans.
+
+
+
+
+                                                         8
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 9 of 40 Trans ID: LCV20251815703
+                                                                       LCV20251854671
+                                                                 Verona Township Housing Element and Fair Share Plan
+                                                                                                           June 2025
+
+
+THE AFFORDABLE HOUSING OBLIGATION
+The Township’s obligation consists of two components:
+                                                               Figure 5. 4th Round Housing Plan Ratios
+•   The “Prospective Need” new construction obligation
+                                                               The affordable housing development and
+    reflecting the need for new affordable housing
+                                                               units addressing the Township’s Prospective
+    projected between 2025 and 2035; and
+                                                               Need Obligation must also comply with the
+•   The “Present Need” or “Rehabilitation” obligation,         following ratios:
+    reflecting the number of estimated housing units in
+                                                               Family Unit: Affordable units that are
+    the municipality that are substandard and occupied
+                                                               available to families (i.e. units that are not
+    by low- and moderate-income households.
+                                                               age-restricted or for persons with special
+The Plan must also review the Township’s satisfaction          needs) must comprise at least half of:
+of the Prospective Need assigned to it in the previous
+                                                               • All affordable units
+three rounds (from 1987 to 2025), and determine if the
+mechanisms intended to meet that Need have been                • All rental units
+successful or if they should be enhanced or replaced.          • All very-low income units
+DETERMINING PROSPECTIVE NEED                                   Rental Minimum: At least 25% of affordable
+Prospective Need obligations are calculated at the             units shall be rentals;
+housing Region level and allocated to the municipalities
+within the region based on household income, non-              Age-Restricted Maximum: Not more than
+residential property values, and land use factors that         30% of affordable units
+reflect the wealth of the municipality’s residents, job        Transitional Housing: Not more than 10% of
+opportunities, and land availability. These obligations are    the obligation
+required to be addressed through the creation of new
+affordable units, the renewal of affordability controls on     Very-Low Income Units: At least 13% of
+existing affordable housing units (Figure 6 - “Affordability   affordable units
+Controls” ), or the adoption of zoning or redevelopment
+plans that provide for a realistic opportunity create
+affordable housing units.                                      Figure 6. Affordability Controls
+
+The NJ DCA published its non-binding calculations of the Controls by deed restriction, contract, or
+Prospective and Present Needs for every municipality other legal or binding means which ensure
+in New Jersey on October 18, 2024, based upon the that housing units remain affordable to low-
+methodology prescribed in A4/S50. The DCA determined and moderate-income households over a
+that the Township had a zero (0) unit Present Need, certain period of time in accordance with the
+meaning that the Township is not obligated to fund a low- Fair Housing Act and applicable regulations.
+income housing rehabilitation program between 2025
+and 2035. The DCA also estimated the Township’s Prospective Need obligation at 173 units.
+The Township reviewed the methodology used by the DCA in achieving the 173-unit estimate,
+and determined that the data that the DCA had used to estimate the Township’s available land
+
+
+
+
+                                                                                                                1 • INTRODUCTION
+area was outdated. Specifically, more than 18 of the 23 acres that the DCA evaluated as vacant
+and developable in the Township are located on lands that are preserved for open space but not
+yet shown in the State-published geospatial data used by the DCA to identify available land. The
+Township Council passed a resolution on January 20, 2025 that declared 149-units as its Prospective
+Need, reflecting the removal of those 18 preserved acres from the Township’s share of available land
+in Region 2.
+The Township was among dozens of other towns that also sought to correct the Prospective Need
+calculated by the DCA and whose number declarations were challenged by the New Jersey
+Builders’ Association and Fair Share Housing Center. In a settlement conference held before the
+Honorable Julio L. Mendz, J.S.C. (Retired) on March 14, 2025, the Township and Fair Share Housing
+Center agreed to set Verona’s Prospective Need at 155 units. A settlement agreement to this effect
+was executed between the Township and Fair Share Housing Center on April 2, 2025. See Appendix
+2.
+
+                                                       9
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 10 of 40 Trans ID: LCV20251815703
+                                                                        LCV20251854671
+                                                                 Verona Township Housing Element and Fair Share Plan
+                                                                                                           June 2025
+
+SATISFYING PROSPECTIVE NEED
+Satisfaction of the Prospective Need is subject to certain restrictions and minimum requirements,
+some of which are detailed in Figure 5 - “4th Round Housing Plan Ratios” .
+The Fourth Round Rules allow municipalities to a number claim a number of bonus credits equal
+to not more than 25% of the prospective need for the units from the types of projects listed below.
+Bonuses are per unit falling into the respective category:
+•   Special Needs/Supportive Housing - 1 bonus credit per bedroom
+•   Non-Profit Partnership - 0.5 bonus credits per affordable unit
+•   Transit Oriented (0.5 mile from public transit stop) - 0.5 bonus credits per affordable unit
+•   Age-Restricted Units - 0.5 bonus credits per age-restricted affordable unit available for up to 10%
+    of the age-restricted units.
+•   Surplus Very-Low Income Units - 0.5 bonus credits per affordable unit
+•   Surplus Three-Bedroom Units - 0.5 bonus credits per surplus 3-BR unit
+•   Redevelopment of commercial properties - 0.5 bonus credits per affordable unit
+•   Extension of Affordability Controls - 1 bonus credit per affordable unit with extended controls
+•   Municipally-Sponsored Development (contribute lands or funds equal to at least 10% of cost of
+    constructing a 100% affordable development - 1 bonus credits per affordable unit with extended
+    controls
+•   Market-to-Affordable Program - 1 bonus credit per affordable unit
+
+
+
+
+                                                                                                                2 • ABOUT VERONA
+
+
+                                                       10
+           ESX-L-000594-25 06/20/2025
+                           06/25/2025 5:23:21
+                                      7:30:04 PM Pg 11 of 40 Trans ID: LCV20251815703
+                                                                       LCV20251854671
+                                                               Verona Township Housing Element and Fair Share Plan
+                                                                                                         June 2025
+
+
+WHAT IS A HOUSING ELEMENT AND FAIR SHARE
+PLAN
+A Housing Element and Fair Share Plan is a           Figure 7. Required Contents of a Housing Element
+document required by the New Jersey Fair                       and Fair Share Plan
+Housing Act of 1985 (“FHA”) to be adopted by         • Inventory of municipal housing stock and
+each municipality in the state to identify and         occupant characteristics;
+address their respective, allocated need for safe
+and adequate housing for low- and moderate-          • Demographic analysis;
+income households.                                   • Analysis of existing and 10-year projected
+As the next section of this report discusses, the      employment characteristics;
+“need” and the manner in which that “need” can       • 10-year housing stock projection;
+be addressed had historically been promulgated       • Determination of municipal present and
+by the Council on Affordable Housing (COAH),           prospective needs for low- and moderate-
+an entity created by the Fair Housing Act in 1985.     income housing;
+However, A4/S50 (P.L. 2024, c.2) amended the         • Consideration of lands most appropriate
+Fair Housing Act and other statutes such that it       for the construction of low- and moderate-
+disbanded COAH, restructured the jurisdictional        income housing and/or identification of
+regime for the administration of the affordable        existing structures appropriate to convert to
+housing process, and established the Fair Housing      low- and moderate-income housing;
+Act as the regulatory document for calculating
+and addressing the affordable housing                • Analysis of the extent to which municipal
+obligation. Where the amended Fair Housing Act         ordinances and other local factors advance
+falls short in outlining the means of determining
+                                                       or detract from the goal of preserving multi-
+and satisfying a municipality’s responsibilities,
+                                                       generational family continuity;
+P.L. 2024, c.2 permits municipalities, the Courts,   • An analysis of consistency with the State
+and developers to rely on previously accepted          Development and Redevelopment Plan,
+and upheld practices and rules to fill in the gaps     including water, wastewater, stormwater,
+in the statute. See “Figure 8. Section 24 of P.L.      and multi-modal transportation based on
+2024, c.2 (Section 311.m of the Fair Housing Act)”     guidance and technical assistance from the
+on page 11.                                            State Planning Commission
+The affordable housing “need” identified and
+addressed in this Plan is comprised of the Present   Figure 8. Section 24 of P.L. 2024, c.2 (Section
+Need and Fourth Round Prospective Need for                     311.m of the Fair Housing Act)
+2025 to 2035, and is based on the methodology         • All parties shall be entitled to rely upon
+detailed in A4/S50, which largely codifies a            regulations on municipal credits, adjustments,
+methodology approved during the Third Round             and compliance mechanisms adopted by the
+by the Honorable Mary C. Jacobson of Mercer             Council on Affordable Housing unless those
+
+
+
+
+                                                                                                              2 • ABOUT VERONA
+County in 2018.                                         regulations are contradicted by statute,
+                                                        including but not limited to P.L.2024, c.2
+                                                        (C.52:27D-304.1 et seq.), or binding court
+                                                        decisions.
+
+
+
+
+                                                     11
+             ESX-L-000594-25 06/20/2025
+                             06/25/2025 5:23:21
+                                        7:30:04 PM Pg 12 of 40 Trans ID: LCV20251815703
+                                                                         LCV20251854671
+                                                                          Verona Township Housing Element and Fair Share Plan
+                                                                                                                    June 2025
+
+
+ABOUT VERONA
+The Township of Verona is a suburban municipality in Essex County, New Jersey, neighboring Cedar
+Grove, Montclair, West Orange, Essex Fells, and North Caldwell. The Township is two (2) miles from
+Interstate-280 (a.k.a. Essex Freeway) and four (4) miles from the Garden State Parkway, and is adjacent
+to Montclair, which contains five NJ Transit Commuter Rail stations. The Township has a population
+of 14,572 as of the 2020 Census, which represents a 10% increase since 2010. The Township’s peak
+population was calculated in the 1970 Census at 15,067 persons.
+The     Township    is   mostly
+developed; however, the 2020
+Land Use / Land Coverage
+analysis conducted by the
+NJ DEP estimates 30% of the
+Township’s land areas as
+being some form of parkland
+or natural lands, and an
+additional 11.7% is composed
+of wetlands and water areas.
+The Township’s 2021 Open
+Space and Recreation Plan
+                                 Figure 9. Use of lands other than road rights-of-way, as classified by the Township Tax
+indicates that 14.7% of the
+                                            Assessor
+Township’s area is preserved
+lands, including Verona Park, and the Hilltop Reservation. Similarly, 2024 MOD-IV2 tax assessor data
+shows that 50 acres of the Township (3.2% of Township area, excluding rights-of-way) is classified as
+“vacant”. The largest land use based on tax assessor data is one- to four-family residential properties
+comprising 55.2% of the Township (862.1 acres). Public property other than school properties make
+up the next largest use at 20.1% (313.2 acres).
+Bloomfield Avenue runs east-to-west through the center of the Township and serves as its main
+commercial corridor and the main connector road to nearby Caldwell and Montclair. Along with
+north-to-south running Pompton Avenue and Fairview Avenue, Bloomfield Avenue serves as one of
+the main corridors for the Township’s higher density residential and mixed-use development.
+The northwestern portion of the Township is occupied by Hilltop Reservation; a park under split
+ownership between Essex County and Verona Township which has been partially redeveloped with
+high-density residential development known as the Highlands at Hilltop. Much of the southeast part
+of the Township is occupied by Verona Park or Montclair Golf Club.
+The New Jersey State Development and Redevelopment Plan (“SDRP”) - a policy document intended
+to guide State-level allocation of funding and local planning policy, and which is historically integral
+to the State’s affordable housing policy - puts Verona Township in its Metropolitan Planning Area
+(Planning Area 1), with the exception of the hilly lands along the border with Montclair and the
+
+
+
+
+                                                                                                                           2 • ABOUT VERONA
+lands generally in and around the Hilltop Reservation parks, which are classified as Environmentally
+Sensitive (Planning Area 5). The SDRP envisions the Metropolitan Planning Area as accommodating
+much of the State’s growth, through compact development and redevelopment, particularly
+near transit and amenities, while urging sensitivity to natural habitats and historically overburdened
+communities.
+AFFORDABLE HOUSING HISTORY
+The Township of Verona adopted its First Round Housing Element and Fair Share Plan in 1992. The Plan
+used 159 “Section 8” housing units to address the Township’s prospective need and present need
+(then called the “indigenous need”), but does not appear to have been certified by COAH. The
+Township adopted its second HEFSP in February of 1995 to address its Second Round obligation and
+
+2 MOD-IV is the system used in the State of New Jersey for the uniform preparation, maintenance, presentation and
+  storage of property tax information across jurisdictions
+
+                                                               12
+             ESX-L-000594-25 06/20/2025
+                             06/25/2025 5:23:21
+                                        7:30:04 PM Pg 13 of 40 Trans ID: LCV20251815703
+                                                                         LCV20251854671
+                                                         Verona Township Housing Element and Fair Share Plan
+                                                                                                   June 2025
+
+
+
+
+                                                                                                        2 • ABOUT VERONA
+Map 2. Verona Township Land Use Map
+
+
+                                                 13
+              ESX-L-000594-25 06/20/2025
+                              06/25/2025 5:23:21
+                                         7:30:04 PM Pg 14 of 40 Trans ID: LCV20251815703
+                                                                          LCV20251854671
+                                                                        Verona Township Housing Element and Fair Share Plan
+                                                                                                                  June 2025
+
+its recalculated First Round obligation.
+While the First Round prospective need was calculated as 127 units in 1987, the second round plan
+calculated the full 1987 to 1999 Prospective Need at 27 units. Again, the Township addressed its
+obligation with a portion of the 159 Section 8 “Prior Cycle” credits3 as part of granting substantive
+certification for the First Round. COAH certified the Township’s Second Round HEFSP on August 2,
+1995.
+The Township adopted Third Round Fair Share Plans to comply with both the 2004 and 2008 iterations
+of the Third Round Rules; however, COAH did not certify either Third Round Plan before its rules were
+invalidated by the Courts. Following the New Jersey Supreme Court’s Mount Laurel IV decision in
+2015, the Township engaged in a settlement process with Fair Share Housing Center that resulted in
+a Court-approved settlement agreement in 2021 and a Third Round Housing Element and Fair Share
+Plan adopted in June of 2023.
+WHAT IS “AFFORDABLE” IN VERONA TOWNSHIP
+Verona is located in Housing Region 2, which includes Essex County, Morris County, Union County, and
+Warren County. Whereas COAH has historically had the responsibility of annually publishing “income
+limits” establishing the maximum very-low, low-, and moderate-income household incomes based
+on household size in each region, as well as the maximum value of assets qualifying households may
+own, that responsibility has been assumed by the NJ HMFA for the Fourth Round. Income limits are
+generally calculated based on HUD’s methodology for calculating its own income limits.
+Chart 1 - “2025 Region 2 Income Limits” summarizes the maximum incomes for very-low, low, and
+moderate income households in Region 2 by household size as published for the year 2025 by NJ
+HMFA.
+Chart 1. 2025 Region 2 Income Limits
+ HOUSEHOLD INCOME CATEGORY             1-PERSON     2-PERSON        3-PERSON       4-PERSON         5-PERSON
+
+ MODERATE                              $75,840      $86,640         $97,440        $108,240         $116,960
+ LOW                                   $47,400      $54,150         $60,900        $67,650          $73,100
+ VERY-LOW                              $28,440      $32,490         $36,540        $40,590          $43,860
+Source: NJHMFA 2025 UHAC Affordable Regional Income Limits
+
+
+Based on the Uniform Housing Affordability Controls (UHAC) at N.J.A.C. 5:80-26.3, the “gross” rent for
+affordable units, which means the rents and any utilities and services (example: trash, gas, electric,
+water/sewer) included therein, cannot exceed 30% of gross incomes at the 30% of regional median
+income level for very-low income units, 50% of regional median income level for low-income units, or
+60% of regional median income for moderate income units.
+The UHAC limits the highest affordable-unit sales price to that which is affordable to moderate
+income households earning 70% of regional median income. Affordability for for-sale / homeowner
+units are more variable than rental units as they depend upon current mortgage rates, homeowner
+
+
+
+
+                                                                                                                       2 • ABOUT VERONA
+insurance rates, and homeowner association or condominium fees, but are not affected by utilities.
+Additionally, unlike affordable rents, which are based upon 30% of gross household income, sales
+prices are considered to be affordable when the costs of the mortgage, insurance, and HOA/Condo
+fees are less than or equal to 28% of gross household income.
+
+As of the writing of this Plan, the HMFA has not yet published calculators, like those previously
+provided by COAH or the Affordable Housing Professionals of New Jersey, to assist in calculating
+affordable rents or sales prices. However, based on the guidelines for affordability as a percentage
+of household income, affordable monthly renter and homeowner costs for a 1, 2, or 3 bedroom unit
+would be as follows. See Chart 2 - “2025 Region 2 Affordable Rents” and Chart 3 - “2025 Region 2
+Affordable Monthly Costs for Homeowners”
+
+3 Prior Cycle Credits: Defined in the Second Round Rules as credits granted by COAH for low- and
+   moderate-income units constructed after April 1, 1980 (but before December 15, 1986)
+
+                                                               14
+              ESX-L-000594-25 06/20/2025
+                              06/25/2025 5:23:21
+                                         7:30:04 PM Pg 15 of 40 Trans ID: LCV20251815703
+                                                                          LCV20251854671
+                                                                               Verona Township Housing Element and Fair Share Plan
+                                                                                                                         June 2025
+
+
+
+Chart 2. 2025 Region 2 Affordable Rents
+HOUSEHOLD INCOME         1-BEDROOM            2-BEDROOM               3-BEDROOM
+CATEGORY                 (1.5-PERSON H.H.)    (3-PERSON H.H.)         (4.5-PERSON H.H.)
+
+ MODERATE (60% RMI)      $1,523                $1,827                 $2,111
+ LOW                     $1,269                $1,523                 $1,759
+ VERY-LOW                $762                  $914                   $1,056
+Source: NJHMFA 2025 UHAC Affordable Regional Income Limits
+
+Chart 3. 2025 Region 2 Affordable Monthly Costs for Homeowners
+HOUSEHOLD INCOME         1-BEDROOM            2-BEDROOM               3-BEDROOM
+CATEGORY                 (1.5-PERSON H.H.)    (3-PERSON H.H.)         (4.5-PERSON H.H.)
+
+ MODERATE (70% RMI)      $1,659                $1,989                 $2,299
+ LOW                     $1,185                $1,421                 $1,642
+ VERY-LOW                $711                  $853                   $985
+Source: NJHMFA 2025 UHAC Affordable Regional Income Limits
+
+
+
+
+                                                                                                                              2 • ABOUT VERONA
+
+
+                                                                 15
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 16 of 40 Trans ID: LCV20251815703
+                                                                        LCV20251854671
+                                                                               Verona Township Housing Element and Fair Share Plan
+                                                                                                                         June 2025
+
+
+VE RONA TOWNSHIP                                              DEMOGRAPHICS                                            AND
+HOUSING STOCK
+INTRODUCTION
+This section of the Housing Element and Fair Share Plan is intended to provide the following information
+required at N.J.S.A. 52:27D-310:
+► An inventory of the municipality’s housing stock by age, condition, purchase or rental value,
+  occupancy characteristics, and type, including the number of units affordable to low and
+  moderate income households and substandard housing capable of being rehabilitated;
+► A projection of the municipality’s housing stock, including the probable future construction of low
+  and moderate income housing, for the next ten years, taking into account, but not necessarily
+  limited to, construction permits issued, approvals of applications for development and probable
+  residential development of lands;
+► An analysis of the municipality’s demographic characteristics, including but not necessarily
+  limited to, household size, income level and age; and
+► An analysis of the existing and probable future employment characteristics of the municipality.
+The data in this section represents the most recent data publicly available from standard and typical
+data sources used in preparing Housing Elements, including from the 2019-2023 Five-year American
+Community Survey (ACS) data published by the U.S. Census Bureau, Longitudinal Employer Household
+Data (LEHD) published by the U.S. Census Bureau, and labor statistics published by the New Jersey
+Department of Labor and Workforce Development (LWD), which are standard data sources for use
+
+
+
+
+                                                                                                                              3 • DEMOGRAPHICS AND HOUSING STOCK
+in preparing this section.
+HOUSING CHARACTERISTICS
+Chart 4 - “Housing Units in Verona Township by Type of Structure, Tenure, and Occupancy Status in
+2023” displays the total number of housing units in the Township broken down by tenure type (renter
+or owner) and the type of building or vehicle containing the housing unit(s). Six out of every ten
+housing units in the Township is in a detached single family house, typical for suburban communities
+in New Jersey. One in five units are in apartment buildings with more than 20 apartments. The
+remainder of the Township’s housing is in townhouses, duplexes, and apartment houses (11.5%)
+and small apartment buildings with five to 19 units (6.3%). The 2023 ACS data indicates that about
+one-fifth of apartments in buildings with 20 to 49 units is vacant. It also shows, as would be expected,
+that virtually all of the Township’s occupied attached single-family housing stock is owner-occupied,
+rather than being rented out by a landlord or property investor.
+          Chart 4. Housing Units in Verona Township by Type of Structure, Tenure, and Occupancy Status in 2023
+           TYPE OF BUILDING/                         PERCENT         OWNER            RENTER           NOT
+                                       TOTAL UNITS
+           STRUCTURE                                 OF TOTAL        OCCUPIED         OCCUPIED         OCCUPIED
+
+           1, DETACHED                 3,717         62.0%           3,509            107              101
+           1, ATTACHED                 149           2.5%            148              1                0
+           2 UNITS                     346           5.8%            130              216              0
+           3 OR 4                      194           3.2%            25               169              0
+           5 TO 9                      248           4.1%            153              95               0
+           10 TO 19                    129           2.2%            56               73               0
+           20 TO 49                    249           4.2%            48               145              56
+           50 OR MORE                  965           16.1%           474              491              0
+           MOBILE HOME                 0             0.0%            0                0                0
+           BOAT, RV, VAN, ETC.         0             0.0%            0                0                0
+           TOTAL                       5,997         100.0%          4,543 (75.75%)   1,297 (21.63%)   1,57 (2.62%)
+          Source: 2023 American Community Survey - 5 year estimate (B25032, B25024)
+
+
+
+                                                                16
+             ESX-L-000594-25 06/20/2025
+                             06/25/2025 5:23:21
+                                        7:30:04 PM Pg 17 of 40 Trans ID: LCV20251815703
+                                                                         LCV20251854671
+                                                                             Verona Township Housing Element and Fair Share Plan
+                                                                                                                       June 2025
+
+
+                                                    Chart 5. Housing Units in Verona Township by Year Built and Tenancy
+Chart 5 - “Housing Units in Verona Township                  Type in 2023
+by Year Built and Tenancy Type in 2023”                                 OCCUPIED        PERCENT OF
+                                                     YEAR BUILT                                          OWNER      RENTER
+breaks down the total number of housing                                 UNITS           TOTAL
+units occupied in 2023 by the period of              2020 OR LATER      11              0.19%             -         11
+time in which they were built, as well as            2010 TO 2019       276             4.73%             60        216
+showing how many of those units were                 2000 TO 2009       230             3.94%             77        153
+owner or renter occupied in 2023. The
+                                                     1990 TO 1999       33              0.57%             -         33
+Chart shows that one third (32.74%) of
+                                                     1980 TO 1989       207             3.54%             88        119
+occupied units were built in 1939 or earlier
+and another third (34.69%) were built                1970 TO 1979       721             12.35%            542       179
+between 1940 and 1959. For contrast, less            1960 TO 1969       424             7.26%             383       41
+than 5% of housing units were built in after         1950 TO 1959       1,469           25.15%            1,277     192
+2010.1,2                                             1940 TO 1949       557             9.54%             461       96
+
+The median year of construction of owner- 1939 OR EARLIER 1,912                32.74%              1,655   257
+occupied units is 1951 whereas the          (%) OF TOTAL         5,840         100.00%            4,543    1,297
+median year of construction for renter- MEDIAN YEAR              1953                             1951     1973
+occupied units is 1973, showing that local Source: 2023 American Community Survey - 5 year estimate (B25035,
+                                                     B25036, B25037)
+rental market demand is being addressed
+by construction or maintenance of newer                      Chart 6. Housing Units in Verona Township by Number
+development, in contrast to some municipalities where                  of Rooms in a Unit in 2023
+older, larger housing units are converted into ROOMS                          NUMBER OF UNITS            PERCENT
+apartments.                                                                   81                         1.35%
+
+
+
+
+                                                                                                                             3 • DEMOGRAPHICS AND HOUSING STOCK
+                                                              1 ROOM
+ Chart 6 - “Housing Units in Verona Township by Number                2 ROOMS          192                        3.20%
+of Rooms in a Unit in 2023” shows the number of housing               3 ROOMS          576                        9.60%
+units in the Township of Verona by their number of                    4 ROOMS          594                        9.90%
+rooms. The plurality of units (19.03%) have nine or more              5 ROOMS          652                        10.87%
+rooms, which is consistent with the visibly large size of             6 ROOMS          969                        16.16%
+homes in Verona and the higher wealth and housing
+                                                                      7 ROOMS          976                        16.27%
+value of households and their homes in this towns,
+                                                                      8 ROOMS          816                        13.61%
+further explored later in this chapter.
+                                                                      9+ ROOMS         1,141                      19.03%
+                                                                      TOTAL            5,997                      100.00%
+                                                                     Source: 2023 American Community Survey - 5 year
+                                                                             estimate (DP04)
+                                                             Chart 7. Housing Units in Verona Township by Number of
+                                                                      Bedrooms in 2023
+Similarly, Chart 7 - “Housing Units in Verona
+Township by Number of Bedrooms in 2023” shows                 BEDROOMS                         NUMBER OF UNITS    PERCENT
+
+that more than one-third (37.60%) of units have 3             EFFICIENCY                       140                2.33%
+bedrooms at of the total occupied units, and six              1 BEDROOM                        962                16.04%
+out of ten (61.9%) housing units in the Township              2 BEDROOMS                       1122               18.71%
+have three bedrooms or more, which is consistent              3 BEDROOMS                       2145               35.77%
+with the predominantly single-family nature of the            4 BEDROOMS                       1191               19.86%
+Township’s housing stock.                                     5 OR MORE BEDROOMS               437                7.29%
+                                                              TOTAL                            5,997              100%
+                                                             Source: 2023 American Community Survey - 5 year estimate
+                                                                     (DP04)
+1 ACS estimates of housing stock and housing characteristics often do not align exactly with local building depart-
+  ment data, because it uses a combination of data sources and statistical methods to generate comprehensive and
+  wide ranging data about characteristics like the age, occupancy status, and physical characteristics. It is standard
+  practice to utilize ACS/Census data, despite the margin of error in the data, to paint a comprehensive picture of the
+  housing stock at the expense of precision in certain numbers.
+2 The Verona Township Building Department issued Certificates of Occupancy for 408 housing units between 2010 and
+  2019
+
+                                                               17
+           ESX-L-000594-25 06/20/2025
+                           06/25/2025 5:23:21
+                                      7:30:04 PM Pg 18 of 40 Trans ID: LCV20251815703
+                                                                       LCV20251854671
+                                                                                 Verona Township Housing Element and Fair Share Plan
+                                                                                                                           June 2025
+
+
+
+Chart 8 - “Owner-Occupied Housing Units                 Chart 8. Owner-Occupied Housing Units in Verona Township by Value
+                                                                 in 2023
+in Verona Township by Value in 2023”
+                                                        HOUSING UNIT VALUE              2015 UNITS PERCENT         2023 UNITS PERCENT
+compares the estimated housing values
+                                                         LESS THAN $50,000              35          0.88%          152        3.35%
+2015 and 2023 American Community Survey
+data. The plurality of housing units in 2015            $50,000-$99,000                 9           0.23%          8          0.18%
+(51.25%) had estimated value between                    $100,000-$149,000               30          0.75%          18         0.40%
+$300,000 and $499,000. In 2023, 59.61%                  $150,000-$199,000               198         4.98%          27         0.59%
+of owner-occupied housing units were                    $200,000-$299,000               379         9.53%          414        9.11%
+valued between $500,0000 and $999,999.                  $300,000-$499,000               2,037       51.25%         844        18.58%
+The median occupied home value in 2015                  $500,000-$999,999               1,226       30.84%         2,708      59.61%
+was $430,400 in 2015 dollars (“nominal”),               $1,000,000 OR MORE              61          1.53%          372        8.19%
+or $551,851 in 2023 dollars (“real”, or                 TOTAL                           3,975       100.00%        4,543      100.00%
+accounting for inflation). The median home
+                                                         MEDIAN (NOMINAL)               $430,400    (X)            $595,000   (X)
+value in 2023 was $595,000.
+                                                         MEDIAN (REAL, 2023)            $551,851
+                                                        Source: 2015 and 2023 American Community Survey - 5 year estimate
+                                                                (DP04, B25075)
+
+         Chart 9. Housing Units in Verona Township, Essex County, and New Jersey by Gross Rent in 2023
+                                               VERONA TOWNSHIP         ESSEX COUNTY             NEW JERSEY
+          GROSS RENT
+                                               UNITS     PERCENT       UNITS      PERCENT       UNITS        PERCENT
+
+          LESS THAN $500                       106       8.24%         17,560     10.17%        76,830       6.27%
+          $500 TO $999                         98        7.61%         19,907     11.53%        106,648      8.70%
+
+
+
+
+                                                                                                                                        3 • DEMOGRAPHICS AND HOUSING STOCK
+          $1,000 TO $1,499                     61        4.74%         53,634     31.07%        322,368      26.29%
+          $1,500 TO $1,999                     291       22.61%        46,316     26.83%        349,936      28.54%
+          $2,000 TO $2,499                     349       27.12%        21,870     12.67%        194,492      15.86%
+          $2,500 TO $2,999                     158       12.28%        6,572      3.81%         82,425       6.72%
+          $3,000 OR MORE                       224       17.40%        6,778      3.93%         93,469       7.62%
+          MEDIAN DOLLARS ($)                   $2,125    (X)           $1,459     (X)           $1,653       (X)
+          NO CASH RENT                         10        (X)           3,459      (X)           36,705       (X)
+          TOTAL OCCUPIED RENTAL UNITS          1,287     (X)           172,637    (X)           1,226,168    (X)
+         Source: 2023 American Community Survey - 5 year estimate (DP04, B25063)
+
+
+Chart 9 - “Housing Units in Verona Township, Essex County, and New Jersey by Gross Rent in 2023”
+compares gross rent payments in Verona Township, the entirety of Essex County, and the State of
+New Jersey in 2023. Housing costs for renters in Verona are generally higher than those across Essex
+County or the rest of the state - the median rent in Verona is $2,125 compared to $1,459 in Essex
+County or $1,653 across New Jersey. One-sixth (17.4 %) of renters in Verona pay $3,000 or more each
+month (versus 3.93% in Essex County and 7.62% across New Jersey), while 15.85% pay less than $1,000
+each month (21.7% in Essex, 15% in New Jersey).
+Based on the 2023 ACS data (ACS table B25068), 154 of the Township’s 614 1-bedroom rental units
+and 35 of its 2-bedroom rental units would be affordable based on the 2025 affordable rent rates
+identified on page 15 of this plan. The ACS data does not account for the affordable units created
+at Verona Flats or units pending at the Sunset Avenue Redevelopment site.
+
+
+
+
+                                                                  18
+             ESX-L-000594-25 06/20/2025
+                             06/25/2025 5:23:21
+                                        7:30:04 PM Pg 19 of 40 Trans ID: LCV20251815703
+                                                                         LCV20251854671
+                                                                      Verona Township Housing Element and Fair Share Plan
+                                                                                                                June 2025
+
+
+
+Housing is considered to be
+                                      Chart 10.Housing Units in Verona Township by Tenure and by Monthly Cost of
+affordable if costs associated with            Housing as a Percentage of Household Income in 2023
+occupying that housing are lower MONTHLY COST
+than 28% of gross income for owner AS % OF INCOME OWNER PERCENT RENTER PERCENT ALL                        PERCENT
+
+occupied units and 30% of gross LESS THAN
+                                                          684        15.06%    100       7.71%    784     13.42%
+income for renter occupied units. 10.0 %
+Households paying more than 30% 10.0 TO 14.9 %            738        16.24%    75        5.78%    813     13.92%
+of their gross income (before taxes, 15.0 TO 19.9 %       900        19.81%    116       8.94%    1,016 17.40%
+other deductions) for housing are 20.0 TO 24.9 %          693        15.25%    197       15.19%   890     15.24%
+considered to be cost burdened,
+                                       25.0 TO 29.9 %     414        9.11%     230       17.73%   644     11.03%
+and households paying more than
+                                       30.0 TO 34.9 %     182        4.01%     153       11.80%   335     5.74%
+50% of their gross income for housing
+                                                          75         1.65%     60        4.63%    135     2.31%
+are considered to be severely cost 35.0 TO 39.9 %
+burdened. Chart 10 - “Housing          40.0 TO 49.9 %     310        6.82%     67        5.17%    377     6.46%
+Units in Verona Township by Tenure 50.0 % OR MORE 519                11.42%    276       21.28%   795     13.61%
+and by Monthly Cost of Housing NOT COMPUTED 28                       0.62%     23        1.77%    51      0.87%
+as a Percentage of Household TOTAL H.H.                   4,543      100.00%   1,297     100.00%  5,840 100.00%
+Income in 2023” shows that 22.38% TOTAL COST
+                                                          1,086      23.90%    556       42.87%   1,307   22.38%
+of households in Verona are cost BURDENED
+burdened, including 13. 61% who Source: 2023 American Community Survey - 5 year estimate (B25070, B25091)
+are severely cost burdened. The
+rates are higher among renters, where 42.87% are cost burdened including 21.28% who are severely
+
+
+
+
+                                                                                                                     3 • DEMOGRAPHICS AND HOUSING STOCK
+cost burdened.
+
+
+
+
+                                                           19
+             ESX-L-000594-25 06/20/2025
+                             06/25/2025 5:23:21
+                                        7:30:04 PM Pg 20 of 40 Trans ID: LCV20251815703
+                                                                         LCV20251854671
+                                                                         Verona Township Housing Element and Fair Share Plan
+                                                                                                                   June 2025
+
+POPULATION AND HOUSEHOLD CHARACTERISTICS
+Chart 11 - “Population Changes in Verona Township, Essex County, and New Jersey between 2000
+and 2023” compares the population change over the last two-and-a-half decades in Verona
+Township, Essex County, and across New Jersey. The trend across the three geographies has been
+one of growth, with Verona growing 6.7% since the beginning of the century compared to 7.6% in
+Essex County and 10.1 % in New Jersey overall. While Verona grew faster than the County from 2000
+to 2015, that growth slowed down from 2015 to 2023, with growth of Essex County outpacing the
+growth in Verona and across the state.
+         Chart 11.Population Changes in Verona Township, Essex County, and New Jersey between 2000 and 2023
+                                                           00 -'15                   15'- '23         00' TO 23'
+          LOCATION               2000         2015                      2023
+                                                           CHANGE                    CHANGE           CHANGE
+
+          VERONA TOWNSHIP        13,533       14,418       6.54%        14,441       0.2%             6.7%
+          ESSEX COUNTY           793,633      832,848      4.94%        854,130      2.6%             7.6%
+          NEW JERSEY             8,414,350    9,093,435    8.07%        9,267,014    1.9%             10.1%
+         Source: 2000 and 2015 Decennial Census, 2023 American Community Survey
+
+Chart 12 - “Population Age Distribution Chart 12.Population Age Distribution in 2015 and 2023.
+in 2015 and 2023.” shows the age AGE GROUP                           PERCENT                PERCENT
+                                                             2015                 2023                  CHANGE
+distribution of individuals living in (YEARS OLD)                    OF TOTAL               OF TOTAL
+Verona, and the `change in age UNDER 5                      719      5.33%        889       6.16%       24%
+distributions between 2015 and 2023. 5 TO 9                 581      4.31%        838       5.80%       44%
+While many communities in New
+                                            10 TO 14        1,180    8.75%        1,164     8.06%       -1%
+Jersey have gotten older, due to lower
+
+
+
+
+                                                                                                                            3 • DEMOGRAPHICS AND HOUSING STOCK
+                                            15 TO 19        629      4.66%        837       5.80%       33%
+birthrates and outmigration of young
+adults, the age of the median Verona 20 TO 24               525      3.89%        460       3.19%       -12%
+resident dropped from 45.6 years old 25 TO 34               1,283    9.51%        1,111     7.69%       -13%
+to 42.9 years old. A broader look at 35 TO 44               1,736    12.87%       2,247 15.56%          29%
+the ACS data reveals a 19.9% increase 45 TO 54              2,218    16.44%       2,166 15.00%          -2%
+in the number of children since 2015,
+                                            55 TO 59        937      6.95%        916       6.34%       -2%
+coinciding with a 29.4% growth in
+                                                            1,034    7.67%        683       4.73%       -34%
+the number of adults in the early 60 TO 64
+and middle child-raising life stages 65 +                   2,647    19.62%       3,130 21.67%          18%
+(35 to 44 years old). Meanwhile, the TOTAL                  13,489 100.00%        14,441 100.0%         9.3%
+Township saw its population aged 60 MEDIAN AGE
+to 64 years old decline by 33.9%. The (YEARS OLD) 45.6               (X)          42.9      (X)         (X)
+
+data suggests that the Township has Source: 2015 and 2023 American Community Survey - 5 year estimate
+become more attractive to families,                  (DP05)
+while failing to retain or attract those           Chart 13.Households in Verona Township by Type in 2023
+nearing retirement age. Notwithstanding
+                                                                                        NUMBER OF
+the growth in the number of school-aged HOUSEHOLD TYPE                                  HOUSEHOLDS
+                                                                                                        PERCENT
+
+children in Verona, enrollment across its public MARRIED COUPLE                         3,162           54.14%
+schools remained relatively unchanged from              WITH CHILD UNDER 18              1,482          25.38%
+the 2015-16 school year (2,144) and 2023-24
+                                                     COHABITANT COUPLE                  305             5.22%
+school year (2,163).
+                                                              WITH CHILD UNDER 18            75                     1.28%
+Chart 13 - “Households in Verona Township by              SINGLE MALE                       809                    13.85%
+Type in 2023” breaks down households in
+                                                             WITH CHILD UNDER 18                116                 1.99%
+Verona by type. The Census Bureau defines as
+                                                          SINGLE FEMALE                     1,564                  26.78%
+household as consisting of “all the people
+                                                              WITH CHILD UNDER 18               73                  1.25%
+who occupy a housing unit” including “the
+                                                          LIVING ALONE & 65 Y/O OR
+related family members and all the unrelated                                                1,179                  20.19%
+                                                          OLDER
+people, if any, such as lodgers, foster children,
+                                                          TOTAL                             5,840
+wards, or employees who share the housing
+                                                          Source: 2023 American Community Survey (DP02)
+unit. A person living alone in a housing unit, or
+
+                                                              20
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 21 of 40 Trans ID: LCV20251815703
+                                                                        LCV20251854671
+                                                                Verona Township Housing Element and Fair Share Plan
+                                                                                                          June 2025
+
+a group of unrelated people sharing a housing unit such as partners or roomers, is also counted as
+a household. The count of households excludes group quarters.”
+Married couple households make up half of all households in the Chart 14.Average Household Size in
+                                                                         Verona in 2015 and 2023
+Township, and just half of those households have children younger
+                                                                      AVERAGE HOUSEHOLD SIZE
+than 18 years old. One-in-four (26.78%) households in the Township
+                                                                   HOUSEHOLD TYPE 2015     2023
+are headed by single females, and one-in-five (20.19%) households
+consist of seniors living alone.                                   OWNER           2.82    2.68
+                                                                            RENTER                1.87   1.74
+Chart 14 - “Average Household Size in Verona in 2015 and 2023”
+                                                                        ALL
+shows that the average household size in Verona Township has shrunk                      2.6    2.47
+                                                                        HOUSEHOLDS
+since 2015, despite the increase in the number of school-age children.
+                                                                       Source: 2015 and 2023 American
+This is consistent with broader declining fertility trends.                    Community Survey (DP02)
+
+ECONOMIC CHARACTERISTICS
+Chart 15 - “Households in Verona by Income in 2023”           Chart 15.Households in Verona by Income in 2023
+shows that the plurality of households (38.12%) in Verona                              NUMBER OF
+                                                               HOUSEHOLD INCOME                          PERCENT
+earn incomes of $200,000 or more. An equal portion of                                  HOUSEHOLDS
+
+households in the Township (37.26%) earn less than             LESS THAN $10,000       345               5.91%
+$100,000. The median household income in 2023 was              $10,000 TO $14,999      118               2.02%
+$159,044, with the median income for a three-person            $15,000 TO $24,999      184               3.15%
+household at $189,605.                                         $25,000 TO $34,999      113               1.93%
+The 2023 American Community Survey does breakdown              $35,000 TO $49,999      179               3.07%
+household income by household size to easily compare           $50,000 TO $74,999      433               7.41%
+the Township’s demographics to the 2025 income limits.
+
+
+
+
+                                                                                                                   3 • DEMOGRAPHICS AND HOUSING STOCK
+                                                               $75,000 TO $99,999      804               13.77%
+However, in the context that the average household size in     $100,000 TO $149,999    594               10.17%
+the Township is 2.47 persons, it should be noted that 2,176    $150,000 TO $199,999    844               14.45%
+of the Township’s 5,840 households in 2023 made less than
+                                                               $200,000 OR MORE        2,226             38.12%
+$100,000, whereas a (hypothetical) 2.5 person household
+                                                               MEDIAN INCOME           $159,044          (X)
+would need to have an income of $115,050 or less in 2025
+                                                              Source: 2020 American Community Survey - 5 year
+to qualify for affordable housing.                                    estimate (DP03)
+
+
+                                                              Chart 16.Poverty Rates in Verona Township, Essex
+Chart 16 - “Poverty Rates in Verona Township, Essex                    County, and New Jersey in 2023
+County, and New Jersey in 2023” shows the distribution         LOCATION                 INDIVIDUAL       FAMILY
+of individuals and families living below the poverty level     VERONA TOWNSHIP          5.0%             2.6%
+in Verona, Essex County, and New Jersey. Verona has a
+                                                               ESSEX COUNTY             15.00%           7.0%
+low poverty rate for both families (2.6%) and individuals
+                                                               NEW JERSEY               9.80%            11.7%
+(5%). This makes it an outlier in Essex County, which has
+                                                              Source: 2023 American Community Survey - 5 year
+individual and family poverty rates of 15% and 7%.                    estimate (DP03)
+
+
+
+
+                                                       21
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 22 of 40 Trans ID: LCV20251815703
+                                                                        LCV20251854671
+                                                                         Verona Township Housing Element and Fair Share Plan
+                                                                                                                   June 2025
+
+
+
+Chart 17 - “Employed Verona Residents          Chart 17.Employed Verona Residents by Sector in 2023
+by Sector in 2023” shows the number of         SECTOR                                              NUMBER    PERCENT
+employed Verona residents by sector of
+                                                AGRICULTURE, FORESTRY, MINING, FISHING &
+employment as defined by the North              HUNTING
+                                                                                                   0         0.00%
+American Industrial Classification System
+                                                CONSTRUCTION                                       280       3.87%
+(NAICS). The two most represented
+                                                MANUFACTURING                                      633       8.74%
+industries of resident employment in the
+                                                WHOLESALE TRADE                                    113       1.56%
+Township of Verona are education/
+healthcare/social services at 26.16% of         RETAIL TRADE                                       584       8.06%
+employed persons and Professional,              TRANSPORTATION, WAREHOUSING, UTILITIES             138       1.91%
+Scientific, Management/Administration,          INFORMATION                                        254       3.51%
+and Waste Services at 21.28%. The former        FINANCE/INSURANCE, REAL ESTATE                     946       13.06%
+sector tends to consist of lower to middle      PROFESSIONAL, SCIENTIFIC, MANAGEMENT,
+                                                                                                   1,541     21.28%
+earning       jobs,  although     American      ADMINISTRATION, WASTE MGMT.
+Community Survey Table B24031 shows             EDUCATION, HEALTH CARE, SOCIAL
+                                                                                                   1,895     26.16%
+Verona Township residents earning a             ASSISTANCE
+median income of $77128 in that sector          ARTS, ENTERTAINMENT, RECREATION,
+                                                                                                   231       3.19%
+compared to a median of $113,203 in             HOSPITALITY
+the second largest sector of employment.        OTHER SERVICES                                     252       3.48%
+Just 1.56% of Township residents work in the    PUBLIC ADMIN                                       376       5.19%
+highest-earning sector (Wholesale Trade)        TOTAL EMPLOYED WORKFORCE                           7,243     100.00%
+where median reported income for               Source: 2023 American Community Survey - 5 year estimate (DP03)
+
+
+
+
+                                                                                                                        3 • DEMOGRAPHICS AND HOUSING STOCK
+Verona Township residents employed in
+that sectors in 2023 was $205,332.
+Chart 18 - “Employed Verona Residents by           Chart 18.Employed Verona Residents by Occupation Category
+Occupation Category” shows the number               OCCUPATION CATEGORY                           NUMBER     PERCENT
+of    employed      Verona    residents   by        MANAGEMENT, BUSINESS, SCIENCE,
+                                                                                                  4,743      65.48%
+“Occupation”, which describes the nature            ARTS
+of the actual jobs performed. The majority of       SERVICE                                       469        6.48%
+employed Verona Township residents’ jobs            SALES AND OFFICE                              1,317      18.18%
+are categorized as Management, Business,            NATURAL RESOURCES, CONSTRUCTION,
+Science, and the Arts, representing 4,743                                                         217        3.00%
+                                                    MAINTENANCE
+people (65.48% of employed residents).              PRODUCTION, TRANSPORTATION,
+According to American Community Survey                                                            497        6.86%
+                                                    MATERIALS
+data Table B24011 for 2023, that category of        TOTAL EMPLOYED WORKFORCE                      7,243      100.00%
+occupation earned a median of $100,546.            Source: 2020 American Community Survey - 5 year estimate (DP03)
+
+
+
+                                                     Chart 19.Labor Force and Unemployment Rates Since 2015
+
+Based on estimates by the New Jersey                             LABOR   EMPLOYED    UNEMPLOYED     UNEMPLOYMENT
+                                                     YEAR
+                                                                 FORCE   PERSONS     PERSONS        RATE (%)
+Department of Labor and Workforce
+                                                     2015        7,150   6,846       304            4.3
+Development, the unemployment rate in
+Verona was 4.3% in 2015 and 3.3% in 2023.            2016        7,102   6,851       251            3.5
+As shown in “Chart 19. Labor Force and               2017        7,277   7,033       244            3.4
+Unemployment Rates Since 2015” on page               2018        7,226   7,019       207            2.9
+22, unemployment peaked at 7.7% in 2020              2019        7,359   7,178       181            2.5
+due to the Coronavirus Pandemic, which               2020        7,358   6,791       567            7.7
+caused businesses around the world to shut           2021        7,351   6,981       370            5.0
+down or limit activities. The labor force in         2022        7,526   7,309       217            2.9
+Verona has grown by more than 500 people
+                                                     2023        7,672   7,415       257            3.3
+since 2015.
+                                                     Source: NJ Department of Labor and Workforce Development
+                                                             Annual Average Labor Estimates by Municipality
+
+
+                                                            22
+              ESX-L-000594-25 06/20/2025
+                              06/25/2025 5:23:21
+                                         7:30:04 PM Pg 23 of 40 Trans ID: LCV20251815703
+                                                                          LCV20251854671
+                                                                            Verona Township Housing Element and Fair Share Plan
+                                                                                                                      June 2025
+
+
+
+As shown by the 2023 ACS data contained in               Chart 20.Mode of Commute for Employed Residents of Verona
+                                                                  Township, Essex County, and New Jersey in 2023
+Chart 20 - “Mode of Commute for Employed
+                                                                                     VERONA          ESSEX      NEW
+Residents of Verona Township, Essex County,               MODE OF TRANSPORT
+                                                                                     TOWNSHIP        COUNTY     JERSEY
+and New Jersey in 2023” employed residents
+                                                          DRIVE ALONE                61.1%           53.9%      63.7%
+of Verona      commute mostly by personal
+                                                          CARPOOL                    3.7%            0.08%      7.7%
+automobile (61.1%), similar to the rest of the
+state (63.7%). They are also slightly more likely         TRANSIT                    11.7%           16.2%      8.5%
+to commute by public transportation than                  WALK                       0.4%            3.1%       2.6%
+workers elsewhere in New Jersey, but less likely          WORK AT HOME               1.2%            4.7%       2.4%
+than workers across Essex County. Verona                  OTHER                      22.0%           14.2%      15%
+residents and Essex County residents overall              MEAN COMMUTE TIME
+                                                                                     33.1            34         30.9
+have a slightly longer commute than the                   (MINUTES)
+average New Jersey worker.                               Source: 2023 American Community Survey - 5 year estimate
+                                                                 (DP03)
+
+Chart 21.Number of Employees in Verona Covered by Unemployment Insurance in 2023
+                                           2023 AVERAGE NUMBER      2023 AVERAGE NUMBER         AVERAGE ANNUAL
+ EMPLOYMENT SECTOR
+                                           OF EMPLOYERS / FIRMS     OF EMPLOYEES                WAGES IN 2023
+
+ FEDERAL GOVT TOTALS                       1                        1                           $101,817
+ LOCAL GOVT TOTALS                         8                        558                         $68,914
+   LOCAL GOVT EDUCATION                    6                        304                         $77,972
+ AGRICULTURE                               .                        .                           .
+ CONSTRUCTION                              30                       123                         $67,742
+
+
+
+
+                                                                                                                           3 • DEMOGRAPHICS AND HOUSING STOCK
+ MANUFACTURING                             10                       32                          $91,818
+ WHOLESALE TRADE                           15                       79                          $97,270
+ RETAIL TRADE                              40                       375                         $54,707
+ TRANSPORT/WAREHOUSING                     5                        54                          $46,645
+ INFORMATION                               .                        .                           .
+ FINANCE/INSURANCE                         21                       109                         $139,659
+ REAL ESTATE                               18                       70                          $46,902
+ PROFESSIONAL/TECHNICAL                    57                       209                         $90,495
+ MANAGEMENT                                .                        .                           .
+ ADMIN/WASTE REMEDIATION                   31                       119                         $59,119
+ EDUCATION                                 .                        .                           .
+ HEALTH/SOCIAL                             87                       752                         $56,005
+ ARTS/ENTERTAINMENT                        9                        32                          $41,936
+ ACCOMMODATIONS /FOOD                      30                       314                         $24,525
+ OTHER SERVICES                            53                       378                         $34,306
+ UNCLASSIFIEDS                             16                       23                          $42,883
+                         3                 441                      2,971                       $56,083
+ PRIVATE SECTOR TOTALS
+ ALL TOTALS                                450                      3,530                       $58,124
+Source: NJ LWD 2023 Covered Employment - Annual Municipal Data By Sector
+
+Employees covered by unemployment insurance represent approximately 95% of all workers in
+the State of New Jersey. Chart 21 - “Number of Employees in Verona Covered by Unemployment
+Insurance in 2023” contains data for 3,833 people who work in Verona Township, including 2,971
+private sector totals across 441 firms or employer units. The health and social services sector was
+the largest employer in the Township, with 752 employees over 87 firms or employers, and paid an
+
+3 Private Sector Totals on Chart 21: Total row does not correspond with total of individual rows, because some data
+  from individual sectors is withheld by the source (NJ Dept. Labor and Workforce Development) to protect individu-
+  als privacy.
+
+                                                              23
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 24 of 40 Trans ID: LCV20251815703
+                                                                        LCV20251854671
+                                                                               Verona Township Housing Element and Fair Share Plan
+                                                                                                                         June 2025
+
+average annual wage of $56,005 in 2023. The highest paying sector in the Township was the financial
+and insurance sector, which paid its employees an average of $139,659, whereas the lowest paying
+sector was the food and accommodations sector, paying an average wage of $24,525 annually.
+Local government - which includes municipal and county - employed 558 person including 304 in
+local educational contexts. The average wage for any employee in Verona in 2023 was $58,124.
+HOUSING, EMPLOYMENT, AND POPULATION PROJECTIONS
+The North Jersey Transportation Planning Authority (NJTPA) published demographic forecasts in
+2021, projecting population, household, and employment levels in 2050 from a base year of 2015. As
+shown in Chart 22 - “Projection of Population, Households, Employment from 2015-2050” , Verona
+Township in 2023 already exceeded the Authority’s population and household projection (based on
+their statistical model’s annualized rate of change), while falling short of NJTPA’s projection of number
+of jobs in the Township. If the Township grows NJTPA’s estimated annual growth rate from 2023 levels
+through 2035, the year the Fourth affordable housing round ends, Verona could expect a population
+of 15,240 people in 2035 across 6,195 households (a growth of 355 households with 2.46 people per
+household) and a job base of 3,753.
+          Chart 22.Projection of Population, Households, Employment from 2015-2050
+                                        PROJECTED
+                                                             2023            2023      2035           2050
+                               2015     ANNUALIZED RATE
+                                                             PROJECTED*      ACTUAL    PROJECTED†     PROJECTED*
+                                        OF CHANGE*
+           POPULATION          13,374   0.45%                13,863          14,441    15,240          15,649
+           HOUSEHOLDS          5,441    0.49%                5,659           5,840     6,195           6,462
+           EMPLOYMENT          4,438    0.51%                4,622           3,530     3,753           5,306
+          Source: NJTPA Municipal Demographics Forecast, 2021
+
+
+
+
+                                                                                                                              3 • DEMOGRAPHICS AND HOUSING STOCK
+           * NJTPA estimates
+           † DMR Architects estimates
+           Please note: The projections on the top of page 68 of the 2022 Master Plan are intended to estimate
+           the number of new residents and housing units that may be created if developers were to build the
+           maximum number of housing units and non-residential space permitted by zoning already in place or
+           being proposed at the time of the 2022 writing. Meanwhile, the projections in Chart 22 of this plan are
+           based on statistical analyses and assumptions from the North Jersey Transportation Planning Authority
+           that assume that zoning is likely to change to accommodate growth.
+
+The HEFSP is required to included a projection of the number of housing units to be constructed in the
+municipality during the Third Round based on known factors such as historic development patterns
+and approved or pending development applications. Per the Fair Housing Act’s guidance, Chart 23
+- “Housing Supply Trend 2014 to 2024” uses building permits to represent new housing creation and
+demolition permits to represent loss of housing supply. Based on data collected from the Township
+Building Department the Township issued 314 permits for new housing units and 14 demolition permits
+between 2014 and 2024, for a net of 300 new housing units in the Township over the 10 year period,
+or an average of 30 new housing units per year.
+Of the 314 permitted units, 95 are part of the 100% affordable Verona Flats project created to satisfy
+the Third Round affordable housing obligation and comply with the terms of a Settlement Agreement
+with Fair Share Housing Center to do the same. Another 159 units were permitted at other multi-unit
+developments, and 60 were single-family dwellings. An additional 200 units are expected to be
+permitted at the Sunset Avenue / Spectrum 360 project included in the Third Round Plan.
+
+
+
+
+                                                                     24
+              ESX-L-000594-25 06/20/2025
+                              06/25/2025 5:23:21
+                                         7:30:04 PM Pg 25 of 40 Trans ID: LCV20251815703
+                                                                          LCV20251854671
+                                                                              Verona Township Housing Element and Fair Share Plan
+                                                                                                                        June 2025
+
+Chart 23.Housing Supply Trend 2014 to 2024
+ YEAR          NEW UNITS PERMITTED       UNITS PERMITTED FOR DEMO      DIFFERENCE
+
+ 2014          32                        0                             32
+ 2015          29                        1                             28
+ 2016          7                         3                             4
+ 2017          120                       1                             119
+ 2018          2                         1                             1
+ 2019          4                         1                             3
+ 2020          7                         5                             2
+ 2021          2                         0                             2
+ 2022          3                         2                             1
+ 2023          103                       0                             103
+ 2024          5                         0                             5
+ TOTAL         314                       14                            300
+ 10 YR AVG.    31.4                      1.4                           30
+Source:   Township Building Department
+
+*Please Note: The 2022 Master Plan presented 10- year building permit data from the
+Township Building Department which encapsulated 2010-2020. Chart 23, presents building
+data for 2014-2024.
+
+
+
+
+                                                                                                                             3 • DEMOGRAPHICS AND HOUSING STOCK
+
+
+
+
+                                                                  25
+           ESX-L-000594-25 06/20/2025
+                           06/25/2025 5:23:21
+                                      7:30:04 PM Pg 26 of 40 Trans ID: LCV20251815703
+                                                                       LCV20251854671
+                                                                  Verona Township Housing Element and Fair Share Plan
+                                                                                                            June 2025
+
+
+CONSIDERATION OF LANDS &
+THE VACANT LAND ANALYSIS (APPENDIX 5)
+The Fair Housing Act at N.J.S.A. 52:27D-310.f
+requires the HEFSP to include “A consideration        Figure 10. Vacant Land Analysis
+of the lands that are most appropriate for
+construction of low- and moderate-income              Vacant land is previously defined in the rules of
+housing and of the existing structures most           the now defunct Council on Affordable housing as
+appropriate for conversion to, or rehabilitation      “undeveloped and unused land area” which has clear
+for, low- and moderate-income housing,                title and is free of encumbrances which preclude
+including a consideration of lands of developers      development for low- and moderate-income housing.
+who have expressed a commitment to provide            The following categories of land can be excluded from
+low- and moderate-income housing”. The Fourth         the inventory of vacant land:
+Round rules at N.J.S.A. 52:27D-310.1 (Section 23      a. Local government owned land restricted by
+of P.L. 2024, c.2) lay out the steps and conditions      resolution prior to 1/1/1997 for public purposes
+by which a municipality can request an                   other than housing;
+
+
+
+
+                                                                                                                 4 • LANDS CONSIDERED FOR AFFORDABLE HOUSING
+adjustment of its Prospective Need to reflect a
+lack of vacant and developable land through a         b. Land listed in the municipal master plan as
+process referred to as a “vacant land analysis”.         being dedicated, by easement or otherwise, for
+See “Figure 10. Vacant Land Analysis” on page            purposes of conservation, park lands or open
+26.                                                      space and which is owned, leased, licensed, or in
+                                                         any manner operated by a county, municipality
+VACANT LAND ANALYSIS                                     or tax-exempt, nonprofit organization including
+The Township conducted a vacant land analysis            a local board of education, or by more than one
+that identified all vacant private and public lands      municipality by joint agreement;
+in the Township as well as underutilized lands such   c.   Any vacant contiguous parcels of land in private
+as oversized parking lots and the vacant parts of          ownership of a size which would accommodate
+unconsolidated tracts of land (multiple lots under         fewer than five housing units based on appropriate
+common ownership that have not been merged                 housing densities;
+into one lot). The vacant land analysis considered
+                                                      d. Sites listed on the State Register of Historic Places
+densities that would be reasonable on each
+                                                         or National Register of Historic Places prior to the
+property based upon surrounding conditions and
+                                                         date of filing a housing element and fair share
+site capacity, and determined that the Township’s
+                                                         plan;
+realistic development potential was just 57 units.
+                                                      e. Preserved agricultural lands;
+The Township is not required to develop or zone
+the lands identified as vacant or available in a      f.   Sites designated for active recreation that are
+vacant land analysis, as long that it can create           designated for recreational purposes in the
+realistic opportunities for affordable housing             municipal master plan; and
+elsewhere in town. The vacant land adjustment         g. Environmentally        sensitive     lands    where
+exercise is meant to provide a uniform process           development is prohibited by any State or
+for towns around the state to demonstrate a              federal agency, including, but not limited to, the
+lack of available land and quantify the realistic        Highlands Water Protection and Planning Council,
+development potential of that land.                      established pursuant to section 4 of P.L.2004, c.120
+LANDS CONSIDERED                                         (C.13:20-4), for lands in the Highlands Preservation
+                                                         Area, and lands in the Highlands Planning Area for
+The bonus credit structure of the Fourth Round           Highlands-conforming municipalities.
+rules incentivizes municipalities to zone for
+affordable housing within half a mile of transit
+stops or on current or former commercial properties. To maximize the yield from this bonus structure,
+the Township primarily considered lands in its commercial districts along Bloomfield Avenue and
+Grove Avenue.
+Prior to the announcement of the Fourth Round obligation or the determination of the Township’s
+
+
+                                                      26
+           ESX-L-000594-25 06/20/2025
+                           06/25/2025 5:23:21
+                                      7:30:04 PM Pg 27 of 40 Trans ID: LCV20251815703
+                                                                       LCV20251854671
+                                                               Verona Township Housing Element and Fair Share Plan
+                                                                                                         June 2025
+
+vacant land adjusted Prospective Need, the Township had already been engaged by developers
+interested in redeveloping underutilized properties in the Township for mixed-use or multi-family
+development. All of the sites considered and developers engaged to date are included in the Fourth
+Round Fair Share Plan, with the exception of one proposed project on Block 103, Lot 2.
+The Township received a letter dated May 1, 2025 from an interested developer, proposing to create
+a 220-unit inclusionary project on Block 103, Lot 2, with a 20% set-aside adjacent to an existing
+apartment community on Claridge Drive (“Claridge House”). The site is zoned A-3 which permits
+townhouses at a density of not more than 8 units an acre on a tract of this size. The Township received
+a letter dated May 16 from the owner of the site (The Claridges, LLC) indicating that they do not
+have a contract giving site control to the interested developer and that the owners preference is
+to pursue sale of the property in question to the Township to preserve for open space through the
+Green Acres Program. Due to the lack of site control by the proposed developer, and the expressed
+desire of the property owner to preserve the site for open space, the Township is not including the
+proposed project in its Fourth Round HEFSP as of this writing. Notwithstanding, this HEFSP shows that
+the Township is able to meet or exceed its Prospective Need obligation without the site, including its
+57-unit RDP and any Unmet Need that may be required.
+
+
+
+
+                                                                                                              4 • LANDS CONSIDERED FOR AFFORDABLE HOUSING
+
+
+
+
+                                                      27
+               ESX-L-000594-25 06/20/2025
+                               06/25/2025 5:23:21
+                                          7:30:04 PM Pg 28 of 40 Trans ID: LCV20251815703
+                                                                           LCV20251854671
+                                                                       Verona Township Housing Element and Fair Share Plan
+                                                                                                                 June 2025
+
+
+
+
+                                                                                                                      4 • LANDS CONSIDERED FOR AFFORDABLE HOUSING
+
+
+
+
+Map 3. Map of properties analyzed for the vacant land analysis.
+                                                                  28
+               ESX-L-000594-25 06/20/2025
+                               06/25/2025 5:23:21
+                                          7:30:04 PM Pg 29 of 40 Trans ID: LCV20251815703
+                                                                           LCV20251854671
+                                                                           Verona Township Housing Element and Fair Share Plan
+                                                                                                                     June 2025
+
+
+
+
+                                                                                                                          5 • FAIR SHARE PLAN
+
+Map 4. Sites considered for, and included in, the Fourth Round Plan
+                                                                      29
+              ESX-L-000594-25 06/20/2025
+                              06/25/2025 5:23:21
+                                         7:30:04 PM Pg 30 of 40 Trans ID: LCV20251815703
+                                                                          LCV20251854671
+                                                                         Verona Township Housing Element and Fair Share Plan
+                                                                                                                   June 2025
+
+
+FAIR SHARE PLAN
+REVIEW OF PRIOR ROUND COMPLIANCE MECHANISMS
+N.J.S.A 52:27-304.1.3.f(2)(a) requires that the Fourth Round Housing Element and Fair Share Plan,
+as well as plans adopted in all future rounds, review the status of projects and zones that were
+necessary for the satisfaction of prior round obligations.
+The Prior Round compliance mechanisms included an existing senior housing site and several special
+needs group homes, as well as proposed projects that were effectuated by way of redevelopment
+plans. One redevelopment, Verona Flats, is constructed and occupied, and the other, Sunset
+Avenue / Spectrum 360, is approved and received an extension of approval to allow additional time
+to obtain water approvals. Additionally, the Township adopted a Township-wide affordable housing
+set-aside requirement for any development that creates five or more new housing units to include a
+affordable housing set-aside of 15% for rental units and 20% for for-sale units.
+The affordable housing law only requires municipalities to re-examine zoning or projects if they were
+put in place prior to July 1, 2020 and have not led to construction. As the redevelopment plans and
+zoning addressing the Third Round were put in place after that date, any redevelopment areas or
+zones that have not yet attracted development will continue to be valid until July 1, 2030, when the
+Township will be required to conduct a midpoint review of all new construction mechanisms put in
+place since July 1, 2020 and amend its Housing Element and Fair Share Plan to replace or enhance
+projects or zones that have not been effective.
+FAIR SHARE PLAN - PROSPECTIVE NEED
+The Township is eligible for a vacant land
+adjustment, which permits it over the next 10                Figure 11. 25% Rule
+years to address a smaller number than the 155
+                                                             N.J.S.A. 52:27D-310.1: “Any municipality that receives
+unit Prospective Need. The vacant land analysis
+                                                             an adjustment of its prospective need obligations
+identifies a Realistic Development Potential (RDP)
+                                                             for the fourth round or subsequent rounds based
+of 57 units. The RDP is, traditionally, satisfied by
+                                                             on a lack of vacant land shall, as part of the process
+using a combination of zoning, development,
+                                                             of adopting and implementing its housing element
+and housing programs that have a high likelihood
+                                                             and fair share plan, identify sufficient parcels likely to
+of being fully implemented/developed within the
+                                                             redevelop during the current round of obligations to
+10-year housing round.
+                                                             address at least 25 percent of the prospective need
+However, P.L. 2024, c.2 also states that the                 obligation that has been adjusted and adopt realistic
+Township must “identify sufficient parcels likely            zoning that allows for such adjusted obligation, or
+to redevelop during the current round of                     demonstrate why the municipality is unable to do so.”
+obligations to address at least 25 percent of the
+prospective need obligation that has been adjusted and adopt realistic zoning that allows for such
+adjusted obligation” (See Figure 11 on page 30). This language has been subject to a variety of
+
+
+
+
+                                                                                                                          5 • FAIR SHARE PLAN
+interpretations, particularly as to what the “prospective need obligation that has been adjusted”
+or the “adjusted obligation” refers to. This Fourth Round Plan has been crafted to satisfy the most
+conservative interpretation of the language, although it does not agree with it, which is that in
+addition to planning for the 57-unit RDP, the Township must also plan for 25% of the “Unmet Need”1, or
+25 units. Unmet Need may be addressed through zoning and other strategies that do not necessarily
+need to produce a specific number of housing units during the housing round (in this case, 25 units),
+but must create a realistic opportunity for those units to be created through redevelopment. Zoning
+is one of the most common means of achieving this.
+Verona Township’s Fair Share Plan to address its 57-unit Fourth Round RDP and 25-unit minimum
+unmet need obligation shall be satisfied with the developments and zoning identified in this section
+of the HEFSP. The rules of the Council on Affordable Housing (COAH) at N.J.A.C. 5:97-5.3(b) required
+
+1   Unmet Need: The difference between the Prospective Need (155) and RDP (57) or 98 units. A quarter of 98, rounding
+    up, is 25, which is the minimum unmet need the Township must plan for.
+
+                                                              30
+              ESX-L-000594-25 06/20/2025
+                              06/25/2025 5:23:21
+                                         7:30:04 PM Pg 31 of 40 Trans ID: LCV20251815703
+                                                                          LCV20251854671
+                                                                           Verona Township Housing Element and Fair Share Plan
+                                                                                                                     June 2025
+
+fair share plans to demonstrate that sites intended for inclusionary development are “available,
+suitable, developable and approvable, as defined in N.J.A.C. 5:93-1”. Operating on the presumption
+that those rules continue to be valid, the “suitability analysis”, as it has historically been referred, for
+each site is below:
+
+TOWN CENTER MIXED USE OVERLAY ZONE DISTRICT – BLOCK 1807, LOTS 2 THROUGH 12 AND LOT 14 (APPENDIX
+9)
+As part of its Settlement Agreement with Fair Share Housing Center in the Third Round, the Township
+adopted an overlay zone permitting as many as 14 affordable units through mixed use inclusionary
+development with up to 70 total residential units in the Township’s downtown. The project was a
+condition of the Settlement that was not needed to satisfy the Third Round obligation, and can
+therefore be carried into the Fourth Round to address a portion of the Prospective Need for 2025 to
+2035.
+The overlay zone, created on October 17, 2022, permits one or more buildings up to three stories in
+height along the south side of Bloomfield Avenue between Montrose Avenue and South Prospect
+Street, having non-residential uses on the ground floor and residential uses on the second and third
+floors. The ordinance also permits ground-level residential units at least 50 feet from Bloomfield
+Avenue, and permits a maximum of 70 units in the Overlay Zone or a maximum density of 22 units
+per acre. For the purposes of the Fourth Round compliance plan, the Township anticipates that the
+zoning will permit at least 11 affordable units based on the required 15% set-aside for rental units.
+The zoning affects a 3.24-acre area located within a designated sewer service area. The lots are
+currently within the TC- Town Center Zone and the C-2 – Professional Office and Business Zone (Lots
+3 and 4 on Block 1807). The properties in question are occupied by commercial uses including a
+gasoline station, personal services, and retail in 1- or 1.5-story buildings in the Township’s town center.
+Surrounding uses include commercial and civic uses fronting upon Bloomfield Avenue and residential
+uses along intersecting streets. The properties are not within a flood hazard area nor do they have
+other environmentally sensitive conditions.
+Any development completed in compliance with the overlay zone shall be required to set aside units
+for low- and moderate-income households at a rate of 15% of all residential units for rental projects
+a 20% of all residential units for for-sale projects. In order to ensure that the provision of parking is not
+an obstacle to the creation of the maximum number of units on the property, the ordinance sets a
+parking ratio of 1.5 spaces per unit, which is lower than the Residential Site Improvement Standard of
+1.8 spaces/unit for 1-bedroom apartments, 2 spaces/unit for 2-bedroom apartments, and 2.1 spaces
+per unit for 3-bedroom apartments (N.J.A.C. 5:21-4.14, Table 4.4). The ordinance also allows for on-
+site parking structures up to 28 feet in height and provides for off-site parking arrangements.
+
+GROVE AVENUE ASSISTED LIVING REZONING - BLOCK 1201, LOT 12 (APPENDIX 10)
+The Township adopted Ordinance 2024-28 on September 8, 2024, which amended its C-2 Professional
+
+
+
+
+                                                                                                                           5 • FAIR SHARE PLAN
+Office and Business Zone language to conditionally permit assisted living facilities on lots at least 4.5
+acres in area, with a specific objective of permitting such a use at a low-intensity industrial site at 251
+Grove Street. The ordinance permits a facility with a density of 30 beds per acre and requires 15%
+of the beds to be deed restricted for low and moderate income households, which at full build-out
+would result in 165 total assisted living beds/units of which 25 would be affordable age-restricted
+units. Due to the statutory limit on the number of age-restricted housing units that may be included
+in the plan2, the Township will only utilize a portion of these units to satisfy the Fourth Round, and
+reserves the right to carry over any surplus units towards the Fifth Round.
+
+► “Available site” means a site with clear title, free of encumbrances which preclude development
+  for low- and moderate-income housing.
+
+2 N.J.S.A. 52:27D-311.l, “A municipality may not satisfy more than 30 percent of the affordable housing units, exclusive
+  of any bonus credits, to address its prospective need affordable housing obligation through the creation of age-re-
+  stricted housing.”
+
+                                                               31
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 32 of 40 Trans ID: LCV20251815703
+                                                                        LCV20251854671
+                                                                Verona Township Housing Element and Fair Share Plan
+                                                                                                          June 2025
+
+   The Township is not aware of any deed restrictions or other legal encumbrances to the
+   redevelopment of the site for low- and moderate-income housing.
+
+► “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate
+  streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+   The site has direct street access and is located in between an established single-family
+   neighborhood and established industrial and commercial uses. The site is partially within the
+   NJ Inland Design Flood Elevation Area; however, this should not preclude the site from being
+   capable of being redeveloped for inclusionary housing.
+
+► “Developable site” means a site that has access to appropriate water and sewer infrastructure,
+  and is consistent with the applicable areawide water quality management plan (including the
+  wastewater management plan) or is included in an amendment to the areawide water quality
+  management plan submitted to and under review by DEP.
+   The site is served by public water and sewer.
+
+► “Approvable site” means a site that may be developed for low and moderate income housing
+  in a manner consistent with the rules or regulations of all agencies with jurisdiction over the site.
+  A site may be approvable although not currently zoned for low and moderate income housing.
+   The site appears to be developable consistent with the Residential Site Improvement Standards,
+   N.J.A.C. 5:21. Any development must receive site plan approval from the relevant land use
+   review board prior to being constructed.
+
+320 BLOOMFIELD AVENUE & 11 CHURCH STREET- BLOCK 704, LOTS 18 & 20 (APPENDIX 11)
+The Township designated these two contiguous properties as an area in need of redevelopment
+without condemnation by way of Resolution 2024-151. The Township’s planner, H2M, in coordination
+with an interested developer, prepared a draft Redevelopment Plan (included in the appendices)
+which would allow for a mixed-use development with at a density of 23 units per acre, which would
+permit 12 total housing units of which two (2) would be affordable family units. As of this writing, the
+prospective redeveloper requested that the adoption of the Redevelopment Plan be delayed.
+The site meets the suitability criteria as follows:
+
+► “Available site” means a site with clear title, free of encumbrances which preclude development
+  for low- and moderate-income housing.
+   The Township is not aware of any deed restrictions or other legal encumbrances to the
+   redevelopment of the site for low- and moderate-income housing.
+
+► “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate
+  streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+
+
+
+
+                                                                                                               5 • FAIR SHARE PLAN
+   The site has direct street access and is located on the Bloomfield Avenue Commercial corridor,
+   which includes commercial, mixed-use, and multi-family developments, as well as bus service.
+   The site does not have any environmental constraints.
+
+► “Developable site” means a site that has access to appropriate water and sewer infrastructure,
+  and is consistent with the applicable areawide water quality management plan (including the
+  wastewater management plan) or is included in an amendment to the areawide water quality
+  management plan submitted to and under review by DEP.
+   The site is served by public water and sewer.
+
+► “Approvable site” means a site that may be developed for low and moderate income housing
+  in a manner consistent with the rules or regulations of all agencies with jurisdiction over the site.
+  A site may be approvable although not currently zoned for low and moderate income housing.
+   The site appears to be developable consistent with the Residential Site Improvement Standards,
+
+                                                      32
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 33 of 40 Trans ID: LCV20251815703
+                                                                        LCV20251854671
+                                                               Verona Township Housing Element and Fair Share Plan
+                                                                                                         June 2025
+
+   N.J.A.C. 5:21. The project must receive site plan approval from the relevant land use review
+   board prior to being constructed.
+
+HILLCREST FARMS - 383 BLOOMFIELD AVENUE - BLOCK 708, LOT 1 (APPENDIX 12)
+The property is located at the corner of Bloomfield Avenue and Park Avenue and is occupied by
+and in use as a “garden center” and “farmers market” business. It is comprised of greenhouses and
+commercial buildings over a 1.26-acre area. The property was designated as an area in need of
+redevelopment on February 3, 2025, and the Township has been in good faith negotiations with an
+interested developer to produce a redevelopment plan that would allow for the redevelopment
+of the site for mixed-use, inclusionary housing purposes. The most current proposal, as of the writing
+of this Housing Plan, contemplates 33 total units, of which five (5) would be affordable. Of the five
+affordable, the developer proposes four (4) special needs bedrooms and one (1) three-bedroom
+family unit. The four special needs bedrooms would count as four affordable housing units and be
+eligible for four (4) bonus credits. The concept plan to be included in the Appendices for evidential
+purposes is deliberative, and subject to negotiation and modification. A final site plan will be
+required to comply with a redevelopment plan to be adopted by the Township, and be reviewed
+and considered for approval by the Township’s Planning Board at one or more public hearings.
+The site meets the suitability criteria as follows:
+
+► “Available site” means a site with clear title, free of encumbrances which preclude development
+  for low- and moderate-income housing.
+   The Township is not aware of any deed restrictions or other legal encumbrances to the
+   redevelopment of the site for low- and moderate-income housing.
+
+► “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate
+  streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+   The site has direct street access and is located on the Bloomfield Avenue Commercial corridor,
+   which includes commercial, mixed-use, and multi-family developments, as well as bus service.
+   The site does not have any environmental constraints.
+
+► “Developable site” means a site that has access to appropriate water and sewer infrastructure,
+  and is consistent with the applicable areawide water quality management plan (including the
+  wastewater management plan) or is included in an amendment to the areawide water quality
+  management plan submitted to and under review by DEP.
+   The site is served by public water and sewer.
+
+► “Approvable site” means a site that may be developed for low and moderate income housing
+  in a manner consistent with the rules or regulations of all agencies with jurisdiction over the site.
+  A site may be approvable although not currently zoned for low and moderate income housing.
+
+
+
+
+                                                                                                              5 • FAIR SHARE PLAN
+   The site appears to be developable consistent with the Residential Site Improvement Standards,
+   N.J.A.C. 5:21. The project must receive site plan approval from the relevant land use review
+   board prior to being constructed.
+
+420 BLOOMFIELD AVENUE - BLOCK 710, LOT 3 (APPENDIX 13)
+The Township proposes to rezone this property, locally known as the Richfield Regency, to permit
+a mixed-use development with a minimum of 45 total units, of which at least seven (7) would be
+affordable family units, pending ongoing negotiations. Although the affordable housing units are
+proposed on the one-acre tract at 420 Bloomfield, the project will also include off-site parking on a
+0.42-acre lot on Claremont Avenue in order to accommodate parking for both the residents and
+the ground-level commercial uses. The site is located in the Bloomfield Avenue rehabilitation area,
+and redevelopment designation and a redevelopment plan will be pursued to make the project
+feasible. The concept plan to be included in the Appendices to represent that the project is realistic
+and has an interested developer is deliberative and subject to negotiation and modification. A final
+
+                                                      33
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 34 of 40 Trans ID: LCV20251815703
+                                                                        LCV20251854671
+                                                                 Verona Township Housing Element and Fair Share Plan
+                                                                                                           June 2025
+
+site plan will be required to comply with a redevelopment plan to be adopted by the Township, and
+be reviewed and considered for approval by the Township’s Planning Board at one or more public
+hearings.
+The site meets the suitability criteria as follows:
+
+► “Available site” means a site with clear title, free of encumbrances which preclude development
+  for low- and moderate-income housing.
+   The Township is not aware of any deed restrictions or other legal encumbrances to the
+   redevelopment of the site for low- and moderate-income housing.
+
+► “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate
+  streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+   The site has direct street access and is located on the Bloomfield Avenue Commercial corridor,
+   which includes commercial, mixed-use, and multi-family developments, as well as bus service.
+   The site does not have any environmental constraints.
+
+► “Developable site” means a site that has access to appropriate water and sewer infrastructure,
+  and is consistent with the applicable areawide water quality management plan (including the
+  wastewater management plan) or is included in an amendment to the areawide water quality
+  management plan submitted to and under review by DEP.
+   The site is served by public water and sewer.
+
+► “Approvable site” means a site that may be developed for low and moderate income housing
+  in a manner consistent with the rules or regulations of all agencies with jurisdiction over the site.
+  A site may be approvable although not currently zoned for low and moderate income housing.
+   The site appears to be developable consistent with the Residential Site Improvement Standards,
+   N.J.A.C. 5:21. The project must receive site plan approval from the relevant land use review
+   board prior to being constructed.
+
+176 BLOOMFIELD AVENUE - BLOCK 202, LOTS 1 & 23 (APPENDIX 14)
+This project is the subject of a settlement agreement between the Township and DMH2 LLC. The
+Township proposes to rezone the property to allow for a four-story, 28-unit family apartment building,
+of which - as a condition of the settlement - four (4) units would be affordable. The site is located
+in the Bloomfield Avenue rehabilitation area, and redevelopment designation may be considered
+to allow for a redevelopment plan that would make the project feasible. The concept plan to be
+included in the Appendices to represent that the project is realistic and has an interested developer
+is deliberative and subject to negotiation and modification. A final site plan will be required to comply
+with a redevelopment plan to be adopted by the Township, and be reviewed and considered for
+approval by the Township’s Planning Board at one or more public hearings.
+
+
+
+
+                                                                                                                5 • FAIR SHARE PLAN
+The site meets the suitability criteria as follows:
+
+► “Available site” means a site with clear title, free of encumbrances which preclude development
+  for low- and moderate-income housing.
+   The Township is not aware of any deed restrictions that would prohibit multi-family, inclusionary
+   housing, or other legal encumbrances to the redevelopment of the site for low- and moderate-
+   income housing. A deed restriction is in place on Lot 1, first recorded in 1893 and recognized
+   in subsequent deeds recorded to date, which prohibits the use of the site for “commercial or
+   manufacturing purposes”; however, neither the Township nor DMH2 believe this precludes multi-
+   family residential development.
+
+► “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate
+  streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+   The site has direct street access and is located on the Bloomfield Avenue Commercial corridor,
+
+                                                       34
+           ESX-L-000594-25 06/20/2025
+                           06/25/2025 5:23:21
+                                      7:30:04 PM Pg 35 of 40 Trans ID: LCV20251815703
+                                                                       LCV20251854671
+                                                               Verona Township Housing Element and Fair Share Plan
+                                                                                                         June 2025
+
+   which includes commercial, mixed-use, and multi-family developments, as well as bus service.
+   The site does not have any environmental constraints.
+
+► “Developable site” means a site that has access to appropriate water and sewer infrastructure,
+  and is consistent with the applicable areawide water quality management plan (including the
+  wastewater management plan) or is included in an amendment to the areawide water quality
+  management plan submitted to and under review by DEP.
+   The site is served by public water and sewer.
+
+► “Approvable site” means a site that may be developed for low and moderate income housing
+  in a manner consistent with the rules or regulations of all agencies with jurisdiction over the site.
+  A site may be approvable although not currently zoned for low and moderate income housing.
+   The site appears to be developable consistent with the Residential Site Improvement Standards,
+   N.J.A.C. 5:21. The project must receive site plan approval from the relevant land use review
+   board prior to being constructed.
+
+885 BLOOMFIELD AVENUE – BLOCK 2205, LOT 6 (APPENDIX 15)
+The Township Council adopted resolution 2019-56 on February 11, 2019, which established the above
+referenced property as an area in need of redevelopment subsequent to an investigation performed
+by the Planning Board pursuant to N.J.S.A. 40A:12A-5. The property in question is a narrow 1.77 acre
+lot fronting on Bloomfield and having a depth of 100 feet at its largest point and 84.9 feet at its
+narrowest point. South of the property is a single-family neighborhood along Fells Road. The rear of
+the property along the Fells Road residences is wooded and sloped.
+The Township never adopted a Redevelopment Plan for the property. The property owner had
+previously shared with the Township a conceptual plan depicting a 60-unit inclusionary townhouse
+development with 0-foot front yard setbacks along Bloomfield Avenue and wooded buffers only
+three feet deep along the rear property lines shared the Fells Road residential properties. In order to
+prepare a compliant plan for its Fourth Round obligation, the Township has engaged the property
+owner in negotiations to arrive at a mutually agreeable concept plan. As of the writing of this HEFSP,
+the development is expected to include a minimum of 19 total housing units, which will include at
+least two (2) special needs bedrooms in a townhouse unit and at least two (2) affordable family units,
+pending ongoing negotiations. The concept plan to be included in the Appendices to represent that
+the project is realistic and has an interested developer is deliberative and subject to negotiation and
+modification. A final site plan will be required to comply with a redevelopment plan to be adopted
+by the Township, and be reviewed and considered for approval by the Township’s Planning Board
+at one or more public hearings.
+
+► “Available site” means a site with clear title, free of encumbrances which preclude development
+  for low- and moderate-income housing.
+
+
+
+
+                                                                                                              5 • FAIR SHARE PLAN
+   The Township is not aware of any deed restrictions or other legal encumbrances to the
+   redevelopment of the site for low- and moderate-income housing.
+
+► “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate
+  streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+   The site has direct street access and is located on the Bloomfield Avenue Commercial corridor,
+   which includes commercial, mixed-use, and multi-family developments, as well as bus service. A
+   portion of the site is believed to be steep-slope encumbered.
+
+► “Developable site” means a site that has access to appropriate water and sewer infrastructure,
+  and is consistent with the applicable areawide water quality management plan (including the
+  wastewater management plan) or is included in an amendment to the areawide water quality
+  management plan submitted to and under review by DEP.
+   The site is served by public water and sewer.
+
+                                                      35
+             ESX-L-000594-25 06/20/2025
+                             06/25/2025 5:23:21
+                                        7:30:04 PM Pg 36 of 40 Trans ID: LCV20251815703
+                                                                         LCV20251854671
+                                                                   Verona Township Housing Element and Fair Share Plan
+                                                                                                             June 2025
+
+► “Approvable site” means a site that may be developed for low and moderate income housing
+  in a manner consistent with the rules or regulations of all agencies with jurisdiction over the site.
+  A site may be approvable although not currently zoned for low and moderate income housing.
+     The site appears to be developable consistent with the Residential Site Improvement Standards,
+     N.J.A.C. 5:21. The project must receive site plan approval from the relevant land use review
+     board prior to being constructed.
+
+SURPLUS CREDITS - HILLWOOD / VERONA SENIOR HOUSING – 100 HILLWOOD TERRACE - BLOCK 2701, LOT 23
+(APPENDIX 16)
+The Hillwood Senior Housing project was completed in 1979 and funded through New Jersey Housing
+and Mortgage Finance Agency (HMFA) as a Section 8 apartment building with 159 units. The Township
+was limited to applying only 59 of the 159 affordable units at this site towards its affordable housing
+obligations for the years 1987 to 2025 due to terms of its Third Round Settlement Agreement with Fair
+Share Housing Center. In the Fourth Round, the Township is able to use age-restricted housing for up
+to 30% of the housing units satisfying the Fourth Round Plan. The Township is claiming credit for eight
+(8) units from this site in the Fourth Round.
+
+RDP COMPLIANCE SUMMARY
+The above listed projects will provide enough affordable housing units and bonus credits to meet or
+exceed the RDP of 57 units.
+UNMET NEED (APPENDIX 17)
+Although Verona Township does not agree that the Fourth Round statute includes an unmet need
+requirement, the Township will provide for the long term and ongoing potential for the creation
+of new affordable housing in its Bloomfield Avenue corridor. In accordance with its Third Round
+Settlement Agreement with Fair Share Housing Center and the subsequently adopted Third Round
+Housing Element and Fair Share Plan, the Township adopted an ordinance requiring any and all new
+multi-unit development resulting in five or more new housing units to include minimum set-asides of
+15% for rentals and 20% for for-sale arrangements.
+
+TC ZONE AMENDMENTS
+Recognizing the Bloomfield Avenue corridor as the preferred location for mixed-use, inclusionary
+development, the Township - in 2024 - designated the corridor as an area in need of rehabilitation,
+which will enable the Township to offer tax abatements for redevelopment in the corridor. The
+Township will amend its TC Town Center zoning standards to eliminate current barriers to mixed-use
+development - namely an existing provision that requires any mixed-use development in the TC zone
+to have an equal amount of residential to non-residential floor area - and to permit residential density
+of 10 units per acre. This amendment creates a realistic opportunity for more than 25 affordable
+housing units in the event that the entire TC zone is redeveloped. Any development must receive site
+
+
+
+
+                                                                                                                  5 • FAIR SHARE PLAN
+plan approval from the relevant land use review board prior to being constructed.
+
+SURPLUS TRUST FUNDS
+Additionally, the Township anticipates having surplus trust fund revenues in excess of $150,000
+over the next 10 years3 - after allocating funds permitted for administrative purposes, required for
+affordability assistance, or previously committed to pay down debt on the Verona Flats site - for one
+of the following purposes:
+1.   To work with a special needs housing provider to incorporate special needs housing into one of
+     the inclusionary projects identified in this plan; or
+2.   To increase the affordable housing set-aside on one of the inclusionary projects identified in this
+     plan.
+
+
+3 As reflected in the Spending Plan contained in the Appendices.
+
+                                                             36
+           ESX-L-000594-25 06/20/2025
+                           06/25/2025 5:23:21
+                                      7:30:04 PM Pg 37 of 40 Trans ID: LCV20251815703
+                                                                       LCV20251854671
+                                                              Verona Township Housing Element and Fair Share Plan
+                                                                                                        June 2025
+
+The Township reserves the right to amend its plan as may be necessary to reflect the outcome of
+these expenditures, or to carry over surplus credits into the Fifth Round in 2035.
+REHABILITATION / PRESENT NEED
+The Township is not required to commit funding to a local housing rehabilitation program under the
+calculations from the NJ DCA, as it has a present need obligation of zero (0) units. Income qualified
+homeowners in the Township can obtain housing rehabilitation services through Essex County’s home
+improvement candidate.
+
+
+
+
+                                                                                                             5 • FAIR SHARE PLAN
+
+
+                                                     37
+                                                                                                                                                                                                                Verona Township Housing Element and Fair Share Plan
+                                                                                                                                                                                                                                                          June 2025
+                                                                             Chart 24.Compliance Plan to satisfy the 57-unit RDP
+                                                                                                                   UNIT                 TOTAL     AFFORDABLE                                                                  BONUS     BONUS     TOTAL
+                                                                              PROJECT                                         TENURE                             BONUS TYPE                            PROJECT TYPE
+                                                                                                                   TYPES                UNIT      UNITS                                                                       RATIO     CREDITS   CREDITS
+                                                                              TCMU OVERLAY                         Family     Rental    70        11             Transit/Redevelopment                 Zone                                                  11
+ESX-L-000594-25 06/20/2025
+                06/25/2025 5:23:21
+                           7:30:04 PM Pg 38 of 40 Trans ID: LCV20251815703
+                                                            LCV20251854671
+
+
+
+
+                                                                              GROVE AVENUE ASSISTED LIVING         Senior     Rental    165       5 (of 25)      Redevelopment/Senior                  Zone                                                   5
+                                                                              320 BLOOMFIELD AVE                   Family     Rental    12        2              Transit/Redevelopment                 Redevelopment          0.5       1                     3
+                                                                                                                   Family                         1              Transit/Redevelopment                                        0.5       0                     1
+                                                                              HILLCREST FARMS                      Special    Rental    33                                                             Redevelopment
+                                                                                                                                                  4              Special Needs                                                1         4                    8
+                                                                                                                   Needs
+                                                                              RICHFIELD REGENCY / 420
+                                                                                                                   Family     Rental    ≥45       ≥7             Transit/Redevelopment                 Redevelopment          0.5       ≥3                  ≥10
+                                                                              BLOOMFIELD
+                                                                              176 BLOOMFIELD                       Family     Rental    28        4              Transit/Redevelopment                 Redevelopment          0.5       2                    6
+                                                                                                                   Special
+                                                                                                                              Sales &             ±2                                                                          1         ±2                  ±4
+                                                                              855-885 BLOOMFIELD AVE               Needs                ≥19                      Transit/Redevelopment                 Redevelopment
+                                                                                                                              Rentals
+                                                                                                                   Family                         ±2                                                                          0.5       ±1                  ±3
+                                                                              HILLWOOD SURPLUS*                    Senior     Rental              8 (of 100)     Senior                                Existing Surplus       0.05      0                    8
+                                                                              TOTAL                                                     ≥372      ≥ 46                                                                                  ±13             ≥ 59
+                                                                              * EXISTING UNITS
+                                                                             Chart 25.Required Minimums and Maximums
+                                                                                                                                                                                          MAXIMUM/MINIMUM
+                                                                              REQUIREMENT                                                              FORMULA                                                            PROVIDED
+                                                                                                                                                                                          AMOUNT
+                                                                              SENIOR MAXIMUM                            30% of Affordable Units                               30% x ±46   13 units                        13 units
+                                                                                                                                                                                                                                                                  5 • FAIR SHARE PLAN
+
+
+
+
+                                                                              BONUS CREDIT MAXIMUM                      25% x Realistic Development Potential                 25% x 57    14 bonus credits                13 bonus credits
+                                                                              FAMILY MINIMUM                            50% of Affordable Units                               50% x ±46   ± 23 units                      ±29 units
+            ESX-L-000594-25 06/20/2025
+                            06/25/2025 5:23:21
+                                       7:30:04 PM Pg 39 of 40 Trans ID: LCV20251815703
+                                                                        LCV20251854671
+                                                                   Verona Township Housing Element and Fair Share Plan
+                                                                                                             June 2025
+
+
+OT HER HEFSP REQUIREMENTS
+ADMINISTRATION AND MARKETING OF AFFORDABLE HOUSING
+The Township of Verona adopted its Affordable Housing             Figure 12. Specific Targets Entities to
+and Development Fee Ordinances as part of the                               Advertise to Include:
+adoption of its 2008 Third Round Housing Element and Fair         ► The Fair Share Housing Center
+Share Plan, for which COAH did not award substantive
+                                                                  ► The New Jersey State Conference of the
+certification before the Appellate Division invalidated
+                                                                      NAACP,
+N.J.A.C. 5:97 and 5:98 in 2010. The Township amended
+                                                                  ► The Latino Action Network
+these ordinances in the Third Round and will amend the
+ordinance further to reference the Fair Housing Act, P.L.         ► Newark NAACP
+2024, c.2, and - should they be adopted - the draft rules         ► Oranges and Maplewood NAACP
+under consideration by the NJ DCA and the NJ HMFA at              ► Morris County NAACP
+N.J.A.C. 5:99-1 et seq. and 5:80-26.1 et seq, at such time        ► Elizabeth NAACP,
+that those draft regulations are finalized and adopted.           ► The Supportive Housing Association
+The Township previously appointed an Administrative               An Affirmative Marketing Plan can be found
+Agent to administer affordable housing units created              in Appendix 8.
+by inclusionary or municipally-sponsored housing
+development. The existing age-restricted units at Hillwood Senior Housing have been and will continue
+to be administered by NJ HMFA. Special needs units have been and will continue to be administered
+by the NJ Division of Developmental Disabilities. In certain cases, a developer may have an in-house
+Agent who will coordinate with the Township’s Agent and its Municipal Housing Liaison.
+
+COST GENERATION
+The Fair Housing Act requires the Fair Share Plan to detail efforts by the municipality to eliminate features
+of municipal land use ordinances and regulations that generate unnecessary or prohibitive costs on
+builders of inclusionary or affordable housing. The Township has or will facilitate the creation of the
+affordable housing units identified in this Plan by adopting zoning ordinances and redevelopment
+plans (for eligible sites) which reasonably accommodate the developments conceptually agreed
+upon between the parties. As part of its Unmet Need satisfaction, the Township will also eliminate
+barriers to mixed-use development in its Town Center (TC) zone by eliminating an existing requirement
+in that zone that any mixed-use development must include an equal amount of residential and non-
+residential floor area.
+
+MULTIGENERATIONAL FAMILY HOUSING CONSISTENCY
+The Multigenerational Family Housing Continuity Commission was established by the State of New
+Jersey in 2021. As noted in N.J.S.A. 52:27D-329.20, one of the primary duties of the Commission is to
+“prepare and adopt recommendations on how State government, local government, community
+organizations, private entities, and community members may most effectively advance the goal of
+
+
+
+
+                                                                                                                  7 • ADMINISTRATION
+enabling senior citizens to reside at the homes of their extended families, thereby preserving and
+enhancing multigenerational family continuity, through the modification of State and local laws
+and policies in the areas of housing, land use planning, parking and streetscape planning, and
+other relevant areas.” As of the date of this HEFSP, the Multigenerational Family Housing Continuity
+Commission has not yet adopted any recommendations.
+
+STATE DEVELOPMENT & REDEVELOPMENT PLAN CONSISTENCY & SEWER/WATER CAPACITY
+The sites included and proposed to satisfy the Fourth Round Prospective Need are located in Planning
+Area 1 - Metropolitan Planning Area, which is the priority area for the creation of inclusionary housing
+through redevelopment of non-residential development. The sites are generally within a half-mile
+of one or more forms of transit, supporting multi-modal transportation. Additionally, the sites are
+located in approved sewer service areas and have or will have adequate sewer and water service
+to provide the number of affordable units necessary for the Township to meet its RDP and any Unmet
+Need.
+
+
+                                                         39
+           ESX-L-000594-25 06/20/2025
+                           06/25/2025 5:23:21
+                                      7:30:04 PM Pg 40 of 40 Trans ID: LCV20251815703
+                                                                       LCV20251854671
+                                                              Verona Township Housing Element and Fair Share Plan
+                                                                                                        June 2025
+
+
+CONCLUSION
+This 2025 Fourth Round Housing Element and Fair Share Plan prepared for and adopted by the
+Township of Verona, Essex County, New Jersey, complies with P.L. 2024, c.2, the Fair Housing Act of
+New Jersey, and all applicable regulations. It also maintains consistency and compliance with the
+Settlement Agreement entered into between the Township and Fair Share Housing Center dated
+March 10, 2021 and approved by the Honorable Robert H. Gardner, J.S.C. by way of a Fairness Order
+dated September 15, 2021.
+The Plan provides a realistic opportunity for the creation of affordable housing in Verona Township
+through 2035 and beyond, through zoning, redevelopment planning, and cooperation with
+developers interested in providing their fair share of affordable housing. The Plan addresses the 57-
+unit Realistic Development Potential claimed through a vacant land adjustment, as well as more
+than 25% of the 98-unit unmet need, or 25 units. The Township also continues to comply with its
+Affordable Housing obligation for the years 1987 to 2025. The Housing Element and Fair Share Plan
+advances the Township’s objectives of increasing the vitality of its Bloomfield Avenue corridor and
+protecting its single-family neighborhoods.
+
+
+
+
+                                                                                                             8 • CONCLUSION
+
+                                                     40
+

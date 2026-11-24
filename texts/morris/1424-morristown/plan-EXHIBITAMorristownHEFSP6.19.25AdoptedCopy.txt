@@ -1,0 +1,2524 @@
+  MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 1 of 67 Trans ID: LCV20251814469
+
+
+
+
+             Town of Morristown
+Round Four: Housing Element and Fair Share Plan
+
+                            Prepared For:
+
+
+
+
+                          200 South Street
+                       Morristown, NJ 07960
+
+
+                  Adoption Date: June 19, 2025
+            MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 2 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                           1
+
+
+
+Acknowledgements
+
+                                                       Town Administrator
+ Mayor
+                                                       Jillian C. Barrick
+ Timothy P. Dougherty
+                                                       Planning Board
+                                                       Timothy Dougherty
+                                                       Mark Gandy
+ Town Council                                          Chris Russo
+ Nathan Umbriac                                        Joseph Stanley
+ David Silva                                           Martha Ballard
+ Robert Iannaccone                                     Joseph Kane
+ Tina Lindsey                                          Marisa Sweeney
+ Steve Pylypchuk                                       Andrea Lekberg
+ Toshiba Foster                                        Frank Crippen
+                                                       Don Ginsberg
+                                                       Stefan Armington
+
+                                                       Affordable Housing Counsel
+                                                       Ronald H. Gordon, Esq.
+                                                       Christopher D. Zingaro, Esq.
+ Town Attorney
+ David L. Minchello, ESQ.
+                                                       Planning Board Attorney
+                                                       John Inglesino, Esq.
+
+                                                       Planning Board Secretary
+ Town Clerk
+                                                       James Campbell
+ Margot Kaye
+
+
+Prepared by:
+
+
+____________________________               ___________________________
+Phil Abramson, AICP/PP                     Chris Colley, AICP/PP
+Planner License No. 609600                 Planner License No. 647100
+Sahana Kumar
+Nicole Goldstein
+
+Plan Date: 6/6/2025
+The original of this report was signed and sealed in accordance with N.J.S.A. 45:14A-12.
+                      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 3 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                                                                      2
+
+
+
+
+Table of Contents
+I.        Introduction ..................................................................................................................................................... 4
+     A.       History of New Jersey Affordable Housing Policy .................................................................................... 4
+     B.       Housing Element and Fair Share Plan Requirements ................................................................................. 8
+II. Housing Element: Municipal Summary ........................................................................................................ 11
+     A.       Housing Conditions .................................................................................................................................. 11
+     Table 1: Year Structure Built ............................................................................................................................ 12
+     Table 2: Housing Condition .............................................................................................................................. 12
+     Table 3: Value for Owner-Occupied Housing Units ......................................................................................... 13
+     Table 4: Housing Cost Burden Overview Exceeding 30% Gross Income ........................................................ 14
+     Table 5: Housing Tenure and Occupancy ......................................................................................................... 14
+     Table 6: Occupants Per Room + Inadequate Units in Occupied Housing Units .............................................. 14
+     Table 7: Housing Type and Size ....................................................................................................................... 15
+     Table 8: Number of Bedrooms Per Unit ........................................................................................................... 15
+     Table 10: Substandard Housing Indicators ....................................................................................................... 16
+     B.       Housing Projections .................................................................................................................................. 16
+     Table 11: Housing Unit Projection.................................................................................................................... 16
+     Figure 1: Existing Land Use Map ..................................................................................................................... 17
+     Figure 2: Existing Zoning Map ......................................................................................................................... 18
+     C.       Demographic Characteristics .................................................................................................................... 19
+     Table 13: Historic Population Growth .............................................................................................................. 19
+     Table 14: Population by Age............................................................................................................................. 19
+     Table 15: Population by Housing Type............................................................................................................. 20
+     Table 16: Residents Place of Birth .................................................................................................................... 21
+     Table 17: Household Median Income ............................................................................................................... 21
+     Table 18: Poverty Status ................................................................................................................................... 21
+     D.       Multigenerational Housing Continuity ..................................................................................................... 22
+     E.       Employment Data ..................................................................................................................................... 23
+     Table 19: Employment Projection..................................................................................................................... 23
+III. Fair Share Plan: Obligations and Compliance Plan....................................................................................... 24
+                  MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 4 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                                                                  3
+
+
+   A.      Introduction ............................................................................................................................................... 24
+   B.      Prior Round Need Compliance “Look Back” (2015-2025) ...................................................................... 24
+   C.      Present and Prospective Need Obligation (2025-2035) ............................................................................ 28
+   Figure 3: Prospective Need Projects Map ......................................................................................................... 31
+   D.      Applicability of Vacant Land Adjustment ................................................................................................ 43
+   E.      Consideration of Land Most Appropriate for Affordable Housing and Sites Considered for Development
+           43
+   F.      Recommended Ordinance Modifications ................................................................................................. 44
+   G.      Summary of Obligation Subsets ............................................................................................................... 46
+IV. Appendices .................................................................................................................................................... 47
+   Appendix A – Decision and Order Fixing Obligation; Associated Program Settlement Recommendation;
+   Associated Town Resolution............................................................................................................................. 48
+   Appendix B – Vacant Land Adjustment ........................................................................................................... 49
+   Appendix C – Zoning Amendments (or redevelopment plans, if applicable): Not applicable ......................... 50
+   Appendix D – Affordable Housing Ordinance ................................................................................................. 51
+   Appendix E – Development Fee Ordinance ...................................................................................................... 52
+   Appendix F – Affirmative Marketing Plan ....................................................................................................... 53
+   Appendix G – Spending Plan ............................................................................................................................ 54
+   Appendix H – Resolution of intent to fund cost of municipality’s municipally sponsored affordable housing
+   development as well as its rehabilitation program ............................................................................................ 63
+   Appendix I – Copies of resolutions appointing Administrative Agent(s) and ordinance creating the position of
+   and appointing the Municipal Affordable Housing Liaison.............................................................................. 64
+   Appendix J – Evidence demonstrating affordability of Manahan Village ........................................................ 65
+   Appendix K – Evidence demonstrating affordability of Morristown Senior Village Apartments ................... 66
+              MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 5 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                    4
+
+
+
+I. Introduction
+     This Housing Element and Fair Share Plan will exhibit the Town of Morristown’s (the “Town”
+     or “Morristown”) commitment to providing a reasonable opportunity for providing its fair share
+     of affordable housing. This document seeks to frame Morristown’s efforts based on current best
+     knowledge of the affordable housing framework created by the State, applicable past rules
+     established by the Council on Affordable Housing (COAH), and the requirements of A4/S501
+     (the “Law” or “Amended Law”) which governs municipal responsibilities concerning
+     provisions of affordable housing in the Fourth Round.
+     This Plan has three sections. The first section (“Introduction”) includes a brief history of New
+     Jersey Housing Policy. The second section (“Housing Element”) includes a Demographic
+     Analysis, Housing Inventory, Employment Analysis, and review of land uses and policies, as
+     required by statute. The third section (Fair Share Plan) summarizes the Town’s affordable
+     housing obligations for 2025-2035 and its plan for complying with these obligations.
+
+     A. History of New Jersey Affordable Housing Policy
+
+     1975 – 1985 | Mount Laurel Doctrine and the Fair Housing Act
+     In 1975 the New Jersey Supreme Court decided Southern Burlington County NAACP v. the
+     Township of Mount Laurel, more commonly referred to as “Mount Laurel I,” wherein it
+     interpreted the New Jersey Constitution to create an affirmative obligation for developing
+     municipalities to provide a “realistic opportunity for the construction of low- and moderate-
+     income housing in their communities.” In 1983, the New Jersey Supreme Court expanded the
+     obligation from only developing municipalities to all municipalities in a decision commonly
+     referred to as “Mount Laurel II”. In addition, the Supreme Court required the establishment of
+     each municipality’s fair share obligation and required each municipality, through its zoning, to
+     provide a realistic opportunity for the construction of that established fair share obligation.
+     Subject to several prerequisites, conditions and requirements, Mount Laurel II also created the
+     “builder’s remedy” as a mechanism to enforce the doctrine in instances where a developer
+     successfully demonstrated a municipality’s zoning failed to create the requisite realistic
+     opportunity. Under such circumstances, a plaintiff may be entitled to have its site rezoned for
+     an inclusionary development with an affordable set aside if the site is available, developable,
+     approvable, and suitable for the proposed project and all other requirements for a successful
+     builder’s remedy are met and all defenses defeated.
+
+     In 1985, in response to Mount Laurel II and the flood of litigation stemming from it, the
+     Legislature adopted the Fair Housing Act (“FHA”) to discourage litigation and incentivize
+     voluntary compliance (see N.J.S.A. 52-27D-303). The FHA established, among other things, the
+
+1
+ Bill A4 AcaSca (2R). <https://www.njleg.state.nj.us/bill-search/2024/A4> Accessed May 8, 2025.
+Bill S50 ScaSca (2R). <https://www.njleg.state.nj.us/bill-search/2024/S50>. Accessed May 8, 2025.
+       MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 6 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                              5
+
+
+Council on Affordable Housing (“COAH”) as an administrative alternative to litigation and
+judicial intervention. COAH was charged with establishing various housing regions in the state,
+estimating regional affordable housing obligations, and adopting criteria and guidelines for the
+municipal determination of housing need as well as guidelines for satisfying those obligations.
+The FHA also linked municipal planning and zoning powers to the satisfaction of affordable
+housing obligations. Under the FHA, a municipal zoning ordinance is presumptively invalid if
+a municipality fails to adopt a housing element as part of its master plan or enacts zoning
+regulations that are inconsistent with their housing plan.
+
+1987 – 2004 | Establishment and Administration of First Round and Second Round COAH Rules
+After the adoption of the Fair Housing Act, COAH adopted procedural and substantive rules to
+effectuate the FHA’s legislative intent in both the First Round (1987-1993) (N.J.A.C 5:91 and 5:92)
+and Second Round (1993-1999) (N.J.A.C. 5:93). The Second Round substantive regulations
+(Chapter 93) superseded the First Round substantive regulations (Chapter 92) and recalculated
+the First Round obligations. Under COAH’s regulations, low-income households were defined
+as those with incomes no greater than 50 percent of the area median income (AMI), adjusted for
+household size, and moderate-income households were those with incomes no greater than 80
+percent and no less than 50 percent of the median household income. AMI limits were
+calculated based upon housing regions as established by COAH.
+
+2004 – 2010 | Third Round Litigation and Revisions
+In December 2004, COAH promulgated its Third Round “Growth Share” methodology, which
+adjusted prior round obligations and devised a new system for projecting future municipal
+housing obligations. Growth Share obligations were based upon municipal growth and the
+Third Round was defined as the period of 1999-2014. The initial Growth Share methodology
+required municipalities to provide one affordable housing unit for every eight market rate units
+and one affordable unit for every 25 jobs created. In January 2007, the Appellate Division
+invalidated the Growth Share Methodology and required COAH to revise its rules, which it did
+in May 2008 via the Third Round substantive regulations of Chapter 97.
+
+The FHA was subsequently amended in July 2008. This round of amendments, among other
+things, eliminated Regional Contribution Agreements and reduced non-residential
+development fees. In September 2008, Executive Order #114 amended the COAH rules to ensure
+consistency with the Highlands Regional Master Plan.
+
+2010 – 2023 | COAH’s Noncompliance and Resumption of Court Responsibility
+During this period, there was inaction and increased uncertainty in the realm of affordable
+housing.
+
+After taking office Governor Chris Christie signed Executive Order No. 12, establishing the
+Housing Opportunity Task Force and charging them with a full review of the Fair Housing Act,
+       MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 7 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                               6
+
+
+COAH, and COAH’s regulatory structure. Ultimately, the task force recommended a model
+which included adjusted definitions of present and prospective need, a benchmark of 10 percent
+growth predicted by the State Planning Commission to guide obligations and transferring of
+procedural responsibility from COAH to the Home Mortgage Finance Agency (HMFA).
+
+Further complicating matters, in October 2010, the Appellate Division invalidated a substantial
+portion of COAH’s rules. Most notably, the Court invalidated the Third Round Growth Share
+methodology and ordered COAH to revise its rules in accordance with the decision. In addition,
+the Court prohibited certification of housing plans that rely upon municipally sponsored
+affordable housing projects without specified funding and required COAH to create an
+incentive structure for inclusionary developments.
+
+In January 2011, the legislature passed S-1 / A-3447, which was subsequently vetoed. Then, in
+June Governor Christie issued a reorganization plan which transferred the administration of the
+State’s affordable housing program from COAH to the New Jersey Department of Community
+Affairs. Upon challenge by the Fair Share Housing Center, the Appellate Court invalidated
+Governor Christie’s Reorganization Plan in March 2012. The Supreme Court upheld this
+decision in July 2013.
+
+In September 2013, the Supreme Court confirmed the invalidation of the previously adopted
+Third Round regulations, upholding that the methodology used for projecting housing needs in
+these rules was unconstitutional. In that ruling, the court established a February 2014 deadline
+for development and adoption of new COAH rules, which was eventually extended to
+November 2014. Significantly, no rules were adopted.
+
+In March 2015, in the case entitled In re: Adoption of N.J.A.C. 5:96 & 5:97, 221 N.J. 1 (2015), more
+commonly referred to as “Mount Laurel IV” the State Supreme Court determined that COAH
+was “moribund” and unable to carry out its duties as intended by the Fair Housing Act. The
+Court further held “that the courts may resume their role as the forum of first instance for
+evaluating municipal compliance with Mount Laurel obligations.”
+
+Thus, the Court designed a transitional process whereby municipalities could seek judicial
+approval of their HEFSPs. Those transitional procedures gave municipalities the choice whether
+to seek compliance voluntarily via a Declaratory Judgment (DJ) Action or to not file a DJ Action
+and risk being sued. During this period, and in the absence of COAH, many municipalities
+entered into court-mediated Settlement Agreements involving the Fair Share Housing Center.
+
+2024 – Present | Adoption of A4 / S-50 and Fourth Round Methodology Changes and Department of
+Community Affairs
+With the impending end of the Third Round in 2025, there was a push at the State level to
+implement new legislation that would reorganize the affordable housing process and end the
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 8 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                              7
+
+
+transitional and court-oriented process initiated by Mount Laurel IV. The result of this effort
+was A-4 / S-50, which was signed into law by Governor Phil Murphy on March 20, 2024. This
+legislation created a framework to be used for the Fourth Round and beyond. In summary, the
+Law:
+1. Abolishes the Council on Affordable Housing ("COAH") and transfers its duties to the DCA
+   and the Administrative Office of the Courts ("AOC");
+2. Enables the DCA to implement the judicial methodology provided by Judge Mary C.
+   Jacobson, A.J.S.C. in her March 8, 2018, decision, In re Application of Municipality of
+   Princeton (the "Princeton Case"), to estimate every municipality's affordable housing
+   obligation for the Fourth Round;
+3. Creates the Affordable Housing Dispute Resolution Program (the "Program") to oversee
+   disputes and provide for mediation; and
+4. Expands the availability of bonus credits, while eliminating the previously offered "rental
+   bonus credit." Bonus credits are further described in this Housing Element and Fair Share
+   Plan.
+5. Modifies applicable data and calculations underlying the methodology for calculation of
+   affordable housing obligations, eliminating the prior dependence of Courts and court-
+   appointed Special Adjudicators to deploy accepted methodologies to determine each
+   municipality's affordable housing obligation.
+6. Sets timeframes under which municipalities must act to preserve immunity from
+   exclusionary zoning litigation.
+7. Sets forth opportunities for bonus credits. Municipalities may only claim one type of bonus
+   credit per affordable unit. Bonus credits may only satisfy 25% of a municipality’s overall
+   Fourth Round obligation. These credits include:
+      a. One (1) bonus credit for special needs or permanent supportive housing;
+      b. One (1) bonus credit for 100% affordable housing projects for which the host
+         municipality has contributed towards the cost of the project, subject to certain
+         minimum contribution requirements;
+      c. One (1) bonus credit for market rate units that are converted to affordable units;
+      d. One-half (0.5) bonus credit for ownership units created in a partnership sponsorship
+         with a non-profit housing developer;
+      e. One-half (0.5) bonus credit for units located within a one-half mile radius (or a one­
+         mile radius for projects located in a Garden State Growth Zone) of NJ Transit or Port
+         Authority rail, bus, or ferry stations, including all light rail stations;
+      f. One-half (0.5) bonus credit for age-restricted units, subject to certain caps;
+              MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 9 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                           8
+
+
+              g. One-half (0.5) bonus credit for each three-bedroom unit in excess of the three­
+                 bedroom requirements set forth in the Uniform Housing Affordability Controls;
+              h. One-half (0.5) bonus credit for housing units constructed on previously developed
+                 land that was utilized for retail, office, or commercial space; and
+              i. One-half (0.5) bonus credit for units whose affordability controls are extended for a
+                 new term of affordability;
+
+     Critically, the Amended Law requires that municipalities adopt a housing element and fair share plan
+     no later than June 30, 2025, to maintain immunity from exclusionary zoning litigation.
+
+     B. Housing Element and Fair Share Plan Requirements
+
+     Municipal Land Use Law (“MLUL”) + Fair Housing Act (“FHA”)
+     The MLUL, through incorporation of the New Jersey FHA, requires municipalities to include a
+     housing element in their master plans as a prerequisite to the zoning power. The principal
+     purpose is to enumerate and provide the data, policies, and methods by which municipalities
+     will meet housing needs, with particular attention to low- and moderate-income households.
+
+     Pursuant to Section 10 of P.L.1985, c.222 (C.52:27D-310) and as amended per Bill A42, as
+     amended, the required contents of the housing element shall contain at least:
+     a. An inventory of the municipality's housing stock by age, condition, purchase or rental value,
+        occupancy characteristics, and type, including the number of units affordable to low- and moderate-
+        income households and substandard housing capable of being rehabilitated, and in conducting this
+        inventory the municipality shall have access, on a confidential basis for the sole purpose of conducting
+        the inventory, to all necessary property tax assessment records and information in the assessor's office,
+        including but not limited to the property record cards;
+     b. A projection of the municipality's housing stock, including the probable future construction of low-
+        and moderate-income housing, for the next ten years, taking into account, but not necessarily limited
+        to, construction permits issued, approvals of applications for development and probable residential
+        development of lands;
+     c. An analysis of the municipality's demographic characteristics, including but not necessarily limited
+        to, household size, income level and age;
+
+
+
+2
+ 2024 New Jersey Revised Statutes, Title 52 - State Government, Departments and Officers Section 52:27D-310 - Essential
+components of municipality's housing element.<https://law.justia.com/codes/new-jersey/title-52/section-52-27d-310/>. Accessed May
+8, 2025.
+Bill A4 Session 2024 – 2025. <https://www.njleg.state.nj.us/bill-search/2024/A4/bill-text?f=A0500&n=4_R1>. Accessed May 8,
+2025.
+             MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 10 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                        9
+
+
+     d. An analysis of the existing and probable future employment characteristics of the municipality;
+     e. A determination of the municipality's present and prospective fair share for low- and moderate-
+        income housing and its capacity to accommodate its present and prospective housing needs, including
+        its fair share for low- and moderate-income housing, as established pursuant to section 3 of P.L.2024,
+        c.2 (C.52:27D-304.1);
+     f. A consideration of the lands that are most appropriate for construction of low- and moderate-income
+        housing and of the existing structures most appropriate for conversion to, or rehabilitation for, low-
+        and moderate-income housing, including a consideration of lands of developers who have expressed
+        a commitment to provide low- and moderate-income housing; and
+     g. An analysis of the extent to which municipal ordinances and other local factors advance or detract
+        from the goal of preserving multigenerational family continuity as expressed in the recommendations
+        of the Multigenerational Family Housing Continuity Commission, adopted pursuant to paragraph (1)
+        of subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20).
+     h. For a municipality located within the jurisdiction of the Highlands Water Protection and Planning
+        Council, established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an analysis of compliance
+        of the housing element with the Highlands Regional Master Plan of lands in the Highlands
+        Preservation Area, and lands in the Highlands Planning Area for Highlands-conforming
+        municipalities. This analysis shall include consideration of the municipality's most recent Highlands
+        Municipal Build Out Report, consideration of opportunities for redevelopment of existing developed
+        lands into inclusionary or 100 percent affordable housing, or both, and opportunities for 100 percent
+        affordable housing in both the Highlands Planning Area and Highlands Preservation Area that are
+        consistent with the Highlands regional master plan; and
+     i. An analysis of consistency with the State Development and Redevelopment Plan, including water,
+        wastewater, stormwater, and multi-modal transportation based on guidance and technical assistance
+        from the State Planning Commission.
+     In addition to the statutory components of the Housing Element and Fair Share Plan detailed in
+     52:27D-310, Administrative Directive #14-243; which promulgated the procedures and
+     guidelines for implementing the Affordable Housing Dispute Resolution Program; contains a
+     section entitled “Required Elements of Housing Element and Fair Share Plan.” In summary, the
+     Directive requires four additional elements of the HEFSP to be included:
+         1. A site suitability analysis for each of the un-built inclusionary and/or 100% affordable
+            sites in the plan and identification of each of the sites considered for development and
+            rejected, along with the reasons for such rejection.
+         2. A concept plan for site development of any proposed inclusionary zone.
+         3. A detailed review of the credit worthiness of all existing units in the municipality
+
+3
+ Civil – Affordable Housing Dispute Resolution Program – Implementation of L. 2024, c. 2.
+<https://www.njcourts.gov/sites/default/files/administrative-directives/2024/12/dir_14_24.pdf>. Accessed May 8, 2025.
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 11 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                        10
+
+
+   4. All ordinances and resolutions required to implement the plan attached as an Appendix
+      to the HEFSP.
+However, it should be noted that the requirement to adopt all implementing ordinances to
+effectuate the HEFSP as set forth in the Fair Housing Act is March 15, 2026. Given this
+discrepancy of the dates, the statutory necessity of implementing ordinances to be reviewed by
+the Planning Board and deemed consistent with this adopted HEFSP, and the potential for
+challenges to the HEFSP as adopted, any such ordinance amendments will be prepared
+following adoption of this plan element.
+             MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 12 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                              11
+
+
+
+II. Housing Element: Municipal Summary
+     The Town of Morristown occupies roughly 3.01 square miles of Morris County. For regional and
+     planning purposes, Morristown is in Housing Region 2, a region that consists of Essex, Morris,
+     Union and Warren counties.
+     In compiling the analysis for the Housing Element, this report utilizes the following data:
+     1. American Community Survey (“ACS”): The most up to date information is the ACS
+         estimates, which are generated between the decennial censuses. ACS figures are based on
+         data collected over a 5-year period. The estimates represent the average characteristics of
+         population and housing between 2018-2023 and DO NOT represent a single point in time.
+         Comparisons will be made with the 2018-2023 ACS to show change over time. See URL link4
+         utilized in this HEFSP.
+     2. Decennial Census: Every ten years, the Census conducts detailed data collection to create an
+         image that is as accurate as possible of the conditions throughout the country in that year.
+         Data from the decennial census is used for comparison when equivalent ACS information is
+         unavailable, as well as for longitudinal analysis. See URL link5 utilized in this HEFSP.
+     3. Comprehensive Housing Affordability Strategy (“CHAS”): The U.S. Department of Housing
+         and Urban Development (HUD) utilizes both the ACS and Census to create the “CHAS"
+         data, which demonstrates the extent of housing problems and housing needs, particularly
+         for low income households. See URL link6 utilized in this HEFSP.
+     4. North Jersey Transportation Planning Authority (“NJTPA”): Every four years, the NJTPA
+         updates its regional forecasts for population, households and employment as part of
+         updating its long range transportation plan (LRTP), the region’s blueprint for transportation
+         investment. See URL link7 utilized in this HEFSP.
+     5. State or Other Agency Sources: for select data types, State sources are used instead of the
+         Census Bureau when equivalent Census data does not exist or the State data provides a more
+         complete picture.
+
+     A. Housing Conditions
+
+     The analysis in this section shall satisfy Part A of P.L.1985, c.222 (C.52:27D-310), which requires:
+        § A) “Inventory of housing stock by age, condition, purchase or rental value, occupancy
+           characteristics, and type, including the number of units affordable to low- and moderate-income
+           households and substandard housing capable of being rehabilitated, and in conducting this
+           inventory the municipality shall have access, on a confidential basis for the sole purpose of
+
+4
+  Total Population, Decennial Census. <https://data.census.gov/table. Accessed May 8, 2025>.
+5
+  Profile of General Population and Housing Characteristics, Decennial Census.
+<https://data.census.gov/table?d=DEC%20Demographic%20Profile>. Accessed May 8, 2025.
+6
+  Consolidated Planning/CHAS Data. <https://www.huduser.gov/portal/datasets/cp.html>. Accessed May 8, 2025.
+7
+  Appendix E - 2050 Demographic Forecasts. <https://www.njtpa.org/NJTPA/media/Documents/Planning/Plans-
+Guidance/Planning%20for%202050/draft%20final/E-2050-Demographic-Forecasts.pdf>. Accessed May 8, 2025.
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 13 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                 12
+
+
+      conducting the inventory, to all necessary property tax assessment records and information in the
+      assessor's office, including but not limited to the property record cards”
+
+Housing Stock by Age and Condition
+According to the 2023 ACS, there are an estimated 9,318 housing units in Morristown which
+represented a 0.5% increase from 2020. In terms of age, 52.6% of Morristown’s housing
+structures were built prior to 1970, suggesting that approximately half of the housing stock is
+older than 55 years.
+                                                                      Table 1: Year Structure Built
+                                              UNITS                             PERCENT
+      Total housing units                      9,318
+        Built 2020 or later                      43                                 0.5
+        Built 2010 to 2019                     1,284                               13.8
+        Built 2000 to 2009                      734                                 7.9
+        Built 1990 to 1999                      568                                 6.1
+        Built 1980 to 1989                      912                                 9.8
+        Built 1970 to 1979                      876                                 9.4
+        Built 1960 to 1969                     1,101                               11.8
+        Built 1950 to 1959                     1,187                               12.7
+        Built 1940 to 1949                      557                                 6.0
+       Built 1939 or earlier                   2,056                               22.1
+                               Source: American Community Survey 2023
+
+The table below details the condition of housing within the Town of Morristown based on
+heating fuel, plumbing facilities, kitchen facilities. These factors help determine the number of
+inadequate housing units within the Town. According to the ACS, an estimate of 275 housing
+units in Morristown lacked either heating fuel, plumbing or kitchen facilities, which is an
+increase since 2018 (+138 new inadequate housing units).
+
+                                                                       Table 2: Housing Condition
+                                                                                       PERCENT
+                                              2023      PERCENT       2018 PERCENT
+                                                                                       CHANGE
+               Total                           275          3.1        137        1.7         1.4
+        Lacking heating fuel                   125          1.4         60        0.7         0.7
+Lacking complete plumbing facilities            55          0.6         54        0.7         -0.1
+ Lacking complete kitchen facilities            95          1.1         23        0.3         0.8
+                      Source: American Community Survey 2023 and 2018
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 14 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                            13
+
+
+Housing Values and Costs
+Since 2018, median home values in the Town have increased by $92,900 (+20.2%). This change
+is accompanied by an increase in homes worth between $500,000 and $999,999 and a sharp
+decrease in homes worth between $300,000 and $499,999.
+
+                                           Table 3: Value for Owner-Occupied Housing Units
+                                                                                PERCENT
+                                           2023    PERCENT     2018    PERCENT
+                                                                                CHANGE
+       Total Owner-occupied units           3,213        -        3,032         -        5.96
+             Less than $50,000                38        1.2         49         1.6        -0.4
+             $50,000 to $99,999               48        1.5         22         0.7        0.8
+            $100,000 to $149,999              33        1.0          9         0.3        0.7
+            $150,000 to $199,999              30        0.9          9         0.3        0.6
+            $200,000 to $299,999             277        8.6        202         6.7        1.9
+            $300,000 to $499,999             885       27.5       1,578       52.0       -24.5
+            $500,000 to $999,999            1,695      52.8       1,017       33.5       19.3
+             $1,000,000 or more              207        6.4        146         4.8        1.6
+              Median (dollars)            $552,800       -      $459,900        -        20.2
+                       Source: American Community Survey 2023 and 2018
+
+
+The tables below show the housing expenditures for those who own and rent in Morristown.
+The general affordability standard is that no more than 30% of gross income should be allocated
+for housing costs.
+A cost burden is the ratio of housing costs to household income. For renters, housing cost is the
+gross rent (lease rent plus utilities). For owners, housing cost is the monthly owner costs, which
+may include mortgage, utilities, association fees, insurance, and real estate taxes.
+In Morristown, about 27.2% of homeowners and renters spend more than 30% of their
+household income on housing costs. These figures indicate that more than 1/4th of households
+are burdened by unaffordable housing costs; where renters are more cost burdened than
+homeowners (renters at 21.1%; owners at 6.1%).
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 15 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                            14
+
+
+
+                  Table 4: Housing Cost Burden Overview Exceeding 30% Gross Income
+            RANGE               OWNER           RENTER       TOTAL     PERCENT
+     Cost Burden <=30%                   2,635            3,715         6,350       72%
+ Cost Burden >30% to <=50%                250              955          1,205       14%
+      Cost Burden >50%                    290              915          1,205       14%
+  Cost Burden Not available                35               50            85         1%
+            Total                        3,210            5,635         8,850       100%
+                                     Source: CHAS 2017-2021 ACS
+
+Occupancy Characteristics and Type of Housing
+As of 2023, the Town is predominately comprised of renter-occupied households, which
+comprise 63.9% of the Town’s households. A total of 36.1% of households are owners, and 4.4%
+of the Town’s housing units are vacant. Since 2018, the Town has seen a shift towards renter-
+occupied households, coming from a 1.1% decrease in owners and a 4.5% decrease in the Town's
+vacancy rate.
+                                                        Table 5: Housing Tenure and Occupancy
+                                                                                  PERCENT
+                            2023           PERCENT          2018       PERCENT
+                                                                                  CHANGE
+      Total                  9,318                           8,954
+  Owner Occupied             3,213               36.1        3,032       37.2        -1.1
+  Renter Occupied            5,694               63.9        5,124       62.8        1.1
+   Vacant Units               411                4.4         798          8.9        -4.5
+                      Source: American Community Survey 2023 and 2018
+
+
+Housing units with more than one occupant per room are considered overcrowded.
+Overcrowded households in the Town rose by 1.1% since 2018.
+               Table 6: Occupants Per Room + Inadequate Units in Occupied Housing Units
+    OCCUPANTS PER ROOM              2023       PERCENT        2018               PERCENT
+            Total                    8,907                     8,156
+           1.00 or less              8,599        96.5         7,964                97.6
+           1.01 to 1.50               141          1.6          114                  1.4
+          1.51 or more                167          1.9           78                  1.0
+                  Source: American Community Survey 2023 and 2018
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 16 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                             15
+
+
+Since 2018, the Town’s housing stock has increased from 8,954 units to 9,318 units.
+
+                                                              Table 7: Housing Type and Size
+                                                                                      PERCENT
+   HOUSING UNITS                 2023         PERCENT        2018       PERCENT
+                                                                                      CHANGE
+    Total housing units          9,318                     8,954
+      1-unit, detached           2,330         25.0        2,024           22.6         2.4
+       1-unit, attached           833           8.9         898            10.0         -1.1
+            2 units               617           6.6        1,280           14.3         -7.7
+         3 or 4 units             992          10.6         826             9.2         1.4
+         5 to 9 units             517           5.5         609             6.8         -1.3
+        10 to 19 units            822           8.8         627             7.0         1.8
+      20 or more units           3,133         33.6        2,690           30.0         3.6
+        Mobile home                74           0.8          0              0.0         0.8
+     Boat, RV, van, etc.            0           0.0          0              0.0          0
+                      Source: American Community Survey 2023 and 2018
+
+                                                      Table 8: Number of Bedrooms Per Unit
+                                                                                  PERCENT
+     ROOMS                2023           PERCENT          2018       PERCENT
+                                                                                  CHANGE
+       Total               9,318                        8,954
+   No Bedroom               526            5.6           344         3.8               1.8
+    1 Bedroom              2,887          31.0          2,498       27.9              3.1
+   2 Bedrooms              2,902          31.1          3,350       37.4              -6.3
+   3 Bedrooms              1,820          19.5          1,406       15.7              3.8
+   4 Bedrooms               924            9.9           908        10.1              -0.2
+ 5 or + Bedrooms            259            2.8           448         5.0              -2.2
+                      Source: American Community Survey 2023 and 2018
+Existing Low- and Moderate-Income Housing Units
+Based on review of available records, there are 709 LMI units in Morristown. Morristown is
+following the applicable requirements regarding unit monitoring and reporting. Specifically,
+the Town completed the statutorily required updates to its housing project status report by the
+DCA deadline of February 15, 2025. These updates are included in the State’s new Affordable
+Housing Monitoring System and should be considered to fulfill the Town’s obligation to specify
+the creditworthiness of existing affordable units.
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 17 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                  16
+
+
+Substandard Housing
+The table below utilizes data from the ACS and CHAS to analyze the “4 housing problems” in a
+consolidated format for consideration of overall substandard housing. The four housing
+problems as defined by HUD are:
+  1. Incomplete kitchen facilities;
+  2. Incomplete plumbing facilities;
+  3. Overcrowding (i.e. 1.01 or more persons per room); and
+  4. High housing costs (i.e. cost burden).
+The following table shows data for indicators of substandard housing for Morristown. In
+general, the biggest “housing problem” can be concluded as cost burden (ratio of housing costs
+to household income).
+                                                       Table 10: Substandard Housing Indicators
+                                                         OWNER                         RENTER
+        Household has 1 of 4 Housing Problems              555                          2,030
+            Housing Cost Burden = 30+%                     540                          1,870
+                                Source: CHAS 2017-2021 ACS
+
+
+B. Housing Projections
+
+The analysis in this section shall satisfy Part B of P.L.1985, c.222 (C.52:27D-310), which requires:
+   § B) “A projection of the municipality's housing stock, including the probable future construction of
+      low- and moderate-income housing, for the next ten years, taking into account, but not necessarily
+      limited to, construction permits issued, approvals of applications for development and probable
+      residential development of lands.”
+
+Projection of Housing Stock
+Below is a general prediction by NJTPA estimating the Town of Morristown’s household
+population growth to 8,497 households in 2050.
+
+                                                                 Table 11: Housing Unit Projection
+              YEAR                            HOUSEHOLDS               ANNUALIZED % CHANGE
+              2015                                7,782                               -
+        2050 (Predicted)                          8,497                             0.3%
+                                   Source: U.S. Census, NJTPA
+
+Zoning regulations and existing capital infrastructure may help determine where growth is
+expected and where new housing units are likely to be developed in the future.
+              MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 18 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                              17
+
+
+                                         Figure 1: Existing Land Use Map
+
+
+
+
+                                                                                                               8
+
+
+                                           Town of Morristown Land Use Map9
+
+
+
+
+9
+ Map Note: Classifications are based on assessor records. "Vacant land" as depicted on this map should not be construed to limit or
+supersede any conclusions made in the Vacant Land Adjustments.
+MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 19 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                             18
+
+
+                    Figure 2: Existing Zoning Map
+
+
+
+
+                      Town of Morristown Zoning Map
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 20 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                   19
+
+
+C. Demographic Characteristics
+
+The analysis in this section shall satisfy Part C of P.L.1985, c.222 (C.52:27D-310), which requires:
+   § C) “An analysis of the municipality's demographic characteristics, including but not necessarily
+      limited to, household size, income level and age.”
+
+Population General
+The population estimate for Morristown in 2023 was 20,571, which represents an increase of 391
+from the 2020 Census (-1.9%). Interestingly, the NJTPA predicts Morristown’s population to
+decline to 20,500 people in 2050.
+                                                             Table 13: Historic Population Growth
+      YEAR                  POPULATION                          CHANGE                % CHANGE
+       1940                    15,270                                -                   0.5%
+       1950                    17,124                             1,854                 12.1%
+       1960                    17,712                              588                   3.4%
+       1970                    17,662                              -50                  −0.3%
+       1980                    16,614                            -1,048                 −5.9%
+       1990                    16,189                             -425                  −2.6%
+       2000                    18,544                             2,355                 14.5%
+       2010                    18,411                             -133                  −0.7%
+       2020                    20,180                             1,769                  9.6%
+       2023                    20,571                              391                   1.9%
+ 2050 (Predicted)              20,500                              -71                     -
+   Source: NJ State Data Center, New Jersey Population Trends 1790 to 2000, US Census Bureau; NJTPA,
+                               "Appendix E - 2050 Demographic Forecasts"
+
+Population Composition by Age
+The estimated current median age in Morristown is 34, compared to 42.7 for Morris County and
+40.1 for New Jersey.
+                                                                     Table 14: Population by Age
+                                                                      MORRIS
+      AGE RANGE            MORRISTOWN             PERCENT                               PERCENT
+                                                                      COUNTY
+      Under 5 years               1,252                6.2             25,471                5.0
+      5 to 9 years                 589                 2.9             28,352                5.6
+      10 to 14 years               879                 4.3             31,448                6.2
+      15 to 19 years              1,418                7.0             33,164                6.5
+      20 to 24 years              1,337                6.6             29,593                5.8
+      25 to 34 years              4,970               24.5             57,194               11.2
+      35 to 44 years              2,702               13.3             65,510               12.8
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 21 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                           20
+
+
+
+                                                              MORRIS
+     AGE RANGE           MORRISTOWN           PERCENT                            PERCENT
+                                                             COUNTY
+      45 to 54 years          2,056             10.2           72,196               14.1
+      55 to 59 years          1,148              5.7           39,717                7.8
+      60 to 64 years          1,095              5.4           36,971                7.2
+      65 to 74 years          1,698              8.4           50,990               10.0
+      75 to 84 years           727               3.6           27,021                5.3
+    85 years and over          385               1.9           12,748                2.5
+      Median Age                34                -             42.7                  -
+                             Source: American Community Survey
+
+Households
+According to the US Census Bureau’s classification system, people either live in a household,
+housing unit, or in “group quarters.” Two types of “households” exist: family and non-family.
+A “household” consists of one or more persons living and eating together separately from other
+persons who may be in the same building. A “family” is a household with two or more related
+persons living together in the same housing unit.
+
+                                                      Table 15: Population by Housing Type
+                            TOWN OF
+                                                       MORRIS COUNTY
+                         MORRISTOWN
+                           2019-2023                      2019-2023
+Total Households               8,907                         191,840
+Average Household Size          2.22                           2.61
+                     Source: American Community Survey 2019-2023
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 22 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                           21
+
+
+Immigration
+Foreign born residents make up 20.9% percent of the Town of Morristown’s population, which
+is higher than the County (19.6%) and lower than State (23.5%) levels.
+
+                                                             Table 16: Residents Place of Birth
+                            MORRISTOWN          MORRIS COUNTY         NEW JERSEY
+                           COUNT PERCENT COUNT PERCENT COUNT PERCENT
+         Total              20,256              510,375            9,267,014
+ Born in United States      15,296       75.5   401,982       78.8 6,849,548 73.9
+     Foreign Born            4,228       20.9   100,222       19.6 2,181,755 23.5
+  Naturalized Citizen        1,488       35.2    60,952       60.8 1,241,100 56.9
+    Not a Citizen            2,740       64.8    39,270       39.2  940,655  43.1
+                           Source: American Community Survey 2023
+
+Income and Poverty Status
+The median household income for Morristown grew from 2023 to 2018, growing 20.4% and lesser
+the County (21.2%) and the State (22.1%).
+                                                         Table 17: Household Median Income
+                                 2023            2018        CHANGE               % CHANGE
+    Town of Morristown          115,409          95,885        19,524                20.4
+      Morris County             134,929         111,316        23,613                21.2
+       New Jersey                99,781          81,740        18,041                22.1
+                    Source: American Community Survey 2023 and 2018
+
+In Morristown, 1,839 residents (9.2%) live below the poverty line, an increase from 5.9% in 2018.
+In this regard, the Town had a similar trajectory to Morris County, which experienced an
+increase from 4.5% to 4.6% over the same period.
+                                                                      Table 18: Poverty Status
+ MORRISTOWN TOWN                  2023        PERCENT        2018       PERCENT CHANGE
+     Total Persons                19,920                     18,473               1,447
+  Total Below Poverty             1,839           9.2         1,096        5.9     3.3
+     MORRIS COUNTY                2023        PERCENT        2018        PERCENT     CHANGE
+       Total Persons             507,823                    485,909                    21,914
+    Total Below Poverty           23,392          4.6        21,856         4.5          0.1
+ Source: American Community Survey 2023 and 2018; Morris County ACS Survey 2023 and 2018
+             MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 23 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                      22
+
+
+     D. Multigenerational Housing Continuity
+
+     The analysis in this section shall satisfy Part G of P.L.1985, c.222 (C.52:27D-310), which requires:
+       § G) “An analysis of the extent to which municipal ordinances and other local factors advance or
+           detract from the goal of preserving multigenerational family continuity as expressed in the
+           recommendations of the Multigenerational Family Housing Continuity Commission, adopted
+           pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20).”
+     On November 8, 2021, the Senate and General Assembly of the State of New Jersey adopted
+     C.52:27D-329.2010, which establishes the “Multigenerational Family Housing Continuity
+     Commission” for the purpose of conducting research, obtaining public input, and adopting
+     recommendations on how to most effectively advance the goal of enhancing multigenerational
+     family housing continuity, which can be defined broadly as the degree to which senior citizens
+     are able to reside at the homes of their extended families.
+
+     In short, the bill requires a municipal housing plan element to provide an analysis of the extent
+     to which municipal ordinances and other local factors advance or detract from the goal of
+     preserving multigenerational family continuity, as expressed in the recommendations of the
+     commission.
+
+     The municipality is committed to promoting intergenerational harmony through the provision
+     of diverse housing options in a manner consistent with the regulation. No municipal ordinances
+     have been identified which detract from the goal of preserving multigenerational family
+     continuity. The Town offers a range of programs and services to support its seniors and make it
+     possible for seniors to continue to thrive in Morristown if they choose to do so. These services
+     include a thriving Senior Center, access to Colonial Coach, a free bus service provided by the
+     Town, and assistance with grocery shopping. Additionally, the Town supports Morris Habitat
+     for Humanity by marketing its Aging in Place program. Providing services for seniors locally
+     allows them to continue to live in the same community as family members of other generations,
+     even if not under the same roof, and the benefits of such programs in promoting
+     multigenerational continuity is magnified by the dense and walkable nature of the Town. As
+     will be noted subsequently, the municipality, in setting forth its compliance plan, is abiding by
+     the limitations included in the statute as it relates to age-restricted housing.
+
+
+
+
+10
+  P.L. 2021, Chapter 273, approved November 8, 2021. Senate, No. 2727. <https://pub.njleg.gov/Bills/2020/AL21/273_.HTM>.
+Accessed May 8, 2025.
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 24 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                              23
+
+
+
+E. Employment Data
+
+The analysis in this section shall satisfy Part D of P.L.1985, c.222 (C.52:27D-310), which requires:
+   § C) “An analysis of the existing and probable future employment characteristics of the
+      municipality.”
+
+Below is a general prediction by NJTPA for the Town of Morristown’s employment forecast,
+which is a growth to 28,060 in 2050.
+                                                               Table 19: Employment Projection
+           YEAR                   LABOR FORCE                  CHANGE          ANNUALIZED %
+                                                                                 CHANGE
+           2015                        25,938
+     2050 (Predicted)                  28,060                     2,122                0.2
+                                          Source: NJTPA
+        MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 25 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                              24
+
+
+
+III. Fair Share Plan: Obligations and Compliance Plan
+  A. Introduction
+
+  As previously noted, the methodology of calculating and fulfilling municipal obligations is set
+  forth in the Amended Law, in concert with a wide range of pre-existing rules and regulations.
+  Notably, many of the rules and regulations that will govern affordable housing administration
+  under the Fourth Round are still being drafted and released at the time that this Plan is being
+  written.
+
+  The housing need obligations discussed herein consist of the following components: Prior
+  Round Compliance; Present Need or “Rehabilitation Obligation;” and the “Prospective Need.”
+  Collectively, the Present Need and the Prospective Need are referred to as the Fourth Round
+  obligation.
+
+  The housing obligations contained within this document reflect the Decision and Order Fixing
+  Municipal Obligations for “Present Need” and “Prospective Need” for the Fourth Round Housing Cycle
+  (Docket No. MRS-L-268-25). As reflected in this document, which is included as Appendix A,
+  the Town’s Prospective Need is 285 and its Present Need is 140.
+
+  The purpose of this section of the Plan is to set forth the Town of Morristown’s proposed
+  approach to satisfying its Fourth Round obligation.
+
+  B. Prior Round Need Compliance “Look Back” (2015-2025)
+
+  Morristown has a history of fulfilling its affordable housing obligations. In January 2019, the
+  Town received a Final Judgment of Compliance and Repose (“JCR”) relating to its Third Round
+  obligation. The JCR was issued after a period of negotiation and settlement, primarily between
+  the Town and Fair Share Housing Center (“FSHC”). Prior to issuance of the JCR, the Town,
+  FSHC, and other intervenors entered into a Settlement Agreement in August 2017.
+  Correspondingly, the Town adopted its Third Round HEFSP in August 2018. The HEFSP and
+  settlement agreements set forth the Town’s Third Round obligation and identified the actions
+  required by the Town to fulfill these obligations. Subsequently, in August 2021, the Town and
+  FSHC agreed to a Consent Order Resolving FSHC’s June 21, 2021, Motion to Enforce (the
+  “Consent Order”).
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 26 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                     25
+
+
+The Town’s commitments, as set forth in the Settlement Agreement and Consent Order and the
+corresponding status of these commitments, are reflected in the tables below:
+
+Unique Actions Required by Settlement Agreement / Consent Order
+         PROJECT/ACTION                                STATUS
+ Disburse a total of $480K from the
+ Town’s AHTF to Homeless                            COMPLETED
+ Solutions
+ Adopt Mandatory Set-Aside
+                                                    COMPLETED
+ Ordinances
+  Appoint Administrative Agent                          COMPLETED
+
+
+Projects required to satisfy Third Round Realistic Development Potential (“RDP”):
+          PROJECT/ACTION                   REQUIREMENT                STATUS
+ 1 Mount Kemble Ave: Homeless
+                                         21 Credits            CONSTRUCTED
+ Solutions
+ Speedwell Ave Redevelopment
+                                         28 Credits            CONSTRUCTED
+ Phase 2
+ Morris Street Redevelopment Phase
+                                         8 Credits             CONSTRUCTED
+ 1
+ Market & Bank (Off-Site at 43-47
+                                         10 Credits            CONSTRUCTED
+ MLK Ave)
+ Spring Street Redevelopment Phase
+                                         3 Credits             CONSTRUCTED
+ 2
+ Epstein (Building C Units)              3 Credits             CONSTRUCTED
+  10 Willow: Habitat for Humanity        2 Credits             CONSTRUCTED
+
+  18 Willow: Habitat for Humanity        2 Credits             CONSTRUCTED
+
+  86-88 MLK: Homeless Solutions          6 Credits             CONSTRUCTED
+                                                               UNDER
+  17 Orchard Street                      2 Credits
+                                                               CONSTRUCTION
+  9 Hazel Street                         2 Credits             CONSTRUCTED
+  35 Turtle Road                         3 Credits             CONSTRUCTED
+  George Street Commons: 7 George                              UNDER
+                                         2 Credits
+  Street                                                       CONSTRUCTION
+  Evergreen Terrace: 9 Prospect Street   2 Credits             CONSTRUCTED
+    MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 27 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                          26
+
+
+ Ridgedale Commons: 68-74                                        UNDER
+                                         4 Credits
+ Ridgedale Ave                                                   CONSTRUCTION
+ Franklin Village                        8 Credits               CONSTRUCTED
+ 48-50 South Street                      2 Credits               CONSTRUCTED
+ Morristown Gateway: 12 Ridgedale
+                                         4 Credits               CONSTRUCTED
+ Avenue
+
+Actions to satisfy Third Round Unmet Need requirements:
+           REQUIREMENT                   REQUIREMENT                     STATUS
+ Morris Street Redevelopment Plan       28 Credits*                Complete
+                                                                   Redevelopment
+                                                                   Plan in place for
+                                                                   Phase 4.
+                                                                   Amendment of
+ Speedwell Phases 3 and 4                                          Phase 3
+                                        17 Credits
+ Redevelopment Plan                                                Redevelopment
+                                                                   Plan pending
+                                                                   litigation
+                                                                   (unchanged from
+                                                                   Consent Order).
+                                                                   Redevelopment
+                                                                   Plan in Place for 13
+                                                                   units;
+ Train Station Redevelopment Plan       13 Credits                 Redevelopment
+                                                                   Agreement
+                                                                   adopted; Site Plan
+                                                                   approval granted
+                                                                   Compliant
+                                                                   Redevelopment
+ Spring Street Redevelopment Plan       21 Credits*                Plan in place;
+                                                                   redevelopment
+                                                                   agreement adopted
+                                                                   Compliant
+ North Park / Washington
+                                        15 Credits*                Redevelopment
+ Redevelopment Plan
+                                                                   Plan in place
+ *Obligation established in Settlement Agreement was later amended in Consent
+ Order. Requirement listed in this table reflects obligation set forth in the Consent
+ Order.
+              MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 28 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                                 27
+
+
+       Projects Towards Third Round Unmet Need Resulting from Set-Aside Ordinances11
+                   PROJECT                      CREDITS                 STATUS
+         81 Martin Luther King Ave.                          2 Credits                            Under construction
+                                                                                                  Approved.
+         126 South Street                                    4 Credits                            Demolition      has
+                                                                                                  commenced.
+         28 Schuyler Place                                   4 Credits                            Under construction
+         78-80 Washington Street                             3 Credits                            Approved
+
+       Actions to Satisfy Third Round Present Need (166 units)
+                PROJECT                                      STATUS
+       Participation in Morris
+       County’s     rehabilitation
+                                    Participated.
+       program (Morris County
+       CDBG Program)
+                                    Morristown retained an administrative agent. The
+                                    administrative agent launched the Home Improvement
+                                    Program in May 2023, and has marketed it. To date, 77
+                                    pre-applications were received. Three of these were
+                                    determined to be duplicates and 35 were terminated for
+       Retain an administrative
+                                    various reasons. There are presently 33 households active
+       agent to launch and
+                                    in the applicant pool.
+       market        the      local
+       rehabilitation program
+                                    Six complete applications were received. Of these, one is
+                                    under eligibility review and three were terminated. Two
+                                    cases have been completed and are credited towards the
+                                    Third Round Present Need obligation. A total of $46,700
+                                    was spent between the two contracts.
+                                    Morristown contributed $250,000 from its Affordable
+       Rehabilitation activities Housing Trust Fund to fund qualified improvements in
+       undertaken               by 22 public housing units at Manahan Village.12
+       Morristown         Housing
+       Authority                    The Consent Order states: “the Morristown Housing
+                                    Authority is in the process of entering the Rental
+
+11
+   Projects were approved at 23 South Street (4 LMI units), 161 Madison Avenue (4 LMI units), and 45 Morris Street (6 LMI units,
+litigation pending) that would have created new affordable housing units as a result of the set-aside ordinance. The approvals for these
+projects have expired and, as a result, the projects are not included in this table.
+12
+   Morristown Mid-Point Review. <https://www.townofmorristown.org/vertical/sites/%7B0813EA2E-B627-4F82-BBB0-
+DDEE646947B5%7D/uploads/Morristown_Mid_Point_Review.pdf>. Accessed May 8, 2025.
+       MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 29 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                28
+
+
+                                  Assistance Demonstration (“RAD”) program to convert
+                                  their property from public housing to Section 8 accounts.
+                                  The conversion will allow the MHA to use their existing
+                                  buildings as collateral to reinvest in the wholesale
+                                  rehabilitation of units and address the remaining
+                                  rehabilitation obligation.” This RAD conversion and
+                                  rehabilitation took place at the Morristown Senior Village
+                                  Apartments, fulfilling the remaining 142 units of Third
+                                  Round Rehabilitation Need which remain after
+                                  accounting for the two completed Home Improvement
+                                  Program projects and the aforementioned 22 public
+                                  housing units rehabilitated at Manahan Village.
+  Allocate     funding      for   In its 2018 Spending Plan, Morristown allocated $685,061
+  qualified     rehabilitation    from its Affordable Housing Trust Fund for rehabilitation
+  projects                        projects.
+
+As demonstrated in the tables above and supported by the issuance of the JCR, Morristown has
+fully satisfied its obligations under the Third Round as articulated in the Settlement Agreement
+and Consent Order. As such, no obligation is carried forward to the Fourth Round.
+
+C. Present and Prospective Need Obligation (2025-2035)
+
+The analysis in this section shall satisfy Part E of P.L.1985, c.222 (C.52:27D-310), which requires:
+   §   E) “A determination of the municipality's present and prospective fair share for low- and
+       moderate-income housing and its capacity to accommodate its present and prospective housing
+       needs, including its fair share for low and moderate income housing, as established pursuant to
+       section 3 P.L.2024, c.2 (C.52:27D-304.1)”
+
+Present Need (Rehabilitation Share)
+The Rehabilitation Share is described as “deficient housing units occupied by low- and
+moderate-income households within a municipality and is a component of “present need”
+under N.J.A.C. 5:93-1.3. In Morristown, the rehabilitation obligation through the end of the
+Fourth Round (i.e. July 2035) has been determined to be 140.
+
+The Town plans to address this obligation through the continuation of its existing Home
+Improvement Program. This program was launched by the Town in May 2023, is vigorously
+marketed, and is funded via the Town’s Affordable Housing Trust Fund. The Town currently
+contracts with an outside firm to administer this program and intends to continue to do so
+during the Fourth Round. The program funds up to $24,000 in qualified improvements per
+applicant. This is an actively marketed program which has received 77 pre-applications and six
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 30 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                              29
+
+
+complete applications. Since being launched, the program has funded two completed
+rehabilitation projects. If updated rules are released that necessitate amendments to the
+program, the Town will make the necessary amendments.
+
+The Town will commit at least $10,000 per unit to fund this rehabilitation effort. This will require
+a total contribution of approximately $1,400,000. Pursuant to rules that allow municipalities to
+utilize money collected from development fees for this purpose, the Town will fund this
+program through its Affordable Housing Trust Fund. If, throughout the course of the Fourth
+Round, the Town receives a complete and eligible application to the Home Improvement
+Program and there is not sufficient funding in the Affordable Housing Trust Fund to fund the
+project, the Town will make up this financial short-fall through other means. The Town’s
+obligation shall not exceed $10,000 per unit and shall not continue after the Town has satisfied
+its 140 unit present need obligation.
+
+Finally, the Town will participate in Morris County’s rehabilitation program to the extent that it
+continues to exist in the Fourth Round. Completed projects within Morristown under this
+program may also satisfy the Town’s present need obligation.
+                MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 31 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                 30
+
+
+        Prospective Need Obligation
+        As noted, Morristown has a Fourth Round prospective need of 285.
+
+        The Town proposes to satisfy this its prospective need obligation through the following projects:
+
+                                           BONUS            TOTAL
+             PROJECT           UNITS                                                           NOTES
+                                           CREDITS         CREDITS
+                                                                          Site includes 200 affordable units. 22 units
+                                                                          were previously counted towards Third
+                                                                          Round      Present     Need     obligation.
+                                                                          Remainder of units (178) are being
+                                                                          applied to Fourth Round Prospective
+           Manahan
+                               178         7113            249            Need obligation.
+           Village
+                                                                          0.5 TOD bonus credits per unit as site is
+                                                                          within .5 miles of Morristown Train
+                                                                          Station (up to maximum cap of 25% of the
+                                                                          prospective need).
+                                                                          Property consists of 270 age-restricted
+                                                                          affordable units. 142 units were
+           Morristown                                                     previously counted towards Third Round
+           Senior                                                         Present Need obligation. 36 units are
+                               36          0               36
+           Village                                                        being counted towards Fourth Round
+           Apartments                                                     Prospective Need. 92 units remain as
+                                                                          “carry forward” credits to count towards
+                                                                          potential future rounds.
+           Total               214         71              285
+
+
+
+
+13
+     The maximum number of bonus credits the Town may claim is 71 (25% of the Town’s Prospective Need, 285).
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 32 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                            31
+
+
+The sites are shown in the map below.
+                                                     Figure 3: Prospective Need Projects Map
+
+
+
+
+Additional detail about each project is included below, including an analysis assessing the
+appropriateness of including each site. As required under N.J.A.C. 5:93-1, municipalities shall
+designate sites that are available, suitable, developable and approvable. As such, prospective
+need sites must meet the following criteria.
+
+   1. “Available site” – a site with clear title, free of encumbrances which preclude
+      development for low- and moderate-income housing.
+   2. “Suitable site” – a site that is adjacent to compatible land uses, has access to appropriate
+      streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+   3. “Developable site” – a site that has access to appropriate water and sewer infrastructure,
+      and is consistent with the applicable area wide water quality management plan
+             MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 33 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                  32
+
+
+            (including the wastewater management plan) or is included in an amendment to the area
+            wide water quality management plan submitted to and under review by DEP.
+         4. “Approvable site” – a site that may be developed for low- and moderate-income housing
+            in a manner consistent with the rules or regulations of all agencies with jurisdiction over
+            the site. A site may be approvable although not currently zoned for low- and moderate-
+            income housing.
+
+     Manahan Village
+
+     Site Overview
+     Manahan Village is an existing multifamily complex that contains 200 affordable family rental
+     units across twenty-six buildings. The property is designated Block 3401, Lot 1; Block 5002, Lot
+     1; and Block 5002, Lot 3 in Morristown’s property tax records. It is known by the street addresses
+     14 Flagler Street, 6-10 Flagler Street, 9-21 Flagler Street, and 33 Clyde Potts Drive. The property
+     consists of 27 one-bedroom units (13.5%), 75 two-bedroom units (37.5%), 74 three-bedroom units
+     (37%), 19 four-bedroom units (9.5%), and 5 five-bedroom units (2.5%). Of the 200 units in
+     Manahan Village, just over 37% of units contain three or more bedrooms.
+
+     History
+     Historically, Manahan Village was developed, owned and operated by the Morristown Housing
+     Authority (“MHA”). Notably, the Town of Morristown has never received credit against its
+     affordable housing obligation for the units within Manahan Village during any prior affordable
+     housing rounds, except 22 credits for Third Round Present Need as described previously.
+
+     In recent years, Manahan Village underwent a significant renovation. In 2018, the Department
+     of Housing and Urban Development (“HUD”) approved MHA’s request under the Rental
+     Assistance Demonstration (“RAD”) program for conversion of the property to Project Based
+     Rental Assistance. In October 2022, the MHA, HUD, and the new project owner, OAHS
+     Manahan Village, entered into a RAD Conversion Commitment.14 The project renovation was
+     also funded, in part, with Low Income Housing Tax Credits (“LIHTC”). Specifically, Manahan
+     Village was awarded $3,666,423 in 4% LIHTC in October 2022.15
+
+     Renovations across Manahan Village were extensive. Renovation activities included the
+     following:
+         • Garden Units and Townhomes
+               o Renovation of bathrooms to include the following:
+                    § New accessories
+
+14
+  See RAD Conversion Commitment included in Appendix J.
+15
+  Low Income Housing Tax Credit Reservation List Between 1/1/2025 and 7/31/2023.
+<https://nj.gov/dca/hmfa/developers/docs/lihtc/tax/awards/4percent_through_july2023.pdf>. Accessed May 8, 2025.
+    MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 34 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                      33
+
+
+             § New sink, toilet and tub
+             § New paint
+             § New flooring
+       o Renovations of kitchen to include the following:
+             § New appliances with the addition of a dishwasher and microwave
+             § New paint
+             § New cabinets and countertops
+             § New sink
+             § New flooring
+             § New washer / dryer hook up
+       o All walls and ceilings to be painted throughout unit
+       o New flooring and baseboard throughout unit
+       o New light fixtures to replace existing
+       o New gfci outlets in kitchens and bathrooms
+       o Replace all doors and hardware throughout unit
+       o New wall-mounted thermostat for radiators
+       o New mini-split wall hung unit with wall-mounted thermostat control
+       o New windows and blinds
+       o New railing at interior stairs
+•   1-11 Clyde Potts Court, 40 Clyde Potts Drive, 13 Flagler
+       o New asphalt shingle roofing, gutter and downspouts
+       o New hung windows with fiber cement trims
+       o New storefront window system at stairwell
+       o New unit/ building entry doors
+       o New canopy structure
+       o New wood tone fiber cement lap siding at building or unit entrances
+       o New fiber cement lap siding to replace existing siding
+       o Power wash and repair existing brick
+       o New fiber cement panel bump out walls with accent color
+       o New fire escapes
+       o New building exterior lighting and signage
+       o New intercom system at three-story buildings with flats
+
+These renovations will ensure that Manahan Village offers quality affordable housing to the
+community for the next generation and beyond. As part of the renovation, tenants were
+relocated off-site.
+             MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 35 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                          34
+
+
+     Unit Affordability
+     Units within Manahan Village are restricted to very-low, low-, and moderate-income
+     households in accordance with the Amended Law. The affordability of units within Manahan
+     Village is tied to the variety of funding sources that were utilized to finance the project and its
+     recent rehabilitation. These sources include the Housing Choice Voucher Program, the Low
+     Income Housing Tax Credit, and the Rental Assistance Demonstration program with the
+     associated Housing Assistance Payment (“HAP”) program. Each of these programs impose
+     income restrictions on the units within Manahan Village which correspond to the definition of
+     very low-income, low-income, and moderate-income housing under the Amended Law.
+
+     Specific rental rates within Manahan Village are defined by the resident’s income. In Manahan
+     Village, residents generally pay 30% of their income towards rent. This differs from other types
+     of affordable housing units where rental rates are fixed regardless of tenant income. Because of
+     this rent structure, units within Manahan Village are affordable to a wider range of potential
+     tenants, including those with the lowest income levels.
+
+     The impetus to make units available to individuals within the lowest income brackets is directly
+     written into the operating documents associated with the site. For example, the Morristown
+     Housing Authority’s Housing Choice Voucher Program Administrative Plan includes the
+     following Income Targeting statement:
+
+        “Every fiscal year, HUD requires the HA to make sure that at least 75% of families admitted to the HCV
+        program have incomes that do not exceed the Extremely Low- Income limit, which is 30% of area median
+        income. The 75% requirement is for the combined HCV and Project Based Voucher programs
+        administered by the HA.”16
+
+     Furthermore, the same policy also requires that all applicants must meet “Very Low Income”
+     eligibility requirements, as defined by HUD.
+
+     Through a combination of obligations associated with financing sources and administrative
+     policies, 100% of the units within Manahan Village are made affordable to very-low, low-, and
+     moderate-income households.
+
+     Documents demonstrating the affordability of the Manahan Village units including the
+     restrictions imposed by the various funding mechanisms are included in Appendix J.
+
+
+16
+  Housing Choice Voucher Program. Administrative Plan.
+<https://www.morristownha.org/sites/g/files/vyhlif4731/f/uploads/housing_choice_voucher_administrative_plan_-
+_updated_and_revised_2024.pdf>. pg. 18, pg. 22. Accessed May 8, 2025. The HUD definition of Extremely Low-Income is
+functionally the same as the definition of Very Low-Income included in the Amended Law. The HUD definition of Very Low-
+Income is functionally the same as the definition of Low Income included I the Amended Law.
+             MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 36 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                       35
+
+
+     Duration of Affordability
+     There are a variety of mechanisms in place to ensure that the units within Manahan Village
+     remain affordable for generations to come.
+
+     First, the term of a ground lease between the MHA and OAHS restricts use of the property “only
+     for the construction, operation, and maintenance of affordable housing reserved for households
+     consisting of two hundred (200) designated low-income housing tax credit rental units.” The
+     term of this lease is ninety-nine years.17
+
+     Second, at the municipal level, the Town entered into a Financial Agreement with the project
+     owner which requires a PILOT of 7% of tenant rental revenues, with a 2.5% annual increase.
+     The Town authorized this agreement on August 17, 2021. Per the terms of the resolution
+     authorizing this agreement, the housing “shall be deed restricted for thirty (30) years.”18
+
+     Third, the duration of affordability is set via agreements with HUD stemming from the RAD
+     conversion. Per the terms of the RAD agreement dated December 7, 2022, some of the units are
+     required to be utilized exclusively as housing for low-income families for a period of not less
+     than 40 years.19 Furthermore, while the associated HAP contract is only twenty years, the
+     contract obligates the Morristown Housing Authority to offer to renew the agreement and
+     obligates OAHS to accept this offer. Through this agreement, the units are to remain affordable
+     in perpetuity.20
+
+     Finally, the income restrictions will be enforced by deed restrictions associated with the LIHTC
+     award. These deed restrictions will be filed in accordance with industry practice.
+
+     Administration
+     As a project funded through the Low Income Housing Tax Credit, Manahan Village is exempt
+     from UHAC regulations. Lease-up procedures for the units under the Housing Choice Voucher
+     Program (previously Section 8) are in accordance with the Administrative Plan adopted by the
+     Housing Authority of the Town of Morristown. To be eligible to apply, a family must meet “Very
+     Low Income” eligibility requirements as established by HUD.21
+
+
+
+
+17
+   See Lease included in Appendix J.
+18
+   See Resolution included in Appendix J.
+19
+   See Rental Assistance Demonstration Use Agreement included in Appendix J.
+20
+   See Manahan Village HAP Contract included in Appendix J.
+21
+   Housing Choice Voucher Program Administrative Plan.
+<https://www.morristownha.org/sites/g/files/vyhlif4731/f/uploads/housing_choice_voucher_administrative_plan_-
+_updated_and_revised_2024.pdf>. pg. 18. Last Accessed May 8, 2025. The HUD definition of Very Low-Income is functionally the
+same as the definition of Low Income included I the Amended Law.
+              MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 37 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                               36
+
+
+     Applicability of Bonus Credits
+     As reflected in the map below, the parcel housing Manahan Village is within 0.5 miles of the
+     Morristown Train Station. Furthermore, there is an extensive pedestrian network within the site.
+     Based on this context, the project is eligible for 0.5 bonus credits per unit, in accordance with
+     the bonus for units within 0.5 miles of train stations. These credits can be appropriately applied
+     in this scenario, up to the maximum bonus cap of 25% of the Town’s Fourth Round Prospective
+     Need (285 units). This results in a maximum of 71 bonus credits.22
+
+
+
+
+                            Manahan Village in Relation to Morristown Train Station
+     Site Suitability
+     Manahan Village can appropriately be considered available, suitable, developable, and
+     approvable. As noted, the site already includes housing for low- and moderate-income families.
+     In including these sites in its Fourth Round HEFSP, the Town is simply claiming credit for units
+     for which it has not previously received credit which have recently been substantially renovated.
+
+     Nevertheless, for the sake of completeness, a discussion of each of the criteria is included below.
+       • The site is available. There are no known title issues or encumbrances which preclude
+           development. To the contrary, the site is already operated for low- and moderate-income
+           housing.
+
+22
+  Manahan Village would also qualify for bonus credits under at least one additional criterion. Under UHAC regulations, the project
+would only be required to have 40 three-bedroom units (20%). The project has 74 three-bedroom units. These additional 34 units
+would be eligible for 0.5 bonus credits per unit. This credit is not being claimed as the Town is already at its maximum 25% bonus cap
+because of the transit oriented development credit.
+       MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 38 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                               37
+
+
+   •   The site is suitable. It is in a walkable context near a variety of residential and commercial
+       uses. It has good access to transit and is within walking distance of bus stops and the
+       train station.
+   •   The site is developable. It has access to infrastructure necessary to support development.
+   •   The site is approvable. It already includes housing for low- and moderate- income
+       families and does not require additional approvals.
+
+The map below shows the detailed analysis of the area relative to the most up to date
+environmental constraints. Environmental constraints identified on the site are limited to steep
+slopes and a portion of the property which is in the flood hazard area. Significantly, the
+buildings have already been constructed on site. Continued operation of the property for
+affordable housing will not necessitate additional disruption of steep slopes or further incursion
+into the flood hazard area.
+
+
+
+
+                          Manahan Village with Environmental Constraints
+             MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 39 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                  38
+
+
+     Conclusion
+     Based on the above, Manahan Village can be appropriately included in Town’s Fourth Round
+     HEFSP and the associated credits should apply toward the Town’s prospective need obligation.
+
+     Morristown Senior Village Apartments
+
+     Site Overview
+     Morristown Senior Village Apartments (the “Senior Apartments”) consist of 270 age-restricted
+     affordable residential units across three sites. The sites are located at Block 5702, Lot 30-31; and
+     Block 6003, Lot 1. The sites are commonly known as Wetmore Towers (31 Early Street, 100 units);
+     Petrone Towers (39 Early Street, 100 units); and 29 Ann Street (70 units).
+
+     History
+     Historically, the Senior Apartments were developed, owned and operated by the Morristown
+     Housing Authority (“MHA”). Notably, the Town of Morristown has never received a credit
+     against its affordable housing obligation for the units within the Senior Apartments Village
+     during any prior affordable housing rounds, except for 142 units which are being claimed to
+     satisfy the Third Round Rehabilitation obligation as previously described.
+
+     In recent years, the Senior Apartments have undergone a significant renovation. In 2018, the
+     Department of Housing and Urban Development (“HUD”) approved MHA’s request under the
+     Rental Assistance Demonstration (“RAD”) program for conversion units within the site to
+     Project Based Rental Assistance. In October 2022, the MHA, HUD, and the new project owner,
+     OAHS Morristown Senior Village LLC, entered into a RAD Conversion Commitment.23 The
+     project renovation conversion also included Low Income Housing Tax Credits (“LIHTC”).
+     Specifically, the Senior Apartments were awarded $2,656,345 in 4% LIHTC in September 2021.24
+
+     Renovations across the Senior Apartments were extensive. Renovation activities in all buildings
+     included the following:
+
+                  o Renovation of bathrooms to include the following:
+                      § New accessories
+                      § New sink, toilet and tub
+                      § New paint
+                      § New flooring
+                  o Renovations of kitchen to include the following:
+                      § New appliances with the addition of a dishwasher and microwave
+
+23
+  See RAD Conversion Commitment included in Appendix K.
+24
+  Low Income Housing Tax Credit Reservation List Between 1/1/2025 and 7/31/2023.
+<https://nj.gov/dca/hmfa/developers/docs/lihtc/tax/awards/4percent_through_july2023.pdf>. Accessed May 8, 2025.
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 40 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                            39
+
+
+                  § New paint
+                  § New cabinets and countertops
+                  § New sink
+                  § New flooring
+                  § New washer/dryer hook up
+          o   All walls and ceilings to be painted throughout unit
+          o   New flooring and baseboard throughout unit
+          o   New light fixtures to replace existing
+          o   New gfci outlets in kitchens and bathrooms
+          o   Replace all doors and hardware throughout unit
+          o   New wall-mounted thermostat for radiators
+          o   New PTAC unit integrated into new window system
+          o   New windows and blinds
+
+These renovations will ensure that the Senior Apartments offers quality affordable housing to
+the community for the next generation and beyond. As part of the renovation, tenants were
+relocated off-site.
+
+Unit Affordability
+Units within the Senior Apartments are restricted to very-low, low-, and moderate-income
+households in accordance with the Amended Law. The affordability of units within the Senior
+Apartments is tied to the variety of funding sources that were utilized to finance the project and
+its recent rehabilitation. These sources include the Housing Choice Voucher Program, the Low
+Income Housing Tax Credit, and the Rental Assistance Demonstration program with the
+associated Housing Assistance Payment (“HAP”) program. Each of these programs impose
+income restrictions on the units within which correspond to the definition of very low-income,
+low-income, and moderate-income housing under the Amended Law.
+
+Specific rental rates within the Senior Apartments are defined by the resident’s income. In the
+Senior Apartments, residents generally pay 30% of their income towards rent. This differs from
+other types of affordable housing units where rental rates are fixed regardless of tenant income.
+Because of this rent structure, units within the Senior Apartments are affordable to a wider
+range of potential tenants, including those with the lowest income levels.
+
+The impetus to make units available to individuals within the lowest income brackets is directly
+written into the operating documents associated with the site. For example, the Morristown
+Housing Authority’s Housing Choice Voucher Program Administrative Plan includes the
+following Income Targeting statement:
+             MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 41 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                          40
+
+
+        “Every fiscal year, HUD requires the HA to make sure that at least 75% of families admitted to the HCV
+        program have incomes that do not exceed the Extremely Low- Income limit, which is 30% of area median
+        income. The 75% requirement is for the combined HCV and Project Based Voucher programs
+        administered by the HA.”25
+
+     Furthermore, the same policy also requires that all applicants must meet “Very Low Income”
+     eligibility requirements, as defined by HUD.
+
+     Through a combination of obligations associated with financing sources and administrative
+     policies, 100% of the units within Senior Apartments are made affordable to very-low, low-, and
+     moderate-income residents.
+     Documents demonstrating the affordability of units within the Senior Apartments including the
+     restrictions imposed by the various funding mechanisms are included in Appendix J.
+
+     Duration of Affordability
+     There are a variety of mechanisms in place to ensure that the units within the Senior Apartments
+     remain affordable for generations to come.
+
+     First, the term of a ground lease between the MHA and OAHS restricts use of the property “only
+     for the construction, operation, and maintenance of affordable housing reserved for households
+     consisting of two hundred (200) designated low-income housing tax credit rental units.” The
+     term of this lease, which was made effective December 23, 2021, is ninety-nine years. 26
+
+     Second, at the municipal level, the Town entered into a Financial Agreement with the project
+     owner which requires a PILOT of 7% of tenant rental revenues, with a 2.5% annual increase.
+     The Town authorized this agreement on August 17, 2021. Per the terms of the resolution
+     authorizing this agreement, the housing “shall be deed restricted for thirty (30) years.” 27
+
+     Third, the duration of affordability is set via agreements with HUD stemming from the RAD
+     conversion. Per the terms of the RAD agreement dated December 23, 2021, some of the units are
+     required to be utilized exclusively as low-income housing for a period of not less than 40 years.28
+     While the associated HAP contract is only twenty years, the contract obligates the Morristown
+
+
+
+25
+   Housing Choice Voucher Program Administrative Plan.
+<https://www.morristownha.org/sites/g/files/vyhlif4731/f/uploads/housing_choice_voucher_administrative_plan_-
+_updated_and_revised_2024.pdf>. pg. 18, pg. 22. Accessed May 8, 2025.The HUD definition of Extremely Low-Income is
+functionally the same as the definition of Very Low-Income included in the Amended Law. The HUD definition of Very Low-
+Income is functionally the same as the definition of Low Income included I the Amended Law.
+26
+   See Lease included in Appendix K.
+27
+   See Resolution included in Appendix K.
+28
+   See Rental Assistance Demonstration Use Agreement included in Appendix K.
+               MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 42 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                      41
+
+
+        Housing Authority to offer to renew the agreement and obligates OAHS to accept this offer.
+        Through this agreement, the units are to remain affordable in perpetuity.29
+
+        Finally, the income restrictions will be enforced by deed restrictions associated with the LIHTC
+        award. These deed restrictions will be filed in accordance with industry practice.
+
+        Administration
+        As a project funded through the Low Income Housing Tax Credit, the Senior Apartments are
+        exempt from UHAC regulations.
+
+        Lease-up procedures for the units under the Housing Choice Voucher Program (previously
+        Section 8) are in accordance with the Administrative Plan adopted by the Housing Authority of
+        the Town of Morristown.
+
+        Applicability of Bonus Credits
+        Because the municipality has already claimed the maximum number Fourth Round bonus
+        credits, no bonus credits are being sought for the Senior Apartments. The Town notes, however,
+        that should any bonus credits claimed within this HEFSP be invalidated, the units within the
+        Senior Apartments, as age-restricted units, are eligible for a one-half (0.5) bonus credit per unit.
+
+        Site Suitability
+        The map below shows the detailed analysis of the area relative to the most up to date
+        environmental constraints. Environmental constraints identified on the site are limited to small
+        area of steep slopes. Significantly, the buildings have already been constructed on site.
+        Continued operation of the property for affordable housing will not necessitate additional
+        disruption of steep slopes.
+
+
+
+
+29
+     See Senior Apartments HAP Contract included in Appendix K.
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 43 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                             42
+
+
+
+
+                         Senior Apartments with Environmental Constraints
+
+The Senior Apartments can appropriately be considered available, suitable, developable, and
+approvable. As noted, the site already includes housing for low- and moderate-income
+residents. In including these sites in its Fourth Round HEFSP, the Town is simply claiming
+credit for units for which it has not previously received credit and which have recently been
+substantially renovated.
+
+Nevertheless, for the sake of completeness, a discussion of each of the criteria is included below.
+  • The site is available. There are no known title issues or encumbrances which preclude
+      development. To the contrary, the site is already operated for low- and moderate-income
+      housing.
+  • The site is suitable. It is in a walkable context near a variety of residential and commercial
+      uses. It has good access to transit and is within walking distance of bus stops and the train
+      station.
+  • The site is developable. It has access to infrastructure necessary to support development.
+       MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 44 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                    43
+
+
+   •   The site is approvable. It already includes housing for low- and moderate-income
+       families and does not require additional approvals.
+
+Conclusion
+Based on the above, the Senior Apartments can be appropriately included in Town’s Fourth
+Round HEFSP to count towards the Town’s prospective need obligation.
+
+D. Applicability of Vacant Land Adjustment
+
+As demonstrated above, the Town does not need to rezone any properties to satisfy its
+prospective need obligation. This obligation will be met through existing units, as described
+above.
+
+Notwithstanding this approach, the Town reserves its right to seek a vacant land adjustment
+(“VLA”) under the applicable rules (52:27D-310.1) and an adjustment of its Fourth Round
+obligation to reflect the available and developable land area within its municipal boundaries if
+this Housing Element needs to be revised, resubmitted, or otherwise modified. As can be seen
+in Appendix B, Morristown does not have sufficient vacant land to address its prospective need
+obligation, and it is the conclusion of this analysis that the Realistic Development Potential
+(“RDP”), given the capacity for inclusionary development in Morristown is 29.
+
+E. Consideration of Land Most Appropriate for Affordable Housing and Sites
+   Considered for Development
+
+The analysis in this section shall satisfy Part F of P.L.1985, c.222 (C.52:27D-310), which requires:
+   §   F) “A consideration of the lands that are most appropriate for construction of low- and moderate-
+       income housing and of the existing structures most appropriate for conversion to, or rehabilitation
+       for, low- and moderate-income housing, including a consideration of lands of developers who have
+       expressed a commitment to provide low- and moderate-income housing”
+As part of this Fair Share Plan, the Town has considered land that is appropriate for the
+construction of low- and moderate-income housing. As noted above, the Town can satisfy its
+prospective need through projects which have already been built. The Town believes that the
+approach set forth in this document represents the best approach to satisfying the requirements
+of the Amended Law. While the Town acknowledges that developers may express interest in
+proposing projects that include low- or moderate-income housing, the Town’s position is that
+no additional projects are required to satisfy Morristown’s prospective or present need. To date,
+the Town has not received any formal requests from developers requesting to be included in
+this plan.
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 45 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                              44
+
+
+Notwithstanding this position, the sites discussed above are not the only areas in town where
+low- and moderate-income housing is permitted to be built. Notably, in 2018 the Town adopted
+a significant update to its Land Development Ordinance (“LDO”). The LDO was adopted in
+accordance with the recommendations of the 2014 Master Plan and was subsequently amended
+in 2023 and 2024 to reflect the recommendations of the Town’s 2022 Master Plan Reexamination.
+The LDO permits multi-family development in several zones, creating realistic opportunities
+for the development of affordable housing that are separate and apart from, and in addition to,
+any commitments made by the Town in the Fourth Round or any prior affordable housing
+round. Zoning districts where multifamily housing is permitted as of right include MF-2 (up to
+25 units per acre in certain conditions), PWN (up to 16 units per acre in certain conditions), MF-
+3 (up to 45 units per acre in certain conditions), N (up to 15 units per acre), MX-1 (up to 20 units
+per acre in certain conditions), MX-2 (up to 20 units per acre in certain conditions), and TC (up
+to 50 units per acre in certain conditions). Significantly, the Town elected to permit multi-family
+housing in these zones to fulfill its own local planning objectives, not in connection with an
+affordable housing mandate or any specific affordable housing obligation. Projects in these
+zones with five or more units are subject to the Town’s existing affordable housing set-aside
+ordinance which requires 15% set-aside for rental projects and 20% set-aside for for-sale
+projects.
+
+Additionally, the Town has numerous redevelopment plans which permit multi-family housing
+and require an affordable component. As with the Town’s decision to permit multi-family
+development in zone districts when it was not required to do so by any formal affordable
+housing obligation, much of the potential development associated with the Town’s
+redevelopment plans is driven not by specific affordable housing obligations, but by the Town’s
+own vision and objectives.
+
+The LDO and these redevelopment plans, while grounded in the recommendations and vision
+set forth by the municipality’s master plan are consistent with the findings set forth in the
+Amended Law, namely that: “comprehensive planning in alignment with smart growth
+principles, and the State Development and Redevelopment Plan” is critical to meeting the
+housing needs of the State.
+
+F. Recommended Ordinance Modifications
+
+During the Fourth Round, the Town intends to adopt at least two modifications to the LDO
+which relate to the provision of affordable housing.
+
+Affordable Housing Ordinance
+Morristown intends to update its town-wide affordable housing ordinance (Chapter 30-6). As
+part of this update, rental projects with five or more units will be required to include a 20%
+affordable housing set-aside. Updates to this ordinance may include other modifications
+             MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 46 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                                           45
+
+
+     necessary to bring the ordinance in compliance with Fourth Round obligations, the Uniform
+     Housing Affordability Controls (as amended), and other applicable affordable housing
+     standards.
+
+     Block 303, Lot 2
+     To advance its commitment to the development of inclusionary housing, the Town intends to
+     modify the zoning of the property at Block 303, Lot 2. The extent of the proposed modifications
+     is to revert certain zoning standards (i.e. District Standards and Building Standards) governing
+     development of the property to those which were in place under the November 20, 2018 LDO
+     (the “2018 LDO”), as further described herein. The intended outcome of the ordinance
+     amendments recommended herein is to increase the likelihood that the site is developed with
+     inclusionary housing.
+
+     The property is an elongated parcel with primary frontage along Cory Road. Portions of the
+     property are limited by steep slopes. Due to the orientation of the property, development of the
+     site would likely include an access drive from Cory Road, leading to an internal roadway that
+     would service building(s) on the parcel. This general layout is consistent with an application,
+     previously before the Morristown Planning Board (Application #19-05), that included multi-
+     family housing. Application #19-05 was withdrawn in 2023 prior to adjudication by the Planning
+     Board.
+
+     Under the 2018 LDO, which governed development of Application #19-05, the property was
+     located in the PWN zoning district. Multifamily development was permitted at an as-of-right
+     density of 6 dwelling units per acre and was eligible for “Conditional Density”30 of up to 16 units
+     per acre if certain standards were met.
+
+     When the LDO was amended in 2023, the property remained in the PWN zoning district; the
+     Permitted Density remained at 6 units per acre; and the property remained eligible for Incentive
+     Density of up to 16 units per acre. However, as part of the amendments, the applicable
+     standards for Incentive Density30 were modified. This effectively eliminated the possibility of
+     satisfying the conditions necessary to qualify for incentive density on this particular site.
+     Additionally, as part of the 2023 amendments, Stacked Townhomes were explicitly prohibited.
+     Taken together, the 2023 amendments reduced the likelihood that inclusionary housing would
+     be developed on the site.
+
+     Although the Town has not received a formal written request to include this property within its
+     HEFSP, the current property owner has expressed an interest in developing the site with an
+     inclusionary housing project and has identified issues stemming from the aforementioned 2023
+
+30
+   The increased density was referred to as Conditional Density in the 2018 LDO and Incentive Density in the 2023 LDO. These
+terms are used interchangeably in this document.
+      MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 47 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                          46
+
+
+LDO amendments. Critically, these issues are directly related to the orientation, location, and
+physical characteristics of this particular piece of property.
+
+In consideration of the foregoing points, the fact the property is one of the most significant
+parcels identified in the Vacant Land Adjustment, and the Town’s commitment to the
+production of inclusionary housing, Morristown intends to modify the zoning of the property to
+revert all relevant standards and mechanisms that affect eligibility for an applicant to achieve
+the PWN “Conditional Density” in a stacked townhouse format to those which were in place
+under the 2018 LDO. Amendments recommended herein are limited to those contained in the
+District and Building Standards within the PWN overlay, as described above.
+
+Notwithstanding this recommended zoning change, the Town is not relying on any credits from
+this site as part of its Fourth Round compliance plan.
+
+G. Summary of Obligation Subsets
+
+Below is a table outlining additional obligation requirement thresholds. The compliance plan
+set forth herein is in accordance with these requirements.
+                                                                           # REQUIRED
+              MANDATORY OBLIGATIONS                          CITATION      OF ACTUAL
+                                                                              UNITS
+  Very Low-Income Units (13% Minimum)
+  Shall count towards the minimum 50 percent of the housing
+  units required to be made available for occupancy by low- 52:27D-329.1         38
+  income households to address a municipality's prospective
+  need obligation.
+  Family VLI Units
+                                                            52:27D-329.1         19
+  (50% Minimum of VLI Units)
+  Low-Income Units (50% Minimum)
+  Conversely, the maximum of Moderate-Income Units shall 52:27D-329.1           143
+  not exceed 50%.
+  Family Units (50% Minimum)                                52:27D-311.l        143
+  Rental Units (25% Minimum)                                52:27D-311.l         97
+ Family Rental Units (50% Minimum of Rental Units)          52:27D-311.k.5         49
+ Age-restricted units (30% Maximum)                          52:27D-302.q          85
+
+ Transitional Housing (10% Maximum of Total Credits)         52:27D-311.e          29
+
+ Age-Restricted Housing Bonus Credit (10% Maximum)          52:27D-311.k.4         29
+          MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 48 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                              47
+
+
+
+
+IV. Appendices
+
+  A. Decision and Order Fixing Obligation; Associated Program Settlement Recommendation;
+       Associated Town Resolution
+  B. Vacant Land Adjustment
+  Mandatory Requirements:
+  C. Zoning Amendments (or redevelopment plans, if applicable): The Town will adopt all
+       proposed zoning amendments prior to the March 15, 2026 statutory deadline.
+  D. Affordable Housing Ordinance
+          a. The Town’s existing ordinance is attached and will remain in full force and effect
+             during the Fourth Round. The Town intends to modify its existing ordinance to require
+             a 20% affordable set aside for projects creating five or more rental or for-sale units.
+             The Town may also make additional modifications to the ordinance to comply with
+             new Fourth Round requirements or otherwise facilitate the development of affordable
+             housing. The updated ordinance will be adopted by the March 15, 2026 deadline.
+  E. Development Fee Ordinance
+          a. The Town’s existing ordinance is attached and will remain in full force and effect
+             during the Fourth Round. The Town will make all necessary modifications to this
+             ordinance to comply with any forthcoming Fourth Round requirements as updated
+             regulations and rules are released.
+  F. Affirmative Marketing Plan
+  G. Spending Plan
+  H. Resolution of intent to fund cost of municipality’s municipally sponsored affordable housing
+       development as well as its rehabilitation program
+          a. No municipally sponsored affordable housing development proposed. Resolution
+             regarding rehabilitation program to be provided following Council endorsement of
+             this HEFSP.
+  I.   Copies of resolutions appointing Administrative Agent(s) and ordinance creating the position
+       of and appointing the Municipal Affordable Housing Liaison
+  J. Evidence demonstrating affordability of Manahan Village
+  K. Evidence demonstrating affordability of Morristown Senior Village Apartments
+        MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 49 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                     48
+
+
+Appendix A – Decision and Order Fixing Obligation; Associated Program Settlement
+Recommendation; Associated Town Resolution
+        MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 50 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                     49
+
+
+Appendix B – Vacant Land Adjustment
+        MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 51 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                     50
+
+
+Appendix C – Zoning Amendments (or redevelopment plans, if applicable): Not
+applicable
+        MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 52 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                     51
+
+
+Appendix D – Affordable Housing Ordinance
+        MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 53 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                     52
+
+
+Appendix E – Development Fee Ordinance
+        MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 54 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                     53
+
+
+Appendix F – Affirmative Marketing Plan
+           MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 55 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                        54
+
+
+Appendix G – Spending Plan
+
+Introduction
+Pursuant to N.J.A.C. 5:99, a Spending Plan means “a method of allocating funds contained in an affordable
+housing trust fund account, which includes, but is not limited to, development fees collected and to be
+collected pursuant to an approved municipal development fee ordinance, or pursuant to N.J.S.A. 52:27D-
+329.1 et seq., for the purpose of meeting the housing needs of low- and moderate-income individuals.”
+
+
+All residential and non-residential development fees, payment in lieu of constructing affordable units,
+barrier-free escrow funds, recapture funds, proceeds from the sale of affordable units, rental income,
+repayments from affordable housing program loans, enforcement fines, unexpended RCA funds remaining
+from a completed RCA project, application fees, and any other funds collected by the municipality in
+connection with its affordable housing programs are deposited into this interest-bearing Affordable Housing
+Trust Fund (AHTF). These funds shall be spent in accordance with N.J.A.C. 5:99 or applicable regulations.
+
+
+Article 6B “Affordable Housing Trust Fund” of Chapter 30 of the Code of the Town of Morristown was
+established by Ord. No. O-25-2018(July 12, 2018) and amended by Ord. O-11-2023 (August 8, 2023). The
+purpose of this Spending Plan is to direct revenue generated from this source in a manner that addresses the
+Town’s regional fair share of the affordable housing need in accordance with the Municipal Land Use Law
+(N.J.S.A. 40:55D-1 et seq.), the Fair Housing Act (N.J.S.A. 52:27D-301) and the draft regulations governing
+affordable housing trust fund entitled Proposed New Rules: N.J.A.C. 5:99, which were available at the time of
+drafting this report.
+
+
+Authorization of Affordable Housing Trust Fund
+A municipality shall not spend, or commit to spend, any affordable housing trust funds, including Statewide
+non-residential fees collected and deposited into the municipal affordable housing trust fund, without first
+obtaining the approval of the expenditure as part of its compliance certification or by the Division pursuant
+to N.J.S.A. 52:27D-329.2. a (4). A municipality within the jurisdiction of the Program or a court of competent
+jurisdiction shall not spend affordable housing trust funds unless the Program has approved a plan for
+spending such funds in accordance with N.J.S.A. 52:27D-329.2. a(4) or the Division has approved spending
+plan expenditures for emergent opportunities to create affordable housing after a municipality has obtained
+compliance certification in conformance with N.J.A.C. 5:99-4.
+
+
+Account Requirements and Use of Funds (5:99-2.2 to 2.8)
+Account Requirements
+
+(a) All affordable housing trust funds shall be deposited in a separate, interest-bearing account. In
+establishing the account, the municipality shall provide written authorization, in the form of a three-
+party escrow agreement between the municipality, the bank or other financial institution, and the
+           MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 56 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                   55
+
+
+Division, to permit the Division to direct the disbursement of the funds, as provided for at N.J.A.C.
+5:99-5.6, shall be maintained at all times. This authorization shall be submitted to the Division within
+21 days from the opening of the trust fund account and/or within 21 days of any change in banks or
+other financial institutions in which trust funds are deposited.
+
+(b) With the approval of the Department's Division of Local Government Services, the municipality
+may invest its affordable housing trust fund in the State of New Jersey cash management fund,
+provided that the amount of money in the cash management fund that comprises the funds and
+income attributable to such funds shall at all times be identifiable.
+
+(c) All interest accrued in the affordable housing trust fund shall only be used on eligible affordable
+housing activities included in an approved spending plan or an emergent opportunity authorized
+by the Division.
+
+(d) A municipality within the jurisdiction of the Program or a court of competent jurisdiction shall
+not spend affordable housing trust funds unless the Program or a court of competent jurisdiction
+has approved a plan for spending such funds in accordance with N.J.S.A. 52:27D-329.2.a(4) or the
+Division has approved spending plan expenditures for emergent opportunities to create affordable
+housing after a municipality has obtained compliance certification in conformance with N.J.A.C.
+5:99-4.1.
+
+(e) Any municipality with an affordable housing trust fund account shall be subject to N.J.A.C. 5:99-
+4.
+
+(f) Municipal affordable housing trust funds shall not be expended:
+
+      1. To reimburse the municipality for activities that occurred prior to the authorization of a
+      municipality to collect development fees;
+
+      2. On attorney fees or court costs to obtain a judgment of compliance or order of repose,
+      including any associated administration costs;
+
+      3. On any costs in connection with a challenge to a determination of the municipality's fair
+      share obligation; or
+
+      4. On any costs in connection with a challenge to the municipality's obligation, housing
+      element, or fair share plan.
+
+(g) In addition to the restrictions at (f) above, no more than 20 percent of all affordable housing trust
+funds, exclusive of those collected prior to July 17, 2008, to fund an RCA, may be expended on
+administration, in accordance with N.J.A.C. 5:99-2.4.
+           MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 57 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                        56
+
+
+(h) A municipality shall set aside a portion of its affordable housing trust fund for the purpose of
+providing affordability assistance to low- and moderate-income households in affordable units
+included in a municipal fair share plan, in accordance with N.J.A.C. 5:99-2.5.
+
+(i) Compliant municipalities, Qualified Urban Aid Municipalities, or municipalities that have
+previously collected such funds while under the protection of presumptive validity of their
+affordable housing plan or immunity from exclusionary zoning litigation and in accordance with an
+approved spending plan are authorized to commit or expend affordable housing trust funds in
+accordance with this chapter, UHAC, and the Act.
+
+(j) A non-compliant Qualified Urban Aid Municipality meeting the criteria set forth in paragraph
+(1) of subsection c. of section 7 at P.L. 2024, c. 2, which has been authorized to collect residential
+development fees pursuant to N.J.A.C. 5:99-3.5(b), may not spend, or commit to spend, any
+affordable housing development fees, without first obtaining the Division's approval of the
+expenditure by submitting a spending plan for current funds in the municipal affordable housing
+trust fund and projected funds through the current round. The Division shall review the spending
+plan for consistency with N.J.A.C. 5:99-2 and shall notify the municipality upon the approval of the
+spending plan.
+
+Use of Funds for Housing Activity
+(a) A municipality may use affordable housing trust funds for any housing activity as itemized in the spending
+plan and approved by the Program or as approved by the Division as an emergent opportunity to create
+affordable housing. Such activities include, but are not limited to:
+
+       1. A rehabilitation program whose purpose is to renovate deficient housing units that are
+       occupied by low- and moderate-income households, in accordance with the New Jersey State
+       Housing Code, N.J.A.C. 5:28, or the requirements of the Rehabilitation Subcode, N.J.A.C. 5:23-
+       6, as applicable. Any recaptured funds from a rehabilitation program shall be deposited into
+       a municipality's affordable housing trust fund and subject to the provisions thereof;
+
+       2. New construction of affordable housing units and related development costs; in the case of
+       inclusionary developments, eligible costs shall be prorated based on the proportion of
+       affordable housing units included in the development;
+
+       3. Creation of a market to affordable program to pay down the cost of unrestricted units and
+       offer them in sound condition, for sale or rent, at affordable prices to low- and moderate-
+       income households to address all or a portion of the affordable housing obligation;
+
+       4. Extensions or improvements of roads and infrastructure directly serving affordable
+       housing development sites; in the case of inclusionary developments, costs shall be prorated
+       based on the proportion of affordable housing units included in the development;
+          MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 58 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                               57
+
+
+      5. RCAs, approved prior to July 17, 2008;
+
+      6. Acquisition and/or improvement of land to be used for affordable housing;
+
+      7. Accessory dwelling units;
+
+      8. The extension of expiring controls;
+
+      9. The construction of group homes and supportive and special needs housing;
+
+      10. Maintenance and repair of affordable housing units;
+
+      11. To defray the costs of structured parking; in the case of inclusionary developments,
+      eligible costs shall be prorated based on the proportion of affordable housing units included
+      in the development;
+
+      12. Affordability assistance in accordance with N.J.A.C. 5:99-2.5;
+
+      13. Repayment of municipal bonds issued to finance low- and moderate-income housing
+      activity;
+
+      14. Any other activity as specified in the approved spending plan or as approved by the
+      Division as an emergent affordable housing opportunity; or
+
+      15. Any other activity approved by the Division.
+
+Use of Funds for Administrative Expenses
+
+(a) No more than 20 percent of all affordable housing trust funds, exclusive of those collected prior
+to July 17, 2008, to fund an RCA, shall be expended on administration.
+
+(b) Administrative expenses may include costs reasonably related to the determination of the fair
+share obligation and the development of a municipal housing element and fair share plan and may
+include fees necessary to develop or implement affordable housing programs, an affirmative
+marketing program, and/or expenses that are reasonably necessary for compliance with the
+processes of the Program, including, but not limited to, the costs to the municipality of resolving a
+challenge pursuant to the Program.
+
+(c) Administrative expenses may also include costs associated with functions carried out in
+compliance with UHAC, including activities related to the marketing program and waitlist
+management, administering the placement of occupants in housing units, income qualification of
+           MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 59 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                   58
+
+
+households, monitoring the turnover of sale and rental units, preserving existing affordable
+housing, and compliance with the Division's monitoring requirements.
+
+(d) The proportion of a municipal employee's salary related to the MHL or RCA administrator
+functions and fees for required educational programs, may be paid as an administrative expense
+from the municipal affordable housing trust fund.
+
+Use of Funds for Affordability Assistance
+
+(a) A municipality shall set aside a portion of all development fees collected and interest earned for
+the purpose of providing affordability assistance to low- and moderate-income households in
+affordable units included in the municipality's fair share plan.
+
+      1. Affordability assistance for very-low-income households may include offering a subsidy to
+      developers of inclusionary or 100 percent affordable housing developments or buying down
+      the cost of low- or moderate-income units in a municipal fair share plan to make them
+      affordable to very low-income households, including special needs and supportive housing
+      opportunities.
+
+(b) A municipality may contract with a private or public entity to administer any part of its housing
+element and fair share plan, including the requirement for affordability assistance, or any program
+or activity for which the municipality expends development fee proceeds.
+
+Barrier-Free Escrow
+
+An affordable housing trust fund may include fees collected to adapt affordable unit entrances to be
+accessible in accordance with the Act and the Barrier Free Subcode, N.J.A.C. 5:23-7. The municipality
+shall set forth the mechanism by which it will collect and distribute funds intended to convert
+adaptable entrances in compliance with the technical design standards of the Barrier Free Subcode
+at N.J.A.C. 5:23-7. Funds collected for this purpose shall at all times be identifiable from other funds.
+A municipality that collects, or anticipates collecting, funds to adapt affordable unit entrances shall
+identify the funds on its monitoring report pursuant to N.J.A.C. 5:99-5.
+
+Payments in Lieu of Constructing Affordable Units On-Site
+
+(a) Payments in lieu of constructing affordable units shall not be imposed on any non-residential
+development.
+
+(b) A municipality that chooses to collect or anticipates collecting payments in lieu of constructing
+affordable units shall identify the funds on its monitoring report pursuant to N.J.A.C. 5:99-5.2 and
+include a plan for the use of the funds in its spending plan.
+          MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 60 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                59
+
+
+(c) Payment-in-lieu fees shall be deposited into the municipality's affordable housing trust fund but
+shall be accounted for separately from any other fees collected by a municipality. Whenever a
+payment-in-lieu fee is assessed by a municipality pursuant to this section, a development fee
+authorized pursuant to N.J.S.A. 52:27D-329.2 shall not be charged in connection with the same
+development.
+
+Other Funds
+
+(a) An affordable housing trust fund may also contain recaptured funds, proceeds from the sale of
+affordable units, rental income, repayments from affordable housing program loans, enforcement
+fines and application fees, and any other funds collected by the municipality in connection with its
+affordable housing programs. A municipality that collects, or anticipates collecting, such fees shall
+identify the funds on its monitoring report pursuant to N.J.A.C. 5:99-5 and include a plan for the use
+of the funds in its spending plan.
+
+(b) An affordable housing trust fund shall also contain any excess RCA funds, where the RCA has
+been completed in accordance with the RCA project plan.
+
+ (c) A municipality that is not a compliant municipality may not retain excess RCA funds and shall
+transfer any such funds to the New Jersey Affordable Housing Trust fund established pursuant to
+N.J.S.A. 52:27D-320.
+
+Morristown Spending Plan
+
+Revenues + Expenditures for Certification Period
+Morristown has considered the following AHTF revenue sources between the period of 2025-2035:
+
+   §   Development fees: Morristown analyzed five years (2019 to 2024) of residential and
+       nonresidential development fees deposited into the AHTF to determine the expected annual
+       fee. To help prepare an accurate annual estimate, Morristown removed fees associated with
+       two unique office projects that were determined to be outliers: M Station and 74 Speedwell
+       Avenue. Through this analysis of qualifying projects, we estimated an annual average
+       revenue of $188,812 to determine potential developer fees for the years of 2025 to 2035.
+           MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 61 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                  60
+
+
+                             Total         Adjusted
+            Year             Revenue       Revenue          Adjustments
+                      2024      $147,754         $147,754 None
+                                                          Removed M Station and 74
+                                                          Speedwell Avenue
+                                                          Development Fees (unique
+                                                          office projects not indicative of
+                      2023    $1,046,818         $109,822 typical year)
+                                                          Removed M Station and 74
+                                                          Speedwell Avenue
+                                                          Development Fees (unique
+                                                          office projects not indicative of
+                     2022      $686,420            $6,238 typical year)
+                     2021      $217,345          $217,345 None
+                     2020      $601,733          $601,733 None
+                     2019       $49,982           $49,982 None
+               Average Annual Adjusted
+                              Revenue            $188,812
+
+
+   §   Payment in lieu of constructing affordable units are not anticipated.
+   §   Barrier-free escrow funds are not anticipated.
+   §   Funds from other sources such as the sale of units with extinguished controls, repayment of
+       affordable housing program loans, rental income, or proceeds from the sale of affordable
+       units are not anticipated.
+
+
+Based on existing funds and anticipated revenue as described above, the municipality estimates
+the AHTF’s funds during the Fourth Round to amount to a revenue of $1,888,120.
+
+As such, Morristown intends to use affordable housing trust fund revenues in accordance with
+5:99-2.2 to 2.8, as follows:
+Revenues
+Current cash on hand as of December 2024                                                      $3,583,545
+Projected developer fee revenue
+                                                                                        +     $1,888,120
+(Average annual developer fees x 10 years)
+Projected payment in lieu of constructing affordable units                              +              $0
+Projected barrier-free escrow funds                                                     +              $0
+               MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 62 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                61
+
+
+ Projected recapture funds, sale of affordable units, rental income, repayments
+ from affordable housing program loans, enforcement fines, unexpended RCA
+ funds remaining from a completed RCA project, application fees, or any other       +                $0
+ funds collected by the municipality in connection with its affordable housing
+ programs
+ Projected Interest                                                                 +             $031
+ Projected Revenues                                                                 =       $5,471,665
+ Expenditures
+ Rehabilitation program whose purpose is to renovate deficient housing units
+                                                                                    -   ($1,400,000)
+ that are occupied by low- and moderate-income households
+ Affordability Assistance OR new construction of affordable housing units and
+                                                                                    -   ($2,977,332)
+ related development costs
+ Total Administration (Max. 20%)                                                    -   ($1,094,333)
+ Total Projected Expenditures                                                       =     $9,106,465
+ Remaining Balance                                                                  =             $0
+
+Potential Spending Strategies to Support Rehabilitation Programs
+The Town will continue to implement its Home Improvement Program, acknowledging that
+modifications may need to be made from time to time to ensure its continued viability including
+increasing the financial assistance provided per affordable unit.
+
+Potential Spending Strategies to Support Affordability Assistance
+Morristown may also use its Affordable Housing Trust Fund to support Affordability Assistance
+programs with particular focus on very-low income units. Programs may include a Three Months’
+Rent program, support security deposit assistance, and similar affordability assistance programs.
+
+Morristown may also pursue additional affordability assistance programs in accordance with
+N.J.A.C. 5:99-2.5.
+
+Potential Spending Strategies to Support New Construction of Affordable Housing Units
+Morristown will make funding available to entities that are pursuing the creation of new affordable
+housing units. Participants will be required to execute an agreement with the Town and fulfill a
+variety of administrative requirements to ensure the creditworthiness of the units. The Town will
+prioritize non-profit affordable housing developers, but for-profit affordable housing developers
+may also receive funding, particularly if they provide more than the required number of affordable
+housing units and/or more than the required number of very low-income units.
+
+
+31
+     Interest payments were accounted for in projected developer fee revenue.
+          MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 63 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                                 62
+
+
+No amendment to the Spending Plan shall be required for the Town to utilize its affordable housing
+trust fund for these purposes, provided the recipient enters into an agreement with the Town that is
+endorsed by the governing body.
+
+Excess or Shortfall of Funds
+The Town reserves the right to revise projections and anticipated funding commitments based
+upon actual revenues to the Affordable Housing Trust Fund and any revisions to the Housing
+Element and Fair Share Plan.
+
+In the event that a shortfall of anticipated revenues occurs, the municipality reserves the right to
+revise its Spending Plan accordingly.
+
+In the event of excess funds, any remaining funds above the amount necessary to satisfy the
+municipal affordable housing obligation will be used toward low- and moderate-income housing
+in accordance with 5:99-2.2 to 2.8 and the municipality reserves the right to revise its Spending
+Plan accordingly.
+         MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 64 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                      63
+
+
+Appendix H – Resolution of intent to fund cost of municipality’s municipally
+sponsored affordable housing development as well as its rehabilitation program
+
+No municipally sponsored affordable housing development proposed. Resolution regarding
+rehabilitation program to be provided following Council endorsement of this HEFSP.
+        MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 65 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                     64
+
+
+Appendix I – Copies of resolutions appointing Administrative Agent(s) and ordinance
+creating the position of and appointing the Municipal Affordable Housing Liaison
+        MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 66 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                     65
+
+
+Appendix J – Evidence demonstrating affordability of Manahan Village
+        MRS-L-000268-25 06/20/2025 1:33:51 PM Pg 67 of 67 Trans ID: LCV20251814469
+
+
+
+
+                                                                                     66
+
+
+Appendix K – Evidence demonstrating affordability of Morristown Senior Village
+Apartments
+

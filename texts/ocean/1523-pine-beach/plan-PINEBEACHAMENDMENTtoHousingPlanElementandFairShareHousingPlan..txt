@@ -1,0 +1,1771 @@
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 1 of 38 Trans ID: LCV2026684263
+
+
+
+
+                        Master Plan Amendment
+        Housing Plan Element and Fair Share Plan
+
+                                                  Borough of Pine Beach
+                                               Ocean County, New Jersey
+
+                                                                                  Prepared:
+                                                                              June 20, 2025
+
+                                                                                   Revised:
+                                                                          December 11, 2025
+
+
+
+                                                                               Prepared for:
+                                                      Borough of Pine Beach Land Use Board
+
+
+
+
+                                                                                Prepared by:
+
+
+
+
+                                                                  ___________________________
+                                                                  Mark Rohmeyer P.E., P.P., C.M.E.
+                                                                            Morgan Municipal, LLC
+                                                      137 Central Avenue, Island Heights, NJ 08732
+
+
+
+
+        Adopted on March 3, 2026 by the Borough of Pine Beach Land Use Board.
+            Endorsed on March 13, 2026   by the Pine Beach Borough Council.
+
+
+
+                     The original of this document has been signed
+                     and sealed in accordance with New Jersey Law.
+  OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 2 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                                                     Housing Plan Element and Fair Share Plan
+                                                                                                        Borough of Pine Beach, Ocean County
+
+
+
+Table of Contents
+HOUSING PLAN ELEMENT ................................................................................................ 1
+MANDATORY CONTENTS OF THE HOUSING PLAN ELEMENT ............................................................... 2
+ANALYSIS OF DEMOGRAPHIC, HOUSING, AND EMPLOYMENT CHARACTERISTICS...................... 3
+      PINE BEACH'S DEMOGRAPHICS ........................................................................................................ 4
+      PINE BEACH'S HOUSING STOCK.......................................................................................................... 6
+      PINE BEACH'S EMPLOYMENT AND INCOME CHARACTERISTICS.............................................. 8
+AFFORDABLE HOUSING OBLIGATION ........................................................................................................ 9
+             PRESENT NEED ..................................................................................................................................... 9
+       PRIOR ROUND OBLIGA TION ............................................................................................................. 10
+       PROSPECTIVE NEED............................................................................................................................. 11
+ABILITY TO ACCOMMODATE AFFORDABLE HOUSING OBLIGATION .............................................. 11
+             ANTICIPATED LAND USE PATTERNS .............................................................................................. 12
+             ANTICIPATED DEMAND FOR TYPES OF USES PERMITTED BY ZONING, BASED ON PRESENT
+             AND ANTICIPATED FUTURE DEMOGRAPHIC CHARACTERISTICS............................................... 12
+       AVAILABILITY OF EXISTING AND PLANNED INFRASTRUCTURE ............................................... 12
+       ECONOMIC DEVELOPMENT POLICIES .............................................................................................. 13
+       CONSTRAINTS ON DEVELOPMENT .................................................................................................... 13
+IDENTIFICATION OF AFFORDABLE HOUSING SITES ............................................................................... 13
+FAIR SHARE PLAN ............................................................................................................. 16
+             FULFILLMENT OF THE PRESENT NEED.............................................................................................. 16
+             FULFILLMENT OF THE UNMET NEED (PROSPECTIVE NEED OBLIGATIONS) ………………..16
+                           REDEVELOPMENT “MIXED-USE” OVERLAY ...............................................................................17
+                           MANDATORY SET-ASIDE ORDINANCE .........................................................................................17
+                    SCATTERED SITE PROGRAM ............................................................................................................18
+             SPENDING PLAN..................................................................................................................................... 18
+             ADMINISTRATIVE DOCUMENTS ......................................................................................................... 20
+
+VACANT LAND ANALYSIS REPORT ............................................................................ 22
+INTRODUCTION.................................................................................................................................................. 23
+PERMITTED EXCLUSIONS ............................................................................................................................... 24
+METHODOLOGY ................................................................................................................................................. 25
+             METHOD 1: ROSI (Registered Open Space Inventory) or Green Acres Designation ............................... 26
+             METHOD 2: Constructed / No longer vacant ........................................................................................... 26
+             METHOD 3: Minimum Lot Area to Meet Density ..................................................................................... 26
+             METHOD 4: Prior Round RDP ................................................................................................................. 29
+      METHOD 5: Landlocked Parcels .............................................................................................................. 29
+      METHOD 6: Environmentally Sensitive Lands .......................................................................................... 29
+SUMMARY & CONCLUSION ............................................................................................................................ 30
+APPENDICES ........................................................................................................................................................ 31
+             Vacant Land Inventory Table..................................................................................................................... 31
+             Vacant Land Map ........................................................................................................................................ 32
+             Existing Land Use Map .............................................................................................................................. 33
+
+
+
+
+                                              Page i (June 20, 2025, Rev. December 11, 2025)
+ OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 3 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                     Housing Plan Element and Fair Share Plan
+                                                                         Borough of Pine Beach, Ocean County
+
+
+List of Figures
+TABLE 1: POPULATION TRENDS ..................................................................................... 6
+TABLE 2: DEMOGRAPHIC INDICATORS ........................................................................ 7
+TABLE 3: POPULATION BY AGE ...................................................................................... 7
+TABLE 4: HOUSING UNIT TOTALS .................................................................................. 8
+TABLE 5: HOUSING PHYSICAL AND VALUE CHARACTERISTICS ...................... . 9
+TABLE 6: OCCUPATION OF EMPLOYED CIVILIAN POPULATION ...................... 10
+TABLE 7: HOUSEHOLD INCOME ................................................................................... 11
+
+
+
+
+                                  Page ii (June 20, 2025, Rev. December 11, 2025)
+ OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 4 of 38 Trans ID: LCV2026684263
+
+
+
+                                                        Housing Plan Element and Fair Share Plan
+                                                           Borough of Pine Beach, Ocean County
+
+
+
+Housing Plan Element
+The Borough of Pine Beach, Ocean County, has prepared this Housing Plan Element
+and Fair Share Plan as an amendment to the municipal master plan in accordance
+with the New Jersey Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.) and the New
+Jersey Fair Housing Act (N.J.S.A. 52:27D-310 et seq.).
+
+The Municipal Land Use Law requires that a municipal master plan include a
+housing plan element to enable the municipality to exercise the power to zone and
+regulate land use. The housing plan element is adopted by the municipal planning
+board and endorsed by the municipal governing body and is drawn to achieve the
+goal of meeting the municipal obligation to provide for a fair share of the regional
+need for affordable housing.
+
+This Housing Plan Element and Fair Share Plan amends the Borough's master plan
+to address current affordable housing planning requirements. It addresses the
+Borough's cumulative fair share obligation for the period from 2025 through 2035
+and supersedes and replaces the Housing Plan Element and Fair Share Plan that was
+previously adopted by the Borough's Land Use Board on March 28, 2017.
+
+The rules and regulations that have been followed to prepare this plan are the
+applicable provisions of the substantive rules of the New Jersey Council on
+Affordable Housing (COAH) for the periods beginning on June 6, 1994 (N.J.A.C. 5:93-
+1.1 et seq.) and on June 2, 2008 (N.J.A.C. 5:97-1.1 et seq.), as impacted and
+influenced by the March 10, 2015 decision of the New Jersey Supreme Court In the
+Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by COAH., 221 N.J. 1 (2015)("Mount
+Laurel IV"), In re Declaratory judgment Actions Filed By Various Municipalities, and
+a Settlement Agreement, dated October 6, 2016, between the Borough and the Fair
+Share Housing Center (hereinafter "FSHC Agreement"), which was approved by Hon.
+Mark A. Troncone, J.S.C. on November 18, 2016.
+
+
+
+
+                       Page 1 (June 20, 2025, Rev. December 11, 2025)
+ OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 5 of 38 Trans ID: LCV2026684263
+
+
+
+                                                       Housing Plan Element and Fair Share Plan
+                                                            Borough of Pine Beach, Ocean County
+
+
+Mandatory Contents of the Housing Plan Element
+
+The Municipal Land Use Law (N.J.S.A. 40:55D-1, et. seq.) provides that a municipal
+master plan must include a housing plan element as a prerequisite for the adoption
+of zoning ordinances and zoning amendments. This Housing Plan Element and Fair
+Share Plan was prepared in accordance with N.J.S.A. 40:55D-28. Pursuant to Section
+10 of the Fair Housing Act (N.J.S.A. 52:27D-310), a municipal housing plan element
+is to be designed to achieve the goal of providing access to affordable housing to
+meet present and prospective housing needs, with particular attention to "low" and
+"moderate" income housing.
+
+The New Jersey Municipal Land Use Law, N.J.S.A. 40:55D-1 to -136 (MLUL) and the
+New Jersey Fair Housing Act, N.J.S.A. 52:27D-301 to -329 (FHA) require every
+municipal planning board to adopt a housing plan element as part of its master plan
+and permit the board to adopt a fair share plan as a component to the housing plan
+element. Once adopted, the fair share plan may be endorsed by the governing body
+and thereafter filed with COAH or the courts for review and approval. To be
+approved, the fair share plan must address the municipal present and prospective
+housing needs, "with particular attention to low- and moderate-income housing."
+
+The Borough of Pine Beach has prepared this Housing Plan Element and Fair Share
+Plan in response to Mount Laurel IV, and at the direction of the Ocean County
+Superior Court. This Housing Plan Element and Fair Share Plan has been prepared
+in accordance with the provisions of N.J.A.C. 5:93, as outlined in the Mount Laurel
+IV decision, and with the provisions of the FSHC Agreement and the order
+approving same entered by the Court on November 14, 2016.
+
+In accordance with the Fair Housing Act at N.J.S.A. 52:27D-310, a housing plan element
+shall contain at least the following:
+
+   •   An inventory of the municipality's housing stock by age, condition, purchase
+       or rental value, occupancy characteristics, and type, including the number of
+       units affordable to low and moderate income households and substandard
+       housing capable of being rehabilitated, and in conducting this inventory the
+       municipality shall have access, on a confidential basis for the sole purpose
+       of conducting the inventory, to all necessary property tax assessment records
+       and information in the assessor's office, including but not limited to the
+       property record cards;
+
+   •   A projection of the municipality's housing stock, including the probable
+       future construction of low- and moderate-income housing, for the next ten
+       years subsequent to the adoption of the housing plan element, taking into
+       account, but not necessarily limited to, construction permits issued,
+       approvals of applications for development and probable residential
+       development of lands.
+
+
+
+                          Page 2 (June 20, 2025, Rev. December 11, 2025)
+ OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 6 of 38 Trans ID: LCV2026684263
+
+
+
+                                                             Housing Plan Element and Fair Share Plan
+                                                                Borough of Pine Beach, Ocean County
+
+
+   •   An analysis of the municipality's demographic characteristics, including but
+       not necessarily limited to, household size, income level, and age.
+
+   •   An analysis of the existing and probable future employment characteristics
+       of the municipality.
+
+   •   A determination of the municipality's present and prospective fair share for
+       low- and moderate-income housing and its capacity to accommodate its
+       present and prospective housing needs, including its fair share for low- and
+       moderate-income housing.
+
+   •   A consideration of the lands that are most appropriate for construction of
+       low- and moderate-income housing and of the existing structures most
+       appropriate for conversion to, or rehabilitation for, low- and moderate-
+       income housing, including a consideration of lands of developers who have
+       expressed a commitment to provide low- and moderate-income housing.
+
+The preparation and submission of a housing plan element of a municipality's Master Plan,
+and a Fair Share Plan, is the first major step in the process for seeking the approval of same
+by the Court via a Judgment of Compliance and Repose. Affordable Housing regulations
+define "Fair Share Plan" as follows:
+
+       "Fair Share Plan" means that plan or proposal which is in a form that may
+       readily be converted into an ordinance, by which a municipality proposed to
+       satisfy its obligation to create a realistic opportunity to meet its fair share of
+       low and moderate income housing needs of its region and which details the
+       affirmative measures the municipality proposes to undertake to achieve its
+       fair share of low and moderate income housing, as provided in sections 9
+       and 14 of the Act, addresses the development regulations necessary to
+       implement the housing element, and addresses the requirements of N.J.A.C.
+       5:93-7 through 11.
+
+This Housing Plan Element and Fair Share Plan satisfies all of the applicable requirements
+set forth within the MLUL, the FHA, applicable COAR regulations, Mount Laurel IV, in re
+Declaratory Judgment Actions Filed by Various Municipalities, and the FSHC Agreement.
+
+
+
+Analysis of Demographic, Housing, and Employment
+Characteristics
+
+As required by N.J.S.A. 52:27D-310, all housing plan elements must contain a
+discussion of the municipality's demographic, housing, and economic
+characteristics. The following subsections fulfill this requirement by providing a
+profile of the Borough of Pine Beach with information from the US Census Bureau
+
+
+                       Page 3 (June 20, 2025, Rev. December 11, 2025)
+ OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 7 of 38 Trans ID: LCV2026684263
+
+
+
+                                                            Housing Plan Element and Fair Share Plan
+                                                               Borough of Pine Beach, Ocean County
+
+
+
+(incl., the 2020 US Census and 2019-2023 American Community Survey), the New
+Jersey Department of Labor and Workforce Development, and the North Jersey
+Transportation Planning Authority.
+
+Pine Beach's Demographics
+
+The Borough of Pine Beach had a population of 2,378 residents at the time of the
+2023 ACS 5-Year Estimates provided by the US Census. This figure represents a
+9.1 percent increase over the 2010 US Census population figure of 2,127, which
+represented a 9.1 percent increase from the 2000 US Census population figure of
+1,950. By comparison, Ocean County's population grew by 10.5 percent during the
+period between 2010 and 2020, and 17.9 percent between 1990 and 2000. Table 1
+shows the rate of growth experienced by Pine Beach and Ocean County from 1990
+through 2023.
+
+                          Table 1: Population Trends, 1930-2023
+
+                                                                Percent
+                   Borough of Pine Beach, Ocean
+                           County, NJ              Year         Change
+
+
+                   1930                      .             72         —
+
+                   1940                                   163         126.4%
+
+                   1950                                   495         203.7%
+
+                   1960                                   985             99.0%
+
+                   1970                                1,395              41.6%
+
+                   1980                                1,796              28.7%
+
+                   1990                                1,954              8.8%
+
+                   2000                                1,950              -0.2%
+
+                   2010                                2,127              9.1%
+
+                   2020                                2,139              0.6%
+
+                   2023                                2,378              11.2%
+
+                  Source: US Census Bureau
+
+According to the 2023: ACS 5-Year Estimates US, the Borough's population is
+composed of 962 households with an average household size of 2.45 members (Table
+2). The average household size is smaller than the State of New Jersey's and Ocean
+County’s average of 2.68 and 2.65 persons per household, respectively. The
+Borough's percentage of population over 65 years of age (25.9 percent) is higher than
+at the county level (23.0%) and the state level (17.7%). The median age of the
+Borough's population of 53.6 years is also higher than the county and state median
+ages of 41.1 years and 40.4 years, respectively.
+
+                     Page 4 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 8 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                    Housing Plan Element and Fair Share Plan
+                                                                       Borough of Pine Beach, Ocean County
+
+
+
+                               Table 2: Demographic Indicators, 2023
+
+                                                                                              Percent of
+                                     Number of          Average
+                                                                             Median Age       Population
+                                    Households       Household Size
+                                                              .                                65 Years·
+
+ Borough of Pine Beach                         962                2.45                44.9             25.9%
+
+ Ocean County                              245,827                2.65                42.6             23.0%
+
+ New Jersey                              3,538,457                2.68                40.4             17.7%
+
+ Source: US Census Bureau
+
+
+As shown in Table 3, there were 109 pre-school age residents in 2023, or 4.6
+percent of the Borough's population. School age children accounted for 318
+residents, or 13.4 percent of the total population. Working aged persons accounted
+for 56.2 percent of the Borough's population, with 1,334 individuals. Seniors aged
+65 years and older accounted for 25.9 percent of Pine Beach's population, with 617
+individuals.
+
+                                   Table 3: Population by Age, 2023
+
+                                                              Number                         Percent
+
+ Pre-School Age          .
+ Under 5 Years                                                                 109                      4.6%
+
+ School Age
+
+ 5 to 9 Years                                                                  130                      5.5%
+
+ 10 to 14 Years                                                                 83                      3.5%
+
+ 15 to 19 Years                                                                105                       4.4%
+
+ Working Age
+ 20 to 24 Years                                                                144                       6.1%
+
+ 25 to 34 Years                                                                 86                       3.6%
+
+ 35 to 44 Years                                                                289                      12.2%
+
+ 45 to 54 Years                                                                305                      12.8%
+
+ 55 to 59 Years                                                                164                       6.9%
+
+  60 to 64 Years                                                               346                      14.6%
+                                                                         .
+  Senior Age
+  65 Years and Older                                                            617                     25.9%
+
+Source: US Census Bureau
+
+
+
+
+                             Page 5 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 9 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                Housing Plan Element and Fair Share Plan
+                                                                   Borough of Pine Beach, Ocean County
+
+
+
+Pine Beach's Housing Stock
+
+According to 2023 ACS Survey, Pine Beach had a total of 1,065 housing units (Table
+4). This was an increase of 162 units since 2010, from 903 units. Of this total, 962
+units (90.3 percent) were listed as occupied; owners occupied 96.4 percent of these
+units, and renters occupied 3.6 percent.
+
+Of the total of 962 occupied households, the average household size was 2.34
+persons, and the average family size was 3.0 persons. Of the total number of
+households, family households accounted for 671 units and non-family household
+accounted for 201 units. Householders 65 years of age or older were present in 286
+(29.7 percent) of households.
+
+
+
+             Table 4: Housing Unit Totals and Occupancy Characteristics, 2023
+
+
+                                                           Number                   Percent
+
+ I. Housing Units
+
+ Number of units                                                      1,065                   100.0%
+
+ Occupied Housing Units                                                    962                90.3%
+
+ Vacant Housing Units                                                      103                  9.7%
+
+ II. Occupancy/Household Characteristics
+
+ Number of Households                                                      962                100.0%
+
+ Average Persons Per Household                                         2.34                      N/A
+
+ Average Persons Per Family                                                3.0                   N/A
+
+ Family Households                                                         671                 79.1%
+
+ Non-Family Households                                                     201                 20.9%
+
+ Householders 65 and over                                                  286                 29.7%
+
+ Source: US Census Bureau
+
+With regard to the age of the Borough's housing stock, it is noted that a total of 24.4
+percent of all housing units were constructed in 1980 or later, and a total of about
+8.9 percent of all housing units were constructed in 2000 or later (Table 5). It is also
+noted that the housing stock has zero (0) units lacking complete plumbing facilities,
+zero (0) units exhibiting overcrowded conditions (i.e., having at least 1.01 persons
+per room), and zero (0) units lacking complete kitchen facilities. The source of this
+information is the 2019-2023 American Community Survey of the US Census
+Bureau.
+
+
+                          Page 6 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 10 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                 Housing Plan Element and Fair Share Plan
+                                                                    Borough of Pine Beach, Ocean County
+
+
+
+In addition to the above, it is noted that the 2019-2023 American Community
+Survey of the US Census Bureau indicates that the median value of the owner-
+occupied housing units in Pine Beach is $438,300. This is higher than the median
+value of $408,000 in Ocean County, but lower than the median value of $461,000 in
+the State of New Jersey. The 2019-2023 American Community Survey of the US
+Census Bureau also indicates that Pine Beach's median gross rent is $1,219 per
+month; this is lower than the median gross rents of $1,667 in the State of New
+Jersey and the median gross rent of $1,692 in Ocean County.
+
+
+
+   Table 5: Housing Physical and Value Characteristics, American Community Survey
+                           (2019-2023 Five-year Estimates)
+
+                                                             Number                   Percent
+
+ I. Year Structure Built (2019-2023 American Community Survey)
+
+ 2020 or later                                                                8                  0.8%
+
+ 2010 or 2019                                                                26                  2.7%
+
+ 2000 to 2009                                                                52                  5.4%
+
+ 1980 to 1999                                                               149                 15.5%
+
+ 1960 to 1979                                                               207                 21.5%
+
+ 1940 to 1959                                                               226                 23.5%
+
+ 1939 or earlier                                                            294                 30.6%
+II. Condition of Units and Overcrowding (2019-2023 American Community Survey)
+
+ lacking complete plumbing facilities                                         0                    0%
+
+ lacking complete kitchen facilities                                          0                    0%
+
+ Overcrowding (units with 1.01 persons/room}                                  0                    0%
+
+ Ill, Median Home Value (Owner-Occupied Units; 2019-2023 American Community Survey)                 .
+
+ Median Value                                                         438,300
+
+ IV. Median Gross Rent (Renter-Occupied Units; 2019-2023 American Community Survey)
+
+ Median Gross Rent                                                         1,219
+
+ Source: US Census Bureau
+
+
+
+
+                          Page 7 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 11 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                  Housing Plan Element and Fair Share Plan
+                                                                     Borough of Pine Beach, Ocean County
+
+
+
+Pine Beach's Employment and Income Characteristics
+
+According to the 2019-2023 American Community Survey of the US Census Bureau,
+1,385 of Pine Beach's residents aged 16 years and over were employed in the
+civilian labor force. A total of 45.7 percent of those who were employed in the
+civilian labor force were involved in management, business, science, and arts
+occupations, while approximately 17.7 percent were employed in sales and office
+related occupations. Service occupations employed 22.2 percent of Pine Beach
+residents that were employed in the civilian labor force. Natural resources,
+construction, and maintenance occupations employed 6.4 percent of the Borough's
+residents, whereas production, transportation, and material moving occupations
+employed 8.1 percent of the Borough's residents.
+
+     Table 6: Occupation of Employed Civilian Population, 16 and Over, American
+                 Community Survey (2019-2023 Five-Year Estimates)
+
+                                                                             Number       Percent
+                                            .
+                Management, Business, Science, and Arts Occupations               611         45.7%
+                       .                               ·.
+                                            Sales and Office Occupations          236         17.7%
+
+                                                   Service Occupations            296         22.2%
+                                        .
+       Natural Resources, Construction, and Maintenance Occupations                85           6.4%
+
+         Production, Transportation, and Material Moving Occupations              108           8.1%
+
+ Source: US Census Bureau
+
+
+Regarding the number of jobs that are located within the Borough, it is noted that
+the New Jersey Department of Labor indicates that there was an average of 221 jobs
+located within the municipality in 2015, which is the latest available data. This is
+down 114 jobs over the 2010 average of 335 jobs. The Department of Labor's basis
+for this information is the number of jobs that are covered by public unemployment
+and disability insurance.
+
+The number of jobs in Pine Beach is expected to grow throughout the future. This is
+indicated by recent projections of the North Jersey Transportation Planning
+Authority, which projects a total of 323 jobs by 2050.
+
+Regarding household income, it is noted that Pine Beach's median household
+income, as reported by the 2019-2023 American Community Survey of the US
+Census Bureau, is $121,333. This was $34,389 more than the 2015 median
+household income of $86,944. Table 7 provides complete information on the
+income of Pine Beach's households.
+
+
+
+
+                            Page 8 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 12 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                     Housing Plan Element and Fair Share Plan
+                                                                        Borough of Pine Beach, Ocean County
+
+
+
+
+       Table 7: Household Income, American Community Survey (2019-2023 Five-Vear
+                                        Estimates)
+
+                                                                Number                     Percent
+
+                                    Less than $10,000                           7                       0.7%
+
+                                   $10,000 to $14,999                          30                       3.1%
+
+                                   $15,000 to $24,999                           0                       0.0%
+
+                                   $25,000 to $34,999                          44                       4.6%
+
+                                   $35,000 to $49,999                           29                      3.0%
+
+           .           .           $50,000 to $74,999                          156                     16.2%
+
+                                   $75,000 to $99,999                          135                    14.0%
+
+                                 $100,000 to $149,999                          302                    31.4%
+
+                  .                 $150,000 or More                           259                     26.9%
+
+               Median Household Income (2023 Dollars)                    121,333                         N/A
+
+     Source: US Census Bureau
+
+
+
+
+Affordable Housing Obligation
+The Borough's affordable housing obligation is described in the following
+subsections.
+
+Present Need
+
+The present need is a measure of overcrowded and deficient housing that is occupied by
+low- and moderate-income households.1 The present need has previously been called
+"rehabilitation share." The present need for the Borough of Pine Beach is zero (0) units.
+Through investigation within the town, using both the collected Census data and Google Maps
+imagery captured in August of 2025, we found that no sites had met the criteria for overcrowded or
+deficient housing in need of rehabilitation.
+
+
+ 1     It is acknowledged that a January 18, 2017 ruling of the New Jersey Supreme Court has modified the
+       definition of "present need" to include " ... an analytic component that addresses the affordable
+       housing need of presently existing New Jersey low- and moderate-income households, which formed
+       during the gap period and are entitled to their delayed opportunity to seek affordable housing."
+       However, the township entered into a settlement agreement with the Fair Share Housing Center that
+       was approved by the court before the January 18, 2017 New Jersey Supreme Court ruling.
+       Consequently, this Housing Plan Element and Fair Share Plan continues to define "present need" as a
+       measure of overcrowded and deficient housing that is occupied by low- and moderate-income
+       households and in need of rehabilitation.
+
+                              Page 9 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 13 of 38 Trans ID: LCV2026684263
+
+
+
+                                                             Housing Plan Element and Fair Share Plan
+                                                                Borough of Pine Beach, Ocean County
+
+
+
+Within Census Data, it was discovered that no households within Pine Beach are underserviced
+through utilities and there are no overcrowded housing units (American Community Survey 5 Year
+Estimates B25002).
+
+Our office also investigated the Group Homes which currently exist within town to determine if
+they are overcrowded of deficient for housing. Four group homes exist within Pine Beach, and
+none were found to be overcrowded or deficient.
+  1. "AMIB" 721 Midland Ave - BL:31 x L:30 Assoc Multiple Impaired-Blind INC
+  2. "21 Plus" 409 Wayne Ave - BL:73 x L:56 21 Plus Inc.
+  3. "Bright Harbor" 301 Wayne - BL:73 x L:1 Bright Harbor Healthcare
+  4. "AMIB" 515 Merion Ave - BL:48 x L:11 Assoc Multiple Impaired-Blind INC
+
+
+Prior Round Obligation
+
+The prior round obligation covers the period from 2000 through 2024 and is a
+municipality's adjusted third round new construction obligation carried forward to
+the fourth round. The Borough's prior round obligation is zero (0) units.
+
+The entirety of the third-round obligation was met through the construction of an
+O.C.E.A.N. Inc. apartment building with 100% affordable housing throughout its total
+of 6 units. The NJ Department of Community Affairs certified this property on
+1/3/2022. This is pictured below along with further information on the Affordable
+Housing property.
+
+
+
+
+                       Page 10 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 14 of 38 Trans ID: LCV2026684263
+
+
+
+                                                            Housing Plan Element and Fair Share Plan
+                                                               Borough of Pine Beach, Ocean County
+
+
+
+Pictured below is a Google Maps Image of the completed O.C.E.A.N. Inc. Affordable
+                                 Housing Project.
+
+
+
+
+Pictured below is the Certificate of Occupancy for the apartment Building that fulfilled
+                             the previous round obligation.
+
+
+
+
+                      Page 11 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 15 of 38 Trans ID: LCV2026684263
+
+
+
+                                                            Housing Plan Element and Fair Share Plan
+                                                               Borough of Pine Beach, Ocean County
+
+
+
+ Pictured below ist he Pine Beach Borough Resolution for the affordable housing project
+             which fulfilled the previous, Third, round of affordable housing.
+
+
+
+
+                      Page 12 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 16 of 38 Trans ID: LCV2026684263
+
+
+
+                                                            Housing Plan Element and Fair Share Plan
+                                                               Borough of Pine Beach, Ocean County
+
+
+
+Prospective Need
+
+The prospective need is a measure of low- and moderate-income housing needs,
+based on development and growth that occurred or is reasonably likely to occur in a
+region or municipality. The prospective need covers the period from 2025 through
+2035. The township’s prospective need is thirty (30) units, this is established by the
+New Jersey Department of Community Affairs.
+
+
+Ability to Accommodate Affordable Housing Obligation
+The Borough lacks vacant, developable land that is suitable for residential use. Pine
+Beach anticipates that future development and growth will predominantly be limited to
+redevelopment activity (incl., reconstruction of existing housing), as well as infill
+development and expansions as may be permitted under the Borough’s zone plan. Further
+changes and residential development within the Borough will be incremental, small in
+scale, and on scattered sites. The compliance mechanisms included in the Borough’s
+Housing Plan Element and Fair Share Plan provide as much affordable housing as
+possible, given the Borough’s development character, to meet the Borough’s affordable
+housing obligation.
+
+
+Anticipated Land Use Patterns
+
+The Borough of Pine Beach is a fully developed community with an established
+pattern of land use, small lots and a limited capacity for growth. The anticipated
+land use pattern is expected to be consistent with the adopted land use and zone
+plans of the Borough.
+
+
+
+Anticipated Demand for Types of Uses Permitted by Zoning, Based on Present
+and Anticipated Future Demographic Characteristics
+
+According to 2023 US Census data, 103 of the 1,065 housing units in Pine Beach were
+vacant. Of these 103 vacant housing units, 91, or 8.5 percent of the total housing stock
+were for seasonal, recreational, or occasional use. The 2023 percentage of seasonal,
+recreational, or occasional use housing in the Borough highlights an increase from the
+total recorded in the 2010 US Census, where seasonal, recreational, or occasional use
+housing comprised 55 of 85 vacant units, of the total 903 housing units in the Borough,
+or six (6) percent of the total housing stock.
+
+As has been previously demonstrated, Pine Beach’s population has grown in the
+period since 2000. Indeed, in the period from 2000 to 2023, the Borough’s
+population grew by approximately 428 residents, or around 22 percent. The North
+Jersey Transportation Planning Authority projects that the Borough’s population
+
+
+                      Page 13 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 17 of 38 Trans ID: LCV2026684263
+
+
+
+                                                            Housing Plan Element and Fair Share Plan
+                                                               Borough of Pine Beach, Ocean County
+
+
+
+could drop to 2,303 by 2050, which represents a decrease of 75 residents, or
+around 3.2 percent, over the population of 2,378 that was reported in the 2010 US
+Census.
+
+Since Pine Beach is a developed community, the projected residential and non-
+residential growth is expected to be the result of limited infill and small-scale
+private redevelopment efforts.
+
+
+
+Availability of Existing and Planned Infrastructure
+
+The Borough is a fully developed community and has a developed infrastructure.
+Water and sewer service are available within the Borough. As has been previously
+stated, Pine Beach anticipates that future development and growth will
+predominantly be limited to redevelopment activity (incl., reconstruction of existing
+housing), as well as infill development and expansions as may be permitted under
+the Borough’s zone plan.
+
+
+Economic Development Policies
+
+The Borough has limited land for commercial development; however, the Borough
+has encouraged owners in the Business Highway Zone to improve their properties.
+The goal for economic development in the Borough’s Master Plan, adopted in
+1995, is to enhance and expand the Borough’s economic base by promoting the
+growth of business for employment opportunities and purposes. The objective of
+this goal is to promote economic development by encouraging redevelopment
+efforts such as infill, land assembly, public/private partnerships and infrastructure
+improvements.
+
+The Borough policy is to provide for economic development that is beneficial to
+the community, permitted by the Borough zone plan, and compatible with the
+overall goals and objectives of the Borough’s master plan. The Borough has an
+existing Inclusionary Development policy within its B-1 zone.
+
+
+Constraints on Development
+
+The Borough contains several environmental features that are constraints to
+development, including water bodies and flood hazard areas. Generally, these
+environmentally constrained areas are located along the Toms River. The Borough
+also contains areas in the CAFRA Zone, which results in additional regulatory
+constraints on development.
+
+In the three previous rounds, COAH granted the Borough a Vacant Land Adjustment
+
+                      Page 14 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 18 of 38 Trans ID: LCV2026684263
+
+
+
+                                                            Housing Plan Element and Fair Share Plan
+                                                               Borough of Pine Beach, Ocean County
+
+
+
+each of the times it approved the Borough’s Housing Plan Element and Fair Share
+Plan, due to the lack of land within the Borough that is suitable for the development
+of affordable housing. As such, COAH assigned the Borough a zero (0)-unit Realistic
+Development Potential (RDP), which was reaffirmed in the FSHC Agreement.
+
+For the Fourth Round, the municipality is unable to identify a site suitable for
+realistic development within the Borough.
+
+
+Identification of Affordable Housing Sites
+Through the Vacant Land Analysis Report, found later in this document, there are no
+vacant lots of sufficient size and suitability to support a new development with
+affordable housing. The Borough is almost completely developed and there are no
+large, underdeveloped tracts available for low to moderate income housing.
+
+The Borough will address its unmet need of (28) units through a combination of
+credits from existing affordable units, a proposed municipally sponsored project, an
+existing inclusionary zoning overlay in the Borough’s B-1 (Business Highway) Zone,
+as well as the existing municipal-wide inclusionary zoning ordinance. The most
+impactful way the Borough will address its need is through adding an overlay in the
+B-1 Zone to include Mixed-Use developments with retail opportunities on the ground
+floor and apartments on the floors above.
+
+
+
+Parcels Likely to be Redeveloped
+
+It is our opinion that the entirety of the B-1 Business Zone, especially along Route 9,
+is likely to be redeveloped. This is due to the ages of both the buildings and
+surrounding sites along with a growing population in the area that is underserved by
+the current makeup of the Business Zone. Below is the zoning map with the B-1 zone
+highlighted for reference.
+
+
+
+
+                      Page 15 (June 20, 2025, Rev. December 11, 2025)
+    OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 19 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                Housing Plan Element and Fair Share Plan
+                                                                   Borough of Pine Beach, Ocean County
+
+
+
+
+Fair Share Plan
+The fair share plan outlines the mechanisms by which the Borough proposes to fulfill its:
+present and prospective needs, which is a measure of overcrowded and deficient housing
+that is occupied by low- and moderate-income households1; prior round obligation; and,
+prospective need, which is a measure of low and moderate-income housing needs based
+on development and growth that occurred or is reasonably likely to occur in a region or
+municipality. This plan will also demonstrate how the Borough is creating a realistic
+opportunity for satisfaction of its RDP and how it is taking appropriate action to address its
+unmet need.
+
+
+
+Fulfillment of the Present Need
+
+As has been previously noted, the Borough’s present need is zero (0) units.
+
+
+
+Fulfillment of the Unmet Need (Prospective Need Obligations)
+
+The difference between the Borough’s affordable housing obligation and its RDP is known
+as unmet need. Pine Beach’s unmet need is calculated as the sum of its prior round
+obligation and prospective need. The prior round obligation covers the period from 2000
+through 2024, and is a municipality’s adjusted third round new construction obligation
+carried forward to the fourth round. The Borough’s prior round obligation is (0) units.
+
+The prospective need is a measure of low- and moderate-income housing needs, based on
+development and growth that occurred or is reasonably likely to occur in a region or
+municipality. The prospective need covers the period from 2025 through 2035. The
+township’s prospective need is (30) units.
+
+The Borough has applied the standards set forth in N.J.A.C. 5:93-4.2 to determine its
+entitlement to a Vacant Land Adjustment to the cumulative (30) units of prospective need.
+Resulting from that analysis, the Borough has determined that it is entitled to adjust its
+cumulative prospective need to (0) units, leaving the Borough with an RDP of (5) units and
+an unmet need of (25) units.
+
+The resulting unmet need from the prior round obligation and prospective need is (25)
+units. The Borough proposes to address its unmet need through multiple avenues
+including;
+
+
+
+
+                          Page 16 (June 20, 2025, Rev. December 11, 2025)
+    OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 20 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                 Housing Plan Element and Fair Share Plan
+                                                                    Borough of Pine Beach, Ocean County
+
+
+
+Redevelopment “Mixed-Use” Overlay
+
+There is an existing inclusionary overlay in the Borough’s B-1 (Business Highway) Zone.
+This inclusionary redevelopment overlay in the B-1 Zone calls for 20% of all new units in
+apartments buildings to be set-aside for low- and moderate-income housing. This can be
+found in Pine Beach’s municipal code § 175-61A(3).
+
+The Borough will adopt a new overlay zone that allows for “Mixed-Use” to be built within
+the B-1 Zone. This Mixed-Use zone will also require a minimum of 20% of all new
+residential units in a mixed-use project to be designated Affordable Units.
+
+“Mixed-Use” shall be defined as a combination of uses where commercial, cultural, or
+entertainment exists on the ground floor and the floors above are utilized for residential
+apartment buildings.
+
+This new use is to be included in a new Borough ordinance section § 175-61A(6) and state
+the following: “Mixed-Uses, when meeting the following conditions, are permitted under
+this use group:”
+
+The following guidelines and conditions are the basis of what will dictate the building of
+Affordable Units within Mixed-Use, commercial and residential, buildings.
+
+
+
+ Minimum Lot Area (Square Feet)                       15,800
+
+ Maximum Density (du/Acre)                            18
+
+ Minimum Lot Width (Feet)                             100
+
+ Minimum Lot Depth (Feet)                             100
+
+ Minimum Front Yard Setback (Feet)                    10
+
+ Minimum Side Yard Setback (Feet)                     10
+
+ Minimum Rear Yard Setback (Feet)                     10
+
+ Maximum Lot Coverage                                 35%
+
+ Maximum Height (Feet)                                45
+
+ Maximum Height (Stories)                             3
+
+ Minimum Residential Unit Total Size                  600
+ (Square Feet)
+
+
+                           Page 17 (June 20, 2025, Rev. December 11, 2025)
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 21 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                  Housing Plan Element and Fair Share Plan
+                                                                     Borough of Pine Beach, Ocean County
+
+
+  Minimum Width Per Resodential Unit                    20
+  (Feet)
+
+  Minimum Setback from Internal Streets                10
+  (Feet)
+
+  Maximum Residential Units Per Structure              30
+
+  Maximum Building Length (Feet)                       250
+
+  Minimum Outside Access Points                        2
+
+  Minimum Affordable Set-Aside                         20%
+
+Note 1: A ten foot buffer along all side and rear property lines shall be established for any
+Mixed-Use building abutting any residential zone.
+
+Note 2: All exterior trash receptacles shall be conveniently located and conform to all local
+and county rules and regulations regarding recycling.
+
+Note 3: Any Mixed-Use project shall include minimum set-aside of 20% affordable units.
+The units shall be integrated with the market-rate units. Affordable units are regulated by
+Chapter 48 of the Pine Beach Borough Code and applicable rules and regulations of the State
+of New Jersey and Court requirements.
+
+ Realistic Impact
+
+The overlay zone as detailed above creates an realistic opportunity for affordable housing.
+
+Based on the actual lot areas within the B-1 Zone, there is a total of 585,723.27 sq. ft.
+= 13.44 ACRES
+
+[Subtracting out 1.44 acres from 3rd Round Project OCEAN INC.] = a total proposed area
+of 12 acres in the B-1 Zone
+
+Now using the proposed density of 18 units/acre…would permit up to (216) total units
+including (20% affordable 43 units ) for the 4th round with our proposed overlay.
+
+For the 4th Round Affordable Housing, the State calculated a prospective need of (30)
+units, therefore with the proposed overlay of the entire B-1 Zone (subtracting the 3rd
+Round site), there is still ample land available to meet the needs.
+
+
+
+
+                            Page 18 (June 20, 2025, Rev. December 11, 2025)
+OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 22 of 38 Trans ID: LCV2026684263
+
+
+
+                                                        Housing Plan Element and Fair Share Plan
+                                                           Borough of Pine Beach, Ocean County
+
+
+
+
+                  Page 19 (June 20, 2025, Rev. December 11, 2025)
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 23 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                 Housing Plan Element and Fair Share Plan
+                                                                    Borough of Pine Beach, Ocean County
+Mandatory Set-Aside Ordinance
+
+The Borough will establish a mandatory set-aside ordinance that requires all residential
+development (containing 5 or more units), including approvals of use or density
+variances, site plans, or subdivisions; redevlopment projects subject to a redevelopment
+plan adopted by the Borough Council that governs the development and redevelopment of
+designated areas in need of rehabilitation or areas in need or redevelopment in the
+Borough; and substantial revisions to previously approved developments, to have a 20%
+set-aside for the affordable units, regardless of whethere they are for-sale or rental. All
+affordable units shall be restricted, regulated, and administered consistent with the
+Borough’s affordable housing regulations, the Uniform Housing Affordability Controls
+and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.).
+
+Scattered Site Program
+
+The Borough will establish the “Pine Beach Scattered Site Program”.
+
+The Borough will create a program to involve affordable housing units (often single-
+family homes) spread throughout regular neighborhoods, managed by local Public
+Housing Authorities (PHAs) or non-profits, offering a path to ownership or rentals via
+programs like Section 8, with eligibility based on income/family size, crucial for Ocean
+County residents needing affordable options beyond traditional projects. The Borough
+will work with the NJ DCA Housing Services directory, and look for local non-profits
+focusing on rehabilitation or development, as these units aim to integrate affordable
+housing into diverse communities
+
+The Borough will work with organizations like Ocean Community Economic Action
+Now (OCEAN) for low-income family rentals, the non-profit Ocean Housing
+Alliance (OHA) for special needs/homeless adults, and the Ocean City Housing
+Authority (OCHA) for Ocean City residents, and HabCore. These groups offer
+affordable housing, rental assistance (like Section 8), and support services, with
+applications requiring income proof, IDs, and other documents for eligibility in various
+programs.
+
+How Scattered Site Programs Work:
+
+  •    Integration: Instead of large housing projects, single homes are purchased,
+       rehabilitated, or built across different neighborhoods to avoid concentrating
+       poverty.
+
+  •    Management: Local PHAs or Community Development Corporations (CDCs)
+       often own and manage these properties, offering rentals or pathways to
+       homeownership.
+
+  •    Target Audience: Low-to-moderate income families, often using vouchers (like
+       Section 8) or specific local programs.
+
+                           Page 20 (June 20, 2025, Rev. December 11, 2025)
+       OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 24 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                  Housing Plan Element and Fair Share Plan
+                                                                     Borough of Pine Beach, Ocean County
+The Borough also considered an accessory apartment program but found that their lots
+were relatively small (predominately 8,000 square feet or less) and the neighborhoods
+follow an existing character of individual dwellings on individual lots. The predominately
+8,000 square foot lots that exist within the Borough along with COAH requirements for
+10-year affordability controls on accessory apartments and the lack of control by the
+property owner on the selection of apartment renters make the successful development of
+an accessory apartment program impractical.
+
+
+
+Spending Plan
+
+The Borough will adopt a “Fourth Round Spending Plan” prior to expending any of the funds
+in the affordable housing trust fund. The Spending Plan will be adopted in accordance with
+P.L. 2024, c. 2 and the forthcoming regulations at N.J.A.C. 5:99.
+
+The Borough currently has in its municipal code, Chapter 48. Affordable Housing: Article III.
+Spending Plan which was prepared in accordance with N.J.A.C. 5:93-5.1(c). This spending
+plan will be modeled after the previously adopted one.
+
+Pine Beach also has a development fee ordinance that was approved by the Council on
+Affordable Housing (COAH) and adopted by Pine Beach on September 17, 1997. The
+following procedural sequence for the collection and distribution of development fee revenues
+is proposed by Pine Beach:
+
+  1.            The Zoning Officer notifies the Building Code Official whenever a preliminary or
+        final approval is granted development which is subject to a development fee.
+                The Planning Board recording secretary notifies the Building Code Official
+        whenever a preliminary or final approval is granted development which is subject to a
+        development fee.
+                When a request is made for a building permit, the Building Code Official
+        determines if the project is subject to the imposition of a mandatory development fee. If
+        so, the Building Code Official obtains an approximate value of the completed project
+        from the developer or Tax Assessor who calculates the fee.
+                The developer pays 50% of the estimated development fee to the Building Code
+        Official at the time the building permit is issued. The funds are then forwarded to the
+        Chief Financial Officer and deposited in the affordable housing trust fund.
+                Upon request of a certificate of occupancy by the developer, the Building Code
+        Official will notify the Borough Tax Assessor to calculate the equalized assessed value
+        of the project and set the fee. The balance of the development fee will be paid by the
+        developer to the Building Code Official prior to issuance of the certificate of occupancy.
+        The funds are then forwarded to the Chief Financial Officer and deposited in the
+        affordable housing trust fund.
+
+  2.           Distribution of development fee revenues. A resolution is reviewed by the
+        governing body recommending the expenditure of development fee revenues as set forth
+        in this spending plan and adopts the recommendation.
+                 The use and release of the funds require the adoption of a resolution in
+
+                            Page 21 (June 20, 2025, Rev. December 11, 2025)
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 25 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                  Housing Plan Element and Fair Share Plan
+                                                                     Borough of Pine Beach, Ocean County
+         accordance with the COAH approved spending plan. Once a request is approved, the
+         Chief Financial Officer releases the revenues from the trust fund for the specific use as
+         per the governing body's resolution.
+
+Pine Beach will dedicate 20% of development fees collected each year to be dedicated for
+administrative purposes as follows: Administration of all affordable housing activities as
+defined by COAH rules and regulations.
+
+Pine Beach will devote 80% of development fees collected each year to render units more
+affordable as follows: Through the establishment of a local housing rehabilitation program
+for low and moderate income applicants of the borough. The implementation of a process
+and officer for the pursuit of affordable housing activities. These elements were not
+followed through on during the last round of affordable housing.
+
+The Borough is considering the following for the projection of revenues for the period of
+the fourth round of affordable housing:
+
+       1. Based on the residential and nonresidential projects which have had
+          development fees imposed upon them at the time of preliminary or final
+          development approvals, Pine Beach anticipates the collection of $0 in
+          development fees at issuance of building permits and/or certificates of
+          occupancy during the period of substantive certification.
+
+       2. Pine Beach considered all projects currently before the Planning Board for
+          development approvals. Based on an estimate of when these may apply for
+          building permits and certificates of occupancy, Pine Beach anticipates the
+          collection of $50,000 in development fees during the period of substantive
+          certification.
+
+       3. Additionally, Pine Beach looked at the historic rate of development and
+          determined that between now and the expiration of substantive certification, and
+          additional $0 to $10,000 in development fees could be anticipated.
+
+Therefore, Pine Beach has projected a total of $50,000 in development fee revenues to be
+collected between now and the expiration of substantive certification. All development fees
+collected and interest generated by the fees will be deposited in a separate interest bearing
+account in Summit Bank for the purposes of affordable housing.
+
+If sufficient funds are collected through the development fee ordinance, funding will be
+utilized for the support and the administration of the borough-wide housing rehabilitation
+program. If not, local resources, through bond, will be dedicated to the program.
+
+Pursuant to the housing element and fair share plan, the governing body of Pine Beach has
+adopted a resolution agreeing to fund any shortfall of funds required for implementing the
+housing rehabilitation program. In the event that a shortfall of anticipated revenues occurs,
+Pine Beach will bond for funding.
+
+                            Page 22 (June 20, 2025, Rev. December 11, 2025)
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 26 of 38 Trans ID: LCV2026684263
+
+
+
+                                                                 Housing Plan Element and Fair Share Plan
+                                                                    Borough of Pine Beach, Ocean County
+In summary, Pine Beach will contribute to their Affordable Housing Trust through the
+development fees collected on new development within the Borough.
+
+Administrative Documents
+
+The Borough will update its Affordable Housing Ordinance, Development Fee Ordinance, Affirmative
+Marketing Plan, and other administrative documents in accordance with forthcoming regulations at
+N.J.A.C. 5:80-26.1, et seq, and N.J.A.C. 5:99 after they are adopted.
+
+
+
+
+                           Page 23 (June 20, 2025, Rev. December 11, 2025)
+             OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 27 of 38 Trans ID: LCV2026684263
+
+
+
+
+     Prepared For:
+     Borough of Pine Beach
+     Ocean County, New Jersey
+
+
+     Dated: 5/21/25
+
+     Revised on: 12/11/2025
+
+
+
+
+Prepared By:
+
+
+
+
+_____________________________________________
+Mark Rohmeyer P.E., P.P., C.M.E.
+Morgan Municipal, LLC
+137 Central Avenue, Island Heights, NJ 08732
+
+The original of this document has been signed and sealed in accordance with New Jersey Law.
+
+
+
+
+                                                                                              (Prepared: June 20, 2025, Rev. December 11, 2025)   24
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 28 of 38 Trans ID: LCV2026684263
+
+BOROUGH OF PINE BEACH
+
+
+
+
+                                              INTRODUCTION
+
+Affordable housing regulations allow municipalities to request an adjustment from their housing need due to a
+lack of available vacant and developable land. Pursuant to N.J.A.C. 5:93-4.2, municipalities requesting an
+adjustment of their fair share obligation due to lack of available land must submit an inventory of vacant and
+undeveloped parcels by lot and block, with property ownership and acreage.
+
+In recognition of the need to provide the opportunity to adjust municipal affordable housing obligations, N.J.A.C.
+5:93 outlines standards and procedures for municipalities to demonstrate that a municipal response to its
+housing obligation is limited by lack of land, water, or sewer. This report outlines the methodology and
+summarizes the results of the vacant land analysis prepared on behalf of Borough of Pine Beach by Morgan
+Municipal, LLC.
+
+This document serves as Pine Beach Borough’s Vacant Land Inventory and Analysis to reflect the conditions in
+2025. The Borough of Pine Beach is seeking to obtain a vacant land adjustment due to the built-out nature of the
+Borough and recent government purchases of land now preserved as open space, and the limitations this puts
+on attempts to satisfy the Borough’s affordable housing obligations.
+
+In order to demonstrate the lack of vacant, developable land in Pine Beach Borough, the Borough has identified
+all vacant parcels currently existing within its borders through 2025 data from the Borough Tax Assessor’s office
+and has listed each parcel on the vacant land inventory table in accordance with N.J.A.C. 5:93-4.2(b) (see
+Appendix A).
+
+A vacant land map depicting vacant properties within the Borough is included as Appendix B.
+
+An existing land use map for the Borough has been appended to this report as Appendix C in accordance with
+N.J.A.C. 5:93-4.2(a).
+
+Morgan Municipal, LLC has analyzed the Realistic Development Potential, or RDP, of the remaining vacant lands
+within the Borough in accordance with the provisions of Subchapter 4 of N.J.A.C. 5:93. This analysis reveals that
+Borough of Pine Beach has 0 vacant developable sites, which could yield an RDP of 5 units.
+
+
+
+
+                                                              (Prepared: June 20, 2025, Rev. December 11, 2025) 25
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 29 of 38 Trans ID: LCV2026684263
+
+BOROUGH OF PINE BEACH
+
+
+
+
+                                         PERMITTED EXCLUSIONS
+This Vacant Land Inventory is prepared in accordance with N.J.A.C. 5:93, which establishes criteria by which sites, or
+portions thereof, in a municipal land inventory may be excluded from a municipality’s RDP.
+
+
+As per COAH’s Second Round Rules (N.J.A.C. 5:93-4.2), the inventory includes the block, lot, address, owner’s name,
+current zone, total lot acreage, total acreage suitable for development (uplands) and total acreage unsuitable for
+development (constraints) for each vacant property based on current Borough property tax records (See Vacant
+Land Inventory in Appendix).
+
+
+As provided by N.J.A.C. 5:93-4.2.c, lands meeting certain specified criteria may also be excluded from the Inventory.
+The following criteria were used to further exclude vacant properties from the Inventory:
+    1) ROSI or Green Acres Designation - Parcels engaged with the Green Acres program may also be excluded
+    2) Minimum Lot Area to meet Density - Vacant contiguous publicly or privately-owned parcels where the
+         merged total could not accommodate at least 5 dwelling units at a minimum density of 6 units per acre (less
+         than 0.83 acres);
+    3) Prior Round RDP - Properties that were included in the Prior Round RDP based on the 1997 Vacant Land
+         Inventory.
+    4) Landlocked parcels - or sites with limited or no access
+    5) Environmentally sensitive lands, including flood hazard areas, wetlands, and areas characterized by steep
+         slopes of greater than 15 percent, which limits the contiguous developable uplands area to less than 0.83
+         acres. Additionally, groundwater contamination areas have been included.
+    6) Constructed / No Longer Vacant – properties that have been determined to have development occur within
+         the parcel. Determination of development was made based on a review of the vacant land analysis.
+
+
+It should be noted that the Borough is permitted to reserve up to three percent of its total developed and
+developable acreage, less existing active municipal recreation areas, for active municipal recreation and exclude this
+acreage from consideration as potential sites for low- and moderate-income housing pursuant to N.J.A.C. 5:93-
+4.2(e)4. Any such site designated for active recreation in accordance with this section must be purchased and limited
+to active recreational purposes within one year of substantive certification. Although this calculation has not been
+completed as part of this analysis, the Borough reserves the right to revise this analysis to complete this calculation.
+
+
+Our office has taken into consideration sites that have changed in circumstances since the previous Vacant Land
+Analysis that was done in 1997. We did not determine any sites that had changed significantly enough to warrant
+redevelopment on the site.
+
+
+
+
+                                                                (Prepared: June 20, 2025, Rev. December 11, 2025) 26
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 30 of 38 Trans ID: LCV2026684263
+
+BOROUGH OF PINE BEACH
+
+
+
+
+                                              METHODOLOGY
+The Borough has identified all vacant parcels currently existing within its borders through 2025 data from the
+Borough Tax Assessor’s office. The following information summarizes our findings:
+         (983) Total Lots exist within the Borough of Pine Beach.
+                   (16) Vacant Private Lots exist within the Borough of Pine Beach.
+                   (31) Vacant Borough Lots exist within the Borough of Pine Beach.
+     (47) Vacant Private & Borough Lots exist within the Borough of Pine Beach.
+
+
+
+CONTIGUIOUS SITE ANALYSIS:
+
+         Our office first completed a review of which lots are contiguous on the List of Vacant Lands. We found
+         the following contiguous lots which are considered for total lot area to see if the combined lot area is
+         large enough to support affordable housing based upon the density in that area. None of the
+         contiguous lots in the Borough were found to be developable because portions or whole contiguous
+         lots are found to be excluded from our calculations for other reasons such as being on the ROSI list or
+         being constructed/no longer being vacant.
+
+         The following lots were found to be contiguous:
+                  1. Merion Ave: Block 108 Lot 3 & Block 80 Lot 44
+                           a. Total Area: 2.55 Acres
+                           b. Total Developable Area: 0.14 Acres (Donated to OCNLT)
+                  2. Radnor Ave: Block 36 Lots 1.06, 1.07 & 1.08
+                           a. Total Area: 0.63 Acres
+                           b. Total Developable Area: 0 Acres (Park Area)
+                  3. Washington Ave: Block 78 Lots 1.01 through 16
+                           a. Total Area: 1.29 Acres
+                           b. Total Developable Acres: 0 Acres
+                  4. Pennsylvania Ave: Block 55 Lot 25 (ROSI List) & Block 55 Lot 1.
+                           a. Total Area: 0.98 Acres
+                           b. Total Developable Acres: 0.07 Acres
+
+
+METHOD 1: ROSI (Registered Open Space Inventory) or Green Acres Designation
+As per N.J.A.C. 5:93-4.2, properties may be excluded from the RDP if the parcels are engaged with the Green Acres
+program.
+
+    a) Of the (47) Vacant Lots in the Borough, (10) lots are on the ROSI list. Therefore, this results in a total of
+       (37) lots left available for RDP analysis.
+                 1. Block 3.01 Lot 1 – 801 Pennsylvania Ave
+                 2. Block 3.02 Lot 1 – 901 Linden Ave
+                 3. Block 29.01 Lot 1 – 701 Pennsylvania Ave
+                 4. Block 30 Lot 6 – 615 Pennsylvania Ave
+                 5. Block 47 Lot 25 – 501 Pennsylvania Ave
+                 6. Block 55 Lot 25 – 401 Pennsylvania Ave
+                 7. Block 63 Lot 1 – Riverside Drive
+                 8. Block 69 Lot 20 – 301 Pennsylvania Ave
+                 9. Block 81 Lot 30 – 251 Pennsylvania Ave
+
+                                                               (Prepared: June 20, 2025, Rev. December 11, 2025) 27
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 31 of 38 Trans ID: LCV2026684263
+
+BOROUGH OF PINE BEACH
+
+
+
+
+                   10. Block 85.01 Lot 1 – 198 Prospect Ave
+
+    b) Out of the remaining (37) lots available for RDP analysis, (3) lots are currently in use as Park Area.
+       Therefore, this results in a total of (34) lots left available for RDP analysis.
+               1. Block 36 Lot 1.06
+               2. Block 36 Lot 1.07
+               3. Block 36 Lot 1.08
+
+
+METHOD 2: Constructed / No longer vacant
+Parcels or sites that have been determined to have development occur within the parcel may also be excluded from
+the calculation of the RDP.
+
+We note the following Block & lots were currently listed as vacant, but have been excluded due to being constructed:
+   1. Block 4, Lot 2 – 1001 Prospect Avenue
+            a. This property is currently developed with Ocean County Sewage Authority Utilities
+   2. Block 78, Lots 1.01 through 16 – Washington Avenue
+            a. This property is currently developed as a landfill.
+   3. Block 42 Lot 39 – 301 Hillside Avenue
+            a. This property is currently developed as a parking lot.
+   4. Block 43 Lot 47
+            a. This property is currently developed as a community garden.
+   5. Block 30.01 Lot 1 – 601 Merion Ave
+            a. This property is currently developed as the Pine Beach Police Storage Yard.
+   6. Block 48 Lot 42
+            a. This property is currently developed as the Pine Beach Police Storage Yard.
+   7. Block 80 Lot 46
+            a. This property is currently developed as the Pine Beach Police Storage Yard.
+
+    a) Out of the remaining (34) lot available for RDP analysis, (7) lots are being excluded due to development
+       within the parcel, or the parcel is no longer vacant. Therefore, this results in a total of (27) lot left available
+       for RDP analysis.
+
+We note while we have excluded these lots for being developed, they also lack sufficient area to meet the
+surrounding density requirements.
+
+
+Changed Circumstances Analysis
+
+Our office has reviewed Block 78 Lots 1.01 through 16 through discussions with the Borough, tax assessor data,
+and Google Maps Imagery, and determined that there are no changed circumstances on the site that would lead
+to opportunity for development. This site is developed as a landfill and still contains landfill materials.
+No other sites within the Vacant Land Analysis have been identified as having changed circumstances.
+
+
+
+
+                                                                  (Prepared: June 20, 2025, Rev. December 11, 2025) 28
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 32 of 38 Trans ID: LCV2026684263
+
+BOROUGH OF PINE BEACH
+
+
+
+
+METHOD 3: Minimum Lot Area to meet Density
+
+As per N.J.A.C. 5:93-4.1f, properties may be excluded from the RDP if they do not meet the minimum required
+lot area based on the surrounding density of the site. Our office has investigated further into each individual lot
+
+listed below to determine what a realistic density was for the site based on the surrounding properties and
+determined from there if they had a large enough tract size to support affordable housing.
+
+    a) Out of the (27) remaining Vacant Lots in the Borough, (26) do not meet the lot area requirement based
+       on the surrounding density. Therefore, this results in a total of (1) Vacant & Sufficient Area Lots.
+
+
+Below is a list of all vacant and undersized lots. They have been investigated individually to ascertain their
+availability for development with affordable housing. Exclusions were made with the following criteria in
+consideration: Ownership, lot shape and location, current site makeup, and density of the surrounding area.
+
+Methods:
+Surrounding Density of Block = (# of units on block)/(total acreage)
+Minimum Lot Area Required = (# of units on site)/Surrounding Density
+
+
+
+
+Insufficient Area Lots List:
+
+
+    1.   Block 14 Lot 7                                             5.   Block 17 Lot 36
+             a. Owner: MCHALE, JOHN D &                                      a. Owner: BORO OF PINE BEACH
+                  SHERYL                                                     b. Site Area: 0.14
+             b. Site Area: 0.29 Acres                                        c. Surrounding Density: 4.68 du/Ac
+             c. Surrounding Density: 2.91 du/Ac                              d. Minimum Lot Area Required:
+             d. Minimum Lot Area Required:                                        1.28 Acres
+                  2.06 Acres                                        6.   Block 19 Lot 36
+    2.   Block 16 Lot 1                                                      a. Owner: WALLING, ROBERT &
+             a. Owner: BORO OF PINE BEACH                                         JANE
+             b. Site Area: 0.07 Acres                                        b. Site Area: 0.20 Acres
+             c. Surrounding Density: 4.30 du/Ac                              c. Surrounding Density: 4.07 du/Ac
+             d. Minimum Lot Area Required:                                   d. Minimum Lot Area Required:
+                  1.40 Acres                                                      1.47 Acres
+    3.   Block 16 Lot 31                                            7.   Block 20 Lot 1
+             a. Owner: BORO OF PINE BEACH                                    a. Owner: BORO OF PINE BEACH
+             b. Site Area: 0.10 Acres                                        b. Site Area: 0.14 Acres
+             c. Further Exclusion: Irregular Lot                             c. Surrounding Density: 4.29 du/Ac
+             d. Surrounding Density: 4.30 du/Ac                              d. Minimum Lot Area Required:
+             e. Minimum Lot Area Required:                                        1.40 Acres
+                  1.40 Acres                                        8.   Block 26 Lot 29
+    4.   Block 17 Lot 11                                                     a. Owner: ORR, JEFFREY & NICOLE
+             a. Owner: BORO OF PINE BEACH                                    b. Site Area: 0.36 Acres
+             b. Site Area: 0.14                                              c. Surrounding      Density:   3.78
+             c. Surrounding Density: 4.68 du/Ac                                   du/Acre
+             d. Minimum Lot Area Required:                                   d. Minimum Lot Area Required:
+                  1.28 Acres                                                      1.59 Acres
+
+                                                               (Prepared: June 20, 2025, Rev. December 11, 2025) 29
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 33 of 38 Trans ID: LCV2026684263
+
+BOROUGH OF PINE BEACH
+
+
+
+
+    9.  Block 31 Lot 7                                         d.  Minimum Lot Area Required:
+            a. Owner: SAXTON, JUSTINE A &                          2.07 Acres
+                 JAMES J                              17. Block 73 Lot 60.01
+            b. Site Area: 0.29 Acres                          a. Owner: BORO OF PINE BEACH
+            c. Surrounding      Density:   3.78               b. Site Area: 0.39 Acres
+                 du/Acre                                      c. Further Exclusion: Irregular Lot
+            d. Minimum Lot Area Required:                     d. Surrounding Density: 3.4 du/Acre
+                 1.59 Acres                                   e. Minimum Lot Area Required:
+    10. Block 43 Lot 8.01                                          1.77 Acres
+            a. Owner: LAMBOK, LLC                     18. Block 74 Lot 15
+            b. Site Area: 0.22 Acres                          a. Owner: SANTANDER BANK-LEASE
+            c. Surrounding      Density:   3.20                    ADMINISTRATION
+                 du/Acre                                      b. Site Area: 0.43 Acres
+            d. Minimum Lot Area Required:                     c. Surrounding Density: 2.58 du/Ac
+                 1.88 Acres                                   d. Minimum Lot Area Required:
+    11. Block 55 Lot 1                                             2.33 Acres
+            a. Owner: BORO OF PINE BEACH              19. Block 77 Lot 29.01
+            b. Site Area: 0.07 Acres                          a. Owner: SHTANDER, GEORGIY
+            c. Surrounding Density: 3.84 du/Ac                b. Site Area: 0.72 Acres
+            d. Minimum Lot Area Required:                     c. Surrounding       Density:    N/A
+                 1.56 Acres                                        (Business Zone)
+    12. Block 65 Lot 37                               20. Block 78 Lot 49
+            a. Owner: SAXTON, JAMES &                         a. Owner: BORO OF PINE BEACH
+                 JUSTINE                                      b. Site Area: 0.14 Acres
+            b. Site Area: 0.14 Acres                          c. Surrounding Density: 3.57 du/Ac
+            c. Surrounding Density: 4.0 du/Ac                 d. Minimum Lot Area Required:
+            d. Minimum Lot Area Required: 1.5                      1.68 Acres
+                 Acres                                21. Block 80 Lot 44
+    13. Block 68 Lot 7                                        a. Owner: BORO OF PINE BEACH
+            a. Owner: ANDERSON, BRAD J                        b. Site Area: 0.14 Acres
+            b. Site Area: 0.29 Acres                          c. Surrounding Density: 4.10 du/Ac
+            c. Surrounding Density: 3.64 du/Ac                d. Minimum Lot Area Required:
+            d. Minimum Lot Area Required:                          1.46 Acres
+                 1.65 Acres                           22. Block 87 Lot 1
+    14. Block 70 Lot 1.01                                     a. Owner: HIGLEY, LINDA S
+            a. Owner: JCM ELECTRIC LLC                        b. Site Area: 0.07 Acres
+            b. Site Area: 0.14 Acres                          c. Surrounding Density: 3.25 du/Ac
+            c. Surrounding      Density:   3.81               d. Minimum Lot Area Required:
+                 du/Acre                                           1.85 Acres
+            d. Minimum Lot Area Required:             23. Block 95 Lot 33
+                 1.58 Acres                                   a. Owner: BRUNO, JOAN TRUST
+    15. Block 70 Lot 9                                        b. Site Area: 0.22 Acres
+            a. Owner: BORO OF PINE BEACH                      c. Surrounding Density: 3.82 du/Ac
+            b. Site Area: 0.14 Acres                          d. Minimum Lot Area Required:
+            c. Surrounding Density: 3.81 du/Ac                     1.57 Acres
+            d. Minimum Lot Area Required:             24. Block 98 Lot 7
+                 1.58 Acres                                   a. Owner: LA PIERRE INC
+    16. Block 71 Lot 35                                       b. Site Area: 0.11 Acres
+            a. Owner: ZACCARO, ANTHONY &                      c. Surrounding Density: 3.49 du/Ac
+                 KATHLEEN M                                   d. Minimum Lot Area Required:
+            b. Site Area: 0.29 Acres                               1.72 Acres
+            c. Surrounding Density: 2.9 du/Ac         25. Block 107 Lot 7
+
+                                                  (Prepared: June 20, 2025, Rev. December 11, 2025) 30
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 34 of 38 Trans ID: LCV2026684263
+
+BOROUGH OF PINE BEACH
+
+
+
+
+              a.   Owner: GREGORY, DANIEL J &                       26. Block 108 Lot 1.01
+                   POTASKI, K C                                             a. Owner: PASCOE, WARREN F &
+              b.   Site Area: 0.33 Acres                                        CHELSEA S R
+              c.   Surrounding Density: 2.49 du/Ac                          b. Site Area: 0.16 Acres
+              d.   Minimum Lot Area Required:                               c. Surrounding      Density:    N/A
+                   2.41 Acres                                                   (Elementary School Adjacent)
+
+
+METHOD 4: Prior Round RDP
+As per N.J.A.C. 5:93-4.2, properties may be excluded from the RDP if the lots were included in the prior round
+RDP based on the 1997 Vacant Land Inventory.
+
+    The following lot(s) are currently listed as vacant which was part of the 3rd Round and have since been nearing
+    completion or fully completed for construction:
+    1. None
+
+    a) Out of the remaining (1) lots available for RDP analysis, (0) lot has been nearing completion or fully
+       completed from the Prior Round RDP. Therefore, this results in a total of (1) lots left available for RDP
+       analysis.
+
+
+METHOD 5: Landlocked parcels
+Landlocked parcels or sites with limited or no access may also be excluded from the calculation of the RDP.
+
+    a) Out of the remaining (1) lot available for RDP analysis, (0) lots are being excluded due to the parcel being
+       landlocked. Therefore, this results in a total of (1) lot left available for RDP analysis.
+
+
+METHOD 6: Environmentally sensitive lands
+
+         METHOD 6.1: Wetlands
+         As per N.J.A.C. 5:93-4.2, properties may be excluded from the RDP if a parcel contains inland wetlands which
+         render a site unsuitable for low- and moderate-income housing.
+
+              a) Out of the remaining (1) lot available for RDP analysis, (0) lots are being excluded due to
+                 wetlands. Therefore, this results in a total of (1) lots left available for RDP analysis.
+
+
+         METHOD 6.2: Steep Slope
+         As per N.J.A.C. 5:93-4.2, properties may be excluded from the RDP if a parcel contains steep slopes (in
+         excess of 15%) which render a site unsuitable for low- and moderate-income housing.
+
+              a) Parcels have been analyzed for steep slope exclusions. Out of the remaining (1) lot available for
+                 RDP analysis, (0) lots are being excluded due to steep slope. Steep slope(s) have not been located;
+                 Therefore, this results in a total of (1) lots left available for RDP analysis.
+
+
+
+         METHOD 6.3: Groundwater Contamination Area
+         Parcels with groundwater contamination which render a site unsuitable for low- and moderate-income
+         housing may also be excluded from the calculation of the RDP.
+
+
+
+                                                               (Prepared: June 20, 2025, Rev. December 11, 2025) 31
+      OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 35 of 38 Trans ID: LCV2026684263
+
+BOROUGH OF PINE BEACH
+
+
+
+
+         We note the following Block & lots were currently listed as vacant, but have been excluded do to
+         groundwater contamination:
+             1. None
+
+              a) Out of the remaining (1) lot available for RDP analysis, (0) lots are being excluded due to
+                 groundwater contamination. Therefore, this results in a total of (1) lots left available for RDP
+                 analysis
+                                      SUMMARY & CONCLUSION
+This analysis reveals that the Borough has (1) vacant and non-developable site which together yield an RDP of (2)
+using a density of 6du/acre affordable units, which is less than the required RDP number of thirty (30) for the 4th
+Round of Affordable Housing.
+
+    1.   Block 108 Lot 3 – Merion Ave: which has been donated to the Ocean County Natural Lands Trust. It cannot
+         be further developed but the RDP that it would yield is still being counted towards the Borough’s final RDP.
+
+         Upon further review, this 2.41 acre site has a drainage easement running through a large portion of the
+         center of the property therefore we would estimated a buildable acreage of 1.93 acres.
+
+         To be conservative, we will use the entire lot at 2.41 acres,
+         And use a higher density of 10du/acre,
+         And therefore the lot had the potential to support an RDP 4.8 units rounded up to 5 units.
+
+
+
+
+                                                              (Prepared: June 20, 2025, Rev. December 11, 2025) 32
+BOROUGH OF PINE BEACH
+
+
+
+
+                                       APPENDICES
+
+   A.    Vacant Land Inventory Table
+
+
+
+
+                                                                                                           OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 36 of 38 Trans ID: LCV2026684263
+
+
+
+
+                                                    (Prepared: June 20, 2025, Rev. December 11, 2025) 33
+BOROUGH OF PINE BEACH
+
+
+
+
+   B.    Vacant Land Map
+
+
+
+
+         Source: NJ MAP Parcel Explorer
+                                                                                                 OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 37 of 38 Trans ID: LCV2026684263
+
+
+
+
+                                          (Prepared: June 20, 2025, Rev. December 11, 2025) 34
+BOROUGH OF PINE BEACH
+
+
+
+
+   C.    Existing Land Use Map
+
+
+
+
+                                                                                        OCN-L-000171-25 03/16/2026 3:08:15 PM Pg 38 of 38 Trans ID: LCV2026684263
+
+
+
+
+                                 (Prepared: June 20, 2025, Rev. December 11, 2025) 35
+

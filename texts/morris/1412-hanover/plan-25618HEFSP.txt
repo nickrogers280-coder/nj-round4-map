@@ -1,0 +1,3245 @@
+         MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 1 of 79 Trans ID: LCV20251798743
+
+
+  b a                           Community Planning
+                                Land Development and Design
+                                Landscape Architecture
+                                                                                                                         Principals:
+                                                                                                             Joseph Burgis PP, AICP
+                                                                                                  Edward Snieckus, Jr. PP, LLA, ASLA
+                                                                                                             David Novak, PP, AICP
+
+
+
+
+B U R G I S
+A S S O C I A T E S,   I N C.
+
+
+
+
+2025 HOUSING ELEMENT AND FAIR SHARE PLAN
+
+TOWNSHIP OF HANOVER
+MORRIS COUNTY, NEW JERSEY
+
+
+
+
+PREPARED FOR:
+
+TOWNSHIP OF HANOVER PLANNING BOARD
+BA# 4152.16
+
+
+
+
+The original document was appropriately signed and sealed on May 30, 2025 in accordance with
+Chapter 41 of Title 13 of the State Board of Professional Planners.
+
+
+
+
+________________________                 _                           ________________________      _
+Joseph H. Burgis, P.P., AICP                                         Robyn K. Welch, P.P., AICP
+Professional Planner #2450                                           Professional Planner #5971
+
+
+
+
+                                                      May 30, 2025
+                                                  ADOPTED: June 17, 2025
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 2 of 79 Trans ID: LCV20251798743
+
+
+
+
+         MEMBERS OF THE TOWNSHIP OF HANOVER PLANNING BOARD
+
+                           Peter DeNigris, Chairman
+                                Howard Olsen
+                                Charles Monzo
+                              Charles Thomas, Jr.
+                                Robert Deehan
+                     Michael E. Critchley, Vice Chairman
+                                   Bill Byrne
+                       Thomas "Ace" Gallagher, Mayor
+                   John L. Ferramosca, Director of Planning
+                         Mark Hayward, Alternate #1
+                        Mark D’Angelo, Alternate #2
+
+                          Planning Board Secretary
+                          Kimberly Bongiorno, LUA
+
+                          Planning Board Attorney
+                            Michael Sullivan, Esq.
+
+                              Township Planner
+                             Blais Brancheau, PP
+
+                            Township Engineer
+                            Gerardo Maceira, PE
+
+                                Township Clerk
+                            Krista DiGiorgio, RMC
+
+                           Business Administrator
+                     Joseph A. Giorgio, MPA, RMC, QPA
+
+                             Township Attorney
+                             Fred Semrau, Esq.
+
+                        Township Planning Consultant
+                          Joseph Burgis, PP, AICP
+                           Robyn Welch, PP, AICP
+                            Burgis Associates, Inc.
+
+             MEMBERS OF THE HANOVER TOWNSHIP COMMITTEE
+
+                       Mayor Thomas “Ace” Gallagher
+                      Michael A. Mihalko, Deputy Mayor
+                                Brian J. Cahill
+                             John L. Ferramosca
+                              Ronald F. Francioli
+        MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 3 of 79 Trans ID: LCV20251798743
+
+
+
+
+                                                             TABLE OF CONTENTS
+EXECUTIVE SUMMARY ....................................................................................................................................... 1
+SECTION I: INTRODUCTION ............................................................................................................................... 6
+SECTION 2: HOUSING ELEMENT ...................................................................................................................... 12
+SECTION 3: FAIR SHARE OBLIGATION .............................................................................................................. 30
+SECTION 4: FAIR SHARE PLAN ......................................................................................................................... 40
+APPENDICES .................................................................................................................................................. 76
+
+                                                                LIST OF TABLES
+
+TABLE 1: AFFORDABLE HOUSING OBLIGATIONS SUMMARY…………………………………..……………………………………….…….1
+TABLE 2: PLAN COMPONENTS SATISFYING FIRST & SECOND ROUND OBLIGATION…………………………………..………….2
+TABLE 3: PLAN COMPONENTS SATISFYING THIRD ROUND RDP………………………………………………………………………….3
+TABLE 4: THIRD ROUND UNMET NEED COMPONENTS……………………………………………………………………………………….3
+TABLE 5: PLAN COMPONENTS SATISFYING FOURTH ROUND RDP……………………………………………………..……………….4
+TABLE 6: FOURTH ROUND UNMET NEED COMPONENTS…………………………………………………………………………………….5
+TABLE 7: 2024 AFFORDABLE HOUSING REGION 2 INCOME LIMITS BY HOUSEHOLD SIZE………………………………………7
+TABLE 8: DWELLING UNITS (1990-2023)………………………………………………………………………………………………..……….18
+TABLE 9: HOUSING UNITS BY TENURE AND OCCUPANCY STATUS (2010 AND 2023)……………………………………..……18
+TABLE 10: UNITS IN STRUCTURE (2010 AND 2023)………………………………………………………………………….…………….….19
+TABLE 11: NUMBER OF BEDROOMS IN HOUSING UNITS (2010 AND 2023)…………………………………………….………..….19
+TABLE 12: YEAR STRUCTURE BUILT (2023)………………………………………………………………………………………..…………….20
+TABLE 13: OCCUPANTS PER ROOM (2010 AND 2023)………………………………………………………………………………….….20
+TABLE 14: EQUIPMENT AND PLUMBING FACILITIES (2010 AND 2023)……………………………….……………………………….21
+TABLE 15: GROSS RENT OF SPECIFIED RENTER-OCCUPIED UNITS (2010 AND 2023)…………………………………….…….21
+TABLE 16: VALUE OF SPECIFIED OWNER-OCCUPIED HOUSING UNITS (2010 AND 2023)…………………………………….22
+TABLE 17: NUMBER OF RESIDENTIAL BUILDING PERMITS ISSUED FOR NEW CONSTRUCTION (2014-2023)…..……….23
+TABLE 18: POPULATION GROWTH (1920-2023)……………………………………………………………………………………..……….24
+TABLE 19: AGE CHARACTERISTICS (2010 AND 2023)………………………………………………………………………………….…….25
+TABLE 20: AVERAGE HOUSEHOLD SIZE (1970-2023)…………………………………………………………..………………………….25
+TABLE 21: HOUSEHOLD INCOME DISTRIBUTION (2010 AND 2023)………………………………………………………..………….26
+TABLE 22: EMPLOYMENT STATUS - POPULATION 16 & OVER (2010 AND 2023)……………………………………….……….26
+TABLE 23: EMPLOYED RESIDENTS AGE 16 AND OVER, BY OCCUPATION (2010 AND 2023)…………..……………………27
+TABLE 24: EMPLOYED RESIDENTS AGE 16 AND OVER, BY INDUSTRY (2010 AND 202)……………………………….……….27
+TABLE 25: AVERAGE COVERED EMPLOYMENT TRENDS (2014-2023)……………………………………………………….……….28
+TABLE 26: NON-RESIDENTIAL SPACE AUTHORIZED BY BUILDING PERMITS (2014-2023)…………………………………….29
+TABLE 27: SUMMARY OF FAIR SHARE OBLIGATION…………………………………………………………………………………….…….32
+TABLE 28: AFFORDABLE HOUSING OBLIGATIONS SUMMARY……………………………………………………………………………..41
+TABLE 29: PLAN COMPONENTS SATISFYING FIRST & SECOND ROUND OBLIGATION……………….………………………….42
+TABLE 30: PLAN COMPONENTS SATISFYING THIRD ROUND RDP………………..………………………………………………..….43
+TABLE 31: PLAN COMPONENTS SATISFYING FOURTH ROUND RDP………………………………………………….……………….44
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 4 of 79 Trans ID: LCV20251798743
+
+
+
+
+EXECUTIVE SUMMARY
+
+The following 2025 Housing Element and Fair Share Plan (HE&FSP) of the Master Plan has been
+prepared for the Township of Hanover, Morris County, New Jersey.
+
+This plan is designed to outline the manner in which the Township will address its affordable
+housing obligations. As discussed in greater detail herein, these obligations were derived from a
+variety of different sources including the Council on Affordable Housing (COAH), prior Court-
+approved Judgments of Compliance and Repose and settlement agreements with Fair Share
+Housing Center (FSHC), and most recently from Fourth Round obligation calculations provided by
+the Department of Community Affairs (DCA) as modified by a Structural Conditions Survey and
+trial court order.
+
+These obligations are summarized as follows:
+
+                          Table 1: Affordable Housing Obligations Summary
+                                       Category                      Obligation
+                  Present Need (Rehabilitation) Obligation          10
+                  First & Second Round Obligation (1987-1999)       356
+                  Third Round Obligation (1999-2025)                975
+                  Fourth Round Obligation (2025-2035)               461
+
+First & Second Round Obligation
+
+The Township of Hanover has prepared a number of Housing Elements and Fair Share Plans over
+the years to address its affordable housing obligations. The Township was initially granted a
+judgment of compliance and repose to address a First Round obligation of 250 units (new
+construction) on September 24, 1984 by the Honorable Stephen Skillman, J.S.C. The 1984
+Judgment of Compliance and Repose included the zoning of five sites to address the obligation.
+
+In 1994, COAH issued new housing need numbers for the combined First and Second Round
+period between 1987 and 1999. Hanover was assigned a new construction obligation of 356 units
+and subsequently received substantive certification of its Second Round HE&FSP on August 4,
+1999. The Township addressed this First and Second Round obligation through the components
+identified in Table 2 below, all of which have been completed.
+
+
+
+
+                                                              25 Westwood Avenue, Westwood NJ 07675           ͳ
+                                                      p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 5 of 79 Trans ID: LCV20251798743
+
+
+
+
+                Table 2: Plan Components Satisfying First & Second Round Obligation
+             Plan Component                   Units        Bonus       Total                          Status
+  RCA:
+        City of Orange Twp.                      9              --                  9             Completed
+  Inclusionary Development:
+        Hanover Hills                            39             --                 39             Completed
+        Sunrise at Hanover                       32             --                 32             Completed
+        Eden Mill Village                        66             --                 66             Completed
+        Oak Ridge at Hanover                     50             --                 50             Completed
+        Sterling Parc (rentals) – senior         44             14                 58             Completed
+  100% Affordable - Rentals:
+        Saddlebrook Court - family               15             15                 30             Completed
+  Special Needs/Supportive Housing:
+        21 Longview Dr. ARC                      4              4                   8             Completed
+        Saddlebrook Court                        5               5                 10             Completed
+        Horse Hill Rd. I ARC                     6               6                 12             Completed
+        Whippany Jewish Assoc.                   4              4                   8             Completed
+        Mountain Ave. ARC                        5               5                 10             Completed
+        Eden Lane ARC                            6               6                 12             Completed
+        Allegro School                           6               6                 12             Completed
+  Total                                         291             65                356             --
+
+Third Round Obligation
+
+On February 5, 2019, the Township and FSHC entered into a Settlement Agreement, which
+established a Third Round Obligation of 975 affordable units, inclusive of a 550-unit Third Round
+RDP and 425-unit Third Round Unmet Need. This agreement was subsequently amended on
+June 2, 2020 and again on March 2, 2021, but the obligations remained the same. The
+Township’s Amended Third Round HE&FSP, adopted on February 9, 2021, is the culmination of
+these efforts and the Township was ultimately granted a Final Judgment of Compliance (Third
+Round JOR) on May 3, 2021.
+
+Hanover’s 2021 HE&FSP set forth various plan mechanisms to address the entirety of its Third
+Round RDP obligation, including a combination of credits from existing affordable units,
+proposed inclusionary housing units, alternative living arrangements, and rental bonus credits
+permitted in accordance with COAH’s Round 2 rules. The plan components to address Hanover’s
+Third Round RDP obligation are identified in Table 3 below. As shown, whereas 179 units and 129
+rental bonus credits have been completed toward the Township’s 550-unit Third Round RDP
+obligation, 233 units and 9 rental bonus credits still have yet to be fulfilled. All of these projects
+remain viable, however, and are discussed in more detail in the body of this plan.
+
+
+
+                                                                25 Westwood Avenue, Westwood NJ 07675           ʹ
+                                                        p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+         MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 6 of 79 Trans ID: LCV20251798743
+
+
+
+
+                             Table 3: Plan Components Satisfying Third Round RDP
+                   Plan Component                           Units       Bonus                          Total                 Status
+100% Affordable - Rentals:
+      Saddlebrook Court - family                             58          58                              116          Completed
+Inclusionary Development:
+      Woodmont Knolls (rentals) - family                      14          14                            28            Completed
+      Sterling Parc (rentals) – family                         8           8                             16           Completed
+      Sterling Parc (rentals) – senior                        12           4                             16           Completed
+      Jewish Metrowest I (rentals) – senior                  36           12                            48            Completed
+      Silverman/Corporate Mailings (rentals) – family        20          20                             40            Completed
+      Airport Road (rentals) – family                        42           9*                             51           Settlement
+      Completed River Park (rentals) - family                 13         13*                            26            Completed
+      Remaining River Park (rentals) - family                127          --                            127           Settlement
+      JMF Affordable (190 Park Ave)(rentals) – senior        60           --                            60            Settlement
+Special Needs/Supportive Housing:
+      Rose House                                              12          --                             12           Completed
+      Horse Hill Rd. II ARC                                    6          --                              6           Completed
+      River Park Supportive Housing                            4          --                             4            Settlement
+Total                                                        412         138                            550           --
+*: Although the 2021 HE&FSP assigned 22 rental bonus credits to Airport Road (up to the 25% bonus cap), the Township now assigns
+                          13 of these rental bonus credits to completed family rental units at River Park.
+
+   The 2021 HE&FSP also identified the plan components to address Hanover’s Third Round Unmet
+   Need of 425 units. These plan components are summarized in Table 4 below.
+
+                                Table 4: Third Round Unmet Need Components
+                                    Plan Component                          # of Units
+             Whippany Village Inclusionary (family rentals)             9
+             Our Lady of Mercy Group Home (special needs)               4
+             Excess Airport Road Inclusionary (family rentals)          7
+             Excess River Park Inclusionary (family rentals)            75
+             Excess River Park Supportive Housing (special needs)       28
+             Care One Assisted Living (age-restricted)                  4
+             Extensions of Controls (family for-sale)                   137
+             Accessory Apartment Program (family rentals)               10
+             Mandatory Set-Aside Ordinance                              Ongoing
+             Development Fee Ordinance                                  Ongoing
+
+   Fourth Round Obligation
+
+   Governor Murphy signed the A-40/S-50 Bill into law on March 20, 2024 after the Senate and
+   Assembly adopted it. This legislation (FHA-2) amended the Fair Housing Act (FHA or the Act) by
+   abolishing COAH and created a new process that involved the creation of a new entity known as
+   the Affordable Housing Dispute Resolution Program (the Program), as well as the DCA and the
+                                                                             25 Westwood Avenue, Westwood NJ 07675                ͵
+                                                                     p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+      MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 7 of 79 Trans ID: LCV20251798743
+
+
+
+
+ Administrative Office of the Courts (AOC).
+
+ FHA-2 directed DCA to report the Present Need (also referred to as the Rehabilitation obligation)
+ and the Prospective Need (also known as the new construction obligation) for Round Four based
+ upon the standards set forth in the Act. The DCA issued its report on October 18, 2024, and, in
+ accordance with the Act, made clear that the obligations generated by the report were advisory
+ only and non-binding. For Hanover, the DCA Report identified a Present Need of 69 and a
+ Prospective Round Four Need of 544.
+
+ Since the DCA report is non-binding, each municipality had the opportunity to study and define
+ why its obligations should be different based on the standards in the Act. The Township
+ conducted such an analysis and determined that the DCA had made errors in the Land Capacity
+ Factor calculation, which is part of the formula that determines fair share obligations. The
+ Township adopted a binding resolution on January 23, 2025 which identified a reduced Present
+ Need obligation of 10 units based on the results of a Structural Conditions Survey conducted by
+ the Township, as well as a reduced Prospective Need obligation of 442 units due to the
+ Township’s assessment of errors in DCA’s report pertaining to Hanover’s Land Capacity Factor.
+ Ultimately, a trial court order issued on May 2, 2025 officially set the Township’s Round Four
+ Present Need at 10 and its Round Four Prospective Need at 461.
+
+ The January 23, 2025 resolution further noted that the Township reserved the right to seek an
+ adjustment of its Fourth Round Prospective Need number based upon a lack of vacant,
+ developable and suitable land. Accordingly, the Township undertook a detailed Vacant Land
+ Analysis to determine if there were any changed circumstances since the 2019 HE&FSP that
+ would warrant a recalibration of Hanover’s RDP. At this time, the Township concludes that five
+ properties represent a changed circumstance requiring a Fourth Round RDP obligation.
+ Together, these five properties generate a total Fourth Round RDP obligation of 118 units
+
+ The Township proposes to address its 118-unit Fourth Round RDP obligation via a combination of
+ completed extensions of affordability controls, planned inclusionary family rental units, and
+ special needs bedrooms, plus eligible bonus credits, as summarized in Table 5 below.
+
+                          Table 5: Plan Components Satisfying Fourth Round RDP
+                     Plan Component                            Units    Bonus               Total               Status
+Extensions of Affordability Controls:
+    Oak Ridge (for sale) – family                               27        --                 27          Completed
+Special Needs/Supportive Housing:
+    99 Mountain Morris ARC Group Home                            6         6                  12         Proposed
+    Bayer South Campus Group Home                                5         5                  10         Proposed
+Inclusionary Development:
+    Bayer South Campus Redevelopment (rentals) - family         51        18                 69          Proposed
+Total                                                           89       29                  118         --
+
+                                                                25 Westwood Avenue, Westwood NJ 07675                    Ͷ
+                                                        p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 8 of 79 Trans ID: LCV20251798743
+
+
+
+
+The Township proposes to address its remaining 343-unit Fourth Round Unmet Need as
+identified in Table 6 below.
+
+                         Table 6: Fourth Round Unmet Need Components
+                             Plan Component                           # of Units
+        Oak Ridge Extensions of Controls (family for-sale)         23
+        Excess Bayer South Campus Redevelopment (rentals)          29
+        JMF 100% Affordable (age-restricted rentals)               60
+        AH-2 Affordable Housing Overlay (age-restricted rentals)   27
+        Mandatory Set-Aside Ordinance                              Ongoing
+        Development Fee Ordinance                                  Ongoing
+
+In addition, Hanover proposes to amend its Township-wide Mandatory Set-Aside Ordinance to
+require a minimum 20 percent affordable housing set-aside for all inclusionary developments (as
+opposed to the existing language, which requires minimum set-asides of 15 percent where
+affordable units will be for rent or 20 percent where affordable units will be for sale). This
+amendment will bring the Township into compliance with the Highlands Council’s rules for
+municipalities in the Highlands Region and will capture even more affordable housing
+opportunities as they become available in the Fourth Round.
+
+Accordingly, the remainder of this 2025 HE&FSP is divided into the following sections:
+
+    Section 1: Introduction
+     The first section of the 2025 HE&FSP provides an introduction to affordable housing. It
+     summarizes what affordable housing is, offers an overview of the history of affordable
+     housing in the state, and explains the role of a housing element and fair share plan.
+
+    Section 2: Housing Element
+     Section 2 contains the Housing Element for the Township of Hanover. It offers a
+     community overview of the Township, as well as background information regarding its
+     population, housing, and employment characteristics. It also provides projections of the
+     Township’s housing stock and employment.
+
+    Section 3: Fair Share Obligation
+     Next, Section 3 provides an overview of the Township’s fair share obligation. It includes a
+     brief history of the methodologies utilized to calculate affordable housing obligations
+     throughout the state.
+
+    Section 4: Fair Share Plan
+     Finally, Section 4 details the manner in which the Township has addressed its prior First,
+     Second and Third Round obligations, how it will address its Fourth Round Prospective
+     Need Obligation, and how same is consistent with the FHA, applicable COAH and UHAC
+     regulations, and state planning initiatives.
+                                                              25 Westwood Avenue, Westwood NJ 07675           ͷ
+                                                      p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+    MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 9 of 79 Trans ID: LCV20251798743
+
+
+
+
+SECTION I: INTRODUCTION
+
+The following section provides an introduction to affordable housing. It summarizes what
+affordable housing is, offers an overview of the history of affordable housing in the state, and
+explains the role of a housing element and fair share plan.
+
+
+
+
+                                                             25 Westwood Avenue, Westwood NJ 07675           ͸
+                                                     p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 10 of 79 Trans ID: LCV20251798743
+
+
+
+
+A.     WHAT IS AFFORDABLE HOUSING?
+
+Affordable housing is income-restricted housing that is available for sale or for rent. Typically,
+affordable housing is restricted to very-low, low-, and moderate-income households. These
+categories are derived from median regional income limits established for the state. New Jersey is
+delineated into six different affordable housing regions. Hanover is located in Region 2, which
+includes Essex, Morris, Union and Warren counties.
+
+
+
+
+          Moderate-Income           Low-Income Households                    Very Low-Income
+             Households            Earn 30-50% of the region’s                  Households
+     Earn 50-80% of the region’s         median income                     Earn up to 30% of the
+           median income                                                  region’s median income
+
+Regional income limitations are updated every year, with different categories established for
+varying household sizes. Table 7 identifies the 2024 regional income limits by household size for
+Region 2. As shown, a three-person family with a total household income of no greater than
+$93,180 could qualify for affordable housing in the Township’s region.
+
+           Table 7: 2024 Affordable Housing Region 2 Income Limits by Household Size
+Income Level        2 Person           3 Person           4 Person            5 Person
+Median              $103,533           $116,475           $129,416            $139,769
+Moderate            $82,826            $93,180            $103,533            $111,816
+Low                 $51,766            $58,237            $64,708             $69,885
+Very-Low            $31,060            $34,942            $38,825             $41,931
+
+One of the most common forms of affordable housing is inclusionary development, in which a
+certain percentage of units within a multifamily development are reserved for affordable housing.
+Affordable housing can be found in a variety of other forms, including but not limited to: 100
+percent affordable housing developments, deed-restricted accessory apartments, alternative
+living arrangements such as special need/supportive housing or group homes, assisted living
+facilities, and age-restricted housing.
+
+
+
+
+                                                              25 Westwood Avenue, Westwood NJ 07675           ͹
+                                                      p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 11 of 79 Trans ID: LCV20251798743
+
+
+
+
+B.     WHAT IS THE HISTORY OF AFFORDABLE HOUSING IN NEW JERSEY?
+
+                                 The history of affordable housing in New Jersey can be traced
+                                 back to 1975, when the Supreme Court first decided in So.
+                                 Burlington Cty. NAACP v. Township of Mount Laurel (known as
+                                 Mount Laurel I) that every developing municipality throughout
+                                 New Jersey had an affirmative obligation to provide for its fair
+                                 share of affordable housing. In a subsequent Supreme Court
+                                 decision in 1983 (known as Mount Laurel II), the Court
+                                 acknowledged that the vast majority of municipalities had not
+                                 addressed their constitutional obligation to provide affordable
+                                 housing.
+
+                                 As such, the Court refined this obligation to establish that
+                                 every municipality had an obligation, although those within the
+                                 growth area of the State Development and Redevelopment
+                                 Plan (SDRP) had a greater obligation. The Court also called for
+                                 the state legislature to enact legislation that would save
+                                 municipalities from the burden of having the courts determine
+                                 their affordable housing needs. The result of this decision was
+                                 the adoption of the Fair Housing Act in 1985, as well as the
+                                 creation of the New Jersey Council on Affordable Housing
+                                 (COAH), which became the state agency responsible for
+                                 overseeing the manner in which New Jersey’s municipalities
+                                 address their low- and moderate-income housing needs.
+
+                                 COAH proceeded to adopt regulations for the First Round
+                                 obligation, which covered the years 1987 to 1993. It also
+                                 established the Second Round housing-need numbers that
+                                 cumulatively covered the years 1987 through 1999. Under both
+                                 the First and Second Rounds, COAH utilized what is commonly
+                                 referred to as the “fair share” methodology. COAH utilized a
+                                 different methodology, known as “growth share,” beginning
+                                 with its efforts to prepare Third Round housing-need numbers.
+                                 The Third Round substantive and procedural rules were first
+                                 adopted in 2004.
+
+
+
+
+                                                             25 Westwood Avenue, Westwood NJ 07675           ͺ
+                                                     p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+    MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 12 of 79 Trans ID: LCV20251798743
+
+
+
+
+These regulations were challenged and in January 2007, the
+Appellate Division invalidated various aspects of these rules
+and remanded considerable portions of the rules to COAH
+with the directive to adopt revised regulations.
+
+In May 2008, COAH adopted revised Third Round regulations
+which were published and became effective on June 2, 2008.
+Coincident to this adoption, COAH proposed amendments to
+the rules they had just adopted, which subsequently went into
+effect in October 2008. These 2008 rules and regulations
+were subsequently challenged, and in an October 2010
+decision, the Appellate Division invalidated the Growth Share
+methodology, and also indicated that COAH should adopt
+regulations pursuant to the Fair Share methodology utilized in
+Rounds One and Two. The Supreme Court affirmed this
+decision in September 2013, which invalidated much of the
+third iteration of the Third Round regulations and sustained
+the invalidation of growth share. As a result, the Court
+directed COAH to adopt new regulations pursuant to the
+methodology utilized in Rounds One and Two.
+
+Deadlocked with a 3-3 vote, COAH failed to adopt newly
+revised Third Round regulations in October 2014. Fair Share
+Housing Center, who was a party in both the 2010 and 2013
+cases, responded by filing a motion in aid of litigants’ rights
+with the New Jersey Supreme Court. The Court heard the
+motion in January 2015 and issued its ruling on March 20,
+2015. The Court ruled that COAH was effectively dysfunctional
+and, consequently, returned jurisdiction of affordable housing
+issues back to the trial courts where it had originally been prior to the creation of COAH in 1985.
+
+This 2015 Court decision created a process in which municipalities may file a declaratory
+judgment action seeking a declaration that their HE&FSP is constitutionally compliant and receive
+temporary immunity from affordable housing builders’ remedy lawsuits while preparing a new or
+revised HE&FSP to ensure their plan continues to affirmatively address their local housing need as
+may be adjusted by new housing-need numbers promulgated by the court or COAH.
+
+
+
+
+                                                               25 Westwood Avenue, Westwood NJ 07675           ͻ
+                                                       p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 13 of 79 Trans ID: LCV20251798743
+
+
+
+
+Subsequently, the Supreme Court ruled on January 18, 2017 that municipalities are also
+responsible for obligations accruing during the so-called “gap period,” the period of time between
+1999 and 2015. However, the Court stated that the gap obligation should be calculated as a
+never-before calculated component of Present Need, which would serve to capture Gap Period
+households that were presently in need of affordable housing as of the date of the Present Need
+calculation (i.e. that were still income eligible, were not captured as part of traditional present
+need, were still living in New Jersey and otherwise represented a Present affordable housing
+need).
+
+On March 20, 2024, Governor Murphy signed the A4/S50 Bill into law, which amended the FHA
+for the Fourth Round and beyond. The amendments to the FHA (FHA-2) eliminated COAH and
+created a new entity to approve the plans known as the Affordable Housing Dispute Resolution
+Program (the Program), which consists of seven retired Mount Laurel Judges. FHA-2 also involved
+the DCA and AOC in the process.
+
+The DCA was designated by the amended FHA as the entity responsible for calculating the state’s
+regional needs as well as each municipality’s present and prospective fair share obligations
+pursuant to the Jacobson Decision. However, the amended FHA makes it clear that these
+numbers are advisory and non-binding, and that each municipality must set its own obligation
+number utilizing the same methodology. The Program was tasked to handle any disputes
+regarding affordable housing obligations and plans, and to ultimately issue a Compliance
+Certification to approve a municipality’s HE&FSP, which would continue immunity from all
+exclusionary zoning lawsuits until July 30, 2035.
+
+B.     WHAT IS A HOUSING ELEMENT AND FAIR SHARE PLAN?
+
+A Housing Element and Fair Share Plan (HE&FSP) serves as the blueprint for how a municipality
+will address its fair share of affordable housing. It is designed to help a community broaden the
+accessibility of affordable housing.
+
+While technically a discretionary component of a
+                                                             The Municipal Land Use Law
+municipal master plan, a HE&FSP is nevertheless an
+                                                             (MLUL) is the enabling legislation
+effectively obligatory plan element. As established by       for municipal land use and
+NJSA 40:55D-62.a of the Municipal Land Use Law               development, planning, and
+(MLUL), a municipality must have an adopted HE&FSP in        zoning for the State of New Jersey.
+order to enact its zoning ordinance. Thus, from a public
+policy perspective, a HE&FSP is an essential community
+document. Moreover, without an approved HE&FSP, a municipality may be susceptible to a
+builder’s remedy lawsuit in which a developer could file suit to have a specific piece of property
+rezoned to permit housing at higher densities than a municipality would otherwise allow,
+provided a certain percentage of units are reserved as affordable.
+
+                                                              25 Westwood Avenue, Westwood NJ 07675           ͳͲ
+                                                      p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+    MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 14 of 79 Trans ID: LCV20251798743
+
+
+
+
+The Fair Housing Act, as most recently amended pursuant to FHA-2, establishes the required
+components of a HE&FSP. These are summarized as follows:
+
+   1. An inventory of the municipality’s housing stock by age, condition, purchase or rental
+      value, occupancy characteristics, and type, including the number of units affordable to
+      low- and moderate-income households and substandard housing capable of being
+      rehabilitated;
+   2. A projection of the municipality’s housing stock, including the probable future
+      construction of low- and moderate-income housing, for the next ten years, taking into
+      account, but not necessarily limited to, construction permits issued, approvals of
+      applications for development and probable residential development of lands;
+   3. An analysis of the municipality’s demographic characteristics, including but not necessarily
+      limited to, household size, income level and age;
+   4. An analysis of the existing and probable future employment characteristics of the
+      municipality;
+   5. A determination of the municipality’s present and prospective fair share for low- and
+      moderate-income housing and its capacity to accommodate its present and prospective
+      housing needs, including its fair share for low- and moderate-income housing;
+   6. A consideration of the lands that are most appropriate for construction of low- and
+      moderate-income housing and the existing structures most appropriate for conversion to,
+      or rehabilitation for, low- and moderate-income housing, including a consideration of
+      lands of developers who have expressed a commitment to provide low- and moderate-
+      income housing;
+   7. An analysis of the extent to which municipal ordinances and other local factors advance
+      or detract from the goal of preserving multigenerational family continuity as expressed in
+      the recommendations of the Multigenerational Family Housing Continuity Commission;
+   8. For a municipality located within the jurisdiction of the Highlands Water Protection and
+      Planning Council, an analysis of compliance of the housing element with the Highlands
+      Regional Master Plan of lands in the Highlands Preservation Area, and lands in the
+      Highlands Planning Area for Highlands conforming municipalities; and
+   9. An analysis of consistency with the State Development and Redevelopment Plan,
+      including water, wastewater, stormwater, and multi-modal transportation based on
+      guidance and technical assistance from the State Planning Commission.
+
+
+
+
+                                                             25 Westwood Avenue, Westwood NJ 07675           ͳͳ
+                                                     p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+    MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 15 of 79 Trans ID: LCV20251798743
+
+
+
+
+SECTION 2: HOUSING ELEMENT
+
+The following section provides the housing element for the Township of Hanover. It offers a
+community overview of the Township, as well as background information regarding its
+population, housing, and employment characteristics. It also provides projections of the
+Township’s housing stock and its employment.
+
+
+
+
+                                                          25 Westwood Avenue, Westwood NJ 07675           ͳʹ
+                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 16 of 79 Trans ID: LCV20251798743
+
+
+
+
+A.     COMMUNITY OVERVIEW
+
+The Township of Hanover is located in the easterly portion of Morris County. It is bound to the
+north by the Township of Parsippany-Troy Hills, to the east by the Township of East Hanover to
+the south by the Borough of Florham Park, to the southwest by the Township of Morris, and to
+the northwest by the Borough of Morris Plains, all of which are also located in Morris County.
+
+The Township, comprised of Cedar Knolls and Whippany, occupies an area of 10.8 square miles. It
+is located entirely within the Highlands Region, with the entirety of its land area located in the
+Highlands Planning Area.
+
+Major regional traffic is carried through the Township on Interstate Route 287, as well as States
+Routes 10 and 24. Route 287 runs north-south and traverses the central portion of the
+municipality. Routes 10 and 24 run east-west across the northern and southern portions of the
+municipality, respectively.
+
+The Whippany Line of the Morristown and Erie Railway, a small freight line, traverses the
+Township. The line runs from Morristown and runs through East Hanover Township and Hanover
+Township to Roseland.
+
+The community is characterized by a mixture of suburban residential neighborhoods, parkland
+and commercial & industrial businesses. The Morristown Airport is located in Hanover Township.
+It is the second largest corporate airport in New Jersey. Some of the businesses located in the
+Township include Bayer HealthCare and MetLife. Hanover also has five major hotels within its
+boundaries, including the Hanover Marriott Hotel, the Courtyard Hanover and Hyatt House. The
+Township’s existing land uses, as determined by Township tax records, are illustrated on the
+accompanying Existing Land Use Map.
+
+Environmentally constrained areas within the Township are identified on the accompanying
+Environmental Constraints Map. As shown, Hanover has extensive areas of wetlands, floodplains
+and flood hazard areas, streams, and steep slopes (defined as slopes greater than 15 percent).
+
+The accompanying Sewer Service Area Map illustrates the areas within Hanover Township that
+are within the Sewer Service Area.
+
+
+
+
+                                                              25 Westwood Avenue, Westwood NJ 07675           ͳ͵
+                                                      p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 17 of 79 Trans ID: LCV20251798743
+
+
+
+
+                           Map 1: Existing Land Use
+
+
+
+
+                                                    25 Westwood Avenue, Westwood NJ 07675           ͳͶ
+                                            p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 18 of 79 Trans ID: LCV20251798743
+
+
+
+
+                       Map 2: Environmental Constraints
+
+
+
+
+                                                    25 Westwood Avenue, Westwood NJ 07675           ͳͷ
+                                            p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 19 of 79 Trans ID: LCV20251798743
+
+
+
+
+                          Map 3: Sewer Service Area
+
+
+
+
+                                                   25 Westwood Avenue, Westwood NJ 07675           ͳ͸
+                                           p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 20 of 79 Trans ID: LCV20251798743
+
+
+
+
+B.     INFORMATION REGARDING DATA SOURCES
+
+The background information contained in Section 2.C entitled “Inventory of Municipal Housing
+Stock,” Section 2.D entitled “Projection of Municipal Housing Stock,” Section 2.E entitled
+“Demographic and Population Data,” and Section 2.F entitled “Employment Characteristics and
+Projections” was obtained from a variety of publicly available data sources. These are
+summarized below:
+
+        1.   United States Decennial                              4.     New Jersey Department of
+             Census                                                      Community Affairs (DCA)
+             The US Census is described in Article I, Section 2          The New Jersey Department of Community
+             of the Constitution of the United States, which             Affairs is a governmental agency of the State
+             calls for an enumeration of the people every ten            of New Jersey. Its function is to provide
+             years for the apportionment of seats in the                 administrative guidance, financial support,
+             House of Representatives. Since the time of the             and technical assistance to local
+             first Census conducted in 1790, it has become               governments, community development
+             the leading source of data about the nation’s               organizations, businesses, and individuals to
+             people and economy. Please note that all                    improve the quality of life in New Jersey.
+             incomes reported in the Census are adjusted for
+             inflation.
+
+        2.   American Community Survey                            5.     New Jersey Department of Labor
+             (ACS)                                                       and Workforce Development
+             The American Community Survey is a                          The New Jersey Department of Labor and
+             nationwide ongoing survey conducted by the                  Workforce Development is a governmental
+             US Census Bureau. The ACS gathers information               agency of the State of New Jersey. One of its
+             previously contained only in the long form                  roles is to collect labor market information
+             version of the decennial census, such as age,               regarding employment and wages
+             ancestry, educational attainment, income,                   throughout the state.
+             language proficiency, migration, disability,
+             employment, and housing characteristics. It
+             relies upon random sampling to provide
+             ongoing, monthly data collection. Please note
+             that all incomes reported in the ACS are
+             adjusted for inflation.
+
+        3.   New Jersey Department of Health                                
+             The New Jersey Department of Health is a
+             governmental agency of the State of New
+             Jersey. The department contains the Office of
+             Vital Statistics and Registry, which gathers data
+             regarding births, deaths, marriages, domestic
+             partnerships, and civil unions.
+
+
+
+
+                                                                               25 Westwood Avenue, Westwood NJ 07675           ͳ͹
+                                                                       p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 21 of 79 Trans ID: LCV20251798743
+
+
+
+
+C.      INVENTORY OF MUNICIPAL HOUSING STOCK
+
+This section of the Housing Element provides an inventory of the Township’s housing stock, as
+required by the MLUL. The inventory details housing characteristics such as age, condition,
+purchase/rental value, and occupancy. It also details the number of affordable units available to
+low- and moderate-income households and the number of substandard housing units capable of
+being rehabilitated.
+
+     1. Number of Dwelling Units. As shown in the accompanying table, the Township’s housing
+        stock grew substantially between 1990 and 2000. Whereas there were 3,882 dwellings in
+        1990, there were 4,818 dwellings in 2000, representing a 24 percent increase. However,
+        the rate of growth has fluctuated in subsequent decades, growing by 8 percent between
+        2000 and 2010, and by 16 percent between 2010 and 2020. Since 2020, the total number
+        of dwellings actually shrank by 3 percent, from 6,046 units in 2020 to 5,861 units in 2023.
+
+                                 Table 8: Dwelling Units (1990 to 2023)
+                      Year          Dwelling Units        Change (#)                Change (%)
+                      1990               3,882                --                        --
+                     2000                4,818               936                       24%
+                     2010*               5,222               404                        8%
+                     2020*               6,046               824                       16%
+                     2023*                5,861              -185                      -3%
+                      Sources: U.S. Census; *American Community Survey 5-Year Estimates.
+
+
+        The following table provides additional detail regarding the tenure and occupancy of the
+        Township’s housing stock. As shown below, 80 percent of the Township’s housing stock was
+        estimated to be owner-occupied in 2023, up slightly from 79 percent in 2010. Over this same
+        period, the percentage of vacant units decreased substantially, from 6 percent of all units in
+        2010 to just under 2 percent of all units in 2023.
+
+              Table 9: Housing Units by Tenure and Occupancy Status (2010 and 2023)
+                                            2010                       2023
+               Characteristics
+                                    Number        Percent     Number         Percent
+            Owner-occupied            4,122        78.9%        4,659         79.5%
+            Renter-occupied            792         15.2%        1,095         18.7%
+            Vacant units               308          5.9%         107           1.8%
+            Total                     5,222       100.0%        5,861        100.0%
+                             Source: American Community Survey 5-Year Estimates.
+
+
+
+
+                                                                     25 Westwood Avenue, Westwood NJ 07675           ͳͺ
+                                                             p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 22 of 79 Trans ID: LCV20251798743
+
+
+
+
+2. Housing Characteristics. The following tables provide additional information on the
+   characteristics of the Township’s housing stock, including data on the number of units in
+   the structure and the number of bedrooms. As shown below, the housing stock is
+   predominantly characterized by single-family detached units, which represent 66 percent
+   of all dwelling units. Single-family attached (townhouse) units represent the second most
+   predominant housing type, at 12 percent. Sixty-nine (69%) percent of all units in Hanover
+   have at least three bedrooms.
+                          Table 10: Units in Structure (2010 and 2023)
+                                                 2010                   2023
+              Units in Structure
+                                        Number       Percent    Number      Percent
+         Single Family, detached          3,728        71.4%      3,858      65.8%
+         Single Family, attached           442         8.5%        703       12.0%
+         2                                   86         1.6%       125        2.1%
+         3 or 4                             146        2.8%        156        2.7%
+         5 to 9                            296         5.7%        465        7.9%
+         10 to 19                          258         4.9%        285       4.9%
+         20 or More                        266          5.1%       269       4.6%
+         Mobile Home                          -        0.0%         -         0.0%
+         Other                                -        0.0%         -         0.0%
+         Total                            5,222       100.0%      5,861     100.0%
+                       Source: American Community Survey 5-Year Estimates.
+
+
+              Table 11: Number of Bedrooms in Housing Units (2010 and 2023)
+                                       2010                    2023
+               Bedrooms
+                               Number       Percent   Number        Percent
+            None                   24        0.5%         26         0.4%
+            One                   293        5.6%       465          7.9%
+            Two                  1,241       23.8%      1,330        22.7%
+            Three                1,620       31.0%      1,727        29.5%
+            Four                 1,758       33.7%      1,962        33.5%
+            Five or More          286        5.5%        351         6.0%
+            Total               5,222       100.0%     5,861        100.0%
+                       Source: American Community Survey 5-Year Estimates.
+
+
+3. Housing Age. The following table details the age of the Township’s housing stock. As
+   shown, the majority (47 percent) of the Township’s housing units were constructed prior
+   to 1980. Approximately 20 percent of Hanover’s housing stock was built in 2000 or later.
+
+
+
+
+                                                              25 Westwood Avenue, Westwood NJ 07675           ͳͻ
+                                                      p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+ MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 23 of 79 Trans ID: LCV20251798743
+
+
+
+
+                               Table 12: Year Structure Built (2023)
+                          Year Units Built     Number          Percent
+                         2020 or Later             0              0.0%
+                         2010 to 2019             549            9.4%
+                         2000 to 2009             590            10.1%
+                         1990 to 1999             974            16.6%
+                         1980 to 1989             426             7.3%
+                         1970 to 1979             897            15.3%
+                         1960 to 1969             806            13.8%
+                         1950 to 1959            1,199           20.5%
+                         1940 to 1949             159             2.7%
+                         1939 or earlier          261            4.5%
+                         Total                   5,861          100.0%
+                         Source: American Community Survey 5-Year Estimates.
+
+
+4.   Housing Conditions. An inventory of the Township’s housing conditions is presented in
+     the following tables. Table 13 identifies the extent of overcrowding in the Township,
+     defined as housing units with more than one occupant per room. The data indicates that
+     the number of occupied housing units considered overcrowded has increased slightly
+     since 2010, from 44 units (0.9 percent of all occupied units) in 2010 to 70 units (1.2 percent
+     of all occupied units) in 2023.
+
+                       Table 13: Occupants per Room (2010 and 2023)
+                                            2010                     2023
+       Occupants Per Room
+                                    Number       Percent      Number      Percent
+       1.00 or less                  4,870        99.1%        5,684       98.8%
+       1.01 to 1.50                   44          0.9%           70         1.2%
+       1.51 or more                    0          0.0%            0         0.0%
+       Total Occupied Units          4,914       100.0%        5,754      100.0%
+                         Source: American Community Survey 5-Year Estimates.
+
+
+     Table 14 below presents other key characteristics of housing conditions, including the
+     presence of complete plumbing and kitchen facilities and the type of heating equipment
+     used. As shown, 98.8 percent of all occupied housing units in the Township had
+     complete kitchen facilities in 2023, down from 99.8 percent in 2010. The percentage of
+     occupied housing units with complete plumbing and standard heating facilities in 2023
+     was 99.8 percent and 99.7 percent, respectively. These percentages are down just slightly
+     from 2010, when 99.9 percent of all occupied units had complete plumbing and 99.8
+     percent of all occupied units had standard heating facilities.
+
+
+
+
+                                                                25 Westwood Avenue, Westwood NJ 07675           ʹͲ
+                                                        p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 24 of 79 Trans ID: LCV20251798743
+
+
+
+
+   Table 14: Occupied Housing Units - Equipment and Plumbing Facilities (2010 and 2023)
+                                               2010                      2023
+                Facilities
+                                       Number       Percent   Number          Percent
+    Kitchen:
+    With Complete Facilities            4,905        99.8%     5,686           98.8%
+    Lacking Complete Facilities            9         0.2%         68            1.2%
+    Plumbing:
+    With Complete Facilities            4,907        99.9%     5,740           99.8%
+    Lacking Complete Facilities            7          0.1%        14            0.2%
+    Heating Equipment:
+    Standard Heating Facilities         4,906        99.8%     5,738           99.7%
+    Other Fuel                             0         0.0%          8            0.1%
+    No Fuel Used                           8         0.2%          8            0.1%
+    Total                                4,914      100.0%      8,102         100.0%
+                       Source: American Community Survey 5-Year Estimates.
+
+
+5. Purchase and Rental Values. Table 15 shows that although the percentage of Hanover’s
+   rental housing stock with monthly rents of $1,500 or more decreased between 2010 and
+   2023, shrinking from 99 percent of all renter-occupied units in 2010 to 87 percent of all
+   renter-occupied units in 2023, the Township’s median monthly rent grew by 51 percent
+   over this same period, increasing from $1,837 in 2010 to $2,768 in 2023.
+
+     Table 15: Gross Rent of Specified Renter-Occupied Housing Units (2010 and 2023)
+                                         2010                         2023
+             Rent
+                               Number          Percent      Number          Percent
+     Less than $500                10            1.4%           19            1.9%
+     $500 to $999                   -            0.0%           79            7.7%
+     $1,000 to $1,499               -            0.0%           39            3.8%
+     $1,500 to $1,999                                           88            8.6%
+     $2,000 to $2,499                                           43            4.2%
+                                 721            98.6%
+     $2,500 to $2,999                                          456           44.5%
+     $3,000 or more                                            301           29.4%
+     No cash rent                  61              X            70              X
+     Total                        731          100.0%         1,025          100.0%
+     Median Gross Rent                  $1,837                       $2,768
+                       Source: American Community Survey 5-Year Estimates.
+
+
+ Table 16 below shows that whereas only 52 percent of Hanover’s owner-occupied units had
+ a value of $500,000 or more in 2010, approximately 74 percent of Hanover’s owner-
+ occupied units had a value of $500,000 or more in 2023. The Township’s median housing
+ value grew by 21 percent during this period, increasing from $513,600 in 2010 to $619,800 in
+ 2023.
+
+
+                                                              25 Westwood Avenue, Westwood NJ 07675           ʹͳ
+                                                      p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 25 of 79 Trans ID: LCV20251798743
+
+
+
+
+        Table 16: Value of Specified Owner-Occupied Housing Units (2010 and 2023)
+                                             2000                     2023
+           Value Range
+                                    Number        Percent   Number          Percent
+     Less than $50,000                 33            0.8%        3            0.1%
+     $50,000 to $99,999                121           2.9%       95            2.0%
+     $100,000 to $149,999              54            1.3%       29            0.6%
+     $150,000 to $199,999              64            1.6%       29            0.6%
+     $200,000 to $299,999              179          4.3%        17           0.4%
+     $300,000 to $499,999             1,518         36.8%     1,017          21.8%
+     $500,000 to $999,999             2,101         51.0%     3,240          69.5%
+     $1,00,000 or more                 52            1.3%      229           4.9%
+     Total                           4,122         100.0%     4,659         100.0%
+     Median Value                          $513,600                 $619,800
+                      Source: American Community Survey 5-Year Estimates.
+
+
+6. Number of Units Affordable to Low- and Moderate-Income Households. Based on the
+   Affordable Housing Professionals of New Jersey (AHPNJ) 2024 regional income limits, the
+   median household income for a three-person household in COAH Region 2, Hanover’s
+   housing region comprised of Essex, Morris, Union and Warren counties, is $116,475. A
+   three-person moderate-income household, established at no more than 80 percent of
+   the median income, would have an income not exceeding $93,180. A three-person low-
+   income household, established at no more than 50 percent of the median income, would
+   have an income not exceeding $58,237.
+
+   An affordable sales price for a three-person moderate-income household earning 80
+   percent of the median income is estimated at approximately $255,000. An affordable
+   sales price for a three-person low-income household earning 50 percent of the median
+   income is estimated at approximately $155,000. These estimates are based on the UHAC
+   affordability controls outlined in N.J.A.C. 5:80-26.1 et seq. Approximately 3.7 percent of
+   Hanover’s owner-occupied housing units are valued at less than $300,000, 3.3 percent
+   are valued at less than $200,000, and 2.7 percent are valued at less than $150,000,
+   according to the 2023 American Community Survey.
+
+   For renter-occupied housing, an affordable monthly rent for a three-person moderate-
+   income household is estimated at approximately $2,300. An affordable monthly rent for a
+   three-person low-income household is estimated at approximately $1,500. According to
+   the 2023 American Community Survey, approximately 26.2 percent of Hanover’s rental
+   units have a gross rent less than $2,500, 22 percent have a gross rent less than $2,000,
+   and 13.4 percent have a gross rent less than $1,500.
+
+7. Substandard Housing Capable of Being Rehabilitated. As discussed in more detail in
+   Sections 3 of this plan, the Township of Hanover has undertaken a Structural Conditions
+
+                                                             25 Westwood Avenue, Westwood NJ 07675           ʹʹ
+                                                     p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 26 of 79 Trans ID: LCV20251798743
+
+
+
+
+        Survey, pursuant to COAH’s Round 2 rules, to provide an estimate of the number of units
+        in Hanover that are in need of rehabilitation and are not likely to experience
+        “spontaneous rehabilitation.” Per the results of the Structural Conditions Survey, Hanover’s
+        rehabilitation share is determined to be 10 units. The Township’s rehabilitation share is
+        further explored in Section 3, Fair Share Obligation, of this plan.
+
+D.      PROJECTION OF MUNICIPAL HOUSING STOCK
+
+The COAH regulations require a projection of the community’s housing stock, including the
+probable future construction of low- and moderate-income housing, for the ten years
+subsequent to the adoption of the Housing Element. This projection shall be based upon an
+assessment of data which minimally must include the number of residential construction permits
+issued, approvals of applications for residential development, and probable residential
+development of lands. Each of these items are identified and outlined below.
+
+     1. Housing Units Constructed During the Last Ten Years. The table below provides data
+        concerning residential building permits issued for new construction during the past ten
+        years. During this period, a total of 290 residential building permits were issued for new
+        construction, including 103 for one- and two-family residences and 187 for housing units
+        within multi-family developments. A total of 63 residential demolition permits were issued
+        during this period, all of which were for one- and two-family units. Therefore, the
+        Township of Hanover experienced a net growth of 227 new units over the last ten years.
+
+     Table 17: Number of Residential Building Permits Issued For New Construction (2014 to 2023)
+                                          Permits
+                                                                                       Net
+       Year Issued     1&2         Multi-       Mixed-                  Demos
+                                                              Total                  Growth
+                      Family      Family         Use
+           2014           7           0           0              7          6             1
+           2015          20           0           0            20          4             16
+           2016           2           0           0             2          17           -15
+           2017          17           0           0             17         13            4
+           2018           5           0           0             5           3             2
+           2019           6           0           0             6          4              2
+           2020           1            1          0             2           5           -3
+           2021           6          165          0            171          5          166
+           2022          34           21          0            55           3           52
+           2023           5           0           0             5           3             2
+           Total        103          187          0            290        63           227
+                 Source: New Jersey Department of Community Affairs (DCA) Construction Reporter.
+
+
+     2. Probable Residential Development of Lands. Considering the rate of residential growth
+        experienced in Hanover over the past ten years, current economic uncertainty, and the
+
+                                                                      25 Westwood Avenue, Westwood NJ 07675           ʹ͵
+                                                              p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+          MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 27 of 79 Trans ID: LCV20251798743
+
+
+
+
+            fact that there is a limited amount of vacant. developable parcels remaining in the
+            Township, it is anticipated that Hanover will continue to see only modest net growth in
+            one- and two-family residential development over the next ten years. The Township does,
+            however, anticipate more multi-family residential development than Hanover has
+            experienced over the past ten years due to projected construction of inclusionary
+            residential development, as discussed in more detail in the Fair Share Plan section of this
+            document.
+
+E.          DEMOGRAPHIC AND POPULATION DATA
+
+The MLUL requires that the Housing Element of this plan provide data on the municipality’s
+population, including population size, age and income characteristics.
+
+     1.     Population Size. As seen in the table below, the Township has experienced growth in
+            nearly every decade since 1920 (except in the 1980s), with the most growth occurring in
+            the 1950s. The 2023 population estimate of 14,627 people, provided by the American
+            Community Survey, suggests that Hanover has grown by approximately 7.4 percent since
+            2010.
+
+                                   Table 18: Population Growth (1920 to 2023)
+                    Year             Population             Change ( # )                      Change (%)
+                    1920                 1,595                     --                             --
+                    1930                 2,516                    921                            58%
+                    1940                 2,812                    296                            12%
+                    1950                 3,756                    944                            34%
+                    1960                 9,329                  5,573                           148%
+                    1970                10,700                   1,371                           15%
+                    1980                11,846                   1,146                           11%
+                    1990                11,538                   -308                            -3%
+                   2000                 12,898                  1,360                            12%
+                   2010*                13,622                    724                             6%
+                   2020*                14,371                    749                             5%
+                   2023*                14,627                    256                             2%
+                           Sources: U.S. Census, *American Community Survey 5-Year Estimates.
+
+
+     2.     Age Characteristics. The Township’s age characteristics, which are outlined in the table
+            below, indicate an aging community. The largest population decline between 2010 and
+            2023 occurred in the population age 25 to 44, which decreased by approximately 22
+            percent during this period. Meanwhile, the Township experienced a marked increase in
+            the population age 55 and over, which increased 40 percent between 2010 and 2023.
+            Overall, the median age of Township residents increased from 41.1 in 2010 to 46.5 in 2023.
+
+
+                                                                          25 Westwood Avenue, Westwood NJ 07675           ʹͶ
+                                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 28 of 79 Trans ID: LCV20251798743
+
+
+
+
+                        Table 19: Age Characteristics (2010 and 2023)
+                                          2010                     2023
+                   Age
+                                  Number       Percent     Number       Percent
+           Under 5 years             808         5.9%         841         5.7%
+           5 to 9 years              756         5.5%         621        4.2%
+           10 to 14 years            876        6.4%          927         6.3%
+           15 to 19 years            921         6.8%         818         5.6%
+           20 to 24 years            597        4.4%          832         5.7%
+           25 to 34 years           1,506       11.1%        1,139        7.8%
+           35 to 44 years           2,220       16.3%        1,778       12.2%
+           45 to 54 years           2,063       15.1%        2,241       15.3%
+           55 to 59 years            742        5.4%         1,330        9.1%
+           60 to 64 years            958         7.0%        1,063        7.3%
+           65 to 74 years           1,057        7.8%        1,648       11.3%
+           75 to 84 years            770         5.7%         930        6.4%
+           85 years and over         348         2.6%         459         3.1%
+           Total                   13,622      100.0%       14,627       100%
+           Median Age                     41.1                     46.5
+                       Source: American Community Survey 5-Year Estimates.
+
+
+3. Average Household Size. The average household size for the Township has fluctuated
+   somewhat since 2000, but, overall, the Township’s average household size has declined
+   significantly since 1970. In 2023, the average household size was 2.51 people per
+   household, down from 3.65 people per household in 1970.
+
+                     Table 20: Average Household Size (1970 to 2023)
+                        Year            Average Household Size
+                        1970                     3.65
+                        1980                     3.33
+                        1990                     3.03
+                        2000                     2.71
+                        2010*                    2.77
+                       2020*                     2.43
+                       2023*                     2.51
+                 Sources: U.S. Census, *American Community Survey 5-Year Estimates.
+
+4. Household Income. Detailed household income figures are shown in the table below. As
+   shown, between 2010 and 2023, the percentage of Hanover households earning annual
+   incomes of at least $200,000 increased by 136 percent. During this period, the Township’s
+   median household income increased by approximately 58 percent, from $100,962 in 2010
+   to $169,681 in 2023.
+
+
+
+                                                                25 Westwood Avenue, Westwood NJ 07675           ʹͷ
+                                                        p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 29 of 79 Trans ID: LCV20251798743
+
+
+
+
+                      Table 21: Household Income Distribution (2010 and 2023)
+                                                 2010                       2023
+                Income Category
+                                        Number        Percent      Number       Percent
+            Less than $10,000               28          0.6%          153          2.7%
+            $10,000 to $14,999             102          2.1%           25         0.4%
+            $15,000 to $24,999             260          5.3%          132          2.3%
+            $25,000 to $34,999             236          4.8%          275         4.8%
+            $35,000 to $49,999             433          8.8%          147          2.6%
+            $50,000 to $74,999             648         13.2%          414          7.2%
+            $75,000 to $99,999             720         14.7%          410          7.1%
+            $100,000 to $149,999          1,040        21.2%         1,127        19.6%
+            $150,000 to $199,999           704         14.3%         1,017        17.7%
+            $200,000 or more               743         15.1%        2,054         35.7%
+            Total                         4,914       100.0%        5,754        100.0%
+            Median                             $100,962                   $159,681
+                            Source: American Community Survey 5-Year Estimates.
+
+
+F.      EMPLOYMENT CHARACTERISTICS AND PROJECTIONS
+
+The MLUL requires that a Housing Element include data on employment levels in the community.
+The following tables present information on the Township’s employment characteristics.
+
+     1. Employment Status. Table 22 provides information on the employment status of
+        Township residents age 16 and over. As shown, the unemployment rate for Hanover’s
+        civilian labor force decreased between 2010 and 2023, from 4.1 percent in 2010 to 3.6
+        percent in 2023. Notably, the percentage of Hanover’s population not in the labor force
+        increased during this period, from 31.7 percent in 2010 to 34 percent in 2023.
+
+                  Table 22: Employment Status - Population 16 & Over (2010 and 2023)
+                                                   2010                        2023
+              Employment Status
+                                          Number         Percent       Number        Percent
+      In labor force                        7,457         68.3%          7,985        66.0%
+        Civilian labor force                7,457         68.3%          7,985        66.0%
+            Employed                        7,154         65.6%          7,695        63.6%
+            Unemployed                       303           2.8%           290         2.4%
+                % of civilian labor force     --           4.1%            --          3.6%
+        Armed Forces                          0            0.0%            0           0.0%
+      Not in labor force                   3,456          31.7%          4,109        34.0%
+      Total Population 16 and Over         10,913        100.0%         12,094       100.0%
+                            Source: American Community Survey 5-Year Estimates.
+
+
+
+
+                                                                   25 Westwood Avenue, Westwood NJ 07675           ʹ͸
+                                                           p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 30 of 79 Trans ID: LCV20251798743
+
+
+
+
+    2. Employment Characteristics of Employed Residents. The following two tables detail
+       information on the employment characteristics of Hanover residents. Table 23 details
+       employment by occupation and Table 24 details employment by industry. The majority
+       (61 percent) of the Township’s residents are employed in the management, business,
+       science and arts occupations. Additionally, the amount of residents employed in
+       education, health and social services has increased to more than one-quarter of the total
+       population. The number of residents working in wholesale trade, retail trade and
+       information has declined significantly since 2010.
+
+            Table 23: Employed Residents Age 16 and Over, By Occupation (2010 and 2023)
+                                                             2010                     2023
+                    Occupation
+                                                    Number        Percent     Number       Percent
+Management, business, science, and arts              3,799         53.1%       4,691        61.0%
+Service                                               778          10.9%         940        12.2%
+Sales and office                                     1,814         25.4%        1,341       17.4%
+Natural resources, construction, and maintenance      418           5.8%         391         5.1%
+Production, transportation, and material moving       345           4.8%         332        4.3%
+Total                                                7,154        100.0%       7,695       100.0%
+                           Source: American Community Survey 5-Year Estimates.
+
+
+              Table 24: Employed Residents Age 16 and Over, By Industry (2010 and 2023)
+                                                             2010                     2023
+                        Industry
+                                                     Number       Percent      Number      Percent
+Agriculture, forestry, fishing, hunting and mining      0           0.0%           0         0.0%
+Construction                                           420          5.9%         426         5.5%
+Manufacturing                                          933         13.0%         891        11.6%
+Wholesale trade                                        262          3.7%          59         0.8%
+Retail trade                                           704          9.8%         399         5.2%
+Transportation, warehousing and utilities              179          2.5%         408         5.3%
+Information                                            333          4.7%         191         2.5%
+Finance, insurance, real estate, rental and leasing    833         11.6%         721         9.4%
+Professional, scientific, management,                 1,133        15.8%        1,396       18.1%
+administrative and waste management services
+Educational, health and social services               1,477        20.6%        2,035       26.4%
+Arts, entertainment, recreation, accommodation         303         4.2%          556         7.2%
+and food services
+Other services (except public administration)          204          2.9%         201         2.6%
+Public administration                                  373          5.2%         412         5.4%
+Total                                                 7,154       100.0%        7,695      100.0%
+                           Source: American Community Survey 5-Year Estimates.
+
+
+
+
+                                                                  25 Westwood Avenue, Westwood NJ 07675           ʹ͹
+                                                          p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 31 of 79 Trans ID: LCV20251798743
+
+
+
+
+3. Employment Projections. A projection of the Township’s probable future employment
+   characteristics is based on an assessment of historic employment trends, the number of
+   non-residential construction permits issued, and probable non-residential development of
+   lands. Each of these items are identified and outlined below.
+
+   a. Historic Employment Trends. The table below provides data on Hanover’s average
+      annual employment since 2014. As shown, total covered employment fluctuated
+      greatly during this period. Job losses in 2014 and 2015 were fully recovered by 2019.
+      Although the Township lost jobs again in 2020 due to the impact of COVID-19 and
+      the ensuing economic contraction, job growth has been steady since 2020, increasing
+      approximately 5.7 percent on average per year.
+
+                  Table 25: Covered Employment Trends (2014 to 2023)
+                                            Change in
+               Year      Number of Jobs                    Percent Change
+                                          Number of Jobs
+               2014           15,982            --                --
+               2015               14,171                 -1,811                   -12.8%
+               2016              13,702                  -469                     -3.4%
+               2017              14,597                   895                      6.1%
+               2018              15,084                   487                      3.2%
+               2019              16,816                  1,732                    10.3%
+               2020              16,436                  -380                     -2.3%
+               2021              17,337                   901                      5.2%
+               2022              18,535                  1,198                     6.5%
+               2023              19,622                  1,087                     5.5%
+                   Sources: New Jersey Department of Labor and Workforce Development
+
+
+   b. Non-Residential Square Footage Constructed During the Last Ten Years. The table
+      below provides data concerning the amount of non-residential square footage
+      authorized by building permits between 2010 and 2023. During this period, building
+      permits were issued for nearly 1.5 million square feet of non-residential space. Over 70
+      percent of this space was for storage, and 16 percent of this was office space.
+      Approximately 9 percent was retail space. Since 2014, the Township has issued permits
+      for an average of 151,000 square feet of non-residential space per year.
+
+
+
+
+                                                                  25 Westwood Avenue, Westwood NJ 07675           ʹͺ
+                                                          p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+         MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 32 of 79 Trans ID: LCV20251798743
+
+
+
+
+            Table 26: Non-Residential Space Authorized by Building Permits (sq. ft.) (2014 to 2023)
+ Year                                                 Institu-   Indus-      Hazar
+           Office       Retail    A-2         A-3                                          Storage                         Total
+Issued                                                 tional      trial     -dous
+ 2014    32,648       0         0           0         0          620        0            38,934                          72,202
+ 2015    50,705       0         19,032      0         0          0          0            148,715                         218,452
+ 2016    110,696      0         0           0         0          0          0            0                               110,696
+ 2017    8,680        0         0           0         0          0          0            332,337                         341,017
+ 2018    24,111       117,573   0           39,532    0          0          0            332,337                         513,553
+ 2019    994          0         3,523       0         9,000      0          0            19,665                          33,182
+ 2020    10,593       0         0           0         0          0          0            18,222                          28,815
+ 2021    78           0         0           1,950     0          5,332      0            103,520                         110,880
+ 2022    0            4,008     2,250       0         0          0          0            72,553                          78,811
+ 2023    0            0         0           0         0          0          109          1                               110
+ Total   238,505      121,581   24,805      41,482    9,000      5,952      109          1,066,284                       1,507,718
+                    Source: New Jersey Department of Community Affairs (DCA) Construction Reporter.
+
+
+           c. Probable Non-Residential Development of Lands. The Township experienced an
+              average of approximately 151,000 square feet of new non-residential space per year
+              over the past decade, the vast majority of which was for new warehouse and storage
+              space. While the Township anticipates that it will continue to experience strong non-
+              residential growth over the next ten-year period, especially in warehouse and storage
+              uses, it is expected that this growth will slow somewhat due to market conditions,
+              limited available land, and the loss of existing non-residential developments to
+              inclusionary residential developments.
+
+           d. Probable Future Employment Characteristics. As detailed in Table 25 above,
+              employment levels in Hanover have fluctuated over the past decade. However, since
+              2020, the number of jobs in the Township has increased by an average of
+              approximately 5.7 percent per year. It is anticipated that Hanover may continue to
+              experience annual employment growth over the next decade, but perhaps at a slower
+              pace due to the trend toward warehouse and storage uses, which typically employ
+              fewer people than office and retail uses, as well as due to the limited availability of
+              land loss of existing non-residential developments to inclusionary residential
+              developments.
+
+
+
+
+                                                                         25 Westwood Avenue, Westwood NJ 07675            ʹͻ
+                                                                 p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+    MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 33 of 79 Trans ID: LCV20251798743
+
+
+
+
+SECTION 3: FAIR SHARE OBLIGATION
+
+The following section provides an overview of the Township’s fair share obligation. It includes a
+brief overview of the methodology utilized to calculate affordable housing obligations
+throughout the state.
+
+
+
+
+                                                             25 Westwood Avenue, Westwood NJ 07675           ͵Ͳ
+                                                     p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 34 of 79 Trans ID: LCV20251798743
+
+
+
+
+A.     SUMMARY OF FAIR SHARE OBLIGATION
+
+On March 20, 2024, Governor Murphy signed the A4/S50 Bill into law, which amended the Fair
+Housing Act (FHA-2) for the Fourth Round and beyond.
+
+FHA-2 now designates the Department of Community Affairs (DCA) as the entity responsible for
+calculating the state’s regional needs. Specifically, NJSA 52:27D-304.2 establishes the
+methodology to be utilized by the DCA to determine the state’s regional prospective needs of
+low- and moderate-income housing for the ten-year period spanning from July 1, 2025 to June
+30, 2035. In summary, the projected household change for this period is estimated by
+establishing the household change experienced in each region between the most recent federal
+decennial census and the second-most recent decennial census. This household change, if
+positive, is then to be divided by 2.5 to estimate the number of low- and moderate-income
+homes needed to address low- and moderate-income household change in the region for the
+next ten years. According to the DCA, this methodology resulted in a statewide prospective need
+of 84,698 low- and moderate-income units.
+
+Furthermore, the DCA is also the entity responsible for calculating each municipality’s present
+and prospective fair share obligations. However, FHA-2 makes clear that these calculations are
+advisory and non-binding, and that each municipality may set its own obligation number utilizing
+the same methodology.
+
+On January 23, 2025, the Township of Hanover adopted Resolution No. 39-2025, which
+established its affordable housing obligations for the Fourth Round. A copy of this resolution is
+located in Appendix A of this plan. As noted in that resolution, the Township did not accept
+DCA’s Present Need calculation of 69 units, opting instead to conduct a Structural Conditions
+Survey pursuant to COAH’s Round 2 rules, the results of which identified a reduced Present Need
+obligation of 10 units. This is discussed in greater detail herein below.
+
+As also noted in Resolution No. 39-2025, the Township did not accept DCA’s Prospective Need
+calculation of 544 units, opting instead to conduct its own analysis of Hanover’s Land Capacity
+Factor. The results of that analysis found that DCA arrived at the Township’s Land Capacity Factor
+based, in part, on incorrect assumptions and erroneous data and that – based on an accurate
+calculation of the Township’s vacant, developable land – the Township’s Prospective Need
+number for Round 4 should be 442 units. Ultimately, a trial court order issued on May 2, 2025
+officially set the Township’s Round Four Present Need at 10 and its Round Four Prospective Need
+at 461. A copy of the trial court order is included in Appendix B of this plan.
+
+Resolution No. 39-2025 also noted that the Township reserves the right to conduct a Vacant
+Land Adjustment (VLA) to determine its Realistic Development Potential (RDP). This too is
+discussed in greater detail herein below.
+
+
+                                                              25 Westwood Avenue, Westwood NJ 07675           ͵ͳ
+                                                      p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 35 of 79 Trans ID: LCV20251798743
+
+
+
+
+                            Table 27: Summary of Fair Share Obligation
+                              Affordable Obligation                    Units
+                  Present Need (Rehabilitation)                    10
+                  Prospective Need                                 461
+
+B.     STRUCTURAL CONDITIONS SURVEY
+
+As noted above, the DCA identified a Present Need (rehabilitation) obligation of 69 units for
+Hanover Township. To more accurately reflect its substandard units in need of rehabilitation, the
+Township conducted a Structural Conditions Survey utilizing the available criteria established in
+N.J.A.C. 5:93-5.2 and N.J.A.C. 5:97-6.2, which reference “Appendix C” of the rules. As per NJAC
+5:93-5.2:
+
+       “Each municipality shall be provided with the Council’s estimate for substandard units
+       occupied by low and moderate income households. This estimate shall be the municipality’s
+       indigenous need, unless the municipality or an objector performs the Council’s Structural
+       Conditions Survey (see Appendix C, incorporated herein by reference). Where the
+       municipality or objector performs the Structural Conditions Survey, the Council shall review
+       the results of the data collected and shall modify the indigenous need if it determines a
+       modification is warranted.”
+
+Appendix C of N.J.A.C. 5:93 identifies that the first step in the Structural Conditions Survey
+process is for the municipal Construction Official (or their designee) to conduct an exterior survey
+to determine the number of substandard units in the municipality.
+
+In regard to this first step, Hanover’s Construction Official conducted an exterior survey of the
+Township on December 20, 2024. As per that survey, the Construction Official observed 10 units
+being in need of repair. A copy of the completed survey is located in Appendix C of this plan.
+
+The second step in the process, per Appendix C of N.J.A.C. 5:93, is to estimate the number of
+those surveyed units found to be substandard that are occupied by low- and moderate-income
+households. In order to come up with this estimate, Appendix C states that “the Council will rely
+on census information that is available from the Public Use Micro-Data Sample (PUMS).”
+However, in calculating Round 4 Present Need obligations, the DCA did not rely on PUMS data
+for determining the percent of substandard units occupied by low- and moderate-income
+households in each municipality. Instead, the DCA relied on HUD’s Comprehensive Housing
+Affordability Strategy (CHAS) dataset for this estimate. The DCA’s Fourth Round Methodology
+Report provides the reasoning behind this as follows:
+
+       “Previous approaches have calculated county-level LMI deficient housing shares from the
+       American Community Survey Public Use Microdata Sample (PUMS) and used them to
+       estimate the LMI-occupied portion of each municipality’s deficient housing. However, this
+
+                                                               25 Westwood Avenue, Westwood NJ 07675           ͵ʹ
+                                                       p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 36 of 79 Trans ID: LCV20251798743
+
+
+
+
+       approach essentially assumes that the LMI share of deficient housing is uniform in a
+       county, which is not the case. For example, data from HUD’s Comprehensive Housing
+       Affordability Strategy (CHAS) dataset show that for 2017-21, the LMI share of housing
+       lacking complete plumbing or kitchen facilities in Atlantic County was 69.1 percent.
+       However, in Brigantine, it was 100 percent. Using the county LMI deficient share for
+       Brigantine would result in underestimating city present need, undercounting the number of
+       deficient housing units actually occupied by LMI households.
+
+       Therefore, the analysis utilizes data from HUD’s Comprehensive Housing Affordability
+       Strategy (CHAS) dataset, which has municipality-level data on the number and percentage
+       of LMI households from a special tabulation of Census Bureau American Community
+       Survey (ACS) data. The latest CHAS data release at the time of calculation corresponds to
+       the 2017-2021 5 Year Estimates. To ensure data year and source consistency, the LMI
+       deficient housing calculation relies on 2017-2021 data.”
+
+Therefore, in order to conduct the second step in our Structural Conditions Survey, we relied on
+the CHAS data and DCA’s methodology. The CHAS data for Hanover estimated the number of
+substandard units occupied by low- and moderate-income households was 100 percent. When
+applying this same percentage to the units identified as substandard by the Structural Conditions
+Survey, a total of 10 units are determined to be in need of rehabilitation. As such, the Township
+has estimated their Present Need to be 10 units.
+
+C.     REALISTIC DEVELOPMENT POTENTIAL
+
+The Township of Hanover is a fully developed community and is therefore entitled to adjust its
+Prospective Need obligation in accordance with a procedure set forth in the FHA. Specifically,
+N.J.S.A. 52:27D-310.1 permits the Township to perform a VLA analysis to determine its Realistic
+Development Potential (RDP).
+
+A VLA analysis requires an identification of vacant sites and underutilized sites in a municipality .
+Municipalities are required to consider all privately- and municipally-owned vacant parcels, as
+well as underutilized sites such as driving ranges, farms in SDRP Planning Areas 1 and 2, nurseries,
+golf courses not owned by their members, and non-conforming uses.
+
+However, municipalities are also permitted to eliminate a site or a portion of a site based on a
+variety of factors, including: lands dedicated for public uses other than housing since 1997; park
+lands or open space; vacant contiguous parcels in private ownership of a size which would
+accommodate fewer than five housing units; historic and architecturally important sites listed on
+the State Register of Historic Places or the National Register of Historic Places; preserved
+architectural lands; sites designated for active recreation; and environmentally sensitive lands.
+
+
+
+                                                               25 Westwood Avenue, Westwood NJ 07675           ͵͵
+                                                       p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 37 of 79 Trans ID: LCV20251798743
+
+
+
+
+1. Third Round RDP
+
+   The Township’s Third Round Prospective Need obligation was adjusted by a VLA, which
+   determined the Township’s RDP. As set forth in Hanover’s Third Round Settlement
+   Agreement with FSHC, as amended, and 2021 HE&FSP, the Township’s VLA determined
+   that it had sufficient vacant land to address an RDP of 550 units. The Township’s Third
+   Round RDP of 550 units was ultimately approved by a court in Hanover’s Third Round
+   JOR. A copy of the Township’s Third Round VLA is included at Appendix D of this plan.
+
+2. Fourth Round RDP
+
+   Hanover continues to lack vacant, developable land and is entitled to rely on its previous
+   VLA which established its RDP. This is informed by COAH regulations regarding same at
+   N.J.A.C. 5:97-5.1(c) and (d), which state that:
+
+      A vacant land adjustment that was granted as part of a (previous) round certification or
+      judgment of compliance shall continue to be valid provided the municipality has
+      implemented all of the terms of the substantive certification or judgment of compliance.
+      If the municipality failed to implement the terms of the substantive certification or
+      judgment of compliance, the Council may reevaluate the vacant land adjustment.
+
+   Further, a municipal RDP obligation is considered “fixed” and shall not be revisited absent
+   a changed circumstance. FSHC vs Twp. of Cherry Hill, 173 NJ 303 (2002) is the leading
+   case that required a possible recalibration of an RDP based upon “changed
+   circumstances.”
+
+   As such, we undertook a detailed analysis of potential changed circumstances in the
+   Township in order to evaluate whether any such changed circumstance would warrant a
+   recalibration of the RDP. This analysis included a review of all development applications in
+   Hanover since 2019 and a review of all vacant lots in private and public ownership (Class 1
+   and Class 15), as well as all farm qualified (Class 3B) properties within SDRP Planning Areas
+   1 and 2 in the Township.
+
+   At this time, we have determined that five properties represent a changed circumstance
+   requiring a Fourth Round RDP obligation. These five properties are as follows:
+
+
+
+
+                                                          25 Westwood Avenue, Westwood NJ 07675           ͵Ͷ
+                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 38 of 79 Trans ID: LCV20251798743
+
+
+
+
+     a. Bayer South Campus Redevelopment Area
+
+
+
+
+        The Bayer South Campus (Bayer) site encompasses a 91-acre area comprised of
+        Block 5801 Lot 1.06 (commonly known as 85 Whippany Road) and a portion of Lot
+        1.03 (commonly known as 100 Bayer Boulevard). This area is developed with
+        surface parking and accessory structures associated with the Bayer Corporation US
+        Headquarters office building situated on the balance of Lot 1.03. In June 2024, the
+        Township designated this site as a Condemnation Area in Need of Redevelopment
+        and, in February 2025, the Township adopted a Redevelopment Plan for the site.
+        This Redevelopment Plan allows the tract to be developed with mixed-use
+        development, including up to 400 multi-family and townhouse residential units
+        plus an additional 5-bedroom special needs/supportive housing group home. As
+        such, the Township now anticipates that this property can accommodate up to
+        405 dwelling units, which, at a 20 percent set-aside, equates to an RDP of 81 units.
+        The Township therefore assigns this property a Fourth Round RDP obligation of 81
+        units.
+
+
+
+
+                                                       25 Westwood Avenue, Westwood NJ 07675           ͵ͷ
+                                               p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 39 of 79 Trans ID: LCV20251798743
+
+
+
+
+     b. 99 Mountain Avenue
+
+
+
+
+        The Township owns a 1.06-acre parcel at 99 Mountain Avenue (Block 905 Lot
+        16.01) which is presently undeveloped. The Township is currently working with
+        Morris ARC to develop a 6-bedroom group home on this lot for individuals with
+        special needs. These special needs bedrooms will contribute 6 credits toward the
+        Township’s Fourth Round Unmet Need. Considering this changed circumstance,
+        the Borough assigns the 99 Mountain Avenue site a Fourth Round RDP obligation
+        of 1.2 units, based on a 20 percent set-aside applied to the 6-unit development.
+
+     c. Clara Realty, Inc.
+
+
+
+
+                                                     25 Westwood Avenue, Westwood NJ 07675           ͵͸
+                                             p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 40 of 79 Trans ID: LCV20251798743
+
+
+
+
+        The Clara Realty, Inc. site encompasses an area of 0.99 acres and is comprised of
+        three parcels identified by Township tax records as Block 4201 Lot 1 (64 Parsippany
+        Road), Lot 2 (20 Mt. Pleasant Avenue) and Lot 3 (16 Mt. Pleasant Avenue), all of
+        which are owned by Clara Realty, Inc. Although the parcels are developed with an
+        existing dwelling, parking area, and store with apartments, the Township Planning
+        Board has tentatively agreed to a concept plan for the site which would allow it to
+        be redeveloped with mixed-use development including 10 new apartment units,
+        subject to the Township Committee amending the zoning on the property.
+        Considering this changed circumstance, the Township assigns the Clara Realty, Inc.
+        site a Fourth Round RDP obligation of 2 units, based on a 20 percent set-aside
+        applied to the 10 units anticipated to be developed thereon.
+
+     d. 41 Ridgedale Avenue
+
+
+
+
+        The 4.446-acre site located at 41 Ridgedale Avenue (Block 2701 Lot 25.01) is
+        owned by Monarch Developers, LLC (Monarch). The site is developed with a
+        former restaurant building, a parking area and two dwellings. In August 2022,
+        Monarch was granted preliminary and final site plan approval, as well as ‘c’
+        variance relief, by the Hanover Township Planning Board to construct a 160-unit
+        age-restricted independent/assisted living/memory care facility on the premises.
+        That approval, however, has expired and no extensions have been granted.
+        Instead, Monarch (through its affiliate JMF Properties) has expressed interest in
+        redeveloping the site with an inclusionary multi-family development.
+
+        Although multi-family development is not permitted on this property, the
+        Township nevertheless takes the conservative position that this is a changed
+        circumstance warranting an RDP obligation. For the purposes of determining RDP,
+
+                                                       25 Westwood Avenue, Westwood NJ 07675           ͵͹
+                                               p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 41 of 79 Trans ID: LCV20251798743
+
+
+
+
+        the Township has assigned a presumptive density of 13 units per acre (consistent
+        with the maximum permitted density in the adjacent R-M Residential-Multifamily
+        Zone) and a 20 percent set-aside to this property, resulting in a Fourth Round
+        RDP obligation of 11.6 units.
+
+     e. 80 South Jefferson Road
+
+
+
+
+        The property located at 80 South Jefferson Road encompasses an area of 8.47
+        acres (excluding a portion of the lot within the right-of-way) and is identified by
+        Township tax records as Block 2403 Lot 2. According to NJDEP environmental
+        mapping and FEMA/NJ ADAPT flood data, approximately 3.0 acres of the
+        property are constrained with wetlands, flood hazard areas, and the Whippany
+        River, which runs along the northern boundary of the site. It is developed with a
+        three-story office building and surface parking. Although the tax records indicate
+        that the property is owned by Toback Realty, LLC, a letter from Bisgaier Hoff to
+        the Township dated April 7, 2025 identifies the owner of the property as JMF
+        Properties (JMF). According to JMF, the office building has a vacancy rate of over
+        90 percent and JMF has expressed interest in redeveloping the site with an
+        inclusionary multi-family development.
+
+        Although multi-family development is not permitted on this property, the
+        Township nevertheless takes the conservative position that this is a changed
+        circumstance warranting an RDP obligation. For the purposes of determining RDP,
+        the Township has assigned a presumptive density of 13 units per gross acreage on
+        the property (which equates to a net density of 20 units per acre when subtracting
+        out the environmental constraints) and a 20 percent set-aside, resulting in a
+        Fourth Round RDP obligation of 22 units.
+
+                                                       25 Westwood Avenue, Westwood NJ 07675           ͵ͺ
+                                               p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 42 of 79 Trans ID: LCV20251798743
+
+
+
+
+  Based on the above changed circumstances, which generate 81 units, 1.2 units, 2 units,
+  11.6 units and 22 units, respectively, for the purposes of calculating Fourth Round RDP, we
+  find that Hanover has a total Fourth Round RDP obligation of 118 units (117.8 units
+  rounded up). The Township’s proposal to satisfy this obligation is set forth in the following
+  Section 4, Fair Share Plan.
+
+
+
+
+                                                         25 Westwood Avenue, Westwood NJ 07675           ͵ͻ
+                                                 p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+    MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 43 of 79 Trans ID: LCV20251798743
+
+
+
+
+SECTION 4: FAIR SHARE PLAN
+
+The following Fair Share Plan outlines the components and mechanisms the Township will utilize
+to address its affordable housing obligations.
+
+
+
+
+                                                           25 Westwood Avenue, Westwood NJ 07675           ͶͲ
+                                                   p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+       MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 44 of 79 Trans ID: LCV20251798743
+
+
+
+
+A.        PLAN SUMMARY
+
+The Fair Share Plan identifies the manner in which the Township’s fair share affordable housing
+obligations are to be addressed. These obligations are summarized as follows:
+
+                            Table 28: Affordable Housing Obligations Summary
+                       Category                         Obligation         RDP                     Unmet Need
+     Present Need (Rehabilitation) Obligation         10               --                          --
+     First & Second Round Obligation (1987-1999)      356              --                          --
+     Third Round Obligation (1999-2025)               975              550                         425
+     Fourth Round Obligation (2025-2035)              461              118                         343
+
+As detailed herein, the Housing Element and Fair Share Plan can accommodate the entirety of
+the community’s affordable housing obligation through 2035 in a manner that affirmatively
+addresses affordable housing need, while at the same time addressing planning concerns and
+maintaining the overall character of the community.
+
+B.        PLAN COMPONENTS
+
+This section of the plan details the projects, mechanisms and funding sources which will be used
+to meet the Township’s affordable housing obligations, as discussed above. The Plan
+Components Map included at the end of this plan illustrates the location of all developments
+identified herein.
+
+      1. Present Need (Rehabilitation) Obligation
+
+          As established in Section 3 of this plan, Hanover has a Present Need (Rehabilitation)
+          obligation for the Fourth Round of 10 units. The Township will address this obligation by
+          continuing to contract with Rehabco, Inc. to administer Hanover’s municipal Home
+          Improvement Program, which is available to both owners and renters. The Township will
+          utilize funds from the Township’s affordable housing trust fund to fund this program.
+
+          In addition to the municipal Home Improvement Program, the Township will continue to
+          participate in the Morris County Housing Rehabilitation Program to help address its
+          rehabilitation share, to the extent that funding is available for the County program.
+          Participation in the program is established through an interlocal agreement and utilizes
+          Community Development Block Grant (CDBG) funds.
+
+          In order to satisfy its rehabilitation obligation, the Township of Hanover will commit to
+          spend an average of at least $25,000 per unit. This will require a total contribution of
+          $250,000. Pursuant to COAH’s rules that allow municipalities to utilize money collected
+          from development fees for this purpose, the Township shall set aside the required
+
+                                                                 25 Westwood Avenue, Westwood NJ 07675              Ͷͳ
+                                                         p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+ MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 45 of 79 Trans ID: LCV20251798743
+
+
+
+
+       $250,000 from its affordable housing trust fund account to be made available to income-
+       qualified households to participate in the program. As of January 31, 2025, that account
+       contains a balance of $5,086,187, thus demonstrating sufficient funding for the Township’s
+       Rehabilitation Program. A copy of the Township’s Fourth Round Spending Plan is included
+       at Appendix E of this plan.
+
+ 2. First and Second Round Obligation
+
+       Hanover’s First and Second Round obligation is 356 units. The Township has addressed
+       the entirety of this obligation with a combination of RCAs completed under the Prior
+       Round JOR, units from both inclusionary and 100 percent affordable developments,
+       special needs/supportive housing units, and rental bonus credits permitted in accordance
+       with COAH’s Round 2 rules. These components are identified in the table below, with
+       more detail on each development provided in Section 4.C.
+
+              Table 29: Plan Components Satisfying First & Second Round Obligation
+            Plan Component                   Units         Bonus       Total                        Status
+RCA:
+      City of Orange Twp.                     9              --                  9             Completed
+Inclusionary Development:
+      Hanover Hills                           39             --                 39             Completed
+      Sunrise at Hanover                      32             --                 32             Completed
+      Eden Mill Village                       66             --                 66             Completed
+      Oak Ridge at Hanover                    50             --                 50             Completed
+      Sterling Parc (rentals) – senior        44             14                 58             Completed
+100% Affordable - Rentals:
+      Saddlebrook Court - family              15             15                 30             Completed
+Special Needs/Supportive Housing:
+      21 Longview Dr. ARC                     4              4                   8             Completed
+      Saddlebrook Court                       5               5                 10             Completed
+      Horse Hill Rd. I ARC                    6               6                 12             Completed
+      Whippany Jewish Assoc.                  4              4                   8             Completed
+      Mountain Ave. ARC                       5               5                 10             Completed
+      Eden Lane ARC                           6               6                 12             Completed
+      Allegro School                          6               6                 12             Completed
+Total                                        291             65                356             --
+
+ 3. Third Round RDP
+
+       As discussed in Section 3 of this plan, Hanover’s Third Round RDP obligation is 550 units.
+       The Township’s 2021 HE&FSP, which was prepared pursuant to a 2019 Settlement
+       Agreement with FSHC (as amended through 2021) and granted a Third Round JOR in
+       2021, identified various plan mechanisms to address the entirety of its Third Round RDP
+                                                             25 Westwood Avenue, Westwood NJ 07675              Ͷʹ
+                                                     p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+        MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 46 of 79 Trans ID: LCV20251798743
+
+
+
+
+            obligation, including a combination of credits from existing affordable units, proposed
+            inclusionary housing units, special needs/supportive housing units, and rental bonus
+            credits permitted in accordance with COAH’s Round 2 rules. These components are
+            identified in Table 30 below. As shown, whereas 179 units and 129 rental bonus credits
+            have been completed toward the Township’s 550-unit Third Round RDP obligation, 233
+            units and 9 rental bonus credits still have yet to be fulfilled. All of these projects remain
+            viable, however, and are discussed in more detail in Section 4.C.
+
+                            Table 30: Plan Components Satisfying Third Round RDP
+                   Plan Component                          Units       Bonus     Total                                       Status
+100% Affordable - Rentals:
+      Saddlebrook Court - family                            58           58       116                                 Completed
+Inclusionary Development:
+      Woodmont Knolls (rentals) - family                     14           14       28                                 Completed
+      Sterling Parc (rentals) – family                        8            8       16                                 Completed
+      Sterling Parc (rentals) – senior                       12            4       16                                 Completed
+      Jewish Metrowest I (rentals) – senior                 36            12      48                                  Completed
+      Silverman/Corporate Mailings (rentals) – family       20           20       40                                  Completed
+      Airport Road (rentals) – family                       42           9*        51                                 Settlement
+      Completed River Park (rentals) - family                13          13*       26                                 Completed
+      Remaining River Park (rentals) - family               127           --      127                                 Settlement
+      JMF Affordable (190 Park Ave)(rentals) – senior       60            --       60                                 Settlement
+Special Needs/Supportive Housing:
+      Rose House                                             12           --       12                                 Completed
+      Horse Hill Rd. II ARC                                   6           --        6                                 Completed
+      River Park Supportive Housing                           4           --       4                                  Settlement
+Total                                                       412         138       550                                 --
+*: Although the 2021 HE&FSP assigned 22 rental bonus credits to Airport Road (up to the 25% bonus cap), the Township now assigns
+                          13 of these rental bonus credits to completed family rental units at River Park.
+
+        4. Fourth Round RDP
+
+            As established in Section 3 of this plan, Hanover has a Fourth Round RDP obligation of
+            118 units. The Township will satisfy the entirety of this 118-unit Fourth Round RDP
+            obligation with a combination of completed extensions of affordability controls, planned
+            inclusionary family rental units, and special needs bedrooms, plus bonus credits permitted
+            in accordance with FHA-2. These plan components are summarized in Table 31 below.
+
+
+
+
+                                                                             25 Westwood Avenue, Westwood NJ 07675               Ͷ͵
+                                                                     p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+      MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 47 of 79 Trans ID: LCV20251798743
+
+
+
+
+                          Table 31: Plan Components Satisfying Fourth Round RDP
+                     Plan Component                             Units    Bonus                            Total               Status
+Extensions of Affordability Controls:
+    Oak Ridge (for sale) – family                                27        --                              27          Completed
+Special Needs/Supportive Housing:
+    99 Mountain Morris ARC Group Home                            6         6*                               12         Proposed
+    Bayer South Campus Group Home                                5         5*                               10         Proposed
+Inclusionary Development:
+    Bayer South Campus Redevelopment (rentals) - family          51       18**                             69          Proposed
+Total                                                            89        29                              118         --
+                  * Based on 1.0 bonus credit for each unit special needs/supportive housing unit, per FHA-2.
+ **: 0.5 bonus credit per unit constructed on land previously utilized for office/commercial, per FHA-2 (up to 25% bonus cap).
+
+
+          We note that FHA-2 includes language which requires VLA municipalities to satisfy at least
+          25 percent of their Fourth Round RDP obligation through redevelopment. Specifically,
+          amended Section 1 of P.L.1995, c.231 (C.52:27D-310.1) of FHA-2 states:
+
+               Any municipality that receives an adjustment of its prospective need obligations for
+               the fourth round or subsequent rounds based on a lack of vacant land shall as part
+               of the process of adopting and implementing its housing element and fair share
+               plan identify sufficient parcels likely to redevelop during the current round of
+               obligations to address at least 25 percent of the prospective need obligation that
+               has been adjusted, and adopt realistic zoning that allows for such adjusted
+               obligation, or demonstrate why the municipality is unable to do so.
+
+          For the Fourth Round, Hanover’s “prospective need obligation that has been adjusted“
+          (i.e., its RDP obligation) is 118 units. As such, the Township has a redevelopment obligation
+          of 30 units, as 25 percent of 118 is 30. As identified in Table 31 above, the Township’s 118-
+          unit Fourth Round RDP will be satisfied with 51 family rental units and 5 group home
+          bedrooms to be constructed at the Bayer South Campus site, which is a portion of the
+          Bayer Corporate Headquarters that has been designated as an Area in Need of
+          Redevelopment and has been rezoned via adoption of a Redevelopment Plan to allow for
+          mixed-use development inclusive of inclusionary housing. The requirement to satisfy 25
+          percent of the RDP with redevelopment through realistic zoning is therefore also satisfied
+          with these 56 units, representing 47 percent of the RDP obligation.
+
+ C.       DEVELOPMENT SITES
+
+ Each of the Township’s existing affordable housing sites identified in Section B. is discussed in
+ more detail below. The Plan Components Map included at the end of this plan illustrates the
+ location of all developments identified herein.
+
+
+
+                                                                              25 Westwood Avenue, Westwood NJ 07675                ͶͶ
+                                                                      p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 48 of 79 Trans ID: LCV20251798743
+
+
+
+
+1. Hanover Hills. The Hanover Hills inclusionary development was created as part of
+   Hanover’s First and Second Round plan for affordable housing compliance, and were part
+   of the Township’s combined First and Second Round Housing Element and Fair Share
+   Plan that received substantive certification from COAH pursuant to N.J.S.A. 52:27D-313
+   and N.J.A.C. 5:93 on August 4, 1999. It is located on Ridgedale Avenue and encompasses
+   an area of 13.2 acres. The property is identified by municipal tax records as Block 1502 Lot
+   21. The development, which was completed in 1994, contains a total of 165 units, including
+   39 affordable family for-sale units.
+
+   As detailed in Section B. above, the Township assigns credit for all 39 of the affordable
+   units to Hanover’s First and Second Round obligation. In addition, the Township assigns
+   additional credit toward the Township’s Third Round Unmet Need for all 39 of the
+   affordable units, since all of the initial 30-year affordability controls were set to expire
+   before the end of the Third Round, but the Township has taken action to extend the
+   affordability control period for each of the affordable units by resolution adopted on July
+   12, 2018 for an additional 30-year period running from the date the initial affordability
+   control period was set to expire, as discussed further in Section D. below.
+
+                                  Aerial 1: Hanover Hills
+
+
+
+
+2. Sunrise at Hanover. The Sunrise at Hanover inclusionary development was created as part
+   of Hanover’s First and Second Round plan for affordable housing compliance, and were
+   part of the Township’s combined First and Second Round Housing Element and Fair
+   Share Plan that received substantive certification from COAH pursuant to N.J.S.A. 52:27D-
+   313 and N.J.A.C. 5:93 on August 4, 1999. It is located on Parsippany Road at Sunrise Drive
+   and encompasses an area of 14.3 acres. The property is identified by municipal tax
+   records as Block 9101 Lot 17. The development, which was completed in the Fall of 1989,
+   contains a total of 155 units, including 32 affordable family for-sale units.
+
+
+                                                          25 Westwood Avenue, Westwood NJ 07675              Ͷͷ
+                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 49 of 79 Trans ID: LCV20251798743
+
+
+
+
+   As detailed in Section B. above, the Township assigns credit for all 32 of the affordable
+   units to Hanover’s First and Second Round obligation. In addition, the Township assigns
+   additional credit toward the Township’s Third Round Unmet Need for all 32 of the
+   affordable units, since all of the initial 30-year affordability controls were set to expire
+   before the end of the Third Round, but the Township has taken action to extend the
+   affordability control period for each of the affordable units by resolution adopted on July
+   12, 2018 for an additional 30-year period running from the date the initial affordability
+   control period was set to expire, as discussed further in Section D. below.
+
+                               Aerial 2: Sunrise at Hanover
+
+
+
+
+3. Eden Mill Village. The Eden Mill Village inclusionary development was created as part of
+   Hanover’s First and Second Round plan for affordable housing compliance, and were part
+   of the Township’s combined First and Second Round Housing Element and Fair Share
+   Plan that received substantive certification from COAH pursuant to N.J.S.A. 52:27D-313
+   and N.J.A.C. 5:93 on August 4, 1999. It is located on Eden Lane and encompasses an area
+   of 24.7 acres. The property is identified by municipal tax records as Block 4402 Lot 14. The
+   development, which was completed in 1992, contains a total of 298 units, including 66
+   affordable family for-sale units.
+
+   As detailed in Section B. above, the Township assigns credit for all 66 of the affordable
+   units to Hanover’s First and Second Round obligation. In addition, the Township assigns
+   additional credit toward the Township’s Third Round Unmet Need for all 66 of the
+   affordable units, since all of the initial 30-year affordability controls were set to expire
+   before the end of the Third Round, but the Township has taken action to extend the
+   affordability control period for each of the affordable units by resolution adopted on July
+   12, 2018 for an additional 30-year period running from the date the initial affordability
+   control period was set to expire, as discussed further in Section D. below.
+
+
+                                                          25 Westwood Avenue, Westwood NJ 07675              Ͷ͸
+                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 50 of 79 Trans ID: LCV20251798743
+
+
+
+
+                                Aerial 3: Eden Mill Village
+
+
+
+
+4. Oak Ridge at Hanover. The Oak Ridge at Hanover inclusionary development was created
+   as part of Hanover’s First and Second Round plan for affordable housing compliance, and
+   were part of the Township’s combined First and Second Round Housing Element and Fair
+   Share Plan that received substantive certification from COAH pursuant to N.J.S.A. 52:27D-
+   313 and N.J.A.C. 5:93 on August 4, 1999. It is located on Whippany Road and
+   encompasses an area of 17.4 acres. The property is identified by municipal tax records as
+   Block 4301 Lot 2. The development, which was completed in 1996, contains a total of 210
+   units, including 50 affordable family for-sale units.
+
+   As detailed in Section B. above, the Township assigns credit for all 50 of the affordable
+   units to Hanover’s First and Second Round obligation. In addition, the Township assigns
+   additional credit toward the Township’s Fourth Round Prospective Need obligation for all
+   50 of the affordable units, since the initial 30-year affordability controls for these units
+   were originally set to expire before the end of the Fourth Round, but the Township has
+   already taken measures to will extend the affordability controls on each of these
+   affordable units. Specifically, the Township has taken action to extend the affordability
+   control period for each of the affordable units by resolution adopted on July 12, 2018 for
+   an additional 30-year period running from the date the initial affordability control period
+   was set to expire. In addition, to date, the owners of record of 27 of these 50 affordable
+   units have executed a deed restriction that has been recorded in the Office of the Morris
+   County Clerk to reflect the Township’s prior extension of the affordability control period
+   for an additional 30-year term. The Township assigns credit for these 27 extensions
+   toward Hanover’s Fourth Round RDP obligation, and assigns credit for the remaining 23
+   extensions toward Hanover’s Fourth Round Unmet Need.
+
+
+
+
+                                                          25 Westwood Avenue, Westwood NJ 07675              Ͷ͹
+                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 51 of 79 Trans ID: LCV20251798743
+
+
+
+
+                                    Aerial 4: Oak Ridge
+
+
+
+
+5. Sterling Parc. The Sterling Parc (previously known as Cedar Glen at Hanover) inclusionary
+   development was created as part of Hanover’s First and Second Round plan for
+   affordable housing compliance. It is located on Ridgedale Avenue and encompasses an
+   area of 22.7 acres. The property is identified by municipal tax records as Block 2701 Lot 23
+   and Block 2503 Lot 6. The development, which was approved in 1996 but not completed
+   until 2002, contains a total of 316 units, including 64 affordable rental units. These 64
+   affordable units consist of 56 age-restricted affordable rental units and 8 affordable family
+   rental units.
+
+   As detailed in Section B. above, the Township assigns credit for 44 of the age-restricted
+   affordable rental units to Hanover’s First and Second Round obligation, and assigns credit
+   for the remaining 12 age-restricted affordable rental units plus the 8 affordable family
+   rental units to Hanover’s Third Round RDP obligation. In addition, pursuant to COAH’s
+   Round 2 rules, the family rental units are eligible for 2:1 rental bonus credits, while the
+   age-restricted rental units are eligible for 1.33:1 rental bonus credits. As such, the
+   Township also assigns 14 rental bonus credits toward the First and Second Round
+   obligation, and 12 rental bonus credits toward the Third Round RDP obligation.
+
+
+
+
+                                                           25 Westwood Avenue, Westwood NJ 07675              Ͷͺ
+                                                   p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 52 of 79 Trans ID: LCV20251798743
+
+
+
+
+                                  Aerial 5: Sterling Parc
+
+
+
+
+6. Saddlebrook Court. The 100 percent affordable Saddlebrook Court development (now
+   known as The Willows at Cedar Knolls) was approved by the Hanover Planning Board in
+   2011 during the Third Round Gap Period. It is located at 220 Ridgedale Avenue and
+   encompasses an area of 15.3 acres. The property is identified by municipal tax records as
+   Block 1702 Lot 12.02. The development, which was completed in 2014, contains a total of
+   73 affordable family rental units and 5 special needs/supportive housing bedrooms.
+
+   As detailed in Section B. above, the Township assigns credit for 15 of the affordable family
+   rental units plus all 5 of the special needs/supportive housing bedrooms to Hanover’s First
+   and Second Round obligation, and assigns credit for the remaining 58 affordable family
+   rental units to Hanover’s Third Round RDP obligation. In addition, the family rental units
+   and special needs/supportive housing bedrooms are all eligible for 2:1 rental bonus
+   credits, pursuant to COAH’s Round 2 rules. As such, the Township also assigns 20 rental
+   bonus credits toward the First and Second Round obligation, and 58 rental bonus credits
+   toward the Third Round RDP obligation.
+
+
+
+
+                                                           25 Westwood Avenue, Westwood NJ 07675              Ͷͻ
+                                                   p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 53 of 79 Trans ID: LCV20251798743
+
+
+
+
+                              Aerial 6: Saddlebrook Court
+
+
+
+
+7. 21 Longview Dr. ARC. The 21 Longview Dr. ARC group home was part of Hanover’s First
+   and Second Round plan for affordable housing compliance. It is located at 21 Longview
+   Drive and encompasses an area of 0.34 acres. The property is identified by municipal tax
+   records as Block 5302 Lot 21. The 21 Longview Dr. ARC group home contains 4 special
+   needs bedrooms. As detailed in Section B. above, the Township assigns credit for all 4
+   bedrooms to Hanover’s First and Second Round obligation. In addition, special
+   needs/supportive housing bedrooms are eligible for 2:1 rental bonus credits, pursuant to
+   COAH’s Round 2 rules. As such, the Township also assigns 4 rental bonus credits toward
+   the First and Second Round obligation.
+
+                             Aerial 7: 21 Longview Dr. ARC
+
+
+
+
+                                                        25 Westwood Avenue, Westwood NJ 07675              ͷͲ
+                                                p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 54 of 79 Trans ID: LCV20251798743
+
+
+
+
+8. Horse Hill Rd. I ARC. The Horse Hill Rd. I ARC group home was part of Hanover’s First and
+   Second Round plan for affordable housing compliance. It is located at 32 Horsehill Road
+   and encompasses an area of 3.2 acres. The property is identified by municipal tax records
+   as Block 601 Lot 5. The Horse Hill Rd. I ARC group home contains 6 special needs
+   bedrooms. As detailed in Section B. above, the Township assigns credit for all 6 bedrooms
+   to Hanover’s First and Second Round obligation. In addition, the special needs/supportive
+   housing bedrooms are eligible for 2:1 rental bonus credits, pursuant to COAH’s Round 2
+   rules. As such, the Township also assigns 6 rental bonus credits toward the First and
+   Second Round obligation.
+
+                               Aerial 8: Horse Hill Rd. I ARC
+
+
+
+
+9. Whippany Jewish Association. The Whippany Jewish Association group home was opened
+   and licensed in 2010 during the Third Round Gap Period. It is located at 18 Jeffrie Trail and
+   encompasses an area of 0.4 acres. The property is identified by municipal tax records as
+   Block 5304 Lot 12. The Whippany Jewish Association group home contains 4 special
+   needs bedrooms. As detailed in Section B. above, the Township assigns credit for all 4
+   bedrooms to Hanover’s First and Second Round obligation. In addition, the special
+   needs/supportive housing bedrooms are eligible for 2:1 rental bonus credits, pursuant to
+   COAH’s Round 2 rules. As such, the Township also assigns 4 rental bonus credits toward
+   the First and Second Round obligation.
+
+
+
+
+                                                           25 Westwood Avenue, Westwood NJ 07675              ͷͳ
+                                                   p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 55 of 79 Trans ID: LCV20251798743
+
+
+
+
+                         Aerial 9: Whippany Jewish Association
+
+
+
+
+10. Mountain Ave. ARC. The Mountain Ave. ARC group home was part of Hanover’s First and
+    Second Round plan for affordable housing compliance. It is located at 100 Mountain
+    Avenue and encompasses an area of 1.39 acres. The property is identified by municipal
+    tax records as Block 908 Lot 10.01. The Mountain Ave. ARC group home contains 5 special
+    needs bedrooms. As detailed in Section B. above, the Township assigns credit for all 5
+    bedrooms to Hanover’s First and Second Round obligation. In addition, the special
+    needs/supportive housing bedrooms are eligible for 2:1 rental bonus credits, pursuant to
+    COAH’s Round 2 rules. As such, the Township also assigns 5 rental bonus credits toward
+    the First and Second Round obligation.
+
+                             Aerial 10: Mountain Ave. ARC
+
+
+
+
+                                                         25 Westwood Avenue, Westwood NJ 07675              ͷʹ
+                                                 p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 56 of 79 Trans ID: LCV20251798743
+
+
+
+
+11. Eden Lane ARC. The Eden Lane ARC group home was opened and licensed in 2002
+    during the Third Round Gap Period. It is located at 60 Eden Lane and encompasses an
+    area of 0.89 acres. The property is identified by municipal tax records as Block 2601 Lot 1.
+    The Eden Lane ARC group home contains 6 special needs bedrooms. As detailed in
+    Section B. above, the Township assigns credit for all 6 bedrooms to Hanover’s First and
+    Second Round obligation. In addition, the special needs/supportive housing bedrooms
+    are eligible for 2:1 rental bonus credits, pursuant to COAH’s Round 2 rules. As such, the
+    Township also assigns 6 rental bonus credits toward the First and Second Round
+    obligation.
+
+                                 Aerial 11: Eden Lane ARC
+
+
+
+
+12. Allegro School. The Allegro School group home was opened and licensed in 2010 during
+    the Third Round Gap Period. It is located at 20 Elm Place and encompasses an area of 0.5
+    acres. The property is identified by municipal tax records as Block 2503 Lot 6.02. The
+    Allegro School group home contains 6 special needs bedrooms. As detailed in Section B.
+    above, the Township assigns credit for all 6 bedrooms to Hanover’s First and Second
+    Round obligation. In addition, the special needs/supportive housing bedrooms are
+    eligible for 2:1 rental bonus credits, pursuant to COAH’s Round 2 rules. As such, the
+    Township also assigns 6 rental bonus credits toward the First and Second Round
+    obligation.
+
+
+
+
+                                                           25 Westwood Avenue, Westwood NJ 07675              ͷ͵
+                                                   p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 57 of 79 Trans ID: LCV20251798743
+
+
+
+
+                                 Aerial 12: Allegro School
+
+
+
+
+13. Woodmont Knolls. The Woodmont Knolls (previously known as Cedar Knolls Mews)
+    inclusionary development was approved by the Hanover Planning Board in 2008 during
+    the Third Round Gap Period. It is located at 225 Cedar Knolls Road and encompasses an
+    area of 14.6 acres. The property is identified by municipal tax records as Block 2302 Lot 2.
+    The development, which was completed in 2014, contains a total of 126 units, including 14
+    affordable family rental units. As detailed in Section B. above, the Township assigns credit
+    for all 14 affordable family rental units to Hanover’s Third Round RDP obligation. In
+    addition, the units are eligible for 2:1 rental bonus credits, pursuant to COAH’s Round 2
+    rules. As such, the Township also assigns 14 rental bonus credits toward the Third Round
+    RDP obligation.
+
+                               Aerial 13: Woodmont Knolls
+
+
+
+
+                                                           25 Westwood Avenue, Westwood NJ 07675              ͷͶ
+                                                   p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 58 of 79 Trans ID: LCV20251798743
+
+
+
+
+14. Jewish Metrowest I. The Jewish Metrowest I inclusionary development (also known as
+    Lester Senior Housing) was created as part of Hanover’s First and Second Round plan for
+    affordable housing compliance. It is located on Ridgedale Avenue and encompasses an
+    area of 38 acres. The property is identified by municipal tax records as Block 4001 Lot 9.
+    The development, which was approved in 1998 but not completed until 2001, contains a
+    total of 180 senior independent and assisted living units, including 36 age-restricted
+    affordable rental units. As detailed in Section B. above, the Township assigns credit for all
+    36 age-restricted affordable rental units to Hanover’s Third Round RDP obligation. In
+    addition, the units are eligible for 1.33:1 rental bonus credits, pursuant to COAH’s Round 2
+    rules. As such, the Township also assigns 12 rental bonus credits toward the Third Round
+    RDP obligation.
+
+                               Aerial 14: Jewish Metrowest I
+
+
+
+
+15. Rose House. The Rose House group home was opened and licensed in 2011 during the
+    Third Round Gap Period. It is located at 290 Cedar Knolls Road and encompasses an area
+    of 0.85 acres. The property is identified by municipal tax records as Block 2501 Lot 17. The
+    Rose House group home contains 12 special needs bedrooms. As detailed in Section B.
+    above, the Township assigns credit for all 12 bedrooms to Hanover’s Third Round RDP
+    obligation. Because affordability controls are in effect for only 20 years, the bedrooms are
+    not eligible for 2:1 rental bonus credits pursuant to COAH’s Round 2 rules.
+
+
+
+
+                                                           25 Westwood Avenue, Westwood NJ 07675              ͷͷ
+                                                   p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 59 of 79 Trans ID: LCV20251798743
+
+
+
+
+                                 Aerial 15: Rose House
+
+
+
+
+16. Horse Hill Rd. II ARC. The Horse Hill Rd. II ARC group home was part of Hanover’s First
+    and Second Round plan for affordable housing compliance. It is located at 30 Horsehill
+    Road and encompasses an area of 3.2 acres. The property, which also contains the Horse
+    Hill Rd. I ARC group home, is identified by municipal tax records as Block 601 Lot 5. The
+    Horse Hill Rd. II ARC group home contains 6 special needs bedrooms. As detailed in
+    Section B. above, the Township assigns credit for all 6 bedrooms to Hanover’s Third
+    Round RDP obligation. Because affordability controls are in effect for only 20 years, the
+    bedrooms are not eligible for 2:1 rental bonus credits pursuant to COAH’s Round 2 rules.
+
+                             Aerial 16: Horse Hill Rd. II ARC
+
+
+
+
+                                                          25 Westwood Avenue, Westwood NJ 07675              ͷ͸
+                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 60 of 79 Trans ID: LCV20251798743
+
+
+
+
+17. Silverman/Corporate Mailings. The Silverman/Corporate Mailings inclusionary
+    development (also known as 26 Parsippany Road) was created as part of Hanover’s Third
+    Round plan for affordable housing compliance. It is located at 26 Parsippany Road, which
+    encompasses an area of 11.73 acres. It is identified by municipal tax records as Block 4204
+    Lot 1. The development, which was approved in 2019 and completed in 2023, contains a
+    total of 129 family rental units, including 20 affordable family rental units. As detailed in
+    Section B. above, the Township assigns credit for all 20 affordable units toward Hanover’s
+    Third Round RDP obligation. In addition, the units are eligible for 2:1 rental bonus credits,
+    pursuant to COAH’s Round 2 rules. As such, the Township also assigns 20 rental bonus
+    credits toward the Third Round RDP obligation.
+
+                          Aerial 17: Silverman/Corporate Mailings
+
+
+
+
+18. Airport Road. In April of 2019, the Township entered into a Settlement Agreement with
+    Michael Alfieri of 25-35 Airport Road, LLC and 45 Airport Road, LLC in order to resolve
+    Alfieri’s intervention in the Township’s 2015 Declaratory Judgment action. This Settlement
+    Agreement was later amended in May 2020. Alfieri is the owner of approximately 25 acres
+    of property along Airport Road. It is identified by municipal tax records as Block 4901 Lots
+    2, 17 and 19.
+
+   The property is currently developed with an office building, but was rezoned on
+   November 14, 2019, pursuant to the terms of the initial Airport Road Settlement
+   Agreement, to allow it to be redeveloped with an inclusionary multifamily rental
+   development at a density of 11 units per acre and a minimum 15 percent set-aside for
+   affordable housing, resulting in approximately 42 affordable family rental units. On
+   October 8, 2020, pursuant to the terms of the amended Airport Road Settlement
+   Agreement, the Township amended the zoning applicable to the site to allow for
+   additional development – up to 325 total units – which, at a 15 percent set-aside, will yield
+   up to 49 affordable family rental units.
+                                                           25 Westwood Avenue, Westwood NJ 07675              ͷ͹
+                                                   p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 61 of 79 Trans ID: LCV20251798743
+
+
+
+
+  Although the owner/developer applied to the Hanover Township Planning Board for
+  Preliminary and Final Site Plan approval and was deemed administratively complete in
+  2021, that application is still pending. The developer concurrently applied to the NJDEP for
+  determination of the wetlands extent and classification. The NJDEP determination limited
+  the developable area of the site more than previously conceived, requiring a redesign of
+  the development and further amendment to the applicable zoning to increase the
+  maximum building height. Said zoning amendment (Ordinance 18-2025), a copy of
+  which is included in Appendix F of this plan, was introduced on May 8, 2025 and is
+  pending adoption.
+
+  Although this plan component has not yet been constructed, the site continues to present
+  a realistic opportunity for the production of affordable housing. Specifically, the site
+  remains:
+
+     a. Approvable. The Township has zoned the site for inclusionary development with a
+        required set-aside for affordable housing, an application for preliminary site plan
+        approval has been filed, and the Board has deemed the application to be
+        administratively complete. Due to the NJDEP wetland determination cited above
+        and the subsequent need to amend the zoning regulations, the development
+        application has been delayed. However, the zoning amendment to permit the
+        redesigned development has been introduced and is currently pending adoption.
+
+     b. Available. There are no known title issues or encumbrances which would prohibit
+        the development of this site.
+
+     c. Developable. The site has access to appropriate water infrastructure and has
+        adequate sewer treatment capacity. Due to limitations on the sewage conveyance
+        capacity in the area, however, the development will need to include a pump
+        station and extension of the force main in order to connect to the sanitary sewer
+        system.
+
+     d. Suitable. The site is adjacent to compatible land uses and has access to
+        appropriate streets. Additionally, although the site is partially constrained by
+        environmentally sensitive features, including wetlands, state open waters and flood
+        hazard area, the property continues to be able to accommodate the level of
+        development contemplated herein based on the proposed redesign of the project
+        and amendments to applicable zoning.
+
+  As detailed in Section B. above, the Township assigns credit for 42 of the 49 affordable
+  units to be generated from this development toward Hanover’s Third Round RDP
+  obligation, and assigns credit for the 7 remaining affordable housing units toward
+  Hanover’s Third Round Unmet Need. In addition, the 42 units assigned to Third Round
+
+                                                         25 Westwood Avenue, Westwood NJ 07675              ͷͺ
+                                                 p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+    MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 62 of 79 Trans ID: LCV20251798743
+
+
+
+
+        RDP are eligible for 2:1 rental bonus credits, pursuant to COAH’s Round 2 rules, up to the
+        25 percent cap. As such, the Township also assigns 9 rental bonus credits (which is the
+        maximum permitted per N.J.A.C. 5:93-5.15.d) toward the Third Round RDP obligation.
+
+                                          Aerial 18: Airport Road
+
+
+
+
+    19. River Park. In February of 2019, the Township entered into a Settlement Agreement with
+        River Park Business Center, LLC, in order to resolve River Park’s intervention in the
+        Township’s 2015 Declaratory Judgment action. This Settlement Agreement was later
+        amended in May 2020. River Park is the owner of property situated along the Whippany
+        River between Parsippany Road, Eden Lane, South Jefferson Road, the Morristown & Erie
+        railroad line and Legion Place, which encompasses an area of 81.17 acres. It is identified by
+        municipal tax records as Block 3801 Lots 2.01, 2.02, 2.03 and 2.04 and Block 4101 Lot 1 and
+        was occupied by the Whippany Paper Board Company until 1980.
+
+        In accordance with the initial River Park Settlement Agreement, on August 8, 2019, the
+        Hanover Township Committee declared by resolution that the site be designated a ‘non-
+        condemnation area in need of redevelopment’ and, on December 12, 2019, the Hanover
+        Township Committee adopted a Redevelopment Plan for certain portions of the site
+        (inclusive of Block 4101 Lot 1, Block 4301 Lot 61, and the eastern portion of former Lot 2 in
+        Block 3801), allowing for mixed-use development to include 967 units of inclusionary
+        residential development (including 140 affordable family rental units, consisting of 50
+        percent two-bedroom units and 50 percent three-bedroom units) and 32 bedrooms2 of
+        affordable special needs/supportive housing in a separate building.
+
+1
+ Block 4301 Lot 6 is owned by the Morris County Parks Commission.
+2
+ Although both the initial River Park Settlement Agreement and FSHC Settlement Agreement identify 30 special
+needs/supportive housing bedrooms on this site, the River Park Redevelopment Plan increased the number of
+special needs/supportive housing bedrooms to 32 in order to offset the shortfall of special needs bedrooms at
+the Our Lady of Mercy group home, which is discussed in Section D. below.
+                                                                    25 Westwood Avenue, Westwood NJ 07675              ͷͻ
+                                                            p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 63 of 79 Trans ID: LCV20251798743
+
+
+
+
+  On October 8, 2020, pursuant to the terms of the amended River Park Settlement
+  Agreement, the Township adopted an Amended and Restated Redevelopment Plan
+  which allows for development of the eastern portion of the tract as contemplated above,
+  while also allowing the western portion of the tract to be developed with additional
+  mixed-use development for the purposes of addressing the Township’s Third Round
+  Unmet Need. This is discussed in more detail in Section D. below.
+
+  On March 23, 2021, River Park was granted Preliminary and Final Site Plan approval for 81
+  units of inclusionary residential development (including 13 affordable family rental units),
+  and on August 16, 2022, River Park was granted Preliminary and Final Site Plan approval
+  for an additional 309 units of inclusionary development (including 47 affordable family
+  rental units). To date, River Park has completed construction of 81 of these units, which
+  include 13 affordable family rental units at 34 Eden Lane (Block 3801 Lot 2.03).
+
+  Although this plan component has not yet been fully constructed, the site continues to
+  present a realistic opportunity for the production of affordable housing. River Park has
+  been in discussions with the Township regarding a potential redesign of the project
+  consistent with the existing Redevelopment Plan in order to address certain hurdles
+  obtaining outside agency approvals, but has expressed its commitment to proceed with
+  development of the town center and redevelopment plan.
+
+  As detailed in Section B. above, the Township assigns credit for all 140 of the affordable
+  family rental units to be generated from the eastern portion of this development toward
+  Hanover’s Third Round RDP obligation, and assigns credit for the 75 additional affordable
+  housing units that may be produced in the western portion of the River Park tract toward
+  Hanover’s Third Round Unmet Need. In addition, credits for 4 of the 32 special needs
+  bedrooms will be applied toward the Township’s Third Round RDP, while credits for the
+  remaining 28 special needs bedrooms will be applied toward the Township’s Third Round
+  Unmet Need. Also, pursuant to COAH’s Round 2 rules, the units assigned to the Third
+  Round RDP are eligible for 2:1 rental bonus credits, up to the 25 percent cap. As such,
+  the Township also assigns 13 rental bonus credits for the completed affordable family
+  rental units toward the Third Round RDP obligation.
+
+
+
+
+                                                         25 Westwood Avenue, Westwood NJ 07675              ͸Ͳ
+                                                 p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 64 of 79 Trans ID: LCV20251798743
+
+
+
+
+                                             Aerial 19: River Park
+
+
+
+
+    20. JMF/190 Park Avenue. On or about March 22, 2019, the Township entered into a
+        Settlement Agreement with JMF Acquisitions, LLC, with JMF being an interested party in
+        the Township’s 2015 Declaratory Judgment action. The JMF Settlement Agreement
+        pertains to a 23.86-acre area situated in the Whippany section of Hanover Township
+        along the south side of Route 10 identified at the time by municipal tax records as Block
+        8803, Lot 17 and Block 4001, Lots 10, 11, 12, 13, 14 and a portion of Lot 93. In accordance
+        with the JMF Settlement Agreement, the Hanover Township Committee declared by
+        resolution on August 8, 2019 that the site be designated a ‘non-condemnation area in
+        need of redevelopment’ and the Hanover Township Committee adopted a
+        Redevelopment Plan for the site on July 9, 2020, which was subsequently amended on
+        October 8, 2020 and December 10, 2020. The Pine Plaza Redevelopment Plan, as
+        amended, allowed the site to be redeveloped with a retail/commercial component largely
+        in conformance with existing B-10 Highway Business District zone standards, as well as a
+        residential component consisting of 60 market rate for-sale townhouse units. This
+        development is currently under construction.
+
+        Additionally, the Pine Plaza Redevelopment Plan, as amended, called for the off-site
+        development of 60 senior affordable rental units. Based upon subsequent settlement
+        negotiations between the Township and JMF, the site designated for development of the
+        60 senior affordable rental units is a vacant 5.72-acre site located at 190 Park Avenue,
+        which is identified by municipal tax records as Block 4802 Lot 2.01.4 In February 2021, the
+        Township rezoned the site to a new RM-7 Residence Zone that permits the development
+
+
+3
+  Although the JMF Settlement Agreement also includes Lots 6 and 7, these parcels are no longer proposed to
+be part of the inclusionary redevelopment of the site.
+4
+  Although the Redevelopment Plan refers to former Lot 2 in Block 4802 (consisting of 3.30 acres), this property
+was subsequently merged with a portion of the adjacent former Lot 1 and is now Block 4802 Lot 2.01.
+                                                                      25 Westwood Avenue, Westwood NJ 07675              ͸ͳ
+                                                              p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 65 of 79 Trans ID: LCV20251798743
+
+
+
+
+  of 60 age-restricted affordable rental units, as well as 150 market rate rental units
+  (comprised of a minimum of 70 unfurnished one-bedroom units, a maximum of 50
+  unfurnished two-bedroom units, a minimum of 15 furnished one-bedroom units, and a
+  maximum of 15 furnished two-bedroom units), in order to address the inclusionary
+  affordable housing component of the Pine Plaza Redevelopment Plan. The 60 affordable
+  senior rental units to be constructed on the 190 Park Avenue site represent a 22.2 percent
+  set-aside of the 270 total units on the Pine Plaza and 190 Park Avenue sites.
+
+  On November 23, 2021, JMF was granted Preliminary and Final Site Plan approval for 210
+  units of inclusionary residential development, including 60 affordable age-restricted rental
+  units). However, no units have yet been constructed to date. Two extensions of the
+  Planning Board’s approval have been granted through November 23, 2025.
+
+  Although this plan component has not yet been constructed, the site continues to present
+  a realistic opportunity for the production of affordable housing. Specifically, the site
+  remains:
+
+     a. Approvable. The Township has zoned the site for inclusionary development with a
+        required set-aside for affordable housing, and preliminary and final site plan
+        approval has already been granted. Foundation permits have also been issued. In
+        January 2025, the Planning Board extended approvals through November 23,
+        2025.
+
+     b. Available. There are no known title issues or encumbrances which would prohibit
+        the development of this site.
+
+     c. Developable. The site has access to appropriate water and sewer infrastructure.
+
+     d. Suitable. The site is adjacent to compatible land uses and has access to
+        appropriate streets. Although a portion of the property measuring approximately
+        0.8 acres at the rear of the site contains wetlands/wetland buffers and steep
+        slopes, said constraints are not expected to impact the site’s development
+        potential.
+
+  As detailed in Section B. above, the Township assigns credit for all 60 of the age-restricted
+  affordable rental units to be generated from this development toward Hanover’s Third
+  Round RDP obligation. It is noted that although the age-restricted affordable rental units
+  would be eligible for 1.33:1 rental bonus credits pursuant to COAH’s Round 2 rules, the 25
+  percent rental bonus cap is already being met by other projects. As such, no rental bonus
+  credits are assigned to this development.
+
+
+
+                                                         25 Westwood Avenue, Westwood NJ 07675              ͸ʹ
+                                                 p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 66 of 79 Trans ID: LCV20251798743
+
+
+
+
+                              Aerial 20: JMF/190 Park Avenue
+
+
+
+
+21. Morris ARC Group Home – 99 Mountain Ave. The Township owns an undeveloped 1.06-
+    acre parcel at 99 Mountain Avenue (Block 905 Lot 16.01). It has frontage on both
+    Mountain Avenue and Spruce Street. The Township is currently working with Morris ARC
+    to develop a group home on this lot, which will contain 6 bedrooms for individuals with
+    special needs. On April 10, 2025, the Township adopted an ordinance (Ordinance 8-2025)
+    to amend the applicable zoning on this lot to allow for the construction of the group
+    home. The Township also intends to utilize Affordable Housing Trust Funds to help fund
+    the project. Construction on the group home is anticipated to commence in the Summer
+    of 2025. Surrounding land uses are primarily residential, including the Mountain Ave. ARC
+    group home located directly to the north. The site is located entirely within State Planning
+    Area – 1 (Metropolitan) and the Sewer Service Area.
+
+   The property provides a realistic opportunity for the production of affordable housing, as
+   follows:
+
+       a. Approvable. As noted above, the Township has already amended the zoning
+          regulations on the property in order to allow for the construction of the group
+          home and construction is anticipated to commence in the Summer of 2025.
+
+       b. Available. There are no known title issues or encumbrances which would prohibit
+          the development of this site. Although there is a 30-foot-wide water easement on
+          the property, same is not anticipated to prohibit development of the project.
+
+       c. Developable. The site has access to appropriate water and sewer infrastructure.
+
+       d. Suitable. The site is adjacent to compatible land uses, has access to appropriate
+          streets, and is free of environmental constraints.
+                                                           25 Westwood Avenue, Westwood NJ 07675              ͸͵
+                                                   p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 67 of 79 Trans ID: LCV20251798743
+
+
+
+
+   As detailed in Section B. above, the Township assigns credit for all 6 bedrooms to
+   Hanover’s Fourth Round RDP obligation. In addition, the 6 bedrooms are eligible for 1.0
+   bonus credit per special needs bedroom pursuant to FHA-2; therefore, the Township also
+   assigns 6 bonus credits from this site toward the Fourth Round RDP obligation.
+
+                  Aerial 21: Morris ARC Group Home – 99 Mountain Ave
+
+
+
+
+22. Bayer South Campus Redevelopment. On June 13, 2024, the Hanover Township Mayor
+    and Committee adopted Resolution #113-2024, which designated the 91-acre area
+    encompassing Block 5801 Lot 1.06 (commonly known as 85 Whippany Road) and a
+    portion of Lot 1.03 (commonly known as 100 Bayer Boulevard), as a Condemnation Area
+    in Need of Redevelopment. While Lot 1.03 is developed as the Bayer Corporation US
+    Headquarters office building and associated surface parking, the portion of Lot 1.03 within
+    the Redevelopment Area contains only surface parking. Lot 1.06 is also developed with
+    paved surface parking for the Bayer building, along with three accessory structures
+    located within the rear of the lot, which were previously used by Bayer for commercial
+    lab/research use.
+
+   In recognition of the Township’s ongoing constitutional obligation to provide for
+   affordable housing, the Hanover Township Committee adopted a Redevelopment Plan
+   for this area on February 13, 2025, which allows for redevelopment of the tract with
+   mixed-use development, including up to 400 multi-family and townhouse residential units
+   at a 20 percent set-aside for affordable housing, plus an additional 5-bedroom group
+   home for individuals with developmental disabilities and/or mental illness as licensed
+   and/or regulated by the New Jersey Department of Human Services. As such, a total of 85
+   affordable housing units/credits are expected to be generated by redevelopment of this
+   site. The 80 affordable multi-family units to be produced will be family rental units, though
+   up to 20 (25 percent) of these units may be special needs units.
+
+
+                                                          25 Westwood Avenue, Westwood NJ 07675              ͸Ͷ
+                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 68 of 79 Trans ID: LCV20251798743
+
+
+
+
+  Surrounding uses include the Bayer Corporation US Headquarters, Whippany KinderCare,
+  and the Bradley Braviak Funeral Home to the north; parkland (Black Meadows Preserve)
+  to the east; vacant land, public parkland (Black Meadows Preserve), and the Morristown
+  Airport operations to the south; and single family residential, assisted living (Care One
+  assisted living facility), and public land and public school uses to the west. MetLife and
+  MetLife Investments are located to the north and west.
+
+  Environmental constraints encumber approximately 54 acres, or 59 percent of tract area.
+  These constraints include wetlands and associated wetlands buffers, streams, floodplains,
+  and riparian areas contiguous with the Black Brook Tributary along the south and east
+  portions of the tract. The southern portion of the tract also includes numerous areas of
+  wetlands which require a 150-foot transition buffer area. The majority of the property is
+  within the Sewer Service Area, with the portions of the tract outside of the Sewer Service
+  Area confined to the site’s wetlands. The entirety of the site is within State Planning Area –
+  1 (Metropolitan).
+
+  The property provides a realistic opportunity for the production of affordable housing, as
+  follows:
+
+     a. Approvable. As noted above, the Township adopted a Redevelopment Plan
+        allowing for mixed-use development, including both inclusionary family units and
+        special needs units/bedrooms, on February 13, 2025. On April 29, 2025, the
+        designated Redeveloper filed an application with the Hanover Township Planning
+        Board for subdivision and site plan approval. The application is currently pending
+        and is scheduled to be heard on June 17, 2025.
+
+     b. Available. There are no known title issues or encumbrances which would prohibit
+        the development of this site.
+
+     c. Developable. The site has access to appropriate water and sewer infrastructure.
+        Certain improvements to the sewer main may be required, but same is not
+        anticipated to prohibit development of the project.
+
+     d. Suitable. The site is adjacent to compatible land uses and has access to
+        appropriate streets. Although the property is partially encumbered by
+        environmental constraints, the Redeveloper has stipulated that there is sufficient
+        area outside of constraints for development of the property and/or that any
+        waivers necessary to accommodate the development will be sought from NJDEP.
+
+  As detailed in Section B. above, the Township assigns credit for 51 affordable family rental
+  units and all 5 group home bedrooms to be generated from this development toward
+  Hanover’s Fourth Round RDP obligation. In addition, these units/bedrooms are eligible for
+
+                                                          25 Westwood Avenue, Westwood NJ 07675              ͸ͷ
+                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 69 of 79 Trans ID: LCV20251798743
+
+
+
+
+        bonus credits pursuant to FHA-2, up to the 25 percent cap. Specifically, the 5 group
+        home bedrooms are eligible for 1.0 bonus credit per special needs bedroom pursuant to
+        FHA-2, and the 51 family rental units are eligible for 0.5 bonus credit per unit (up to the
+        25 percent cap) for units constructed on land previously utilized for office or commercial
+        space pursuant to FHA-2; therefore, the Township also assigns 5 bonus credits for special
+        needs units and 18 bonus credits (which is the maximum per the 25 percent cap) for
+        office/commercial redevelopment toward the Fourth Round RDP obligation. The 29
+        remaining rental units to be generated from this development shall be assigned to the
+        Township’s Fourth Round Unmet Need, as discussed further in Section D. below.
+
+                         Aerial 22: Bayer South Campus Redevelopment
+
+
+
+
+D.      UNMET NEED
+
+The difference between the Township’s Prospective Need obligations and its RDP obligations is
+what is known as Unmet Need. Whereas the RDP obligations must be affirmatively addressed by
+the Township (as outlined in Section B. above), addressing Unmet Need involves a lower
+standard, as the entire Unmet Need obligation does not have to be fully satisfied by 2035.
+Hanover has an Unmet Need of 425 for Round 3 and an Unmet Need of 343 for Round 4, for a
+total combined Unmet Need of 768 units. The Township will address Unmet Need as set forth
+below and as illustrated on the Plan Components Map included at the end of this plan.
+
+     1. Third Round Unmet Need
+
+        The Township will continue to implement the plan components designed to address its
+        425-unit Third Round Unmet Need, as set forth in the Township’s 2021 HE&FSP and Third
+        Round JOR, until such time as the Township has provided for the entire Unmet Need.
+        These plan components and their status are as follows:
+        a. Whippany Village Inclusionary Development. The 2021 HE&FSP applied 9 affordable
+                                                              25 Westwood Avenue, Westwood NJ 07675              ͸͸
+                                                      p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 70 of 79 Trans ID: LCV20251798743
+
+
+
+
+     housing units to be constructed as part of a mixed-use development known as
+     Whippany Village (Block 7402 Lots 2.01 and 2.02 and Block 7501 Lots 1.01 and 10)
+     toward Hanover’s Third Round Unmet Need. These 9 affordable family rentals units
+     have since been constructed and occupied. The application of these credits reduces
+     Hanover’s Third Round Unmet Need from 425 units to 416 units.
+
+  b. Our Lady of Mercy Special Needs/Supportive Housing: The 2021 HE&FSP applied 4
+     credits toward Hanover’s Third Round Unmet Need for a 4-bedroom group home to
+     be constructed at the Our Lady of Mercy site at 70 Whippany Road (Block 4301 Lot
+     2.03). This group home has since been constructed and occupied. As such, the
+     Township’s Third Round Unmet Need is further reduced to 412 units.
+
+  c. Care One Assisted Living: The 2021 HE&FSP applied 4 credits toward Hanover’s Third
+     Round Unmet Need for an approved 78-bed expansion of the Care One assisted
+     living facility at 101 Whippany Road (Block 5801 Lot 6). In accordance with State
+     statute, at least 10 percent of these 78 new beds (totaling 8 beds) are required to be
+     occupied by Medicaid-eligible persons, which are eligible for affordable housing credit
+     pursuant to N.J.A.C. 5:93-5.16(a). Assuming double-occupancy, this translates to 4
+     units/credits to be applied toward Unmet Need. This expansion has since been
+     constructed and occupied. As such, the Township’s Third Round Unmet Need is
+     further reduced to 408 units.
+
+  d. Extension of Affordability Controls: The 2021 HE&FSP anticipated that extensions of
+     controls would be completed on 137 existing family for-sale units at the Hanover Hills,
+     Sunrise at Hanover, and Eden Mill Village inclusionary developments whose
+     affordability controls were set to expire prior to the end of the Third Round. The 2021
+     HE&FSP assigned 137 credits for these anticipated extensions of controls toward the
+     Third Round Unmet Need. Indeed, the Township adopted a resolution rejecting the
+     repayment option and extending the affordability controls on each of the 137
+     affordable units for an additional thirty-year period running from the date the initial
+     thirty-year control period was set to expire. Each of these affordable units in Hanover
+     Hills, Sunrise at Hanover and Eden Mill Village are “for-sale” or fee simple units that
+     were part of the Township’s combined First and Second Round Housing Element and
+     Fair Share Plan that received substantive certification from COAH pursuant to N.J.A.C.
+     5:93 et seq., on August 4, 1999. Accordingly, each of the affordable units in Hanover
+     Hills, Sunrise at Hanover and Eden Mill Village fall within the definition of a “95/5 unit”
+     as set forth in N.J.A.C. 5:80-26.2 of the Housing and Mortgage Finance Agency’s
+     “Housing Affordability Controls” regulations set forth at N.J.A.C. 5:80-26.1 et seq. To
+     date, the owners of record of 79 of these 137 units have executed a deed restriction
+     that has been recorded in the Office of the Morris County Clerk to reflect the
+     Township’s prior extension of the affordability controls period, further reducing
+     Hanover’s Third Round Unmet Need to 329 units. The Township will continue to
+
+                                                          25 Westwood Avenue, Westwood NJ 07675              ͸͹
+                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 71 of 79 Trans ID: LCV20251798743
+
+
+
+
+       maintain its existing program for extending the affordability controls during the Fourth
+       Round until deed restrictions on all of the 58 remaining affordable units have been
+       executed and recorded, either at resale or through the voluntary cooperation of the
+       individual unit owners.
+
+  e. Additional Airport Road Inclusionary Units: As discussed in Section C. above, the
+     Township’s Settlement Agreement with Michael Alfieri of 25-35 Airport Road, LLC and
+     45 Airport Road, LLC, was amended in May of 2020. On October 8, 2020, under the
+     terms of the amended Settlement Agreement, the Township amended the RM-6
+     zoning applicable to the Alfieri property (identified as Block 4901 Lots 2, 17 and 19) to
+     allow for additional inclusionary residential development – up to 325 total units – with
+     a 15 percent set-aside. The amended zoning will yield a total of 49 affordable housing
+     units. Whereas 42 of the 49 affordable units to be generated from this development
+     have been assigned to the Township’s Third Round RDP obligation, the remaining 7
+     affordable units will be applied to Hanover’s Third Round Unmet Need.
+
+  f.   Additional River Park Inclusionary and Supportive Housing: As discussed in Section C.
+       above, the Township adopted a Redevelopment Plan in December of 2019 for certain
+       portions of the River Park property (inclusive of Block 4101 Lot 1, Block 4301 Lot 6, and
+       the eastern portion of former Lot 2 in Block 3801) allowing for mixed-use
+       development to include 967 units of inclusionary residential development (including
+       140 affordable family rental units) and 32 bedrooms of affordable special
+       needs/supportive housing. On October 8, 2020, under the terms of the Township’s
+       May 2020 amended Settlement Agreement with River Park Business Center, LLC, the
+       Township amended the Redevelopment Plan to allow for the western portion of
+       former Lot 2 in Block 3801 to also be developed with additional mixed-use
+       development, including up to 500 additional multifamily rental units at a 15 percent
+       set-aside. Whereas the 140 affordable family rental units and 4 of the 32 special needs
+       bedrooms are applied toward the Township’s Third Round RDP, credits for the
+       remaining 28 special needs bedrooms as well as for the 75 additional affordable
+       housing units that may be produced in the western portion of the River Park tract
+       pursuant to the Amended and Restated Redevelopment Plan will be assigned toward
+       Hanover’s Third Round Unmet Need. As such, up to 103 affordable credits may be
+       generated by the River Park redevelopment toward the Township’s Third Round
+       Unmet Need.
+
+  g. Accessory Apartment Program: The Township established an Accessory Apartment
+     Program, as part of its 2021 HE&FSP and Third Round JOR, in order to create up to 10
+     affordable accessory apartments that would be credited toward Hanover’s Third
+     Round Unmet Need. Although no accessory apartments have yet been created under
+     this Program to date, the Township will continue to commit at least $30,000 per
+     accessory apartment deed restricted for moderate income families, $40,000 per
+
+                                                          25 Westwood Avenue, Westwood NJ 07675              ͸ͺ
+                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 72 of 79 Trans ID: LCV20251798743
+
+
+
+
+        accessory apartment restricted for low income families, and $50,000 per accessory
+        apartment restricted for very low income families from its Affordable Housing Trust
+        Fund to subsidize the creation of these units, and will continue to contract with
+        Community Grants, Planning & Housing (CGP&H) to administer and affirmatively
+        market the Program through the Fourth Round.
+
+   h. Mandatory Set-Aside Ordinance. In addition, Hanover created a Township-wide
+      Mandatory Set-Aside Ordinance as part of its 2021 HE&FSP and Third Round JOR in
+      order to ensure that any new multi-family residential development in Hanover will
+      provide its fair share of affordable units and assist with the Township’s continuous
+      efforts to address its affordable housing obligation. This ordinance, which is set forth
+      at Section 166-108.1 of the Land Use and Development Code, requires that any site
+      that is developed with five or more new multifamily or single-family attached dwelling
+      units shall provide an affordable housing set-aside at a rate of 15 percent, where
+      affordable units will be for rent, or 20 percent, where affordable units will be for sale.
+
+        Although the Township will continue to implement its Mandatory Set-Aside Ordinance
+        through the Fourth Round, it proposes to amend said ordinance to require a
+        minimum 20 percent affordable housing set-aside for all qualifying developments,
+        regardless of tenure. This amendment will bring the Township into compliance with
+        the Highlands Council’s rules for all municipalities in the Highlands Region requiring
+        same, and will increase the yield of affordable housing units to be generated by future
+        projects. These proposed ordinance amendments are included at Appendix G of this
+        plan.
+
+   i.   Development Fee Ordinance. Lastly, as part of its 2021 HE&FSP and Third Round JOR,
+        the Township agreed to maintain its Development Fee Ordinance, set forth at Section
+        166-48.1 of the Land Use and Development Code, and its residential development fee
+        of 1 percent of equalized assessed value, but increased its non-residential
+        development fee from 2 percent to 2.5 percent of equalized assessed value,
+        consistent with the Statewide Non-Residential Development Fee Act. The Township
+        will continue to implement its Development Fee Ordinance, as adopted, through the
+        Fourth Round.
+
+2. Fourth Round Unmet Need
+
+   Because of Hanover’s proactive efforts to secure affordable housing for the Fourth Round,
+   the Township has already taken steps to secure at least 112 credits that it can apply toward
+   its Fourth Round Unmet Need, with additional units/credits anticipated to be created over
+   time. The plan components proposed to address the Township’s Fourth Round Unmet
+   Need of 343 units are as follows:
+
+
+                                                          25 Westwood Avenue, Westwood NJ 07675              ͸ͻ
+                                                  p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 73 of 79 Trans ID: LCV20251798743
+
+
+
+
+  a. Oak Ridge Extensions of Controls: As discussed in Sections B. and C. above, the
+     Township has taken action to extend the affordability control period for all 50 of the
+     Oak Ridge affordable family for-sale units by resolution adopted on July 12, 2018 for
+     an additional 30-year period running from the date the initial affordability control
+     period was set to expire. Whereas the Township assigns credit for 27 of these 50
+     extensions toward Hanover’s Fourth Round RDP obligation (the owners of which
+     have executed a deed restriction to reflect the Township’s prior extension of controls),
+     the Township assigns credit for the 23 remaining extensions toward the Fourth Round
+     Unmet Need.
+
+  b. Excess Bayer South Campus Redevelopment Units. As detailed in Sections B. and C.
+     above, the Township assigns credit for 51 affordable family rental units and all 5 group
+     home bedrooms to be generated at the Bayer South Campus Redevelopment site
+     toward Hanover’s Fourth Round RDP obligation. As such, the Township projects that it
+     will have 29 excess affordable rental units that can be applied from this development
+     toward the Fourth Round Unmet Need. As noted in Section C. above, up to 20 of
+     these 29 excess affordable rental units may be special needs units.
+
+  c. JMF 100% Affordable Senior Housing. As part of the settlement agreements entered
+     into between the Township and JMF Acquisitions, LLC, during the Third Round, JMF
+     agreed to construct 60 affordable age-restricted rental units in a 100 percent
+     affordable development to be credited toward the Township’s Fourth Round
+     obligation. These 60 affordable age-restricted rental units are above and beyond
+     those units still to be constructed by JMF at the 190 Park Avenue site, which is a plan
+     component addressing Hanover’s Third Round RDP obligation. Although the 2021
+     HE&FSP designated a 4.45-acre portion of Block 9102 Lot 5 (commonly known as 30
+     North Jefferson Road) for this 100 percent affordable senior development, and the
+     Township adopted a new AH-2 Affordable Housing Overlay Zone thereon to allow for
+     such development, subsequent studies determined that the extent of wetlands on the
+     site would not support the entirety of the project. As such, the Township and JMF
+     continue to seek a suitable location for this development. Once a location is finalized,
+     the Township will adopt appropriate zoning for said property to facilitate its
+     development for age-restricted housing. All 60 credits from this development will be
+     allocated toward the Township’s Fourth Round Unmet Need.
+
+  d. AH-2 Affordable Housing Overlay. Although the aforementioned 60-unit 100 percent
+     affordable senior development was determined to be too intensive for the 4.45-acre
+     portion of Block 9102 Lot 5, the AH-2 Affordable Housing Overlay Zone that is still in
+     place on this site does create additional opportunities for affordable housing in the
+     Township, albeit at a lesser intensity than previously envisioned. Specifically, it is
+     anticipated that approximately 27 affordable senior units could be developed on this
+     site. As such, the Township commits to maintaining the AH-2 Affordable Housing
+
+                                                        25 Westwood Avenue, Westwood NJ 07675              ͹Ͳ
+                                                p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 74 of 79 Trans ID: LCV20251798743
+
+
+
+
+             Overlay Zone at this location, but amending the zoning to allow for the development
+             of fewer affordable units, as opposed to the minimum 60 affordable units that are
+             currently required. All affordable units produced on this site will be credited toward
+             the Township’s Fourth Round Unmet Need.
+
+         e. Mandatory Set-Aside & Development Fee Ordinances. Hanover will continue to
+            implement the Township-wide Mandatory Set-Aside Ordinance, as proposed to be
+            modified, and the Development Fee Ordinance, as adopted, in order to capture
+            additional affordable housing opportunities as they become available during the
+            Fourth Round.
+
+E.       OTHER PROVISIONS
+
+The following additional requirements are noted:
+
+     1. Fourth Round Bonuses. Fourth Round bonuses will be applied in accordance with N.J.A.C.
+        52:27d-311.k.
+
+     2. Very-Low Income and Low-Income Units. At least 50 percent of the units addressing the
+        Fourth Round Prospective Need obligation shall be affordable to very low-income and
+        low-income households with the remainder affordable to moderate-income households.
+        A minimum of 13 percent of the affordable units will be made available to very low-
+        income households, defined as households earning 30 percent or less of the regional
+        median income by household size.
+
+     3. Rental Component. At least 25 percent of the Fourth Round Prospective Need obligation
+        shall be met through rental units, including at least half in rental units available to families.
+
+     4. Families. At least half of the actual units created to address the Fourth Round Prospective
+        Need obligation must be available to families.
+
+     5. Age-Restricted Cap. No more than 30 percent of all units developed or planned to meet
+        the Fourth Round Prospective Need obligation shall be met with age-restricted units.
+
+F.       CONSISTENCY WITH STATE PLANNING INITIATIVES
+
+As noted in Section 1 of this plan, a HE&FSP must also include:
+
+      An analysis of the extent to which municipal ordinances and other local factors advance
+       or detract from the goal of preserving multigenerational family continuity as expressed in
+       the recommendations of the Multigenerational Family Housing Continuity Commission;
+
+
+                                                                  25 Westwood Avenue, Westwood NJ 07675              ͹ͳ
+                                                          p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+    MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 75 of 79 Trans ID: LCV20251798743
+
+
+
+
+    For a municipality located within the jurisdiction of the Highlands Water Protection and
+     Planning Council, an analysis of compliance of the housing element with the Highlands
+     Regional Master Plan of lands in the Highlands Preservation Area, and lands in the
+     Highlands Planning Area for Highlands conforming municipalities; and
+
+    An analysis of consistency with the State Development and Redevelopment Plan,
+     including water, wastewater, stormwater, and multi-modal transportation based on
+     guidance and technical assistance from the State Planning Commission.
+
+Accordingly, the following subsection analyzes the consistency of this HE&FSP to the above
+referenced state planning initiatives.
+
+   1. Multigenerational Family Housing Continuity Commission
+
+      The Multigenerational Family Housing Continuity Commission was established by the
+      State of New Jersey in 2021. As noted in N.J.S.A. 52:27D-329.20, one of the primary duties
+      of the Commission is to “prepare and adopt recommendations on how State government,
+      local government, community organizations, private entities, and community members
+      may most effectively advance the goal of enabling senior citizens to reside at the homes
+      of their extended families, thereby preserving and enhancing multigenerational family
+      continuity, through the modification of State and local laws and policies in the areas of
+      housing, land use planning, parking and streetscape planning, and other relevant areas.”
+
+      As of the date of this HE&FSP, the Multigenerational Family Housing Continuity
+      Commission has not yet adopted any recommendations.
+
+   2. Highlands Regional Master Plan
+
+      The Township of Hanover is located entirely within the Highlands Region, with the entirety
+      of its land area (6,878 acres or 10.8 square miles) located in the Highlands Planning Area
+      where conformance with the Highlands Regional Master Plan (RMP) is fully voluntary. The
+      Township has not elected to petition the Highlands Council for Plan Conformance to date
+      and therefore has non-conforming status.
+
+      Although Hanover’s land development ordinances are not required to be consistent with
+      the Highlands Act and RMP, this plan is nevertheless consistent with the Highlands RMP
+      language regarding affordable housing, which reads as follows:
+
+          In accordance with the Fair Housing Act, all newly constructed residential
+          development within the Highlands Region are required to reserve for occupancy by
+          low- or moderate-income households at least 20 percent of the residential units
+          constructed. As the 20 percent reservation requirement is found in the Fair Housing
+
+                                                            25 Westwood Avenue, Westwood NJ 07675              ͹ʹ
+                                                    p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 76 of 79 Trans ID: LCV20251798743
+
+
+
+
+      Act and not the Highlands Act, all municipalities located in the Highlands Region
+      are responsible for the 20 percent reservation requirement, irrespective of plan
+      conformance status. This includes development exempt from the Highlands Act.
+
+   As discussed in Section D. above, the Township proposes to amend its Township-wide
+   Mandatory Set-Aside Ordinance to require a minimum 20 percent affordable housing
+   set-aside for all qualifying developments, regardless of tenure. These proposed ordinance
+   amendments are included at Appendix G of this plan.
+
+3. State Development and Redevelopment Plan
+
+   As established by N.J.S.A. 52:18A-200(f), the purpose of the State Development and
+   Redevelopment Plan (SDRP) is to “coordinate planning activities and establish Statewide
+   planning objectives in the following areas: land use, housing, economic development,
+   transportation, natural resource conservation, agriculture and farmland retention,
+   recreation, urban and suburban redevelopment, historic preservation, public facilities and
+   services, and intergovernmental coordination.”
+
+   As such, the SDRP establishes a number of goals and strategies related to a number of
+   different topics, including economic redevelopment. One such goal is to revitalize existing
+   urban centers by directing growth and development to those areas. Specifically, the SDRP
+   seeks to revitalize the State’s cities and towns by protecting, preserving, and developing
+   the valuable human and economic assets in cities, town, and other urban areas.
+
+   As indicated by the SDRP’s Policy Map, the entirety of Hanover Township (aside from
+   Black Meadows Preserve, which is designated as PA-8 Open Space) is located in the PA-1
+   Metropolitan Planning Area, wherein development and redevelopment is intended to be
+   directed. The intent of this Planning Area is to:
+
+      a.   Provide for much of the state’s future redevelopment;
+      b.   Revitalize cities and towns;
+      c.   Promote growth in compact forms;
+      d.   Stabilize older suburbs;
+      e.   Redesign areas of sprawl; and;
+      f.   Protect the character of existing stable communities.
+
+   Accordingly, this HE&FSP is consistent with the intents of the PA-1. Specifically, it is
+   designed to encourage redevelopment and growth in a compact form within the portion
+   of the municipality designated as PA-1, while also protecting the character of the existing
+   community.
+
+
+
+                                                         25 Westwood Avenue, Westwood NJ 07675              ͹͵
+                                                 p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+     MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 77 of 79 Trans ID: LCV20251798743
+
+
+
+
+G.     CREDITING DOCUMENTATION AND ONGOING COMPLIANCE
+
+The Township of Hanover is following the applicable requirements regarding unit monitoring and
+reporting. Specifically, the Township completed the statutorily required updates to its housing
+project status report by the DCA deadline of February 15, 2025. These updates are included in
+the State’s new Affordable Housing Monitoring System and should be considered to fulfill the
+Township’s obligation to specify the creditworthiness of all existing affordable units. Further, all
+crediting documentation submitted to and approved by the Court as part of the Township’s Third
+Round Housing Element and Fair Share Plan remains on file with and accessible from the Court.
+All other crediting documentation, for plan components that were not part of the Township’s
+Third Round HE&FSP, is included in the appendices of this plan.
+
+
+
+
+                                                               25 Westwood Avenue, Westwood NJ 07675              ͹Ͷ
+                                                       p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 78 of 79 Trans ID: LCV20251798743
+
+
+
+
+                          Map 4: Plan Components
+
+
+
+
+                                                 25 Westwood Avenue, Westwood NJ 07675              ͹ͷ
+                                         p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+    MRS-L-000228-25 06/18/2025 7:01:17 PM Pg 79 of 79 Trans ID: LCV20251798743
+
+
+
+
+Appendices
+
+A     Resolution No. 39-2025
+B     May 2, 2025 Trial Court Order
+C     Structural Conditions Survey
+D     Third Round Vacant Land Adjustment Map and Table
+E     Fourth Round Spending Plan
+F     Ordinance 18-2025 (Introduced May 8, 2025)
+G     Draft Amendments to Mandatory Affordable Housing Set-Aside Ordinance
+H     Unit & Trust Fund Monitoring Reports
+I     River Park Supportive Documentation
+J     JMF/190 Park Avenue Supportive Documentation
+K     Morris ARC Group Home – 99 Mountain Avenue Supportive Documentation
+L     Bayer South Campus Redevelopment Supportive Documentation
+M     Existing/Adopted Affordable Housing Ordinance (Chapter 72 of Township Code)
+N     Existing/Adopted Development Fees Ordinance (Section 166-48.1 of Township Code)
+O     Existing/Adopted Mandatory Set-Aside Ordinance (Section 166-108.1 of Township Code)
+P     Existing/Adopted Accessory Apartments Ordinance (Section 166-138.5.2 of Township Code)
+Q     Existing/Adopted AH-2 Overlay Ordinance (Chapter 166, Article XXIXF, of Township Code)
+R     Administrative Agent Operating Manuals
+S     Home Improvement Program Manual
+T     Accessory Apartment Program Manual
+U     Draft Affordability Assistance Manual and Draft Resolution
+
+
+
+
+                                                           25 Westwood Avenue, Westwood NJ 07675              ͹͸
+                                                   p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com
+

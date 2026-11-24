@@ -1,0 +1,2977 @@
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 1 of 79 Trans ID: LCV20251878461
+      WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 2 of 79 Trans ID: LCV20251878461
+
+
+
+
+Fourth Round
+Housing Element
+& Fair Share Plan
+Township of Mansfield
+
+
+
+
+June 5, 2025
+Prepared for:                 Prepared by:
+                                                                    Colliers Engineering & Design
+                                                                             Shelbourne at Warren
+                                                                       53 Frontage Road, Suite 110
+Township of Mansfield         _______________________________
+                                                                      Hampton, New Jersey 08827
+Warren County, New Jersey     Daniel N. Bloch, P.P., AICP, EADA
+                              NJ Planner License No. 33LI00610700
+                                                                               Main: 908.238.0900
+                                                                          Colliersengineering.com
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 3 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                                               Fourth Round
+       Housing Element & Fair Share Plan
+                                                      Township of Mansfield
+                                                                          Warren County, New Jersey
+
+
+
+
+                                           Adopted by the Land Use Board: June 16, 2025
+
+
+
+                                   Endorsed by the Township Committee: June 25, 2025
+
+
+
+
+                             The original of this report was signed and sealed in accordance with NJSA 45:14A-12.
+                                                                                                       MNF-022
+       WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 4 of 79 Trans ID: LCV20251878461
+
+
+
+
+Table of Contents
+I.     Introduction ................................................................................................................................................ 1
+          Affordable Housing History...................................................................................................................... 1
+          Municipal Summary ................................................................................................................................. 4
+          Affordable Housing Goals ........................................................................................................................ 5
+          Affordable Housing Obligation ................................................................................................................ 5
+HOUSING ELEMENT .......................................................................................................................................... 6
+II.    Required Content of Housing Element ................................................................................................... 6
+III.   Population Demographics ........................................................................................................................ 8
+          Age Distribution of Population ................................................................................................................ 8
+          Household Size & Type ............................................................................................................................. 9
+          Income & Poverty Status ........................................................................................................................ 11
+IV.    Housing Demographics...........................................................................................................................13
+          Housing Type .......................................................................................................................................... 13
+          Occupancy Status ................................................................................................................................... 13
+          Value & Rent of Housing Stock............................................................................................................... 14
+          Condition of Housing Stock.................................................................................................................... 16
+V.     Employment Demographics ...................................................................................................................19
+          Occupational Characteristics................................................................................................................. 19
+          Employment Projections ........................................................................................................................ 19
+          In-Place Employment by Industry .......................................................................................................... 20
+          Travel Time to Work ............................................................................................................................... 21
+VI.    Projection of Housing Stock ...................................................................................................................23
+VII. Capacity for Fair Share ............................................................................................................................24
+          Land Capacity......................................................................................................................................... 24
+          Utility Capacity ....................................................................................................................................... 24
+          Appropriate Locations for Affordable Housing ..................................................................................... 25
+          Potential Affordable Housing Developers ............................................................................................. 25
+          Anticipated Development Patterns ........................................................................................................ 25
+          Highlands Regional Master Plan Compliance ....................................................................................... 27
+          State Development & Redevelopment Plan Consistency ...................................................................... 27
+          Multigenerational Family Continuity Evaluation .................................................................................. 27
+FAIR SHARE PLAN ...........................................................................................................................................29
+VIII. Required Content of Fair Share Plan.....................................................................................................29
+
+                                                                                                                                                            Page ii
+        WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 5 of 79 Trans ID: LCV20251878461
+
+
+
+
+IX.    Regional Income Limits ...........................................................................................................................30
+X.     Affordable Housing Obligation ..............................................................................................................31
+          Four-Part Obligation .............................................................................................................................. 31
+XI.    Mechanisms & Credits ............................................................................................................................32
+          Rehabilitation Credits............................................................................................................................. 32
+          Prior Round Credits ................................................................................................................................ 33
+          Third Round Credits ............................................................................................................................... 33
+          Fourth Round Credits ............................................................................................................................. 35
+          Summary of Mechanisms & Credits ...................................................................................................... 36
+XII. Appendix ...................................................................................................................................................37
+
+
+
+
+                                                                                                                                                        Page iii
+      WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 6 of 79 Trans ID: LCV20251878461
+
+
+
+
+I.        Introduction
+According to the New Jersey Fair Housing Act of 1985 (L. 1985, c. 222, s. 1, eff. July 2, 1985), a Housing
+Plan Element shall be designed to achieve the goal of access to affordable housing to meet present
+and prospective housing needs, with particular attention to low- and moderate-income housing.
+
+This report is the Township of Mansfield’s Housing Element and Fair Share Plan (“HEFSP”) for the
+period between 2025 and 2035 (known as the Fourth Round). Mansfield Township seeks to
+voluntarily comply with its constitutional obligation to provide a realistic opportunity for affordable
+housing. This HEFSP is prepared utilizing the Prior Round Rules1, Third Round Rules2 (as applicable),
+and the amendments implemented in P.L. 2024, c.2. Each municipality in the State has a four-part
+obligation:
+
+     1.   Rehabilitation Obligation
+     2.   Prior (First and Second Round) Obligations (1987-1999)
+     3.   Third Round Obligation (1999–2025)
+     4.   Fourth Round Obligation (2025-2035)
+
+Affordable Housing History
+Mount Laurel Doctrine
+Affordable housing planning in New Jersey dates back to 1975, when the New Jersey Supreme Court
+ruled in Southern Burlington County NAACP v. the Township of Mount Laurel 67 N.J. 151 (1975), 336 A.2d
+713, that each municipality within New Jersey has a constitutional obligation to provide a realistic
+opportunity for the construction of their fair share of affordable housing. This landmark decision is
+commonly referred to as “Mount Laurel I” or the “Mount Laurel Doctrine”. The court found that
+Mount Laurel Township’s zoning ordinance only permitted one type of housing—single-family
+detached dwellings, while all other types of multi-family housing, such as garden apartments,
+townhomes, or mobile home parks, were prohibited, which the court determined resulted in
+economic discrimination and exclusion of substantial segments of the area population, and
+therefore the zoning ordinance was unconstitutional and invalid.
+
+In 1983, the New Jersey Supreme Court issued another monumental decision in Southern Burlington
+County NAACP v. Mt. Laurel, 92 N.J. 158 (1983) 456 A.2d 390, which became known as the “Mount
+Laurel II” decision. In this case, the Supreme Court upheld and expanded upon the Mount Laurel I
+decision. Mount Laurel II clarified that the constitutional obligation applies to all municipalities, not
+just the “developing” municipalities as referenced in Mount Laurel I. Each municipality is required to
+establish zoning that provides a realistic opportunity for the construction of affordable housing to
+comply with the municipality’s fair share obligation. Mount Laurel II established the “Builder’s
+Remedy” as a judicial mechanism to enforce the Mount Laurel Doctrine. A Builder’s Remedy lawsuit
+allows a plaintiff (typically a developer) to challenge a municipality’s zoning ordinance if it fails to
+create a realistic opportunity to provide affordable housing units to meet the constitutional fair
+share obligation.
+
+
+1
+  NJAC 5:91 (Procedural) and NJAC 5:93 (Substantive) Rules. They can be found at:
+New Jersey Department of Community Affairs | Second Round Regulations
+2
+ NJAC 5:96 (Procedural) and NJAC 5:97 (Substantive) Rules, which can be found at:
+https://nj.gov/dca/dlps/hss/thirdroundregs.shtml
+
+                                                                                                   Page 1
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 7 of 79 Trans ID: LCV20251878461
+
+
+
+
+In 1985, the Fair Housing Act (“FHA”) was enacted in response to the court decisions, which provided
+an administrative process for municipal compliance. The FHA also created the New Jersey Council on
+Affordable Housing (“COAH”), which was the governmental agency responsible for promulgating
+municipal obligations, adopting regulations, and administering the compliance process.
+
+Prior Rounds (1993-1999)
+Under COAH, the First Round of affordable housing spanned from 1987 to 1993, followed by the
+Second Round from 1993 to 1999. The First Round Substantive Rules were enacted under N.J.A.C.
+5:92 and the Second Round Substantive Rules were enacted under N.J.A.C. 5:93.
+
+Mansfield’s Prior Round Compliance
+Mansfield did not participate in COAH’s First Round of Substantive Certification but petitioned for
+Second Round Substantive Certification on April 13, 2000. Mansfield received Second Round
+Substantive Certification from COAH on August 2, 2000. COAH extended the expiration of the
+Second Round Substantive Certification to December 31, 2008 for all municipalities.
+
+Third Round (1999-2025)
+The Third Round of affordable housing commenced in 1999, which was supposed to end in 2018;
+however, due to numerous legal challenges and court orders, the Third Round was ultimately
+extended through 2025.
+
+The first version of COAH’s Third Round Substantive Rules was enacted under N.J.A.C. 5:94 in 2004.
+This version of the rules was challenged and in January 2007 the Appellate Court issued a decision
+requiring COAH to revise its rules.
+
+In October 2008, COAH adopted numerous amendments to its substantive and procedural
+regulations to address the Third Round fair housing requirements. The Third Round methodology,
+adopted in September 2008, required that a municipality’s fair share consist of three elements: the
+1) rehabilitation share, 2) any remaining Prior Round obligation that was not provided for, and 3) the
+Growth Share or Third Round, which is based upon one affordable housing unit for every four
+market-rate units built and one affordable unit for every 16 new jobs created. In addition to these
+new rules, COAH assigned new rehabilitation, Prior Round and Third Round obligation numbers to
+each municipality. Additionally, the State legislature passed Assembly Bill A-500 (now P.L. 2008),
+which made significant changes to COAH’s rules.
+
+In 2009, appeals were filed regarding the new Third Round Rules’ growth share methodology. The
+case worked its way through the Appellate Division and finally went before the Supreme Court. The
+Supreme Court issued a decision on September 26, 2013, finding that the key set of rules
+establishing the growth share methodology as the mechanism for calculating “fair shares” was
+inconsistent with the FHA and the Mount Laurel Doctrine. The Supreme Court instructed COAH “to
+adopt new third round rules that use a methodology for determining prospective need similar to the
+methodologies used in the first and second rounds,” within five months, which was later extended
+to November 2014.
+
+In July 2014, COAH proposed new Third Round Rules under N.J.A.C. 5:98 and 5:99. However, the new
+rules were never formally adopted by COAH.
+
+
+
+
+                                                                                                Page 2
+        WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 8 of 79 Trans ID: LCV20251878461
+
+
+
+
+After COAH failed to promulgate its revised rules by the November 2014 deadline, the Supreme
+Court made a ruling on March 10, 2015, which allows for judicial review for constitutional
+compliance, as was the case before the FHA was enacted. The ruling allowed low- and moderate-
+income families and their advocates to challenge exclusionary zoning in court, rather than having to
+wait for COAH to issue rules that may never come. The process provides a municipality that had
+sought to use the FHA’s mechanisms the opportunity to demonstrate constitutional compliance to a
+court’s satisfaction before being declared noncompliant and then being subjected to the remedies
+available through exclusionary zoning litigation, including a builder’s remedy.
+
+The transitional process created by the Supreme Court tracked the FHA procedures for compliance.
+In this regard, the process permitted municipalities to file a Declaratory Judgment Action during a
+30-day window between June 8 and July 8, 2015 that sought an adjudication as to their fair share.
+This would enable the municipality to comply voluntarily with its constitutional obligation to provide
+a realistic opportunity for the construction if its fair share of the regions’ low- and moderate-income
+households.
+
+On January 18, 2017, the Supreme Court ruled that municipalities are responsible for obligations
+accruing during the so-called “gap period,” the period between 1999 and 2015. However, the Court
+stated that the gap obligation should be calculated as a never-before calculated component of
+Present Need (also referred to as Rehabilitation Obligation), which would serve to capture Gap
+Period households that were presently in need of affordable housing as of the date of the Present
+Need calculation (i.e. that were still income eligible, were not captured as part of traditional present
+need, were still living in New Jersey and otherwise represented a Present affordable housing need).
+
+Between 2015 and 2024, municipalities that elected to voluntarily comply with their constitutional
+obligation participated in mediation sessions, reached settlement agreements, adopted Housing
+Element and Fair Share Reports, and most municipalities concluded the process with a judgment of
+repose and compliance (“JOR”) from the courts. As a result of COAH’s inability to function, the Third
+Round period spanned from 1999 to 2025, a 26-year long period as opposed to the 6-year periods
+for the first and second rounds. The Third Round is set to expire on June 30, 2025.
+
+Manfield’s Third Round Compliance
+Mansfield petitioned for Third Round Substantive Certification on August 2, 2006. Mansfield was
+notified that the COAH review process had begun by letter from COAH dated October 13, 2006.
+Mansfield had received no further correspondence or had otherwise been contacted by COAH since
+the October 13, 2006 letter. COAH ceased all reviews, including Mansfield's, when litigation was filed
+on January 24, 2007 opposing the Third Round Rules.
+
+Pursuant to the March 10, 2015 Supreme Court Order, Mansfield Township filed a motion with the
+court on July 8, 2015 seeking a Declaratory Judgement that the municipality has fulfilled its
+constitutional obligation to provide affordable housing.
+
+On December 12, 2018, Mansfield Township entered into a Settlement Agreement with the Fair
+Share Housing Center to memorialize the terms of settlement of the Township’s affordable housing
+obligations. The Settlement Agreement outlined Mansfield Township’s affordable housing
+obligations as follows:
+
+    ▪     Present Need (Rehabilitation Obligation): 33 units
+    ▪     Prior Round Obligation: 3 units
+
+                                                                                                   Page 3
+       WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 9 of 79 Trans ID: LCV20251878461
+
+
+
+
+   ▪     Third Round Prospective Need: 142 units
+
+On February 28, 2019, a Fairness Hearing was held and the Honorable Judge Miller found the
+Settlement Agreement to be fair and deemed it to be preliminarily in compliance with the
+Township’s affordable housing fair share obligation. The Township adopted a Housing Element &
+Fair Share Plan on June 21, 2021 to address the affordable housing obligations. The Township
+received an Order of Conditional Judgment of Compliance and Repose (“JOR”) for the Third Round on
+March 15, 2022.
+
+Fourth Round (2025-2035)
+On March 20, 2024, Governor Murphy signed legislation that dramatically modified the State’s
+affordable housing regulations. The 75-page bill, known as A4, abolished COAH, modified the
+process of affordable housing compliance, amended bonus credits, and, among other changes, set
+forth several important deadlines. P.L. 2024, c.2 (“Amended FHA”) charged the Department of
+Community Affairs (“DCA”) with the preparation of Fourth Round obligations and set forth aggressive
+timelines for compliance. In October 2024, DCA published a report on its calculations of regional
+need and municipal present need (Rehabilitation Obligation) and prospective fair share obligations
+(Fourth Round Obligation). The report is entitled “Affordable Housing Obligation of 2025-2035
+(Fourth Round) Methodology and Background”.
+
+The DCA calculated Mansfield Township’s present need obligation as 7 units and its Fourth Round
+prospective need obligation as 418 units. Municipalities were required to adopt a binding resolution
+outlining their present and prospective fair share obligations by January 31, 2025. On January 22,
+2025, the Township Committee adopted Resolution 058-2025 accepting the DCA’s calculations of the
+Township’s present need of 7 units but seeking a downward adjustment of the 418-unit prospective
+need obligation to a recommended 196 units based on errors with the DCA land capacity analysis
+identified by the Township.
+
+The Township also filed a “Complaint for a Declaratory of Compliance with the Fair Housing Act” as
+part of the compliance certification process outlined in the Director of the Administrative Office of
+the Courts Directive #14-24.
+
+During the 30-day challenge window, Mansfield Township received a challenge to the Township’s
+calculations from the Fair Share Housing Center (“FSHC”) and the New Jersey Builder’s Association
+(“NJBA”). The Township and the Challengers entered into mediation through the Affordable Housing
+Dispute Resolution Program (“the Program”) and ultimately agreed that Mansfield Township’s
+prospective need obligation shall be 355 units. The Honorable Judge Miller, J.S.C. issued an order on
+April 8, 2025, ordering that Mansfield Township’s present need shall be 7 units and the prospective
+need for the Fourth Round housing cycle shall be 355 units (Docket No. WRN-L-47-25).
+
+Municipal Summary
+The Township of Mansfield is located in the southeastern portion of Warren County, New Jersey. It
+is bordered by Washington Township, Oxford Township, Liberty Township and the Town of
+Hackettstown in Warren County. Mansfield’s southern boundary is coincident with the
+Musconetcong River, which separates Mansfield from Lebanon Township in Hunterdon County and
+Washington Township (aka. Long Valley) in Morris County.
+
+
+
+
+                                                                                                 Page 4
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 10 of 79 Trans ID: LCV20251878461
+
+
+
+
+Mansfield has maintained its rural agricultural characteristics for the northerly two-thirds of the
+Township. Meanwhile, the southern portion along State Route 57 is built-up with suburban
+shopping centers, apartments and single-family residential development.
+
+Affordable Housing Goals
+It is the overall goal of the HEFSP, in combination with the Land Use Plan, to provide the planning
+context in which access to low and moderate income housing can be provided in accordance with
+the requirements of the Fair Housing Act and the laws of the State of New Jersey, while respecting
+the character and density of Mansfield Township.
+
+Master Plan Goals
+    Goal 3: Preserve the existing housing stock and provide the opportunity for the development of a
+    wider variety of housing types to meet the needs of different income and age levels, family
+    compositions and lifestyles.
+
+         Objective 3A: Encourage residential clustering that maximizes the amount of common open
+         space to be achieved.
+
+         Objective 3B: Continue to meet the Township's Mt. Laurel affordable housing obligation through
+         the rehabilitation of substandard housing units.
+
+Affordable Housing Obligation
+Mansfield Township’s four-part affordable housing obligation is as follows:
+
+    1.   Present Need (Rehabilitation Obligation): 7 units
+    2.   Prior Round Obligation: 3 units
+    3.   Third Round Obligation: 142 units
+    4.   Fourth Round Obligation: 355 units
+
+
+
+
+                                                                                                   Page 5
+      WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 11 of 79 Trans ID: LCV20251878461
+
+
+
+
+                      HOUSING ELEMENT
+II.        Required Content of Housing Element
+The Amended Fair Housing Act requires that “the housing element be designed to achieve the goal
+of access to affordable housing to meet present and prospective housing needs, with particular
+attention to low and moderate income housing”. As per the Municipal Land Use Law (“MLUL”),
+specifically N.J.S.A. 52:27D-310, a housing element must contain at least the following items:
+
+      a. An inventory of the municipality's housing stock by age, condition, purchase or rental value,
+         occupancy characteristics and type, including the number of units affordable to low and
+         moderate income households and substandard housing capable of being rehabilitated, and
+         in conducting this inventory the municipality shall have access, on a confidential basis for the
+         sole purpose conducting this inventory, to all necessary property tax assessment records
+         and information in the assessor’s office, including but not limited to the property record
+         cards;
+
+      b. A projection of the municipality's housing stock, including the probable future construction
+         of low and moderate income housing for the next ten years, taking into account, but not
+         necessarily limited to, construction permits issued, approvals of applications for
+         development and probable residential development of lands;
+
+      c.   An analysis of the municipality's demographic characteristics, including but not necessarily
+           limited to, household size, income level and age;
+
+      d. An analysis of the existing and probable future employment characteristics of the
+         municipality;
+
+      e. A determination of the municipality’s present and prospective fair share for low and
+         moderate income housing and its capacity to accommodate its present and prospective
+         housing needs, including its fair share for low and moderate income housing, as stablished
+         pursuant to section 3 of P.L.2024, c.2 (C.52-27D-304.1);
+
+      f.   A consideration of the lands that are most appropriate for construction of low and moderate
+           income housing and of the existing structures most appropriate for conversion to, or
+           rehabilitation for, low and moderate income housing, including a consideration of lands of
+           developers who have expressed a commitment to provide low and moderate income
+           housing;
+
+      g. An analysis of the extent to which municipal ordinances and other local factors advance or
+         detract from the goal of preserving multigenerational family continuity as expressed in the
+         recommendations of the Multigenerational Family Housing Continuity Commission, adopted
+         pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 (C.52D-329.20);
+
+      h. For a municipality located within the jurisdiction of the Highlands Water Protection and
+         Planning Council, established pursuant to section 4 of P.L.2004, C.120 (C.13-20-4), an analysis
+         of compliance of the housing element with the Highlands Regional Master Plan of lands in
+         the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands-
+         conforming municipalities. This analysis shall include consideration of the municipality’s
+
+
+                                                                                                   Page 6
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 12 of 79 Trans ID: LCV20251878461
+
+
+
+
+     most recent Highlands Municipal Build Out Report, consideration of opportunities for
+     redevelopment of existing developed lands into inclusionary or 100 percent affordable
+     housing, or both, and opportunities for 100 percent affordable housing in both the
+     Highlands Planning Area and Highlands Preservation Area that are consistent with the
+     Highlands regional master plan; and
+
+i.   An analysis of consistency with the State Development and Redevelopment Plan, including
+     water, wastewater, stormwater, and multi-modal transportation based on guidance and
+     technical assistance from the State Planning Commission.
+
+
+
+
+                                                                                             Page 7
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 13 of 79 Trans ID: LCV20251878461
+
+
+
+
+III. Population Demographics
+The Township of Mansfield’s population saw rapid growth through the 1980s. During the 1970s,
+Mansfield gained 1,416 new residents followed by 2,234 new residents during the 1980s. The
+Township’s population continued to see an increase in population up until 2000, when the
+population decreased by 500. From 2010, the Township’s population has continued to increase,
+surpassing the population from previous years. The 2023 ACS reported a Township population of
+7,804. See the table below for additional details.
+
+                                               Population Growth
+
+                Year                 Population                      Change                 Percent
+
+                1940                     1,254                           --                     --
+                1950                     1,497                          243                   19.4%
+                1960                     2,130                          633                   42.3%
+                1970                     3,546                        1,416                   66.5%
+                1980                     5,780                        2,234                   63.0%
+                1990                     7,154                        1,374                   23.8%
+                2000                     6,653                         -501                   -7.0%
+                2010                     7,725                        1,072                   16.1%
+                2020                     7,781                          56                    0.7%
+              Source: 2010 & 2020 Census Table P1; New Jersey Population Trends, 1790 to 2000,
+              https://www.nj.gov/labor/labormarketinformation/assets/PDFs/census/2kpub/njsdcp3.pdf
+
+
+
+
+The NJTPA projects that the Township’s population will grow to 8,117 residents by 2050 from their
+baseline 2015 population of 7,604. This represents an increase of 513 residents, or an average
+increase of approximately 14 residents annually over 35 years. However, as noted above, the
+Township’s estimated population according to the 2023 ACS is 7,804, which is 88 more than
+projected by the NJTPA. This translates to an average annual increase of approximately 11 residents
+over the next 27 years.
+
+                                             Population Projection
+
+                  Year                Population                    Change                Percent
+
+                  2015                    7,604                         ---                   ---
+                  2020                    7,781                        177                  2.3%
+                  2050                    8,117                        336                  4.3%
+                Source: NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts,
+                https://www.njtpa.org/plan2050; 2020 Census Table P1
+
+
+
+
+Age Distribution of Population
+The 2023 ACS estimates just 15.2% of Mansfield’s population was 65 years or older, while 26.4% of
+the population was 19 years or younger. The largest age cohort was estimated to be those aged 50
+
+
+                                                                                                      Page 8
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 14 of 79 Trans ID: LCV20251878461
+
+
+
+
+to 54 years, which comprised 9.6% (749) of the
+                                                            Population by Age Cohort
+Township’s population. Residents aged 15 to 19
+years comprised the second-largest age cohort       85 years and…               78
+at 8.5% (664) of the population, followed closely    80 to 84 years
+by those aged 60 to 64 years at 8.3% (648) of
+                                                     75 to 70 years             276
+the population. The median age was estimated
+at 38.4 years in the 2023 ACS. See the table and     70 to 74 years             384
+
+chart below for further details.                     65 to 69 years             415
+
+                                                     60 to 64 years             648
+            Population by Age Cohort
+                                                     55 to 59 years             385
+              Age               Total   Percent
+                                                     50 to 54 years             749
+ Under 5 years                  423      5.4%        45 to 49 years             397
+ 5 to 9 years                   337      4.3%
+                                                     40 to 44 years             448
+ 10 to 14 years                 639      8.2%
+                                                     35 to 39 years             536
+ 15 to 19 years                 664      8.5%
+                                                     30 to 34 years             328
+ 20 to 24 years                 427      5.5%
+                                                     25 to 29 years             635
+ 25 to 29 years                 635      8.1%
+                                                     20 to 24 years             427
+ 30 to 34 years                 328      4.2%
+                                                     15 to 19 years             664
+ 35 to 39 years                 536      6.9%
+ 40 to 44 years                 448      5.7%        10 to 14 years             639
+
+ 45 to 49 years                 397      5.1%          5 to 9 years             337
+
+ 50 to 54 years                 749      9.6%        Under 5 years              423
+
+ 55 to 59 years                 385      4.9%
+ 60 to 64 years                 648      8.3%
+ 65 to 69 years                 415      5.3%
+ 70 to 74 years                 384      4.9%
+ 75 to 70 years                 276      3.5%
+ 80 to 84 years                  35      0.4%
+ 85 years and over               78      1.0%
+
+ Total                          7,804    100%
+ Source: 2023 ACS Table S0101
+
+
+
+
+Household Size & Type
+According to the 2023 ACS, Mansfield had 3,069 households of various types. A majority were
+married-couple households, which comprised just over 45% of all households. Of those, 593 had
+children under 18 years old. Male householders with no spouse present comprised 24.9% of all
+households, while female householders with no spouse present comprised only 21.9%. Of all
+households with no spouse present, 281 had children under the age of 18 (9.2%), while 895 were
+living alone (29.2%). See the table on the following page for complete details.
+
+
+
+                                                                                           Page 9
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 15 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                                      Household Type
+
+                                          Type                   Number                Percent
+
+                        Married-couple                             1,383               45.1%
+                          with children under 18                   593                 19.3%
+                        Cohabitating couple                        250                  8.1%
+                          with children under 18                       83               2.7%
+                        Male householder, no spouse                763                 24.9%
+                          with children under 18                       66               2.2%
+                          living alone                             574                 18.7%
+                        Female householder, no spouse              673                 21.9%
+                          with children under 18                   215                  7.0%
+                          living alone                             321                 10.5%
+
+                        Total                                     3,069                 100%
+                        Source: 2023 ACS Table DP02
+
+
+
+
+The most common household size in Mansfield was estimated to be one-person households, which
+comprised 29.2% of households in 2023. Two-person households comprised the second-largest
+number of households at just under 25%. Finally, three-person households comprised 23.3% of the
+3,069 households in Mansfield. It should be noted that 66 households contained seven or more
+people. The table and pie chart below graphically illustrate the household size composition in
+Mansfield. Additionally, the 2023 ACS estimated the average household size at 2.51 persons, which
+is slightly less than reported in the 2010 Census (2.54 persons).
+
+
+                                                                                   Household Size
+                 Household Size                                5-person
+                                                                                                    7+ person
+                                                                                                      2.2%
+         Size             Total          Percent                 3.7%
+
+ 1-person                  895            29.2%
+                                                                               4-person
+ 2-person                  765            24.9%
+                                                                                 12%                   1-person
+ 3-person                  714            23.3%
+                                                                                                        29.2%
+ 4-person                  367            12.0%
+ 5-person                  113             3.7%
+ 6-person                  149             4.9%                             3-person
+ 7+ person                  66             2.2%                              23.3%
+
+ Total                    3,069           100%                                                   2-person
+ Source: 2023 ACS Table B11016                                                                    24.9%
+
+
+
+
+                                                                                                            Page 10
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 16 of 79 Trans ID: LCV20251878461
+
+
+
+
+Income & Poverty Status
+The 2023 ACS estimated the median household income for the Township of Mansfield to be $94,432
+which is over $5,000 less than Warren County’s and over $2,000 less than the State’s. Similarly, the
+median family income for Mansfield was estimated at $116,695, which is over $2,500 below the
+County’s and over $2,000 less than the State’s. Finally, the Township’s per capita income was
+estimated at $44,038, which is less than the County’s and the State’s. The poverty rates of
+individuals and families estimated in the 2023 ACS tend to be the middle ground between the
+County and the State. Mansfield’s poverty rate for individuals was estimated at 6.4%, which is less
+State’s by 3.3% but more than the County’s. The Township’s poverty rate for families was estimated
+at 2.5%, which is only 0.2% more than the County’s and less than the State’s by 4.4 %. The table and
+bar chart below provide a comparison between income and poverty characteristics.
+
+                               Income and Poverty Characteristics
+
+                 Income Type                       Mansfield         Waren County       New Jersey
+
+ Median Household Income                            $94,432               $99,596         $97,126
+
+ Median Family Income                               $116,695              $118,994       $119,240
+
+ Per Capita Income                                  $44,038               $48,232         $50,995
+
+ Poverty Status (Percent of People)                   6.4%                 3.8%            9.7%
+
+ Poverty Status (Percent of Families)                 2.5%                 2.3%            6.9%
+
+ Source: 2023 ACS Table DP03
+
+
+
+
+                                         Income Characteristics
+       $200,000
+       $180,000
+       $160,000
+       $140,000
+       $120,000
+       $100,000
+        $80,000
+        $60,000
+        $40,000
+        $20,000
+               $0
+                      Median Household Income      Median Family Income         Per Capita Income
+
+                               Mansfield Borough      Waren County        New Jersey
+
+
+
+
+                                                                                                     Page 11
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 17 of 79 Trans ID: LCV20251878461
+
+
+
+
+According to the 2023 ACS, nearly 9% of households in Mansfield (279) earn over $200,000 annually.
+Household earning $100,000 or more annually were estimated to include 1,461 households or
+47.6% of all households in Mansfield. Over 49% of household in Warren County earned at least
+$100,000 annually, including 13.7% earning more than $200,000. Households in New Jersey earning
+$100,000 or more according to the 2023 ACS included 48.8% of households. It should be noted that
+only 14.3% of households in Mansfield earned less than $50,000. See the table below for additional
+details.
+
+
+                                       Household Income
+                                  Mansfield        Warren County         New Jersey
+         Income Range
+                               Total    Percent   Total    Percent     Total     Percent
+ Less than $10,000              22       0.7%     1,650     3.7%     139,920      4.1%
+ $10,000 to $14,999             94       3.1%      954      2.1%     102,608      3.0%
+ $15,000 to $24,999            115       3.7%     2,402     5.3%     185,476      5.4%
+ $25,000 to $34,999            189       6.2%     2,270     5.1%     196,998      5.7%
+ $35,000 to $49,999            151       4.9%     3,230     7.2%     281,264      8.2%
+ $50,000 to $74,999            501       16.3%    6,714    14.9%     455,543     13.2%
+ $75,000 to $99,999            536       17.5%    5,349    11.9%     397,730     11.6%
+ $100,000 to $149,999          741       24.1%    10,482   23.3%     620,335     18.0%
+ $150,000 to $199,999          441       14.4%    5,733    12.8%     396,837     11.5%
+ $200,000 or more              279       9.1%     6,159    13.7%     661,451     19.2%
+
+ Total                         3,069     100%     44,943    100%     3,438,162    100%
+ Source: 2023 ACS Table DP03
+
+
+
+
+                                                                                           Page 12
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 18 of 79 Trans ID: LCV20251878461
+
+
+
+
+IV. Housing Demographics
+Housing Type
+The 2023 ACS estimated the Township’s housing stock at 3,140 units, which contains a variety of
+residential dwellings. Single-family, detached dwellings comprised a majority of the housing stock
+with 2,007 units or 63.9% of all dwellings. One-unit, attached dwellings (e.g. townhomes) comprised
+173 units (5.5%), while two-family dwellings comprised 176 units (5.6%) of the housing stock. The
+Township contains 711 multi-family units (22.6%), which are buildings containing five or more
+dwelling units.
+
+                                        Housing Units in Structure
+
+                                Structure             Number of Units   Percent
+
+                    1-unit, detached                       2,007         63.9%
+                    1-unit, attached                        173          5.5%
+                    2 units                                 176          5.6%
+                    3 or 4 units                             73          2.3%
+                    5 to 9 units                            239          7.6%
+                    10 to 19 units                          400          12.7%
+                    20 or more units                         72          2.3%
+                    Mobile Home                              0           0.0%
+                    Other (boat, RV, van, etc.)              0           0.0%
+
+                    Total                                  3,140         100%
+                    Source: 2023 ACS Table DP04
+
+
+
+
+Occupancy Status
+Of the 3,140 residential units, 3,069 units, or 97.7% of the housing stock, was occupied. This
+includes 1,842 owner-occupied units and 1,227 rental units. The 71 vacant units included properties
+classified as “other” and “Rented, Not Occupied”. See the table on the following page for details.
+
+The 2023 ACS estimated the average household size in Mansfield was 2.51 persons, while the
+average family size was 3.18 persons. Comparing tenure, the average owner-occupied household
+was 2.59, while the average renter-occupied household was 1.83 persons.
+
+
+
+
+                                                                                            Page 13
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 19 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                              Occupancy Status
+
+                                      Status                      Units           Percent
+
+                    Occupied Total                                 3,069          97.7%
+                      Owner Occupied                               1,842          60.0%
+                      Renter Occupied                              1,227          40.0%
+                    Vacant Total                                      71           2.3%
+                      For rent                                         0           0.0%
+                      Rented, not occupied                            51          71.8%
+                      For Sale                                         0           0.0%
+                      Sold, not occupied                               0           0.0%
+                      Seasonal                                         0           0.0%
+                      For migrant workers                              0           0.0%
+                      Other                                           20          28.2%
+
+                    Total                                          3,140          100%
+                    Source: 2023 ACS Tables DP04 & B25004
+
+
+
+
+Value & Rent of Housing Stock
+The 2023 ACS provided estimates for owner-occupied housing units in Mansfield. According to the
+data, a plurality of homes in the Township were worth between $300,000 and $499,999 (51.4%).
+Homes worth between $200,000 and $299,999 comprised 29.8% of the owner-occupied housing
+units, while 11.1% of homes were estimated to be worth between $500,000 and $999,999. Only
+4.2% of homes (77 units) were valued between $100,000 and $199,999, while no homes were
+estimated to be worth more than $1 million. The median home value estimated in the 2023 ACS
+was $346,000. See the table below and chart on the following page for details.
+
+                                     Value of Owner Occupied Units
+
+                                 Value                      Number of Units        Percent
+
+                    Less than $99,999                             66                 3.6%
+                    $100,000 to $199,999                          77                 4.2%
+                    $200,000 to $299,999                         548                29.8%
+                    $300,000 to $499,999                         947                51.4%
+                    $500,000 to $999,999                         204                11.1%
+                    $1,000,000 or more                            0                  0.0%
+
+                    Total                                        1,842               100%
+
+                    Median Value                                       $346,600
+                    Source: 2023 ACS Table DP04
+
+
+
+
+                                                                                             Page 14
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 20 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                          Value of Owner Occupied Units
+
+
+
+
+                                                                      Less than $99,999 - 3.6%
+
+                                                                      $100,000 to $199,999 - 4.2%
+
+                                                                      $200,000 to $299,999 - 29.8%
+
+                                                                      $300,000 to $499,999 - 51.4%
+
+                                                                      $500,000 to $999,999 - 11.1%
+
+
+
+
+The median rent in the Township was estimated at $1,434 per the 2023 ACS. Looking at the rent
+ranges, over half of the Township’s rental units fell between $1,000 and $1,499 per month (57%).
+Units that cost between $1,500 and $1,999 comprised 31.8% of rentals (390 units), while 7.4% (91
+units) cost between $2,000 and $2,499 per month. See the table below and chart on the following
+page for more information.
+
+                                          Cost of Rentals
+
+                        Cost                    Number of Units          Percent
+
+            Less than $1,000                          36                  2.9%
+            $1,000 to $1,499                          699                 57.0%
+            $1,500 to $1,999                          390                 31.8%
+            $2,000 to $2,499                          91                  7.4%
+            $2,500 to $2,999                           0                  0.0%
+            $3,000 or more                             0                  0.0%
+            No rent paid                              11                  0.9%
+
+            Total                                    1,227                100%
+
+            Median (in dollars)                              $1,434
+            Source: 2023 ACS Table DP04
+
+
+
+
+                                                                                                     Page 15
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 21 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                                Cost of Rentals
+
+                           7.4%
+
+
+
+
+                                                                          $1,000 to $1,499
+
+
+          31.8%
+                                                                          $1,500 to $1,999
+
+                                                   57.0%
+                                                                          $2,000 to $2,499
+
+
+
+
+Condition of Housing Stock
+The Census does not classify housing units as standard or substandard, but it can provide an
+estimate of the substandard housing units that are occupied by low and moderate income
+households. The Appellate Division upheld COAH’s use of three indicators to determine
+substandard housing in the State. Those three indicators are:
+
+    ▪   Houses built before 1970, and which are overcrowded with more than one person per
+        room;
+    ▪   Homes lacking complete plumbing;
+    ▪   Homes lacking kitchen facilities.
+
+Most of the Census indicators available at the municipal level indicate a sound housing stock. All
+homes within the Township had adequate heat and plumbing.
+
+                                          Condition of Housing Stock
+
+                                  Condition                 Number of Units       Percent
+
+                  Lack of complete plumbing                        0               0.00%
+                  Lack of complete kitchen                         0               0.00%
+                  Lack of telephone service                        0               0.0%
+                  Lack of adequate heat                            0               0.0%
+
+                  Total Occupied Housing Units                    3,069            0.00%
+                  Source: 2023 ACS Table DP04
+
+
+
+
+Housing with 1.01 or more persons per room is an index of overcrowding as defined by the U.S.
+Department of Housing and Urban Development. According to the 2023 ACS, 98.9% of the
+
+
+                                                                                               Page 16
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 22 of 79 Trans ID: LCV20251878461
+
+
+
+
+Township’s 3,069 occupied housing units contained 1.00 or less persons per room. Whereas there
+were 34 units containing 1.01 to 1.50 occupants.
+
+                                           Occupants Per Room
+
+                           Occupants                  Number of Units   Percent
+
+                        1.00 or less                       3,035        98.9%
+                        1.01 to 1.50                        34           1.1%
+                        1.51 or more                        0            0.0%
+
+                        Total                              3,069         100%
+                        Source: 2023 ACS Table DP04
+
+
+
+
+Research has demonstrated that units built 50 or more years ago (i.e. 1975 or earlier) are much
+more likely to be in substandard condition. Included in the rehabilitation calculation are
+overcrowded units and dilapidated housing as discussed above.
+
+The table and bar graph on the following page provide the 2023 ACS estimates for the age of
+housing units in Mansfield. An estimated 962 units, or 30.6%, of the Township’s housing stock were
+constructed prior to 1970 with over 7% being constructed prior to 1940. Residential development in
+Mansfield boomed during the 1970s and 1980s as an estimated 49.3% of the Township’s housing
+stock was constructed during this era. Since 2000, only 226 homes have been constructed. See the
+table and chart on the following page for more details. The Township’s Rehabilitation Obligation is 7
+units, reflecting the relatively good condition of these older homes.
+
+It should be noted that the “2020 or later” line item may be inaccurate. The New Jersey Department
+of Community Affairs’ (“DCA”), Division of Codes and Standards website provides data on building
+permits, certificates of occupancy, and demolition permits for both residential and non-residential
+development. We have reviewed the data from the State for 2020 through 2024 and 105 certificates
+of occupancy have been issued for new residential units since the beginning of 2020. See the tables
+on page 25 for additional details.
+
+
+
+
+                                                                                             Page 17
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 23 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                                  Age of Housing Stock
+
+                                Year Built                Number of Units        Percent
+
+                            1939 or earlier                      241                 7.7%
+                            1940 to 1949                         153                 4.9%
+                            1950 to 1959                         158                 5.0%
+                            1960 to 1969                         410                 13.1%
+                            1970 to 1979                         536                 17.1%
+                            1980 to 1989                         1,013               32.3%
+                            1990 to 1999                         403                 12.8%
+                            2000 to 2009                         136                 4.3%
+                            2010 to 2019                          70                 2.2%
+                            2020 or later                         20                 0.6%
+
+                            Total                                3,140               100%
+                            Source: 2023 ACS Table DP04
+
+
+
+
+                                                  Age of Housing Stock
+
+                      2020 or later        20
+                      2010 to 2019         70
+                      2000 to 2009          136
+                      1990 to 1999                        403
+
+
+
+        Year Built
+                      1980 to 1989                                                    1,013
+                      1970 to 1979                               536
+                      1960 to 1969                        410
+                      1950 to 1959          158
+                      1940 to 1949          153
+                     1939 or earlier              241
+
+                                       0          200      400         600     800      1,000   1,200
+                                                                       Units
+
+
+
+
+                                                                                                        Page 18
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 24 of 79 Trans ID: LCV20251878461
+
+
+
+
+V. Employment Demographics
+The 2023 ACS estimated that Mansfield had 4,322 residents over the age of 16 in the workforce. Of
+those, 4,213 (97.5%) were employed, which translates to a 2.5% unemployment rate. A majority of
+workers were private wage and salary worker (76.7%). However, 16.4% were workers employed by
+the government and 4.4% were self-employed. See the table below for details.
+
+                                                 Class of Workers
+
+                                         Class                      Workers       Percent
+
+               Private wage and salary workers                       3,314            76.7%
+               Government workers                                     710             16.4%
+               Self-employed workers                                  189              4.4%
+               Unpaid family workers                                  0                0.0%
+
+               Total employed residents                              4,213            97.5%
+
+               Total unemployed residents                             109              2.5%
+
+               Total residents in workforce                          4,322            100%
+               Source: 2023 ACS Table DP03
+
+
+
+
+Occupational Characteristics
+The 2023 ACS estimated 1,926 workers were employed management, business, science, and arts
+fields, which represents 45.7% of the Township’s employed residents. Service workers totaled 19.8%
+of employed residents, while 16.7% were employed in sales and office jobs. See the table below for
+details.
+
+                                     Occupation of Employed Population
+
+                                       Occupation                             Workers         Percent
+
+       Management, business, science, & arts                                   1,926          45.7%
+       Service                                                                  833           19.8%
+       Sales & office                                                           704           16.7%
+       Natural resources, construction, & maintenance                           236            5.6%
+       Production, transportation, & material moving                            514           12.2%
+
+       Total                                                                   4,213           100%
+       Source: 2023 ACS Table DP03
+
+
+
+
+Employment Projections
+NJTPA’s Plan 2050 estimates that the number of available jobs in Mansfield will increase from 1,384
+reported in 2015 to 1,551 in 2050. This represents an increase of 167 jobs, or an average annual
+increase of 4 jobs annually. However, as detailed in the following section, the New Jersey
+Department of Labor and Workforce Development estimated a total of 934 jobs in Mansfield in
+
+                                                                                                        Page 19
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 25 of 79 Trans ID: LCV20251878461
+
+
+
+
+2023, which is 1,000 less than projected by NJTPA. Utilizing this number, roughly 22 new jobs would
+need to be created within the Township each year for the next 27 years.
+
+                                            Employment Projection
+
+                    Year               Jobs                 Change                 Percent
+
+                    2015              1,384                     ---                  ---
+                    2050              1,551                    167                 12.1%
+                Source: NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts,
+                https://www.njtpa.org/plan2050
+
+
+
+
+In-Place Employment by Industry
+New Jersey’s Department of Labor and Workforce Development (“NJDLWD”) is the entity that reports
+on employment and wages within the State of New Jersey through the Quarterly Census of
+Employment and Wages (“QCEW”). The latest Municipal Report was completed in 2023. According
+to the data, there were 659 private sector jobs within the Township, which were provided by an
+average of 51 employers. It should be noted that the Municipal Report redacted data from multiple
+private-sector industries for not meeting publication standards (manufacturing, warehousing,
+information, finance, real estate, etc.) The “Private Sector Total” row in the table on the following
+page provides the totals for the reported data only. However, the 2023 QCEW reported that
+Mansfield had an average of 934 private-sector jobs provided by 70 employers, including the
+redacted data. Additionally, the QCEW data reflects employment within Mansfield, regardless of
+where the employee lives.
+
+Based on the 2023 QCEW data provided, the retail trade industry contained the largest number of
+jobs in the Township with an average of 480 jobs (36.3%). These jobs were provided by nine
+employers, which is tied as the largest industry of employers in Mansfield. The admin/waste
+remediation industry also had nine employers, but a lower number of average jobs (38). The
+accommodations/food industry had the second-highest jobs and the least employers with an
+average of 79 jobs (6%) and five employers. In the public sector, the 2023 QCEW Municipal Report
+indicated that there was one federal government employer, which had an average of only one
+employee and four state government employers averaging 21 employees. Local government had
+three employers with an average of 661 jobs. This included one local government education
+employer providing an average of 103 jobs. See the table on the following page for data on each
+industry sector.
+
+
+
+
+                                                                                              Page 20
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 26 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                 Private and Public Sector Employment (2023)
+                                                            Establishments              Employees                Annual
+                          Industry
+                                                            Total     Percent        Total     Percent           Wages
+       Construction                                           7         11.9%          12         0.9%           $38,796
+       Manufacturing                                          -            -            -           -                 -
+       Wholesale Trade                                        8         13.6%          23         1.7%           $64,940
+       Retail Trade                                           9         15.3%         480        35.8%           $33,843
+       Transportation/Warehousing                             -            -            -           -                 -
+       Information                                            -            -            -           -                 -
+       Finance/Insurance                                      -            -            -           -                 -
+       Real Estate                                            -            -            -           -                 -
+       Professional/Technical                                 7         11.9%          12         0.9%           $52,950
+       Admin/Waste Remediation                                9         15.3%          38         2.8%           $49,260
+       Health/Social                                          -            -            -           -                 -
+       Arts/Entertainment                                     -            -            -           -                 -
+       Accommodations/Food                                    5         8.5%           79         5.9%           $25,473
+       Other Services                                         6         10.2%          15         1.1%           $53,890
+       Unclassified                                           -            -            -           -                 -
+
+       Private Sector Total                                  51          86%          659         49%            $45,593
+
+       Federal Government                                     1         1.7%           1          0.1%           $86,392
+       State Government                                       4         6.8%           21         1.6%          $131,365
+       Local Government                                       3         5.1%          661        49.3%           $66,170
+         Local Government Education                           1         1.7%          103         7.7%           $72,782
+
+       Public Sector Total                                    8          14%          683         51%            $89,177
+       Source: The table values above are sourced from the NJDLWD's QCEW 2023 Municipal Report. It is noted that this Report
+       has redacted multiple private sector industries for not meeting the publication standard. Therefore, the Private Sector
+       Totals row has been calculated by this office using the published numbers.
+
+
+
+
+Travel Time to Work
+The 2023 ACS collected data regarding employed resident’s commute time. The most common
+commute time was between 15 and 19 minutes, which was made by 532 workers (15.2%). A
+commute between 10 and 14 minutes followed close behind with 473 workers (13.6%). Rounding
+off the top three was a commute of 30 to 34 minutes, which was reported by 435 workers (12.5%).
+The mean travel time was estimated at 30.7 minutes. It should be noted that 364 workers (10.4%)
+reported a commute of more than one hour. Additionally, 600 workers, or 14.7% of the Township’s
+employed residents, reported working from home. See the table and chart on the following page
+for additional details.
+
+
+
+
+                                                                                                                                 Page 21
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 27 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                            Commute Time
+
+                     Travel Time (minutes)             Workers     Percent
+
+            Less than 5                                     20      0.6%
+            5 to 9                                         251      7.2%
+            10 to 14                                       473     13.6%
+            15 to 19                                       532     15.2%
+            20 to 24                                       293      8.4%
+            25 to 29                                       406     11.6%
+            30 to 34                                       435     12.5%
+            35 to 39                                       105      3.0%
+            40 to 44                                       283      8.1%
+            45 to 59                                       327      9.4%
+            60 to 89                                       260      7.5%
+            90 or more                                     104      3.0%
+
+            Total                                          3,489   100.0%
+            Source: 2023 ACS Table B08303
+
+
+
+
+                                                                             Page 22
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 28 of 79 Trans ID: LCV20251878461
+
+
+
+
+VI. Projection of Housing Stock
+As per the MLUL, specifically N.J.S.A. 52:27D-310, a housing element must contain a projection of the
+municipality's housing stock, including the probable future construction of low- and moderate-
+income housing for the next ten years, taking into account, but not necessarily limited to,
+construction permits issued, approvals of applications for development and probable residential
+development of lands.
+
+The DCA Division of Codes and Standards website provides data on building permits, certificates of
+occupancy, and demolition permits for both residential and non-residential development through
+the New Jersey Construction Reporter. This database contains permit and certificate of occupancy
+information that is submitted by municipal construction officials across the State each month. The
+Construction Reporter has information dating back to 2000, which can be used to show the
+Township’s historic development trends. However, data from 2013 and onward was reviewed to
+determine more recent trends.
+
+As shown in the table below, the issuance of residential certificates of varies from year to year in the
+Township of Mansfield. From 2013 to 2019, 105 certificates of occupancy were issued, while 14 were
+issued between 2020 and 2022. Of those 14, all were for single- or two-family dwellings.
+Approximately 37 certificates were issued in 2023 and were all for single- or two-family dwellings. It
+should be noted that the Construction Reporter indicates no reports were received from Mansfield
+during 2024. Since 2013, a total of 23 demolition permits were issued, which equates to a net
+development of 133 residential units. There are currently two subdivisions under construction in
+Mansfield that are likely contributing to the majority of these new homes.
+
+    Historic Trend of Residential Certificates of Occupancy & Demolition Permits (2013-2024)
+
+                                       '13    '14     '15    '16    '17     '18    '19    '20     '21    '22   '23   '24   Total
+
+ COs Issued                             9      13     25     12      10     22     14      4       6      4    37    NR     156
+ Demolitions                            4      1       1      2      6       3      2      0       2      0    2     NR      23
+
+ Net Development                        5      12     24     10      4      19     12      4       4      4    35    NR     133
+ Source: NJDCA, Construction Reporter - Housing Units Certified and Demolition Permits, Yearly Summary Data
+
+
+
+
+Projecting into the future, the Township anticipates that once the age-restricted development on
+Route 57 is complete, the new home construction will drop off until a developer decides to move
+forward with one of the inclusionary sites that the Township has rezoned for affordable housing.
+Single-family home construction is expected to be minimal outside of the sewer service areas.
+
+
+
+
+                                                                                                                           Page 23
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 29 of 79 Trans ID: LCV20251878461
+
+
+
+
+VII. Capacity for Fair Share
+This chapter of the HEFSP provides the following information as required:
+
+•   The Township’s capacity to accommodate its housing needs.
+•   A consideration of the lands that are most appropriate for construction of low and moderate
+    income housing and of the existing structures most appropriate for conversion to, or
+    rehabilitation for, low and moderate income housing.
+•   Lands of developers who have expressed a commitment to provide low and moderate income
+    housing.
+•   The location and capacities of existing and proposed water and sewer lines and facilities relevant
+    to the proposed affordable housing sites.
+
+Land Capacity
+The ability to accommodate Mansfield Township’s present and prospective affordable housing
+needs is determined by three components – available land, water capacity and sewer capacity. Land
+development is limited by environmental constraints, such as wetlands, flood plains, easements
+(conservation, sewer, water, power utility, etc.), parcel size and municipal regulations.
+
+Mansfield Township conducted a vacant land analysis to identify vacant and developable properties
+remaining in the Township that may be suitable for affordable housing development. The study
+found that there are developable lands within the sewer service area.
+
+Due to the rural and environmentally sensitive nature of the Township, no other suitable lands have
+been identified as having a realistic development potential to provide affordable housing. This is
+largely due to the lack of public water and wastewater services, as discussed below.
+
+Utility Capacity
+Wastewater
+A total of 1,167.9 acres, or 6.1%, of Mansfield Township is located within a sewer service area.
+According to the 2016 Hackettstown Wastewater Management Plan (“WMP”), the Hackettstown
+Municipal Utilities Authority (“HMUA”) has an approved and operative total capacity of 3.39 million
+gallons per day (MGD). As of 2016, the HMUA was servicing existing flows of 2.12 MGD, leaving a
+surplus capacity of 1.27 MGD. The WMP includes buildout projections of potential future
+development within Hackettstown, Independence, Mansfield, Mount Olive, and Washington
+Township. Mansfield was projected to generate 0.049 MGD in wastewater flows from potential
+future development and the total for the five municipalities was 0.602 MGD. Therefore, the HMUA is
+expected to have adequate wastewater treatment capacity to serve future inclusionary housing
+development in Mansfield.
+
+Water
+Water service is provided to the easterly portion of Mansfield by the HMUA, consistent with the
+sewer service area. According to NJDEP data, the HMUA has a water supply firm capacity of 5.040
+MGD with a current peak of 2.623 MGD and 0.455 MGD committed for proposed development. The
+
+
+
+
+                                                                                              Page 24
+       WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 30 of 79 Trans ID: LCV20251878461
+
+
+
+
+total peak demand is 3.078 MGD, leaving a surplus of 1.962 MGD.3 Therefore, the HMUA is expected
+to have adequate water capacity to serve future inclusionary housing development in Mansfield.
+
+Appropriate Locations for Affordable Housing
+There are several vacant and developable properties within the sewer service area that could be
+suitable or appropriate for the construction of low- and moderate-income. The Township has
+identified three properties that are to be designated for inclusionary housing. These sites are
+described in greater detail in Chapter X.
+
+       1. Minac Site (Block 1102, Lot 4.04) – 107.6 acres
+       2. Allen Farm Site (Block 1102, Lot 9) – 15.7 acres
+       3. Donaldson Farm Site (Block 1105.10, Lot 5, 6, 7 & 8.01) – 209 acres
+
+Existing structures appropriate for conversion to affordable housing may include ranch-style homes,
+which may be cost effective to buy and convert to an alternative living arrangement. As for
+structures suitable for rehabilitation, according to the Rehabilitation Obligation, 7 homes within the
+Township are in need of a major system repair (e.g. roof, electric, plumbing, etc.).
+
+Potential Affordable Housing Developers
+The only developer that expressed interest to provide affordable housing in Mansfield Township
+was Minac Associates. The Township entered into a Settlement Agreement with Minac Associates in
+2019 allowing for approximately 20 acres of vacant land in Lot 4.04 in Block 1102 to be developed
+with an inclusionary housing development. The site is described in greater detail in Chapter X.
+
+No other developers have expressed an interest in developing affordable housing in Mansfield
+Township.
+
+Anticipated Development Patterns
+Development patterns within Mansfield Township are anticipated to follow the established zoning.
+Mansfield Township is zoned for detached single-family residences, multi-family residential
+(including inclusionary housing), business, light industrial, and professional office. (See the Zoning
+Map below for details.)
+
+
+
+
+3
+    NJDEP Public Water System Deficit/Surplus. https://www.nj.gov/cgi-bin/dep/watersupply/pwsdetail.pl?id=2108001
+
+                                                                                                                    Page 25
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 31 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                                                       Page 26
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 32 of 79 Trans ID: LCV20251878461
+
+
+
+
+Highlands Regional Master Plan Compliance
+The Amended FHA lists the essential components of a municipality’s housing element. NJSA 52-27D-
+310h. states the following:
+
+   For a municipality located within the jurisdiction of the Highlands Water Protection and Planning
+   Council, established pursuant to section 4 of P.L.2004, C.120 (C.13-20-4), an analysis of compliance of
+   the housing element with the Highlands Regional Master Plan of lands in the Highlands Preservation
+   Area, and lands in the Highlands Planning Area for Highlands-conforming municipalities. This analysis
+   shall include consideration of the municipality’s most recent Highlands Municipal Build Out Report,
+   consideration of opportunities for redevelopment of existing developed lands into inclusionary or 100
+   percent affordable housing, or both, and opportunities for 100 percent affordable housing in both the
+   Highlands Planning Area and Highlands Preservation Area that are consistent with the Highlands
+   regional master plan.
+
+Mansfield Township has 13,032 acres in the Preservation Area and 5,969 acres in the Planning Area
+of the Highlands Region. Since Mansfield Township has not voluntarily conformed to the Highlands
+RMP, the Township does not need to address compliance in the Planning Area. Mansfield Township
+has not prepared a Highlands Buildout Report since it is not a fully conforming municipality.
+Within the Preservation Area, Mansfield Township has adopted rural density zoning. There are no
+opportunities for redevelopment of existing developed lands within the Preservation Area that
+would be suitable for inclusionary or 100 percent affordable projects.
+
+State Development & Redevelopment Plan Consistency
+P.L. 2024, c.2 amended the Fair Housing Act to include a new requirement for housing elements.
+NJSA 52:27D-310i. reads “An analysis of consistency with the State Development and Redevelopment
+Plan, including water, wastewater, stormwater, and multi-modal transportation based on guidance
+and technical assistance from the State Planning Commission.”
+
+The Draft State Development and Redevelopment Plan was approved by the State Planning
+Commission (“SPC”) on December 4, 2024, and was released on December 6, 2024. The Office of
+Planning Advocacy (“OPA”) conducted public hearings in each of New Jersey’s 21 Counties between
+February 12, 2025 and April 16, 2025. Municipalities are tasked with completing Cross-Acceptance
+Response Template forms to determine a municipality’s consistency with the Draft State Plan. The
+OPA anticipates collecting all Cross-Acceptance Response Template forms in the Summer of 2025.
+During this time, the OPA is accepting comments on the Draft Plan. The OPA anticipates releasing a
+Final Draft Plan and holding six additional public hearings in the Summer/Fall of 2025. The expected
+adoption of the Final Plan by the SPC is anticipated to be in the Winter of 2025.
+
+As the document is draft, the Township cannot opine on consistency until the final version is
+adopted. Mansfield Township has not received guidance from the State Planning Commission
+concerning water, wastewater, or multi-modal transportation.
+
+Multigenerational Family Continuity Evaluation
+P.L. 2024, c.2 amended various aspects of the Fair Housing Act. These amendments modified the
+mandatory components of a municipality’s housing element. NJSA 52:27D-310g. has been added,
+which states “An analysis of the extent to which municipal ordinances and other local factors
+advance or detract from the goal of preserving multigenerational family continuity as expressed in
+
+
+                                                                                                  Page 27
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 33 of 79 Trans ID: LCV20251878461
+
+
+
+
+the recommendations of the Multigenerational Family Housing Continuity Commission, adopted
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c. 273 (C.52:27D-329.20)”
+
+P.L. 2021, c.273 took effect on November 8, 2021. The law established the Multigenerational Family
+Housing Continuity Commission, which consists of a body of nine members. The duties of the
+Commission include the preparation and adoption of recommendations on how State government,
+local government, community organizations, private entities, and community members may most
+effectively advance the goal of enabling senior citizens to reside at the homes of their extended
+families, thereby preserving and enhancing multigenerational family continuity, through the
+modification of State and local laws and policies in the areas of housing, land use planning, parking
+and streetscape planning, and other relevant areas. The Law requires the Commission to report
+annually to the Governor on its activities, findings, and recommendations, if any, for State and local
+government. The Department of Community Affairs (“DCA”) is required to provide staff services as
+may be needed for the Commission to carry out its responsibilities, including assembly of necessary
+information and statistics, and preparation of draft reports, analyses, and recommendations.
+
+The State of New Jersey’s website was reviewed on March 18, 2025. A search of the website
+revealed no webpage for the Multigenerational Family Housing Continuity Commission. As DCA is
+required to provide staff and research for the Commission, DCA’s website was reviewed on March
+18, 2025. DCA’s website is silent regarding the Commission, its annual required reports, studies,
+and/or recommendations. Without recommendations from the Commission, Mansfield Township is
+unable to conduct an analysis of its ordinances and other local factors. Despite the absence of
+recommendations, it should be noted that there is nothing in Mansfield Township’s zoning
+ordinance that prohibits senior citizens from residing at the home of their extended families.
+
+
+
+
+                                                                                               Page 28
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 34 of 79 Trans ID: LCV20251878461
+
+
+
+
+                  FAIR SHARE PLAN
+VIII. Required Content of Fair Share Plan
+The Fair Share Plan contains the following information:
+
+   ▪   Description of existing credits intended to satisfy the obligation;
+   ▪   Description of mechanisms that will be used to meet any outstanding obligation; and
+   ▪   An implementation schedule that sets forth a detailed timetable for units to be provided.
+
+In adopting its housing element, a municipality may provide for its fair share of low and moderate
+income housing by means of any technique or combination of techniques that provide a realistic
+opportunity for the provision of the fair share. As per N.J.A.C. 5:93, these potential techniques
+include but are not limited to:
+
+   ▪   Rehabilitation of existing substandard housing units;
+   ▪   ECHO units (as a Rehabilitation credit);
+   ▪   Municipally-sponsored and 100% affordable developments;
+   ▪   Zoning for inclusionary development;
+   ▪   Alternative living arrangements;
+   ▪   Accessory apartment program;
+   ▪   Purchase of existing homes;
+   ▪   Write-down/buy-down programs; and
+   ▪   Assisted living residences.
+
+
+
+
+                                                                                             Page 29
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 35 of 79 Trans ID: LCV20251878461
+
+
+
+
+IX. Regional Income Limits
+Dwelling units are affordable to low and moderate income households if the maximum sales price
+or rental cost is within their ability to pay such costs, based on a specific formula. The State
+historically provided income limits based upon the median gross household income of the
+affordable housing region in which the household is located. A moderate income household is one
+with a gross household income equal to or more than 50 percent, but less than 80 percent, of the
+median gross regional household income. A low income household is one with a gross household
+income equal to 50 percent or less of the median gross regional household income. Very-low
+income households are those with a gross household income equal to 30 percent or less of the
+median gross household income. Mansfield Township is located in Region 2, which contains Essex,
+Morris, Union, and Warren Counties.
+
+Using the Affordable Housing Professionals of New Jersey’s latest chart on the regional income limits
+for Housing Region 2 in 2024, a four-person moderate income household is capped at $103,533.
+Two-person moderate income households are capped at $82,826, while two-person households
+could make up to $51,766 to be considered a low-income household. The table on the following
+page provides the median, moderate, low, and very-low income limits for one-, two-, three-, and
+four-person households in Region 2.4
+
+                                     2024 Regional Income Limits (Region 2)
+                                                                      Household Size
+                       Income
+                                              1 Person          2 Person           3 Person          4 Person
+              Median                          $90,591           $103,533           $116,475          $129,416
+              Moderate                        $72,473            $82,826           $93,180           $103,533
+              Low                             $45,296            $51,766           $58,237            $64,708
+              Very-Low                        $27,177            $31,060           $34,942            $38,825
+              Source: https://ahpnj.org/member_docs/Income_Limits_2024_FINAL.pdf
+
+
+
+
+4
+  In October 2018, Judge Miller signed a vicinage wide income limits order applying to all of the 60 or so municipalities with
+cases in Somerset, Hunterdon, and Warren Counties. All of these municipalities can now utilize the most current income
+limits available as it applies both to towns that have settled and those that have not and reserves all rights on the
+methodology.
+
+                                                                                                                        Page 30
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 36 of 79 Trans ID: LCV20251878461
+
+
+
+
+X.     Affordable Housing Obligation
+This chapter outlines the four-part affordable housing obligation Mansfield has been assigned.
+
+Four-Part Obligation
+Rehabilitation | 7 units
+Mansfield Township accepted DCA’s rehabilitation obligation of 7 units for the Fourth Round.
+
+Prior Round (1987-1999) | 3 units
+The March 10, 2015 Supreme Court Order directed municipalities to use the Prior Round Obligation
+that COAH established in 1993. Mansfield’s Prior Round obligation is 3 units.
+
+Third Round (1999-2025) | 142 units
+In accordance with the Settlement Agreement with the Fair Share Housing Center, Mansfield
+Township has a Third Round Obligation of 142 affordable units to be addressed. This obligation was
+calculated by David N. Kinsey, PhD, FAICP, P.P. in his July 22, 2016 report “New Jersey Fair Share
+Housing Obligations for 1999-2025 (Third Round) Under Mount Laurel IV,” prepared on behalf of the
+FSHC.
+
+Fourth Round (2025-2035) | 355 units
+As indicated in the April 8, 2025 Order setting the Fourth Round obligations, Mansfield Township’s
+Fourth Round prospective need obligation is 355 units.
+
+
+
+
+                                                                                               Page 31
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 37 of 79 Trans ID: LCV20251878461
+
+
+
+
+XI. Mechanisms & Credits
+This chapter provides the existing and proposed mechanisms and credits for each of the four
+affordable housing obligations.
+
+Rehabilitation Credits
+Warren County Housing Rehabilitation Program (“WCHRP”)
+Warren County operates a Housing Rehabilitation Program for qualified low and moderate income
+households that gives homeowners money to fix major systems (such as roofs, heating, structural,
+well, septic, etc.) of their home. In return for the rehabilitation money, the house must have a lien
+with 99-year affordability controls placed on the property. Mansfield Township has historically
+participated in the WCHRP and will continue to encourage residents to utilize the existing Warren
+County Housing Program to rehabilitate homes.
+
+Mansfield Rental Housing Rehabilitation Program (“RHRP”)
+Mansfield created a municipal housing rehabilitation program to fulfill the rental rehabilitation
+obligation in 2023. Mansfield Township adopted a Rehabilitation Policies and Procedures Manual to
+establish policies, guidelines and procedures which will govern the Mansfield Rental Housing
+Rehabilitation Program (RHRP). The RHRP was created by the Township to assist rental properties
+occupied by very low-, low- and moderate-income households to correct existing interior and
+exterior health, safety and code violations in conformity with the standards of the New Jersey State
+Housing Code, N.J.A.C. 5:28 and the Rehabilitation Subcode, N.J.A.C. 5:23-6. Additionally, the RHRP
+was designed to fulfill Mansfield Township's rental rehabilitation obligation, as documented in the
+Township's Fair Share Plan as well as in the Township's Settlement Agreement entered into with the
+Fair Share Housing Center (FSHC) dated December 12, 2018.
+
+The RHRP is guided by N.J.A.C. 5:93-5.2 and is subject to all laws, regulations, ordinances, and codes
+of the New Jersey Department of Community Affairs (DCA) and the Township of Mansfield. The
+Township of Mansfield has contracted with Community Grants, Planning & Housing, LLC (CGP&H) to
+manage and administer the RHRP. It is anticipated that initially the program's funding source will be
+municipal affordable housing trust funds. If the funding source changes, the manual will be updated
+to reflect the change as well as changes to regulation requirements, if any.
+
+Owner-occupied single-family rehabilitation will continue to be served by the Warren County
+Community Development Rehabilitation Program and the RHRP program will focus all its resources
+on implementing the rental rehabilitation program component.
+
+In the case of a shortfall, Mansfield Township will apply for a Small Cities/CBDG grant available
+through the Department of Community Affairs. The grant’s purpose is to rehabilitate homes and
+encourage the construction of affordable housing. Other eligible costs include activities that support
+an affordable housing development, such as site assemblage, engineering, infrastructure
+improvements, and utilities hook ups. The Township intends to earmark funds from its total
+development fees projected to be collected over the next ten years for rehabilitation to supplement
+the existing rehabilitation mechanisms in the case of a shortfall of rehabilitation credits.
+
+
+
+
+                                                                                               Page 32
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 38 of 79 Trans ID: LCV20251878461
+
+
+
+
+Prior Round Credits
+1. Supportive and Special Needs Housing
+Mansfield has addressed its Prior Round obligation with a three-bedroom group home at 20
+Karrville Road. The Arc of Warren County is the sponsor. The group home was established in 1987
+and had 20 years of controls.
+
+Third Round Credits
+In accordance with the July 26, 2016 report from the Fair Share Housing Center, Mansfield Township
+has a Third Round Obligation of 142 units. Mansfield addressed the Third Round obligation with the
+following mechanisms:
+
+1. Supportive and Special Needs Housing
+On June 8, 2016, the Arc of Warren County extended the controls for the three-bedroom group
+home at 20 Karrville Road for another 20 years. Such extensions can be automatically renewed. The
+Township can claim 3 credits for this group home towards the Third Round.
+
+2. Minac Site (Block 1102, Lot 4.04)
+The Minac Site is a 107.6-acre parcel known as Lot 4.04 in Block 1102. The property is currently
+developed with an 812-unit multi-family apartment complex owned by Mansfield Plaza, LLC. The
+property contains approximately 20 acres of vacant land, which is separated from the developed
+portion of the tract by a 285-foot wide JCP&L utility easement. There is also another 50-foot wide
+JCP&L easement that runs through the center of the vacant portion of the site.
+
+The vacant portion of the Minac Site is located in the rear of the existing commercial shopping
+center containing Home Depot and Weis. It is adjacent to existing multi-family residential
+development within the northern portion of the same parcel as well as multi-family development on
+Lot 3.02. To the west, the property is adjacent to an existing single-family neighborhood and an
+undeveloped farm site (Allen Farm).
+
+The vacant portion of the Minac Site was rezoned to a new AH-1 Affordable Housing Zone District to
+permit a multi-family development with a maximum of 200 market-rate residential units (a density
+of approximately 10 du/ac). An affordable housing set-aside of 15% shall be met by placing deed
+restrictions on existing units within Block 1102, Lot 4.04 owned by Minac Associates.
+
+The developed portion of the Minac Site was rezoned to a new AH-2 Affordable Housing Zone
+District, which accommodates the future subdivision of Lot 4.04 without creating nonconformities
+for the existing multi-family development. No more than 812 dwelling units shall be permitted, all of
+which exist, and 35 of the existing units shall be registered and deed restricted as affordable
+housing units occupied by qualified low- and moderate-income households. The 35 affordable units
+shall be created in proportion to the development of 200 units in the AH-1 zone and phased in
+accordance with UHAC regulations. The affordable units shall be integrated throughout the existing
+development. Maximum building coverage, impervious coverage and other requirements should be
+relaxed to accommodate the existing development on a reduced lot area after subdivision.
+
+Manfield intends to apply 35 units and 35 rental bonus credits towards the Third Round obligation.
+
+
+
+
+                                                                                              Page 33
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 39 of 79 Trans ID: LCV20251878461
+
+
+
+
+3. Allen Farm Site (Block 1102, Lot 9)
+The Allen Farm Site is a 15.7-acre parcel known as Lot 9 in Block 1102. The property is an active
+farm with several agricultural structures erected in the central portion of the site. The Allen Farm
+Site is located along the east side of Allen Road, adjacent to the existing commercial shopping center
+containing Home Depot and Weis. It is adjacent to the vacant portion of the Minac Site on Lot 4.04
+as well as the existing single-family neighborhoods to the north and west.
+
+The Allen Farm Site was rezoned to a new AH-3 Affordable Housing Zone District permitting multi-
+family inclusionary housing at a density of 10 du/ac (157 units) and a mandatory affordable housing
+set-aside of 15% (24 units) in the case of rental housing and 20% (32 units) in the event of for-sale
+housing. For the Third Round, the Township is anticipating either 32 affordable units if the site is
+built with for-sale units, or 24 units with 1 unit of rental bonus credit if the site is built with rental
+units.
+
+4. Donaldson Farm Site (Block 1105.10, Lot 5, 6, 7 & 8.01)
+The Donaldson Farm Site is a 209-acre tract containing the undeveloped qualified farm portions of
+the larger Donaldson Farm site of approximately 280 acres. The Donaldson Farm Site is located
+between Airport Road and Allen Road. The site is adjacent to the existing multi-family development
+known as “Alexandria” on the east side of Allen Road. The site is surrounded by farmland to the
+west and south and abuts the railroad right-of-way to the north.
+
+Lot 5 of the Donaldson Farm Site (59.4 acres) was previously rezoned as part of the Third Round to a
+new AH-4 Affordable Housing Zone District, permitting multi-family inclusionary housing at a density
+of 10 du/ac (594 units) and a mandatory affordable housing set-aside of 15% (90 units) in the case of
+rental housing and 20% (119 units) in the event of for-sale housing. The Donaldson Farm site is
+being expanded to include portions of Lot 6, Lot 7, and Lot 8.01, which are under common
+ownership by the Donaldson Farm.
+
+For the Third Round, the Township is anticipating assigning either 37 affordable units if the site is
+built with for-sale units, or 44 units with 1 unit of rental bonus credit if the site is built with rental
+units.
+
+5. Rental Bonus Credits
+Pursuant to N.J.A.C. 5:93-5.15(d), the Township may claim 2 units of credit for rental units available
+to the general public (i.e. family rentals) or 1.33 units of credit for age-restricted rentals. Rental
+bonuses for the Third Round are capped at the rental obligation, which is 25 percent of the new
+construction obligation. For the Third Round, Mansfield has a rental obligation of 36 units and
+therefore, may apply up to 36 bonus credits. Mansfield will utilize 35 rental bonus credits for units
+within the Minac site to satisfy the Third Round obligation. Since the Allen Farm and Donaldson
+Farm sites permit either for sale or rental units, the Township will claim either the 20% set-aside for
+the for-sale units, or the lower 15% rental units with a two-for-one rental bonus.
+
+Summary of Third Round Credits
+As shown in the table below, the Township anticipates a total of 106 or 107 affordable units to
+address the Third Round obligation. Township is eligible for a rental bonus credit up to a maximum
+of 36 units. The two charts below show how the Township would meet the 143-unit Third Round
+obligation if the Allen Farm and Donaldson Farm tracts are developed with rental or for-sale units.
+
+                                                                                                      Page 34
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 40 of 79 Trans ID: LCV20251878461
+
+
+
+
+                             THIRD ROUND OBLIGATION (Rental Option)
+     Project                                          Credit Type            Credit    Bonus    Total
+     Arc of Warren extension of controls              Group Home                  3         0       3
+     Minac Site (Block 1102, Lot 4.04)                Inclusionary Rental        35        35      70
+     Allen Farm Site (Block 1102, Lot 9)              Inclusionary Rental        24         1      25
+     Donaldson Farm Site (Block 1105.10, Lot 5)       Inclusionary Rental        45         0      45
+     Total                                                                      106        36     143
+
+
+                            THIRD ROUND OBLIGATION (For-Sale Option)
+     Project                                          Credit Type            Credit    Bonus    Total
+     Arc of Warren extension of controls              Group Home                  3         0       3
+     Minac Site (Block 1102, Lot 4.04)                Inclusionary Rental        35        35      70
+     Allen Farm Site (Block 1102, Lot 9)              Inclusionary Sales         32                32
+     Donaldson Farm Site (Block 1105.10, Lot 5)       Inclusionary Sales         37                37
+     Total                                                                      107        35     143
+
+
+Fourth Round Credits
+1. Donaldson Farm Site (Block 1105.10, Lot 5, 6, 7 & 8.01)
+The Donaldson Farm Site is a 209-acre tract containing the undeveloped qualified farm portions of
+the larger Donaldson Farm site of approximately 280 acres. Lot 5 of the Donaldson Farm Site (59.4
+acres) was previously rezoned as part of the Third Round to a new AH-4 Affordable Housing Zone
+District, permitting multi-family inclusionary housing at a density of 10 du/ac with a mandatory
+affordable housing set-aside of 15% in the case of rental housing and 20% in the event of for-sale
+housing. The AH-4 Zone is proposed to be expanded to include portions of Lot 6, Lot 7, and Lot 8.01,
+which are under common ownership by the Donaldson Farm.
+
+The 209-acre tract is anticipated to be developed with up to 2,090 units, which would yield 314
+affordable units if rental or 418 affordable units if for-sale. For the Fourth Round, the Township is
+anticipating assigning either 355 affordable units if the site is built with for-sale units, or 266 units
+with 89 units of rental bonus credit if the site is built with rental units.
+
+2. Rental Bonus Credits
+In accordance with A4, the Township may claim 1.5 units of credit for rental units for the Fourth
+Round. Rental bonuses for the Fourth Round are capped at the rental obligation, which is 25
+percent of the prospective need. For the Fourth Round, Mansfield has a rental obligation of 89 units
+and therefore, may apply up to 89 bonus credits. If the Donaldson tract is developed with rental
+units, the Township would anticipate utilizing 89 rental bonus credits.
+
+
+
+
+                                                                                                    Page 35
+Summary of Mechanisms & Credits
+The tables below provide a summary of the mechanisms, credits and bonuses this HEFSP proposes.
+
+The first table shows how the credits would be applied if Allen Farm and Donaldson Farm are developed with rental units.
+
+                                                                         CREDITS (Rental Option)
+                                                         Acres Density     Total Available       Prior Round           Third Round          Fourth Round
+       Project            Credit Type         Status                                                                                                        Excess
+                                                                           Units   Credits Units Bonus Total       Units Bonus Total     Units Bonus Total
+Arc of Warren County      Group Home          Existing                       6         6       3             3       3              3                    0    0
+Minac                  Inclusionary Rental   Proposed                       200       35                     0      35      35     70                    0    0
+Allen Farm             Inclusionary Rental   Proposed    15.7    10         157       24                     0      24       1     25                    0    0
+Donaldson Farm 1       Inclusionary Rental   Proposed    209     10        2,090     314                     0      44             44     266    89     355   4
+                                                                                        Total  3       0     3      106     36     142    266    89     355   4
+                                                                                  Obligation           3                   142                   355
+                                                                                 Max Bonus             1                    36                   89
+
+
+
+
+The second table shows how the credits would be applied if Allen Farm and Donaldson Farm are developed with for-sale units.
+
+                                                                         CREDITS (For-Sale Option)
+                                                         Acres Density     Total Available         Prior Round         Third Round          Fourth Round
+       Project            Credit Type         Status                                                                                                        Excess
+                                                                           Units    Credits Units Bonus Total      Units Bonus Total     Units Bonus Total
+Arc of Warren County       Group Home         Existing                       6          6        3             3     3              3                    0     0
+Minac                  Inclusionary Rental   Proposed                       200        35                      0    35      35     70                    0     0
+Allen Farm              Inclusionary Sales   Proposed    15.7    10         157        32                      0    32             32                    0     0
+Donaldson Farm 1        Inclusionary Sales   Proposed    209     10        2,090      418                      0    37             37     355           355   26
+                                                                                         Total   3       0     3    107     35     142    355     0     355   26
+                                                                                   Obligation            3                 142                   355
+                                                                                  Max Bonus              1                  36                   89                  WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 41 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                                                                                                                                           Page 36
+  WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 42 of 79 Trans ID: LCV20251878461
+
+
+
+
+XII. Appendix
+
+
+
+
+                                                                         Page 37
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 43 of 79 Trans ID: LCV20251878461
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 44 of 79 Trans ID: LCV20251878461
+WRN-L-000047-25
+WRN-L-000047-25 06/27/2025
+                06/26/20251:05:18
+                           11:30:44
+                                  PMAMPgPg
+                                         451of
+                                            of 2
+                                               79 Trans
+                                                  TransID:
+                                                        ID:LCV20251858492
+                                                            LCV20251878461
+WRN-L-000047-25
+WRN-L-000047-25 06/27/2025
+                06/26/20251:05:18
+                           11:30:44
+                                  PMAMPgPg
+                                         462of
+                                            of 2
+                                               79 Trans
+                                                  TransID:
+                                                        ID:LCV20251858492
+                                                            LCV20251878461
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 47 of 79 Trans ID: LCV20251878461
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 48 of 79 Trans ID: LCV20251878461
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 49 of 79 Trans ID: LCV20251878461
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 50 of 79 Trans ID: LCV20251878461
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 51 of 79 Trans ID: LCV20251878461
+ WRN-L-000047-25 06/27/2025
+WRN-L-000047-25   02/18/20251:05:18
+                             4:30:31PM
+                                     PM Pg
+                                         Pg52 of 12
+                                                 79 Trans ID: LCV2025386638
+                                                              LCV20251878461
+ WRN-L-000047-25 06/27/2025
+WRN-L-000047-25   02/18/20251:05:18
+                             4:30:31PM
+                                     PM Pg
+                                         Pg53 of 12
+                                                 79 Trans ID: LCV2025386638
+                                                              LCV20251878461
+ WRN-L-000047-25 06/27/2025
+WRN-L-000047-25   02/18/20251:05:18
+                             4:30:31PM
+                                     PM Pg
+                                         Pg54 of 12
+                                                 79 Trans ID: LCV2025386638
+                                                              LCV20251878461
+ WRN-L-000047-25 06/27/2025
+WRN-L-000047-25   02/18/20251:05:18
+                             4:30:31PM
+                                     PM Pg
+                                         Pg55 of 12
+                                                 79 Trans ID: LCV2025386638
+                                                              LCV20251878461
+ WRN-L-000047-25 06/27/2025
+WRN-L-000047-25   02/18/20251:05:18
+                             4:30:31PM
+                                     PM Pg
+                                         Pg56 of 12
+                                                 79 Trans ID: LCV2025386638
+                                                              LCV20251878461
+ WRN-L-000047-25 06/27/2025
+WRN-L-000047-25   02/18/20251:05:18
+                             4:30:31PM
+                                     PM Pg
+                                         Pg57 of 12
+                                                 79 Trans ID: LCV2025386638
+                                                              LCV20251878461
+      WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 58 of 79 Trans ID: LCV20251878461
+
+
+Shelbourne at Hunterdon
+53 Frontage Road Suite 110
+Hampton, New Jersey 08827
+Main: 877 627 3772
+
+
+
+
+Memorandum
+To:                  Mansfield Township
+
+From:                Daniel Bloch, PP, AICP, EADA
+
+Date:                June 5, 2025
+
+Subject:             Site Suitability Analysis for Proposed Affordable Housing Sites
+
+Project No.:         MNF022
+
+
+
+INTRODUCTION
+The purpose of this report is to analyze the three properties identified within the Settlement
+Agreement between the Fair Share Housing center and Mansfield Township, to determine whether
+the three sites are suitable for the provision of affordable housing. The proposed affordable
+housing sites are as follows:
+
+      1. Minac, Block 1102, Lot 4.04
+      2. Allen Farm, Block 1102, Lot 9
+      3. Donaldson Farm, Block 1105.10, Lots 5, 6, 7 and 8.01
+
+This analysis is performed in accordance with the Council on Affordable Housing (“COAH”) Rules
+regarding site suitability at N.J.A.C. 5:93-5.3. Pursuant to N.J.A.C. 5:93-1, “Suitable site” means a site
+that is adjacent to compatible land uses, has access to appropriate streets and is consistent with the
+environmental policies delineated in N.J.A.C. 5:93-4. Designated sites must be available, suitable,
+developable, and approvable, per N.J.A.C. 5:93-5.3. For each site designated for new construction of
+low and moderate income units, the municipality shall provide the following documentation:
+
+      1. A general description of each site to be used for inclusionary development, including, but not
+         limited to the following: acreage, current zoning, surrounding land uses, and street access.
+         Maps shall be submitted showing the location of all sites.
+
+      2. A description of any environmental constraints including steep slopes, wetlands and flood
+         plain areas. The municipality shall include calculations of the amount of acreage that is
+         environmentally constrained and any remaining buildable acreage. Documentation shall
+         include the appropriate wetland and flood plain maps required pursuant to N.J.A.C. 5:93-5.1.
+
+      3. Information shall be submitted regarding location, size and capacity of lines and facilities
+         within the service area, as well as the status of the applicable area-wide water quality
+         management plan including the wastewater management plan. Documentation shall include
+         maps showing the location of the sewer and water facilities; and
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 59 of 79 Trans ID: LCV20251878461
+
+
+Project No. MNF022
+June 5, 2025
+Page 2 | 5
+
+
+
+
+    4. For each site, the total number of housing units; the gross and net density of the proposed
+       development; the total number of low and moderate income units; and the number of low
+       and moderate income units that will be for sale and for rent.
+
+MINAC SITE (BLOCK 1102, LOT 4.04)
+Site Description
+
+The Minac Site is a 107.6-acre parcel known as Lot 4.04 in Block 1102 in the Township of Mansfield.
+The property is currently developed with an 812-unit multi-family apartment complex owned by
+Mansfield Plaza, LLC. The property contains approximately 20 acres of vacant land, which is
+separated from the developed portion of the tract by a 285-foot wide JCP&L utility easement. There
+is also another 50-foot wide JCP&L easement that runs through the center of the vacant portion of
+the site. The property is privately owned and there are no known deed restrictions that would
+encumber the development of the property. Any difficulties presented by JCP&L easements can be
+overcome by proper site plan design.
+
+Land Use Setting
+
+The vacant portion of the Minac Site is located in the rear of the existing commercial shopping
+center containing Home Depot and Weis. It is adjacent to existing multi-family residential
+development within the northern portion of the same parcel as well as multi-family development on
+Lot 3.02. To the west, the property is adjacent to an existing single-family neighborhood and an
+undeveloped farm site (Allen Farm).
+
+Environmental Constraints
+
+According to NJDEP and FEMA mapping, there are no wetlands, open waters, steep slopes, or flood
+hazard areas that restrict the development of the Minac Site.
+
+Proposed Affordable Housing
+
+In 2021, the Township rezoned the vacant portion of the Minac Site, Block 1102, Lot 4.04, to the new
+AH-1 Affordable Housing Zone District, which permits the development of 200 market-rate
+residential units (a density of approximately 10 du/ac). An affordable housing set-aside of 15% shall
+be met by placing deed restrictions on existing units within Block 1102, Lot 4.04 owned by Minac
+Associates. The affordable units shall be integrated throughout the existing development.
+
+Availability of Sanitary Sewer and Public Water
+The site is within the approved service area of the Hackettstown Municipal Utilities Authority
+(“HMUA”), which will provide sanitary sewer and potable water service to the proposed project.
+
+The HMUA sanitary sewer system includes a Water Pollution Control Plant rated at 3.39 million
+gallons per day (MGD). The facility currently provides treatment of approximately 2.12 MGD, leaving
+an excess capacity of about 1.27 MGD. At a presumed demand of 300 gallons per day (GPD) per unit,
+the proposed development would generate a wastewater demand of 60,000 GPD, representing
+about 5 percent of the available capacity.
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 60 of 79 Trans ID: LCV20251878461
+
+
+Project No. MNF022
+June 5, 2025
+Page 3 | 5
+
+
+
+
+According to NJDEP, the HMUA water system has a firm capacity of 4.752 MGD. The current peak
+demand is 3.075 MGD, leaving an excess capacity of 1.677 MGD. At a presumed demand of 225
+gallons per day (GPD) per unit, the proposed development would generate a water demand of
+45,000 GPD, representing about 2.6 percent of the available capacity.
+
+ALLEN FARM SITE (BLOCK 1102, LOT 9)
+Site Description
+The Allen Farm Site is a 15.7-acre parcel known as Lot 9 in Block 1102 in the Township of Mansfield.
+The property is an active farm with several agricultural structures erected in the central portion of
+the site. The property is privately owned and there are no known deed restrictions or easements
+that would encumber the development of the property.
+
+Land Use Setting
+
+The Allen Farm Site is located along the east side of Allen Road, adjacent to the existing commercial
+shopping center containing Home Depot and Weis. It is adjacent to the vacant portion of the Minac
+Site on Lot 4.04 as well as the existing single-family neighborhoods to the north and west.
+
+Environmental Constraints
+
+According to NJDEP and FEMA mapping, there is a limited area of steep slopes greater than 20%
+along the Allen Road frontage as well as approximately 1 acre of freshwater wetlands along the
+southern property line. These environmental features do not substantially constrain the
+development of the site for inclusionary housing.
+
+Proposed Affordable Housing
+
+In 2021, the Township rezoned the parcel to AH-3 Affordable Housing Zone District, permitting 10
+du/ac (157 units) and a mandatory set-aside of 15% (24 units) in the case of rental housing and 20%
+(32 units) in the event of for-sale housing.
+
+Availability of Sanitary Sewer and Public Water
+
+The site is within the approved service area of the Hackettstown Municipal Utilities Authority
+(“HMUA”), which will provide sanitary sewer and potable water service to the proposed project.
+There exists adequate water and wastewater capacity serve the future development.
+
+DONALDSON FARM SITE (BLOCK 1105.10, LOTS 5, 6, 7 & 8.01)
+Site Description
+
+The Donaldson Farm Site is a 209-acre tract containing the undeveloped qualified farm portions of
+the larger Donaldson Farm site of approximately 280 acres. Lot 5 of the Donaldson Farm Site (59.4
+acres) was previously rezoned as part of the Third Round to a new AH-4 Affordable Housing Zone
+District, permitting multi-family inclusionary housing at a density of 10 du/ac with a mandatory
+affordable housing set-aside of 15% in the case of rental housing and 20% in the event of for-sale
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 61 of 79 Trans ID: LCV20251878461
+
+
+Project No. MNF022
+June 5, 2025
+Page 4 | 5
+
+
+
+
+housing. The AH-4 Zone is proposed to be expanded to include portions of Lot 6, Lot 7, and Lot 8.01,
+which are under common ownership by the Donaldson Farm. The property is privately owned and
+there are no known deed restrictions or easements that would encumber the development of the
+property.
+
+Land Use Setting
+The Donaldson Farm Site is located between Airport Road and Allen Road. The site is adjacent to the
+existing multi-family development known as “Alexandria” on the east side of Allen Road. The site is
+surrounded by farmland to the west and south and abuts the railroad right-of-way to the north.
+
+Environmental Constraints
+
+According to NJDEP and FEMA mapping, there is a limited area of steep slopes greater than 20%
+along the Allen Road frontage as well as approximately 1 acre of freshwater wetlands along the
+southern property line. These environmental features do not substantially constrain the
+development of the site for inclusionary housing.
+
+Proposed Affordable Housing
+
+Lot 5 of the Donaldson Farm Site (59.4 acres) was previously rezoned to AH-4 Affordable Housing
+Zone District as part of the Third Round to a new AH-4 Affordable Housing Zone District, permitting
+multi-family inclusionary housing at a density of 10 du/ac (594 units) and a mandatory affordable
+housing set-aside of 15% in the case of rental housing and 20% in the event of for-sale housing. The
+AH-4 Zone is proposed to be expanded to include portions of Lot 6, Lot 7, and Lot 8.01,
+
+Availability of Sanitary Sewer and Public Water
+
+The site is within the approved service area of the Hackettstown Municipal Utilities Authority
+(“HMUA”), which will provide sanitary sewer and potable water service to the proposed project.
+There exists adequate water and wastewater capacity serve the future development.
+
+CONCLUSION
+Pursuant to N.J.A.C. 5:93-3, designated sites for affordable housing must be available, suitable,
+developable, and approvable.
+
+The three sites are “available” because they are privately owned, have clear title, and are free of
+encumbrances that preclude residential development.
+
+The three sites are “developable” because they have access to appropriate water and sewer
+infrastructure, are within the adopted wastewater service area, and there is adequate capacity to
+serve the proposed development.
+
+ The three sites are “approvable” because they can be developed for low and moderate income
+housing in a manner consistent with the rules and regulations of all agencies with jurisdiction over
+the site.
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 62 of 79 Trans ID: LCV20251878461
+
+
+Project No. MNF022
+June 5, 2025
+Page 5 | 5
+
+
+
+
+The three sites are “suitable” for affordable housing because they are adjacent to compatible land
+uses, have access to appropriate streets, and are consistent with the environmental policies
+delineated in N.J.A.C. 5:93-4.
+                         WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 63 of 79 Trans ID: LCV20251878461
+
+
+
+
+±                                                                                                                                                                                  5
+
+
+
+
+                     3.02
+                                                                                                                                                4.04
+
+
+
+
+         1       4            9
+
+
+
+
+    3.09 3.10                              3.12
+                              3.11                                       3.13
+                                                                                                            7
+
+         HARMONY LN
+                                           0
+                 3.15                                                             6
+    3.17                           3.14
+                                                                 5
+                                                                                                                    8
+                                                                                          R
+                                                        4
+                                                                                  TE                                                                                                   6.01
+                                                                        EW
+         3.16                               3
+                                                                      VI
+                                                                                          4
+                                                                                                                        9
+                                       2
+                                                          GH
+                     1                                  HI                   3
+                                                                                                  5
+                                                                                                                         10
+    14                                                       2
+                                                1                                     6
+
+
+
+
+                                                                                                                                                                                                      \\HQFAS1\Survey\GIS\GISPROJECTS\Municipal\M-P\MNF\MNF-001\181129_AH Sites.mxd
+     13
+                                       AL                                                                           11
+                                          L     EN                7
+                         1                               RD                                                12
+
+                                           2                                                  13
+         21                                                                       14                                                                                                             7
+                              3                                                                                                                                             4.05
+    20                                                       5
+                     4
+                                                                     6
+                                               4
+                                                                                                                                                                                               4.01
+             5                                                               7
+                                       3                                                                                            9
+                                                    2                                 8
+         6                                                                                                                                                                                    4.03
+                                                             1
+                                                                                              9
+                                                                         0
+                 7
+                                                                                                      10
+                                       8
+                                                                                                                              LN
+                                            AV
+                                                                                 11
+                         9
+                                         AY                      12
+                                                                                                            32   BUR
+         10
+                                E      EW                                                                           Y
+    11
+                             FR                         13                                    31
+                                                                                                           N
+                                                                                                                R
+                                                                                                                               12                                                                0
+                                  15
+                                           14                                     30                        TE
+                                                                                                                    10
+                                                                                                       CA
+                     16                                           29
+         17                                             28                                                                     9        13.01
+
+
+
+
+0            270                           540                               810                           1,080
+                                                                                                                                                       Minac Site
+                                                                                                              Feet                                Block 1102, Lot 4.04
+                                                                                                                                                  Township of Mansfield
+                                  1 inch = 400 feet
+                                                                                                                                                Warren County, New Jersey              November 2018
+                          WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 64 of 79 Trans ID: LCV20251878461
+
+
+
+
+        0           3.13                                                               7
+    3.14                                              6
+
+                                                                        TER
+                                                              W
+                                5
+
+                                                           IE
+                                                                                                     8
+
+                                                       V
+                                           GH
+                    4
+
+                                         HI                         4
+
+
+
+
+±
+            3                                                                                            9
+
+
+    2                                        3
+                                                                             5
+                                                                                                             10
+                           2
+                                                                                                                                                                  4.04
+                                                       6
+            1
+                                                                                                     11
+                                7
+
+                                                                                      12
+
+            2                                                           13
+
+                                                          14
+
+                          5
+
+
+                                    6
+            4
+                                             7
+    3
+                2
+                                                          8                                                                                                                                            4.05
+
+                           1
+                                                                        9
+
+                               AV
+                            AY
+                         E W
+                                                                                 10
+               E
+            FR
+    8                                                                                                                                                         9
+                                                  11
+                                                                                           32
+                                                                                                             0
+                               12
+
+                    13                                                  31
+                                                                                                                             12
+
+    14                                                30                                             10
+
+
+                                                                  L         N
+                                    29
+
+                                                    U          RY
+                                                 RB
+                                                                                                                 9                13.01
+                                            E
+                    28
+
+                                         NT
+                               CA
+
+
+
+
+                                                                                                                                                                                                                                  \\HQFAS1\Survey\GIS\GISPROJECTS\Municipal\M-P\MNF\MNF-001\181129_AH Sites.mxd
+                                                                            36
+
+
+
+                                                                                       TO N PL
+    27                                                                                                                                     13
+                                                                                                                     8
+                                                                                                                                                                              AL
+                                             37                              35                                                                                   1
+                                                                                                                                                                                   LE
+                                                                                                                                                                                      N
+                                                                                                                                                                                                                           4.02
+                               38
+                                                                        34
+                                                                                      LING                       7                                   2                                    RD
+                    39                                                               W EL                                                  3
+                                                                                                                                                                                                                              8
+                                                                                                                                      4
+                                                          33                                                                                                                   43
+                                                                                                6                        5
+
+        40
+                                                                                                                                      AV
+                                                                                                                     ESTER
+                                                                                                WINCH
+                                                               32                                                                                                        42
+                                                                                                                                                     41
+    41                                  31
+
+                                                                                                                                  9
+                                                                                                             8                                                                                 11.02
+                         30                                                                                                               T              40
+                                                                                            7
+                                                                                                                                      YS                                                                      11.05
+                                                                                 6
+                                                                                                                         10       LE            39
+
+                                                                                                                                                                                                                         57
+        28
+                     29
+
+                                                  4
+                                                                5
+                                                                                       12
+                                                                                                    11                        DG
+                                                                                                                             RI            38                                                                           ¬
+                                                                                                                                                                                                                        «
+0               200                              400                             600                         800
+                                                                                                                                                                  Allen Farm Site
+                                                                                                               Feet                                                   Block 1102, Lot 9
+                                                                                                                                                            Township of Mansfield
+                                    1 inch = 300 feet
+                                                                                                                                                          Warren County, New Jersey                                   November 2018
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 65 of 79 Trans ID: LCV20251878461
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 66 of 79 Trans ID: LCV20251878461
+
+
+
+
+                              TOWNSHIP OF MANSFIELD
+
+                                ORDINANCE NO. 2021-09
+
+AN ORDINANCE OF THE TOWNSHIP OF MANSFIELD, COUNTY OF WARREN,
+STATE OF NEW JERSEY, TO AMEND THE REVISED GENERAL ORDINANCES
+OF THE TOWNSHIP OF MANSFIELD, CHAPTER 363 ENTITLED “ZONING” BY
+AMENDING ARTICLE II ENTITLED “ZONE DISTRICT AND ZONE MAP” AND
+SUBSECTION 363-2 ENTITLED “CLASSES OF DISTRICTS” AND BY THE
+ADDITION OF NEW SECTION 363-A31 ENTITLED “AH-1 AFFORDABLE
+HOUSING DISTRICT”
+
+BE IT ORDAINED by the Township Committee of the Township of Mansfield in the
+County of Warren, State of New Jersey, as follows:
+
+SECTION 1. Section 363-2 entitled “Classes of Districts” of Chapter 363 entitled
+“Zoning” of The Revised General Ordinances of the Township of Mansfield is hereby
+supplemented and amended by the addition of the following to Article XV:
+
+        AH-1     Affordable Housing
+
+SECTION 2. Section 363-3 entitled “Zoning Map” of Chapter 363 entitled “Zoning” of The
+Revised General Ordinances of the Township of Mansfield is hereby supplemented and
+amended as follows:
+
+        A. Change the zoning district classification on the official zoning map from R-2
+Residential to AH-1 Affordable Housing District for the following properties:
+
+        1. Block 1102, Part of Lot 4.04
+
+        Boundaries of the rezoned area are indicated on Exhibit A attached to this Ordinance.
+
+SECTION 3. Chapter 363 entitled “Zoning” of The Revised General Ordinances of
+the Township of Mansfield is hereby supplemented and amended by the addition of new
+Article XV entitled “AH-1 Affordable Housing District” to read as follows:
+
+        ARTICLE XV AH-1 AFFORDABLE HOUSING DISTRICT
+
+
+         363-87 Purpose. The objectives and standards set forth hereafter are designated to
+implement the Housing and Affordable Housing obligation of the Township of Mansfield.
+The uses and standards for development are permitted only within the AH-1 zone as shown on
+the revised Official Zoning Map attached hereto as Exhibit A.
+
+The objectives are to provide and encourage development of housing affordable to low and
+moderate income households as defined by the New Jersey Fair Housing Act, as well as
+
+
+                                          {00704131-1}1
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 67 of 79 Trans ID: LCV20251878461
+
+
+
+
+middle income, age targeted and adult households.
+
+        363-88 Development Standards and Requirements.
+
+        a. Permitted Uses            Multi-Family Dwellings
+        b. Accessory Uses.           Patios, balconies, decks
+                                     Fences and walls
+                                     Signs
+                                     Stormwater facilities
+                                     Pump stations
+                                     Refuse corrals
+                                     Common recreational facilities
+                                     Electric vehicle charging stations
+
+        c. Housing Units             No more than 200 dwelling units shall be permitted
+
+        d. Maximum Units             24
+           per Building
+
+        e. Maximum No.               2
+           Bedrooms per Unit
+
+        f. Maximum Building          2 stories or 35 feet (whichever is less),
+           Height                    measured from average finished grade
+
+        g. Minimum Building Setback:
+
+                Tract boundary       50 feet
+
+                Front yard           50 feet (measured from Nikitin Way, a private street
+                                     approved by the Mansfield Township Planning Board
+                                     pursuant to the Municipal Land Use Law)
+
+                Front yard from      20 feet (measured from curb)
+                Private Street
+
+        h. Lot Coverage:
+
+               Maximum Building      20%
+               Coverage
+
+               Maximum Total       50%
+               Impervious Coverage
+
+       i. Parking                    Development shall meet Residential Site
+                                     Improvement Standards (RSIS). and §361-20
+
+       j. Signage                    Development ID permitted at entrances. ID sign face
+
+
+                                          {00704131-1}2
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 68 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                       shall have maximum area of 25 square feet and height
+                                       of no greater than 5 feet. Sign shall be no less than
+                                       10 feet from public right-of-way.
+
+       k. Buffer                       A 50 foot buffer coinciding with the tract boundary.
+                                       Roads providing ingress and egress, signs and
+                                       stormwater management facilities shall be permitted in
+                                       buffers.
+
+       l. Recreation                   The development shall provide active and passive
+                                       recreational opportunities for site residents.
+
+       m. Housing Affordability        35 units shall be affordable pursuant to UHAC
+                                       requirements except and as provided in Settlement
+                                       Agreement, all affordable units shall be located within
+                                       the adjacent existing Mansfield Village apartment
+                                       development. All affordable housing units shall comply
+                                       with the Township’s Affordable Housing Ordinance,
+                                       including but not limited to phasing, bedroom
+                                       distribution, and very low-income requirements.
+
+SECTION 4. If any article, section, subsection, sentence, clause or phrase of this Ordinance
+is, for any reason, held to be unconstitutional or invalid, such decision shall not affect the
+remaining portions of this Ordinance and they shall remain in full force and effect.
+
+SECTION 5. In the event of any inconsistencies between the provisions of this Ordinance
+and any prior ordinance of the Township of Mansfield, the provisions hereof shall be
+determined to govern. All other parts, portions and provisions of The Revised General
+Ordinances of the Township of Mansfield are hereby ratified and confirmed, except where
+inconsistent with the terms hereof.
+
+SECTION 6.         This ordinance shall take effect immediately upon (1) adoption; (2)
+publication in accordance with the laws of the State of New Jersey; and (3) filing of the final
+form of adopted ordinance by the Clerk with the Warren County Planning Board pursuant to
+N.J.S.A. 40:55D-16.
+
+
+
+
+                                          {00704131-1}3
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 69 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                         NOTICE
+
+NOTICE IS HEREBY GIVEN that the foregoing Ordinance was introduced to pass on the
+first reading meeting of the Township Committee of the Township of Mansfield held on April
+28, 2021 and ordered published in accordance with the law. Said Ordinance will be considered
+for final reading and adoption at a regular meeting of the Township Committee to be held on
+June 23, 2021, at 8:00 p.m. or as soon thereafter as the Township Committee may hear this
+Ordinance at the Municipal Building, Mansfield Township, 100 Port Murray Road, Port
+Murray, New Jersey at which time all persons interested may appear for or against the passage
+of said Ordinance.
+
+___________________________
+Dena M. Hrebenak, Municipal Clerk
+Township of Mansfield
+
+                                           TOWNSHIP OF MANSFIELD
+ATTEST:
+
+
+____________________________                         __ ___________________________
+Dena M. Hrebenak, Municipal Clerk                    Joseph Watters, Mayor
+
+DATED: June 23, 2021
+
+                                    CERTIFICATION
+
+I, Dena M. Hrebenak, Clerk of the Township of Mansfield, do hereby certify that the foregoing
+Ordinance was duly adopted by the Township of Mansfield Committee on the 23th day of
+June, 2021.
+
+
+
+                                           Dena M. Hrebenak, Municipal Clerk
+
+
+
+
+                                         {00704131-1}4
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 70 of 79 Trans ID: LCV20251878461
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 71 of 79 Trans ID: LCV20251878461
+
+
+
+
+                              TOWNSHIP OF MANSFIELD
+
+                                ORDINANCE NO. 2021-10
+
+AN ORDINANCE OF THE TOWNSHIP OF MANSFIELD, COUNTY OF WARREN,
+STATE OF NEW JERSEY, TO AMEND THE REVISED GENERAL ORDINANCES
+OF THE TOWNSHIP OF MANSFIELD, CHAPTER 363 ENTITLED “ZONING” BY
+AMENDING ARTICLE II ENTITLED “ZONE DISTRICT AND ZONE MAP” AND
+SUBSECTION 363-2 ENTITLED “CLASSES OF DISTRICTS” AND BY THE
+ADDITION OF NEW ARTICLE XVI ENTITLED “AH-2 AFFORDABLE HOUSING
+DISTRICT”
+
+
+
+BE IT ORDAINED by the Township Committee of the Township of Mansfield in the
+County of Warren, State of New Jersey, as follows:
+
+SECTION 1. Section 363-2 entitled “Classes of Districts” of Chapter 363 entitled
+“Zoning” of The Revised General Ordinances of the Township of Mansfield is hereby
+supplemented and amended by the addition of the following to Article XVI:
+
+        AH-2     Affordable Housing
+
+SECTION 2. Section 363-3 entitled “Zoning Map” of Chapter 363 entitled “Zoning” of The
+Revised General Ordinances of the Township of Mansfield is hereby supplemented and
+amended as follows:
+
+        A. Change the zoning district classification on the official zoning map from R-3
+Residential to AH-2 Affordable Housing District for the following properties:
+
+        1. Block 1102, Part of Lot 4.04
+
+        Boundaries of the rezoned area are indicated on Exhibit A attached to this Ordinance.
+
+SECTION 3. Chapter 363 entitled “Zoning” of The Revised General Ordinances of
+the Township of Mansfield is hereby supplemented and amended by the addition of new
+Section 363-A31 entitled “AH-1 Affordable Housing District” to read as follows:
+
+        ARTICLE XVI AH-2 AFFORDABLE HOUSING DISTRICT
+
+
+         363-89 Purpose. The objectives and standards set forth hereafter are designated to
+implement the Housing and Affordable Housing obligation of the Township of Mansfield.
+The uses and standards for development are permitted only within the AH-2 zone as shown on
+the revised Official Zoning Map attached hereto as Exhibit A.
+
+The objectives are to provide and encourage development of housing affordable to low and
+
+                                          {00704133-1}1
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 72 of 79 Trans ID: LCV20251878461
+
+
+
+
+moderate income households as defined by the New Jersey Fair Housing Act, as well as
+middle income, age targeted and adult households.
+
+       363-90 Development Standards and Requirements.
+
+       a. Permitted Uses          Multi-Family Dwellings
+       b. Accessory Uses.         Patios, balconies, decks
+                                  Fences and walls
+                                  Signs
+                                  Stormwater facilities
+                                  Pump stations
+                                  Refuse corrals
+                                  Common recreational facilities
+
+       c. Housing Units           No more than 812 dwelling units shall be permitted,
+                                  all of which exist and 35 of the existing units shall be
+                                  registered and deed restricted as affordable housing
+                                  units occupied by qualified low and moderate income
+                                  households. The 35 affordable units shall be created in
+                                  proportion to the development of 200 units in the AH-1
+                                  zone and phased in accordance with UHAC regulations.
+
+       d. Maximum Units           24
+          per building
+
+       e. Maximum No.             2 for market rate
+          Bedrooms per Unit       3 for affordable units
+
+       f. Maximum Building        2 stories or 30 feet (whichever is less),
+          Height                  measured from average finished grade
+
+       g. Minimum Building Setback:
+
+              Tract boundary      50 feet
+
+              Front yard          50 feet
+              Front yard from     20 feet (measured from curb)
+              Private Street
+
+       h. Lot Coverage:
+              Maximum Building    20%
+              Coverage
+
+              Maximum Total       50%
+              Impervious Coverage
+
+       i. Parking                 Development shall meet Residential Site
+
+                                       {00704133-1}2
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 73 of 79 Trans ID: LCV20251878461
+
+
+
+
+            Improvement
+                                       Standards (RSIS).
+
+        j. Signage                     Development ID permitted at entrances. ID sign face
+                                       shall have maximum area of 25 square feet and height
+                                       of no greater than 5 feet. Sign shall be no less than
+                                       10 feet from public right-of-way.
+
+        k Recreation                   The development shall provide active and passive
+                                       recreational opportunities for site residents.
+
+        l. Housing Affordability       35 units shall be affordable pursuant to UHAC
+                                       requirements.
+
+SECTION 4. If any article, section, subsection, sentence, clause or phrase of this Ordinance
+is, for any reason, held to be unconstitutional or invalid, such decision shall not affect the
+remaining portions of this Ordinance and they shall remain in full force and effect.
+
+SECTION 5. In the event of any inconsistencies between the provisions of this Ordinance
+and any prior ordinance of the Township of Mansfield, the provisions hereof shall be
+determined to govern. All other parts, portions and provisions of The Revised General
+Ordinances of the Township of Mansfield are hereby ratified and confirmed, except where
+inconsistent with the terms hereof.
+
+SECTION 6.         This ordinance shall take effect immediately upon (1) adoption; (2)
+publication in accordance with the laws of the State of New Jersey; and (3) filing of the final
+form of adopted ordinance by the Clerk with the Warren County Planning Board pursuant to
+N.J.S.A. 40:55D-16.
+
+
+
+
+                                          {00704133-1}3
+     WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 74 of 79 Trans ID: LCV20251878461
+
+
+
+
+                                         NOTICE
+
+NOTICE IS HEREBY GIVEN that the foregoing Ordinance was introduced to pass on the
+first reading meeting of the Township Committee of the Township of Mansfield held on April
+28, 2021 and ordered published in accordance with the law. Said Ordinance will be considered
+for final reading and adoption at a regular meeting of the Township Committee to be held on
+June 23, 2021, at 8:00 p.m. or as soon thereafter as the Township Committee may hear this
+Ordinance at the Municipal Building, Mansfield Township, 100 Port Murray Road, Port
+Murray, New Jersey at which time all persons interested may appear for or against the passage
+of said Ordinance.
+
+___________________________
+Dena M. Hrebenak, Municipal Clerk
+Township of Mansfield
+
+                                           TOWNSHIP OF MANSFIELD
+ATTEST:
+
+
+____________________________                         __ ___________________________
+Dena M. Hrebenak, Municipal Clerk                    Joseph Watters, Mayor
+
+DATED: June 23, 2021
+
+                                    CERTIFICATION
+
+I, Dena M. Hrebenak, Clerk of the Township of Mansfield, do hereby certify that the foregoing
+Ordinance was duly adopted by the Township of Mansfield Committee on the 23th day of
+June, 2021.
+
+
+
+                                           Dena M. Hrebenak, Municipal Clerk
+
+
+
+
+                                         {00704133-1}4
+WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 75 of 79 Trans ID: LCV20251878461
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 76 of 79 Trans ID: LCV20251878461
+
+
+
+
+                        ORDINANCE NO. 2021-07
+         TOWNSHIP OF MANSFIELD, WARREN COUNTY, NEW JERSEY
+  AN ORDINANCE TO AMEND CHAPTER 363 OF THE CODE OF THE TOWNSHIP OF
+ MANSFIELD ENTITLED “ZONING” TO ADD NEW AFFORDABLE HOUSING ZONING
+                              DISTRICTS
+
+WHEREAS, the Township of Mansfield filed with the court seeking declaratory judgement
+relative to affordable housing as a result of the New Jersey Supreme Court’s March 10, 2015
+decision; and
+
+WHEREAS, the Township of Mansfield has entered into a Settlement Agreement with the Fair
+Share Housing Center (FSHC) in an effort to settle the litigation; and
+
+WHEREAS, the Settlement Agreement stipulates that the Township will rezone certain
+properties to provide realistic opportunities for the creation of affordable housing; and
+
+NOW, THEREFORE, BE IT ORDAINED BY THE TOWNSHIP COUNCIL OF THE
+TOWNSHIP OF MANSFIELD that Chapter 363 of the Code of the Township of Mansfield is
+hereby amended as follows:
+
+SECTION 1:
+
+Section 363-2 of the Zoning Ordinance of the Township of Mansfield is hereby amended as
+follows:
+
+§ 363-2 Classes of districts
+
+For the purpose of this chapter, the Township is hereby divided into eight eleven (11) zone
+districts known as:
+A      Agricultural District
+R-1 Single-Family Residence District
+R-2 Single-Family Residence District
+R-3 Multifamily Residence District
+B-1 Business District
+B-2 Commercial District
+PO Professional Office District
+I      Industrial District
+I/PO Industrial and Professional Office District
+AH-1 Affordable Housing District 1
+AH-2 Affordable Housing District 2
+AH-3 Affordable Housing District 3
+AH-4 Affordable Housing District 4
+
+
+
+SECTION 2:
+                                        {00704132-1}1
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 77 of 79 Trans ID: LCV20251878461
+
+
+
+
+Chapter 363 of the Code of the Township of Mansfield is hereby amended as follows:
+
+ARTICLE XVII: Affordable Housing Districts (AH-3 and AH-4)
+
+§363-91 Purpose
+
+   A. The AH-3 Zone District is intended to permit multi-family inclusionary housing on the
+      “Allen Farm Site”, known as Lot 9 in Block 1102. The AH-2 Zone permits multi-family
+      inclusionary housing at a density of 10 dwellings per acre and a mandatory affordable
+      housing set-aside of 15 percent in the case of rental housing and 20 percent in the case of
+      owner-occupied housing.
+
+   B. The AH-4 Zone District is intended to permit multi-family inclusionary housing on a
+      portion of the “Donaldson Farm Site”, known as Lot 5 in Block 1105.10. The AH-3
+      Zone permits multi-family inclusionary housing at a density of 10 dwellings per acre and
+      a mandatory affordable housing set-aside of 15 percent in the case of rental housing and
+      20 percent in the case of owner-occupied housing.
+
+§363-92 Permitted Uses
+
+   A. The AH-3 and AH-4 Zones are designed for multi-family residential uses. Garden
+      apartments and townhouses are permitted principal uses.
+
+§363-93 Permitted Accessory Uses
+
+   A. Street, roadways and driveways
+
+   B. Off-street surface parking and attached or detached garages
+
+   C. Sanitary Sewer Pump Stations
+
+   D. Stormwater Management Facilities
+
+   E. Site identification signs, in accordance with signs permitted in the R-3 District as per
+      §363-21.
+
+   F. Trash enclosures
+
+   G. Site utilities
+
+   H. Temporary construction office and/or trailer for the duration of the construction of the
+      project
+
+
+
+                                          {00704132-1}2
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 78 of 79 Trans ID: LCV20251878461
+
+
+
+
+   I. Recreational facilities and uses including walking paths, recreational furniture, exercise
+      facilities, tot lots, and other recreational facilities typically associated with a multi-family
+      residential development
+
+   J. Community mailboxes
+
+   K. Minor solar or photovoltaic energy facilities or structures, subject to the conditions at
+      §363-33.A.
+
+   L. Other uses customarily incidental and accessory to a multi-family residential
+      development
+
+§363-94 Area and Bulk Requirements
+
+   A. All multi-family residential uses within the AH-3 and AH-4 Affordable Housing Districts
+      shall meet the area and bulk requirements for the applicable uses within the R-3 District.
+
+   B. Maximum Density: 10 dwelling units per acre.
+
+   C. All multi-family dwellings shall comply with the Design and Performance Standards for
+      Garden Apartments and Townhouses, in accordance with Chapter 361, Article II.
+
+   D. Affordable Housing Units: The total number of affordable housing units that shall be
+      constructed shall be 15 percent of the total number of units approved by the Planning
+      Board in the case of rental housing and 20 percent of the total number of units approved
+      by the Planning Board in the case of owner-occupied housing. All affordable housing
+      units shall comply with the Township’s Affordable Housing Ordinance, including but not
+      limited to phasing, bedroom distribution, and very low income requirements.
+
+
+
+SECTION 3:
+
+This Ordinance may be renumbered for codification purposes.
+
+
+SECTION 4:
+
+All Ordinances of the Township of Mansfield which are inconsistent with the provisions of this
+Ordinance are hereby repealed to the extent of such inconsistency.
+
+SECTION 5:
+
+If any section, subsection, sentence, clause or phrase of this Ordinance is for any reason held to
+be unconstitutional or invalid, such decision shall not affect the remaining portions of this
+Ordinance.
+                                             {00704132-1}3
+    WRN-L-000047-25 06/27/2025 1:05:18 PM Pg 79 of 79 Trans ID: LCV20251878461
+
+
+
+
+SECTION 6:
+
+This Ordinance shall take effect upon passage and publication as provided by law.
+
+
+
+
+                                           NOTICE
+
+NOTICE IS HEREBY GIVEN that the foregoing Ordinance was introduced to pass on the first
+reading meeting of the Township Committee of the Township of Mansfield held on April 28,
+2021 and ordered published in accordance with the law. Said Ordinance will be considered for
+final reading and adoption at a regular meeting of the Township Committee to be held on June
+23, 2021, at 8:00 p.m. or as soon thereafter as the Township Committee may hear this Ordinance
+at the Municipal Building, Mansfield Township, 100 Port Murray Road, Port Murray, New
+Jersey at which time all persons interested may appear for or against the passage of said
+Ordinance.
+
+___________________________
+Dena M. Hrebenak, Municipal Clerk
+Township of Mansfield
+
+                                            TOWNSHIP OF MANSFIELD
+ATTEST:
+
+
+____________________________                         __ ___________________________
+Dena M. Hrebenak, Municipal Clerk                    Joseph Watters, Mayor
+
+DATED: June 23, 2021
+
+                                     CERTIFICATION
+
+I, Dena M. Hrebenak, Clerk of the Township of Mansfield, do hereby certify that the foregoing
+Ordinance was duly adopted by the Township of Mansfield Committee on the 23 th day of June,
+2021.
+
+
+
+                                            Dena M. Hrebenak, Municipal Clerk
+
+
+
+
+                                          {00704132-1}4
+

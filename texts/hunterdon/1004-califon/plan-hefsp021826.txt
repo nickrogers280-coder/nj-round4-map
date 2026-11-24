@@ -1,0 +1,1023 @@
+       HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 1 of 29 Trans ID: LCV2026956665
+
+
+
+
+2025 FOURTH ROUND
+HOUSING PLAN
+HOUSING ELEMENT & FAIR SHARE PLAN
+BOROUGH OF CALIFON
+HUNTERDON COUNTY
+NEW JERSEY
+
+
+FEBRUARY 18, 2026
+
+ORIGINALLY ADOPTED BY THE PLANNING BOARD
+JUNE 25TH, 2025
+ORIGINALLY ENDORSED BY THE BOROUGH COUNCIL
+JUNE 17TH, 2025
+UPDATED FEBRUARY 18, 2026 WITH INSUBSTANTIAL CHANGES
+AS ADOPTED BY THE PLANNING BOARD ON FEBRUARY 18, 2026
+
+
+
+
+PREPARED BY:
+
+
+
+
+____________________________
+JAMES T. KYLE, PP, AICP
+NEW JERSEY PROFESSIONAL PLANNER LICENSE 5667
+KYLE MCMANUS ASSOCIATES
+A SIGNED AND SEALED ORIGINAL IS ON FILE WITH THE BOROUGH CLERK
+HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 2 of 29 Trans ID: LCV2026956665
+
+
+
+
+                                                              2 East Broad Street, Second Floor
+
+                                                                           Hopewell, NJ 08525
+
+                                                                     jkyle@kylemcmanus.com
+
+
+
+
+                             Land Use Board
+                             Arthur Owens, Chair
+                            John Lynch, Vice Chair
+                            Charles Daniel, Mayor
+                          Leo Janas, Council Member
+                               Christoper Danik
+                                 Jason Bittay
+                              Meghan Casserly
+                              Nieves Ferdinand
+                                  Ray Fotta
+                                 Ron Preblick
+                         Denean Probasco, Secretary
+                     James Kyle, PP/AICP, Borough Planner
+                     Jonathan Testa, Esq., Board Attorney
+
+                            Mayor & Council
+                            Charles Daniel, Mayor
+                        Mike Medea, Council President
+                        Cathy Smith, Council Member
+                          Leo Janas, Council Member
+                        Jay Ruggiero, Council Member
+                        Ed Haversang, Council Member
+                     Richard Baggstrom, Council Member
+                     Caitlin Haughey, Administrator/Clerk
+                   Mark S. Anderson, Esq., Borough Attorney
+        HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 3 of 29 Trans ID: LCV2026956665
+
+
+
+
+Table of Contents
+
+
+Introduction & Executive Summary ........................................................................................ 1
+Affordable Housing in New Jersey .......................................................................................... 2
+   The Compliance Process .................................................................................................................5
+   Affordability Requirements ............................................................................................................6
+   Overview of Compliance Requirements ..........................................................................................7
+Affordable Housing in Califon ................................................................................................ 9
+Consideration of Lands Most Appropriate for Affordable Housing ........................................ 10
+   Highlands Buildout and RMP Requirements .................................................................................. 10
+Opportunity for Multigenerational Housing ......................................................................... 11
+Demographic, Housing & Employment Analysis ................................................................... 12
+Affordable Housing Obligation & Satisfaction ...................................................................... 12
+   First & Second Rounds Obligation: 21 units ................................................................................... 12
+   Third Round Obligation: 78 Units .................................................................................................. 12
+      Durational Adjustment – Third Round ................................................................................................................13
+      Third Round Minimum Requirements ................................................................................................................13
+
+   Fourth Round Obligation .............................................................................................................. 14
+      Present Need (Rehabilitation Share) ..................................................................................................................14
+      Prospective Need ................................................................................................................................................14
+      Durational Adjustment – Fourth Round .............................................................................................................15
+      Potential Fourth Round Strategies ......................................................................................................................15
+      Distribution of Fourth Round Units ....................................................................................................................16
+      Affordability Assistance ......................................................................................................................................17
+
+Consistency with the State Development and Redevelopment Plan ...................................... 17
+Affordable Housing Administration & Affirmative Marketing ............................................... 17
+Affordable Housing Trust Fund ............................................................................................ 18
+     HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 4 of 29 Trans ID: LCV2026956665
+
+
+
+
+Appendices
+   1. Borough of Califon Binding Resolution
+   2. Order of Judge William G. Mennen, J.S.C.
+   3. Demographic, Housing and Employment Analysis
+   4. Mandatory Setaside Ordinance
+   5. Affordable Housing Ordinance
+   6. Affirmative Marketing Plan and Resolution
+       HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 5 of 29 Trans ID: LCV2026956665
+
+
+INTRODUCTION & EXECUTIVE SUMMARY
+Since the 1975 New Jersey Supreme Court decision known as “Mount Laurel I,” New Jersey municipalities
+have a constitutional obligation to provide opportunities for creation of low and moderate housing units.
+This 1975 decision led to a body of case law, legislative changes and rulemaking by a state agency that,
+collectively, is now referred to as the “Mount Laurel Doctrine”. Through these actions, New Jersey
+municipalities have been assigned their fair share of the region’s affordable housing need for each
+compliance period and mechanisms must be created to address that need to have “satisfied” their
+constitutional obligation. The purpose of this Housing Element and Fair Share Plan (hereinafter the “Plan”)
+is to detail how Califon will satisfy its constitutional obligation.
+Affordable housing in New Jersey is defined as housing units which are reserved for households with
+incomes not more than 80% of the regional median income. Each affordable unit, depending on the age
+and type of housing, must remain reserved for low and moderate income households for up to 40 years,
+a requirement enforced by deed restriction. Each affordable unit is eligible for one “credit” against the
+obligation and certain units are eligible for “bonus credits,” which potentially provide more than one
+credit per unit. In addition to providing the minimum number of credits, municipalities must ensure
+diversity in the unit type (at least half of the units must be available to families and the remaining may be
+reserved for seniors and those with special needs), diversity in the level of affordability (very low, low and
+moderate income units), and diversity in the size of affordable units (one, two and three bedroom units).
+Participation in this process, and therefore satisfaction of the affordable housing obligation, can be
+achieved voluntarily or involuntarily, however, voluntary compliance is heavily incentivized. Municipalities
+that do not successfully participate may be vulnerable to exclusionary zoning litigation or a builder’s
+remedy, which is a litigation tool that can grant a developer the right to construct what is typically
+multifamily development on land that was not zoned to permit that use or density. Califon seeks to avoid
+this possibility although the reality is that the resource protection requirements of the Highlands Regional
+Master Plan mean it is unlikely.
+This Housing Plan addresses the Borough of Califon’s third round obligation as well as the newly assigned
+fourth round affordable housing obligation consisting of a present need (rehabilitation) of 0 units and a
+prospective need (new construction) of 23 units. As the Borough did not participate in the third round
+declaratory judgment process, it did not negotiate its obligation with FSHC. Given this fact, the Borough
+relies on calculation of its third round obligation consistent with the Jacobsen decision in the matters of
+Princeton and West Windsor as outlined in a report prepared by Econsult Solutions, Inc. dated March 28,
+2018. This report utilized what has now been coined “the Jacobsen Methodology” to determine third
+round obligations statewide.
+The Borough lies entirely within the Preservation Area under the Highlands Regional Master Plan and also
+lacks centralized sewer of any kind, with all properties served by on-site septic systems or cesspools. As
+such, the Borough qualifies for deferment under the durational adjustment provisions of COAH’s rules.
+This Plan supersedes all previously adopted housing plans and will serve as the foundation for the
+Borough’s filing with the New Jersey Affordable Housing Dispute Resolution Program and a request for
+Compliance Certification.
+
+
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                               PAGE 1
+JUNE 13, 2025
+        HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 6 of 29 Trans ID: LCV2026956665
+
+
+As detailed in this Plan, the Borough – like all New Jersey municipalities – has four components of its
+affordable housing obligation. Each component of the Borough’s obligation is identified below and further
+detail is provided in later sections.
+    ▪    Rehabilitation Obligation: 0 units
+         The rehabilitation obligation can be defined as an estimate of the number of deteriorated housing
+         units existing in Califon that are occupied by low- and moderate-income households. This
+         component is also referred to as “present need”.
+    ▪    First & Second Rounds Obligation: 21 units
+         The first and second round obligations can be defined as the cumulative 1987 through 1999 new
+         construction affordable housing obligation. This component is often referred to as the “prior
+         round” obligation.
+    ▪    Third Round Obligation: 78 units
+         The third round obligation can be defined as the 1999 through 2025 new construction affordable
+         housing obligation.
+    ▪    Fourth Round Obligation: 23 units
+         The fourth round obligation can be defined as the 2025-2035 new construction affordable housing
+         obligation. The current round of affordable housing, now the fourth round, is also referred to as
+         the “prospective need”.
+It is important to note that the Borough of Califon is fully conforming to the requirements of the Highlands
+Regional Master Plan (RMP) as conformance for the Preservation Area is mandatory under the provisions
+of the Highlands Act. In preparing this fourth round plan, the Borough has relied on the report entitled
+“Highlands Affordable Housing Implementation Guidelines”, issued by the Highlands Council in October
+of 2024. Through its local planning efforts, the Borough is obligated to protect critical Highlands resources
+while also striving to implement the Mount Laurel Doctrine. To be in conformance with the Council’s
+guidelines, a housing element and fair share plan must be in conformance with all applicable RMP
+requirements and the Land Use Capability Zone Map while also respecting water availability limits, sewer
+capacity and water capacity, and always in accordance with the RMP’s resource protection requirements.
+
+
+AFFORDABLE HOUSING IN NEW JERSEY
+In its landmark 1975 decision, now referred to as “Mount Laurel I,” the NJ Supreme Court ruled that
+developing municipalities have a constitutional obligation to provide variety and choice of housing types
+affordable to low- and moderate-income households. In its 1983 “Mount Laurel II” decision, the NJ
+Supreme Court extended the regional fair share obligation to all municipalities with any “growth area” as
+designated in the State Development Guide Plan (NJDCA 1978) and determined that each municipality
+would have to establish its fair share obligation and provide zoning strategies to create a realistic
+opportunity for fulfilment of the fair share obligation. Mount Laurel II also gave developers, under
+appropriate circumstances, the opportunity to secure a “builder’s remedy” which is a litigation tool that
+grants a developer the right to develop what is typically a multi-family development on land that was not
+zoned to permit the use or the residential density desired by the developer. A developer can only prevail
+in litigation if a “substantial” percentage of the units are reserved for low and moderate income
+households.
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                              PAGE 2
+JUNE 13, 2025
+       HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 7 of 29 Trans ID: LCV2026956665
+
+
+In 1985, the Legislature enacted the Fair Housing Act in response to Mount Laurel II. The Fair Housing Act
+created the Council on Affordable Housing (hereinafter “COAH”) as an administrative alternative to
+compliance in a court proceeding. The Legislature conferred “primary jurisdiction” to COAH and charged
+it with promulgating regulations to establish housing regions, to estimate the state’s low- and moderate-
+income housing needs, set criteria and guidelines for municipalities to determine and satisfy their
+affordable housing obligation, and to create a process for the review and approval of appropriate housing
+elements and fair share plans. Approval of a municipal housing element and fair share plan by COAH was
+referred to as “substantive certification” and it provided protection from builder’s remedy litigation
+during the period which the housing element and fair share plan addresses.
+COAH created the criteria and guidelines for municipalities to determine and address their respective
+affordable housing obligations. COAH originally established a formula for determining municipal
+affordable housing obligation for the six-year period between 1987 and 1993 (N.J.A.C. 5:92-1 et seq.),
+which became known as the “first round.” These rules established the first round rehabilitation obligation
+(also referred to as the “present need”) and the first round new construction obligation.
+The first round formula was superseded by COAH regulations in 1994 (N.J.A.C. 5:93-1.1 et seq.). The 1994
+regulations recalculated a portion of the first round 1987-1993 affordable housing obligations for each
+municipality and computed the additional municipal affordable housing need from 1993 to 1999 using
+1990 U.S. Census data. The regulations COAH adopted in 1994 to identify a municipality’s “cumulative”
+obligations for the first and second rounds are known as “the second round” regulations. Under
+regulations adopted for the third round, the obligation of municipalities to create new affordable housing
+for the first and second rounds was referred to as the “prior round” obligation.
+On December 20, 2004, COAH’s first version of the third round rules became effective some five years
+after the end of the second round in 1999. At that time, the third round was defined as the time from
+1999 to 2014 but condensed into an affordable housing delivery period from January 1, 2004 through
+January 1, 2014. The third round rules marked a significant departure from the methods utilized in COAH’s
+earlier rounds by creating a “growth share” approach that linked the requirement for the provision of
+affordable housing to residential and non-residential development occurring within each municipality.
+The growth share approach and the rules promulgated was the subject of significant litigation and was
+ultimately overturned by the New Jersey Appellate Court. On January 25, 2007, the New Jersey Appellate
+Court decision, In re Adoption of N.J.A.C. 5:94 and 5:95, 390 N.J. Super. 1, invalidated key elements of the
+first version of the third round rules, including the growth share approach. COAH issued revised rules on
+June 2, 2008 along with a further rule revision effective on October 20, 2008. Included in the 2008 rules
+was a recalculation of the cumulative first and second round obligations to account for updated data
+addressing secondary sources (filtering, demolitions, and residential conversions). Just as various parties
+challenged COAH’s initial third round regulations, parties challenged COAH’s 2008 revised third round
+rules. On October 8, 2010, the Appellate Division issued its decision, In re Adoption of N.J.A.C. 5:96 and
+5:97, 416 N.J. Super. 462, with respect to the challenge to the second iteration of COAH’s third round
+regulations. The Appellate Division upheld the COAH regulations that assigned rehabilitation and first and
+second round obligations to each municipality but invalidated the regulations by which the agency
+assigned housing obligations in the third round, finding that the Agency continued to utilize a growth
+share approach, albeit an amended approach.
+COAH sought a stay from the NJ Supreme Court of the deadline to issue new third round housing rules set
+forth by the Appellate Division. Additionally, there were various challenges to the Appellate Division’s
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                             PAGE 3
+JUNE 13, 2025
+       HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 8 of 29 Trans ID: LCV2026956665
+
+
+2010 decision. On September 26, 2013, the NJ Supreme Court upheld the Appellate Court decision in In
+re Adoption of N.J.A.C. 5:96 and 5:97 by New Jersey Council On Affordable Housing, 215 N.J. 578 (2013),
+and ordered COAH to prepare the necessary rules. Subsequent delays in COAH’s rule preparation and
+ensuing litigation led to the NJ Supreme Court, on March 14, 2014, mandating a schedule for adoption.
+Although ordered by the NJ Supreme Court to adopt revised new rules on or before October 22, 2014,
+COAH deadlocked in a 3-3 vote at its October 20th meeting and failed to adopt the draft rules it had issued
+on April 30, 2014. In response, Fair Share Housing Center (hereinafter “FSHC”) filed a motion in aid of
+litigant’s rights with the NJ Supreme Court.
+On March 10, 2015, the NJ Supreme Court issued a ruling on the Motion In Aid of Litigant’s Rights (In re
+Adoption of N.J.A.C. 5:96 & 5:97, 221 NJ 1, aka “Mount Laurel IV”). This long-awaited decision provided a
+new direction for how New Jersey municipalities were to comply with the constitutional requirement to
+provide their fair share of affordable housing. The Court transferred responsibility to review and approve
+housing elements and fair share plans from COAH to designated Mount Laurel trial judges. The implication
+was that municipalities were required to apply to Superior Court with a Declaratory Judgement Action,
+instead of to COAH, if they wished to be protected from exclusionary zoning litigation. These trial judges,
+with the assistance of an appointed Special Adjudicator to the Court, reviewed municipal plans much in
+the same manner as COAH previously did.
+While the NJ Supreme Court’s decision set a process in motion for municipalities to address their third
+round obligations, it did not assign those obligations. Instead, the task was completed by the trial courts.
+The NJ Supreme Court in its decision directed that the method of determining municipal affordable
+housing obligations were to be “similar to” the methodologies used in the first and second round rules
+and municipalities should rely on COAH’s 1993 second round rules (N.J.A.C. 5:93) and certain components
+of COAH’s 2008 regulations that were specifically upheld along with the Fair Housing Act (N.J.S.A. 52:27D
+– 301 et seq.), in their preparation of third round housing elements and fair share plans.
+FSHC, the only public interest advocacy organization in New Jersey devoted exclusively to promoting the
+production of housing affordable for low and moderate income households, was granted party status in
+every municipal Declaratory Judgment Action. In this role it calculated municipal affordable housing
+obligations and offered to settle with municipalities. Such settlements addressed the municipal affordable
+housing obligation, compliance strategies and other terms intended to promote affordable housing
+production. Most municipalities that filed a Declaratory Judgment Action settled with FSHC, finding it to
+be in their best interest. The typical alternative to settlement with FSHC was conducting a trial in Superior
+Court to determine the municipal affordable housing obligation, which some municipalities did.
+In addition to the State agency activity and judicial decisions through 2015, the New Jersey Legislature
+amended the Fair Housing Act in 2008 through P.L. 2008, c. 46, often referred to as the “Roberts Bill”, or
+“A500”. This amendment established a statewide 2.5% nonresidential development fee, prohibited new
+regional contribution agreements (hereinafter “RCAs”), required that 13% of all new affordable housing
+units be restricted to very low income households (30% of median income), and added a requirement that
+municipalities had to commit to spend development fees within four (4) years of the date of collection.
+The Fair Housing Act was further amended in 2013 (P.L. 2013, c. 6) to permit municipalities to enter into
+an agreement with a developer or development owner to provide a preference for veterans who served
+in time of war or other emergency to occupy up to 50% of the affordable units in a particular development.
+The preference is applicable to the first 90 of the 120 days of initial marketing and thereafter veterans
+
+
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                              PAGE 4
+JUNE 13, 2025
+       HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 9 of 29 Trans ID: LCV2026956665
+
+
+may be placed on a special waiting list for future available affordable units in the development. These
+amendments to the Fair Housing Act are not promulgated in any valid COAH regulations.
+On March 20, 2024, an amendment to the Fair Housing Act was adopted (P.L. 2024, c.2.). This amendment
+creates significant changes to the fourth round of affordable housing, and all subsequent rounds. Such
+changes include the process in which municipalities obtain protection from builder’s remedy litigation –
+including but not limited to the elimination of COAH and the creation of the Affordable Housing Dispute
+Resolution Program, the methodology to calculate municipal prospective need obligations, and the
+administration of affordable housing units. However, the Fair Housing Act does not create or direct the
+creation of new rules that would provide further guidance. Instead it states municipalities shall rely on
+rules adopted by COAH, unless contradicted by statute or binding court decisions, for municipal crediting,
+adjustments and compliance strategies. One notable example of contradiction is the generation of and
+use of bonus credits. See the sections that follow for additional information regarding this particular
+amendment to the Fair Housing Act.
+The Affordable Housing Dispute Resolution Program (hereinafter the “Program”) is a program within the
+judiciary made up of an odd number of Judges with a minimum of 3 and not more than 7. The Program,
+in its discretion and in accordance with the Rules of Court, may consult or employ services of one or more
+special adjudicators or staff to assist it in rendering determinations, resolving disputes, and facilitating
+communication among municipalities and interested partes. The Program is responsible for reviewing
+municipal affordable housing obligations, housing plans, and conducting mediation. However, final
+determinations of compliance, disputes, and other issues, as well as Court orders may only be issued by a
+County-level housing judge.
+In addition to changes addressing the compliance process and elimination of COAH, the amendment also
+revised minimum affordability controls for rental units from 30 years to 40 years and those for extension
+of affordability controls from 30 years to as little as 20 years, provided the total control period is not less
+than 60 years. It also created new roles for the Department of Community Affairs (hereinafter “DCA”),
+including calculation of non-binding rehabilitation and prospective need affordable housing obligations,
+oversight and adoption of rules regulating municipal affordable housing trust funds, municipal housing
+liaisons and affordable housing administrative agents and oversight of affordable housing unit
+administration. The amendment also directed the New Jersey Housing and Mortgage agency to revise the
+Uniform Housing Affordability Control Rules (N.J.A.C. 5:80-26.1 et seq.).
+
+
+The Compliance Process
+The first step in a municipality’s compliance process is to establish the affordable housing obligation. The
+first, second and third round obligations are already established by COAH or Superior Court, as applicable.
+Only the rehabilitation obligation and current prospective need, the fourth round obligation, are subject
+to determination.
+The methodology and formulas each municipality must rely upon to determine its rehabilitation and
+fourth round obligation (as well as subsequent round obligations) are set forth within N.J.S.A. 52:27D-
+304.1 thru -304.3 of the Fair Housing Act. The March 8, 2018 unpublished decision of the Superior Court,
+Law Division, Mercer County, In re Application of Municipality of Princeton (“Jacobson Decision”) is also
+to be referenced as to datasets and methodologies that are not explicitly addressed in N.J.S.A. 52:27D-
+304.3. Notwithstanding the methodology set forth in the Fair Housing Act, the Act also required the DCA
+to release a non-binding report calculating obligations for each municipality in the State.
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                PAGE 5
+JUNE 13, 2025
+        HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 10 of 29 Trans ID: LCV2026956665
+
+
+The following provides an overview of the process and deadlines associated with fourth round
+compliance.
+    ▪    Establishing the Affordable Housing Obligation
+              ▪   October 20, 2024: DCA Regional and Municipal Fair Share Obligation Report Issued.
+              ▪   January 31, 2025: Deadline for municipalities to adopt a binding committing to the
+                  affordable housing obligation and seeking a Compliance Certification through
+                  participation in the Program.
+              ▪   February 28, 2025: Deadline for an interested party to challenge the municipality’s
+                  determination of its obligation to the Program. It shall apply “an objective assessment
+                  standard”.
+              ▪   March 1, 2025: The municipality’s determination of its obligation will be established by
+                  default if no challenge.
+              ▪   March 31, 2025: The Program must issue a decision on the obligation challenge.
+    ▪    Obtaining a Compliance Certification
+              ▪   June 30, 2025: Municipality shall adopt a Housing Plan and propose drafts of ordinances
+                  and resolutions to implement the plan. If a municipality does not adopt a Housing Element
+                  and Fair Share Plan by June 30, 2025, the Rules of Court may permit the Program or
+                  County Level Judge to allow the municipality to secure a grace period. If a municipality
+                  does not adopt a Housing Plan by June 30, 2025 and does not secure a grace period, the
+                  municipality will have its immunity revoked.
+              ▪   August 31, 2025: Deadline for an interested party to file a challenge to the Housing Plan
+                  with the Program. If there is no challenge by this date the Program will begin review of
+                  the Housing Plan for consistency with the FHA.
+              ▪   December 31, 2025: Deadline for a municipality to settle any challenge or provide an
+                  explanation as to why it will not make all, or some of the changes brought by the
+                  challenge.
+              ▪   March 15, 2026: Municipality to amend the Housing Plan and implement the agreed upon
+                  revisions resulting from a challenge and adopt all pertinent ordinances. The Housing Plan
+                  and adopted ordinances shall be immediately filed with the Program.
+    ▪    Ongoing Compliance
+              ▪   Midpoint (2030): Action by municipality or interested party filed to seek a realistic
+                  opportunity review of any developments that have not moved forward.
+
+
+Affordability Requirements
+Affordable housing is defined under New Jersey’s Fair Housing Act as a dwelling, either for sale or rent,
+that is within the financial means of households of low- or moderate-income, as is measured within each
+housing region. Califon is in Region 3, which includes Hunterdon, Middlesex and Somerset counties.
+Moderate-income households are those with annual incomes greater than 50%, but less than 80% of the
+regional median income while low-income households are those with annual incomes that are 50% or less
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                            PAGE 6
+JUNE 13, 2025
+        HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 11 of 29 Trans ID: LCV2026956665
+
+
+than the regional median income. Very low-income households are a subset of “low-income” households
+and are defined as those with incomes 30% or less of the regional median income.
+The Uniform Housing Affordability Controls (hereinafter “UHAC”) at N.J.A.C. 5:80-26.3(d) and (e) requires
+that the maximum rent for a qualified unit be affordable to households with incomes 70% or less than the
+median income for the region, provided the development includes 13% or more very low income units.
+The number of units priced at 70% of regional median income cannot exceed the number of very low
+income units plus one additional unit. The average rent must be affordable to households with incomes
+no greater than 52% of the median income. The maximum sale prices for affordable units must be
+affordable to households with incomes 70% or less than the median income. The average sale price must
+be affordable to a household with an income of 55% or less than the median income.
+The regional median income is defined using the federal income limits established by Department of
+Housing and Urban Development (hereinafter “HUD”) on an annual basis. In the spring of each year, HUD
+releases updated regional income limits, and it is from these income limits that the rents and sale prices
+for affordable units are derived. The table on the following page reflects the 2024 affordable housing
+regional income limits for Region 3, prepared by New Jersey Housing and Mortgage Finance Agency
+(HMFA).
+
+                                              2025 Income Limits for Region 3
+          Household
+                                1-Person            2-Person           3-Person            4-Person             5-Person
+           Income
+                               Household           Household          Household           Household            Household
+            Levels
+            Median              $102,340            $109,650           $131,580             $146,200             $157,896
+
+          Moderate               $81,872             $93,568           $105,264             $116,960             $126,317
+              Low                $51,170             $58,480            $65,790             $73,100              $78,948
+
+           Very Low              $30,702             $35,088            $39,474             $43,860              $47,369
+        Source: 2025 Income Limits prepared by New Jersey Housing and Mortgage Finance Agency, effective May 16, 2025.
+
+
+
+
+Overview of Compliance Requirements
+There are extensive requirements that municipalities must meet to ensure their affordable housing
+strategies result in a Compliance Certification. Furthermore, those requirements vary by housing round.
+The following provides a brief and summarized overview of the requirements.
+    ▪     Rental Obligation. Not less than 25% of affordable units addressing the obligation of a round must
+          be rental housing units.
+    ▪     Family Obligation. Not less than 50% of affordable units addressing the obligation of a round must
+          be available to families, meaning they are not restricted to a particular population. This obligation
+          does not apply to the first and second rounds.
+
+
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                                   PAGE 7
+JUNE 13, 2025
+        HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 12 of 29 Trans ID: LCV2026956665
+
+
+    ▪    Family Rental Obligation. Not less than 50% of the units meeting the rental obligation of a round
+         must be available to families, meaning they are not restricted to a particular population. This
+         obligation does not apply to the first and second rounds.
+    ▪    Senior Maximum. Up to 30% of affordable units addressing the obligation of a round may be
+         reserved for seniors. The maximum was 25% for the first, second and third rounds.
+    ▪    Income Distribution of Affordable Units
+              ▪   Very Low Income Obligation. Not less than 13% of affordable units created or approved
+                  on or after July 1, 2008 must be reserved for very low income units (30% or less than the
+                  regional median income). Very low income units are a subset of low income units.
+              ▪   Family Very Low Income Obligation. Not less than 50% of the units meeting the very low
+                  income obligation must be available to families, meaning they are not restricted to a
+                  particular population.
+              ▪   Low Income Obligation. Not less than 50% of affordable units in any development must
+                  be reserved for low income households (50% or less than the regional median income,
+                  which includes very low income units). The remaining may be available to moderate
+                  income households (51-80% of regional median income).
+    ▪    Bedroom Distribution of Affordable Units
+              ▪   The total bedrooms within the affordable units in any development must be not less than
+                  twice the number of affordable units. This requirement does not apply to the first, second
+                  or third round.
+              ▪   Studio and 1-bedroom Units. Not more than 20% of units in any development.
+              ▪   2-bedroom Units. Not less than 30% of units in any development.
+              ▪   3-bedroom Units. Not less than 20% of units in any development.
+              ▪   The above requirements do not apply to special needs housing or senior housing.
+              ▪   Senior developments are subject to a modified bedroom distribution such that the total
+                  bedrooms within the affordable units must be not less than the number of affordable
+                  units.
+              ▪   Senior and supportive housing developments with 20 or more affordable units shall have
+                  not less than 5% 2-bedroom and 3-bedroom affordable units. This requirement does not
+                  apply to the first, second or third round.
+    ▪    Bonus Credits
+              ▪   No more than 25% of the obligation for each round.
+              ▪   Only one type of bonus credit may be applied to a unit.
+              ▪   Rental bonus credits (1.0) are only applicable to the first, second and third rounds.
+              ▪   The following unit types are eligible for 1.0 bonus credit in the fourth round.
+                       ▪    Supportive and special needs bedrooms.
+                       ▪    Market to affordable (conversion of a market rate unit to an affordable unit).
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                 PAGE 8
+JUNE 13, 2025
+      HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 13 of 29 Trans ID: LCV2026956665
+
+
+                       ▪    100% affordable developments: Units within 100% development provided the
+                            municipality supplies the land or a minimum of 3% of the development costs.
+              ▪   The following unit types are eligible for 0.5 bonus credit in the fourth round.
+                       ▪    Partnership with non-profit.
+                       ▪    Proximity to transit: units within ½ mile of transit (rail, bus, ferry).
+                       ▪    Senior: limited to 10% of the affordable age-restricted units proposed byt capped
+                            at 30% of the obligation.
+                       ▪    Units with at least three bedrooms above the minimum number required by the
+                            bedroom distribution.
+                       ▪    Redevelopment for units on land previously utilized for retail, office or
+                            commercial use.
+                       ▪    Extension of affordability controls on rental housing only, provided the
+                            municipality funds the cost for extension.
+                       ▪    Very Low-Income units above the 13% required.
+
+
+AFFORDABLE HOUSING IN CALIFON
+The Borough’s second round housing element and fair share plan was granted substantive certification by
+COAH on June 5, 2002. At that time, prior to the Highlands Act and adoption of the Highlands Regional
+Master Plan, the Borough proposed two supportive housing projects, one by NORWESCAP at the former
+“Basket Factory” and another at what was known as the Staiano property (Block 18, Lot 25) along with
+accessory apartments to help meet what is now deemed the prior round obligation of 21 units. As detailed
+in later analysis prepared by the Borough Planner at the time, the Borough was “hard-pressed” to address
+that obligation due to environmental constraints in the form of steep slopes and floodplains in addition
+to a lack of sanitary sewer. The report also notes that task became even more difficult when the Highlands
+Act was adopted in 2004 and the Borough was included in the Preservation Area.
+In June of 2010, Califon petitioned COAH for substantive certification of its third round plan. It was
+determined incomplete in July of 2010 and given all that unfolded with the third round period as described
+above, the Borough’s plan was never acted upon by COAH. After the Supreme Court’s 2015 decision, the
+Borough chose not to file a declaratory judgment action and negotiate with Fair Share Housing Center as
+to its third round obligation.
+In October of 2024, the New Jersey Department of Community Affairs (DCA) released its calculation of
+fourth round obligations in compliance with A4, and determined the Borough had a present need of zero
+(0) units and a prospective need of twenty three (23) units. As required by A4, Borough Council adopted
+a binding resolution on January 16, 2025 (see Appendix 1) and filed a declaratory judgment action with
+the Superior Court on January 20, 2025. Judge William G. Mennen, J.S.C., issued an order filed on March
+27, 2025 fixing the Borough’s obligations as noted in the resolution and authorized preparation of the
+housing element and fair share plan (see Appendix 2)
+
+
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                              PAGE 9
+JUNE 13, 2025
+      HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 14 of 29 Trans ID: LCV2026956665
+
+
+CONSIDERATION OF LANDS MOST APPROPRIATE FOR AFFORDABLE HOUSING
+As part of this Plan, the Borough considered land that is appropriate for the construction of low- and
+moderate-income housing. While a durational adjustment is applied to both the third and fourth round
+obligations due to a lack of public sewer, there is also a lack of vacant developable land that is not
+constrained under the policies of the Highlands RMP to support new development. Even though there
+are a handful of vacant properties that could likely be developed under the exemption requirements of
+the RMP, they could not accommodate substantial development such that measurable affordable housing
+could be provided.
+Given the constraints of the RMP and lack of sewer, only small-scale affordable housing compliance
+mechanisms such as accessory apartments or supportive housing are appropriate. Though these
+measures have failed repeatedly over the last 20 years despite significant efforts, the Borough sees these
+as the only appropriate opportunities.
+
+
+Highlands Buildout and RMP Requirements
+As a municipality fully conforming to the Highlands Regional Master Plan (RMP), Califon utilized the
+Highlands Buildout tool to assess lands potentially developable consistent with the requirements of the
+RMP in accordance with amendments to the Fair Housing Act in March of 2024. After updating base data
+utilizing the Highlands Council’s build out portal, Council staff forwarded an updated buildout analysis
+assessing the amount of vacant land with potential for sewer service and where sewer service is not
+available, assessing how much development could be accommodated based on the septic density
+limitations of the RMP. Given that Califon is entirely in the Preservation Area, lacks sanitary sewers and
+septic densities are limited to 1 unit per 25 acres and 1 unit per 88 acres, no development potential was
+identified in the Highlands build out analysis.
+In July of 2024, the Highlands RMP was amended by the Highlands Council to specifically address
+affordable housing-related policies “to inform the appropriate location for affordable housing in the
+Highlands region.” While amendments to the Fair Housing Act required the Regional Master Plan be taken
+into account in determining municipal obligations, conforming municipalities bear an obligation to ensure
+that housing plans meet the resource protection requirements of the RMP. The Council’s 2024
+implementation guidelines note that while provision of affordable housing is of importance, it cannot
+come at the expense of the critical Highlands resources the Highlands Act was enacted to protect in the
+first place. Califon’s inclusion in the Preservation Area and the myriad critical Highlands resources within
+its borders conflict with its ability to address its fair share of the region’s affordable housing needs, but
+those needs are overshadowed by the greater good the Highlands Act achieves for the State at large.
+The durational adjustment sought by Califon is consistent with RMP policies related to net water
+availability. Of the three subwatersheds that cover the Borough of Califon, only the Rockaway Creek
+(above McCrea Mills) subwatershed has positive net water availability of 0.1 million gallons per day. As
+shown on the map below however, this subwatershed only covers 2 parcels and portions of 3 other parcels
+in the southeast corner of the Borough. The other two subwatersheds which cover the rest of the Borough
+have no net water availability.
+
+
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                             PAGE 10
+JUNE 13, 2025
+      HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 15 of 29 Trans ID: LCV2026956665
+
+
+
+
+The July 2024 RMP amendment also discusses how the provision of affordable housing in conforming
+municipalities must address policies related to land use capability zones and resource protection
+standards requiring open water buffers, protection of prime groundwater recharge areas, limited to no
+development in severe steep slope areas and protection of critical habitat. As illustrated in the Borough’s
+Environmental Resource Inventory, all of these critical Highlands resources are present throughout
+Califon, together covering the majority of its approximately 1 square mile area. The result is an inability
+to comply with the resource protection mandates of the RMP and provide opportunities for meaningful
+affordable housing compliance mechanisms.
+Califon will maintain consistency with the RMP policies through its referral ordinance. The requirements
+of the RMP are implemented through review by Highlands Council staff. The Borough also proposes to
+continue potential mechanisms to address its obligation consistent with the implementation guidelines,
+mainly supportive housing and accessory apartments.
+
+
+OPPORTUNITY FOR MULTIGENERATIONAL HOUSING
+The Fair Housing Act requires “an analysis of the extent to which municipal ordinances and other local
+factors advance or detract from the goal of preserving multigenerational family continuity as expressed
+in the recommendations of the Multigenerational Family Housing Continuity Commission”. As of the date
+of this Housing Plan, there have been no recommendations by the Multigenerational Family Housing
+Continuity Commission on which to provide the required analysis. However, the Commission has the
+primary goal of enabling senior citizens to reside at the homes of their extended families, thereby
+preserving and enhancing multigenerational family continuity. Borough land use policies are not in
+
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                           PAGE 11
+JUNE 13, 2025
+      HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 16 of 29 Trans ID: LCV2026956665
+
+
+conflict with this goal and much of the Borough’s housing stock is large enough to accommodate
+multigenerational living. Nothing in the Land Use Ordinance prohibits creation of additional living space
+consisting of a bedroom and bathroom, but inclusion of separate kitchen facilities would constitute a
+second dwelling unit, which is not permitted but is also not necessary to permit multigenerational living.
+
+
+DEMOGRAPHIC, HOUSING & EMPLOYMENT ANALYSIS
+See Appendix 3 to the Housing Plan for this analysis.
+
+
+AFFORDABLE HOUSING OBLIGATION & SATISFACTION
+Fourth round housing plans must address four components of a municipality’s affordable housing
+obligation. These include the rehabilitation obligation to improve substandard housing occupied by low-
+and moderate-income households, the first and second round obligation of new construction from 1987
+to 1999, third round obligation of new construction from 1999 to 2025, and the fourth round obligation
+of new construction from 2025 to 2035.
+
+
+First & Second Rounds Obligation: 21 units
+As noted earlier in this plan, the Borough was unsuccessful in addressing its first and second round
+obligations despite significant efforts to support the mechanisms identified in its plan at the time. Those
+mechanisms included a 5-bedroom supporting housing facility to be constructed on the site of the former
+“Basket Factory”, a 6 bedroom supportive housing facility to be operated by the ARC of Hunterdon County
+and a 5 unit accessory apartment program. Ultimately after decades of effort, not a single affordable unit
+was realized despite promise of subsidy for accessory apartments and even the grant of land to
+NORWESCAP for the 5 bedroom supportive housing facility. To the extent necessary, the Borough seeks
+a durational adjustment of the 21 unit first and second round obligation, although this period has long
+passed.
+
+
+Third Round Obligation: 78 Units
+Califon’s third round obligation is 78 units, as established in a report entitled “Statewide and Municipal
+Obligations Under Jacobsen Opinion”, prepared by Econsult Solutions, Inc. and dated March 28, 2018.
+This consists of a Gap Present Need of 40 units and a Prospective Need of 38 units. As noted previously,
+the Borough did not participate in the declaratory judgment process after the Supreme Court’s 2015
+decision and therefore never negotiated a settlement agreement and ultimately a third round obligation
+with Fair Share Housing Center. Although the Jacobsen decision was unpublished and only applicable to
+West Windsor and Princeton in Mercer County, after that decision it was common for Fair Share Housing
+Center to accept settlement on the basis of an obligation calculated using the Jacobsen methodology.
+Utilizing the Econsult report and the 78-unit obligation would appear the most logical approach given the
+lack of a settlement agreement.
+
+
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                           PAGE 12
+JUNE 13, 2025
+      HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 17 of 29 Trans ID: LCV2026956665
+
+
+Durational Adjustment – Third Round
+The Borough is entitled to a durational adjustment for the third round obligation as there is no centralized
+sanitary sewer system to serve additional development that would generate affordable housing. Further,
+given the septic density limitations of the Preservation Area, it would be almost impossible to serve
+development even with on-site septic systems. With minimum lot sizes of 25 and 88 acres required,
+sufficient land cannot be amassed to provide meaningful density such that an adequate compensatory
+benefit would be provided to a developer to subsidize the production of affordable housing units. Further,
+septic density in the Highlands Preservation Area are more stringent than those outside the Highlands and
+systems of 2,000 gallons per day are rarely if ever achieved. This ultimately limits the number of bedrooms
+that can be constructed which in turn ultimately limits compliance mechanisms such as supportive
+housing facilities and accessory apartments.
+Califon will comply with the applicable COAH rules regarding durational adjustments to satisfy the third
+round obligation. This means, as set forth in N.J.A.C. 5:93-4.3(c), the requirement to address the third
+round obligation of 78 units is deferred until adequate sewer is made available. As such, the Borough
+commits to complying with the following, which is stated in N.J.A.C. 5:93-4.3:
+    1. Notwithstanding the lack of adequate water and/or sewer at the time a municipality petitions for
+       substantive certification, the municipality shall reserve and set aside new water and/or sewer
+       capacity, when it becomes available, for low and moderate income housing, on a priority basis.
+    2. Municipal officials shall endorse all applications to the DEP or its agent to provide water and/or
+       sewer capacity. Such endorsements shall be simultaneously submitted to the Council.
+    3. Where the DEP or its designated agent approves a proposal to provide infrastructure to a site for
+       the development of low and moderate income housing identified in the housing element, the
+       municipality shall permit such development; and
+    4. Where a municipality has designated sites for low and moderate income housing that lack
+       adequate water and/or sewer and where the DEP or its designated agent approves a proposal to
+       provide water and/or sewer to a site other than those designated for the development of low and
+       moderate income housing in the housing element, the municipality shall amend its housing
+       element and fair share housing ordinance to permit development of such site for low and
+       moderate income housing. The amended housing element and fair share housing ordinance shall
+       be submitted to the Council within 90 days of the site’s approval by the DEP or its agent.
+
+Third Round Minimum Requirements
+In addition to meeting the total 78 unit obligation, the Borough must also meet minimum and maximum
+requirements related to the rental obligation, maximum number of age-restricted units, minimum family
+unit obligation, and the minimum very low income unit obligation of 13%. These requirements are
+detailed below but are noted prospectively should affordable housing units be realized.
+Minimum Rental Obligation = 20 units
+         .25 (obligation) = Minimum # rental units or .25 (78) = 19.5 units rounded up to 20 units
+         This obligation is satisfied with A&P redevelopment and Halstead Place projects, which total 31
+         units.
+Maximum Senior Units = 20 units
+
+
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                            PAGE 13
+JUNE 13, 2025
+      HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 18 of 29 Trans ID: LCV2026956665
+
+
+         .25 (obligation) = Maximum # age-restricted units or .25 (78) = 19.5 units rounded down to 19
+         units
+Minimum Family Unit Obligation = 39 units
+         .50 (obligation) = Minimum # family units or .50 (78) = 39 units
+         This obligation is satisfied with the A&P Redevelopment, Halstead Place and Alton Place sites,
+         which total 60 family affordable units.
+Minimum Family Rental Obligation= 20 units
+         .50 (rental obligation) = Minimum # Family Rental Units or .50 (39) = 19.5 units, rounded up to 20
+         units.
+Minimum Very Low Income Unit Obligation = to be determined
+         .13 (units created or approved on or after July 1, 2008) = Minimum # very low income units
+         Should affordable housing units be realized, this requirement will be implemented by the
+         Borough.
+
+
+Fourth Round Obligation
+
+Present Need (Rehabilitation Share)
+As calculated by DCA, Califon’s present need for the fourth round is zero (0) units. Given that no
+rehabilitation credits are required, no mechanisms need be proposed.
+
+Prospective Need
+Califon’s fourth round obligation (also referred to as the prospective need) is 23 units. This obligation is
+defined as the new construction obligation for 2025-2035. The Fair Housing Act, N.J.S.A. 52:27D-304.3.b.,
+describes the obligation as a “projection of housing needs based on development and growth which is
+reasonably likely to occur in a region or a municipality, as the case may be, as a result of actual
+determination of public and private entities. Prospective need shall be determined by the methodology
+set forth pursuant to sections 6 and 7 of P.L.2024, c. 2 (C.52:27D-304.2 and C.52:27D-304.3) for the fourth
+round and all future rounds of housing obligations”.
+The methodology to calculate the obligation begins with determining the need for affordable housing in
+which the municipality is located. That regional need is then allocated to each municipality in the region,
+excluding qualified urban aid municipalities, based on an average of three factors: 1) equalized
+nonresidential valuation factor, which serves as a proxy for the municipal share of the region’s change in
+employment during the previous affordable housing round, 2) income capacity factor, which is the
+municipal share of the region’s median household income, and 3) land capacity factor, which is the
+municipal share of the region’s developable land.
+The DCA calculated municipal fourth round obligations in Affordable Housing Obligations for 2025-2035
+(Fourth Round) Methodology and Background, released on or about October 18, 2024. This DCA Report
+calculated a fourth round obligation of 23 units for the Borough. This obligation was fixed in the March
+27, 2025 order of Judge William G. Mennen, J.S.C. (see Appendix 2).
+
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                            PAGE 14
+JUNE 13, 2025
+        HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 19 of 29 Trans ID: LCV2026956665
+
+
+Durational Adjustment – Fourth Round
+The Borough is entitled to a durational adjustment for the fourth round obligation as there is no
+centralized sanitary sewer system to serve additional development that would generate affordable
+housing. Further, given the septic density limitations of the Preservation Area, it would be almost
+impossible to serve development even with on-site septic systems. With minimum lot sizes of 25 and 88
+acres required, sufficient land cannot be amassed to provide meaningful density such that an adequate
+compensatory benefit would be provided to a developer to subsidize the production of affordable housing
+units. Further, septic density in the Highlands Preservation Area are more stringent than those outside
+the Highlands and systems of 2,000 gallons per day are rarely if ever achieved. This ultimately limits the
+number of bedrooms that can be constructed which in turn ultimately limits compliance mechanisms such
+as supportive housing facilities and accessory apartments.
+Califon will comply with the applicable COAH rules regarding durational adjustments to satisfy the fourth
+round obligation. This means, as set forth in N.J.A.C. 5:93-4.3(c), the requirement to address the fourth
+round obligation of 23 units is deferred until adequate sewer is made available. As such, the Borough
+commits to complying with the following, which is stated in N.J.A.C. 5:93-4.3:
+    1. Notwithstanding the lack of adequate water and/or sewer at the time a municipality petitions for
+       substantive certification, the municipality shall reserve and set aside new water and/or sewer
+       capacity, when it becomes available, for low and moderate income housing, on a priority basis.
+    2. Municipal officials shall endorse all applications to the DEP or its agent to provide water and/or
+       sewer capacity. Such endorsements shall be simultaneously submitted to the Council.
+    3. Where the DEP or its designated agent approves a proposal to provide infrastructure to a site for
+       the development of low and moderate income housing identified in the housing element, the
+       municipality shall permit such development; and
+    4. Where a municipality has designated sites for low and moderate income housing that lack
+       adequate water and/or sewer and where the DEP or its designated agent approves a proposal to
+       provide water and/or sewer to a site other than those designated for the development of low and
+       moderate income housing in the housing element, the municipality shall amend its housing
+       element and fair share housing ordinance to permit development of such site for low and
+       moderate income housing. The amended housing element and fair share housing ordinance shall
+       be submitted to the Council within 90 days of the site’s approval by the DEP or its agent.
+
+Potential Fourth Round Strategies
+While the Borough’s eligibility for a durational adjustment limits compliance actions required at this time,
+the Borough nonetheless seeks opportunities to create affordable housing units where possible. The
+following provides a summary of potential mechanisms to be utilized:
+    ▪    Supportive housing: While the Borough made significant efforts in the past to provide
+         opportunity for supportive housing, it was completely and totally unsuccessful. Califon will,
+         however, utilize what limited resources it has to try to attract a supportive housing provider.
+    ▪    Mandatory setaside ordinance: Given that small-scale residential projects are possible in the
+         future, the Borough will adopt a mandatory setaside ordinance and require that when 5 units are
+         approved, a 20% affordable housing setaside must be provided. The draft mandatory setaside
+         ordinance is provided in Appendix 4.
+
+
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                            PAGE 15
+JUNE 13, 2025
+        HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 20 of 29 Trans ID: LCV2026956665
+
+
+    ▪    Accessory apartments: The Borough will maintain the sections of the land development
+         ordinance in the R-1, R-2, R-3 and GB zones that permit accessory apartments. See Appendix 5
+         for the current ordinance.
+
+Distribution of Fourth Round Units
+
+In addition to meeting the total 23 unit fourth round obligation, the Borough must also meet a rental
+obligation, maximum senior units, family obligation, very low income obligation, and maximum bonus
+credits, as set forth in the Fair Housing Act. These obligations may be amended should bonus credits be
+applied to the fourth round obligation. Compliance with these requirements is noted prospectively and
+will be applied should development occur.
+Maximum Bonus = 6 credits
+    ▪    Maximum bonus credits = 25% (obligation) | 25% (23) = 5.75, rounded up to 6 credits.
+    ▪    Use of bonus credits is deferred until development of affordable units occurs.
+Minimum Rental = 12 units
+    ▪    Minimum rental units = 25% (of units meeting the obligation) | 25% (23) = 11.5, rounded up to 12
+         units
+    ▪    Satisfaction is deferred, consistent with the durational adjustment.
+Maximum Senior = 6 units
+    ▪    Maximum age-restricted units = 30% (units meeting the obligation) | 30% (23) = 6.9, rounded
+         down to 6 units
+    ▪    Satisfaction is deferred, consistent with the durational adjustment.
+Minimum Family = 12 units
+    ▪    Minimum family units = 50% (units meeting the obligation) | 50% (23) = 11.5 units, rounded up
+         to 12 units
+    ▪    Satisfaction is deferred, consistent with the durational adjustment.
+Minimum Family Rental = 6 units
+    ▪    Minimum family rental = 50% (rental obligation) | 50% (12) = 6 units
+    ▪    Satisfaction is deferred, consistent with the durational adjustment.
+Minimum Very Low Income = 3 units
+    ▪    Minimum very low income units = 13% (fourth round units created or approved on or after July
+         1, 2008) | 13% (17) = 2.21, rounded up to 3 units
+    ▪    Satisfaction is deferred, consistent with the durational adjustment.
+Minimum Family Very Low Income = 1 unit
+    ▪    Minimum family very low income units = 50% (very low income obligation) | 13% (3) = 0.39 units,
+         rounded up to 1 unit
+    ▪    Satisfaction is deferred, consistent with the durational adjustment.
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                         PAGE 16
+JUNE 13, 2025
+        HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 21 of 29 Trans ID: LCV2026956665
+
+
+Affordability Assistance
+
+Since the Borough has no affordable housing units and has collected no development fees, affordability
+assistance cannot be provided.
+
+
+CONSISTENCY WITH THE STATE DEVELOPMENT AND REDEVELOPMENT PLAN
+As noted in the State Plan policy maps, areas within the Highlands Region utilize land use capability
+designations of the Highlands Regional Master Plan rather than traditional planning areas. Although
+planning area-specific policies cannot be assessed, the Borough’s approach to affordable housing is
+generally consistent with the statewide goals of the State Development and Redevelopment Plan. Most
+notable are:
+    ▪    Revitalize the State’s cities and Boroughs
+    ▪    Conserve the State’s natural resources and systems
+    ▪    Provide adequate housing at a reasonable cost
+
+
+AFFORDABLE HOUSING ADMINISTRATION & AFFIRMATIVE MARKETING
+Califon Borough’s Affordable Housing Ordinance is consistent with the Fair Housing Act , the Uniform
+Housing Affordability Control Rules, N.J.A.C. 5:80-26.1 et seq., and the Division of Local Planning Services
+Fair Housing Act Rules, N.J.A.C. 5:99. As of the adoption of this Housing Plan, the latter two are in the
+process of being amended, therefore the existing ordinance will be relied upon until such time as those
+regulations are finalized. Ordinances adopted by March of 2026 will reflect appropriate requirements.
+The current affordable housing ordinance is provided in Appendix 6.
+The Borough’s Affordable Housing Ordinance, Title 16 Land Development, Chapter 16.36, governs the
+establishment of affordable units in the Borough as well as regulating the occupancy of such units. The
+Borough’s Affordable Housing Ordinance addresses the phasing of affordable units, the low/moderate
+income split, bedroom distribution, occupancy standards, affordability controls, establishing rents and
+prices, affirmative marketing, income qualification, etc. All newly created affordable units, with limited
+exceptions, will comply with the affordability control period of 30 years for sale units or 40 years for rental
+units, as required by the Fair Housing Act and the Uniform Housing Affordability Control Rules.
+The Borough has established the position of the Municipal Housing Liaison as required by the
+amendments to the Fair Housing Act. However, the Borough will likely rely on its affordable housing
+administrator to conduct the administration and affirmative marketing of its affordable housing sites that
+will not be administered by the developer.
+The Borough’s affirmative marketing plan is designed to attract buyers and/or renters of all majority and
+minority groups, regardless of race, creed, color, national origin, ancestry, marital or familial status,
+gender, affectional or sexual orientation, disability, age or number of children to the affordable units
+located in the Borough. Additionally, the affirmative marketing plan is intended to target those potentially
+eligible persons who are least likely to apply for affordable units and who reside in the Borough’s housing
+region (Region 3), consisting of Hunterdon, Somerset and Middlesex counties.
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                               PAGE 17
+JUNE 13, 2025
+      HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 22 of 29 Trans ID: LCV2026956665
+
+
+The affirmative marketing plans include regulations for qualification of income eligibility, price and rent
+restrictions, bedroom distribution, affordability control periods, and unit marketing in accordance with
+N.J.A.C. 5:80-26.1 et seq. This plan must be adhered to by all private, non-profit, and municipal developers
+of affordable housing units and must cover the period of deed restriction or affordability controls on each
+affordable unit. A copy of the affirmative market plan is provided in Appendix 7. It should be noted
+however that with no existing affordable housing units and no realistic ability to provide affordable
+housing in the future, this affirmative market plan is likely moot but will be utilized should units be realized
+during the fourth round.
+
+
+AFFORDABLE HOUSING TRUST FUND
+While Califon adopted a development fee ordinance and prepared spending plans in the past, this
+ordinance will be repealed and no development fees will be collected other than the statewide mandatory
+nonresidential development fee of 2.5%. As the Borough does not intend to prepare a spending plan, any
+nonresidential development fees collected will be sent to the State Affordable Housing Trust Fund in
+accordance with the requirements of the New Jersey Municipal Land Use Law.
+Despite the development fee ordinance having been in place for decades, the lack of development in the
+Borough due to the restrictions associated with its location in the Highlands Preservation Area means no
+development has occurred and no fees have been collected. This pattern is not expected to change in the
+coming years and it is not worthwhile for the Borough to continue the development fee ordinance and its
+administration.
+
+
+
+
+BOROUGH OF CALIFON, HUNTERDON COUNTY
+FOURTH ROUND HOUSING PLAN                                                                                PAGE 18
+JUNE 13, 2025
+HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 23 of 29 Trans ID: LCV2026956665
+
+
+
+
+                            Appendix 1
+HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 24 of 29 Trans ID: LCV2026956665
+
+
+
+
+                            Appendix 2
+HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 25 of 29 Trans ID: LCV2026956665
+
+
+
+
+                            Appendix 3
+HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 26 of 29 Trans ID: LCV2026956665
+
+
+
+
+                            Appendix 4
+HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 27 of 29 Trans ID: LCV2026956665
+
+
+
+
+                               Appendix 5
+HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 28 of 29 Trans ID: LCV2026956665
+
+
+
+
+                            Appendix 6
+HNT-L-000033-25 04/15/2026 2:08:05 PM Pg 29 of 29 Trans ID: LCV2026956665
+
+
+
+
+                            Appendix 7
+

@@ -1,0 +1,1568 @@
+OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 1 of 36 Trans ID: LCV20251750402
+
+
+
+
+                HOUSING ELEMENT AND FAIR SHARE PLAN
+                    FOR THE FOURTH ROUND: 2025-2035
+
+
+
+                                  PREPARED FOR
+
+
+
+                          BOROUGH OF BEACHWOOD
+                                Ocean County
+                             State Of New Jersey
+
+
+
+                                   May 29, 2025
+                Adopted by the Borough Land Use Board: June 9, 2025
+                                (Resolution # 25-16)
+
+
+
+
+                                                    .
+                                2059 Springdale Road
+                                Cherry Hill, NJ 08003
+
+
+
+
+N.B. The original of this document was signed and sealed as per N.J.A.C. 13:41-1.3.b
+
+
+
+
+                          _________________________
+                           Ashton Jones, AICP, PP, CFM
+                             License #33LI00633800
+    OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 2 of 36 Trans ID: LCV20251750402
+
+
+
+
+Mayor
+William J. Cairns
+
+Borough Council
+William J. Cairns, Mayor
+Ed Zakar, Council President
+John P. Farro, Jr., Council Member
+Steven Komsa, Council Member
+Gerald W. LaCrosse, Council Member
+Thomas Prince, Council Member
+Dan Santos, Council Member
+
+Land Use Board Members
+Paul Swindell, Chairman
+Thomas Abramski, Vice Chairmen
+Thomas Prince, Councilman
+Randy Martin
+TJ Wrocklage
+Vincent Elia
+Michael Mandica
+David Rainmann
+Robyn Bowers
+
+Land Use Board Professionals
+Kelsey McGuckin Anthony, Esq., Board Attorney
+Mark Rohmeyer, PE, PP, CME, Board Engineer
+
+Land Use Secretary
+Meridith Triolo
+
+Affordable Housing Counsel
+Robin La Bue, Esq.
+Jean L. Cipriani, Esq
+
+Remington & Vernick Engineers Consultants
+Ashton Jones, PP, AICP, CFM
+Jenizza Corbin, PP, AICP, LEED Green Associates
+James Oris, PE, PP, CME, CFM
+Jachel Everett
+      OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 3 of 36 Trans ID: LCV20251750402
+
+
+
+
+Contents
+1.0      INTRODUCTION .............................................................................................................. 1
+
+  1.1.      Background ..................................................................................................................... 1
+
+  1.2.      Municipal Overview ....................................................................................................... 3
+
+  1.3.      Required Contents of Housing Element ......................................................................... 4
+
+  1.4.      Consistency with the State Development and Redevelopment Plan .............................. 5
+
+2.0      HOUSING ELEMENT ....................................................................................................... 6
+
+  2.1       Housing Stock: Occupancy and Physical Characteristics ............................................... 6
+
+      2.1.1        Housing Unit Type.................................................................................................. 6
+
+      2.1.2        Housing Units by Age............................................................................................. 6
+
+      2.1.3        Substandard Housing Conditions ............................................................................ 7
+
+      2.1.4        Housing Stock: Value and Affordability ................................................................ 7
+
+  2.2       Demographics ................................................................................................................. 8
+
+      2.2.1        Population and Age ................................................................................................. 8
+
+  2.3       Family and Household Size .......................................................................................... 10
+
+  2.4       Family and Household Income ..................................................................................... 11
+
+  2.5       Existing Employment.................................................................................................... 12
+
+      2.5.1        Employment Status ............................................................................................... 12
+
+      2.5.2        Employment by Industry....................................................................................... 12
+
+  2.6       Population and Employment Projections ...................................................................... 13
+
+  2.7       Housing Stock Projection ............................................................................................. 13
+
+      2.7.1        Building and Demolition Permits by Year............................................................ 13
+
+3.0      ACHIEVEMENT OF FAIR SHARE ............................................................................... 15
+
+  3.1       Present Need Obligation ............................................................................................... 16
+
+      3.1.1        As Determined and Addressed.............................................................................. 16
+
+  3.2       Satisfaction of the Realistic Development Potential (RDP-0) ...................................... 16
+      OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 4 of 36 Trans ID: LCV20251750402
+
+
+
+
+  3.3      Unmet Need (293 units) ................................................................................................ 16
+
+4.0     APPENDIX ....................................................................................................................... 19
+       OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 5 of 36 Trans ID: LCV20251750402
+
+
+
+
+1.0 INTRODUCTION
+1.1.    Background
+
+New Jersey affordable housing law began in 1975 when the Supreme Court decided So. Burl. Cty.
+N.A.A.C.P. v. Tp. of Mt. Laurel, 67 N.J. 151 (1975), commonly referred to as “Mount Laurel I.”,
+In Mount Laurel I, the Supreme Court ruled that the State Constitution required each “developing”
+municipality, through its land use regulations, to “make realistically possible the opportunity for
+an appropriate variety and choice of housing for all categories of people who may desire to live
+there”, including those of low and moderate income. Thus, the Supreme Court prohibited
+municipalities from using their zoning powers to prevent development of affordable housing for
+low and moderate income households.
+
+In 1983, displeased with progress of municipalities to zone for affordable housing in response to
+“Mount Laurel I”, the Supreme Court decided “to put some steel” into the doctrine. Specifically, it
+decided So. Burlington Ct. N.A.A.C.P. v. Mount Laurel Tp., 92 N.J. 158 (1983), commonly
+referred to as “Mount Laurel II”. To facilitate the actual construction of affordable housing, the
+Court fashioned a judicial remedy, now commonly referred to as a “Builder’s Remedy”. That
+remedy created an incentive for developers to sue towns that had not complied to force them to
+comply with the doctrine.
+
+Mount Laurel II precipitated a flood of builder’s remedy suits creating pressure for a legislative
+solution to the Mount Laurel doctrine. Judge Serpentelli, one of three judges assigned to implement
+Mount Laurel II decided the AMG case wherein he provided a fairly simple formula to enable any
+developer to easily determine a municipality’s fair share, thereby greatly simplifying the process
+for developers to prove that a municipality was non-compliant. The AMG decision dramatically
+increased the pressure for a legislative solution as developers sued municipalities across the state
+and stripped them of their home rule powers.
+
+The pressure for a legislative solution culminated in the enactment of the Fair Housing Act (FHA)
+in 1985, The pressure for a legislative solution culminated in the enactment of the Fair Housing
+Act (hereinafter “FHA”) in 1985, roughly a year after Judge Serpentelli issued the AMG decision.
+The FHA created COAH, conferred primary jurisdiction on COAH to administer the FHA and
+implement the affordable housing policies of our State. In January 1986, the Supreme Court
+decided Hills Dev. Co. v. Bernards Twp., 103 N.J. 1 (1986), commonly referred to as “Mount
+Laurel III”, wherein the Court declared the FHA to be constitutional and directed trial judges to
+follow the decisions of COAH “wherever possible”.
+
+The FHA gave municipalities six years of protection from when COAH certified their affordable
+housing plans. Consequently, the FHA directed COAH to promulgate regulations from “time to
+time” so that at any given time, there would be a body of regulations which any municipality could
+use to determine and satisfy its obligations. To implement the FHA, COAH adopted regulations
+for each housing cycle. It adopted regulations for Round One regulations in 1986; for Round Two
+in 1994; and for the Third Round in 2004. The Appellate Division invalidated the first version of
+COAH’s Round 3 regulations in 2007, and COAH adopted new Round 3 regulations in 2008. In
+
+                                                 1
+     OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 6 of 36 Trans ID: LCV20251750402
+
+
+
+
+2010, the Appellate Division invalidated the second iteration of COAH regulations and in 2013,
+the Supreme Court affirmed the Appellate Division’s decision to invalidate the second iteration of
+Round 3 regulations. The Supreme Court gave COAH five months to adopt valid regulations for
+Round 3 and then extended that deadline multiple times. After COAH failed to adopt Round 3
+regulations a third time, the Supreme Court was out of patience. It decided In the Matter of the
+Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council on Affordable Housing, 221 N.J.
+1 (2015), commonly referred to as “Mount Laurel IV”, in which it declared COAH to be
+“moribund” and turned over the task of implementing the Mount Laurel doctrine back to the trial
+courts. This time, instead of having three specialized judges preside over Mount Laurel cases, the
+Supreme Court assigned the task to 15 judges throughout the State.
+
+On March 20, 2024, this all changed once again when Governor Murphy signed into law, P.L.
+2024, C.2, which substantially amended the FHA and created an entirely new affordable housing
+regulatory plan approval process (hereinafter “FHA II”). FHA II provided that a municipality could
+secure immunity by adopting a resolution to commit to a present need and Round 4 prospective
+need by January 31, 2025, and by filing a declaratory judgment action within 48 hours of adoption
+of the resolution. FHA II provided that a municipality could maintain that immunity if it filed an
+adopted Housing Element and Fair Share Plan by June 30, 2025. FHA II introduced a
+comprehensive structure for municipalities to meet their obligations, with key provisions including,
+but not limited to, the following:
+
+   o The abolishment of COAH and reassigning affordable housing oversight to a new entity
+     known as the Affordable Housing Dispute Resolution Program (the Program), which
+     consists of seven retired Mount Laurel judges and their Special Adjudicators, once known
+     as Court Masters. FHA II provided that if the Program judges, with the assistance of
+     Adjudicators, could not resolve dispute amicably, a vicinage area judge would decide the
+     matter.
+   o FHA II also required the Department of Community Affairs (DCA) to take over the
+     monitoring of affordable units in every municipality in the state, and to draft and release a
+     report calculating non-binding Fourth Round municipal Present and Prospective Need
+     obligation for every municipality in the state. The DCA released its Fourth Round numbers
+     report in October of 2024.
+   o The amended FHA also ordered the New Jersey Housing and Mortgage Finance Agency
+     (NJHMFA) to adopt new Uniform Housing Affordability Controls commonly referred to
+     as UHAC regulations.
+   o 13% of the Fourth Round affordable units must be designated as very low-income units
+     (30% of median income), half of which must be available to families with children.
+   o 25% of affordable units must be rental housing units, half of which must be available to
+     families with children.
+   o 50% of the municipality’s prospective need (exclusive of any bonus credits) must be
+     available to families with children.
+   o No more than 10% of the municipality’s fair share obligation may be counted towards
+     transitional housing.
+   o No more than 30% of affordable housing units can be age-restricted (excluding bonus
+     credits).
+
+                                                 2
+       OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 7 of 36 Trans ID: LCV20251750402
+
+
+
+
+   o 40-year deed restrictions for new rental units, 30-year deed restrictions for for-sale units.
+   o Any municipality that secures a vacant land adjustment (VLA) has to provide realistic
+     zoning for “at least 25 percent of the prospective need obligation that has been adjusted”
+     through redevelopment or demonstrate why the municipality is unable to do so.
+
+The law also includes significant changes to the use of bonus credits which are now allocated based
+on the following:
+
+   o Special Needs/Permanent Supportive Housing: 1 bonus credit per 1 credit
+   o Housing created in partnership with a non-profit housing developer: ½ bonus credit per 1
+     credit
+   o Housing located within half a mile radius of public transit stations (or one mile in Garden
+     State Growth Zones): ½ bonus credit per 1 credit
+   o Age-restricted housing: ½ bonus credit per 1 credit
+   o Family housing with at least 3 bedrooms, above the minimum number required by the
+     bedroom distribution requirement determined pursuant to the Uniform Housing
+     Affordability Controls: ½ bonus credit per 1 credit
+   o Redevelopment of sites previously used for retail, office, or commercial space: ½ bonus
+     credit per 1 credit
+   o Extending affordability controls on existing low- or moderate-income rental units, with
+     municipal financial support: ½ bonus credit per 1 credit
+   o For 100% affordable projects, municipalities that contribute land or at least 3% of the
+     project’s cost to a fully affordable development: 1 bonus credit per 1 credit
+   o Very low-income housing for families beyond the required 13%: ½ bonus credit per 1 credit
+   o Converting market-rate housing to affordable units, provided the municipality secures an
+     agreement with the property owner or owns the property: 1 bonus credit per 1 credit
+
+Limitation to the bonus credits:
+
+   o Municipalities are prohibited from using more than one type of Bonus Credit for any unit.
+   o No more than 25% of a Municipality’s Prospective Need obligation can be satisfied through
+     bonus credits
+   o Bonus credit for age-restricted is limited only to a maximum of 10% of the total age-
+     restricted units
+
+On December 13, 2024, the Administrative Office of the Courts issued Administrative Directive
+#14-24 which established guidelines implementing the Program pursuant to section 5 of P.L.2024,
+c.2 (N.J.S.A. 52:27D-313.2).
+
+1.2.    Municipal Overview
+
+The Borough of Beachwood is located in Ocean County along the southern bank of the Toms River
+and encompasses approximately 2.76 square miles. It is bounded by Pine Beach Borough to the
+
+
+
+                                                3
+        OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 8 of 36 Trans ID: LCV20251750402
+
+
+
+
+east, Berkeley Township to the south, South Toms River to the west and the Toms River to the
+north. In 2020, the population of the Borough was 10,859.1
+
+1.3.       Required Contents of Housing Element
+
+The Municipal Land Use Law (N.J.S.A. 40:55D-1, et seq.) provides that a municipal Master Plan
+can include a housing element as the foundation for the municipal zoning ordinance. While the
+Housing Element is not identified under the Municipal Land Use Law as a required element of the
+master plan, it is nonetheless a required element of Beachwood Borough’s Master Plan inasmuch
+as the Borough has an adopted zoning ordinance. Pursuant to N.J.S.A. 40:55D-62(a), a governing
+body may not adopt or amend a zoning ordinance, until and unless, the planning board would have
+adopted a land use plan element and housing plan element of the master plan.
+
+FHA II provides that a housing element must be designed to provide access to affordable housing
+to meet present and prospective housing needs, with particular attention to low- and moderate-
+income housing. As per the FHA at N.J.S.A. 52:27D-310, the housing element must contain as
+follows:
+
+      a. An inventory of the municipality’s housing stock by age, condition, purchase or rental
+         value, occupancy characteristics, and type, including the number of units affordable to low
+         and moderate income households and substandard housing capable of being rehabilitated,
+         and in conducting this inventory the municipality shall have access, on a confidential basis
+         for the sole purpose of conducting the inventory, to all necessary property tax assessment
+         records and information in the assessor’s office, including but not limited to the property
+         record cards;
+      b. A projection of the municipality’s housing stock, including the probable future construction
+         of low- and moderate-income housing, for the next ten years, taking into account, but not
+         necessarily limited to, construction permits issued, approvals of applications for
+         development and probable residential development of lands;
+      c. An analysis of the municipality’s demographic characteristics, including but not necessarily
+         limited to, household size, income level and age;
+      d. An analysis of the existing and probable future employment characteristics of the
+         municipality;
+      e. A determination of the municipality’s present and prospective fair share for low- and
+         moderate-income housing and its capacity to accommodate its present and prospective
+         housing needs, including its fair share for low- and moderate-income housing, as
+         established pursuant to section 3 of P.L.2024, c.2 (C.52:27D-304.1); and
+      f. A consideration of the lands that are most appropriate for construction of low- and
+         moderate-income housing and of the existing structures most appropriate for conversion to,
+         or rehabilitation for, low- and moderate-income housing, including a consideration of lands
+         of developers who have expressed a commitment to provide low- and moderate-income
+         housing.
+
+
+
+1
+    US Decennial Census 2020, Profile of General Population and Housing Characteristics, Table DP1
+                                                        4
+       OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 9 of 36 Trans ID: LCV20251750402
+
+
+
+
+    g. An analysis of the extent to which municipal ordinances and other local factors advance or
+       detract from the goal of preserving multigenerational family continuity as expressed in the
+       recommendations of the Multigenerational Family Housing Continuity Commission,
+       adopted pursuant to paragraph (1) of subsection f. of section 1 of P.L. 2021, c. 273
+       (C.52:27D-329.20);
+    h. For a municipality located within the jurisdiction of the Highlands Water Protection and
+       Planning Council, established pursuant to section 4 of P.L. 2004, c. 120 (C.13:20-4), an
+       analysis of compliance of the housing element with the Highlands Regional Master Plan of
+       lands in the Highlands Preservation Area, and lands in the Highlands Planning Area for
+       Highlands-conforming municipalities. This analysis shall include consideration of the
+       municipality's most recent Highlands Municipal Build Out Report, consideration of
+       opportunities for redevelopment of existing developed lands into inclusionary or 100
+       percent affordable housing, or both, and opportunities for 100 percent affordable housing
+       in both the Highlands Planning Area and Highlands Preservation Area that are consistent
+       with the Highlands regional master plan; and
+    i. An analysis of consistency with the State Development and Redevelopment Plan, including
+       water, wastewater, stormwater, and multi-modal transportation based on guidance and
+       technical assistance from the State Planning Commission.
+
+1.4.    Consistency with the State Development and Redevelopment Plan
+
+With respect to the State Development and Redevelopment Plan (SDRP) 2 , lands within the
+Borough are classified Suburban Planning Area (PA2) Suburban. The intent of the Suburban
+classification is to encourage more efficient and serviceable development patterns and reduce
+future trends toward sprawl. It is important to note that the western portion of the Borough is
+located within the New Jersey Pinelands Commission area and is regulated by the Comprehensive
+Management Plan.
+
+
+
+
+2
+ New Jersey State Planning Commission, The New Jersey State Development and Redevelopment Plan, March 1,
+2001.
+                                                   5
+      OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 10 of 36 Trans ID: LCV20251750402
+
+
+
+
+2.0 HOUSING ELEMENT
+2.1     Housing Stock: Occupancy and Physical Characteristics
+
+2.1.1 Housing Unit Type
+
+The 2020 US Census reported that Beachwood Borough had 3,860 dwelling units, about 96% of
+which are occupied and 4% vacant. Of the occupied units (3,719 units), about 87% are owner-
+occupied with the remaining being renter-occupied.1 As indicated in the 2023 American
+Community survey (ACS), approximately 98% of dwelling units are single-family detached.3
+
+                                   Table 1: Units in Structure 3
+
+                                               Number of
+                            Unit Type                           Percentage
+                                                 Units
+                        1, Detached              4,107             98.3%
+                        1, Attached               37                0.9%
+                        2                         18                0.4%
+                        3 or 4                    13                0.3%
+                        5 to 9                     5                0.1%
+                        10 to 19                   0                0.0%
+                        20 or more                 0                0.0%
+                        Mobile Home                0                0.0%
+                        Other                      0                0.0%
+                        Total                    4,180             100%
+
+2.1.2 Housing Units by Age
+
+Approximately 49% of the Borough’s housing stock was built over 50 years ago (1975 or earlier),
+while about 45% was built between 1976 and 1999. Only 6% of housing units have been built since
+2000, indicating that the community is largely built out.3
+
+                                  Table 2: Year Structure Built 3
+
+                           Year Built            Number        Percentage
+                           1939 or earlier         238            5.7%
+                           1940 to 1949            260            6.2%
+                           1950 to 1959            352            8.4%
+                           1960 to 1969           572            13.7%
+                           1970 to 1979          1,112           26.6%
+
+
+3
+ U.S. Census Bureau, 2019-2023 American Community Survey 5-Year Estimates, Table DP04, Selected Housing
+Characteristics.
+                                                  6
+       OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 11 of 36 Trans ID: LCV20251750402
+
+
+
+
+                               1980 to 1989              944           22.6%
+                               1990 to 1999              437           10.5%
+                               2000 to 2009              118            2.8%
+                               2010 to 2019             132             3.2%
+                               2020 and later            15             0.4%
+                               Total                    4,180          100%
+
+2.1.3 Substandard Housing Conditions
+
+P.L. 2024, C.2 requires that with respect to this calculation a methodology should be used that is
+“similar to the methodology used to determine third round municipal present need”. Third Round
+municipal present need calculations used three factors to calculate present need: the number of
+housing units lacking complete kitchen facilities, the number of units lacking complete plumbing
+facilities, and the number of overcrowded units. DCA issued Affordable Housing Obligations for
+2025-2035 (Fourth Round), indicate that the Borough has an 8-unit rehabilitation obligation.
+
+2.1.4 Housing Stock: Value and Affordability
+
+Owner-Occupied Units
+
+The Borough’s median value of owner-occupied housing units in 20233 was $307,500, while in
+2010, the value was $269,0004. Between 2010 and 2023, the median value increased about 14%.
+In 2023, it was estimated that about 4% of owner-occupied units were less than $200,000,
+approximately 43% between $200,000 and $299,999, about 47% between $300,000 and $499,999,
+and 6% valued over $500,000. It is equally important to note that in 2010, 13% of homes were
+valued under $200,000. Furthermore, homes with a value over $300,000 accounted for about 33%
+of the Borough’s housing inventory in 2010, while currently about 53%3 of units are valued over
+$300,000.
+
+                                   Table 4: Value of Owner-Occupied Units 3
+
+                     Value                          Number of Units    Percentage
+                     Less than $50,000                    48              1.3%
+                     $50,000 to $99,999                    0              0.0%
+                     $100,000 to $149,999                  7              0.2%
+                     $150,000 to $199,999                 93              2.6%
+                     $200,000 to $299,999               1,539            43.1%
+                     $300,000 to $499,999               1,674            46.9%
+                     $500,000 to $999,999                212              5.9%
+                     $1,000,000 or more                    0              0.0%
+                     Total                              3,573             100%
+                     Median Value                                $307,500
+
+
+4
+    U.S. Census Bureau, 2006-2010 American Community Survey, Table DP04, Selected Housing Characteristics.
+                                                        7
+      OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 12 of 36 Trans ID: LCV20251750402
+
+
+
+
+Renter-Occupied Units
+
+In 2023, the ACS estimated that the Borough’s median rental price was $2,236 monthly. While in
+2010 35% of rental units were less than $1,500, in 2023 this had dropped to 11%. Further
+illustrating a perceived lack of affordability, in 2010 65% of rental units were over $1,500, while
+in 2023 this had increased to 90%.
+
+                                         Table 5: Gross Rent 3
+
+                         Cost             Number of Units Percentage
+                         Less than $500         0            0.0%
+                         $500 to $999           0            0.0%
+                         $1,000 to $1,499      28           10.7%
+                         $1,500 to $1,999      68           26.0%
+                         $2,000 to $2,499      74           28.2%
+                         $2,500 to $2,999      74           28.2%
+                         $3,000 or more        18            6.9%
+                         Total                262           100%
+                         Median                     $2,236
+
+
+2.2     Demographics
+
+2.2.1 Population and Age
+
+The Borough’s population grow rapidly between 1940 and 60, nearly doubling (92.5%) with the
+1950 census and more than doubling with the 1960 census (121%). While the population continued
+to grow, albeit at a slower rate, there was even a slight population decline (-1.7%) between 2010
+and 2020.
+                                   Table 7: Population Change 5
+
+                                Year       Population         % Change
+                                1940            650              ----
+                                1950          1,251             92.5%
+                                1960          2,765            121.0%
+                                1970          4,390             58.8%
+                                1980          7,687             75.1%
+                                1990          9,324             21.3%
+                                2000         10,375             11.3%
+
+
+
+5
+ For Years 1940 to 2000, New Jersey State Data Center (NJSDC) 2000 Census Publication, New Jersey Population
+Trends: 1790 to 2000, Table 6. New Jersey Resident Population by Municipality: 1940 - 2000, page 36,
+https://www.nj.gov/labor/labormarketinformation/assets/PDFs/census/2kpub/njsdcp3.pdf
+                                                     8
+     OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 13 of 36 Trans ID: LCV20251750402
+
+
+
+
+                                Year        Population         % Change
+                                2010 6        11,045             6.5%
+                                2020 1        10,859            -1.7%
+
+According to the 2020 Census, the median age in the Borough is 38.2.1 While the median age has
+not increased significantly (35.2 in 20007 and 378 in 2010), there is still a pattern of an aging.
+According to the U.S. Census Bureau, this nationwide rise in median age is largely due to the aging
+of baby boomers (those born between 1946 and 1964).9
+
+                                     Table 8: Population by Age 1
+
+                              Age                    Total        Percentage
+                              Under 5 years           618                 5.7%
+                              5 to 9 years            698                 6.4%
+                              10 to 14 years          698                 6.4%
+                              15 to 19 years          801                 7.4%
+                              20 to 24 years          647                 6.0%
+                              25 to 29 years          698                 6.4%
+                              30 to 34 years          796                 7.3%
+                              35 to 39 years          752                 6.9%
+                              40 to 44 years          700                 6.4%
+                              45 to 49 years          737                 6.8%
+                              50 to 54 years          784                 7.2%
+                              55 to 59 years          769                 7.1%
+                              60 to 64 years          716                 6.6%
+                              65 to 69 years          535                 4.9%
+                              70 to 74 years          425                 3.9%
+                              75 to 79 years          232                 2.1%
+                              80 to 84 years          117                 1.1%
+                              85 years and over       136                 1.3%
+                              Total                  10,859          100%
+                              Population
+                              Median Age              38.2           ----
+
+
+
+
+6
+  U.S. Census Bureau, Census 2010 Summary File 1, Table P1
+7
+  U.S. Census Bureau, Census 2000 Demographic Characteristics, Table DP1, DEC Summary File 4 Demographic
+Profile
+8
+  U.S. Census Bureau, 2010 Census, Table P13, Median Age by Sex
+9
+  U.S. Older Population Grew From 2010 to 2020 at Fastest Rate Since 1880 to 1890, May 25, 2023, Zoe Caplan,
+U.S. Census Bureau, https://www.census.gov/library/stories/2023/05/2020-census-united-states-older-population-
+grew.html
+                                                      9
+      OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 14 of 36 Trans ID: LCV20251750402
+
+
+
+
+2.3     Family and Household Size
+
+Understanding household size can help determine demand for different types of housing units and
+provide insight into shifting demographics. In 2023, the average household size and family size
+was 2.77 and 3.11, respectively.11 While this represents a decrease from those numbers indicated
+in 201010, household size is typically smaller than family size, due to the fact that a household can
+include a single individual living as one house keeping unit.
+
+                            Table 9: Average Household & Family Size
+
+                                                      201010              202311
+                Average Household Size                 3.01                2.77
+                Average Family Size                    3.39                3.11
+
+Of the occupied units (3,719 units), about 88% are owner-occupied with the remainder being
+renter-occupied. Of those owner-occupied units, 2-person households make up about 32%,
+followed by 3-person households (20.8%), and 4-person households (17.6%). For renter-occupied
+units, about 22% are 2-person households, followed closely by a 3-person households at 18%.12
+
+                               Table 10: Tenure by Household Size12
+
+                                                            Number       Percentage
+                    Total Occupied Units                     3,719         100%
+                    Owner occupied:                          3,258         87.6%
+                      1-person household                      536          16.5%
+                      2-person household                     1,052         32.3%
+                      3-person household                      679          20.8%
+                      4-person household                      574          17.6%
+                      5-person household                      260           8.0%
+                      6-person household                       88           2.7%
+                      7-or-more-person household               69           2.1%
+                    Renter occupied:                          461          12.4%
+                      1-person household                       69          15.0%
+                      2-person household                      101          21.9%
+                      3-person household                       85          18.4%
+                      4-person household                       75          16.3%
+                      5-person household                       76          16.5%
+                      6-person household                       27           5.9%
+                      7-or-more-person household               28           6.1%
+
+
+10
+   U.S. Census Bureau, 2006-2010 American Community Survey, Households and Families, Table S1101
+11
+   U.S. Census Bureau, 2019-2023 American Community Survey, Households and Families, Table S1101
+12
+   U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC), Table H12, Tenure by
+Household Size
+                                                    10
+      OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 15 of 36 Trans ID: LCV20251750402
+
+
+
+
+2.4     Family and Household Income
+
+In 2023, the estimated median household and family income in the Borough was $102,043 and
+$111,627, respectively.13 These figures suggest an approximate 30% increase in median income
+for households and about a 34% increase for median family income since 2010.14
+
+According to the 2024 Affordable Housing Regional Income Limits by Household Size, which was
+prepared by Affordable Housing Professionals of New Jersey (AHPNJ), the median income level
+for Region 4 (Mercer, Monmouth, and Ocean Counties) is $91,038. This income level is set on a
+regional scale and is used to determine moderate, low, and very low-income levels. In Region 4 of
+New Jersey, which includes Beachwood Borough, the moderate household income limit for one
+person is $72,830. Low-income one-person households are defined as those with an income limit
+of $45,519, while very low-income one-person households are defined as those earning up to
+$27,311. 15
+
+                                     Table 11: Median Income13
+
+                                                  Households           Families
+                       Less than $10,000           0.8%                  0.5%
+                       $10,000 to $14,999          2.5%                  1.1%
+                       $15,000 to $24,999          2.3%                  1.2%
+                       $25,000 to $34,999          4.9%                  1.4%
+                       $35,000 to $49,999         13.0%                 12.6%
+                       $50,000 to $74,999         10.8%                  9.4%
+                       $75,000 to $99,999         14.9%                 17.5%
+                       $100,000 to $149,999       21.8%                 24.3%
+                       $150,000 to $199,999       14.6%                 14.3%
+                       $200,000 or more           14.4%                 17.7%
+                       Total                         100%                100%
+                       Median Income               $102,043            $111,627
+
+
+
+
+13
+   US Census 2023 5-Year ACS Household Income in Past 12 Months (in 2023 Inflation-Adjusted Dollars), Table
+S1901
+14
+   U.S. Census Bureau, 2006-2010 American Community Survey 5-Year Estimates, Table S1901, Income in the Past
+12 Months (in 2010 Inflation-Adjusted Dollars)
+15
+   Affordable Housing Professionals of New Jersey (AHPNJ), 2024 Affordable Housing Regional Income Limits by
+Household Size, April 12,2024 https://ahpnj.org/member_docs/Income_Limits_2024_FINAL.pdf
+                                                    11
+      OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 16 of 36 Trans ID: LCV20251750402
+
+
+
+
+2.5                                         Existing Employment
+
+2.5.1 Employment Status
+
+About 71% of the Borough’s population over 16 years old are in the labor force. Of the civilian
+labor force, about 68% are employed, and 2% unemployed. Interestingly enough nearly 30% are
+not in the labor force. 16
+                              Table 12: Employment Status16
+
+                                                           Beachwood Borough
+                                                        Population    Percentage
+               Population 16 years and over               9,096         100%
+               years
+                  In labor force                          6,421         70.6%
+                    Civilian labor force                  6,401         70.4%
+                      Employed                            6,213         68.3%
+                      Unemployed                           188           2.1%
+                    Armed Forces                            20           0.2%
+                  Not in labor force                      2,675         29.4%
+               Unemployment Rate (Civilian
+                                                             -                2.9%
+               Labor Rate)
+
+2.5.2 Employment by Industry
+
+Of the employed civilians 16 years and over, about 28% are in the “Educational Services, Health
+Care and Social Assistance Services” industry, about 14% are in “Retail Trade” and about 13% are
+in the “Professional, scientific, and management, and administrative and waste management
+services” industry. It was estimated that there is no labor force in the “Agriculture, forestry, fishing
+and hunting, and mining,” industry. 16
+
+                              Table 13: Employment by Industry 16
+
+      Industry                                                          Number       Percentage
+      Agriculture, forestry, fishing and hunting, and mining               0             0%
+      Construction                                                        438           7.0%
+      Manufacturing                                                       277           4.5%
+      Wholesale trade                                                     119           1.9%
+      Retail trade                                                        877          14.1%
+      Transportation and warehousing, and utilities                       345           5.6%
+      Information                                                         113           1.8%
+      Finance and insurance, and real estate and rental and               176           2.8%
+      leasing
+      Professional, scientific, and management, and                       785          12.6%
+      administrative and waste management services
+16
+ U.S. Census Bureau, 2019-2023 American Community Survey 5-Year Estimates, Table DP03, Selected Economic
+Characteristics
+                                                  12
+        OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 17 of 36 Trans ID: LCV20251750402
+
+
+
+
+         Industry                                                             Number        Percentage
+         Educational services, health care and social assistance               1,761          28.3%
+         Arts, entertainment, and recreation, and accommodation                 371            6.0%
+         and food services
+         Other services, except public administration                            504          8.1%
+         Public administration                                                   447          7.2%
+         Total (Civilian employed population 16 years and                       6,213         100%
+         over)
+2.6        Population and Employment Projections
+
+The North Jersey Transportation Planning Authority (NJTPA) is the federally
+authorized Metropolitan Planning Organization (MPO) for 7 million people in the 13-county
+northern New Jersey region, which includes Ocean County. The NJTPA completed its latest set of
+formal forecasts in 2021. According to NJTPA’s published population and employment projections
+for the years 2015- 2050, the Borough’s population and employment will increase, albeit at a
+modest pace. It was estimated that the Borough’s population is expected to increase by about 11%
+between 2015 to 2050, or an average of 0.7% per year. It is important to note that over the same
+35 year time period, employment is projected to increase about 26%.
+
+                          Table 14: Population & Employment Projections17
+                           Year       Population       % Change            Jobs         % Change
+                           2015         11,042           ----              1,027          ----
+                           2050         12,223          10.7%              1,292         25.8%
+
+
+2.7        Housing Stock Projection
+
+2.7.1 Building and Demolition Permits by Year
+
+The Fair Housing Act II requires that Housing Plans include a projection of new housing units
+based on the number of building permits, development applications approved, and probable
+developments, as well as other indicators deemed appropriate. Building permits averaging 9.3 units
+were issued between 2013 through 2023, while annual demolition permits averaged 5.4 units.
+Assuming these rates remain relatively constant, the Borough could see close to 50 units developed
+over the next five years and 93 units over the next ten years.
+
+
+
+
+17
+     North Jersey Transportation Planning Authority Appendix E-2050 Demographic Forecasts
+                                                       13
+       OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 18 of 36 Trans ID: LCV20251750402
+
+
+
+
+                  Table 15: Housing Unit Building and Demolition Permits by Year
+
+                                                     Building Permits Housing Demolition
+                              Year                   Issued For New Permits Issued 19
+                                                      Construction 18
+                             2013                           15                 7
+                             2014                            7                 3
+                             2015                            5                 7
+                             2016                            7                19
+                             2017                            6                18
+                             2018                           11                 1
+                             2019                           11                 2
+                             2020                            3                 1
+                             2021                           11                 0
+                             2022                           12                 1
+                             2023                           14                 0
+                             Total                         102                59
+                           Average                          9.3              5.4
+                       5-Year Projection                    46                27
+                      10- Year Projection                   93                54
+
+
+
+
+18
+     New Jersey Department of Community Affairs (NJDCA), Building Permits: Yearly Summary Data
+19
+     New Jersey Department of Community Affairs (NJDCA), Demolition Permits Yearly Summary Data
+                                                      14
+     OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 19 of 36 Trans ID: LCV20251750402
+
+
+
+
+3.0 ACHIEVEMENT OF FAIR SHARE
+This Fair Share Plan sets forth Beachwood Borough’s affordable housing obligations and explains
+how the Borough is satisfying its obligation.
+
+The Borough’s fair share is 301, consisting of a Present Need (Rehabilitation Obligation of 8, a
+Prior Round Obligation (1987-1999) of 123, a Third Round Obligation (1999-2024) of 12320 and
+a Fourth Round Obligation (2025-2035) of 47.
+
+Another way to construe this 301 obligation is that 8 is the present need (or rehab obligation) and
+293 is the prospective need otherwise, known as the new construction component.
+
+The Borough has applied the standards set forth in N.J.A.C. 5:93-4.2 to determine its entitlement
+to a vacant land adjustment (VLA) to the cumulative 293-perspective need obligation. As a result
+of that analysis, the Borough has determined that it is entitled to adjust its cumulative 293
+prospective need to 0, leaving the Borough with a realistic development potential (RDP) of 0 and
+an unmet need of 293. This plan will demonstrate how the Borough is creating a realistic
+opportunity for satisfaction of its RDP and how it is taking appropriate steps to address its unmet
+need.
+
+To elaborate on the vacant land adjustment analysis, in accordance with N.J.A.C. 5:93-4.2, we
+first created an inventory of vacant or underutilized parcels. Initially, an exhaustive analysis of all
+vacant properties was conducted utilizing 2024 MOD-IV tax data from the New Jersey
+Geographic Information Network. These data were reviewed for completeness and accuracy with
+respect to property class codes and, where necessary, updated based on local information and/or
+current aerial images.
+
+Next, all privately owned vacant contiguous parcels under 0.83 acres were eliminated from the
+analysis (could not accommodate a density of 6 dwelling units per acre and would therefore
+generate zero affordable units). The Borough utilized a density of 6 units per acre, as per COAH
+regulation N.J.A.C. 5:93-4.2.
+
+Next, the Borough removed lands which have been preserved; environmentally sensitive lands
+including wetlands, flood hazard areas, active recreation; and conservation, parklands and open
+space lands.
+
+Furthermore, the Borough removed parcels which were deemed to have special circumstances
+which might otherwise preclude the sites’ inclusion, including vacant lands surrounded by
+industrial uses, areas without access, lacking access to sewer, areas with access only through
+wetlands, areas with known contamination, sites containing utilities (i.e., pump stations, etc.),
+common areas within developed sites (i.e. parking areas, open space areas), areas with stormwater
+management facilities, etc. In other words, all sites that did not qualify as available, approvable,
+
+20
+ Based on the workbooks provided by Special Master Richard Reading pursuant to Judge Mary C. Jacobson’s
+March 8, 2018 opinion on fair share obligations in Mercer County
+                                                  15
+   OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 20 of 36 Trans ID: LCV20251750402
+
+
+
+
+developable and suitable under COAH regulations were removed because a municipality can only
+comply with sites that meet these criteria
+
+3.1    Present Need Obligation
+
+3.1.1 As Determined and Addressed
+
+The Borough accepts the Present Need of 8 units as promulgated by the Department of
+Community Affairs (DCA) as its Rehabilitation Obligation. For the satisfaction of the
+Rehabilitation Obligation, Beachwood Borough will continue to participate in the Ocean County
+administered Housing Rehabilitation Program, a rehabilitation program for substandard units
+occupied by low and moderate income year-round residents. Ocean County will continue to
+provide its service of rehabilitation of substandard units within Beachwood.
+
+3.2    Satisfaction of the Realistic Development Potential (RDP-0)
+
+The Borough received a Prior Round JOR on June 30, 1998. This approved Housing Element and
+Fair Share Plan was prepared by Thomas A. Thomas, PP, AICP and was adopted by the Planning
+Board on April 27, 1998, and approved by Borough Council on April 28, 1998.
+
+As indicated above the Borough reapplied the standards set forth in N.J.A.C. 5:93-4.2. This
+revised VLA resulted in a 0-unit RDP (see Appendix). Considering the recalculated 0 unit RDP,
+the Borough will only have to provide mechanisms towards addressing unmet need.
+
+3.3    Unmet Need (293 units)
+
+Existing Credits
+
+While the Borough is confident there is at least six group home sites within the Borough,
+documentation has only been obtained from those facilities operated by Community Options Inc.
+Per documentation that has been provided, there are a total of 6 beds allocated across two facilities.
+
+
+      Administrator                      Address                 Block, Lot      Confirmed
+                                                                                 Beds
+      Community Options Inc.             711 Windward Ave.       B10.43, L6      3 individuals
+      Community Options Inc.             835 Forecastle Ave.     B3.02, L3       3 individuals
+      Arc Ocean County Chapter Inc.      1353 Anchor Ave.        B9.12, L1
+      21 Plus Inc.                       1113 Mizzen Ave.        B9.41, L6
+      21 Plus Inc.                       1309 Longboat Ave.      B9.07, L7
+      Ocean Mental Health Services       353 Ship Ave.           B1.45, L1
+
+The Borough seeks to take credit for these six beds, plus any additional credits that may be
+confirmed at a later date. These six credits, plus any additional credits, will be applied towards
+unmet need.
+                                                 16
+   OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 21 of 36 Trans ID: LCV20251750402
+
+
+
+
+Mandatory Set-aside Ordinance
+
+The Borough will establish a mandatory set-aside ordinance that requires all residential
+development (containing five or more units), including approvals of use or density variances, site
+plans, or subdivisions; redevelopment projects subject to a redevelopment plan adopted by the
+Borough Council that governs the development and redevelopment of designated areas in need of
+rehabilitation or areas in need of redevelopment in the Borough; and, substantial revisions to
+previously approved developments, to have a 20% set-aside for the affordable units, regardless of
+whether they are for-sale or rental. All affordable units shall be restricted, regulated, and
+administered consistent with the Borough’s affordable housing regulations, the Uniform Housing
+Affordability Controls and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.).
+
+Redevelopment Overlay
+
+The Borough will establish an overlay zone that will allow residential development, when built
+in conjunction with the redevelopment of commercial properties within the B-1 zone. Only those
+B-1 zoned properties in the vicinity of Atlantic City Blvd and Route 9, approximately 26 acres,
+are being considered:
+
+       Block 2.13, Lot 1; Block 2.14, Lots 1-3; Block 2.15, Lots 1-6; Block 2.16, Lots 1,
+       2, 3.01, 6-8-8; Block 2.17, Lots 1-3, 5-10; Block 2.28, Lots 1-13; Block 2.29, Lots
+       1-5,6.01, 11-13; Block 2.30, Lots 1-12; Block 2.31, Lots 1-7; Block 2.40, Lots 7.01
+       (partial), 9 (partial); Block 2.41, Lot 8; Block 2.42, Lots 7, 8; Block 2.43, Lot
+       7(partial); Block 2.48, Lot 6 (partial); Block 2.49, Lot 8; Block 2.50, Lot 5 (partial);
+       Block 4.01, Lots 1, 2, 4-6; Block 4.08, Lots 1-5; Block 4.15, Lots 1.01 (partial), 6;
+       Block 4.23, Lots 1, 2 (partial), 3.01,4-6; Block 4.26, Lots 1-6; Block 4.38, Lots 1-
+       5, 7; Block 4.43, Lots 1-7; Block 4.49, Lot 1 (partial)).
+
+The purpose of this zone will be to create a future opportunity for the redevelopment of existing
+commercial properties into a mixed use area which will address the requirement that a
+municipality account for at least 25% of the prospective need obligation that has been adjusted
+and adopt realistic zoning that allows for such adjusted obligation.
+
+Scattered Site Program
+
+The Borough will establish a Scattered Site Program designed to construct housing units that are
+not part of a larger development project. The Borough will implement a detailed program manual
+and target specific organizations for participation.
+
+Waivers Previously Granted
+
+Due to the Borough’s built out nature numerous “waivers” were received in the Prior Round JOR.
+As indicated in the Prior Round plan, the Borough continues to seek those previously granted
+waivers.
+
+                                                 17
+OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 22 of 36 Trans ID: LCV20251750402
+
+
+
+
+•   An accessory apartment program was not required because the lots in Beachwood are
+    relatively small (predominately 8,000 square feet or less) and neighborhoods are well
+    established as individual dwellings on individual lots. The predominate 8,000 square foot
+    lots that exist within the Borough coupled with the COAH requirements for 10-year
+    affordability controls on accessory apartments, the lack of control by the property owner
+    on the selection of apartment renters establish, and a combination of factors make the
+    successful development of an accessory apartment program impractical.
+•   Since the Borough is almost fully developed, and there are no large underdeveloped tracts
+    suitable for low and moderate income housing, overlay zones were determined not
+    practical.
+
+
+
+
+                                             18
+ OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 23 of 36 Trans ID: LCV20251750402
+
+
+
+
+4.0 APPENDIX
+    4.1   Vacant Land Adjustment (VLA) Analysis
+    4.2   Spending Plan
+    4.3   License for 711 Windward Ave. and 835 Forecastle Ave.
+
+
+
+
+                                       19
+ OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 24 of 36 Trans ID: LCV20251750402
+
+
+
+
+Vacant Land Adjustment (VLA) Analysis
+                     OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 25 of 36 Trans ID: LCV20251750402
+
+
+
+
+                                                           ADDITIONAL   TOTAL       FLOOD HAZARD AREA      WETLANDS (OUTSIDE      REMAINING AREA OUTSIDE OF                                                                 DEVELOPABLE LAND   REALISTIC DEVELOPMENT POTENTIAL
+ID   BLOCK   LOT     PROPERTY CLASS LOCATION                                                                                                                        REASON(S) FOR EXCLUSIONS
+                                                           LOT(S)       AREA        (FHA)                  FHA)                   ENVIRONMENTAL CONSTRAINTS                                                                 AREA               (RDP)
+   1 1.03    4       1               633 BEACHWOOD BLVD                    0.0917                      0                      0                               0.092 Unconstrained Acreage Insufficient to Support Housing   -                  -
+   2 1.06    5       1               621 TILLER AVE                        0.0945                      0                      0                               0.094 Unconstrained Acreage Insufficient to Support Housing   -                  -
+   3 1.06    15      1               648 BEACH AVE                         0.0914                      0                      0                               0.091 Unconstrained Acreage Insufficient to Support Housing   -                  -
+   4 1.10    10      1               616 SURF AVE                          0.1060                      0                      0                               0.106 Unconstrained Acreage Insufficient to Support Housing   -                  -
+   5 1.10    13      1               636 SURF AVE                          0.1798                      0                      0                               0.180 Developed                                               -                  -
+   6 1.11    1       1               653 FORECASTLE AVE                    0.1883                      0                      0                               0.188 Unconstrained Acreage Insufficient to Support Housing   -                  -
+   7 1.12    10      1               644 FORECASTLE AVE                    0.1861                      0                      0                               0.186 Unconstrained Acreage Insufficient to Support Housing   -                  -
+   8 1.15    9       1               516 SURF AVE                          0.1798                      0                      0                               0.180 Unconstrained Acreage Insufficient to Support Housing   -                  -
+   9 1.17    3       1               529 ENSIGN AVE                        0.0854                      0                      0                               0.085 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  10 1.18    1       1               553 HALLIARD AVE                      0.1825                      0                      0                               0.183 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  11 1.18    2       1               545 HALLIARD AVE                      0.1797                      0                      0                               0.180 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  12 1.18    13      1               540 TILLER AVE                        0.1877                      0                      0                               0.188 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  13 1.22    3       1               533 BEACHWOOD BLVD                    0.0931                      0                      0                               0.093 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  14 1.22    9       1               512 SEAMAN AVE                        0.0906                      0                      0                               0.091 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  15 1.23    11      1               532 SPAR AVE                          0.0884                      0                      0                               0.088 Developed                                               -                  -
+  16 1.25    2       1               445 BRIAR WAY                         0.2029                      0                      0                               0.203 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  17 1.25    3       1               437 BRIAR WAY                         0.1969                      0                      0                               0.197 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  18 1.25    4       1               431 BRIAR WAY                         0.1694                      0                      0                               0.169 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  19 1.25    11      1               456 LEEWARD AVE                       0.0937                      0                      0                               0.094 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  20 1.27    10      1               432 ENSIGN AVE                        0.0873                      0                      0                               0.087 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  21 1.42    8       1               400 ANCHOR AVE                        0.1680                      0                      0                               0.168 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  22 1.49    2       1               274 SURF AVE                          0.0676                      0                      0                               0.068 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  23 1.50    2       1               271 SURF AVE                          0.2000                      0                      0                               0.200 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  24 1.53    2       1               255 TILLER AVE                        0.1993                      0                      0                               0.199 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  25 1.57    5       1               59 RAILROAD AVE                       0.0855                      0                      0                               0.086 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  26 2.02    1       1               265 ADMIRAL AVE                       0.0871                      0                      0                               0.087 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  27 2.04    7       1               208 TILLER AVE                        0.1861                      0                      0                               0.186 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  28 2.05    6.01    1               220 BEACH AVE                         0.2712                      0                      0                               0.271 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  29 2.10    4       1               126 TILLER AVE                        0.2457                      0                      0                               0.246 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  30 2.10    5       1               134 TILLER AVE                        0.1902                      0                      0                               0.190 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  31 2.28    4       1               119 SHIP AVE                          0.1994                      0                      0                               0.199 Developed                                               -                  -
+  32 2.36    6       1               209 NEPTUNE AVE                       0.1967                      0                      0                               0.197 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  33 2.39    7       1               113 OCEAN AVE                         0.1194                      0                      0                               0.119 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  34 2.46    5       1               225 SPRAY AVE                         0.0942                      0                      0                               0.094 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  35 2.49    9.01    1               108 SPRAY AVE                         0.1846                      0                      0                               0.185 Developed                                               -                  -
+  36 2.50    6       1               120 MIZZEN AVE                        0.0936                      0                      0                               0.094 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  37 2.50    10      1               144 MIZZEN AVE                        0.1808                      0                      0                               0.181 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  38 2.50    11      1               152 MIZZEN AVE                        0.1744                      0                      0                               0.174 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  39 2.51    3       1               129 MIZZEN AVE                        0.0610                      0                      0                               0.061 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  40 3.05    5       1               813 ENSIGN AVE                        0.0971                      0                      0                               0.097 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  41 3.11    3       1               737 FORECASTLE AVE                    0.1704                      0                      0                               0.170 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  42 3.12    6       1               717 SUNSET RD                         0.1771                      0                      0                               0.177 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  43 3.12    7       1               709 SUNSET RD                         0.1821                      0                      0                               0.182 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  44 3.14    2.01    1               841 BEACH AVE                         0.1987                      0                      0                               0.199 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  45 3.31    3       1               933 SPAR AVE                          0.1859                      0                      0                               0.186 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  46 4.04    1       1               717 BARNEGAT BLVD                     0.2778                      0                      0                               0.278 Developed                                               -                  -
+  47 4.19    4       1               525 COMPASS AVE                       0.2367                      0                      0                               0.237 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  48 4.34    8       1               304 CLUBHOUSE RD                      0.0783                      0                      0                               0.078 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  49 4.37    5       1               309 COMPASS AVE                       0.2024                 0.0560                      0                               0.146 Developed                                               -                  -
+  50 4.41    10.02   1               240 COMPASS AVE                       0.1850                 0.1726                      0                               0.012 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  51 4.51    2       1               83 FOREPEAK AVE                       0.1330                      0                      0                               0.133 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  52 4.53    2       1               89 COMPASS AVE                        0.1474                 0.1476                      0                               0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  53 5.02    3       1               TAMARACK RD                           0.1961                      0                      0                               0.196 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  54 5.05    6.01    1               808 CRANBERRY RD                      0.1982                      0                      0                               0.198 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  55 5.08    9       1               752 CRANBERRY RD                      0.1878                      0                      0                               0.188 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  56 5.09    2       1               741 CRANBERRY RD                      0.0946                      0                      0                               0.095 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  57 5.09    3       1               737 CRANBERRY RD                      0.0973                      0                      0                               0.097 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  58 5.09    7       1               708 SUNSET RD                         0.2333                      0                      0                               0.233 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  59 5.09    8       1               716 SUNSET RD         0               0.1893                      0                      0                               0.189 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  60 5.09    9       1               724 SUNSET RD                         0.0975                      0                      0                               0.098 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  61 5.24    9       1               1040 SURF AVE                         0.1063                      0                      0                               0.106 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  62 5.26    9       1               1006 HALLIARD AVE                     0.0997                      0                      0                               0.100 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  63 5.28    1       1               909 SUNSET RD                         0.1583                      0                      0                               0.158 Preserved Open Space                                    -                  -
+  64 5.28    2       1               901 SUNSET RD                         0.1458                      0                      0                               0.146 Preserved Open Space                                    -                  -
+  65 5.28    3       1               900 FORECASTLE AVE                    0.1746                      0                      0                               0.175 Preserved Open Space                                    -                  -
+  66 5.28    4       1               908 FORECASTLE AVE                    0.1874                      0                      0                               0.187 Preserved Open Space                                    -                  -
+  67 5.28    5       1               916 FORECASTLE AVE                    0.1878                      0                      0                               0.188 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  68 5.28    6       1               FORECASTLE AVE                        0.0951                      0                      0                               0.095 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  69 5.28    7       1               928 FORECASTLE AVE                    0.0887                      0                      0                               0.089 Preserved Open Space                                    -                  -
+  70 5.28    8       1               FORECASTLE AVE                        0.0957                      0                      0                               0.096 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  71 5.29    1       1               945 FORECASTLE AVE                    0.3289                      0                      0                               0.329 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  72 5.29    2       1               FORECASTLE AVE                        0.0901                      0                      0                               0.090 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  73 5.29    3       1               933 FORECASTLE AVE                    0.1743                      0                      0                               0.174 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  74 5.29    4       1               925 FORECASTLE AVE                    0.1796                      0                      0                               0.180 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  75 5.29    5       1               917 FORECASTLE AVE                    0.1771                      0                      0                               0.177 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  76 5.29    6       1               909 FORECASTLE AVE                    0.1795                      0                      0                               0.179 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  77 5.29    7.01    1               905 FORECASTLE AVE                    0.1591                      0                      0                               0.159 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  78 5.51    1       1               1201 HALLIARD AVE                     0.2718                      0                      0                               0.272 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  79 5.55    1       1               1112 ENSIGN AVE                       0.6124                      0                      0                               0.612 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  80 5.56    1       1               1225 ENSIGN AVE                       0.3299                      0                      0                               0.330 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  81 5.56    2       1               1117 ENSIGN AVE                       0.2144                      0                      0                               0.214 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  82 5.56    7       1               1148 HALLIARD AVE                     0.0921                      0                      0                               0.092 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  83 5.56    8       1               1152 HALLIARD AVE                     0.2025                      0                      0                               0.202 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  84 5.57    1       1               1153 HALLIARD AVE                     0.2069                      0                      0                               0.207 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  85 6.27    7       1               1412 BEACHWOOD BLVD                   0.1797                      0                 0.1117                               0.068 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  86 6.27    8       1               1420 BEACHWOOD BLVD                   0.1877                      0                 0.1877                               0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  87 6.28    1       1               1445 BEACHWOOD BLVD                   0.3458                      0                 0.3458                               0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  88 6.28    2       1               1441 BEACHWOOD BLVD                   0.0876                      0                 0.0876                               0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  89 6.28    7       1               1401 BEACHWOOD BLVD                   0.1628                      0                      0                               0.163 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  90 6.28    13      1               1436 SEAMAN AVE                       0.4122                      0                 0.4122                               0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  91 6.29    1       1               1449 SEAMAN AVE                       0.2684                      0                 0.2684                               0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  92 6.29    2       1               1441 SEAMAN AVE                       0.1798                      0                 0.1798                               0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  93 6.29    6       1               1419 SEAMAN AVE                       0.0393                      0                 0.0171                               0.022 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  94 6.29    8       1               1409 SEAMAN AVE                       0.1818                      0                 0.0191                               0.163 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  95 6.29    9       1               1401 SEAMAN AVE                       0.1658                      0                      0                               0.166 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  96 6.29    10      1               1400 SPAR AVE                         0.1657                      0                      0                               0.166 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  97 6.29    11      1               1408 SPAR AVE                         0.1817                      0                 0.0719                               0.110 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  98 6.29    14      1               1428 SPAR AVE                         0.3562                      0                 0.3562                               0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+  99 6.29    15      1               1444 SPAR AVE                         0.1721                      0                 0.1721                               0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 100 6.30    1       1               1453 SPAR AVE                         0.1868                      0                 0.1868                               0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 101 6.30    5       1               1433 SPAR AVE                         0.1781                      0                 0.0917                               0.086 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 102 6.30    15      1               1452 ANCHOR AVE                       0.1868                      0                 0.1868                               0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 103 6.34    3       1               1329 BEACHWOOD BLVD                   0.1802                      0                      0                               0.180 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 104 6.34    12      1               1320 SEAMAN AVE                       0.1978                      0                      0                               0.198 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 105 6.34    13      1               1328 SEAMAN AVE                       0.1960                      0                      0                               0.196 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 106 6.36    4       1               1325 SPAR AVE                         0.0861                      0                      0                               0.086 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 107 6.37    2       1               1245 TILLER AVE                       0.1807                      0                      0                               0.181 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 108 6.38    1       1               1253 BEACH AVE                        0.1768                      0                      0                               0.177 Preserved Open Space                                    -                  -
+ 109 6.38    13      1               SHIP AVE                              0.0967                      0                      0                               0.097 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 110 6.39    3       1               1237 SHIP AVE                         0.2149                      0                      0                               0.215 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 111 6.39    4       1               1229 SHIP AVE                         0.2093                      0                      0                               0.209 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 112 6.56    3       1               1101 TILLER AVE                       0.2819                      0                      0                               0.282 Developed                                               -                  -
+ 113 6.56    7       1               1108 BEACH AVE                        0.0445                      0                      0                               0.044 Developed                                               -                  -
+ 114 8.35    2       1               1529 SEAMAN AVE                       0.3397                      0            0.33969945                                0.000 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 115 8.43    2       1               1500 CABLE AVE                        0.2943                      0           0.095962944                                0.198 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 116 9.03    1       1               1453 OCEAN AVE                        0.1829                      0                      0                               0.183 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 117 9.09    3.01    1               1341 NEPTUNE AVE                      0.1409                      0                      0                               0.141 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 118 9.09    5.01    1               1333 NEPTUNE AVE                      0.1319                      0                      0                               0.132 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 119 9.10    2       1               1349 OCEAN AVE                        0.1033                      0                      0                               0.103 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 120 9.10    7       1               1317 OCEAN AVE                        0.1006                      0                      0                               0.101 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 121 9.11    2       1               1349 CABLE AVE                        0.0887                      0                      0                               0.089 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 122 9.11    13      1               1332 OCEAN AVE                        0.0916                      0                      0                               0.092 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 123 9.24    7       1               1029 CABLE AVE                        0.0970                      0                      0                               0.097 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 124 9.30    2       1               1149 MERMAID AVE                      0.0935                      0                      0                               0.093 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 125 9.30    3       1               1145 MERMAID AVE                      0.0894                      0                      0                               0.089 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 126 9.31    14      1               1140 MERMAID AVE                      0.1799                      0                      0                               0.180 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 127 9.32    3       1               1133 OCEAN AVE                        0.0887                      0                      0                               0.089 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 128 9.33    11      1               1124 OCEAN AVE                        0.0973                      0                      0                               0.097 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 129 9.36    13      1               1224 SPRAY AVE                        0.0966                      0                      0                               0.097 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 130 9.37    5       1               1225 SPRAY AVE                        0.1940                      0                      0                               0.194 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 131 9.42    8.01    1               1100 MIZZEN AVE       32-34           0.1694                      0                      0                               0.169 Developed                                               -                  -
+ 132 9.43    5       1               1117 WINDWARD AVE                     0.2696                      0                      0                               0.270 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 133 9.44    12                  1                                         0.0902                      0                      0                               0.090 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 134 10.14   7       1               1009 WINDWARD AVE                     0.0974                      0                      0                               0.097 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 135 10.28   4       1               LONGBOAT AVE          16              0.0969                      0                      0                               0.097 Unconstrained Acreage Insufficient to Support Housing   -                  -
+ 136 10.29   12      1               744 PACIFIC AVE       4               0.0856                      0                      0                               0.086 Unconstrained Acreage Insufficient to Support Housing   -                  -
+                    OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 26 of 36 Trans ID: LCV20251750402
+
+
+
+
+137 10.29   13      1   748 PACIFIC AVE   L56   0.0950   0   0   0.095 Unconstrained Acreage Insufficient to Support Housing   -           -
+138 10.43   8       1   700 SPRAY AVE           0.2578   0   0   0.258 Unconstrained Acreage Insufficient to Support Housing   -           -
+139 11.11   7       1   500 OCEAN AVE           0.2686   0   0   0.269 Unconstrained Acreage Insufficient to Support Housing   -           -
+140 11.14   13.01   1   636 SPRAY AVE           0.5570   0   0   0.557 Unconstrained Acreage Insufficient to Support Housing   -           -
+141 11.15   10      1   616 MIZZEN AVE          0.1024   0   0   0.102 Developed                                               -           -
+                                                                                                                               Total RDP       0
+OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 27 of 36 Trans ID: LCV20251750402
+
+
+
+
+   Spending Plan
+      OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 28 of 36 Trans ID: LCV20251750402
+
+
+
+
+     Beachwood Borough Affordable Housing Trust Fund Spending Plan
+
+INTRODUCTION
+
+Beachwood Borough’s Fourth Round Housing Element and Fair Share Plan was prepared in
+accordance with the Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.), and the Fair Housing
+Act (N.J.S.A. 52:27D-301) and the March 10, 2015 Supreme Court Order Mount Laurel IV and
+N.J.A.C. 5:93-1 et seq. A development fee ordinance creating a dedicated revenue source for
+affordable housing was approved by the Superior Court of New Jersey and adopted by the
+municipality on January 15, 2009, amended February 5, 2009 and amended again April 3, 2014.
+While the Borough intends to make minor modifications to the spending plan as a result of
+subsequent Court rulings, this spending plan is intended to project anticipated affordable housing
+trust fund revenues, expenditures, and the mechanisms for expenditure through December 31,
+2035.
+
+As of December 31, the Borough of Beachwood had collected $602,551 (including $24,919
+interest) and expended $30,310 in total (administrative costs and housing activity costs), thereby
+resulting in a balance of $572,241. Pursuant to the Appellate Division authorization allowing for
+the adoption of a Development Fee Ordinance and restriction on expenditure of collected fees in
+the absence of a spending plan approved by the Court, no fees have been expended, aside from
+administrative costs. All development fees and interest earned by the fees were deposited in a
+separate interest-bearing Affordable Housing Trust Fund in Ocean First Bank, 975 Hooper
+Avenue, Tom River Township. These funds shall be spent in accordance with N.J.A.C. 5:93-8.16
+as described in the sections below.
+
+1.          REVENUES FOR CERTIFICATION PERIOD
+
+To calculate a projection of revenue through the end of the Third Round, the Borough of
+Beachwood considered the following:
+
+      (a)     Development fees:
+
+              1. Residential and nonresidential projects which have been subject to development
+                 fees at the time of preliminary or final development approvals.
+              2. All projects currently before the planning and zoning boards for development
+                 approvals that may apply for building permits and certificates of occupancy; and
+              3. Future development that is likely to occur based on historical rates of
+                 development.
+
+      (b)     Payment in lieu (PIL):
+
+              Actual and committed payments in lieu (PIL) of construction from developers.
+       OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 29 of 36 Trans ID: LCV20251750402
+
+
+
+
+                To date, there are no actual or committed payments in lieu (PIL) of construction from
+                developers.
+
+       (c)      Other funding sources:
+
+                Beachwood Borough does not anticipate collecting funds from other funding sources
+                at the present time. Funds from other sources include, but are not limited to, the sale
+                of units with extinguished controls, repayment of affordable housing program loans,
+                rental income, and proceeds from the sale of affordable units. All monies to be
+                deposited in the Affordable Housing Trust fund are anticipated to come from
+                development fees.
+
+       (d)      Projected interest: Affordable Housing Trust Fund interest is based on the current rate
+                of interest of 2.28%.
+
+  Table 1 below shows the anticipated revenue to be generated from development fees.
+  Beachwood Borough projects that a subtotal of $309,177 ($316,228 with interest) will be
+  collected between January 1, 2025, and December 31, 2035, for affordable housing purposes,
+  based on the assumptions that immediately follow the table. These projections are essentially
+  extrapolations of historic trends. After adding in the funds currently in the account, the total is
+  projected to be $888,469.
+
+               Table 1: Projected Revenues, Housing Trust Fund – 2025 through 2035
+
+Year Source                                2026-      2028-     2030-      2032-     2034-    2025-2035
+                     2024        2025
+  of Funds                                 2027       2029      2031       2033      2035       Total
+  Projected
+ Residential     STARTING       $28,107 $56,214 $56,214 $56,214 $56,214 $56,214                $309,177
+Development
+                 BALANCE
+Projected Non
+                   $572,241
+ -Residential                      $0        $0          $0       $0        $0         $0         $0
+Development       (12/31/24)
+   Interest                      $641    $1,282 $1,282 $1,282 $1,282 $1,282                     $7,051
+    Total          $572,241     $28,748 $57,496 $57,496 $57,496 $57,496 $57,496                $888,469
+
+  *          The years were doubled up from 2026-2035 for the sake of space, however the yearly
+             amount is depicted in the 2025 column.
+  **         The numbers have been rounded to the nearest whole number making the numbers
+             approximate figures.
+
+  Projected residential development is based on the construction of 9 new dwelling units per year.
+  The 9 units were multiplied by $208,200, which is the Borough’s average assessed value in 2025
+  for a residential dwelling unit as indicated by the Borough Tax Assessor. This estimate of
+  $1,873,800 of new yearly construction was then multiplied by 0.015 (1.5% residential
+  development fee).
+
+
+
+
+  June 2025                                          1
+     OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 30 of 36 Trans ID: LCV20251750402
+
+
+
+
+Projected non-residential development is based on the fact that there were no non-residential
+development fees collected by the Borough from years 2009-2024. Therefore, we can project
+that no development will be collected over the next 10 years.
+
+As indicated in the Table above, Beachwood Borough anticipates that a total of $316,228 in
+revenue will be collected between January 1, 2025, and December 31, 2035
+($309,177+$0+$7,051).
+
+2.         ADMINISTRATIVE MECHANISM TO COLLECT AND DISTRIBUTE FUNDS
+
+The procedural sequence to be followed by Beachwood Borough for the collection and
+distribution of development fee revenues is presented below.
+
+     (a)      Collection of development fee revenues
+
+              Collection of development fee revenues shall be consistent with Beachwood’s
+              development fee ordinance for both residential and non-residential developments in
+              accordance with the Department’s rules and P.L.2008, c.46, sections 8 (C. 52:27D-
+              329.2) and 32-38 (C. 40:55D-8.1 through C. 40:55D-8.7).
+
+     (b)      Distribution of development fee revenues
+
+              A resolution recommending the expenditure of development fee revenues as set forth
+              in this spending plan is adopted by the Land Use Board and forwarded to the Council.
+              The Council then reviews the request for consistency with the spending plan and, by
+              resolution, adopts the recommendation.
+
+              Upon adoption of the Council’s resolution, funds can be released in accordance with
+              the Court-approved spending plan. The Chief Financial Officer releases the requested
+              revenue from the trust fund for the specific use approved in the Council’s resolution
+              following approval of a request by resolution
+
+3.         DESCRIPTION OF ANTICIPATED USE OF AFFORDABLE HOUSING FUNDS
+
+Beachwood Borough may use the monies in the trust fund for any of the following items,
+pursuant to N.J.A.C. 5:93-8.16(a) and (c):
+
+     •     New construction of affordable housing and related development costs; eligible costs for
+           inclusionary development shall be pro-rated based on the proportion of affordable
+           housing units that are included in the development.
+     •     Extensions and/or improvements of roads and infrastructure to very-low, low- and
+           moderate-income housing sites; costs for inclusionary development shall be pro-rated
+           based on the proportion of affordable housing units that are included in the development.
+     •     Purchase and/or improvement of land to be used for very-low, low- and moderate-income
+           housing.
+     •     Market-to-affordable programs.
+
+
+June 2025                                          2
+     OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 31 of 36 Trans ID: LCV20251750402
+
+
+
+
+     •   Green building strategies designed to save money for very-low, low- and moderate-
+         income households, either for new construction not funded by other sources, or as part of
+         necessary maintenance or repair of existing units.
+     •   Rehabilitation, maintenance and repair of affordable housing units.
+     •   Repayment of municipal bonds issued to finance affordable housing activity.
+     •   Affordability assistance to very low-, low- and moderate-income buyers and renters of
+         affordable housing units to lower the cost of homeownership, subsidize closing costs, or
+         reduce the capitalized basis of rent payments.
+     •   Affordability assistance to create very low-income and low-income units.
+     •   Any other activity as specified herein.
+
+Specific Expenditures
+
+     (a) Scattered Site Program:
+
+         Due to the Borough’s increasing unmet need, any extra funds should be utilized to create
+         a scattered site program. Funds collected through fees, that are not expended on
+         administrative expenses or affordability assistance, will be allocated towards the
+         development of additional housing in partnership with an experienced nonprofit
+         developer/operator.
+
+4.       AFFORDABILITY ASSISTANCE (N.J.A.C. 5:93-8.16(c))
+
+At least 30% of collected development fees shall be used to create very low-income units and
+provide affordability assistance to very-low, low- and moderate-income households in affordable
+units included in the Fair Share Plan.
+
+Table 2 below shows the minimum amount anticipated being available for affordability
+assistance to very-low, low- and moderate-income households.
+
+             Table 2: Projected Minimum Affordability Assistance Requirement
+
+         Development fees collected through 12/31/24                       $577,632
+         Development fees projected, 2025-2035                           + $309,177
+         Interest earned, July 17, 2008 to December 31,2024              + $24,919
+         Interest projected, 2025-2035                                   + $7,051
+                                                              Total        $918,779
+         30% requirement                                            x .30 $275,634
+         Less affordability assistance expenditures through
+                                                                         - $0
+         12/31/2024
+         Projected minimum affordability assistance expenditures         = $275,634
+         Projected minimum very low-income affordability
+                                                                     ÷ 3 = $91,878
+         assistance requirement
+
+The Borough of Beachwood will dedicate a minimum of $275,634 from the affordable housing
+trust fund to render units more affordable, including at least $91,878 to render units more
+
+
+June 2025                                        3
+     OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 32 of 36 Trans ID: LCV20251750402
+
+
+
+
+affordable to households earning no more than 30 percent of median income by region. Programs
+and activities for which funds will be spent will be determined from the following list:
+
+     •   Affordability assistance to very low-, low- and moderate-income buyers and renters of
+         affordable housing units to lower the cost of homeownership, subsidize closing costs and
+         down payments, security deposits, emergency repairs funding and/or reduce the
+         capitalized basis of the rent payments.
+     •   Assistance with homeowners’ association or condominium fees and special assessments.
+     •   Affordability assistance to create very low-income and low-income units.
+     •   Costs of emergency repairs to existing affordable for-sale and rental units.
+
+5.       ADMINISTRATIVE EXPENSES (N.J.A.C. 5:93-8.16e)
+
+                      Table 3: Projected Allowed Administrative Expense
+
+         Development fees + interest collected, 7/17/08 thru
+                                                                          +       $602,551
+         12/31/24
+         Projected development fees + interest, 12/31/2024-
+                                                                          +       $316,228
+         12/31/2025
+                                                               Total      =       $918,779
+         20% maximum allowed administrative expense                     x .20     $183,756
+         Less administrative expenditures through 12/31/24                -        $30,310
+         Projected maximum allowable administrative expenses,
+                                                                          =       $153,446
+         2025 through 2035
+
+The Borough of Beachwood projects that $153,446 will be available from the affordable housing
+trust fund to be used for administrative purposes. Projected administrative expenditures, which
+are subject to the 20 percent cap, include:
+
+     •   Administrative costs to underwrite professional consulting fees relating to the preparation
+         and implementation of the Borough’s Fair Share Plan and any amendments thereto;
+     •   Professional, legal, and court fees as they relate to the implementation of the Borough’s
+         adopted and endorsed Housing Element and Fair Share Plan;
+     •   Administrative fees related to a municipally sponsored new construction program; and
+     •   Underwrite fees associated with the retention of a qualified administrative agent as may
+         be found necessary.
+
+The Borough will not expend for administrative purposes in excess of the formula in Table 3
+above.
+
+6.       EXPENDITURE SCHEDULE
+
+The Borough of Beachwood anticipates using affordable housing trust fund revenues to the
+benefit of very-low, low-, and moderate-income households, as set forth in the table below.
+
+
+
+
+June 2025                                         4
+     OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 33 of 36 Trans ID: LCV20251750402
+
+
+
+
+                 Table 4: Projected Expenditure Schedule, 2025 through 2035
+
+ PROJECTS/                      2026-      2028-      2030-      2032-      2034-
+                     2025                                                              Total
+ PROGRAMS                       2027       2029       2031       2033       2035
+Affordability
+                    $25,250    $50,500    $50,500    $50,500    $50,500    $50,499    $277,749
+Assistance
+Scattered Site                                                  $91,454    $91,454
+                       -       $91,456    $91,456    $91,454                          $457,274
+Program
+Administration     $100,000    $20,000       -          -          -       $33,446    $153,446
+Total               $125,250   $161,956   $141,956   $141,954   $141,954   $175,399   $888,469
+
+7.     SUMMARY
+
+The Borough of Beachwood intends to spend affordable housing trust fund revenues as approved
+by the Court pursuant to N.J.A.C. 5:93-8.16 and consistent with the programs described in the
+Borough’s Housing Element and Fair Share Plan.
+
+The Borough of Beachwood has a balance of $572,241 as of December 31, 2024 and anticipates
+an additional $309,177 in revenues through December 31, 2035, for a total of $888,469. The
+municipality will dedicate $457,274 towards a scatter site program, $277,749 towards
+homeowner/tenant affordability assistance, and $153,446 towards administrative costs.
+
+                               Table 5: Spending Plan Summary
+
+                    PROJECTED REVENUES from 2025 through 2035
+        Balance as of December 31,2024                    $572,241
+        1. Development fees                               + $309,177
+        2. Payments in lieu of construction               + $0
+        3. Other funds                                    + $0
+        4. Interest                                       + $7,051
+                                                TOTAL = $888,469
+                  PROJECTED EXPENDITURES from 2025 through 2035
+        Scatter Site Program                             - $457,274
+        Affordability Assistance                         - $277,749
+        Administration                                    -$153,446
+        Rehabilitation                                   -$
+                                                TOTAL = $888,469
+                                 REMAINING BALANCE = $0
+
+
+
+
+June 2025                                        5
+OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 34 of 36 Trans ID: LCV20251750402
+
+
+
+
+   License for 711 Windward Ave. and 835 Forecastle Ave.
+                                                                                             License No. GH1398
+                                 State of New Jersey
+                             Department of Human Services
+                                    Office of Licensing
+                                        LICENSE
+                                    Community Options Inc
+
+                                          16 Farber Road
+                                        Princeton, NJ 08540
+
+Having met the requirements of the New Jersey Statute, P.L. 1977, c. 448, and the regulations of this
+                               Department, is hereby licensed as a
+                        Group Home Developmental Disability
+                                       for 3 individuals
+                                                 at
+                                      711 WINDWARD AVE
+                                     BEACHWOOD, NJ 08722
+
+
+                      This License is effective from 12/31/2024 to 12/31/2025                                     OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 35 of 36 Trans ID: LCV20251750402
+                                                                                              License No. GH658
+                                 State of New Jersey
+                             Department of Human Services
+                                    Office of Licensing
+                                        LICENSE
+                                    Community Options Inc
+
+                                          16 Farber Road
+                                        Princeton, NJ 08540
+
+Having met the requirements of the New Jersey Statute, P.L. 1977, c. 448, and the regulations of this
+                               Department, is hereby licensed as a
+                        Group Home Developmental Disability
+                                       for 3 individuals
+                                                 at
+                                      835 FORECASTLE AVE
+                                     BEACHWOOD, NJ 08722
+
+
+                      This License is effective from 12/31/2024 to 12/31/2025                                     OCN-L-000330-25 06/13/2025 9:26:05 AM Pg 36 of 36 Trans ID: LCV20251750402
+

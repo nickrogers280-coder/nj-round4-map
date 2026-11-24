@@ -1,0 +1,1624 @@
+        HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 1 of 36 Trans ID: LCV2026697551
+
+
+
+  b a
+                                Community Planning                                                       Principals:
+                                Land Development and Design                                Joseph H. Burgis PP, AICP
+                                Landscape Architecture                              Edward Snieckus, Jr. PP, LLA, ASLA
+                                                                                               David Novak PP, AICP
+
+
+
+B U R G I S
+A S S O C I A T E S,   I N C.
+
+
+
+
+2026 AMENDED HOUSING ELEMENT AND FAIR SHARE PLAN
+
+BOROUGH OF MILFORD
+HUNTERDON COUNTY, NEW JERSEY
+
+
+
+
+PREPARED FOR:
+
+BOROUGH OF MILFORD JOINT PLANNING BOARD AND BOARD OF ADJUSTMENT
+BA# 4151.03
+
+
+
+
+The original document was appropriately signed and sealed on January 20, 2026 in accordance with
+Chapter 41 of Title 13 of the State Board of Professional Planners.
+
+
+
+
+                                                                            _____________________________
+                                                                                Allison J. Fahey, PP, AICP
+                                                                               Professional Planner #6406
+
+
+
+
+                                                      January 20, 2026
+
+
+                                               Adopted February 25, 2026
+
+
+                                                 Endorsed: March 16, 2026
+HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 2 of 36 Trans ID: LCV2026697551
+
+
+
+
+MEMBERS OF THE MILFORD JOINT PLANNING BOARD AND BOARD OF ADJUSTMENT
+                      Henri Schepens, Mayor, Class I
+                               Brenda O'Shea
+                              Jeffrey Livingston
+                                Regina Stem
+                             Al-Musin Parham
+                               Carol Bernotas
+                            Zachary Houghton
+                               Vacant, Class II
+                         Helen Livingston, Class III
+                             Jef Betz, Alternate
+                          Joseph David, Alternate
+                         Eduardo Breda, Alternate
+
+                          Planning Board Secretary
+                                 Sara Knies
+
+                          Planning Board Attorney
+                              Blake Width, Esq.
+
+                         Borough/Board Engineer
+                        Robert Martucci, P.E., C.M.E.
+
+                   Affordable Housing Planning Consultant
+                          Allison J. Fahey, PP, AICP
+
+                     Affordable Housing Special Counsel
+                            Jonathan E. Drill, Esq.
+
+
+
+
+                                     2
+          HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 3 of 36 Trans ID: LCV2026697551
+
+
+
+
+                                                                  TABLE OF CONTENTS
+
+EXECUTIVE SUMMARY                                                                                                                                                     4
+
+SECTION I: INTRODUCTION                                                                                                                                               6
+
+SECTION II: HOUSING ELEMENT                                                                                                                                         11
+
+SECTION III: FAIR SHARE OBLIGATION                                                                                                                                  24
+
+SECTION IV: FAIR SHARE PLAN                                                                                                                                         26
+
+APPENDIX                                                                                                                                                            29
+
+                                                                       LIST OF TABLES
+
+Table 1: 2024 Affordable Housing Region 3 Income Limits by Household Size ............................................. 6
+Table 2: Dwelling Units (1980-2023) .......................................................................................................................... 14
+Table 3: Housing Units by Tenure and Occupancy Status (2010 and 2023) .................................................. 14
+Table 4: Units in Structure (2010 and 2023)............................................................................................................. 15
+Table 5: Year Structure Built......................................................................................................................................... 15
+Table 6: Occupants per Room (2010 and 2023)..................................................................................................... 15
+Table 7: Occupied Housing Units - Equipment and Plumbing Facilities (2010 and 2023) ......................... 16
+Table 8: Gross Rent of Specified Renter-Occupied Housing Units (2023) ...................................................... 16
+Table 9: Value of Specified Owner-Occupied Housing Units (2023) ............................................................... 17
+Table 10: Population Growth (1930-2023) ................................................................................................................ 18
+Table 11: Age Characteristics (2010 and 2023) ........................................................................................................ 19
+Table 12: Average Household Size (2010 and 2023) ............................................................................................. 19
+Table 13: Household Income Distribution ................................................................................................................ 20
+Table 14: Employment Status - Population 16 & Over (2010 and 2023).......................................................... 20
+Table 15: Employed Residents Age 16 & Over, By Occupation (2010 and 2023).......................................... 21
+Table 16: Employed Residents Age 16 & Over, By Industry (2010 and 2023)................................................. 21
+Table 17: Average Covered Employment Trends (2013-2023) ........................................................................... 22
+
+
+
+
+                                                                                   3
+      HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 4 of 36 Trans ID: LCV2026697551
+
+
+
+
+EXECUTIVE SUMMARY
+
+The following 2026 Amended Fourth Round Housing Element and Fair Share Plan (Amended
+HE&FSP) of the Master Plan has been prepared for the Borough of Milford, Hunterdon County,
+New Jersey.
+
+This Amended HE&FSP is designed to outline the manner in which the Borough will address its
+affordable housing obligations. As discussed in greater detail herein, these obligations were derived
+from a variety of different sources including the Council on Affordable Housing (COAH), prior
+Court-approved Judgments of Compliance and Repose and settlement agreements with Fair Share
+Housing Center (FSHC), and most recently from Fourth Round obligation calculations provided by
+the Department of Community Affairs (DCA).
+
+Governor Murphy signed the A-4/S-50 Bill into law on March 20, 2024 after the Senate and
+Assembly adopted it. This legislation amended the Fair Housing Act by abolishing COAH and
+created a new process that involved the creation of an entity known as the Affordable Housing
+Dispute Resolution Program (the Program), which is overseen by seven retired Mount Laurel
+judges. The Program has taken the place of the trial courts and COAH regarding the approval
+process involving municipal HE&FSPs. The DCA and the Administrative Office of the Courts (AOC)
+are both also involved in assisting the Program with this process.
+
+The Amended Fair Housing Act directed the DCA to calculate the Present Need (also referred to
+as the Rehabilitation obligation) and the Prospective Need (also known as the new construction
+obligation) for Round Four based upon the standards set forth in the Fair Housing Act. The DCA
+issued its report on October 18, 2024, and made clear that the obligations generated by the report
+were advisory only and were non-binding. For Milford, the DCA Report identified a Present Need
+of three (3) and a Prospective Round Four Need of 23.
+
+Since the DCA report is non-binding, each municipality had the opportunity to study and define
+why its obligations should be different based on the standards in the Act. However, the Borough
+adopted a binding resolution on January 28, 2025 which committed to the present and prospective
+need obligations identified by DCA. The Borough’s Round Four Present Need is 3 units and Round
+Four Prospective Need is 23 units.
+
+Milford continues to remain diligent in planning for affordable units throughout the Borough in
+appropriate locations as opportunities become available, as part of the Borough’s RA-1 overlay
+zone and through implementation of the Mandatory Set-Aside Ordinance.
+
+
+
+
+                                                 4
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 5 of 36 Trans ID: LCV2026697551
+
+
+
+
+Accordingly, the remainder of this 2026 Amended HE&FSP is divided into the following sections:
+
+    Section 1: Introduction
+     The first section provides an introduction to affordable housing. It summarizes what
+     affordable housing is, offers an overview of the history of affordable housing in the state,
+     and explains the role of a housing element and fair share plan.
+
+    Section 2: Housing Element
+     Section 2 contains the Housing Element for the Borough. It offers a community overview of
+     the Borough, as well as background information regarding its population, housing, and
+     employment characteristics. It also provides projections of the Borough’s housing stock and
+     employment.
+
+       This section also satisfies the requirements regarding of a Housing Element with regard to
+       required consideration of lands most appropriate for construction, conversion or
+       rehabilitation for affordable housing as well as analysis of ordinances and other local factors
+       which advance or detract from the goal of preserving multigenerational family continuity
+       as expressed in the recommendations of the Multigenerational Family Housing Continuity
+       Commission, adopted pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c
+       273 (C.52:27D-329.20); and lastly, an analysis of consistency with the State Development
+       and Redevelopment Plan.
+
+    Section 3: Fair Share Obligation
+     Next, Section 3 provides an overview of the Borough’s fair share obligation. It includes a
+     brief history of the methodologies utilized to calculate affordable housing obligations
+     throughout the state.
+
+    Section 4: Fair Share Plan
+     Finally, Section 4 details the manner in which the Borough will address its affordable housing
+     obligation consistent with the Fair Housing Act, applicable COAH and UHAC regulations,
+     and state planning initiatives.
+
+
+
+
+                                                 5
+      HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 6 of 36 Trans ID: LCV2026697551
+
+
+
+
+SECTION I: INTRODUCTION
+The following section provides an introduction to affordable housing. It summarizes what
+affordable housing is, offers an overview of the history of affordable housing in the state, and
+explains the role of a housing element and fair share plan.
+
+A.     WHAT IS AFFORDABLE HOUSING?
+
+Affordable housing is income-restricted housing that is available for sale or for rent. Typically,
+affordable housing is restricted to very-low, low-, and moderate-income households. These
+categories are derived from median regional income limits established for the state. New Jersey is
+delineated into six different affordable housing regions. Milford is located in Region 3, which
+includes Hunterdon, Middlesex and Somerset Counties.
+
+
+
+
+           Moderate-Income             Low-Income Households             Very Low-Income
+              Households               Earn 50% of the region’s             Households
+        Earn 80% of the region’s           median income              Earn 30% of the region’s
+            median income                                                 median income
+
+Regional income limitations are updated every year, with different categories established for varying
+household sizes. The following table identifies the 2024 regional income limits by household size for
+Region 3. As shown, a three-person family with a total household income of no greater than $105,264
+could qualify for affordable housing in the Borough’s region.
+
+           Table 1: 2024 Affordable Housing Region 3 Income Limits by Household Size
+ Income Level        2 Person          3 Person           4 Person           5 Person
+ Median              $116,960          $131,580           $146,200           $157,896
+ Moderate            $93,568           $105,264           $116,960           $126,317
+ Low                 $58,480           $65,790            $73,100            $78,948
+ Very-Low            $35,088           $39,474            $43,860            $47,369
+
+One of the most common forms of affordable housing is inclusionary development, in which a certain
+percentage of units within a multifamily development are reserved for affordable housing. Affordable
+housing can be found in a variety of other forms, including but not limited to: 100% affordable
+housing developments, deed-restricted accessory apartments, alternative living arrangements such as
+special need/supportive housing or group homes, assisted living facilities, and age-restricted housing.
+
+
+
+                                                   6
+          HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 7 of 36 Trans ID: LCV2026697551
+
+
+
+
+B.          WHAT IS THE HISTORY OF AFFORDABLE HOUSING IN NEW JERSEY?
+
+                                               The history of affordable housing in New Jersey can be traced
+                                               back to 1975, when the Supreme Court first decided in So.
+          1975: Mount Laurel I                 Burlington Cty. NAACP v. Township of Mount Laurel (known as
+                                               Mount Laurel I) that every developing municipality throughout
+                                               New Jersey had an affirmative obligation to provide for its fair
+      Every developing municipality has an
+         affordable housing obligation         share of affordable housing. In a subsequent Supreme Court
+                                               decision in 1983 (known as Mount Laurel II), the Court
+                                               acknowledged that the vast majority of municipalities had not
+                                               addressed their constitutional obligation to provide affordable
+                                               housing.
+
+                                               As such, the Court refined this obligation to establish that every
+                                               municipality had an obligation, although those within the
+         1983: Mount Laurel II                 growth area of the State Development and Redevelopment Plan
+                                               (SDRP) had a greater obligation. The Court also called for the
+     Every municipality has an obligation if
+     any portion of municipality was within    state legislature to enact legislation that would save
+      the “Growth Share Area” of the State
+     Development and Redevelopment Plan
+                                               municipalities from the burden of having the courts determine
+                                               their affordable housing needs. The result of this decision was
+                                               the adoption of the Fair Housing Act in 1985, as well as the
+                                               creation of the New Jersey Council on Affordable Housing
+                                               (COAH), which became the state agency responsible for
+                                               overseeing the manner in which New Jersey’s municipalities
+                                               address their low- and moderate-income housing needs.
+        1986: Mount Laurel III
+                                               COAH proceeded to adopt regulations for the First Round
+     Every municipality has an obligation if   obligation, which covered the years 1987 to 1993. It also
+     any portion of municipality was within
+      the “Growth Share Area” of the State
+                                               established the Second Round housing-need numbers that
+     Development and Redevelopment Plan        cumulatively covered the years 1987 through 1999. Under both
+                                               the First and Second Rounds, COAH utilized what is commonly
+                                               referred to as the “fair share” methodology. COAH utilized a
+                                               different methodology, known as “growth share,” beginning with
+                                               its efforts to prepare Third Round housing-need numbers. The
+                                               Third Round substantive and procedural rules were first adopted
+        2015: Mount Laurel IV                  in 2004.
+
+
+     COAH defunct and moribund. All
+ affordable housing matters to be heard
+               by courts
+
+
+                                                             7
+      HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 8 of 36 Trans ID: LCV2026697551
+
+
+
+
+These regulations were challenged and in January 2007, the
+Appellate Division invalidated various aspects of these rules
+and remanded considerable portions of the rules to COAH with                    2017: Gap Period
+the directive to adopt revised regulations.
+                                                                            Finds that gap period (1999-2015)
+In May 2008, COAH adopted revised Third Round regulations                    generates an affordable housing
+                                                                                        obligation
+which were published and became effective on June 2, 2008.
+Coincident to this adoption, COAH proposed amendments to
+the rules they had just adopted, which subsequently went into
+effect in October 2008. These 2008 rules and regulations were
+subsequently challenged, and in an October 2010 decision, the
+Appellate Division invalidated the Growth Share methodology,
+and also indicated that COAH should adopt regulations
+                                                                          2018: Jacobson Decision
+pursuant to the Fair Share methodology utilized in Rounds One
+and Two. The Supreme Court affirmed this decision in
+                                                                           Established methodology in Mercer
+September 2013, which invalidated much of the third iteration               County for determining housing
+                                                                           obligation. Being utilized outside of
+of the Third Round regulations and sustained the invalidation             Mercer County for settlement purposes
+of growth share. As a result, the Court directed COAH to adopt
+new regulations pursuant to the methodology utilized in
+Rounds One and Two.
+
+Deadlocked with a 3-3 vote, COAH failed to adopt newly
+revised Third Round regulations in October 2014. Fair Share
+Housing Center, who was a party in both the 2010 and 2013                    2024: A-4/S-50
+cases, responded by filing a motion in aid of litigants’ rights
+with the New Jersey Supreme Court. The Court heard the New Jersey adopts new legislation which
+                                                                     overhauls the FHA. COAH is elimianted,
+motion in January 2015 and issued its ruling on March 20, 2015. and its duties are split between the DCA
+The Court ruled that COAH was effectively dysfunctional and,                      and the AOC.
+
+consequently, returned jurisdiction of affordable housing issues
+back to the trial courts where it had originally been prior to the creation of COAH in 1985.
+
+This 2015 Court decision created a process in which municipalities may file a declaratory judgment
+action seeking a declaration that their HE&FSP is constitutionally compliant and receive temporary
+immunity from affordable housing builders’ remedy lawsuits while preparing a new or revised
+HE&FSP to ensure their plan continues to affirmatively address their local housing need as may be
+adjusted by new housing-need numbers promulgated by the court or COAH.
+
+
+
+
+                                                      8
+      HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 9 of 36 Trans ID: LCV2026697551
+
+
+
+
+Subsequently, the Supreme Court ruled on January 18, 2017 that municipalities are also responsible
+for obligations accruing during the so-called “gap period,” the period of time between 1999 and
+2015. However, the Court stated that the gap obligation should be calculated as a never-before
+calculated component of Present Need, which would serve to capture Gap Period households that
+were presently in need of affordable housing as of the date of the Present Need calculation (i.e.
+that were still income eligible, were not captured as part of traditional present need, were still living
+in New Jersey and otherwise represented a Present affordable housing need).
+
+On March 20, 2024, Governor Murphy signed the A4/S50 Bill into law, which amended the FHA for
+the Fourth Round and beyond. The amendments to the FHA eliminated COAH, moved away from
+just allowing trial courts to approve municipal HE&FSPs, and created a new entity to approve the
+plans known as The Program, which consists of seven retired Mount Laurel Judges. FHA-2 also
+involved the DCA and the AOC in the process.
+
+The DCA was designated by the amended FHA as the entity responsible for calculating the state’s
+regional needs as well as each municipality’s present and prospective fair share obligations pursuant
+to the Jacobson Decision. However, the Amended FHA makes clear that these numbers are advisory
+and non-binding, and that each municipality must set its own obligation number utilizing the same
+methodology. The Program was tasked to handle any disputes regarding affordable housing
+obligations and plans, and to ultimately issue a Compliance Certification to approve a municipality’s
+HE&FSP, which would continue immunity from all exclusionary zoning lawsuits until July 30, 2035.
+
+B.      WHAT IS A HOUSING ELEMENT AND FAIR SHARE PLAN?
+
+A HE&FSP serves as the blueprint for how a municipality will address its fair share of affordable
+housing. It is designed to help a community broaden the accessibility of affordable housing.
+
+While technically a discretionary component of a
+                                                             The Municipal Land Use Law
+municipal master plan, a HE&FSP is nevertheless an
+                                                             (MLUL) is the enabling legislation
+effectively obligatory plan element. As established by for municipal land use and
+N.J.S.A. 40:55D-62.a of the Municipal Land Use Law development, planning, and
+(MLUL), a municipality must have an adopted HE&FSP in zoning for the State of New Jersey.
+order to enact its zoning ordinance. Thus, from a public
+policy perspective, a HE&FSP is an essential community
+document. Moreover, without an approved HE&FSP, a municipality may be susceptible to a builder’s
+remedy lawsuit in which a developer could file suit to have a specific piece of property rezoned to
+permit housing at higher densities than a municipality would otherwise allow, provided a certain
+percentage of units are reserved as affordable.
+
+The Fair Housing Act, as most recently amended pursuant to FHA-2, establishes the required
+components of a HE&FSP. These are summarized as follows:
+
+                                                   9
+ HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 10 of 36 Trans ID: LCV2026697551
+
+
+
+
+1. An inventory of the municipality’s housing stock by age, condition, purchase or rental value,
+   occupancy characteristics, and type, including the number of units affordable to low- and
+   moderate-income households and substandard housing capable of being rehabilitated;
+2. A projection of the municipality’s housing stock, including the probable future construction
+   of low- and moderate-income housing, for the next ten years, taking into account, but not
+   necessarily limited to, construction permits issued, approvals of applications for
+   development and probable residential development of lands;
+3. An analysis of the municipality’s demographic characteristics, including but not necessarily
+   limited to, household size, income level and age;
+4. An analysis of the existing and probable future employment characteristics of the
+   municipality;
+5. A determination of the municipality’s present and prospective fair share for low- and
+   moderate-income housing and its capacity to accommodate its present and prospective
+   housing needs, including its fair share for low- and moderate-income housing;
+6. A consideration of the lands that are most appropriate for construction of low- and
+   moderate-income housing and the existing structures most appropriate for conversion to,
+   or rehabilitation for, low- and moderate-income housing, including a consideration of lands
+   of developers who have expressed a commitment to provide low- and moderate-income
+   housing;
+7. An analysis of the extent to which municipal ordinances and other local factors advance or
+   detract from the goal of preserving multigenerational family continuity as expressed in the
+   recommendations of the Multigenerational Family Housing Continuity Commission;
+8. For a municipality located within the jurisdiction of the Highlands Water Protection and
+   Planning Council, an analysis of compliance of the housing element with the Highlands
+   Regional Master Plan of lands in the Highlands Preservation Area, and lands in the
+   Highlands Planning Area for Highlands conforming municipalities; and
+9. An analysis of consistency with the State Development and Redevelopment Plan, including
+   water, wastewater, stormwater, and multi-modal transportation based on guidance and
+   technical assistance from the State Planning Commission.
+
+
+
+
+                                             10
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 11 of 36 Trans ID: LCV2026697551
+
+
+
+
+SECTION II: HOUSING ELEMENT
+The following section provides the housing element for the Borough of Milford. It offers a
+community overview of the Borough, as well as background information regarding its population,
+housing, and employment characteristics. It also provides projections of the Borough’s housing
+stock and its employment.
+
+A. COMMUNITY OVERVIEW
+
+The Borough of Milford is located on the Delaware River in western Hunterdon County, New Jersey.
+It is bound to the north and east by Holland Township, the Delaware River to the west and
+Alexandria Township to the south. The Borough occupies an area of 1.3 square miles. The Borough
+is connected to Upper Black Eddy, Bridgeton Township, Bucks County, Pennsylvania by the
+Delaware River Joint Toll Bridge Commission's free Upper Black Eddy-Milford Bridge over the
+Delaware River.
+
+Milford is a charming river village with a distinct and quaint downtown surrounded by rural uplands
+and rolling hills. The Borough is characterized by a mix of detached single-family dwellings around
+an attractive commercial core concentrated along Bridge Street. This central business district
+extends from the intersection of County Routes 519 and 619 westerly toward the Upper Black Eddy-
+Milford Bridge over the Delaware River and is typified by its small lot development and mix of retail
+and service commercial uses.
+
+Traffic is carried through the Borough on County Route 619 (Frenchtown Road), which runs north-
+south into the center of the Borough from Alexandria Township, as well as County Route 519 (Water
+Street) which also runs north-south from the center of the Borough into Holland Township.
+Milford is a fully built-out community, with approximately 209.4 acres of remaining vacant land, the
+majority of which is environmentally constrained and/or consists of isolated lots that are too small
+to accommodate development. The Borough’s existing land uses are illustrated on the
+accompanying Existing Land Use Map.
+
+
+
+
+                                                 11
+HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 12 of 36 Trans ID: LCV2026697551
+
+
+
+
+                                                                            12
+      HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 13 of 36 Trans ID: LCV2026697551
+
+
+
+
+B. INFORMATION REGARDING DATA SOURCES
+
+The background information contained in Section 2.C entitled “Inventory of Municipal Housing
+Stock,” Section 2.D entitled “Projection of Municipal Housing Stock,” Section 2.E entitled
+“Demographic and Population Data,” and Section 2.F entitled “Employment Characteristics and
+Projections” was obtained from a variety of publicly available data sources. These are summarized
+below.
+
+The information regarding the borough’s housing unit numbers and physical characteristics comes
+from the American Community Survey (ACS). It is important to note that the ACS releases new data
+every year, in the form of period estimates, in a variety of data tables. The data used for this plan
+comes from ACS 5-year estimates which means that the figures provided are an average across 5
+separate period estimates, specifically 2019, 2020, 2021, 2022 and 2023. The ACS data, while
+valuable, can exhibit fluctuations due to several factors, including sampling errors, methodological
+changes, and the nature of period estimates. However, there are data quality filtering rules in place
+to detect tables with too many unreliable estimates and there have been changes to the weighting
+methodology which were implemented to address non-response bias.
+
+ 1.   United States Decennial Census
+ The US Census is described in Article I, Section 2 of the Constitution of the United States, which calls for an enumeration of
+ the people every ten years for the apportionment of seats in the House of Representatives. Since the time of the first Census
+ conducted in 1790, it has become the leading source of data about the nation’s people and economy. Please note that all
+ incomes reported in the Census are adjusted for inflation.
+
+2.    American Community Survey (ACS)
+ The American Community Survey is a nationwide ongoing survey conducted by the US Census Bureau. The ACS gathers
+ information previously contained only in the long form version of the decennial census, such as age, ancestry, educational
+ attainment, income, language proficiency, migration, disability, employment, and housing characteristics. It relies upon
+ random sampling to provide ongoing, monthly data collection. Please note that all incomes reported in the ACS are
+ adjusted for inflation.
+
+3.    New Jersey Department of Health
+ The New Jersey Department of Health is a governmental agency of the State of New Jersey. The department contains the
+ Office of Vital Statistics and Registry, which gathers data regarding births, deaths, marriages, domestic partnerships, and
+ civil unions.
+
+ 4.   New Jersey Department of Community Affairs (DCA)
+ The New Jersey Department of Community Affairs is a governmental agency of the State of New Jersey. Its function is to
+ provide administrative guidance, financial support, and technical assistance to local governments, community
+ development organizations, businesses, and individuals to improve the quality of life in New Jersey.
+
+ 5.   New Jersey Department of Labor and Workforce Development
+ The New Jersey Department of Labor and Workforce Development is a governmental agency of the State of New Jersey.
+ One of its roles is to collect labor market information regarding employment and wages throughout the state.
+
+
+
+
+                                                              13
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 14 of 36 Trans ID: LCV2026697551
+
+
+
+
+C. INVENTORY OF MUNICIPAL HOUSING STOCK
+
+This section of the housing element provides an inventory of the Borough’s housing stock, as
+required by the MLUL. The inventory details housing characteristics such as age, condition,
+purchase/rental value, and occupancy. It also details the number of affordable units available to
+low- and moderate-income households and the number of substandard housing units capable of
+being rehabilitated. The most recent information from the American Community Survey consists of
+five-year estimates by the Census Bureau, not actual counts and may not be directly comparable
+to census figures. For example, the 2023 five-year estimate is the average between January 2019
+and December 2023.
+
+   1. Number of Dwelling Units.     The current estimate of total housing units in Milford is 578
+      units in 2023. As shown in the table below, the Borough’s housing stock has steadily
+      increased since 1980 with an exception between 1990 and 2000.
+                              Table 2: Dwelling Units (1980-2023)
+                       Year             Dwelling Units          Change (#)         Change (%)
+                       1980                  499                    --                 --
+                       1990                  528                    29                 6%
+                      2000                   484                   -44                -8%
+                      2010*                  552                    68                14%
+                      2023*                  578                    26                 5%
+                        Sources: U.S. Census; *American Community Survey 5-Year Estimates.
+
+
+       As shown below, approximately 70 percent of housing units in Milford are owner-occupied.
+       Since 2010, the percentage of renter occupied units has remained at less than 30 percent of the
+       total. During this same period, the percentage of vacant housing units has increased from 2
+       percent to 6 percent.
+
+               Table 3: Housing Units by Tenure and Occupancy Status (2010 and 2023)
+                                                         2010                         2023
+                    Characteristics
+                                               Number           Percent      Number          Percent
+            Owner-occupied units                 370             70%           397            69%
+            Renter-occupied units                146             28%           144            25%
+            Vacant units                          13             2%             37            6%
+            Total                                529            100%           578           100%
+                       Sources: 2010 and 2023 American Community Survey 5-Year Estimates.
+
+
+
+       2.   Housing Characteristics. As shown below, single-family detached units account for
+            most of Milford’s housing stock. Two-family dwellings have meanwhile decreased from
+            over 9 percent of the housing stock in 2010 to just above 1 percent of the housing stock
+            in 2023.
+
+
+                                                         14
+ HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 15 of 36 Trans ID: LCV2026697551
+
+
+
+
+                            Table 4: Units in Structure (2010 and 2023)
+                                                  2010                      2023
+               Units in Structure
+                                            Number    Percent      Number          Percent
+          Single family, detached             351      66.4%        403             69.7%
+          Single family, attached             36       6.8%          68             11.8%
+          2                                   52       9.8%          9               1.6%
+          3 or 4                              45       8.5%          51             8.8%
+          5 to 9                              23       4.3%          32             5.5%
+          10-19                               12       2.3%          15             2.6%
+          20 or more                          10        1.9%         0              0.0%
+          Other                                0       0.0%          0              0.0%
+          Total                              529         100        578               100
+                 Sources: 2010 and 2023 American Community Survey 5-Year Estimates.
+
+
+3. Housing Age. Table 5 below shows that nearly 60% of the Borough’s housing units were
+   built prior to 1950.
+                            Table 5: Year Structure Built
+                         Year Units Built        Number           Percent
+                       2020 or Later                0               0%
+                       2010 to 2019                 0               0%
+                       2000 to 2009                 5                1%
+                       1990 to 1999                 19              3%
+                       1980 to 1989                25               4%
+                       1970 to 1979                105              18%
+                       1960 to 1969                89               15%
+                       1950 to 1959                 87              15%
+                       1940 to 1949                 41              7%
+                       1939 or earlier            207              36%
+                       Total                      578              100%
+                      Source: 2023 American Community Survey 5-Year Estimates
+
+4. Housing Conditions. An inventory of the Borough’s housing conditions is presented in the
+   following tables. Table 5 indicates the number of units considered to be overcrowded has
+   increased since 2010, but most units are 1.00 or less occupants per room.
+
+                       Table 6: Occupants per Room (2010 and 2023)
+                                                 2010                           2023
+     Occupants Per Room
+                                       Number           Percent        Number           Percent
+     1.00 or less                        516             100%           532              98%
+     1.01 to 1.50                         0               0%              9               2%
+     1.51 or more                         0               0%              0               0%
+     Total Occupied Units                516             100%            541             100%
+                 Sources: 2010 and 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+                                                 15
+HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 16 of 36 Trans ID: LCV2026697551
+
+
+
+
+  The table below presents additional detail regarding housing conditions, including the
+  presence of complete plumbing and kitchen facilities and the type of heating equipment
+  used. As shown, none of Milford’s occupied housing units lack complete kitchen facilities,
+  plumbing facilities and/or standard heating equipment.
+
+  Table 7: Occupied Housing Units - Equipment and Plumbing Facilities (2010 and 2023)
+                                                    2010                               2023
+             Facilities
+                                           Number             Percent     Number              Percent
+Kitchen:
+With Complete Facilities                    516                 100          541               100
+Lacking Complete Facilities                  0                   0            0                 0
+Plumbing:
+With Complete Facilities                    516                 100          541               100
+Lacking Complete Facilities                  0                   0            0                 0
+Heating Equipment
+Standard Heating Facilities                 505                  98          541               100
+No Fuel Used                                 11                  2            0                 0
+Total Occupied Units                        516                 100          541               100
+                  Sources: 2010 and 2023 American Community Survey 5-Year Estimates.
+
+  5.   Purchase and Rental Values. Table 8 below shows that the Borough’s median monthly
+       rent for its rental housing stock is $1,476. This figure represents a 49 percent increase
+       over the Borough’s median monthly rent of $994 in 2010 and is 14 percent lower than
+       the median monthly rent of Hunterdon County, which was $1,707 in 2023.
+
+          Table 8: Gross Rent of Specified Renter-Occupied Housing Units (2023)
+                                             2010                                  2023
+             Rent
+                                   Number            Percent            Number              Percent
+    Less than $500                   5                 4%                 17                 11.8%
+    $500 to $999                     65               47%                 3                   2.1%
+    $1,000 to $1,499                 61               45%                 55                 38.2%
+    $1,500 to $1,999                                                      41                 28.5%
+    $2,000 to $2,499                                                      25                 17.4%
+                                       6                 4%
+    $2,500 to $2,999                                                      3                   2.1%
+    $3,000 or more                                                        0                  0.0%
+    No cash rent                       9                  X               0                     X
+    Total Occupied Units
+                                      137                100%            144                100.0%
+    Paying Rent
+    Median Gross Rent                        $994                                  $1,476
+                       (x) means that the estimate is not applicable or not available.
+                  Sources: 2010 and 2023 American Community Survey 5-Year Estimates.
+
+
+  As shown below, the 2023 median value of owner-occupied units in Milford is $304,100.
+  This figure represents an 11 percent increase over the Borough’s median housing value in
+  2010 and is 64 percent lower than the County’s 2023 median housing value of $498,800.
+                                                    16
+ HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 17 of 36 Trans ID: LCV2026697551
+
+
+
+
+             Table 9: Value of Specified Owner-Occupied Housing Units (2023)
+                                             2010                              2023
+              Value
+                                    Number         Percent           Number              Percent
+     Less than $50,000                 4             1.1%                7                 1.8%
+     $50,000 to $99,999                0             0.0%               2                 0.5%
+     $100,000 to $149,999              5             1.4%               6                  1.5%
+     $150,000 to $199,999             60            16.2%               15                3.8%
+     $200,000 to $299,999             168          45.4%               162                40.8%
+     $300,000 to $499,999             121           32.7%              186                46.9%
+     $500,000 to $999,999              12            3.2%               19                4.8%
+     $1,000,000 or more                0             0.0%               0                 0.0%
+     Total                           370           100.0%             397                100.0%
+     Median Gross Value                   $273,500                            $304,100
+                 Sources: 2010 and 2023 American Community Survey 5-Year Estimates.
+
+
+6. Number of Units Affordable to Low- and Moderate-Income Households. Based on COAH’s
+   2023 regional income limits, the median household income for a three-person household
+   in COAH Region 3, Milford’s housing region comprised of Hunterdon, Middlesex and
+   Somerset Counties, is $128,610. A three-person moderate-income household, established
+   at no more than 80 percent of the median income, would have an income not exceeding
+   $102,888. A three-person low-income household, established at no more than 50 percent
+   of the median income, would have an income not exceeding $55,723.
+
+   An affordable sales price for a three-person moderate-income household earning 80
+   percent of the median income (assuming a 5% downpayment) is estimated at
+   approximately $315,789. An affordable sales price for a three-person low-income
+   household earning 50 percent of the median income is estimated at approximately
+   $200,000. These estimates are based on the UHAC affordability controls outlined in N.J.A.C.
+   5:80-26.1 et seq. Approximately 64 percent of Milford’s owner-occupied housing units are
+   valued at less than $300,000, and approximately 18.6 percent are valued at less than
+   $200,000, according to the 2015 American Community Survey.
+
+   For renter-occupied housing, an affordable monthly rent for a three-person moderate-
+   income household is estimated at approximately $1,444. An affordable monthly rent for a
+   three-person low-income household is estimated at approximately $905. According to the
+   2023 American Community Survey, approximately 52 percent of Milford’s rental units have
+   a gross rent less than $1,500, and approximately 14 percent of the rental units have a gross
+   rent less than $1,000.
+
+7. Substandard Housing Capable of Being Rehabilitated. According to the current
+   methodology for calculating regional low and moderate-income housing needs calculating
+   municipal housing obligations for housing regions and municipalities throughout New
+   Jersey, the estimated number of units in Milford that are in need of rehabilitation is 3 units.
+                                                17
+        HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 18 of 36 Trans ID: LCV2026697551
+
+
+
+
+C. PROJECTION OF MUNICIPAL HOUSING STOCK
+Affordable Housing regulations require a projection of the community’s housing stock, including
+the probable future construction of low- and moderate-income housing. This projection shall be
+based upon an assessment of data which minimally must include the number of residential
+construction permits issued, approvals of applications for residential development, and probable
+residential development of lands.
+
+According to data received from New Jersey Construction Reporter as well as the Borough, a total
+of 6 residential building permits were issued for new construction between 2014 and 2024.
+Currently, there are no approved applications for development that have not yet been issued
+building permits for the creation of new residential units. The current rate of residential
+development suggests that the Borough will experience a similar rate of residential development
+over the next decade. It is anticipated that very few new residential units will be added to the
+Borough’s housing stock over the next decade.
+
+D. DEMOGRAPHIC ANALYSIS
+The COAH regulations require that a Housing Element provide an analysis of the community's
+demographic characteristics, including an assessment of population size, rate of population growth,
+age characteristics, income levels, and household size. Each of these items is described in this
+section of the report.
+
+   1.    Population Size. As shown in the below, the Borough’s population grew at a relatively
+         steady rate between 1930 and 1980. In the 1990s and 2000s, Milford’s population decreased
+         steadily at six to seven percent most likely due to the transfer of ownership and subsequent
+         closure of one of the Borough’s larger employers, Curtis Papers, Inc. From 2000 through
+         2023, the Borough’s population has continued to grow.
+
+                                Table 10: Population Growth (1930-2023)
+                 Year              Population                Change ( # )             Change (%)
+                 1930                 933                         --                      --
+                1940                  933                         0                     0.0%
+                 1950                1,012                        79                    8.5%
+                 1960                1,114                       102                    10.1%
+                 1970                1,230                       116                    10.4%
+                 1980                1,368                       138                    11.2%
+                 1990                1,273                      -95                     -6.9%
+                2000                 1,195                      -78                     -6.1%
+                 2010                1,233                       38                     3.2%
+                2023*                1,306                        73                    5.9%
+                     Sources: U.S. Census; 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+                                                      18
+ HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 19 of 36 Trans ID: LCV2026697551
+
+
+
+
+2. Age Characteristics. The Borough’s age characteristics are presented in the table below.
+   The data indicate somewhat of an aging community. The largest population increase
+   between 2010 and 2023 was in adults 75 to 84. With that said, the second largest increase
+   was for children under 5. The largest population decline between 2010 and 2023 occurred
+   in adults aged 55-59 (a decrease of 67%). From 2010 to 2023, there was an increase within
+   the young family cohort of ages 25-34 (an increase of 72%). The median age of Milford
+   residents decreased from 44.1 years in 2010 to 43.1 years in 2023.
+
+                          Table 11: Age Characteristics (2010 and 2023)
+                                            2010                         2023
+                    Age
+                                   Number          Percent     Number           Percent
+           Under 5                    41             3.5%         98               8%
+           5-9                       52              4.4%         82               6%
+           10-14                     89              7.5%         45               3%
+           15-19                     85              7.2%         70               5%
+           20-24                     84              7.1%         55              4%
+           25-34                     94              8.0%        162              12%
+           35-44                     170            14.4%        182              14%
+           45-54                    204             17.3%        172              13%
+           55-59                     87              7.4%         29               2%
+           60--64                    93              7.9%        121               9%
+           65-74                     115             9.7%        159              12%
+           75-84                     45              3.8%        122               9%
+           85+                       22              1.9%          9               1%
+           Total                    1,181          100.0%       1,306            100%
+           Median Age                       44.1                         43.1
+               Sources: U.S. Census; 2023 American Community Survey 5-Year Estimates.
+
+3. Average Household Size. Milford’s average household size decreased from 2.55 in 2000 to
+   2.36 in 2010 and then increased to 2.40 in 2023.
+
+                     Table 12: Average Household Size (2010 and 2023)
+                                Total         Number of             Average
+             Year
+                             Population       Households         Household Size
+             2000               1,195             469                 2.55
+             2010               1,233             520                 2.36
+             2023                1,306                   541                    2.40
+               Sources: U.S. Census; 2023 American Community Survey 5-Year Estimates.
+
+
+4. Household Income. Detailed household income figures are shown in the table below.
+   Between 2010 and 2023, the Borough’s median household income increased by 16 percent,
+   from $75,948 in 2010 to $88,295 in 2023. The Borough’s 2023 median household income
+   was approximately 35.6 percent lower than the median household income of Hunterdon
+   County as a whole, which was $137,275 in 2023.
+                                                   19
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 20 of 36 Trans ID: LCV2026697551
+
+
+
+
+                               Table 13: Household Income Distribution
+                                                2010                         2023
+                 Income Category
+                                          Number    Percent            Number     Percent
+              Less than $10,000              12        2%                 9         1.7%
+              $10,000 to $14,999             28        5%                 23       4.3%
+              $15,000 to $24,999             41        8%                 6         1.1%
+              $25,000 to $34,999             11        2%                 37        6.8%
+              $35,000 to $49,999             57       11%                 48        8.9%
+              $50,000 to $74,999             98       19%                117       21.6%
+              $75,000 to $99,999            134       26%                 59       10.9%
+              $100,000 to $149,999          111       22%                142       26.2%
+              $150,000 to $199,999          24         5%                 53        9.8%
+              $200,000 or more                0        0%                 47        8.7%
+              Total                         516      100%                541      100.0%
+              Median Income                       $75,948                     $88,295
+                    Sources: U.S. Census; 2023 American Community Survey 5-Year Estimates.
+
+
+E. EMPLOYMENT ANALYSIS
+The COAH regulations require that the Housing Element include an analysis of the existing and
+probable future employment characteristics of the community. The following tables present
+information on historic trends, employment characteristics, occupational patterns, and related data.
+
+   1. Employment Status. The table below provides information on employment status in
+      Milford for the segment of the population 16 and over. As shown, Milford’s population age
+      16 and over has decreased only slightly from 711 in 2010 to 673 in 2023 while the
+      unemployment rate for Milford’s civilian labor increased slightly during this same timeframe.
+      The 2023 unemployment rate of 4.5 percent is higher than Hunterdon County’s 2023
+      unemployment rate of 2.2 percent.
+
+                Table 14: Employment Status - Population 16 & Over (2010 and 2023)
+                                                  2010                             2023
+           Employment Status                Number    Percent            Number           Percent
+           In labor force                     711      72.6%               673             62.9%
+           Civilian labor force              705       71.9%               673             62.9%
+           Employed                          667       68.1%               625            58.4%
+           Unemployed                         38       3.9%                 48             4.5%
+           % of civilian labor force          --       5.4%                 --              7.1%
+           Armed Forces                        6       0.6%                 0              0.0%
+           Not in labor force                269       27.4%               397             37.1%
+           Total Population 16 & Over        980      100.0%              1,070           100.0%
+                    Sources: U.S. Census; 2023 American Community Survey 5-Year Estimates.
+
+
+                                                     20
+    HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 21 of 36 Trans ID: LCV2026697551
+
+
+
+
+  2. Employment Characteristics of Employed Residents. The following two tables detail
+     employment by occupation and employment by industry within the Borough. As shown in
+     Table 15, more than 40 percent of Milford residents are employed in the management,
+     business, science, arts, and sales and office occupations sectors which were also the sector
+     group with the largest employment growth of more than 45% among Milford residents
+     from 2010 to 2023. The occupation sectors that have experienced the greatest declines
+     among Milford residents since 2010 are natural resources, construction, and maintenance
+     as well as sales and office occupations. A quarter of the jobs within the Borough are within
+     the Educational, health and social services industries. The next greatest percentage is 16%
+     within retail trade. The industries that have experienced the greatest declines among Milford
+     residents since 2010 are agriculture, forestry, fishing and hunting and mining.
+
+            Table 15: Employed Residents Age 16 & Over, By Occupation (2010 and 2023)
+                                                                        2010                       2023
+                      Occupation
+                                                             Number            Percent       Number     Percent
+ Management, business, science, & arts occupations             197              32.4          262        42.7
+ Service occupations                                           63               10.4           74         12.1
+ Sales & office occupations                                    178              29.3           183       29.9
+ Natural resources, construction, & maintenance
+                                                                   79           13.0               51        8.3
+ occupations
+ Production, transportation, & material moving
+                                                                   91            15                43        7.0
+ occupations
+ Total                                                            608           100              613         100
+                      Sources: U.S. Census; 2023 American Community Survey 5-Year Estimates.
+
+
+              Table 16: Employed Residents Age 16 & Over, By Industry (2010 and 2023)
+                                                  2010                           2023
+                Industry                                                                                Change (%)
+                                            Number     Percent          Number           Percent
+Agriculture, forestry, fishing, hunting &                                                                -33.33%
+                                               9            1.5            6               1.0
+mining
+Construction                                  54             8.9          44              7.2            -18.52%
+Manufacturing                                 107           17.6          41              6.7            -61.68%
+Wholesale trade                                8             1.3          23              3.8             187.5%
+Retail trade                                  63            10.4          96              15.7           52.38%
+Transportation and warehousing, &                                                                        -16.67%
+                                               30           4.9           25               4.1
+utilities
+Information                                    21           3.5           22               3.6            4.76%
+Finance, insurance & real estate               51           8.4           45               7.3           -11.76%
+Professional, scientific, management,                                                                    38.98%
+                                               59           9.7           82              13.4
+administrative, & waste management
+Education, health care, social svcs.          120           19.7          114             18.6             -5%
+Arts, entertainment, recreation,                                                                         14.29%
+                                               35           5.8           40               6.5
+accommodation, & food services
+
+
+
+                                                       21
+    HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 22 of 36 Trans ID: LCV2026697551
+
+
+
+
+                                                 2010                           2023
+               Industry                                                                           Change (%)
+                                           Number     Percent          Number          Percent
+Other services, except public                                                                      72.22%
+                                               18          3.0           31                 5.1
+administration
+Public administration                           33         5.4          44              7.2        33.33%
+Total                                          608         100          613             100
+                     Sources: U.S. Census; 2023 American Community Survey 5-Year Estimates.
+
+  3. Employment Projections. A projection of the Borough’s probable future employment
+     characteristics is based on an assessment of historic employment trends, the number of
+     non-residential construction permits issued, approvals of applications for non-residential
+     development, and probable non-residential development of lands. Each of these items are
+     identified and outlined below.
+
+       a. Historic Employment Trends. The table below provides data on Milford’s average
+          annual employment covered by unemployment insurance over the past ten years. As
+          shown below, the number jobs in Milford has steadily declined every year for the past
+          decade except for 2021 and 2023. Understandably, the largest decline in employment
+          was at the beginning of COVID pandemic followed by an increase of 12% in 2021.
+          Another slight decrease in 2022 was reversed in 2023.
+
+                     Table 17: Average Covered Employment Trends (2013-2023)
+                                                          Change in
+                      Year        Number of Jobs                              Percent Change
+                                                        Number of Jobs
+                     2013                913                  -                         -
+
+                     2014                888                     -25               -2.8%
+
+                     2015                834                     -54               -6.5%
+
+                     2016                827                     -7                -0.8%
+
+                     2017                821                     -6                -0.7%
+
+                     2018                774                     -47               -6.1%
+
+                     2019                737                     -37               -5.0%
+
+                     2020                684                     -53               -7.7%
+
+                     2021                785                     101               12.9%
+
+                     2022                767                     -18               -2.3%
+
+                     2023                808                     41                5.1%
+                          Sources: NJ Department of Labor and Workforce Development.
+
+
+
+
+                                                      22
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 23 of 36 Trans ID: LCV2026697551
+
+
+
+
+        b. Probable Non-Residential Development of Lands. The Borough of Milford has
+           experienced a negligible level of non-residential growth over the past ten years. Given
+           the weak office and retail market and limited developable land within Milford as well as
+           lack of sewer and water capacity, the Borough anticipates very little non-residential
+           growth over the next ten-year period if any at all.
+
+        c. Probable Future Employment Characteristics. As previously stated, employment in the
+           Borough has declined all but two years in the past decade. Assuming this trend
+           continues and recognizing the fully developed character of Milford’s non-residentially
+           zoned lands, it appears unlikely that Milford will experience any significant increases in
+           employment over the next decade.
+
+E. Consideration of Land appropriate for Affordable Housing
+
+As part of this Plan, the Borough has considered land that is appropriate for the construction of
+low- and moderate-income housing. The Borough identified the Curtis Paper Mill Redevelopment
+Area as the most appropriate land in the Borough to fulfill it’s Fourth Round obligation. The
+Borough took the necessary steps to amend this redevelopment area to allow for additional
+housing construction. The Borough will continue to work with developers in the future who express
+an interest in the construction of additional housing within the Borough to ensure that the required
+setaside of affordable units is realized.
+
+F. Analysis of Impact to Multigenerational Housing
+
+The Amended Fair Housing Act requires an analysis of the extent to which municipal ordinances
+and other local factors advance or detract from the goal of preserving multigenerational family
+continuity as expressed in the recommendations of the Multigenerational Family Housing
+Continuity Commission, adopted pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021,
+c. 273 (C.52:27D-329.20). The Commission has the primary goal of enabling senior citizens to reside
+at the homes of their extended families, thereby preserving and enhancing multigenerational family
+continuity. A review of the Borough’s ordinance indicates that there are no ordinances that would
+create a detraction from meeting the Commission’s goal. The Borough defines a family that is
+permitted to live in a single-family dwelling in such a way that a senior citizen may live in that single
+family dwelling unit with their extended family which is a permitted use in the single-family
+residential zoning districts. The Milford ordinances advance the Commission’s goal.
+
+G. Consistency with State Development and Redevelopment Plan
+
+The Fourth Round Housing Element and Fair Share Plan is consistent with the 2001 State
+Development and Redevelopment Plan (SDRP) and the proposed SDRP that is currently in the cross
+acceptance process as the mechanisms presented within the Fair Share Plan provide a realistic
+opportunity for the construction of affordable housing should the infrastructure come to fruition.
+                                                   23
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 24 of 36 Trans ID: LCV2026697551
+
+
+
+
+SECTION III: FAIR SHARE OBLIGATION
+The following section provides an overview of the Borough’s fair share obligation. It includes a brief
+overview of the methodology utilized to calculate affordable housing obligations throughout the
+state.
+
+
+    A. SUMMARY OF FAIR SHARE OBLIGATION
+As previously stated, the Amended Fair Housing Act (FHA) directed DCA to report the Present
+Need (also referred to as the Rehabilitation obligation) and the Prospective Need for the Fourth
+Round based upon the standards set forth in the Amended FHA. The DCA issued its report on
+October 18, 2024, and made clear that the report was advisory only. For Milford, the DCA Report
+identified a Present Need of 3 and a Prospective Round Four Need of 23. The Borough adopted a
+binding resolution on January 28, 2025 which committed to the present and prospective need
+obligations identified by DCA. The obligations are as follows:
+
+                           Rehabilitation Obligation:              3
+                           Prospective Need Obligation:            23
+
+    B. DURATIONAL ADJUSTMENT
+Since the Borough is lacking in adequate water and sewer infrastructure, it is entitled to a durational
+adjustment which is a mechanism, in accordance with N.J.A.C. 5:93-4.3, to allow a municipality that
+has limited sewer or water infrastructure or capacity to defer satisfaction of its affordable housing
+obligation until such infrastructure/capacity becomes available. The following is the basis for the
+Borough’s durational adjustment of its affordable housing obligation.
+
+Existing Sewer Capacity, Demand and Infrastructure
+The Borough of Milford provides sewer services for both residents of the Borough of Milford as
+well as the Township of Holland. The Borough and the Township entered into a certain agreement
+entitled “Agreement Providing for Conveyance, Treatment and Disposal by the Borough of Milford
+of Sanitary Sewage Emanating from the Township of Holland,” dated November 6, 1967
+(hereinafter referred to as the “1967 Agreement”). Subsequent to the 1967 Agreement, as a result
+of litigation between the Township and the Borough, the Borough and Township entered into an
+agreement entitled “Settlement Agreement Between Holland Township and Milford Borough,”
+dated October 3, 1986, hereinafter referred to as the “1986 Agreement”. The 1967 and 1986
+Agreements were subsequently consolidated into a single agreement, on April 3rd of 2012, for the
+purpose of both updating operational parameters and removing obsolete provisions (the “2012
+Agreement”).
+
+Under the current New Jersey Department of Environmental Protection (“NJDEP”) “Capacity
+Assurance Program” (“CAP”) rules, the Borough is allowed to connect ninety-five percent (95%) of
+its flows before the Borough would be required to formally introduce a CAP (Capacity Assurance
+Plan) to the State. Based upon the 95% threshold, and the Borough currently having a 0.101MGD
+                                                  24
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 25 of 36 Trans ID: LCV2026697551
+
+
+
+
+sewer capacity available, the Borough’s current operational available capacity would be not more
+than .096MGD available. The available sewer capacity is determined by use of a “running average”
+of the three (3) highest reported flows for a given year plus any committed flows by either
+application or NJDEP permit.
+
+The sewer required for the Curtis Paper Mill Redevelopment, at build out capacity, during the Third
+Round was deemed sufficient. However, there are no sewer lines servicing the property. Sewer
+service area (SSA) mapping published by the New Jersey Department of Environmental Protection
+(“DEP”) and Hunterdon County’s 2012 Future Wastewater Service Map indicate that the Milford Mill
+facility commonly referred to as the “Curtis Paper Site”, situate upon two parcels, Block 19, Lot 51
+and Block 13, Lot 5.01, is located within the Upper Delaware Water Quality Management Plan SSA
+map boundary and is reserved for the future expansion of public sewer.
+
+The construction of sewer service lines from the Borough’s current sewer lines to the Curtis Paper
+Site would require traversing an area outside the SSA in order to expand public sewer infrastructure
+to the Curtis Paper Site. The construction of sewer service lines would require a Treatment Works
+Approval for the lines and may require consultation with other state programs depending upon
+the final proposed path of the infrastructure. There are critical environmental constraints to
+providing sewer service to the area such as the location of the C1 stream leading up from the
+Delaware River, in addition to the steep slopes in the northern section of the site, and the
+environmentally sensitive habitat and riparian zone areas. While these constraints impose a
+difficulty, none are not insurmountable. Any potential development at the Curtis Paper Mill Site,
+which seeks an expansion of the SSA, will be subject to NJDEP’s Water Quality Management Plan
+SSA amendment regulatory processes, timeframes and permitting fees which would necessitate
+the durational adjustment.
+
+For the foregoing reasons, there is insufficient sewer infrastructure at this time to provide sewer
+service to the Curtis Paper Mill Redevelopment. See Appendix A-1 for further detail.
+
+
+
+
+                                                25
+      HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 26 of 36 Trans ID: LCV2026697551
+
+
+
+
+SECTION IV: FAIR SHARE PLAN
+The following Fair Share Plan outlines the components and mechanisms the Borough will utilize to
+address its affordable housing obligations.
+
+A.      PLAN SUMMARY
+The Fair Share Plan identifies the manner in which the Borough’s fair share affordable housing
+obligations are to be addressed. As detailed herein, the Housing Element and Fair Share Plan can
+accommodate the entirety of the community’s affordable housing obligation through 2035 in a
+manner that affirmatively addresses affordable housing need, while at the same time addressing
+planning concerns and maintaining the overall character of the community.
+
+B.      PLAN COMPONENTS
+
+     1. Rehabilitation Obligation. Rehabilitation obligations do not need to be fully satisfied until
+        2035. The Borough intends to satisfy its 3-unit obligation through participation in the
+        Hunterdon County Rehabilitation Program and will provide a rehabilitation program with
+        distribution of funds from the Affordable Housing Trust Fund in the event that there is an
+        inquiry from an eligible rental as a result of its Affirmative Marketing Plan.
+
+     2. Prospective Need Obligation. The Borough has a Prospective Need obligation of 23 units.
+        The Borough cannot satisfy this obligation through new residential development at this time
+        due to the unavailability of sewer and water infrastructure and capacity. The Third Round
+        obligation was subject to a durational adjustment in accordance with N.J.A.C. 5:93-4.3 and
+        was addressed by way of 43 affordable credits from the Curtis Paper Mill Redevelopment
+        Area once new water and/or sewer capacity becomes available. In similar fashion, the
+        Fourth Round obligation is also subject to a durational adjustment and will be addressed
+        by way of 23 additional affordable credits from the Curtis Paper Mill Redevelopment Area.
+
+        Pursuant to COAH’s second round rules regarding the durational adjustment, the Borough
+        shall reserve and set aside new water and/or sewer capacity, when it becomes available, for
+        low- and moderate-income housing, on a priority basis for these mechanisms. Municipal
+        officials shall endorse all applications for the sites to the New Jersey Department of
+        Environmental Protection (NJDEP) or its agent to provide water and/or sewer capacity. The
+        requirements included in N.J.A.C. 5:93-4.3(c)3 and 4 related to inclusion in a fair share plan
+        when the DEP or its designated agent approves a proposal to provide water and/or sewer
+        to a site other than those designated for the development of low and moderate income
+        housing in the housing element are hereby waived for sites other than those designated in
+        the Settlement Agreement in accordance with N.J.A.C. 5:93-4.3(c)4, which permits waiver
+        of such requirements when a municipality has a plan that will provide water and/or sewer
+        to sufficient sites to address the municipal housing obligation.
+
+
+                                                 26
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 27 of 36 Trans ID: LCV2026697551
+
+
+
+
+        Redevelopment Area – 1 (RA-1) Overlay Zone. The Borough proposes to adopt a second
+        amendment to the Curtis Paper Mill Redevelopment Plan to adjust the regulations within
+        Redevelopment Area – 1 Overlay Zone. The Redevelopment Area, commonly known as the
+        Curtis Paper site, is identified by municipal tax records as Block 19 Lot 51 and Block 13 Lots
+        5.01 and 8. It is approximately 73 acres in size.
+
+        Subject to a durational adjustment and the availability of new water and/or sewer capacity
+        already discussed, the redevelopment area is available, approvable, developable, and
+        suitable and meets the criteria and general requirements for the development of affordable
+        housing. The site is free of encumbrance. With the adoption of the amendment, the site
+        may be developed for low- and moderate-income housing in a manner consistent with the
+        rules and regulations of all agencies with jurisdiction over the site. The Borough shall reserve
+        and set aside new water and/or sewer capacity, when it becomes available for low- and
+        moderate-income housing, on a priority basis. The site is suitable in that it is adjacent to
+        compatible land uses such as single-family residential and a medical center facility. The site
+        also has appropriate access along Frenchtown Road. Lastly, the site is consistent with the
+        environmental policies delineated in N.J.A.C. 5:93-4. There is the presence of some
+        environmental constraints in certain portions of the area given its proximity to the Delaware
+        River, but not to the extent that would preclude the development for low- and moderate-
+        income housing in other portions of the area.
+
+        The amended overlay zone for the redevelopment area will create a realistic opportunity
+        for the development of affordable housing to address the 23 units of the Fourth Round
+        Obligation in the following arrangement. The redevelopment plan amendment allows for
+        two additional For Sale Townhouse buildings, each containing 8 units. One of these
+        Townhouse buildings will accommodate 5 special needs units. The redevelopment plan
+        amendment also allows for two additional 3-story Rental Apartment buildings with 12 units
+        per floor totaling 36 units per building. At a 20 percent affordable set aside for both the for
+        sale as well as for rent developments and considering one credit and one bonus credit for
+        each special needs unit, the total number of affordable housing units created by this
+        redevelopment plan amendment is 28 units which is a surplus of 5 units above the
+        obligation of 23 units.
+
+   Amended Redevelopment Plan                                    # of Buildings Total Units       Set Aside       Actual Rounded
+              For Sale Townhouse Building (8 units per building)                    11               20%            2.2     3
+                                                                       2
+                                 Special Needs Units (5 units)                       5        1:1 bonus credits     10      10
+               Rental Apartment Building (36 units per building)       2            72               20%           14.4     15
+                                                           Total       4            88                             26.6     28
+
+                           Fourth Round Affordable Units/Credits                                                           28
+
+
+Mandatory Set-Aside Ordinance. In addition, the Borough created a Borough-wide Mandatory Set-
+Aside Ordinance as part of its 2019 HE&FSP and Third Round JOR to ensure that any new multi-
+
+                                                              27
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 28 of 36 Trans ID: LCV2026697551
+
+
+
+
+family residential development in Milford will provide its fair share of affordable units and assist
+with the Borough’s continuous efforts to address its affordable housing obligation. The ordinance
+requires that any site that benefits from a rezoning, variance, or redevelopment plan approved by
+the Borough which results in multi-family residential development containing five or more new
+dwelling units shall provide an affordable housing set-aside at a rate of 15 percent, where affordable
+units will be for rent, or 20 percent, where affordable units will be for sale.
+
+Although the Borough will continue to implement its Mandatory Set-Aside Ordinance through the
+Fourth Round and credit any new affordable units created thereunder, the Borough has amended
+said ordinance to require that any site that is developed with five or more new multi-family or
+single-family attached dwelling units shall provide an affordable housing set-aside at a rate of 20
+percent, regardless of tenure. This amended ordinance is intended to capture additional affordable
+housing opportunities to help address Milford’s obligation.
+
+Development Fee Ordinance: Lastly, the Borough shall continue to impose development fees on
+new development, as set forth in the Borough’s adopted development fee ordinance. As stated
+therein, residential development fees of 1.5 percent of the equalized assessed value shall be
+collected on all residential development involving new buildings or when an existing building
+undergoes a change to a more intense use, is demolished and replaced, or is expanded, if the
+expansion is not otherwise exempt from the development fee requirement. In addition, non-
+residential development fees of 2.5 percent of the equalized assessed value shall be collected on
+all non-residential developments, with the exception of those types of developments specifically
+exempted pursuant to the Statewide Non-Residential Development Fee Act. The funds generated
+by the collection of development fees will be applied directly toward implementation of this plan.
+
+
+
+
+                                                 28
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 29 of 36 Trans ID: LCV2026697551
+
+
+
+
+APPENDIX
+A–1 Sewer and Water Capacity Analysis for Additional Units Required in Fourth Round
+
+
+
+
+                                                29
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 30 of 36 Trans ID: LCV2026697551
+
+
+
+                                                                            Borough of Milford
+                                                                                 P.O. Box 507
+                                                                           Milford N.J. 08848
+                                                                          Phone 908-995-4323
+                                                         Email : municipalclerk@milfordnj.gov
+                                                                  Website: www.milfordnj.gov
+
+
+
+                CERTIFICATION OF ROBERT MARTUCCI, P.E.
+                          ON BEHALF OF THE
+                        BOROUGH OF MILFORD,
+                   HUNTERDON COUNTY, NEW JERSEY
+
+                       In the Matter of the Declaratory Judgment
+                                  Borough of Milford
+                             Docket No.: HNT-L-00066-25
+
+
+
+       I, Robert Martucci, of full age, hereby certifies as follows:
+
+       1.       I am a New Jersey licensed professional engineer and have been since 2009. I have
+
+been the municipal engineer for the Borough of Milford since 2011. I am familiar with this matter,
+
+and the statements made herein are based on my first-hand knowledge of same.
+
+       2.       During my tenure as the Borough’s Engineer, I am thoroughly familiar with the
+
+various factors pertaining to both the Borough’s water and sewer operations, and their respective
+
+infrastructures and operational capacities.     A myriad of factors including but not limited to
+
+environmental constraints such as floodplains, steep topography, C-1 waterways, endangered species,
+
+as well as the existence of detected PFAS contaminants have all limited the Borough’s ability to move
+
+forward with obtaining additional capacities in either the Borough’s water or sewer systems.
+
+       3.       The Borough’s attempts to both address the remediation of the detected PFAS
+
+contaminants and to construct a new public well, to provide for increased water capacity, have been
+
+met with conflicting federal and State governmental standards, and permitting and regulatory
+
+requirements.   Furthermore, the Borough’s Well Number 5 is currently under “violation” for
+
+secondary contaminants necessitating a new well.
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 31 of 36 Trans ID: LCV2026697551
+
+
+
+
+       4.      By way of background, the Borough of Milford is a public water system that currently
+
+has two municipal (public) wells in operation. The water system currently operates under PWSID No.
+
+NJ1020001 as regulated by the New Jersey Department of Environmental Protection (NJDEP).
+
+Today, the Borough has an allocated capacity of 10 million gallons per month (“MGM”) in accordance
+
+with its Water Allocation Permit WAP080001 issued by New Jersey Department of Environmental
+
+Protection Bureau of Water Allocation.
+
+       5.      The exact allocations and capacity for the Borough, as of March 1, 2024, the latest
+
+calculation, may be found at:
+
+       https://www.nj.gov/cgi-bin/dep/watersupply/pwsdetail.pl?id=1020001
+
+which is repeated and set forth below:
+
+
+                                MILFORD WATER DEPARTMENT
+
+PWSID:        1020001
+County:       Hunterdon
+Last Updated: 03/01/2024
+
+
+Water Supply Firm Capacity: 0.180 MGD
+
+Available Water Supply Limits
+
+                      Allocation Contract           Total
+Monthly Limit         10.000 MGM N/A MGM            10.000 MGM
+Yearly Limit          85.100 MGY N/A MGY            85.100 MGY
+
+Water Demand
+
+                      Current Peak       Date      Committed Peak    Total Peak
+Daily Demand          0.128 MGD          05/2021   0.000 MGD         0.128 MGD
+Monthly Demand        3.980 MGM          05/2021   0.000 MGM         3.980 MGM
+Yearly Demand         41.805 MGY         2020      0.000 MGY         41.805 MGY
+
+Water Supply Deficit or Surplus
+
+Firm Capacity        Water Allocation Permit
+
+0.052 MGD            6.020 MGM
+                     43.295 MGY
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 32 of 36 Trans ID: LCV2026697551
+
+
+
+       6.       I have reviewed the Borough of Milford’s documentation and pleadings pertaining to
+
+its Fourth Round Affordable Housing compliance obligations as developed by the Borough’s
+
+Professional Planner, Allison Fahey, P.P., which are set forth as follows:
+
+
+                           COMBINED 3RD ROUND AND 4TH ROUND
+
+                                    Buildings & Unit Breakdown
+
+                                 No. of
+                                                        No.        No. of       No. of
+                                 Units      No. of                                          Set Aside
+ Building Type     Bedrooms                              of      Affordable   Affordable
+                                  Per      Buildings                                       Percentage
+                                                        Units    3rd Round    4th Round
+                                Building
+
+  Townhouse           3BR           8           8         64         10           13           20%
+
+    Assisted
+                      1BR         110           1        110         11           0            10%
+     Living
+
+  Multifamily         1BR          12                     48         11
+
+
+  Multifamily         2BR          16           4         64         11           15           20%
+
+
+  Multifamily         3BR           6                     24
+
+                                             Total
+                                             Units       310         43           28
+
+                                                        Total Affordable          71
+
+
+
+       7.       On a five-year average, water usage for the Borough has ranged from 3,329,650 gallons
+
+per month to 5,666,450 gallons per month. The five-year average usage per month is approximately
+
+3,900,000 gallons per month based on the well records maintained by the Borough and analyzed by
+
+the State of New Jersey.
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 33 of 36 Trans ID: LCV2026697551
+
+
+
+        8.      The New Jersey Department of Environmental Protection, Bureau of Water Systems
+
+Engineering (the “Bureau”), has invoked a “FIRM Capacity” requirement for each public water system
+
+wherein the Bureau compares the daily average water usage from the Borough’s water system’s peak
+
+month over a five-year period against the well allocation total taking the highest producing well out
+
+of service. The calculated difference either results in a surplus of daily flow that could be utilized for
+
+any future connections or a deficit that would restrict the public water system from any new
+
+connection to the system or any additional water usage requirement resulting from an existing
+
+property’s change in use necessitating additional water demand.
+
+        9.      Currently the Borough of Milford has a deficit in its FIRM Capacity in the amount of
+
+-032 million gallons per day. This information is provided by the “NJDEP Division of Water Supply
+
+and Geoscience Public Water System Deficit/Surplus” form obtained from the NJDEP website
+
+attached hereto as Exhibit A.
+
+        10.     Accordingly, no new water main extension or connection permits will be issued by the
+
+Bureau. Similarly, the Bureau will not issue any new permit to enhance FIRM capacity for changes in
+
+demand sought by an existing water user.
+
+        11.     Based on the information above as provided by the Planner Fahey pertaining to 3rd
+
+Round and 4th Round affordable housing obligations, and in accordance with Table 5.1 of the New
+
+Jersey Administrative Code, Title 5, Chapter 31 “Residential Site Improvement Standards”, the
+
+following are my calculations regarding the additional demands made to the Borough’s water system:
+        HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 34 of 36 Trans ID: LCV2026697551
+
+
+
+
+                           COMBINED 3RD ROUND AND 4TH ROUND
+
+                                      Water Demand Calculation
+                              Per Building Type & Number of Bedrooms
+
+                              No. of
+                                                                  No. of         No. of
+  Building                    Units      No. of      No. of                                   Gallons Per
+                Bedrooms                                        Affordable     Affordable
+   Type                        Per      Buildings    Units                                   Day (“GPD”)
+                                                                3rd Round      4th Round
+                             Building
+
+ Townhouse         3BR           8           8         64           10             13            19,200
+
+   Assisted
+                   1BR          110          1         110          11             0             11,100
+    Living
+
+ Multifamily       1BR          12                     48           11                            4,800
+
+
+ Multifamily        2BR         16           4         64           11             15            12,800
+
+
+ Multifamily       3BR           6                     24                                         7,200
+
+                                        Total
+                                        Units          310          43             28
+
+
+
+         In addition to the above, the peak daily flows shall be computed by applying a peaking factor
+
+of 3.
+
+         Total Daily Demand                             =       55,100 GPD or .06 MGD
+
+         Total Daily Demand (Factor 3x)                 =       165,300 GPD or 0.17 MGD
+
+
+
+         12.    Based on the above information, the Borough water system does not have a sufficient
+
+surplus to meet the demands for the affordable housing requirements. As of the date of the adoption
+
+of this certification, the Milford Borough water system has a calculated available daily water gallonage
+
+of not more than 34,000 gallons, per day.
+     HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 35 of 36 Trans ID: LCV2026697551
+
+
+
+
+        13.     In addition to the issues identified in Paragraph 12 herein, in order to realize all of new
+
+housing units that would be necessary in order to satisfy the affordable housing obligation, the
+
+Borough would need a new well and a new main line extension. The Borough would also need either
+
+a new septic plant or a substantial upgrade to the existing plant as well as new secondary clarifiers,
+
+installation of Ultra-Violet (UV) treatment, and the design and construction of a new outfall location.
+
+        14.     The Borough if, and when, the Borough’s current water and sewer limitations are
+
+capable of expansion, shall ensure that said water and sewer capacities will be applied towards any
+
+affordable housing units under the Fourth Round’s durational adjustment as part of the Borough’s
+
+compliance plan pursuant to N.J.A.C. 5:93-4.3(c).
+
+          I certify that the foregoing statements made by me are true. I am aware that if any of the
+
+foregoing is willfully false, I am subject to punishment.
+
+
+
+
+                                                         ______________________________
+                                                                 Robert Martucci
+
+Dated: December 4, 2025
+HNT-L-000066-25 03/17/2026 2:10:44 PM Pg 36 of 36 Trans ID: LCV2026697551
+

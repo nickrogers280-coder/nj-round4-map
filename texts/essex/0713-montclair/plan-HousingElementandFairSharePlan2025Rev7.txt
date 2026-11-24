@@ -1,0 +1,2843 @@
+   ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 1 of 69 Trans ID: LCV20261098013
+
+
+
+
+Fourth Round Housing Element
+and Fair Share Plan (2025-2035)
+TOWNSHIP OF MONTCLAIR, ESSEX COUNTY, NEW JERSEY
+
+
+
+
+                                                          Adopted May 19, 2025
+                                                          Amended July 21, 2025
+                                                         Amended April 13, 2026
+
+
+Prepared by: Montclair Township Department of Planning &
+Community Development |
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 2 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Acknowledgements
+Planning Board
+Dr. Renee Baskerville, Mayor
+Geoﬀrey Borshof
+Keith Brodock, Chair
+Thamar Campbell
+Pierre Falaise
+Michael Graham, Vice Chair
+Anthony Ianuale
+Carmel Loughman, Councilor
+Jacob Nieman
+Carole Willis
+Arthur Neiss, Esq., Board Atorney
+Norberto Hernandez, PE, Board Engineer
+
+
+Township Council
+Dr. Renee Baskerville, Mayor
+Susan Shin Andersen, Deputy Mayor, and Councilor at Large
+Carmel Loughman, Councilor at Large
+Erik D’Amato, First Ward Councilor
+Eileen Birmingham, Second Ward Councilor
+Rahum Williams, Third Ward Councilor
+Aminah Toler, Fourth Ward Councilor
+Stephen Marks, Township Manager
+
+
+Department of Planning and Community Development
+Janice Talley, P.P., AICP, Director
+Zainab Kazmi, AICP, Assistant Planner
+Richard Charreun, Zoning Oﬃcer
+Kris�na Variano, Administra�ve Assistant
+
+
+
+The original of this report has been signed and sealed in accordance with N.J.S.A. 13:41-1.2.
+
+
+
+_________________________________________
+Janice E. Talley, P.P., AICP
+New Jersey Professional Planner License #5059
+        ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 3 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+TABLE OF CONTENTS
+Execu�ve summary ....................................................................................................................................... 1
+1. Introduc�on .............................................................................................................................................. 2
+   Overview ................................................................................................................................................... 2
+   What is Aﬀordable Housing? .................................................................................................................... 2
+   Aﬀordable Housing in Montclair ............................................................................................................... 3
+2. Demographic Analysis ............................................................................................................................... 5
+   Popula�on Characteris�cs ........................................................................................................................ 5
+   Household Characteris�cs .......................................................................................................................... 7
+3. Housing Analysis ....................................................................................................................................... 9
+   Substandard Housing .............................................................................................................................. 12
+   Housing Aﬀordability .............................................................................................................................. 12
+   Aﬀordable Housing in Montclair ............................................................................................................. 15
+       Inclusionary Development .................................................................................................................. 17
+       Redevelopment ................................................................................................................................... 18
+       Market to Aﬀordable Program ............................................................................................................ 19
+       100% Aﬀordable Projects .................................................................................................................... 19
+       Senior Ci�zen Housing ........................................................................................................................ 20
+       Alterna�ve Living Arrangements......................................................................................................... 20
+       Prior Cycle Credits ............................................................................................................................... 21
+       Extension of Aﬀordability Controls ..................................................................................................... 21
+4. Employment Analysis .............................................................................................................................. 22
+   Employment Trends ................................................................................................................................ 23
+   Employment Projec�ons ......................................................................................................................... 25
+5. Land Most Appropriate for Aﬀordable Housing...................................................................................... 26
+   Redevelopment ....................................................................................................................................... 26
+       Lackawanna Plaza Redevelopment Plan ............................................................................................. 26
+       Montclair Center Gateway Phase 2 Redevelopment Area .................................................................. 27
+       Walnut Street/Greenwood Avenue Area ............................................................................................ 28
+       Acme Shopping Center........................................................................................................................ 29
+   Township-Owned or Leased Proper�es .................................................................................................. 30
+       Wildwood Avenue Property ................................................................................................................ 30
+        ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 4 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+       53-55 New Street Property ................................................................................................................. 31
+       14 Miller Street ................................................................................................................................... 32
+       Mountain Avenue Train Sta�on .......................................................................................................... 33
+   Faith-Based Organiza�ons....................................................................................................................... 34
+   Nonconforming Proper�es in Residen�al Zones..................................................................................... 36
+   Rooming House Conversions................................................................................................................... 37
+6. Projec�on of Housing Stock and Fair Share Determina�on .................................................................... 38
+   Third-Round Housing Obliga�on (2000 – 2025)...................................................................................... 38
+       Present Need....................................................................................................................................... 38
+       Prospec�ve Need ................................................................................................................................ 39
+   Calcula�on of Aﬀordable Housing Need ................................................................................................. 43
+7. Fair Share Plan......................................................................................................................................... 44
+   Present Need........................................................................................................................................... 44
+       Montclair Home Improvement Program............................................................................................. 44
+       Preserva�on of Naturally Occurring Aﬀordable Housing (NOAH) ...................................................... 45
+   Prior Round Obliga�on............................................................................................................................ 48
+   Prospec�ve Need .................................................................................................................................... 48
+       Aﬀordable Housing Ordinance ............................................................................................................ 48
+       Inclusionary Zoning Ordinance (IZO)................................................................................................... 49
+       Zoning for Houses of Worship ............................................................................................................. 49
+       Residen�al Zoning Changes ................................................................................................................ 50
+       Commercial Zoning Changes ............................................................................................................... 52
+   Aﬀordable Housing Projec�on ................................................................................................................ 53
+       Redevelopment ................................................................................................................................... 53
+       Township-Owned and/or Leased Land................................................................................................ 53
+       100% Aﬀordable Housing.................................................................................................................... 56
+       Faith-Based Organiza�ons................................................................................................................... 62
+       Suppor�ve/Special Needs Housing ..................................................................................................... 63
+       Extension of Aﬀordability Controls ..................................................................................................... 64
+       Accessory Dwelling Units .................................................................................................................... 64
+           ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 5 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+
+EXECUTIVE SUMMARY
+        As Montclair Township has fully met its aﬀordable housing obliga�on, the Fourth Round Fair
+Share Plan provides a housing policy framework with a variety of op�ons to maintain the Township’s
+exis�ng supply of aﬀordable housing and create new aﬀordable housing as opportuni�es arise. The
+Township is under no obliga�on to create aﬀordable housing. However, con�nuing to provide
+aﬀordable housing in Montclair is s�ll an important Township objec�ve. A survey on aﬀordable housing
+issued by the Township received over 1,700 responses 1. Over 62% of respondents strongly agree that
+Montclair needs more aﬀordable housing and 65% of those surveyed agreed that it is very important to
+priori�ze aﬀordable housing in Montclair’s future development plans.
+
+The 2025 Fair Share Plan con�nues to rely on the exis�ng Inclusionary Zoning Ordinance (IZO), with
+minor modiﬁca�ons, to ensure that aﬀordable housing con�nues to be built as a part of new
+development. One of the recommended changes to the IZO is to set aside 15% of the new units created
+for suppor�ve housing. The Plan recommends that the Extension of Aﬀordability Controls program be
+con�nued to ensure that exis�ng aﬀordable housing units are maintained, while a revised Home
+Improvement Program be reinstated to provide funds to make needed improvements to these units as
+well as those occupied by income-eligible families. The Plan iden�ﬁes opportuni�es to create new
+aﬀordable housing on Township-owned or leased land and proper�es owned by faith-based
+organiza�ons. Finally, a new program is recommended to provide funding for construc�on of Accessory
+Dwelling Units that are deed-restricted for aﬀordable housing.
+
+The Fair Share Plan provides a ﬂexible approach to crea�ng aﬀordable housing so that the Township can
+respond to opportuni�es that may arise. The Township should consider lost opportuni�es and cost
+before choosing any of these op�ons. These opportuni�es may include:
+
+       •    Continue the appropriate use of redevelopment to create opportunities for affordable housing.
+
+       •    Properties owned by houses of worship as they consider adaptive reuse of underutilized
+            buildings or development of excess land;
+
+       •    Adaptive reuse of obsolete non-conforming uses in residential neighborhoods;
+
+       •    Changes to use or occupancy of rooming houses; or
+
+       •    Additional development on property owned by HOMECorp to create 100% affordable housing.
+The Fair Share Plan addresses displacement by maintaining the local preference in marke�ng of
+aﬀordable housing. In addi�on, the Plan seeks to preserve Naturally Occurring Aﬀordable Housing
+(NOAH) by maintaining the size and scale of exis�ng modest, worker-housing in the Township.
+
+
+
+
+1
+    As of April 22, 2025
+
+                                                                                                     Page 1
+       ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 6 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+1. INTRODUCTION
+Overview
+        Aﬀordable housing has been a hot buton issue in the State of New Jersey since 1975 when the
+New Jersey Supreme Court decision (Southern Burlington County N.A.A.C.P. v. Mount Laurel Township,
+otherwise known as Mount Laurel 1) outlawed the use of zoning tools to prevent the construc�on of
+low- and moderate-income housing in municipali�es, also known as exclusionary zoning. In 1983, the
+New Jersey Supreme Court further deﬁned the aﬀordable housing need in New Jersey in a decision,
+known as Mount Laurel 2, which created the basis for legisla�ng aﬀordable housing. In 1985, the Fair
+Housing Act was adopted by the State of New Jersey which created the Council on Aﬀordable Housing
+(COAH) as the administra�ve agency to oversee municipal aﬀordable housing ac�vi�es.
+
+The cumula�ve eﬀect of these court decisions and legisla�on is a top-down aﬀordable housing approach
+in which the State calculates each municipality’s fair share obliga�on for aﬀordable housing. These
+numbers have been revised three �mes, and each �me municipali�es have been required to adopt
+housing plans that address their local need. These are general referred to as the First Round (1986-
+1992), Second Round (1993 – 1999) and Third Round plans (2000 – 2025). New Jersey’s aﬀordable
+housing regula�ons, which are summarized in a recent NY Times ar�cle, have led to construc�on of
+more than 70,000 aﬀordable housing units.
+
+On March 20, 2024, Gov. Phil Murphy signed into law a new framework intended to guide towns toward
+mee�ng their Fourth-Round aﬀordable housing obliga�ons under the state’s Mt. Laurel doctrine. This
+law oﬃcially abolished the New Jersey Council on Aﬀordable Housing and streamlined the process for
+future rounds. It also established a new methodology for calcula�ng regional and municipal aﬀordable
+housing obliga�ons and provided updates to aﬀordability controls, trust fund regula�ons and enhanced
+repor�ng. The New Jersey Department of Community Aﬀairs issued a report en�tled “Aﬀordable
+Housing Obliga�ons for 2025 – 2035 (Fourth Round) Methodology and Background” that calculated
+Montclair Township’s Fourth Round Present Need at 132 units and Prospec�ve Need at 0 units. The
+present need has been addressed using excess credit from the Third Round, so Montclair’s Fourth Round
+obliga�on is 0.
+
+What is Aﬀordable Housing?
+    Aﬀordable housing is housing that is aﬀordable to households earning less than 80% of the median
+gross household income for households of the same size within the housing region. In New Jersey,
+municipali�es are required to adopt fair share plans that provide aﬀordable housing for very-low-
+income, low-income and moderate-income households.
+
+   o    Very-low income households are households earning equal to or less than 30% of the median
+        gross household income for the housing region. A minimum of 13% of aﬀordable units must be
+        aﬀordable to very-low-income households.
+
+   o    Low-income households are households earning more than 30% and less than 50% of the
+        median gross household income for the housing region. A minimum of 50% of aﬀordable units
+        must be aﬀordable to low-income households.
+
+
+
+                                                                                               Page 2
+        ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 7 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+    o    Moderate-income households are households earning more than 50% and less than 80% of the
+         median gross household income for the housing region. A maximum of 50% of aﬀordable units
+         may be aﬀordable to moderate-income households.
+
+Montclair Township is in Housing Region 2 which includes Essex, Morris, Union, and Warren
+coun�es. Table 1 shows the current income range for eligible households in Region 2.
+
+                          Table 1: Maximum Gross Income by Household Size
+                                         Housing Region 2*
+                    Household Median HH           Very        Low          Moderate
+                      Size       Income           Low
+                        1        $90,591          $27,177     $45,296      $72,473
+                        2        $103,533         $31,060     $51,766      $82,826
+                        3        $116,475         $34,942     $58,237      $93,180
+                        4        $129,416         $38,825     $64, 708     $103,533
+                        5        $139,769         $41,931     $69,885      $111,816
+                        6        $150,123         $45,037     $75,061      $120,098
+                       *As of April 2024
+
+Aﬀordable Housing in Montclair
+        Montclair Township has long been at the forefront in the aﬀordable housing arena. Concerns for
+aﬀordable housing led to zoning changes that permited mul�-family housing and garden apartments
+during the post-WW II period. Over the years, the Township has invested �me and money into
+redevelopment and rehabilita�on programs to improve residen�al neighborhoods. In 2004, the
+Township approved an Aﬀordable Housing Strategy that quan�ﬁed the need for aﬀordable housing
+(3,800 units for low- and moderate-income households) and created the ra�onale for the Township’s
+inclusionary zoning ordinance.
+
+Montclair adopted a Housing Element and Fair Share Plan addressing the ﬁrst round obliga�on in 1987
+and a second Housing Element and Fair Share Plan in 1997 that addressed both the ﬁrst and second
+round obliga�ons. In 2008 (with an amendment in 2009), the Township adopted a third Housing
+Element and Fair Share Plan that addressed the Township’s third round obliga�on for aﬀordable
+housing. COAH granted substan�ve cer�ﬁca�on of the 2009 Housing Element and Fair Share Plan in
+August 2009. The Township’s 2009 Housing Element and Fair Share Plan addressed an aﬀordable
+housing obliga�on that included a present need (rehabilita�on) component of 127 units and a
+prospec�ve need obliga�on of 162 units.
+
+The 2009 Fair Share Plan addressed the prospec�ve need obliga�on through credits from exis�ng
+aﬀordable housing units in the Township and ensured con�nued produc�on of aﬀordable housing
+through the Township’s Inclusionary Zoning Ordinance (IZO), which required any new development
+project with a net increase of ﬁve or more units to set aside 20 percent of the total units as aﬀordable
+housing onsite. Other programs included a market to aﬀordable program and a housing rehabilita�on
+program funded, in part, through the Housing Trust Fund. COAH approved Montclair’s ini�al Housing
+Trust Fund Spending Plan in 2002, with subsequent amendments in 2005, 2009, and 2012, and an
+
+
+                                                                                                    Page 3
+       ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 8 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+amended Spending Plan was sanc�oned by the Court in August 2018. The Township currently has over
+$2 million in the Housing Trust Fund.
+
+The Township has demonstrated leadership in the State through its commitment to providing housing for
+a diverse popula�on, resul�ng in the crea�on of 803 aﬀordable units over the past four decades. Key
+ini�a�ves included:
+
+   •    Securing over $2 million in grant funding for affordable housing unit rehabilitation.
+
+   •    Establishing a local rehabilitation program that successfully rehabilitated eight units.
+
+   •    Extending affordability controls on 40 units nearing expiration.
+
+   •    Creating 95 affordable housing units in redevelopment areas.
+
+   •    Developing 16 affordable units through the Township’s Inclusionary Zoning Ordinance.
+
+   •    Funding a Market to Affordable program that resulted in 42 affordable units.
+
+   •    Providing affordability assistance to 26 income-eligible households.
+
+   •    Operating a Section 8 Rental Assistance Program.
+
+   •    Loaning municipal funds to affordable housing developers.
+
+   •    Donating municipal land for senior affordable housing development.
+
+   •    Leasing municipal land for a homeless shelter.
+
+   •    Facilitating the sale of NJ Transit property to affordable housing developers.
+
+
+
+
+                                                                                                   Page 4
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 9 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+2. DEMOGRAPHIC ANALYSIS
+       Montclair Township is a quintessen�al streetcar suburb, dis�nguished by a diverse array of
+neighborhoods with various housing types ranging from single-family homes to mid-rise apartment
+complexes. The Township boasts numerous historic and iconic structures in walkable neighborhoods that
+beneﬁt from eﬃcient public transporta�on access.
+
+Popula�on Characteris�cs
+        Montclair Township’s popula�on has remained rela�vely stable over the past six decades,
+ranging from a peak of 44,043 in 1970 to a low of 37,669 in 2010 as indicated in Table 2. Notably, the
+total popula�on increased by 8.6 percent between 2010 and 2020, adding over 3,250 new residents.
+The Township’s racial composi�on has undergone signiﬁcant changes over the past two decades as
+shown in Tables 3 and 4. The Black/African American popula�on decreased by over 900 people between
+2010 and 2020, a 9 percent decline. This decrease is oﬀset by an increase the popula�on classiﬁed as
+Black and other races which gained 569 individuals. The Hispanic or La�no popula�on experienced
+substan�al growth, rising from 6.1% in 2010 to 9.5% in 2020, an increase of 1,603 individuals. The Asian
+popula�on also exhibited considerable growth, increasing from 3.8% of the popula�on in 2010 to 5.1%
+in 2020.
+
+                             Table 2: Popula�on Trends 1950 – 2020
+                            Township of Montclair and Essex County
+                        Montclair Township                                Essex County
+    Year        Total                Change                    Total                  Change
+                                  #           %                                 #               %
+     1960      43,129                                        923,545
+     1970      44,043           914              2.1         932,526          8,981             1.0%
+     1980      38,321         -5,722           -13.0         851,304        -81,222            -8.7%
+     1990      37,729          -592             +1.5         778,206        -73,098            -9.0%
+     2000      38,977         1,248              3.3         793,633         15,427             2.0%
+     2010      37,669         -1,308            -3.4         783,969         -9,664            -1.2%
+     2020      40,921          3,252             8.6         800,501         16,532             2.1%
+Source: U.S. Census Bureau – Decennial Census Data
+
+
+
+
+                                                                                                    Page 5
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 10 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+                                Table 3: Racial Characteris�cs
+                         Montclair Township, Essex County, New Jersey
+                                                                                        Percent
+                                   2010                       2020
+                                                                                        Change
+   Total Popula�on             37,669                     40,921                      +9%
+   Popula�on of one race:      35,974        95.5%        36,495         89.2%        +1%
+    White alone                23,416        62.2%        23,364         57.1%        0%
+    Black or African           10,230        27.2%        9,326          22.8%        -9%
+   American alone
+    American Indian/Alaska     59            0.2%         80             0.2%         +36%
+   Na�ve alone
+    Asian alone                1,434         3.8%         2,068          5.1%         +44%
+    Na�ve Hawaiian/Paciﬁc      9             0.0%         19             0.1%         +111%
+   Islander alone
+    Some Other Race alone      826           2.2%         1,638          4.0%         +98%
+   Two or More Races           1,695         4.5%         4,426          10.8%        +161%
+    Black and other races      979           2.6%         1,548          3.8%         +58%
+   Hispanic/La�no              2,296         6.1%         3,899          9.5%         +70%
+        Source: 2010 and 2020 ACS 5-Year Es�mates Data Proﬁle
+
+                     Table 4: Black and African American Popula�on Trends
+                                 Montclair Township, New Jersey
+                                                 Black and
+                                     Black                                  %          Percent
+                                                one or more     Total
+        Year          Total          Alone                                Black        Change
+                                                   races        Black
+         1960         43,129         10,385               NA   10,385     24.1%
+         1970         44,043         12,251               NA   12,251     27.8%           +18%
+         1980         38,321         11,057               NA   11,057     28.9%           -10%
+         1990         37,729         11,697               NA   11,697     31.0%            +6%
+         2000         38,977         12,497              663   13,298     34.1%           +14%
+         2010         37,669         10,230              979   11,209     29.8%           -16%
+         2020         40,921          9,326            1,548   10,874     26.6%            -3%
+       Source: U.S. Census Bureau – Decennial Census Data
+
+Montclair’s popula�on base is aging, as indicated in Table 5. The percent of popula�on aged 60 to 84
+experienced the most signiﬁcant growth between 2013 and 2023, increasing by over 2,000 people. This
+change reﬂects the aging of the baby boom genera�on. Similarly, the number of older school aged
+children (aged 10 – 19) also increased, adding 1,099 individuals over the same period.
+
+
+
+
+                                                                                              Page 6
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 11 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+                             Table 5: Popula�on Characteris�cs
+                         Montclair Township, Essex County, New Jersey
+                                   2013                    2023                      Change
+                          Number        Percent   Number           Percent     Number         Percent
+ Popula�on Total            37,766                 40,675                        2,909           7.7%
+     Under 5 years           2,228        5.9%       2,305           5.7%           77           3.5%
+     5 to 9 years            2,984        7.9%       2,778           6.8%         -206          -6.9%
+     10 to 14 years          2,908        7.7%       3,417           8.4%          509          17.5%
+     15 to 19 years          2,719        7.2%       3,309           8.1%          590          21.7%
+     20 to 24 years          1,851        4.9%       1,587           3.9%         -264         -14.3%
+     25 to 34 years          3,965       10.5%       4,407          10.8%          442          11.1%
+     35 to 44 years          5,627       14.9%       5,671          13.9%           44           0.8%
+     45 to 54 years          6,458       17.1%       6,575          16.2%          117           1.8%
+     55 to 59 years          2,757        7.3%       2,352           5.8%         -405         -14.7%
+     60 to 64 years          1,888        5.0%       2,736           6.7%          848          44.9%
+     65 to 74 years          2,380        6.3%       3,485           8.6%        1,105          46.4%
+     75 to 84 years          1,397        3.7%       1,459           3.6%           62           4.4%
+     85 years & over           604        1.6%         594           1.5%          -10          -1.7%
+      Source: 2013 and 2023: ACS 5-Year Es�mates Data Proﬁle
+
+Household Characteris�cs
+        Our popula�on is becoming increasingly aﬄuent and educated. The median household income
+rose from $74,894 in 2000 to $166,765 by 2023. Conversely, the percentage of individuals living below
+the poverty line increased from 5.6% in 2000 to 6.6% in 2020. Household sizes are increasing, growing
+from 2.53 in 2000 to 3.09 in 2023. The disabled popula�on increased slightly, adding between 200 and
+300 individuals over the 20-year period. Between 1,300 and 1,500 people have a cogni�ve and/or
+ambulatory disability.
+
+
+
+
+                                                                                                Page 7
+   ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 12 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+                                 Table 6: Household Characteris�cs
+                            Montclair Township, Essex County, New Jersey
+                                         2000            2010              2020           2023
+Household Size                                 2.53            2.57             2.71           2.61
+Median Household Income – NJ               $50,405         $67,681          $85,550        $99,781
+Median Household Income –
+                                           $74,894         $95,656         $134,308       $166,765
+Montclair
+Local Median Income vs State
+                                              1.5%            1.4%             1.6%            1.7%
+Median Income
+Household Income – Montclair
+  Less than $24,999                           15.%           10.7%             9.9%            8.3%
+  $25,000 - $34,999                           7.8%            5.5%             4.8%            5.3%
+  $35,000 - $49,999                          11.1%            8.2%             5.2%            4.7%
+   $50,000 – $74,999                         15.8%           14.4%            10.0%            7.5%
+   $75,000 - $99,999                         13.1%           11.9%             8.4%            8.5%
+ $100,00 - $149,999                          15.7%           17.7%            17.4%          12.7%
+ $150,000 - $199,999                          8.0%            8.8%            12.6%          11.1%
+ $200,000 or more                            13.1%           21.6%            31.8%          41.7%
+Percent below poverty level                  5.60%           7.00%            6.60%              NA
+With a Disability                            3,052               (X)          3,309           3,211
+ Hearing disability                                                              748            659
+  Vision disability                                                              698            391
+  Cognitive disability                                                        1,506           1,490
+  Ambulatory disability                                                       1,357           1,350
+ Self-care difficulty                                                            582            601
+ Independent living difficulty                                                1,233           1,054
+                Source: Census Data 2000; ACS 5-Year Es�mate Data Proﬁle, 2010, 2020 and 2023
+
+
+
+
+                                                                                             Page 8
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 13 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+3. HOUSING ANALYSIS
+          Montclair is fully developed, with over 60% of its land area comprised of single-family detached
+housing. Residen�al proper�es range from grand estates to modest apartments. Housing units come in
+all sizes, shapes, prices, and styles. They are located on quiet streets and on main streets. This variety
+appeals to a diverse popula�on of singles, couples, families, seniors, and persons with disabili�es, and is
+what atracts many people to the community. New housing units are added mostly through scatered
+site, inﬁll development, demoli�on, or redevelopment of exis�ng structures. The total number of
+housing units rose from 15,513 in 2010 to 16,053 in 2023, with 60% owner-occupied and 40% renter-
+occupied.
+
+The propor�on of owner to renter-occupied housing remained constant. Although many consider
+Montclair to be a predominantly one-family community, single family detached homes account for only
+49% of the total occupied housing stock. The Township’s housing stock includes a mix of mul�-family
+housing types including duplexes, triplexes, quadplexes, garden apartment complexes and large
+apartment buildings. The number of housing units in large mul�-family structures (20+ units) increased
+from 11% to 14%, adding an addi�onal 445 units. Almost 60 percent of the housing units in the
+Township were built before 1940 and many of the Township’s homes are in historic or proposed historic
+districts.
+
+
+
+
+                                                                                                     Page 9
+   ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 14 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+                               Table 7: Housing Characteris�cs
+                        Montclair Township, Essex County, New Jersey
+                                         2010                   2023
+                                       Number      Percent     Number   Percent
+           Total housing units       15,513                  16,053
+           Occupied units            14,520       93.6%      15,118     93.4%
+            Owner-occupied            8,714       60%        9,049      59.9%
+            Renter-occupied          5,806        40%        6,069      40.1%
+           Building Type
+            One detached             7,555        48.7%      7,691      49.5%
+            One atached              320          2.1%       592        3.8%
+            2-units                  2,018        13.0%      1,861      12.0%
+            3-4 units                1,879        12.1%      1,320      8.5%
+            5-9 units                1,169        7.5%       1,001      6.4%
+            10 to 19 units           779          5.0%       861        5.5%
+            20+ units                1,767        11.4%      2,212      14.2%
+           Age of Unit
+            2020 or later                  0                     67
+            2010 to 2019                   0                     716    2.8%
+            2000 to 2009                  472       3.1%         646    3.8%
+            1990 to 1999                  530       3.4%         309    2.3%
+            1980 to 1989                  497       3.2%         583    3.4%
+            1970 to 1979                  578       3.7%         901    4.7%
+            1960 to 1969                 1,133      7.3%        1,120   8.0%
+            1950 to 1959                 1,646      10.6%       1,371   9.2%
+            1940 to 1949                 1,458      9.4%         894    5.9%
+            1939 or earlier              9,199      59.3%       9,446   59.8%
+            Source: 2010 and 2023: ACS 5-Year Es�mates
+
+
+
+
+                                                                                  Page 10
+   ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 15 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+                                 Exis�ng Land Use Map, 2022
+
+
+
+
+                                                                          Page 11
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 16 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Substandard Housing
+         The New Jersey Department of Community Affairs (DCA) uses several indicators from the
+US Census to determine substandard housing conditions, including building age, overcrowding
+and the lack of complete plumbing and kitchen facilities. Overcrowding is defined as more than 1
+person per room. Overcrowding in Montclair increased by 21 units in the last decade.
+Overcrowding is also considered a measure of affordability because adding roommates is often
+used to meet housing costs. The number of units lacking complete plumbing has decreased, as
+has the number of units lacking a complete kitchen. It is important to note that the number of
+units lacking complete kitchen and plumbing facilities include rooming units which are legally
+permitted in Montclair. Also, one or two roomers who do not have cooking or kitchen facilities
+and who pay rent to a family occupant are permitted.
+                                  Table 8: Housing Conditions
+                            Montclair Township, Essex County, New Jersey
+                                                     2010                 2023
+                                                    Number      Percent  Number              Percent
+      Total housing units                           15,513               16,053
+      Units with more than 1 person per room          174         1.1      195                 1.2
+      Units lacking complete plumbing                 69          0.4      32                  0.1
+      Units lacking complete kitchen                  149         0.9      103                 0.6
+                Source: ACS 5-Year Es�mate Data Proﬁle, 2010 and 2023
+
+Housing Aﬀordability
+          High housing costs are a serious problem, par�cularly for lower-income households and
+households of color. While higher interest rates have cooled the homebuying market, and many
+apartments under construc�on con�nue to supply the rental market, the surge in the prices of gas, food,
+and other necessi�es has made maters worse for lower-income households. The na�on’s housing stock
+is in dire need of investment to meet the demands of a rapidly aging popula�on and the threats posed
+by climate change.
+
+As in several other metropolitan Newark/New York suburbs, Montclair’s housing values are high and
+have remained high since the mid-1990s, with the notable excep�on of the 2008 housing crisis. As
+indicated in Tables 9 and 10, the median value of a house was $601,100 in 2010 and the median monthly
+contract rent was $1,281. By 2023, the median value of a single-family home was $850,700 and the
+median monthly contract rent was $2,045 per the 2023 American Community Survey. When coupled
+with high real estate taxes (2024 tax rate is $3.403 per $100 assessed value which is currently es�mated
+at 61.52% market value), the purchase of a single-family home in Montclair is out of reach for a
+signiﬁcant segment of the popula�on.
+
+State and federal regula�ons deﬁne aﬀordable housing as housing that costs no more than 30% of
+household income. Some can easily pay a higher percentage towards housing, but those with limited
+incomes cannot. The rent and mortgage payments associated within these incomes for Montclair,
+which is in Housing Region 2, is shown in Tables 11. This illustrates how the currently market rate rent of
+$2,045 is not aﬀordable for almost all low-income and very low-income households.
+
+                                                                                                     Page 12
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 17 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Renters are par�cularly cost burdened in Montclair. In 2023 over 47.5% of renters are cost-burdened
+and pay more than 30 percent of their income towards housing as shown in Table 12. This is a
+signiﬁcant increase from 2010 when 41.9% of renter households paid more than 30% of income for
+housing.
+
+                                      Table 9: Gross Rent
+                               Montclair Township, New Jersey
+                           Gross Rent               2010                      2023
+                                            Number        Percent     Number     Percent
+           Occupied units paying rent           5,621                  5,927
+                   Less than $500                308        5.4%        138        2.3%
+                    $500 to $999                1,079      19.2%        317        5.3%
+                  $1,000 to $1,499              2,304      41.0%        705       11.9%
+                   $1,500 or more               1,930      34.3%
+                  $1,500 to $1,999                                     1,672      28.2%
+                  $2,000 to $2,499                                     1,472      24.8%
+                  $2,500 to $2,999                                      551        9.3%
+                   $3,000 or more                                      1,072      18.1%
+                 Median (dollars)                     $1,281                 $2,045
+                    No rent paid                 185                    142
+                        Source: ACS 5-Year Es�mate Data Proﬁle, 2010 and 2023
+
+                                   Table 10: Housing Values
+                               Montclair Township, New Jersey
+                                                   2010                  2023
+                                         Number         Percent    Number     Percent
+               Owner-occupied units         8,714                    9,049
+                 Less than $50,000             55          0.6%         97       1.1%
+                $50,000 to $99,999             41          0.5%          0       0.0%
+               $100,000 to $149,999            59          0.7%         47       0.5%
+               $150,000 to $199,999           121          1.4%          6       0.1%
+               $200,000 to $299,999           762          8.7%        241       2.7%
+               $300,000 to $499,999         2,097        24.1%       1,457      16.1%
+               $500,000 to $999,999         4,483        51.4%       4,106      45.4%
+                $1,000,000 or more          1,096        12.6%       3,095      34.2%
+                  Median (dollars)                  $601,100               $850,700
+               Source: ACS 5-Year Es�mate Data Proﬁle, 2010 and 2023
+
+
+
+
+                                                                                               Page 13
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 18 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+                Table 11: Aﬀordable Housing Income Limits for Region 2, April 2024
+
+ Household Income                                         Household Size
+                             1 person    2 persons    3 persons 4 persons      5 persons   6 persons
+ Income Limits
+  Median Income              $86,680     $99,063      $111,446    $123,829     $133,735    $143,642
+  Moderate Income            $69,344     $79,251      $89,157     $99,063      $106,988    $114,913
+  Low Income                 $43,340     $49,532      $55,723     $61,914      $66,868     $71,821
+  Very Low Income            $26,004     $29,719      $ 33,434    $37,149      $40,121     $43,092
+
+ Max. Rent or Mortgage Payment
+  Median Income                 $2,167      $2,477      $2,786     $3,096      $3,343      $3,591
+  Moderate Income               $1,734      $1,981      $2,229     $2,477      $2,675      $2,873
+  Low Income                    $1,084      $1,238      $1,393     $1,548      $1,672      $1,796
+  Very Low Income               $ 650       $ 743       $ 836      $ 929       $1,003      $1,077
+*Region 2 includes Essex, Morris, Union, and Warren coun�es.
+
+       Table 12: Selected Monthly Housing Costs as a Percentage of Household Income
+                             Montclair Township, New Jersey
+                                            2010                               2023
+                                    Number           Percent           Number       Percent
+  MORTGAGE AS A PERCENT OF HOUSEHOLD INCOME
+  Housing units’
+                                 6,605                              6,171
+  w/mortgage
+  Less than 20.0%                1,882            28.5%             2,859          46.3%
+  20.0 to 24.9%                   903             13.7%             1,086          17.6%
+  25.0 to 29.9%                  1,068            16.2%              673           10.9%
+  30.0 to 34.9%                   594             9.0%               272           4.4%
+  35.0% or more                  2,158            32.7%             1,281          20.8%
+  Not computed                     27                                 48
+  GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME
+  Renter-Occupied Units
+  Less than 15.0%                 747             13.5%              803           13.7%
+  15.0 to 19.9%                   896             16.2%              751           12.8%
+  20.0 to 24.9%                   851             15.4%              900           15.4%
+  25.0 to 29.9%                   713             12.9%              616           10.5%
+  30.0 to 34.9%                   463             8.4%               324           5.5%
+  35.0% or more                  1,851            33.5%             2,462          42.0%
+  Not computed                    285                                213
+ Source: 2010 and 2021: ACS 5-Year Es�mates Data Proﬁle – SELECTED HOUSING CHARACTERISTICS
+
+
+
+
+                                                                                           Page 14
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 19 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Aﬀordable Housing in Montclair
+        Montclair Township has been proac�ve in maintaining and expanding its aﬀordable housing
+inventory and currently has 803 aﬀordable housing units created through a variety of programs as
+summarized in Table 13. This inventory includes both rental and for-sale units and are described in
+more detail below.
+
+                           Table 13: Aﬀordable Housing Inventory Summary
+
+                                                                      Number of
+                                  Housing Program
+                                                                        Units
+                    Redevelopment                                        95
+                    Inclusionary Development                             16
+                    100% Affordable Housing                               6
+                    Market to Affordable Program                         41
+                    Prior Cycle Credits                                 213
+                    Senior Housing                                      299
+                    Alternative Living Arrangements                      90
+                    Units with Extended Affordability Controls           43
+                    Total                                                 3
+
+
+In 2018, the Township’s aﬀordable housing ordinance was amended to include a local preference for all
+aﬀordable units created through the Township’s aﬀordable housing programs. This was approved as part
+of the Consent Order from the Superior Court which recognized that the Township is losing its racial
+diversity, par�cularly its historic Black/African-American popula�on, because of the increased cost of
+housing and that a local preference for aﬀordable housing will help maintain its racial and economic
+diversity.
+
+In 2022, the Township adopted a Rent Control Ordinance to limit the annual increase in rents on certain
+rental units in the Township and in 2023, the Township adopted a new Accessory Dwelling Unit
+ordinance with more ﬂexibility for owners of one- and two- family homes to provide accessory dwelling
+units and con�nuing to expand the inventory of aﬀordable housing.
+
+Other State-wide changes aﬀec�ng housing aﬀordability include the Senior Freeze Program and Stay NJ.
+The Senior Freeze program encourages seniors to remain in their homes if they want but may discourage
+some seniors from downsizing to smaller homes since their local property tax payment is frozen when
+they turn 65. The Stay NJ program allows eligible seniors to receive a reimbursement of 50% of their
+property tax bill, up to a maximum of $13,000. For the 2024 beneﬁt year, the cap is set at $6,500.
+
+
+
+
+                                                                                                Page 15
+   ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 20 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+
+
+
+                                                                          Page 16
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 21 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Inclusionary Development
+        Montclair Township’s
+Inclusionary Zoning Ordinance (IZO) was
+ﬁrst adopted in 2006 and amended in
+2009. The original ordinance required
+that one in every seven units be
+aﬀordable. In September 2009, the set
+aside ra�o was increased to 20 percent
+to coincide with the State’s growth
+share approach to aﬀordable
+housing. The IZO has resulted in
+development of 16 units of aﬀordable
+                                             Figure 1: The Westerly at 256 Park Street which contains two aﬀordable
+housing scatered across the Township.
+                                             rental units.
+
+
+
+
+                                    Figure 2: Development at 192 - 194 Bloomﬁeld Avenue created one aﬀordable unit.
+
+
+                   Table 14: Aﬀordable Units Created through Inclusionary Zoning
+
+                                                                   Very-Low              Low                  Mod
+                           Total    Status       Type      Exp.     1     2        1      2      3       1     2        3
+                                                                   BR    BR       BR     BR     BR      BR    BR       BR
+ 24 Elm Street              1      Complete      Rental   2039                                                 1
+ 192-194 Bloomfield Ave     1      Complete      Rental   2047                     1
+ Bay Street Commons         1      Complete      Sales    2044                     1
+ 58 James Street            1      Complete      Sales    2049                                                  1
+ 256 Park Street            2      Complete      Rental   2050                            1              1
+ 7 Sylvan Place*            2      Complete      Rental   2052                            1      1
+ 57 James Street            1        UC          Rental   2052                            1
+ 161-167 Glenridge Ave      2        UC          Rental                                          1                     1
+ 10 Elm Street              4        UC          Rental
+ 627 Valley Road            1      Approved      Rental
+ Total                      16                                                     2      3      2       1      2      1
+*Oﬀsite aﬀordable housing approved through the site plan approval for 369-373 Bloomﬁeld Avenue.
+
+                                                                                                             Page 17
+        ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 22 of 69 Trans ID: LCV20261098013
+
+
+  Housing Element and Fair Share Plan
+  Township of Montclair, New Jersey
+
+  Redevelopment
+          The Township’s inclusionary zoning requirements are also reﬂected in the Township’s
+  redevelopment plans. Redevelopment plans include an aﬀordable housing set aside requirement that
+  ranges between 10 percent and 20 percent. A total of 95 aﬀordable units have been created through
+  redevelopment.
+
+
+
+
+  Figure 3: Two South Willow which contains twenty aﬀordable rental units.
+
+                            Table 15: Aﬀordable Units Created through Redevelopment
+
+                                                                         Very-Low          Low             Mod
+        Project             Total     Status          Type     Exp.       1       2    1    2     3    1    2     3
+                                                                         BR      BR   BR   BR    BR   BR   BR    BR
+Siena (101)                   10       Complete      Sales      2038                   3    2          3    2
+Alister (163)                 17       Complete      Rental     2039         2   2     3    2          3    5
+Valley & Bloom (262)          26       Complete      Rental     2045             3     3    5    3     2    7    3
+Montclarion II* (40)           2       Complete      Rental     2049                        1                    1
+The Vestry (46)                8       Complete      Rental     2050         1              2    1     1   1     2
+2 South Willow (200)          20       Complete      Rental     2051         1   1    5     3          6   4
+The Clair (40)                 4       Complete      Rental     2054             1               1     1   1
+59 Church Street (74)          8         UC          Rental                      1         2     1     1   2     1
+Total                         95                                             4   8    11   15    6    17   22    7
+  *This project provided a total of 8 aﬀordable units, including extending the aﬀordability controls of 6
+  low-income units in Montclarion I when the controls expired in 2019.
+
+
+
+
+                                                                                                            Page 18
+        ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 23 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Market to Aﬀordable Program
+        The market to aﬀordable program involves the conversion of market rate housing to aﬀordable
+housing. A total of 41 aﬀordable units have been created by purchasing and rehabilita�ng market rate
+units and pu�ng deed restric�ons on the units to make them aﬀordable. The Township partnered with
+HOMECorp to create 14 units through Montclair’s Market to Aﬀordable Program. HOMECorp used
+funding from other sources to create another 27 housing units.
+
+                 Table 16: Aﬀordable Units Created through a Market to Aﬀordable Program
+
+                                                                                  Very Low             Low                   Mod
+              Project           Total      Status      Type        Exp.       1       2       3    1     2     3      1        2    3
+                                                                             BR      BR      BR   BR    BR    BR     BR       BR   BR
+    87 Mission St/19 Elmwood     2        Complete    Rental       2038               2
+    89 Maple /1 Woodland Ave     4        Complete    Rental       2024       1                          3
+    14 North Willow Street       2        Complete    Rental       2041                                  1                    1
+    25 William Street            6        Complete    Rental       2021       2       2                  2
+    33 William Street            6        Complete    Rental       2021                                  4                    2
+    4 Washington Street          9        Complete    Rental       2030       8                    1
+    43 Glenridge Avenue          6        Complete    Rental       2024       3       2            1
+    55 Glenridge Avenue          6        Complete    Rental       2036                            5                     1
+    Total                        1
+
+
+
+100% Aﬀordable Projects
+         The Township provided
+funding for Talbot Village; a 100%
+aﬀordable project that included six
+sales units built by HOMECorp. This
+project involved new construc�on of
+three duplex buildings on vacant land.
+
+
+.
+
+
+
+                                             Figure 4: Talbot Village, a 100% aﬀordable sales project on Talbot Street
+
+                                        Table 17: 100% Aﬀordable Housing
+                                                                                  Very Low             Low                   Mod
+             Project           Total      Status      Type        Exp.       1       2     3       1    2     3      1        2     3
+                                                                            BR      BR    BR      BR   BR    BR     BR       BR    BR
+    Talbot Village              6        Complete     Sales       2115                                  2    1               2     1
+
+
+
+
+                                                                                                                   Page 19
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 24 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Senior Ci�zen Housing
+       The Township has four senior housing projects including First Montclair House, South End
+Gardens, Pine Ridge of Montclair, and the Montclair Inn. These buildings provide a total of 299
+aﬀordable units for senior ci�zens.
+
+                                Table 18: Aﬀordable Senior Ci�zen Housing
+              Project Name                   Address              # of Beds                 Type
+      First Montclair House              56 Walnut Street            130              Apartment Building
+      South End Gardens                 340 Orange Road               99              Apartment Building
+      Montclair Inn                       27 Hillside Ave             22              Congregate Living
+      Pine Ridge of Montclair          60 Glenridge Avenue            48              Apartment Building
+      Total                                                          299
+
+Alterna�ve Living Arrangements
+         There are 90 units aﬀordable housing that are categorized under “alterna�ve living
+arrangements” which includes both suppor�ve housing and transi�onal housing. Suppor�ve housing
+includes but is not limited to residen�al health care facili�es as licensed and/or regulated by DCA or the
+New Jersey Department of Health and Senior Services if the facility is located with, and operated by, a
+licensed health care facility; group homes for people with developmental disabili�es and mental illness
+as licensed and/or regulated by the New Jersey Department of Human Services; permanent suppor�ve
+housing; and suppor�ve shared living housing.
+
+Assembly Bill A4, which was adopted on March 20, 2024, allows transi�onal housing to be included as
+aﬀordable housing. Transi�onal housing is deﬁned as temporary housing that includes, but is not limited
+to, single-room occupancy housing or shared-living and suppor�ve living arrangements that provides
+access to onsite or oﬀ-site suppor�ve services for very low-income households that have recently been
+homeless or lack stable housing, is licensed by the DCA, and allows a household to remain for a
+minimum of six months. Each bedroom in an alterna�ve living arrangement is counted as an aﬀordable
+unit.
+
+                                Table 19: Alterna�ve Living Arrangements
+                                                                                                     Aff.
+                                                                           Licensed
+                 Project Name                       Address                               Zone     Housing
+                                                                           Capacity
+                                                                                                    Credit
+     SUPPORTIVE HOUSING
+      ARC of Essex County                    434 Washington Avenue            4            R-1          4
+      ARC of Essex County                    27 Claremont Ave                 6            R-2          6
+      Covenant House                         2 – 4 Walnut Place               10           R-2         10
+      Mental Health Association              354 Orange Road                  12           R-1         12
+      Subtotal                                                                32                       32
+     TRANSITIONAL HOUSING
+      Covenant House/Nancy’s Place           32 S. Willow St                  8            R-3          8
+      Oxford House                           21 Irving St                     9            R-1          9
+      Real House                             95 Grove St.                     18           R-2         18
+      Real House                             31 N. Mountain Avenue            23           R-3         23
+      Subtotal                                                                58                       58
+
+
+                                                                                                            Page 20
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 25 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Prior Cycle Credits
+         There are three housing projects built before 1980 containing 213 aﬀordable units that are
+categorized as prior cycle credits. These include Union Gardens, which was built in 1974 and provides 87
+aﬀordable units. Union Gardens was built using low-income housing tax credits (LIHTC) through a RAD
+(Rental Assistance Demonstra�on) Housing Assistance Payments Contract that was eﬀec�ve February 1,
+2017 and is for the maximum term allowable of 20 years. This project based subsidy is applicable to 55
+units at the building, but the LIHTC use restric�on applies to all the units and runs for 30 years from the
+start of the credit period (12/31/2011). Thus, the deed restric�ons for aﬀordability are in place through
+2041. Other prior cycle credits are provided through the Mathew Carter Homes (1 and 2) which were
+built in 1980 and provide 126 aﬀordable units.
+
+                                         Table 20: Prior Cycle Credits
+                                                                           # of
+                          Project Name                 Address                     Type
+                                                                          Units
+                  Union Gardens (1974)          50 Greenwood Avenue         87    Rental
+                  Matthew Carter 1 (1980)        20 Glenridge Avenue        54    Rental
+                  Matthew Carter 2 (1980)        80 Glenridge Avenue        72    Rental
+                  Total                                                   213
+
+
+
+Extension of Aﬀordability Controls
+         The Township extended the aﬀordability controls on 43 units over the past ten years. This
+includes 20 units located at The Mews on Pine Street; 6 units in the Montclarion I building on Pine
+Street; and 17 units owned by HOMECorp on Miller Street.
+
+                                 Table 21: Extension of Aﬀordability Controls
+
+                                                                                Term of Deed Restriction
+           Project Name/Address                                               First   Second Combined
+                                              Total     Status     Exp.
+                                                                              Term      Term        Term
+ 27 Miller Street (2016)                         1    Complete     2067        14        50           64
+ 12 Miller Street (2016)                         2    Complete     2067        10        50           60
+ Miller Street Cottages (2016)                   5    Complete     2067        14        50           64
+ Miller Street Homes (2016)                      9    Complete     2067        20        50           70
+ The Mews (2014-2020)                           20    Complete     2044        20        30           50
+ Montclairion I (2017)                           6    Complete     2049        30        30           60
+ Total                                          43
+
+
+
+
+                                                                                                   Page 21
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 26 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+4. EMPLOYMENT ANALYSIS
+        With a popula�on of 40,675 people, nearly half of Montclair’s popula�on is ac�ve in the labor
+force. Access to nearby economic engines like Newark and New York oﬀer residents a range of
+employment op�ons in the private and public sector. With a highly educated popula�on and a robust
+business owner class, it is no surprise that management, ﬁnance, real estate, and technical posi�ons are
+those most held by residents. Montclair breeds an entrepreneurial spirit. Roughly 8% of residents are
+self-employed which outpaces the na�ons and the state’s self-employment rates of 5.9% and 5.1%,
+respec�vely.
+
+                          Table 22: Labor Force Characteristics – 2020
+                         Montclair Township, Essex County, New Jersey
+                 Employment status                        Number                Percent
+              Population 16 years and over                         29,650        100.0%
+                  in labor force                                   20,673         69.7%
+                       Employed                                    19,671         66.3%
+                       Unemployed                                   1,002          3.4%
+                  Not in Labor force                                8,977         30.3%
+              Class of Worker
+                  Private wage and salary workers                  15,379         78.2%
+                  Government workers                                2,720         13.8%
+                  Self-employed in own not                          1,563          7.9%
+                  incorporated business workers
+                  Unpaid family workers                                 9           0.0%
+              Occupational Characteristics
+                  Management, business, science, and               12,671         64.4%
+                  arts occupations
+                  Service occupations                               1,379          7.0%
+                  Sales and office occupations                      4,156         21.1%
+                  Natural resources, construction, and                548          2.8%
+                  maintenance occupations
+                  Production, transportation, and                     917           4.7%
+                  material moving occupations
+               Source: 2020 American Community Survey
+
+The number of residents working from home has surged, largely atributed to the COVID-19 pandemic.
+In 2000, 6.3% of the workforce engaged in remote work, which increased to 13.9% in 2020 and further
+to 32.3% as of the 2023 American Community Survey. While current data on remote work par�cipa�on
+is unavailable, it is an�cipated to signiﬁcantly inﬂuence commu�ng paterns in the future. The number
+of Township residents u�lizing public transporta�on for their commutes has similarly declined, from
+24.5% in 2020 to 15.7% in 2023. Not surprisingly, the number of workers that commute alone in private
+vehicles has decreased from 59% in 2000 to 45% in 2023.
+
+
+
+
+                                                                                                 Page 22
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 27 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+                                Table 23: Commuting Patterns
+                        Montclair Township, Essex County, New Jersey
+                                          2000       2010          2020         2023
+          Drove alone                    58.8%      55.9%         53.7%        44.8%
+          Carpooled                       7.6%       5.6%          4.3%         4.4%
+          Public transportation            22%      24.6%         24.5%        15.7%
+          Walked                          4.1%       4.2%          2.7%         2.9%
+          Other means                     1.2%       1.9%          0.9%         0.6%
+          Worked from home                6.3%       7.9%         13.9%        32.3%
+       Source: 2000 Census and 2010, 2020 and 2023 ACS Survey
+
+Employment Trends
+   Employment levels in Montclair have ranged between 18,000 and 20,000 over the past 20 years. The
+Township experienced a minor dip in employment following the Great Recession in 2009 and during the
+COVID pandemic in 2021, but employment sta�s�cs have since remained consistent. The Township has
+returned to its pre-COVID numbers, with 20,238 jobs in 2023 as shown in Table 24.
+
+                              Table 24: Employment Trends 2003-2023
+                       Montclair Township, Essex County, New Jersey
+                         Year           Jobs       Change      Percentage
+                         2003         20,471
+                         2004         20,365         -106         -0.5%
+                         2005         19,882         -483         -2.4%
+                         2006         19,850          -32         -0.2%
+                         2007         20,144          294          1.5%
+                         2008         20,313          169          0.8%
+                         2009         19,914         -399          -2%
+                         2010         18,249        -1,665        -8.4%
+                         2011         18,277           28          0.2%
+                         2012         18,437          160          0.9%
+                         2013         18,433           -4           0%
+                         2014         18,323         -110         -0.6%
+                         2015         18,583          260          1.4%
+                         2016         18,928          345          1.9%
+                         2017         19,513          585          3.1%
+                         2018         19,385         -128         -0.7%
+                         2019         19,754          369          1.9%
+                         2020         20,218          464          2.3%
+                         2021         18,851        -1,397        -6.8%
+                         2022         19,390          539          2.9%
+                         2023         20,238          848          4.4%
+                      Source: NJ Department of Labor
+
+                                                                                            Page 23
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 28 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Much of the new employment in Montclair Township is related to oﬃce uses. Since 2009, over 128,000
+square feet of new oﬃce space has been built. Much of this oﬃce space is medical oﬃce, including
+33,000 square foot oﬃce space at 1 Seymour Street and 45,000 square feet of adjacent to Mountainside
+Hospital (located in Glen Ridge). A total of 95,625 square feet of new retail space has been built, and
+190 hotel rooms have been added in the MC Hotel and The George.
+
+The largest employment category in Montclair is Health and Social Which employs over 3,100 people.
+These are very high-paying jobs with average annual wages of over $132,000. The next largest
+employment category is Accommodations and Food Service, which employs over 1,975 people while the
+third largest category is Retail Trade, which employs over 1,100 people.
+
+                     Table 25: Third-Quarter Employment Trends by Industry – 2022
+                             Montclair Township, Essex County, New Jersey
+                                     Establishments       Employees        Annual           Total Wages
+             Industry
+                                        #        %        #       %         Wages
+ Utilities                              -        -         -       -           -                   -
+ Construction                          52       3%       307      3%       $73,030                -
+ Manufacturing                         24       1%       114      1%       $72,381          $25,982,491
+ Wholesale Trade                       33       2%       82       1%       $72,381          $13,105,774
+ Retail Trade                         141       9%      1,170    10%       $87,511          $11,347,261
+ Transportation/Warehousing             -        -         -       -       $86,158          $36,961,790
+ Information                           61       4%       233      2%           .                   -
+ Finance/Insurance                     56       3%       342      3%           .             $30,745,190
+ Real Estate                           53       3%       383      3%       $84,680          $41,123,010
+ Professional/Technical               247       15%      926      8%      $115,216          $ 27,414,899
+ Management                             -        -         -       -      $138,101          $78,793,811
+ Admin/Waste Remediation               54       3%       183      2%       $31,580                -
+ Education                             41       2%       748      6%           .             $10,786,960
+ Health/Social                        284       17%     3,119    27%      $132,001          $ 42,623,098
+ Arts/Entertainment                    49       3%       381      3%      $120,331          $221,813,661
+ Accommodations/Food                  149       9%      1,975    17%       $71,564          $12,816,564
+ Other Services                       290       18%     1,352    12%       $85,060          $65,054,069
+ Unclassified                           87      5%       117      1%           .             $50,513,918
+ Private Sector Total                1,642      99%    11,562    99%       $58,918           $6,415,892
+ Local Government Total                15               1,523              $56,983          $683,249,610
+ Local Government Education            13               1,034              $71,126                -
+Source: NJ Department of Labor
+
+
+
+
+                                                                                               Page 24
+       ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 29 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Employment Projec�ons
+         Average annual nonresiden�al construc�on 2 has added 71,000 square feet of oﬃce space and
+20,000 square feet of retail space over the past ten years. Addi�onal employment is an�cipated when
+development pursuant to the Lackawanna Plaza Redevelopment Plan is completed. The Redevelopment
+Plan requires construc�on of a new supermarket, 100,000 square feet of new oﬃce space and 90,000
+square feet of new retail space. Employment levels are expected to remain rela�vely stable, but the
+types of jobs will con�nue to focus on health services, management, professional, food and
+accommoda�ons industry sectors. The healthcare industry has several innova�ve segments which will
+likely expand. Pharmacies, wearable technology, medical systems, and other niche industries are
+projected to experience 7-9% in growth by 2027. Locally, healthcare support occupa�ons are projected
+to see a 12.9% increase and nurse prac��oners are projected to see a 46% increase by 2032 3. Outside of
+healthcare, employment growth is expected for cooks and data scien�sts. Given its large healthcare
+workforce, consistent up�ck in employment and diverse workforce, Montclair is expected to have a 2.6%
+increase in jobs by 2032.
+
+
+
+
+2
+    New Jersey Department of Community Aﬀairs Nonresiden�al Building Permit Data, 2013 to 2023.
+3
+    New Jersey State Data Center
+
+                                                                                                  Page 25
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 30 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+5. LAND MOST APPROPRIATE FOR AFFORDABLE HOUSING
+         Montclair Township is a fully developed community with limited vacant land available for
+development. Many of the buildings in the Township are historic, da�ng from the early 19th century, and
+many of the opportuni�es to create new aﬀordable housing involve adap�ve reuse or rehabilita�on of
+historic structures. The Historic Preserva�on Commission plays a cri�cal role in balancing historic
+preserva�on principles and crea�ng aﬀordable housing. New development is accomplished through a
+combina�on of private redevelopment, redevelopment ini�a�ves led by the Township and subdivision of
+exis�ng lots. Other proper�es that may be appropriate for aﬀordable housing include proper�es owned
+by faith-based organiza�ons who have excess facili�es that are no longer used by their congrega�on.
+These proper�es are typically located in residen�al neighborhoods where residen�al use is appropriate.
+Redevelopment of non-conforming proper�es in residen�al neighborhoods are also generally
+appropriate for aﬀordable housing. Also, vacant Township-owned land may also be appropriate for
+aﬀordable housing.
+
+Redevelopment
+       Land that is most appropriate for aﬀordable housing con�nues to be redevelopment of
+underu�lized proper�es. This generally includes proper�es that have become obsolete over �me.
+
+Lackawanna Plaza Redevelopment Plan
+The 8-acre Lackawanna Plaza area, for which a Redevelopment Plan was adopted in 2024, is planned for
+both aﬀordable housing and workforce housing. The site, located in the center of the Bloomﬁeld Avenue
+business district, contains an historic train sta�on that is a designated local, state and na�onal landmark.
+The site was redeveloped in the 1980s as a strip shopping center. The Redevelopment Plan an�cipates
+300 dwelling units, including 60 aﬀordable units and 30 workforce units, 90,000 square feet of retail
+space including a new supermarket and 100,000 square feet of oﬃce space.
+
+
+  Figure 5: Lackawanna Plaza
+      Redevelopment Plan
+
+
+
+
+                                                                                                    Page 26
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 31 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Montclair Center Gateway Phase 2 Redevelopment Area
+Another poten�al redevelopment project is the
+Montclair Center Gateway Phase 2 area which has
+been designated as an area in need of
+redevelopment, but a redevelopment plan has not
+been adopted. This area includes lots on the
+northeast side of the Bloomﬁeld Avenue/Valley
+Road intersec�on. It includes the current Montclair
+Township police sta�on and municipal court, which
+is an historic building that is obsolete for its current
+use. These proper�es total 1.68 acres in area, of
+which 1.31 acres are in the C-1 zone and .37 acres
+are in the R-2 zone. The C-1 Commercial zone
+district permits mixed use buildings up to 6-stories
+at a density of 55 units per acre and the R-2 Two-
+family Residen�al zone permits two-family homes.
+Redevelopment of these proper�es can provide an
+opportunity for aﬀordable housing.
+
+
+
+
+                                                                Figure 9: Montclair Center Gateway - Phase 2 redevelopment area.
+
+                                                               Figure 6: Redevelopment opportunity in Montclair Center Gateway Phase
+                                                               2 area.
+
+
+
+
+ Figure 7: Zoning in Montclair Center Gateway
+ Phase 2 area.
+
+
+
+
+ Figure 8: Proposed sky exposure plane along Portland Place.
+
+
+
+                                                                                                                Page 27
+      ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 32 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Walnut Street/Greenwood Avenue Area
+Addi�onal redevelopment is possible on
+underu�lized proper�es in the
+Township’s commercial districts. There
+are a few underu�lized commercial
+proper�es along Greenwood Avenue and
+Walnut Street, including the DeCamp bus
+depot and the NW Essex Development
+Facility on Walnut Street. These
+proper�es, which are all located in the C-
+2 zone district, total over 3 acres and
+provide a good opportunity for
+aﬀordable housing through new
+development using redevelopment or
+inclusionary zoning.
+
+
+
+
+                                                 Figure 10: Potential redevelopment area along Greenwood Avenue and Walnut
+                                                 Street.
+
+
+
+
+Figure 11: Aerial photo of potential Walnut Street/Greenwood Avenue redevelopment area.
+
+
+
+
+                                                                                                              Page 28
+        ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 33 of 69 Trans ID: LCV20261098013
+
+
+  Housing Element and Fair Share Plan
+  Township of Montclair, New Jersey
+
+  Acme Shopping Center
+  Another underu�lized property is located at
+  516 Valley Road in Upper Montclair. This
+  property contains a one-story commercial
+  building with a supermarket as an anchor.
+  The property is 2.17 acres in size with a large
+  surface parking lot located between the
+  building and the street. Adjacent land uses
+  include a 7-story residen�al building to the
+  north, the NJ Transit railroad tracks to the
+  west, one-story commercial uses to the south
+  and residen�al homes to the east. The
+  property is in the N-C Neighborhood
+  Commercial zone district which permits 3-
+  story mixed-use buildings at a maximum
+  density of 28 units per acre.
+
+                                                    Figure 12: Zoning for Acme Shopping Center.
+
+
+
+
+Figure 13: Photo of Acme shopping center.
+
+
+
+
+                                                                                                  Page 29
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 34 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Township-Owned or Leased Proper�es
+       Four Township-owned proper�es have been iden�ﬁed for poten�al development of aﬀordable
+housing.
+
+Wildwood Avenue Property
+This 2.63-acre tract of land (Block 4601, Lots
+80 and 82) is located adjacent to Brookdale
+Park between Wildwood Avenue and the
+entrance drive to Brookdale Park. The tract
+has 240 feet of frontage on Wildwood Avenue
+and 476 feet of frontage on the driveway to
+Brookdale Park and a lot depth of
+approximately 325 feet. The property is
+currently used by the Department of
+Community Services to store storm debris.
+
+The property is in the R-1 Single-Family
+Residen�al zone district. There are 17 lots on
+Wildwood Avenue between Grove Street and
+Brookdale Park. Of these lots, there are two
+3-family houses and six 2-familly houses. This
+property is appropriate for inﬁll development
+and is large enough to support a variety of
+                                                 Figure 14: Land use and location of subject property.
+inﬁll development typologies.
+
+
+
+
+                                                 Figure 15: Location of Wildwood Avenue Property
+
+
+
+
+                                                                                                         Page 30
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 35 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+53-55 New Street Property
+53-55 New Street is comprised of two lots (Block
+3111, Lots 61 and 62) totaling .23 acres in size that
+were acquired by Montclair Township in 2005 and
+were included in the 2009 Housing Element and Fair
+Share Plan. The two lots, which have a combined
+frontage of 100 feet and a lot depth of 103 feet, are
+located within walking distance (half-mile) to the Bay
+Street train sta�on. The 2009 Housing Plan
+designated the property for a total of four aﬀordable
+dwelling units in two duplex buildings with parking in
+the rear.
+
+
+
+
+                                                            Figure 16: Location of property on aerial map.
+
+
+
+
+                                        Figure 17: New Street property and adjacent land uses.
+
+
+
+
+                                                                                                             Page 31
+        ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 36 of 69 Trans ID: LCV20261098013
+
+
+  Housing Element and Fair Share Plan
+  Township of Montclair, New Jersey
+
+  14 Miller Street
+ The property at 14 Miller Street contains a
+ three-family home located in the R-2 Two-
+ Family zone. It has a parking area in the rear
+ yard as well as a community garden that is
+ used by the neighborhood. It is in the Miller
+ Street historic district which is included on the
+ State and Na�onal register of historic places.
+ The Township acquired this property in 2024
+ with the intent to sell or lease the property to
+ a non-proﬁt organiza�on to rehabilitate and
+ manage the aﬀordable units. The surrounding
+ proper�es are a mix of one- and two-family
+ homes. Two larger mul�-family buildings are
+ located across the street.
+
+
+                                                     Figure 18: Location of 14 Miller Street.
+
+
+
+
+Figure 19: Three-family home at 14 Miller Street.
+
+
+
+
+                                                     Figure 20: Aerial photo showing location of 14 Miller Street.
+
+
+
+
+                                                                                                              Page 32
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 37 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Mountain Avenue Train Sta�on
+The Mountain Avenue train sta�on is a
+historic train sta�on, built in 1893, that has
+included a 2nd-ﬂoor apartment since 1935.
+The property is owned by NJ Transit and is
+leased to Montclair Township. It is in the P
+Public zone and is in a residen�al
+neighborhood.
+
+The building is listed on Na�onal Register
+of Historic Places and is a locally-
+designated historic site. In 1935, half of
+the sta�on was made into a ﬁve-room
+duplex apartment, and it con�nued to
+serve as a residence through 2007.
+Tenants are required to maintain the
+                                                 Figure 19: Mountain Avenue Train Station.
+building, including the public wai�ng room
+on the ﬁrst ﬂoor, as part of their lease.
+
+The two-bedroom apartment has not
+been in use for over ten years and is in
+serious disrepair. The Township could
+rehabilitate the apartment and make it
+available as an aﬀordable unit.
+
+
+
+
+                                                 Figure 20: Aerial photo showing location of Mountain Avenue Train Station.
+
+
+
+
+                                                                                                               Page 33
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 38 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Faith-Based Organiza�ons
+         Religious ins�tu�ons, many of which are
+facing declining congrega�ons, are responding to
+the housing crises by adap�ng excess buildings
+and land to housing. Many of these ins�tu�ons
+own vacant buildings and underu�lized land in
+established neighborhoods. Repurposing
+religious structures may require resolu�on of
+property �tle issues or covenants limi�ng the
+permited uses of the structure, but these site-
+speciﬁc challenges generally cannot be resolved
+through zoning.
+
+In recent years, several religious ins�tu�ons have
+sold oﬀ excess land and facili�es for private        Figure 21: Former First Church of Christ Scientist converted to
+development. For example, the former Church of oﬃce space on Hillside Avenue
+Christ Scien�st on Hillside Avenue was sold for
+development of oﬃce space, reserving a small
+part of the building for church services. Similarly,
+the First Congrega�onal Church on South
+Fullerton Avenue sold oﬀ excess land for
+development of two single-family homes on
+Plymouth Street.
+
+Over 58 acres of land in Montclair is owned by
+faith-based organiza�ons. These proper�es are
+scatered throughout the Township, and many         Figure 24: Single-family homes built on land formerly owned by
+contain historic buildings that can be adapted to  First Congregational Church on Plymouth Street.
+housing while maintaining their historic
+integrity. Likewise, some proper�es have excess
+land that may be used to build new aﬀordable
+housing. Most of these proper�es are in
+residen�al zone districts, so development with
+appropriate design controls ensure that these uses
+ﬁt in with the surrounding
+neighborhood. Examples include the former
+convent of Our Lady of Mount Carmel Church on
+Pine Street, which is designated as a local, state
+and na�onal historic landmark, and the building
+currently used as a nursery school on property
+owned by Union Congrega�onal Church on Cooper Figure 25: Former convent on property owned by Our Lady of
+Avenue. In addi�on, many of the faith-based          Mount Carmel Church on Pine Street
+organiza�ons own buildings formerly used as
+parsonages which can be used for aﬀordable housing.
+
+                                                                                                              Page 34
+   ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 39 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+
+
+
+                                                                          Page 35
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 40 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Nonconforming Proper�es in Residen�al Zones
+         Nonconforming proper�es in residen�al zone
+districts also provide opportuni�es to create
+aﬀordable and middle-income housing when current
+uses become obsolete and new uses are
+considered. There is almost 19 acres of land
+containing nonconforming uses in one- and two-family
+residen�al zone districts scatered throughout the
+Township. Examples include the oﬃce building on a
+one-acre lot on Beldin Place in Upper Montclair which
+is in the R-2 zone; Applegate Farm, an ice cream store
+on Grove Street on a 2.35 acre lot in the R-1 zone; and
+the Sawtelle Learning Center on South Mountain
+Avenue on a 4.8 acre lot in the R-O zone.
+                                                          Figure 26: Oﬃce building on Beldin Place.
+Zoning changes could be developed to encourage
+adap�ve reuse of these proper�es that includes housing that is aﬀordable to low-, moderate- and
+middle-income households.
+
+
+
+
+Figure 27: Applegate Farm on Grove Street.
+
+
+
+
+                                                                                                      Page 36
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 41 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Rooming House Conversions
+        A rooming house is deﬁned by the State of NJ as a boarding house where no personal or
+ﬁnancial services are provided to residents, and it involves ren�ng out individual rooms within a dwelling
+and tenants typically share kitchen and bathroom facili�es. There are nine rooming houses with a
+licensed capacity of 113 units in Montclair Township. These rooming houses, which are typically
+bedrooms with shared kitchens and bathrooms, some�mes include separate apartments. Rooming
+houses are generally aﬀordable, although without the deed restric�ons on aﬀordability. Many of
+Montclair’s rooming houses are in older buildings that need rehabilita�on. With investment in
+addi�onal kitchens and bathrooms, if necessary, these units can be rehabilitated to create new
+aﬀordable apartments or could be used for transi�onal or suppor�ve housing. There is a cluster of
+rooming houses in the vicinity Union Street and South Willow Street that may be appropriate for
+aﬀordable housing.
+
+Table 26: Rooming Houses in Montclair
+
+                          Licensed
+        Address                         Zone
+                          Capacity
+ 11 N. Mountain Ave           7         R-2
+ 12 Roosevelt Place          10         R-4
+ 21 South Willow St           20        R-3
+ 28 Union Street              15        R-2
+ 29 Union Street              15        R-2
+ 31 Union Street              15        R-2
+ 34 Union Street              8         R-2
+ 99 Valley Road               11        R-2
+ 179 Walnut Street            12        R-2
+                             113
+
+
+
+
+                                                 Figure 228: Rooming houses in Union Street/South Willow Street area.
+
+
+
+
+                                                                                                         Page 37
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 42 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+6. PROJECTION OF HOUSING STOCK AND FAIR SHARE DETERMINATION
+        Growth in the number of households in the US is expected to slow in the coming decades. 4 The
+number of households in the US is projected to rise by 8.6 million households, or approximately 860,000
+per year, between 2025 and 2035. This is less household growth than in any of the past three decades,
+when growth ranged from a low of 10.1 million households in the 2010s to a high of 13.5 million in the
+1990s. The projected slowdown in household growth will be driven by the underlying trend of slowing
+popula�on growth. In the coming decade, rising mortality and fewer births among an aging popula�on
+are expected to ﬁrst slow and then turn nega�ve the growth in the na�ve popula�on, leaving future
+popula�on growth en�rely dependent on future immigra�on. Mortality and birth rates are slow to
+move and therefore highly predictable, whereas future immigra�on levels are not. But even under
+signiﬁcantly higher assump�ons for future immigra�on, household growth is expected to decline over
+�me due to the projected decline in natural popula�on growth in the Census Bureau’s popula�on
+projec�ons, which drive the household projec�ons.
+
+In Montclair Township, new development is expected to decline from the pace exhibited over the last 10
+years. Average annual residen�al construc�on 5 over the past ten years has added 92 single- and two-
+family dwelling units and 685 mul�-family dwelling units, an average of 71 new dwelling units per year.
+This rate of housing produc�on is expected to decline to about 60 new dwelling units per year for a total
+of 600 new housing units by 2035. This includes the Lackawanna Plaza redevelopment project which is
+planned for 300 mul�-family units including 60 aﬀordable units and 30 workforce units.
+
+Third-Round Housing Obliga�on (2000 – 2025)
+        The Township’s 2009 Housing Element and Fair Share Plan addressed a third-round (2000 –
+2025) obliga�on of 320 units including a rehabilita�on component of 127 units and a prospec�ve need
+obliga�on of 162 units.
+
+Present Need
+The Plan requested credit for 34 units rehabilitated a�er April 1, 2000 and proposed to rehabilitate 41
+units through the Essex County rehabilita�on program supplemented with a new local housing
+rehabilita�on program. As indicated in Table 27 below, a total of 21 units were rehabilitated between
+2009 and 2024 between the two programs, bringing the total number of units rehabilitated to 52 units.
+
+
+
+
+4
+ Daniel McCue. “Household and New Housing Unit Demand Projec�ons for 2025 – 2035 and 2035 - 2045.” Joint
+Center for Housing Studies of Harvard University. January 2025.
+5
+  New Jersey Department of Labor & Workforce Development Annual Building Permit Data from 2013 to 2023.
+
+                                                                                                  Page 38
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 43 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+                            Table 27: 2009 Fair Share Plan – Present Need
+                           Township of Montclair, Essex County, New Jersey
+           Year             Program                  Address               Dollar Amount
+          2013          Essex HIP            236 Grove Street               $      25,000.00
+          2014          Essex HIP            610 Grove Street               $      25,000.00
+          2015          Essex HIP            10 Washington Street           $      25,000.00
+          2015          Essex HIP            137 No. Fullerton Avenue       $      28,467.50
+          2015          Essex HIP            8 Marston Place                $      25,300.00
+          2016          Essex HIP            24 Fulton Street               $      19,540.00
+          2017          Essex HIP            61 Mission Street              $      12,600.00
+          2017          Essex HIP            15 Sylvan Place                $      23,395.00
+          2018          Essex HIP            24 Appleton Place              $      24,510.00
+          2018          Essex HIP            50 Pine Street, 326            $      11,200.00
+          2021          Essex HIP            34 Willowdale Ave              $      24,850.00
+          2021          Essex HIP            15 Carey Court                 $      19,374.00
+          2022          Montclair HIP        51 Christopher St              $      29,000.00
+          2023          Montclair HIP        29 Windermere Rd               $      26,400.00
+          2023          Montclair HIP        155 Valley Road A              $      19,000.00
+          2023          Montclair HIP        155 Valley Road B              $      19,000.00
+          2024          Montclair HIP        610 Grove Street               $      22,350.00
+          2024          Montclair HIP        2 Wilfred Street               $      17,400.00
+          2024          Montclair HIP        104 Valley Road A              $      18,864.00
+          2024          Montclair HIP        104 Valley Road B              $      18,864.00
+         Subtotal       21 units                                            $     435,114.50
+
+
+Prospec�ve Need
+        The 2009 Housing Element and Fair Share Plan proposed to address the 162-unit prospec�ve
+need through exis�ng credits as summarized in Table 28 below. However, not all the units included in
+the Plan were provided as indicated in the evalua�on below. A total of 144 units and 39 bonus credits
+were provided for a total count of 183 units. As a result, an excess of 21 units were provided to address
+the third-round obliga�on.
+
+    1. 24 Elm Street - The two units at 24 Elm Street were not created and should be removed from
+       the 3rd Round Plan.
+
+    2. 53 – 55 New Street - The four units at 53-55 New Street were not created and should be
+       removed from the 3rd Round Plan.
+    3. 14 Mission Street - This 2-unit home was rehabilitated by HOMECorp and a deed restriction
+       with a 30-year term was recorded on the property on May 15, 1996. This deed restriction
+       expires at the first non-exempt transfer of title after May 14, 2026.
+
+
+
+                                                                                                 Page 39
+   ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 44 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+  4. 24 Mission Street – The property was administered by HOMECorp and was proposed to be
+     financed by both the DCA Balance Housing Program and Essex County HIP program. It was
+     proposed to be deed restricted from 2002 to 2032 for a total of thirty (30) years. It is unknown
+     why it was projected for a total of thirty (30) years. The past rules governing the DCA Balance
+     Housing Program, also called the Neighborhood Preservation Balanced Program, require that
+     units funded by the Balanced Housing Program must remain affordable for the time period
+     which is required by N.J.A.C. 5:93-9.2. N.J.A.C. 5:43-3.1(f). Second round COAH rules dictate
+     length of controls. It provides that:
+
+            “Municipalities receiving State Aid pursuant to P.L. 1978, c.14 (N.J.S.A. 52:27D-178 et
+             seq.) that exhibit one of the characteristics delineated in N.J.A.C. 5:93-2.3(b) shall adopt
+             measures to assure that newly constructed low and moderate income sales units remain
+             affordable to low and moderate income households for a period of not less than 10
+             years. The administrative entity shall do so by requiring all conveyances of newly
+             constructed low and moderate income sales units subject to the Act to contain the deed
+             restriction and mortgage lien adopted by the Council. (See Appendix E)”. N.J.A.C. 5:93-
+             9.2 (b).
+      The Township is an Urban Aid Municipality that receives State aid. The units are required to be
+      deed restricted for a period not less than 10 years. During the Township’s inves�ga�on, a
+      mortgage was found which demonstrates that there was a deed restric�on for ﬁ�een (15) years
+      beginning on February 1, 2002 and ending at the ﬁrst non-exempt transfer of �tle a�er January
+      31, 2017.
+
+  5. 25 Mission Street – The property was purchased by HOMECorp and was rehabilitated through
+     the DCA Balance Housing Program. It was sold on February 10, 1999 with a mortgage recorded
+     with the County that included a twenty-year deed restriction. The deed restriction ends at the
+     first non-exempt transfer of title after February 9, 2019.
+
+  6. 53 Mission Street – The property was purchased by HOMECorp and was rehabilitated through
+     the DCA Balance Housing Program. The property was sold on September 25, 1998 at which time
+     a deed restriction was recorded on the property with a term of 10 years. This deed restriction
+     expired in 2008. In November, 2018, the Township was notified that the owner wished to sell
+     the property. The Township informed the Housing Affordability Service that the Essex
+     Community Land Trust (ECLT), a non-profit organization, was interested in purchasing the
+     property. The ECLT decided not to purchase the property in December 2018, and the property
+     was sold at market rate in 2019 and a recapture fee of $86,816.70 was deposited into the
+     Township’s Housing Trust Fund.
+
+  7. 59 Mission Street – The property was administered by HOMECorp and was proposed to be
+     financed by the DCA Balance Housing Program, which at the time of the proposed deed
+     restriction, required a deed restriction of no less than ten (10) years. The Township was unable
+     to locate a deed restriction for this property and has removed the units associated with this
+     property from the Fair Share Plan.
+
+
+                                                                                                Page 40
+   ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 45 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+  8. 62 Mission Street – The property was administered by HOMECorp and was proposed to be
+     financed by the DCA Balance Housing Program, which at the time of the proposed deed
+     restriction, required a deed restriction of no less than ten (10) years. The Township was unable
+     to locate a deed restriction for this property and has removed the units associated with this
+     property from the Fair Share Plan.
+
+  9. 68 Elmwood Avenue - The property was administered by HOMECorp and was proposed to be
+     financed by the DCA Balance Housing Program, which at the time of the proposed deed
+     restriction, required a deed restriction of no less than ten (10) years. During the Township’s
+     investigation, a mortgage was located which demonstrates that there was a deed restriction for
+     fifteen (15) years beginning on February 1, 2002 and ending at the first nonexempt transfer of
+     title after January 31, 2017.
+
+  10. 16 Miller Street - The property was administered by HOMECorp and was proposed to be
+      financed by the Essex County Home Program, which is referred to as the “Federal HOME
+      Program”. The Federal Home Program requires that twenty (20) years is the minimum period of
+      affordability for new construction or acquisition of newly constructed housing. 24 CFR 92.504
+      Avery’s Exhibit E-v, page 1 provides a deed dated January 10, 2002 and a corrective deed dated
+      September 20, 2016, which acknowledges that the “cost of rehabilitation of the Property has
+      been satisfied out of the proceeds of a certain loan from the County of Essex under the Federal
+      HOME Program and that the premises to be constructed shall be subject to the affordability
+      requirements contained in 24 Code of Federal Regulation, Part 92… The premises to be acquired
+      shall be subject to the specific provisions for affordability contained in 24 CFR 92.504 for a
+      period of twenty years from the date of completion of the project (issuance of a certificate of
+      occupancy for the use of the premise). The property has a deed restriction dated October 23,
+      2002 between Homes of Montclair Ecumenical Corp and the current owner, Jason Field.
+
+  11. 24 Miller Street - The property was administered by HOMECorp and was proposed to be
+      financed by the DCA Balance Housing Program, which at the time of the proposed deed
+      restriction, required a deed restriction of no less than ten (10) years. During the Township’s
+      investigation, a mortgage was located which demonstrates that there was a deed restriction for
+      fifteen (15) years beginning on October 1, 2000 and ending at the first non-exempt transfer of
+      title after September 30, 2015.
+
+  12. 26 Miller Street - The property was administered by HOMECorp and was proposed to be
+      financed by the DCA Balance Housing Program, which at the time of the proposed deed
+      restriction, required a deed restriction of no less than ten (10) years. During the Township’s
+      investigation, a mortgage was located which demonstrates that there was a deed restriction for
+      fifteen (15) years beginning on February 1, 2001 and ending at the first non-exempt transfer of
+      title after January 31, 2016.
+
+
+
+
+                                                                                               Page 41
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 46 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+                          Table 28: 2009 Fair Share Plan – Prospec�ve Need
+                           Township of Montclair, Essex County, New Jersey
+ Program              Project                  Type                        Units       Bonus    Total
+ Redevelopment        Siena                        Family Ownership            10        0         10
+                      Alister                        Family Rental             17        17        34
+ Inclusionary         69-83 Bay Street             Family Ownership             1        0          1
+ Development          24 Elm Street                Family Ownership             0        0          0
+                      The Montclarion                Family Rental             18        0         18
+ Gut                  19 Elmwood                     Family Rental              2        0          2
+ Rehabilitation       58 Maple Avenue                Family Rental              2        0          2
+                      43 Glenridge Avenue            Family Rental              2        2          4
+                      55 Glenridge Avenue            Family Rental              6        6         12
+                      14 Mission Street           Family Sale w/Rental          2        0          2
+                      24 Mission Street           Family Sale w/Rental          2        1          3
+                      25 Mission Street           Family Sale w/Rental          2        0          2
+                      53 Mission Street           Family Sale w/Rental          2        0          2
+                      59 Mission Street           Family Sale w/Rental          2        0          2
+                      62 Mission Street           Family Sale w/Rental          3        0          3
+                      68 Elmwood Avenue           Family Sale w/Rental          2        0          2
+                      16 Miller Street                Family Sale               1        0          1
+                      24 Miller Street            Family Sale w/Rental          2        0          2
+                      26 Miller Street            Family Sale w/Rental          2        1          3
+                      25 William Street              Family Rental              3        3          6
+                      33 William Street              Family Rental              5        5         10
+ 100% Affordable      53-55 New Street             Family Ownership             0        0          0
+ Senior Housing       Pine Ridge of Montclair        Age Restricted            40        0         40
+ Alternative Living   ARC of Essex County       Supportive/Special Needs       10        2         12
+ Arrangements         Covenant House            Supportive/Special Needs        8        2         10
+ TOTAL                                                                         144       39        183
+
+
+The Township has 143 units of aﬀordable housing that exceed the third-round prospec�ve need
+obliga�on and can be applied to the fourth-round obliga�on. Most of these units, which are detailed in
+Table 29, have been created through redevelopment and inclusionary zoning in large mul�-family and
+mixed-use development projects located along the Bloomﬁeld Avenue corridor.
+
+
+
+
+                                                                                               Page 42
+       ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 47 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+                                Table 29: Excess Aﬀordable Housing Credits
+                              Township of Montclair, Essex County, New Jersey
+                  Project             # of Units             Type                  Mechanism
+       Valley and Bloom                   26             Family Rental           Redevelopment
+       Montclarion II                      2             Family Rental           Redevelopment
+       The Vestry                          8             Family Rental           Redevelopment
+       Two South Willow                   20             Family Rental           Redevelopment
+       The Clair                           4             Family Rental           Redevelopment
+       59 Church Street                    8             Family Rental           Redevelopment
+       58 James Street                     1              Family Sales                IZO
+       The Westerly                        2             Family Rental                IZO
+       57 James Street                     1             Family Rental                IZO
+       161-167 Glenridge Avenue            2             Family Rental                IZO
+       10 Elm Street                       4             Family Rental                IZO
+       Talbot Village                      6              Family Sales          100% Affordable
+       7 Sylvan Place                      2             Family Rental                IZO
+       14 North Willow Street              2             Family Rental            Market to Aff
+       Mental Health Association          12             Special Needs         Supportive Housing
+       27 Miller Street                    1             Family Rental        Extension of Controls
+       12 Miller Street                    2             Family Rental        Extension of Controls
+       Miller Street Cottages              5             Family Rental        Extension of Controls
+       Miller Street Homes                 9             Family Rental        Extension of Controls
+       The Mews                           20              Family Sales        Extension of Controls
+       Montclairion I                      6             Family Rental        Extension of Controls
+       Total                             143
+
+
+
+Calcula�on of Aﬀordable Housing Need
+         The Montclair Housing Commission worked with the Rutgers University Bloustein School to
+prepare a housing needs assessment for Montclair. 6 The report concluded that the Township needs
+approximately 1,259 rental units for renter households earning less than $50,000 as these households
+are paying more for housing than they can aﬀord. These households are cost burdened and even
+extremely cost burdened. This is comparable to HUD’s Comprehensive Housing Aﬀordability Strategy
+(CHAS), which analyzes aﬀordability issues and provides publicly available data. CHAS es�mated 1,280
+ren�ng households as severely cost burdened, meaning these households spend more than 50 percent
+of their income on housing costs.
+
+While household sizes have decreased over �me, the size of homes has grown. The median square
+footage of a single-family home built in the 1960s or earlier was approximately 1,500 square feet. In
+contrast, the median square footage of single-family homes built between 2000 and 2009 was
+approximately 2,150 square feet. This trend of smaller households and larger homes has exacerbated
+
+6
+    Aﬀordable Housing in Montclair, New Jersey: Challenges and Solu�ons. May, 2024
+
+                                                                                                 Page 43
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 48 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+the aﬀordability problem and limited access to homeownership. Demographic shi�s point to a need for
+more housing that is appropriate for senior ci�zens, including smaller units for an aging popula�on,
+mul�-genera�onal housing, accessory dwelling units and two-family homes. Housing development
+must be diversiﬁed beyond mul�family housing and encourage townhouses, small lot single family
+homes, and two-family homes which are undersupplied.
+
+7. FAIR SHARE PLAN
+        The Fair Share Plan addresses Montclair’s Present Need (rehabilita�on component) of 132 units.
+The Township maintained its designa�on as an Urban Aid Municipality in 2024, which means that the
+Township’s new aﬀordable housing obliga�on does not include a prospec�ve need and the Township
+does not have a prior round obliga�on. Despite the lack of an oﬃcial prospec�ve need, the Township is
+commited to advancing aﬀordable housing opportuni�es in the future and includes both exis�ng and
+new aﬀordable housing programs as part of the Fair Share Plan. Many of the programs iden�ﬁed in the
+Fair Share Plan will be funded through the Township’s Housing Trust Fund.
+
+Present Need
+         Present Need is the es�mated number of substandard exis�ng deﬁcient housing units occupied
+by low- and moderate-income (LMI) households. The US Department of Housing and Urban
+Development (HUD) and the US Census Bureau publish separate tables on housing age, lack of plumbing
+facili�es, lack of kitchen facili�es, and overcrowding. However, there is no data source that reports the
+number of units that meet any one of those three condi�ons. Therefore, this number is es�mated using
+data from exis�ng tables, with measures taken to account for overlap and to narrow the scope to
+deﬁcient housing units occupied by low- and moderate-income households. The DCA analysis u�lizes
+data from HUD’s Comprehensive Housing Aﬀordability Strategy (CHAS) dataset, which has municipal-
+level data on the number and percentage of LMI households from a special tabula�on of Census Bureau
+American Community Survey (ACS) data. The latest CHAS data release at the �me of calcula�on
+corresponds to the 2017-2021 5 Year Es�mates. To ensure data year and source consistency, the LMI
+deﬁcient housing calcula�on relies on 2017-2021 data.
+
+Montclair’s Present Need is 132 units. The Township will address this need by using 132 of the 143
+aﬀordable housing unit credits that exceed the third-round obliga�on. Most of these units, which are
+detailed in Table 22, have been created through redevelopment and inclusionary zoning in large mul�-
+family and mixed-use development projects located along the Bloomﬁeld Avenue corridor.
+
+Montclair Home Improvement Program
+        The Township can con�nue to preserve exis�ng aﬀordable housing through the Township’s
+Home Improvement Program that started in 2020 and has been used to rehabilitate eight dwelling
+units. The program provides up to $24,000 for an eligible owner-occupied single-family home and up to
+$15,000 for eligible mul�-family proper�es. This program not only provides funding for income-eligible
+households in the Township to make bring their homes up to code, but it also provides a resource to
+non-proﬁt organiza�ons. This includes HOMECorp, who owns 61 rental units aﬀordable to low- and
+moderate-income households that require improvements to be building code compliant.
+
+
+
+
+                                                                                                 Page 44
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 49 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+One of the problems with the home improvement program is that it cannot be used to improve homes
+that require more funding than permited to bring the home up to current code. Gut rehabilita�on is
+deﬁned as “any project where the extent and nature of the work is such that the work area cannot be
+occupied while the work is in progress and where a new cer�ﬁcate of occupancy is required before the
+work area can be reoccupied, pursuant to the Rehabilita�on Subcode, N.J.A.C. 5:23-6. Reconstruc�on
+shall not include projects comprised only of ﬂoor ﬁnish replacement, pain�ng or wallpapering, or the
+replacement of equipment or furnishings. Asbestos hazard abatement and lead hazard abatement
+projects shall not be classiﬁed as reconstruc�on solely because occupancy of the work area is not
+permited.” The program could be expanded to include funding for gut rehabilita�on, allowing up to
+$60,000 per unit and include a longer-term deed restric�on to reﬂect the larger Township investment.
+
+Preserva�on of Naturally Occurring Aﬀordable Housing (NOAH)
+         Smaller, older single-family homes are the largest source of naturally occurring aﬀordable housing
+(NOAH), which are unsubsidized privately owned residences that are aﬀordable to low- or moderate-
+income households. A signiﬁcant pocket of older, smaller homes is in the vicinity of Mission Street, New
+Street, Maple Avenue, Wheeler Street, Elmwood Avenue and Washington Street. This neighborhood
+started as housing for African Americans who worked as servants in nearby estates or as workers in local
+mills. As African Americans became more prosperous, they moved to larger homes in the south end of
+the Township. A�er World War I, the neighborhood’s cultural and ethnicity diversiﬁed, atrac�ng working
+class Italians and other immigrant groups seeking aﬀordable housing.
+
+Many of these units are in a prime loca�on within easy walking distance to the Bay Street train sta�on.
+This area is characterized by narrow lots and a dense development patern that reﬂects its historical
+origins. There is a mix of one-family and two-family structures, with some larger apartment buildings
+containing up to 10 dwelling units. As housing costs have skyrocketed in Montclair, NOAH units have
+been lost and replaced with a much larger and more expensive home that is not aﬀordable to exis�ng
+residents. The challenge is to retain the Township’s exis�ng NOAH.
+
+Zoning changes can be established to help preserve the Township’s NOAH. Many of the principal
+structures were constructed in the late 1800s to early 1900s and do not conform to the current R-2 zone
+requirements. Side yard setbacks are o�en less than the minimum permited 6 feet and 10 feet. The
+average lot width is 38 feet compared to the minimum lot width requirement of 60 feet in the R-2 zone.
+These nonconforming condi�ons are prevalent throughout the neighborhood, highligh�ng a
+misalignment between the exis�ng built environment and current zoning standards.
+
+Zoning changes are recommended to limit building sizes to reﬂect exis�ng scale. A new R-2A zone
+district is recommended for this area with lot size, lot width, building setbacks and home sizes that
+reﬂect the exis�ng scale of the neighborhood. This new zone could include a sliding-scale Floor Area
+Ra�o to create maximum total building volume in comparison to lot size. For example, lots under 5,000
+square feet might receive a 0.50 FAR, while lots over 10,000 square feet would be limited to 0.35 FAR.
+Adjus�ng side yard setback requirements from the current 6 and 10 feet to 3 and 6 feet would beter
+align with the neighborhood's exis�ng development patern. This change recognizes and encourages the
+exis�ng shared driveways between alterna�ng proper�es throughout the area. The revised standards
+would maintain suﬃcient space between buildings.
+
+
+                                                                                                   Page 45
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 50 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+In addi�on, the use of historic preserva�on policies to prevent demoli�on of these buildings can prevent
+the destruc�on of NOAH proper�es. Currently, over 2,800 proper�es in the Township have been
+surveyed as a historic resource and are subject to the Township’s total demoli�on review process. Most
+of these proper�es are on larger lots, with only Wheeler Street, Miller Street and Pine Street included.
+New zoning regula�ons, such as limi�ng the physical expansion of an exis�ng structure or establishing a
+residen�al ﬂoor area ra�o can help preserve these naturally aﬀordable units. The Township’s Home
+Improvement Program could target this neighborhood to ensure that eligible households take advantage
+of the program.
+
+
+
+
+                                                                                                Page 46
+   ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 51 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+
+
+
+                          Proposed New R-2A Zone District
+
+
+
+
+                                                                          Page 47
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 52 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Prior Round Obliga�on
+        Montclair’s prior round obliga�on is zero as the Township has met its third-round prospec�ve
+need.
+
+Prospec�ve Need
+         As an Urban Aid Municipality, Montclair Township does not have a fourth round prospec�ve
+need obliga�on. This does not mean that there is no need for aﬀordable housing in the Township – it
+simply means that the Township is exempt from the State’s aﬀordable housing mandate. Despite the
+lack of prospec�ve need, there are signiﬁcant housing issues to be addressed. Rents have increased
+substan�ally and have outpaced increases in household income, crea�ng a cost burden to
+renters. Likewise, housing values have increased signiﬁcantly making it diﬃcult for low- and moderate-
+income households to purchase homes. Larger redevelopment projects, which generated most
+aﬀordable units over the past 15 years, are mostly completed and housing policy needs to pivot to
+provide aﬀordable housing in smaller scale projects throughout the Township.
+
+The Township could con�nue to advance opportuni�es to create new aﬀordable housing through
+strategic redevelopment, inclusionary development, development of 100% aﬀordable housing on vacant
+Township-owned property, adap�ve reuse of property owned by faith-based organiza�ons, construc�on
+of suppor�ve and special needs housing and development of aﬀordable accessory dwelling units.
+Following are changes to the Montclair Code that are recommended to con�nue to create opportuni�es
+for aﬀordable housing in Montclair.
+
+Aﬀordable Housing Ordinance
+        As housing prices and rents have increased over the past 15 years, Montclair’s historic lower-
+income households have been forced to move out of the Township. As indicated in Table 6, the median
+household income in Montclair was 49% higher than the State median income in 2000. By 2023, median
+household income in Montclair was 67% higher than the State median income. As household incomes
+have increased, so have housing prices and rents. As indicated in Tables 9 and 10, the median value of a
+house was $601,100 in 2010 and the median monthly contract rent was $1,281. By 2023, the median
+value of a single-family home was $850,700 and the median monthly contract rent was $2,045.
+
+Renters are par�cularly cost burdened in Montclair. The current market rate rent of $2,045 is not
+aﬀordable for almost all low-income and very low-income households. In 2023 over 47.5% of renters
+are cost-burdened and pay more than 30 percent of their income towards housing as shown in Table 12.
+This is a signiﬁcant increase from 2010 when 41.9% of renter households paid more than 30% of income
+for housing. Lower-income households are being displaced from Montclair because of increased housing
+costs. These households tend to be more racially diverse, and as a result the Township’s historic Black
+and African-American popula�on is declining. In 2000, the Township’s Black popula�on was 34% of the
+Township’s total popula�on, and by 2020 this percentage decreased to 26.6%.
+
+The Township responded to this issue in 2018 by establishing a local preference. Speciﬁcally, Montclair
+Code §65-9B states that “the Aﬃrma�ve Marke�ng Plan shall include a local preference for all
+households that live in the Township of Montclair or are full-�me employees of either the Township of
+Montclair or the Township of Montclair Board of Educa�on.” This provision helps address displacement
+of the Township’s lower-income residents by giving priority to Montclair Township residents and
+
+                                                                                                Page 48
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 53 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+employees when marke�ng aﬀordable units. It is recommended that this provision remain to con�nue
+to combat displacement of Montclair’s low-income residents.
+
+Inclusionary Zoning Ordinance (IZO)
+         The Township’s Inclusionary Zoning Ordinance (IZO) could be amended to increase the
+aﬀordable housing set aside to 25 percent for any development applica�on requiring a use variance per
+NJSA 40:55D-70d. This change will ensure that any adap�ve reuse of nonconforming proper�es in
+residen�al zones will include a larger percentage of aﬀordable housing. In addi�on, the ordinance could
+be amended to require that 15% of the newly-created aﬀordable units be reserved for households with
+special needs. Currently, the IZO requires a minimum density of 8 dwelling units per acre. This
+minimum density could be eliminated as lower-density developments can be designed to include
+aﬀordable housing. Finally, the IZO could be amended to extend the aﬀordability controls to a minimum
+of 40 years for rental units and 30 years for sales units to be consistent with new statutory requirements.
+
+Most of the funds in the Montclair Township Housing Trust Fund are collected through the Township’s
+Development Fee Ordinance. The cash-in-lieu of op�on only applies when the IZO requirement creates
+a frac�onal unit. Montclair Code §347-161 provides the details of how the cash-in-lieu payment is
+calculated as follows.
+
+        Whenever this ar�cle permits a cash-in-lieu contribu�on, the contribu�on shall be calculated
+        based on the amount of the subsidy necessary to make one housing unit aﬀordable for
+        municipali�es in Montclair's region. The Township Council determines the required subsidy is
+        $197,391 (as of 2021). The subsidy amount may be revised periodically by the Township Council.
+
+In most cases, in-lieu fee levels are based on a consultant report that es�mates market prices and rents
+for the kinds of units that are typically being produced by local developers. A single fee is then set that
+applies to all projects for a year or some other deﬁned period. As the cash-in-lieu of payment is not a
+cri�cal funding source for the Housing Trust Fund, a lengthy consultant report to determine the correct
+amount was not used when the in-lieu payment fee was revised in 2021. The in-lieu payment ordinance
+was amended in 2021 to reﬂect 2021 prices and generated a subsidy of $197,391. Applying the RS
+Means construc�on cost index to calculate the increase in construc�on costs from June 2021 to
+November 2024 shows in a cost increase of $48,025, changing the subsidy amount to $245,416. With an
+average construc�on cost of approximately $250 per square foot and an average apartment size of 1,000
+square feet, the subsidy for an aﬀordable dwelling unit could be about $250,000. The ordinance could
+be further amended to include an automa�c annual adjustment of the cash-in-lieu of payment based on
+the RS Means construc�on cost index.
+
+Zoning for Houses of Worship
+        In Montclair, houses of worship are permited as a condi�onal use in the R-2, R-3, OR-3, R-4, and
+OR-4 zone districts. Many houses of worship, however, are in the R-O, R-O(a), R-1 and N-C zone districts
+where they are not permited. The zoning requirements for houses of worship could be revised to make
+houses of worship permited condi�onal uses in all residen�al zone districts. The condi�onal use
+standards could be revised to permit adap�ve reuse of exis�ng buildings for 100% aﬀordable mul�-
+family uses and to permit development of unused land for 100% aﬀordable mul�-family housing. With
+
+
+
+                                                                                                   Page 49
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 54 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+appropriate design controls, historic buildings can be preserved, and new construc�on can maintain
+exis�ng neighborhood character. Senior and suppor�ve housing could also be a permited use.
+
+Residen�al Zoning Changes
+         The New Jersey Municipal Land Use Law
+speciﬁes that community residences for persons with
+developmental disabili�es, community shelters for
+vic�ms of domes�c violence, community residences for
+persons with terminal illnesses, community residences
+for persons with head injuries, and adult family care
+homes for persons who are elderly and adults with
+physical disabili�es are a permited use in all
+residen�al districts and the requirements are the same
+as for single family dwelling units located within such
+districts. Many of these facili�es are currently located
+in the Township’s residen�al zone districts as indicated
+in Table 31. The Township’s residen�al zone districts
+                                                           Figure 23: Essex Guest House at 271 Claremont Avenue.
+could be amended to clarify that suppor�ve housing
+and senior housing are permited uses. In addi�on,
+congregate living could also be permited in residen�al zone districts. Congregate living refers
+to housing where individuals or families share common areas and facili�es, while maintaining private
+living spaces. Amending the zoning ordinance to include a table of permited uses for residen�al zone
+districts, as shown in Table 32, would provide greater clarity regarding this issue.
+
+             Table 31: Alterna�ve Living Facili�es in Residen�al Zone Districts in Montclair
+
+         Project Name                             Type                       Address        Capacity     Zone
+ ARC of Essex County                Supportive Housing                 434 Washington Av       4          R-1
+ Horizon Manor North                Residential Health Care Facility   73 Overlook Rd         22          R-1
+ Memorial Home of U Montclair       Residential Health Care Facility   185 Fernwood Ave       14          R-1
+ Mental Health Association          Supportive Housing                 354 Orange Rd          12          R-1
+ Montclair Inn                      Senior Congregate Living           27 Hillside Ave        22          R-1
+ Oxford House                       Transitional Housing               21 Irving St            9          R-1
+ Walpan Manor                       Residential Health Care Facility   176 Christopher St     17          R-1
+ ARC of Essex County                Supportive Housing                  27 Claremont Ave       6          R-2
+ Covenant House                     Supportive Housing                 2 – 4 Walnut Pl        10          R-2
+ Essex Guest House                  Residential Health Care Facility   271 Claremont Ave      27          R-2
+ Horizon Manor South                Residential Health Care Facility   89 Christopher St       14         R-2
+ Little Nursing Home                Residential Health Care Facility   71 Chrisopher St        29         R-2
+ Real House                         Transitional Housing               95 Grove St.            18         R-2
+ Montclair Care Center              Residential Health Care Facility   111-115 Gates Ave       64         R-3
+ Montclair Manor                    Residential Health Care Facility   403 Claremont Ave       40         R-3
+ Nancy's Place                      Transitional Housing               32 S. Willow St         8          R-3
+ Real House                         Transitional Housing               31 N. Mountain Ave      23         R-3
+ Willows Home for Sr Citizens       Residential Health Care Facility   39 South Willow St      20         R-3
+
+
+
+                                                                                                         Page 50
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 55 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+                 Table 32: Sample List of Permited Uses in Residen�al Zone Districts
+
+                                                                   Residen�al Zones
+                       Uses
+                                                   R-O    R-O(a)       R-1    R-2      R-3   R-4
+    Principal Uses
+     Single-family dwelling, non-atached            P        P         P      P        P      P
+     Two-family dwelling                            N        N         N      P        P      P
+     Townhouses                                     N        N         N      N        P      P
+     Mul�-family dwellings                          N        N         N      N        P      P
+     Parks and open space                           P        P         P      P        P      P
+     Group homes                                    P        P         P      P        P      P
+     Congregate living arrangements                 P        P         P      P        P      P
+     Senior ci�zen housing                          P        P         P      P        P      P
+     Conversion of one-family dwellings to          N        N         N      P        C      C
+    two-family dwellings
+    Accessory Uses
+     Uses customarily incidental and associated     A        A         A      A        A      A
+    with permited principal uses
+     Accessory dwelling units                       A        A         A      A        N     N
+     Boats and trailers                             A        A         A      A        A     A
+     Dish antennas                                  A        A         A      A        A     A
+     Family daycare                                 A        A         A      A        A     A
+     Fences and walls                               A        A         A      A        A     A
+     Home occupa�ons                                A        A         A      A        A     A
+     Swimming pools                                 A        A         A      A        A     A
+     Tennis and basketball courts                   A        A         A      A        A     A
+     Parking                                        A        A         A      A        A     A
+     Signs                                          A        A         A      A        A     A
+    Condi�onal Uses
+     Assisted-living facili�es                      N        N         N      N        C     C
+     Boarding or rooming house                      N        N         N      N        C     C
+     Boarding homes for sheltered care              N        N         N      N        C     C
+     Cemetery                                       N        N         C      N        N     N
+     Houses of worship                              C        C         C      C        C     C
+     Museums                                        N        C         N      N        N     N
+     Nursing homes                                  N        N         N      N        C     C
+     Schools, public and private                    C        C         C      C        C     C
+     Wireless telecommunica�on facili�es            C        C         C      C        C     C
+P: Permited use
+N: Not permited use
+A: Accessory use
+C: Condi�onal use
+
+
+
+                                                                                             Page 51
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 56 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+
+
+
+ Figure 26: Walpan Manor at 176 Christopher Street.   Figure 27: Little Nursing Home at 71 Christopher Street.
+
+Overlay zones could be established for speciﬁc sites where 100% aﬀordable housing is proposed. This
+will provide site speciﬁc zoning requirements that reﬂects the characteris�cs of individual proper�es.
+Each overlay zone could include a density maximum that considers the type of housing proposed;
+align front and side yard setbacks with exis�ng structures on the same street; reduced parking
+requirements; and waive parking requirements if located within 1/4 mile of public transit access.
+
+
+
+Commercial Zoning Changes
+          There are several large proper�es in the C-2 zone district where redevelopment is an�cipated.
+Several changes are recommended to the C-2 zone district to clarify zoning requirements for new
+residen�al and mixed-use development. The C-2 zone district currently only allows new residen�al
+development where the site is adjoined by a residen�al use on at least one size, not coun�ng the rear.
+This is inconsistent with Montclair Code §347-84M which permits mixed-use buildings. In addi�on, the
+C-2 zone also includes a requirement added in 1980 that the conversion of exis�ng ﬂoor space to
+residen�al use is a condi�onal use, subject to compliance with the United States Department of Housing
+and Urban Development Minimum Property Standards, Volume 1 or 2 (1973), whichever is applicable,
+Chapter 4, and to a determina�on that such living facili�es will not be unduly exposed to noise and other
+adverse eﬀects of the commercial opera�ons on the property or adjoining proper�es. The minimum
+dwelling unit size is approximately 500 square feet, depending on the number of bedrooms. This is an
+unnecessary requirement as unit sizes are generally determined by the maximum density permited in
+the zone which is 28 units per acre.
+
+
+
+
+                                                                                                            Page 52
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 57 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Aﬀordable Housing Projec�on
+       Con�nua�on of the Township’s current aﬀordable housing program, supplemented with the
+proposed changes in zoning, can create a total of 209 new units of aﬀordable housing by 2035.
+
+                           Table 33: Aﬀordable Housing Projec�on Summary
+
+                                                                   Number of
+                                      Program
+                                                                 Aﬀordable Units
+                      Redevelopment                                   104
+                      Township-Owned or Leased Land                    16
+                      100% Aﬀordable Housing                           10
+                      Faith-Based Organiza�ons                          6
+                      Suppor�ve/Special Needs Housing                  28
+                      Extension of Aﬀordability Controls               40
+                      Accessory Dwelling Units                          5
+                      Total                                           209
+Redevelopment
+    Development of the proper�es iden�ﬁed as poten�al redevelopment areas could yield a total of 104
+aﬀordable units under current zoning including the 20 percent aﬀordable housing set aside
+requirement. Further, three of the four proper�es iden�ﬁed below are located within ½-mile of a train
+sta�on and development of these proper�es advances Transit-Oriented Development principles.
+Opportuni�es to combine aﬀordable housing with Transit-Oriented Development (TOD) could be
+encouraged.
+
+•   The 8-acre Lackawanna Plaza Redevelopment Plan, adopted in 2024, anticipates 300 dwelling units,
+    including 60 affordable units and 30 workforce units, 90,000 square feet of retail space including a
+    new supermarket and 100,000 square feet of office.
+
+•   The Montclair Center Gateway Phase 2 area includes a total of 1.31 acres in the C-1 Central Business
+    Zone and .37 acres in the R-2 Two-Family zone. Redevelopment of these properties could add
+    approximately 78 dwelling units under the existing zoning yielding 15 affordable units under the
+    current 20 percent set aside.
+
+•   Underutilized properties in the Walnut Street/Greenwood Avenue Area total 3.13 acres all within
+    the C-2 General Business and Light Manufacturing Zone. Development of these properties under
+    the current zoning would yield 87 dwelling units yielding 17 affordable units under the current 20
+    percent set aside.
+
+•   The Acme Shopping Center on Valley Road is 2.17 acres in the N-C Neighborhood Commercial zone
+    district. Redevelopment of this site under the existing zoning would create 61 dwelling units,
+    yielding 12 affordable units under the current 20 percent set aside.
+
+
+Township-Owned and/or Leased Land
+       The Township owns and/or leases four proper�es that are appropriate for aﬀordable housing
+and can provide a total 16 aﬀordable units.
+
+
+                                                                                                 Page 53
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 58 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Wildwood Tract
+
+This 2.63-acre tract of land is located
+adjacent to Brookdale Park between
+Wildwood Avenue and the entrance drive
+to Brookdale Park. This site is appropriate
+for inﬁll development and can support four
+two-family dwellings with parking in the
+rear. The Township can subdivide the part
+of the Township-owned property that
+fronts on Wildwood Avenue for
+development of four two-family homes,
+crea�ng a total of eight aﬀordable units.
+The property could be rezoned to a new
+AH-1 overlay zone to allow four lots
+measuring 60 feet wide by 150 deep. This
+design maintains the exis�ng neighborhood
+character. Design standards could require
+parking in the rear yard.                       Figure 28: Potential layout for subdivision of Township-owned land on
+                                                Wildwood Avenue.
+
+
+
+
+                                                                  AH-1 Zone
+
+
+
+
+                       Figure 29: Proposed AH-1 Overlay Zone
+
+
+                                                                                                             Page 54
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 59 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+53-55 New Street
+
+This .23-acre tract with a combined
+frontage of 100 feet and a lot depth of
+103 feet, located within walking
+distance (half-mile) to the Bay Street
+train sta�on. The Township could
+create an AH-2 overlay zone for this
+property so that it can be subdivided                                      AH-2 Zone
+to create two lots. Each lot can be
+sold for development of four
+aﬀordable units in two duplex
+buildings with parking in the rear.
+
+
+
+
+                                          Figure 30: Proposed AH-2 Zone
+
+14 Miller Street
+
+The Township could create an AH-3 overlay zone for this property so that it can be sold to an
+organiza�on to rehabilitate the building to create three aﬀordable units.
+
+
+
+
+                                                               AH-3 Zone
+
+
+
+
+                                           Figure 31: Proposed AH-3 Zone
+
+
+
+
+                                                                                                Page 55
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 60 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Mountain Avenue Train Sta�on
+
+The Township is currently renego�a�ng a
+lease with NJ Transit for use of the historic
+train sta�ons in Montclair Township. This
+lease includes the Mountain Train Sta�on
+which in the past has been subleased by the
+Township for residen�al use. This sta�on
+could be rehabilitated and aﬃrma�vely
+marketed to provide one aﬀordable unit. This
+property is currently in the P Public zone
+district. A new AH-4 overlay zone is                                         AH-4 Zone
+recommended for the property to make this a
+permited use.
+
+
+
+
+                                                   Figure 32: Proposed AH-4 Overlay Zone.
+
+100% Aﬀordable Housing
+HOMECorp is a non-proﬁt organiza�on that has partnered with the Township over the past 30 years to
+create opportuni�es for aﬀordable housing. HOMECorp currently owns and manages 62 units of low-
+and moderate-income housing. HOMECorp, however, has signiﬁcant ﬁnancial diﬃcul�es due par�ally to
+non-payment of rent during COVID and other management problems. The organiza�on is looking to
+expand its housing supply and add moderate-income units to support the cost of managing its aﬀordable
+units. Currently, six of their proper�es are in tax arrears and tax liens have been sold. In addi�on, the
+Township has provided HOMECorp with $410,000 from the Housing Trust Fund to create 16 aﬀordable
+units through the Market to Aﬀordable program. HOMECorp has requested a series of zoning changes to
+allow addi�onal development on their proper�es.
+
+Miiller Street Proper�es
+
+Miller Street is noted for its history of providing worker housing, built in the late 1800’s and is a local and
+state historic district. The proper�es on the west side of Miller Street are mostly one- and two-family
+homes while the proper�es on the east side of Miller Street are mul�-family buildings. HOMECorp owns
+four proper�es on Miller Street containing 17 aﬀordable units as follows:
+
+    •   17 – 27 Miller Street: 6-unit building
+    •   9 – 15 Miller Street: 9-unit building
+    •   12 Miller Street: 2-family building
+    •   18 Miller Street: vacant lot
+
+
+
+
+                                                                                                       Page 56
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 61 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+
+These proper�es are in the R-2(60)
+Two-Family zone district. The
+buildings at 12 Miller Street and 18
+Miller Street are typical of Miller
+Street and could be regulated the
+same as other proper�es in the zone.
+The buildings at 9 – 27 Miller Street
+are unique and could be included in a
+separate AH-5 Aﬀordable Housing
+overlay district with zoning and
+aﬀordable housing requirements that
+                                                                     AH-5 Zone
+are unique to the proper�es in
+ques�on.
+
+
+
+
+                                        Figure 33: HOMECorp Miller Street properties and proposed AH-5 overlay zone.
+
+
+
+
+                                                                                                       Page 57
+      ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 62 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+
+
+                                                                          AH-1 zone
+
+
+
+
+Figure 34: Aerial photo of HOMECorp properties on Miller Street.
+
+
+
+
+Figure 35: 17 - 27 Miller Street
+
+
+
+
+                                                                               Page 58
+      ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 63 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+
+
+
+Figure 36: 9 - 15 Miller Street
+
+William Street Proper�es
+
+HOMECorp owns two proper�es on William Street. The property at 25 William Street includes a ﬁrst-
+ﬂoor retail use and six aﬀordable dwelling units while the property at 33 William Street contains six
+aﬀordable dwelling units. Both proper�es are in the R-2 Two-Family zone. HOMECorp requests that the
+zoning be amended to permit mixed-use development with commercial/retail on the ﬁrst ﬂoor with 3 or
+4 stories of residen�al above. A new AH-6 Aﬀordable Housing overlay district could be established for
+these proper�es.
+
+
+
+
+                                                       AH-6 zone
+
+
+
+
+                 Figure 37: Location of HOMECorp’ s William Street properties and proposed AH-2 overlay zone.
+
+
+
+                                                                                                                Page 59
+   ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 64 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+
+
+
+                  Figure 38: Aerial photo of HOMECorp’ s William Street properties.
+
+
+
+
+                                                                                      Page 60
+   ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 65 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+
+
+
+                       Figure 39: HOMECorp property at 25 William Street.
+
+
+
+
+                       Figure 40: HOMECorp property at 33 William Street.
+
+
+                                                                            Page 61
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 66 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Faith-Based Organiza�ons
+          The Township has received
+inquiries from several faith-based
+organiza�ons about providing
+aﬀordable housing, and several
+organiza�ons have vacant and/or
+obsolete facili�es or vacant land that
+are available for aﬀordable housing.                                        AH-7 zone
+The Township has been working with
+Our Lady of Mt. Carmel Church to
+evaluate reuse op�on for their former
+convent at 102 Pine Street. This
+property, which is in the R-4 zone
+district, is a historic building that
+could be adapted to 100% aﬀordable
+housing. Working with an aﬀordable
+housing partner, the building can be
+adapted and expanded to include 6
+aﬀordable units. This property could
+be rezoned to a new AH-7 overlay
+zone to permit conversion and
+expansion of the former convent to     Figure 41: Proposed AH-7 overlay zone.
+permit 6 aﬀordable units.
+
+
+
+
+                                                                                        Page 62
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 67 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Suppor�ve/Special Needs Housing
+The Township has been working with the
+Crawford Crews American Legion Post who
+owns the building at 210 Bloomﬁeld Avenue
+which was founded in 1934 to honor WWI
+"Hell ﬁghters." The American Legion has
+received approval from the Historic
+Preserva�on Commission to demolish the
+exis�ng building and plans to build a new                                    AH-8 zone
+building with a new American Legion Hall on
+the ﬁrst ﬂoor and eight aﬀordable units for
+homeless veterans on the upper ﬂoors. This
+property could be rezoned to a new AH-8
+zone to permit development of on this site to
+permit 8 aﬀordable units.
+
+
+
+
+                                                Figure 42: Proposed AH-8 overlay zone.
+
+The Township has also been working with Cohome, a non-proﬁt organiza�on that provides independent
+living opportuni�es for adults with disabili�es through aﬀordable housing partnerships, as well as a
+direct support program to help clients achieve their independent living goals. Cohome is looking to
+create two models of suppor�ve housing in Montclair. One is to create suppor�ve apartments by
+managing some of the aﬀordable housing created through the Township’s inclusionary zoning program.
+The second model is to acquire residen�al proper�es to create coliving homes where mul�ple
+individuals, with and without disabili�es, live together as one family. While it is possible to create a
+coliving situa�on in a single-family house, acquisi�on of a rooming house would be a good opportunity
+to create this type of suppor�ve housing. Overall, a total of 20 aﬀordable suppor�ve housing units are
+projected.
+
+
+
+
+                                                                                                 Page 63
+     ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 68 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+Extension of Aﬀordability Controls
+The Township has an Extension of Aﬀordability Controls program that permits the Township to provide
+grants in the amount of $15,000 to owners of proper�es whose aﬀordability controls have expired in
+exchange for extending the aﬀordability controls for another 30 years. Assembly Bill A4, which was
+adopted on March 20, 2024, states that the updated UHAC regula�ons could require that units with
+expiring controls must have an extended aﬀordability restric�on of a minimum of 60 years when the
+original deed restric�on term is combined with the new deed restric�on term. The Township could
+increase the amount of the grant to extend aﬀordability controls and work to extend the aﬀordability
+controls on exis�ng aﬀordable units to ensure the supply of aﬀordable housing in the future. HOMECorp
+has 40 units whose aﬀordability controls have either expired or will expire by 2035. It is an�cipated that
+the funding from the Extension of Aﬀordability Controls program will be used to extend the aﬀordability
+controls on these 40 aﬀordable units so that the combined term of the deed restric�ons is at least 60
+years.
+
+                        Table 34: Proper�es with Expiring Aﬀordability Controls
+
+
+                               Project            Total    Status     Type      Exp.
+
+                     25 William Street             6      Complete   Rental    2021
+                     33 William Street             6      Complete   Rental    2021
+                     43 Glenridge Avenue           6      Complete   Rental    2024
+                     89 Maple /1 Woodland Ave      5      Complete   Rental    2024
+                     4 Washington Street           9      Complete   Rental    2030
+                     55 Glenridge Avenue           6      Complete   Rental    2036
+                     87 Mission St/19 Elmwood      2      Complete   Rental    2038
+                     Total                         40
+
+
+
+Accessory Dwelling Units
+An Accessory Dwelling Unit (ADU) is a residen�al living unit with complete independent living facili�es,
+including kitchen and bathroom, located on the same lot as a one-or-two family home. It may take
+various forms including a detached unit; a unit that is part of an accessory structure such as a detached
+garage; or a unit that is part of an expanded or remodeled dwelling. ADUs provide a “hidden housing”
+market by crea�ng housing opportuni�es on developed proper�es within the context of exis�ng land
+use paterns. Because of their limited size, they are structured to provide “aﬀordable” housing without
+the tradi�onal aﬀordability controls.
+
+Montclair recently amended its ADU ordinance to expand its applicability so that ADUs are permited in
+all one- and two-family zoning districts. While there has been much interest in crea�ng ADUs, the
+number of ADUs created is limited. While part of this is due to construc�on costs and ﬁnancing
+requirements, another limita�on is zoning restric�ons. The zoning regula�ons for ADUs could be revised
+to make it easier to build ADUs. One problem faced by several property owners is that adap�ng or
+expanding a garage to create an ADU o�en requires that more than 50% of the garage façade be
+demolished, which quite o�en requires approval of a Total Demoli�on Permit from the Historic
+Preserva�on Commission. Garages that are demolished or altered to create an ADU could be evaluated
+
+                                                                                                  Page 64
+    ESX-L-000297-25 04/23/2026 2:52:24 PM Pg 69 of 69 Trans ID: LCV20261098013
+
+
+Housing Element and Fair Share Plan
+Township of Montclair, New Jersey
+
+by the HPC as a low-impact or minor applica�on to help ease the process of crea�ng ADUs. The
+Township could also develop ADU designs that are zoning compliant and can be used on most
+proper�es.
+
+The State of New Jersey has proposed a program to provide funding to create ADUs as aﬀordable
+housing and it is recommended that the Township par�cipate in this program. A total of 5 five
+aﬀordable units could be created through this program.
+
+
+
+
+                                                                                                Page 65
+

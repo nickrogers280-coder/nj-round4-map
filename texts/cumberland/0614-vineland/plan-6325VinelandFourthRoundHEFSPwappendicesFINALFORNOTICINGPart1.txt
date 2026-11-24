@@ -1,0 +1,2956 @@
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 1 of 71 Trans ID: LCV20251743750
+
+
+
+
+                              CITY OF VINELAND
+               CUMBERLAND COUNTY, NEW JERSEY
+                      Housing Plan Element & Fair Share Plan
+
+                              Fourth Round (2025-2035)
+
+
+
+
+                                     May 27, 2025
+
+
+
+
+                                       Prepared by:
+
+
+                                               CME Associates
+                                               1 Market Street, Suite 1F
+                                               Camden, NJ 08102
+                                               732-410-2651
+
+
+
+
+                            Christopher N. Dochney, PP, AICP
+                          NJ Professional Planner License # 6225
+
+The original document was appropriately signed and sealed in accordance with the Chapter 41
+                    Title 13 of the State Board of Professional Planners.
+CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 2 of 71 Trans ID: LCV20251743750
+
+
+
+
+                           ACKNOWLEDGMENTS:
+                      Vineland Mayor and City Council
+
+                          Anthony Fanucci – Mayor
+
+                      Paul Spinelli – Council President
+                    Cruz Gomez – Council Vice President
+                            Dr. Elizabeth Authur
+                                Scott English
+                               Albert Vargas
+
+
+                      City of Vineland Planning Board
+
+                         David Manders – Chairman
+                     Michael Pantalione – Vice Chairman
+                          Anthony Fanucci – Mayor
+                   Robert Odorizzi – Mayors Representative
+                             Dr. Elizabeth Arthur
+                                Nilsa Rosario
+                                 Sandy Velez
+                                John Casadia
+                                 Doug Menz
+                               David Catalana
+                       Thomas Tobolski – Alternate #1
+                       Jeffrey DiMatteo – Alternate #2
+
+                   Michael Malinsky, Esq. - Board Solicitor
+                     Yasmin Ricketts – Board Secretary
+          Ryan Headley, PE, PP, AICP, CME – Board Engineer/Planner
+
+
+
+                               Project Team
+
+                 Chris Dochney, PP, AICP – Project Manager
+                Ron Reinertsen, PP, AICP – Program Manager
+                         Myles Elgart – Staff Planner
+       CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 3 of 71 Trans ID: LCV20251743750
+
+
+
+
+CONTENTS
+Executive Summary ................................................................................................................. 1
+Introduction .............................................................................................................................. 2
+  Location and Context .............................................................................................................. 2
+     Geography .......................................................................................................................... 2
+     History and Development Patterns ...................................................................................... 2
+     Population History and Demographics ................................................................................ 3
+     State Development and Redevelopment Plan ..................................................................... 3
+  Affordable Housing ................................................................................................................. 5
+     First and Second Rounds.................................................................................................... 5
+     Third Round ........................................................................................................................ 5
+     Fourth Round ...................................................................................................................... 6
+  Vineland’s History of Compliance ........................................................................................... 6
+Housing Plan Element ............................................................................................................. 9
+  Demographics .......................................................................................................................11
+  Housing Conditions ...............................................................................................................15
+  Economic Conditions .............................................................................................................20
+Fair Share Plan ........................................................................................................................24
+  Consideration of Lands Suitable for Affordable Housing ........................................................24
+  Multigenerational Family Housing Continuity .........................................................................25
+  Fair Share Obligation .............................................................................................................26
+  Present Need (Rehabilitation) Obligation ...............................................................................28
+  Prior Round / Third Round Obligations (1987-1999 / 1999-2025) ..........................................29
+  Fourth Round Obligations ......................................................................................................29
+     Family Projects ..................................................................................................................29
+     Senior Rental Projects .......................................................................................................30
+  Summary of Fair Share Plan..................................................................................................32
+     Rehabilitation obligation .....................................................................................................32
+     Affordable Housing Projects ...............................................................................................32
+Housing Administration .........................................................................................................33
+  Affordable Housing Ordinance ...............................................................................................33
+  Development Fee Ordinance .................................................................................................33
+  Affordable Housing Trust Fund ..............................................................................................33
+  Affordability Assistance Program ...........................................................................................33
+  Municipal Housing Liaison .....................................................................................................33
+  Affordable Housing Administrative Agent ...............................................................................34
+  Income Levels .......................................................................................................................34
+Appendices .............................................................................................................................35
+   CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 4 of 71 Trans ID: LCV20251743750
+
+
+
+
+LIST OF APPENDICES:
+
+  A. Prior Rounds and Fourth Round Obligations
+        1. Resolution 2025-58 Adopting Fourth Round Obligation
+        2. Third Round Judgment of Compliance and Repose
+        3. Amended Third Round Judgment of Compliance and Repose
+  B. Administrative Documents
+        1. Rehab Program Manual
+        2. DRAFT Affordable Housing Trust Fund Spending Plan
+        3. Resolution Appointing MHL
+        4. Map of Affordable Housing Projects
+  C. Crediting Documents
+        1. AHTF Funded Rehab Projects
+        2. CDBG Funded Rehab Projects
+        3. Oak Hill Resolution of Approval
+        4. Third Street Projects
+        5. Newcomb Phase I and II
+        6. Newcomb Phase III Resolution of Approval
+        7. Veterans Project Concept Plan
+       CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 5 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                              May 2025
+
+EXECUTIVE SUMMARY
+
+The City of Vineland is a large city located in the northern end of Cumberland County along the
+banks of the Maurice River. The City historically developed as an industrial hub along the railroad
+and river, as well as a farming community. Today the City is a mix of urban development around
+its core in the central and western areas of the City, but remains rural woodlands and farmland in
+the south and east. The City’s current population is estimated at just over 60,000 people, with
+many of those people being considered low or moderate income as the City’s median household
+income is estimated to be approximately $64,500, which is $35,000 less than the statewide
+median. Vineland is committed to providing opportunities to house its low and moderate income
+population in affordable housing in decent homes in stable communities.
+
+This is the Fourth Round Housing Plan Element and Fair Share Plan for the City of Vineland,
+Cumberland County, prepared in accordance with the requirements of the Amended Fair Housing
+Act of N.J.A.C. 52:27D-304. The Fair Housing Act requires that every municipality in New Jersey
+provide for their “fair share” of the need for housing to serve the low and moderate income
+households within the greater region, through providing a realistic opportunity for the construction
+of housing units that would be priced to be affordable to low and moderate income households.
+
+In accordance with the Fair Housing Act, the City has the following affordable housing obligations.
+
+   •     A rehabilitation obligation of 276 units – These are existing homes in the community that
+         may be occupied by low or moderate income households, and are in need of repairs or
+         rehabilitation of major systems;
+   •     As a qualified urban aid municipality, the City does not have a prospective need (new
+         construction) obligation.
+
+Vineland proposes to satisfy these constitutional obligations through the following mechanisms
+and projects:
+
+   •     The City will satisfy its rehabilitation obligation through continuation of its Residential
+         Rehabilitation Program. This AHTF and CDBG funded program has already rehabilitated
+         160 homes in the City that are occupied by low or moderate income households. 220
+         additional homes are projected to be rehabilitated through this program through the year
+         2035.
+   •     Oak Hill – 58 units (family rental)
+   •     406-419 Third Street – 4 units (family sale)
+   •     Newcomb Senior I & II – 136 units (senior rental)
+   •     Newcomb Senior III – 60 units (senior rental)
+   •     Veterans Project – 28 units (senior rental)
+In total, the City proposes up to 286 affordable units of affordable housing, in addition to 612
+other existing affordable housing units within Vineland.
+
+
+
+
+                                                                                         1|Page
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 6 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                May 2025
+
+INTRODUCTION
+
+L OC A TI O N A N D C O NT E X T
+
+GEOGRAPHY
+
+The City of Vineland is located along the eastern bank of the Maurice River, within in northern
+portion of Cumberland County, within the greater southern region of New Jersey. It is one of the
+principal cities of the Vineland-Bridgeton metropolitan statistical area and located within the larger
+Philadelphia Metropolitan Area. The City borders Deerfield Township, Millville and Maurice River
+Township in Cumberland County to the east; Buena and Buena Vista Township in Atlantic County
+to the northeast; and Franklin Township and Newfield Boro in Gloucester County to the northwest;
+and Pittsgrove Township in Salem County to the west. The City encompasses a total of 68.39
+square miles of land and 0.60 square miles of water; primarily from the Maurice River.
+
+The City’s location along the Maurice River provides accessibility to the Delaware Bay and Atlantic
+Ocean, and has long made it a hub for industry and shipping. The City was serviced by the West
+Jersey and Seashore Railroad (WJ&S) which provided Train Service to Salem, Cape May,
+Atlantic City, Philadelphia/Camden, and many other inland and coastal towns in southern New
+Jersey. Today, NJ Transit provides bus transportation service to Cape May and Philadelphia,
+Millville, Upper Deerfield Township, and Atlantic City. Additionally, the primary transportation
+corridors in the City are, New Jersey State Route 47 (Delsea Drive) and New Jersey State Route
+55 which traverse north-south connecting the City to Millville and Franklin Township; and New
+Jersey State Route 56 or Landis Avenue which spans across the city from Pittsgrove Township
+into Buena Vista Township. Additional Cumberland County roads (540, 552, and 555) and local
+roads connect adjacent municipalities and neighborhoods to the City’s downtown. New Jersey
+State Route 55 makes up the majority the City’s major thoroughfares.
+
+
+
+
+Figure 1 Map of Cumberland County                   Figure 2 Map of Vineland City
+
+HISTORY AND DEVELOPMENT PATTERNS
+
+Vineland’s origins trace back to the 1860’s, when Charles Landis purchased 30,000 acres of
+property in 1861 to create an alcohol-free utopian society based on agriculture and progressive
+thinking. The first houses were built in 1862, and train service was established to Philadelphia
+
+
+                                                                                          2|Page
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 7 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                             May 2025
+
+and New York City. Vineland became an early temperance town, where the sale of alcohol was
+prohibited. Landis required that buyers of land in Vineland build a house on the purchased
+property within a year of acquisition, that 2+1⁄2 acres of the often heavily wooded land be cleared
+and farmed each year, and that adequate space be placed between houses and roads to allow
+for planting of flowers and shade trees along the routes through town. Landis Avenue was
+constructed as a 100-foot (30 m) wide and about 1-mile (2 km) long road running east–west
+through the center of the community, with other, narrower roads connecting at corners.
+
+The name of Vineland stems from the city’s rich soil for growing grapes. The City attracted many
+Italian grape growers to Vineland, offering 20 acres of land to grow grapes; Thomas Bramwell
+Welch founded Welch's Grape Juice, and purchased the locally grown grapes to make grape
+juice. The sandy ground also attracted the glass-making industry and was home to the Progresso
+soup company. Throughout the first half of the 20th century, most of the city was involved in the
+poultry industry, which led to the city being called The Egg Basket of America.
+
+The City of Vineland was officially formed on July 1, 1952, through the merger of Landis Township
+and Vineland Borough, based on the results of a referendum held on February 5, 1952
+
+Today, Vineland remains as the most populated municipality in Cumberland County. The city’s
+contains a mix of housing types, commercial services, public amenities, and municipal services.
+The city’s economic significance within the region was a key factor for its Urban Enterprise Zone
+(UEZ) designation in 1985 and its Main Street designation in 2005. These designations have
+promoted and improved the historic and economic redevelopment of the City’s downtown.
+
+POPULATION HISTORY AND DEMOGRAPHICS
+
+The City now has a population of 60,780 people according to 2020 Census count population data.
+This is a slight increase (56) from the 2010 Census count of 60,724 people, following a sharp
+increase (4,453) from the 2000 Census count 56,271. According to the SJTPO updated
+Population and Jobs Projections, Vineland City’s population is expected to be in-flux in the coming
+decades as the City is expected to have a population of 60,700 people by 2050.
+
+According to the 2020 Census, Vineland City had approximately 60,780 residents. Of this
+population, about 41% identified as White alone, 39% as Black or African American alone, 0.6%
+as Asian alone, 0.5% as American Indian and Alaska Native alone, and 16.4% as identifying with
+two or more races.
+
+Additionally, around 26,315 (43.30 %) of residents identified as Hispanic or Latino of any race,
+while 23, 626 (38.87 %) identified as White alone and not Hispanic or Latino.
+
+Census data from the 2023 ACS 5-Year Estimates indicates that the median household income
+in Vineland City is approximately $65,854. This figure is slightly higher than the median household
+income for Cumberland County, which stands at $64,499, but notably lower than the statewide
+median for New Jersey, which is approximately $101,050.
+
+STATE DEVELOPMENT AND REDEVELOPMENT PLAN
+
+According to the 2001 State Plan Policy Map, the City is mostly located in the Metropolitan
+Planning Area (PA1). Similarly, the surrounding municipalities of Greenwich City and West
+Deptford in Vineland County are all mostly located in the Metropolitan Planning Area (PA1) with
+
+
+
+                                                                                       3|Page
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 8 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                            May 2025
+
+Greenwich City having some areas located within the Suburban (PA 2) and Environmentally
+Sensitive (PA 5) Areas.
+
+The State Plan is designed to strategically direct investment and regulatory efforts toward
+maintaining and upgrading infrastructure in developed areas, restoring adequate public services
+in overburdened communities, and protecting New Jersey’s agricultural, natural, and cultural
+resources.
+
+Planning Areas defined in the State Plan Policy Map play a key role by establishing Policy
+Objectives that guide the implementation of the Statewide Policies. Planning Areas are areas of
+land that are greater than one square mile that share a common set of conditions, such as
+population density, infrastructure systems, level of development or protection of natural systems.
+
+
+
+
+   Figure 3: State Plan Policy Map
+
+
+
+
+                                                                                      4|Page
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 9 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                               May 2025
+
+A FFORDABLE H OUSING
+In 1975, the New Jersey Supreme Court decided that developing municipalities in New Jersey
+had a constitutional obligation to provide a realistic opportunity for its fair share of low-and
+moderate-income housing. That case, known as “Mount Laurel I,” became the seminal case in
+New Jersey fair share housing obligations. In 1983, frustrated with the lack of voluntary
+compliance, the Supreme Court sought to create an incentive for voluntary compliance. In what
+would become known as “Mount Laurel II,” the Supreme Court introduced the concept of a
+builder’s remedy suit, an enforcement action to compel compliance. The Court also called for the
+State Legislature to enact legislation that would save municipalities from the inefficiency of having
+the courts determine their affordable housing needs.
+
+FIRST AND SECOND ROUNDS
+
+In 1985, the Legislature adopted the Fair Housing Act, P.L. 1985, c.222 (“FHA”). The FHA created
+the New Jersey Council on Affordable Housing (COAH) and charged COAH with the responsibility
+of adopting regulations by which municipalities could determine their fair share responsibilities
+and the means by which they could satisfy those responsibilities. The Legislature also sought to
+promote voluntary compliance and empowered municipalities to submit to COAH’s jurisdiction
+and voluntarily comply under the protections of the COAH process from builder’s remedy lawsuits.
+
+Pursuant to the FHA, COAH adopted regulations for the first housing cycle in 1986; which covered
+the years 1987 through 1993 (“First Round”) and for the second housing cycle in 1994; which
+covered the years 1993 through 1999 (“Second Round”). Under both the First and Second
+Rounds, COAH utilized what is commonly referred to as the “fair share” methodology. The Second
+Round reevaluated the First Round obligations and combined them in later rounds to be called
+the ”Prior Round” obligations.
+
+THIRD ROUND
+
+In 2004, COAH adopted rules to address affordable housing from 1999 through 2014 (“Third
+Round”). COAH utilized a different methodology in the Third Round known as “growth share.” The
+“growth share” approach created a nexus between the production of affordable housing and future
+residential and non-residential development within a municipality, based on the principle that
+municipalities should provide affordable housing opportunities proportionate to their market rate
+residential growth, and that, along with employment opportunities there should be proportionate
+opportunities for affordable housing. This methodology was challenged in court. In January 2007,
+the New Jersey Appellate Division invalidated key aspects of COAH’s Third Round rules and
+ordered COAH to propose and adopt amendments to its rules to address any deficiencies.
+
+In July 2008, the Legislature amended the FHA (P.L. 2008 c. 46), including the imposition of a
+non-residential construction fee, the elimination of regional contribution agreements, and the
+addition of the category of very low-income housing. Bookending the FHA’s amendment, COAH
+adopted new Third Round rules in May 2008 and amendments in October 2008. COAH’s rules
+were again challenged in court. In October 2010, the Appellate Division invalidated the “Growth
+Share” methodology and returned New Jersey to the “fair share” methodology of the First and
+Second Rounds. In September 2013, the Supreme Court affirmed the Appellate Division’s
+decision.
+
+
+
+
+                                                                                         5|Page
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 10 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                              May 2025
+
+In October 2014 COAH was deadlocked and failed to adopt their newly revised Third Round
+regulations. Fair Share Housing Center, who was a party to earlier cases, responded by filing a
+motion in aid of litigants’ rights with the New Jersey Supreme Court. In March 2015, the Supreme
+Court ruled that COAH had failed and returned jurisdiction of affordable housing issues back to
+the trial courts as it had been prior to COAH’s creation.
+
+Since the 2015 Mt. Laurel IV decision, municipalities have turned to the courts to seek a
+declaratory judgement of their housing plans to determine whether they are meeting their
+constitutional affordable housing obligations, and to be granted immunity from any “builder’s
+remedy” lawsuits. With no COAH functioning and providing guidance to municipalities to
+determine their municipal fair share of statewide and regional obligations, a number of
+independent groups produced their own reports to determine individual obligations across the
+state. In several court decisions in 2016 and 2018, judges in Middlesex and Mercer County
+developed a methodology following closely one proposed by Fair Share Housing Center to
+determine municipal obligations. In the 2018 decision by Judge Jacobson, it was further
+determined that the initial period of the Third Round which had not been addressed (1999 – 2015)
+known as the “gap period” is to be included in each municipality’s fair share calculations to
+address the Third Round.
+
+FOURTH ROUND
+
+In March of 2024, P.L. 2024, c.2 was signed into law establishing new procedures for determining
+statewide needs and municipal obligations for low- and moderate-income housing. This new law
+formally abolished COAH and established a new Affordable Housing Dispute Resolution Program,
+also known as the “Program” for resolving affordable housing disputes, as well as the authority to
+review and certify municipal fair share housing plans. The law required that the Department of
+Community Affairs (DCA) calculate municipal affordable housing obligations by October of 2024,
+then municipalities could accept DCA’s calculations or determine their own fair share obligations
+by applying the methodology of the Jacobsen decision in Mercer County and adopt a binding
+resolution setting those obligation numbers. The law also provided revisions to the crediting
+structures for affordable units, with changes to the types of affordable units that are permitted to
+be granted bonus credits. The law established timelines for submission of documents to
+demonstrate compliance with the Fair Housing Act.
+
+In addition to the revisions to low- and moderate-income housing crediting, the amended law
+established a new Affordable Housing Alternative Dispute Resolution Program. The Program is
+intended to adjudicate any disputes in affordable housing, and function as the administrative body
+responsible for reviewing and certifying municipal compliance with the Fair Housing Act. Through
+the Program and the Administrative Office of the Courts, municipalities seeking a judgment of
+compliance with Affordable Housing regulations must submit their plans to the Program for
+certification and to retain immunity from any potential builder’s remedy lawsuits.
+
+V I NE L A N D ’ S H I S T OR Y OF C OM PL I A NC E
+
+On February 3, 1993, Vineland was granted First Round substantive certification from COAH for
+the six-year period from 1987-1993, which included 246 units of prior cycle credits constructed by
+the Vineland Housing Authority between 1980 and 1986.
+On April 5, 2000, Vineland received Second Round substantive certification from COAH for the
+housing period of 1993-1999, including the first round, as all Second Round substantive
+certifications did. In the Second Round, the City was designated an Urban Aid Municipality, and
+
+
+                                                                                        6|Page
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 11 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                               May 2025
+
+COAH assigned Vineland a rehabilitation obligation of 372 units and no prospective need (new
+construction) obligation. The City demonstrated that it rehabilitated 331 units and had a program
+in place to meet the remainder of that obligation.
+In 2006, the City adopted a Third Round Housing Element and Fair Share Plan (HEFSP) in
+accordance with COAH’s 2004 rules, then another HEFSP in 2008 in response to COAH adopting
+new regulations. In 2008, the City was once again designated an Urban Aid Municipality, and
+was not assigned a prospective need obligation. In between 2008 and the 2015 Declaratory
+Judgement application pursuant to the Mount Laurel IV decision, the City continued to create
+opportunities for affordable housing, including Landis Square, 78 units of affordable age-restricted
+housing, Melrose Place, 17 family rental units, and 12 affordable units on two inclusionary
+projects.
+On July 2, 2015, the City filed a Declaratory Judgment action pursuant to the Supreme Court’s
+Mount Laurel IV decision, and submitted an HEFSP to the Court, which was approved in a
+September 16, 2015 Judgment of Compliance and Repose (2015 JOR). The 2015 JOR stated
+that the City’s Prior Round and Third Round prospective need obligations were zero, based on
+the City’s status as an Urban Aid Municipality, and assigned the City a rehabilitation obligation for
+the Third Round of 319. The 2015 JOR also stated that the City would continue its highly
+successful rehabilitation program, but also had 811 credits that the City can apply to its Fourth
+Round obligation.
+In 2020-21, the City amended its 2015 HEFSP to add the following projects: (1) a 60-90 unit,
+100% affordable family rental project; (2) a proposed 143-unit Assisted Living Facility, of which
+15 units would be set-aside for Medicaid recipients; (3) a 10-unit Market to Affordable Program;
+and (4) a proposed 136-unit, 100% affordable age-restricted project, which had already received
+HMFA LIHTC funding.
+On December 6, 2021, the Court entered a Consent Order between the City and Fair Share
+Housing Center (“FSHC”) amending the City’s 2015 JOR to approve the 2021 Amended HEFSP,
+which preserved the above projects for credit against the City’s Fourth Round housing obligation
+(“2021 Amended JOR”). The 2021 Amended JOR also approved a revised Spending Plan.
+To begin the process of compliance with the Fourth Round of affordable housing obligations, the
+City Council adopted Resolution No. 2025-58 in January 28th, 2025 to identify the City’s Fourth
+Round affordable housing obligations. The resolution adopted by the Council accepted the
+calculations put forward by the New Jersey Department of Community Affairs (NJDCA) in their
+report titled “Affordable Housing Obligations for 225-2035 (Fourth Round) Methodology and
+Background”, dated October 18, 2024, and adopted the numbers determined by DCA.
+On January 29, 2025, the City filed a Declaratory Judgment Action in Superior Court in
+accordance with the Administrative Office of the Courts’ Directive No. 14-24 (“AOC Directive #14-
+24), along with the City’s binding resolution to formally begin its application for a Compliance
+Certification from the Program. In accordance with the Amended FHA and AOC Directive #14-
+24, the City did not receive any objections to their acceptance of the DCA’s calculated obligations
+by February 28, 2025, so on March 1, 2025, the City’s obligations became automatically set by
+statute. On April 24, 2025, the Superior Court issued an Order setting the City’s Fourth Round
+affordable housing obligations as a present need (rehabilitation) of 276 and a prospective need
+(new construction) of zero, as the City has once again qualified as an Urban Aid Municipality.
+The City of Vineland has prepared this Housing Plan Element and Fair Share Plan in accordance
+with all requirements of the Municipal Land Use Law and the Amended Fair Housing Act in order
+to satisfy those obligations for the Fourth Round.
+
+
+
+                                                                                         7|Page
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 12 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan              May 2025
+
+A copy Resolution R-2025-58 can be found in Appendix A-1.
+
+
+
+
+                                                                        8|Page
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 13 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                            May 2025
+
+HOUSING PLAN ELEMENT
+
+According to the Municipal Land Use Law, N.J.S.A. 40:55D-1, et. seq. (MLUL), a municipality is
+required to adopt a Housing Plan Element of the Master Plan (N.J.S.A. 40:55D-28.b(3)), as well
+as a Fair Share Plan for addressing its low- and moderate-income housing obligations in
+accordance with the Fair Housing Act, N.J.S.A. 52:27D-301 et seq. (FHA).
+
+The Fair Housing Act defines a “Housing Element” as:
+
+   “that portion of a municipality’s master plan consisting of reports, statements, proposals,
+   maps, diagrams, and text designed to meet the municipality’s fair share of its region’s present
+   and prospective housing needs, particularly with regard to low- and moderate-income
+   housing, and which shall contain the municipal present and prospective obligation for
+   affordable housing, determined pursuant to subsection f. of section 3 of P.L.2024, c. 2.”
+
+   [N.J.S.A.52:27D-304.1]
+
+Pursuant to the Fair Housing Act, P.L. 1985, c. 222, as amended by P.L. 2024, c.2, a
+municipality’s housing plan element shall be designed to achieve the goal of access to affordable
+housing to meet present and prospective housing needs, with attention to low- and moderate-
+income housing. This updated Housing Plan Element and Fair Share Plan for the City of Vineland
+has been prepared in a manner that is consistent with the FHA and MLUL requirements, and
+contains the following, as required by the FHA:
+
+   a. An inventory of the municipality’s housing stock by age, condition, purchase or rental
+      value, occupancy characteristics, and type, including the number of units affordable to
+      low- and moderate-income households and substandard housing capable of being
+      rehabilitated, and in conducting this inventory the municipality shall have access, on a
+      confidential basis for the sole purpose of conducting the inventory, to all necessary
+      property tax assessment records and information in the assessor’s office, including but
+      not limited to the property record cards;
+   b. A projection of the municipality’s housing stock, including the probable future construction
+      of low- and moderate-income housing, for the next ten years, taking into account, but not
+      necessarily limited to, construction permits issued, approvals of applications for
+      development and probable residential development of lands;
+   c. An analysis of the municipality’s demographic characteristics, including but not necessarily
+      limited to, household size, income level and age;
+   d. An analysis of the existing and probable future employment characteristics of the
+      municipality;
+   e. A determination of the municipality’s present and prospective fair share for low- and
+      moderate-income housing and its capacity to accommodate its present and prospective
+      housing needs, including its fair share for low- and moderate-income housing, as
+      established pursuant to section 3 of P.L.2024, c. 2 (C.52:27D-304.1);
+   f.   A consideration of the lands that are most appropriate for construction of low- and
+        moderate-income housing and of the existing structures most appropriate for conversion
+        to, or rehabilitation for, low- and moderate-income housing, including a consideration of
+
+
+
+                                                                                      9|Page
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 14 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                              May 2025
+
+        lands of developers who have expressed a commitment to provide low- and moderate-
+        income housing;
+   g. An analysis of the extent to which municipal ordinances and other local factors advance
+      or detract from the goal of preserving multigenerational family continuity as expressed in
+      the recommendations of the Multigenerational Family Housing Continuity Commission,
+      adopted pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c. 273
+      (C.52:27D-329.20);
+   h. For a municipality located within the jurisdiction of the Highlands Water Protection and
+      Planning Council, established pursuant to section 4 of P.L.2004, c. 120 (C.13:20-4), an
+      analysis of compliance of the housing element with the Highlands Regional Master Plan
+      of lands in the Highlands Preservation Area, and lands in the Highlands Planning Area for
+      Highlands-conforming municipalities. This analysis shall include consideration of the
+      municipality’s most recent Highlands Municipal Build Out Report, consideration of
+      opportunities for redevelopment of existing developed lands into inclusionary or 100
+      percent affordable housing, or both, and opportunities for 100 percent affordable housing
+      in both the Highlands Planning Area and Highlands Preservation Area that are consistent
+      with the Highlands regional master plan; and
+   i.   An analysis of consistency with the State Development and Redevelopment Plan,
+        including water, wastewater, stormwater, and multi-modal transportation based on
+        guidance and technical assistance from the State Planning Commission.
+        [N.J.S.A.52:27D-310]
+
+This Housing Plan Element and Fair Share Plan will address the City’s obligations to provide a
+realistic opportunity for the rehabilitation of and construction of low- and moderate-income
+housing in accordance with the Fair Housing Act for the Fourth Round period of 2025 – 2035. The
+preparation of a Housing Plan Element and Fair Share Plan is the first step in petitioning the court
+for Substantive Certification and Judgement of Repose.
+
+
+
+
+                                                                                       10 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 15 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                           May 2025
+
+As required by N.J.S.A. 52:27D-310, all housing elements must contain a discussion of the
+municipality’s demographic, housing, and economic characteristics. The following subsections
+fulfill this requirement by providing a profile of the City’s demographic, housing and employment
+characteristics based on information from the US Census Bureau, and the New Jersey
+Department of Labor and Workforce Development.
+
+D E M O GR A PH IC S
+
+Population
+
+The City of Vineland has experienced lessening increases in population over the past few
+decades. According to the 2020 U.S Census, the City population stood at 60,780 residents,
+marking only a 0.9 % increase from the 60,724 residents recorded in 2010. In comparison, the
+City’s population rose more sharply between 2000 and 2010, increasing 7.91 % from the 56,271
+residents recorded by the 2000 Census. In comparison, Cumberland County’s population
+decreased by 1.75 % between 2010 and 2020, and increased by 7.14 % between 2000 and 2010.
+Table 1 below illustrates the population growth trends for both City of Vineland and Cumberland
+County from 2000 through 2020.
+
+                                  Table 1: Population Trends, 2000 - 2010
+                                                                                      % Change      % Change
+                                     2000             2010               2020
+                                                                                      2000-2010     2010-2020
+ City of Vineland                   56,271           60,724             60,780          7.91%         0.09%
+ Cumberland County                  146,438          156,898            154,152         7.14%        -1.75%
+ Source: US Census Bureau Decennial Census (Table DP-1)
+
+Vineland’s population growth between 1940 – 2050 (actual and estimated) is illustrated in Figure
+1 below. The largest population growth percentage-wise occurred between 1950 (when the City
+had 29,573 residents) to 1960 when population increased by 27.43 % to 37,685 residents, while
+numerically the largest growth occurred between the 1960 and 1970, when the population rose
+to 47,399, an increase of 9,714 residents. It is projected that Vineland’s population will decrease
+slightly by 0.13 % between 2020 (60,780 residents) and 2050 (60,700 residents), an overall
+decrease of 80 residents.
+
+
+                        Figure 1: Population over time in City of Vineland
+ 70,000                                                                  60,724   60,780   60,700
+                                              53,753 54,780    56,271
+ 60,000
+                                    47,399
+ 50,000
+ 40,000                  37,685
+               29,573
+ 30,000   24,439                                                                                      Population
+
+ 20,000
+ 10,000
+      0
+          1940    1950     1960      1970     1980    1990     2000      2010     2020     2050
+
+
+
+
+                                                                                                    11 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 16 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                              May 2025
+
+Source: Source: US Census Bureau, Decennial Census, South Jersey Transportation Planning
+Organization Population and Jobs Projections
+
+Population Composition by Age
+
+The age composition of Vineland has shifted between age cohorts since 2000, as illustrated in
+Table 2 below. According to the U.S. Census Bureau’s Decennial Census Estimates, significant
+changes occurred between younger and older age groups. The number of residents under 44-
+years-old experienced scattered fluctuations. There were decreases in those 9 or younger, 15-
+19, and those between the ages of 25-44 years old, and increases of the 10-14 and 25-24 age
+cohorts. All other age cohorts above 45 increased, with the largest increase (percentage wise)
+occurring in the 60-64-year-old age cohort, which increased by 76.6 %.
+
+                Table 2: Population by Age Cohort, City of Vineland, 2000 - 2020
+                                             2000                     2020             Percent
+   Population and Cohort
+                                                                                       Change
+           Type                   Number        Percent      Number      Percent
+                                                                                      2000-2020
+ Total population                   56,271           100%     60,780         100%      8.01%
+    Under 5 years                    3,477          6.18%     3,352          5.51%      -3.60%
+    5 to 9 years                     4,203          7.47%     4005           6.59%      -4.71%
+    10 to 14 years                   4,274          7.60%     4,407          7.25%       3.11%
+    15 to 19 years                   3,964          7.04%     3916           6.44%      -1.21%
+    20 to 24 years                   3,194          5.68%     3,430          5.64%       7.39%
+    25 to 34 years                   7,664          13.62%    7,623          12.54%     -0.53%
+    35 to 44 years                   8,654          15.38%    7,406          12.18%    -14.42%
+    45 to 54 years                   7,747          13.77%    7,899          13.00%      1.96%
+    55 to 59 years                   2,849          5.06%     4,116          6.77%     44.47%
+    60 to 64 years                   2,269          4.03%     4,007          6.59%     76.60%
+    65 to 74 years                   3,910          6.95%     5998           9.87%     53.40%
+    75 to 84 years                   2,986          5.31%     3,176          5.23%       6.36%
+    85 years and over                1080           1.92%     1445           2.38%     33.80%
+ Source: US Census Bureau, Decennial Census (Table DP-1)
+
+The age composition of Cumberland County has seen an overall decline in younger age cohorts
+as compared to the City, as illustrated in Table 3 below. There were decreases in all ages under
+44 years old with the exception of the 10-14 age cohort, which increased by 1.62 %. All other
+cohorts above age 45 increased, with the largest increase (percentage wise) occurring in the 60-
+64-year-old age cohort, which increased by 69.87 %.
+
+             Table 3: Population by Age Cohort, Cumberland County, 2000 - 2020
+                                              2000                    2020             Percent
+                                                                                       Change
+                                   Number       Percent      Number      Percent
+                                                                                      2000-2020
+ Total population                   146,438          100%    154,152         100%       5.27%
+    Under 5 years                    9,161           6.26%    8,614          5.59%     -5.97%
+    5 to 9 years                    10,781           7.36%    9,931          6.44%     -7.88%
+
+
+
+                                                                                       12 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 17 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                            May 2025
+
+             Table 3: Population by Age Cohort, Cumberland County, 2000 - 2020
+                                             2000                   2020             Percent
+                                                                                     Change
+                                   Number       Percent    Number      Percent
+                                                                                    2000-2020
+    10 to 14 years                  10,929        7.46%     11,106          7.20%     1.62%
+    15 to 19 years                  10,058        6.87%      9,821          6.37%     -2.36%
+    20 to 24 years                   8,752        5.98%      8,696          5.64%     -0.64%
+    25 to 34 years                  22,089        15.08%    21,923         14.22%     -0.75%
+    35 to 44 years                  23,561        16.09%    20,568         13.34%    -12.70%
+    45 to 54 years                  19,325        13.20%    19,568         12.69%     1.26%
+    55 to 59 years                   7,056        4.82%      9,911          6.43%     40.46%
+    60 to 64 years                   5,639        3.85%      9,579          6.21%     69.87%
+    65 to 74 years                   9,724        6.64%     14,185          9.20%     45.88%
+    75 to 84 years                   7,047        4.81%      7,231          4.69%     2.61%
+    85 years and over                2,316        1.58%      3,019          1.96%     30.35%
+ Source: US Census Bureau, Decennial Census (Table DP-1)
+
+The median age of Vineland residents was 39.9 as of the 2020 census, which is a 9.32 %
+increase from the median age of 36.5 as of 2000, as indicated in Table 4 below. Cumberland
+County’s median age rose in a similar manner, from 35.6 in 2000 to 38.2 in 2020, a 7.3 %
+increase. The statewide median age rose 8.72 % during this same time period, from 37.7 to 39.9.
+Overall it appears that the broader trend of increasing median age at the City, County and State
+level is reflective of the Baby Boomer generation continuing to age and are not being replaced
+by younger cohorts.
+
+                                 Table 4: Median Age, 2000 – 2020
+                                         2000               2020              Percent Change
+     City of Vineland                    36.5               39.9                  9.32%
+    Cumberland County                    35.6               38.2                  7.30%
+       New Jersey                        36.7               39.9                  8.72%
+ Source: US Census Bureau, Decennial Census (Table DP-1)
+
+Households
+
+Table 5 provides number of households and household sizes within the City of Vineland and
+Cumberland County. A household is defined as one or more individuals, related or not, living
+together in a single housing unit.
+
+According to the 2023 ACS 5-Year estimates, there were approximately 21,945 households in
+Vineland. Of these, the largest percentage were households of two people at 33.13 %, followed
+by 2-person households at 27.08 %, 1-person households at 23.3 %, with 16.50 % households
+containing 3 people.
+
+In comparison, the County recorded 32.07 % two-person households, 27.00 % four-person
+households, 26.12 % one-person households, and 14.81 % being three-person households.
+
+
+
+
+                                                                                     13 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 18 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                   May 2025
+
+Vineland’s average household size was 2.70 people, which is slightly more than both the
+County’s average of 2.68 and New Jersey’s average of 2.61, according to the ACS estimates.
+
+        Table 5: Household Characteristics in Vineland, Cumberland and New Jersey
+
+                        City of Vineland           Cumberland County             New Jersey
+                       Number      Percent         Number    Percent          Number    Percent
+ Total
+                        21,945         100%         53,341        100%       3,478,355       100%
+ Households
+    1-person             5,113        23.30%        13,935       26.12%       918,897       26.42%
+    2-persons            7,270        33.13%        17,104       32.07%      1,081,842      31.10%
+    3-persons            3,620        16.50%        7,900        14.81%       594,946       17.10%
+    4 or more
+                         5,942        27.08%        14,402       27.00%       882,670       25.38%
+    persons
+ Average
+                            2.70 people                 2.68 people                  2.61 people
+ Household Size
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Table S2501& B25010)
+
+Family households are defined as two or more individuals living together in the same residence,
+related by blood, marriage, or adoption. Of the total 21,945 households within Vineland, a total
+of 15,486 (70.57 %) are family households, while 6.459 (29.43 %) are non-family households. In
+contrast, Cumberland County has 67.78 % family and 32,22 % non-family households, which are
+lower (family) and higher (non-family) ratios as compared to the City.
+
+Within Vineland, approximately 63.69 % of family households consist of married couple
+householders. Among the remaining family households, 13.99 % are headed by a single male
+householder, and 22.32 % are headed by a single female householder. In comparison,
+Cumberland County consists of 61.96 % married couples, with 12.82 % male householders and
+25.22 % female householders. Further, 12.10 % of the households in Vineland are comprised of
+individuals aged 65 or older, totaling 2,655 households, whereas in comparison, 32.22 % of
+Cumberland County households are headed by individuals aged 65 or older.
+
+The average family size in Vineland is 3.21 persons, which is slightly lower than that of
+Cumberland County as a whole, which is 3.26 people per household.
+
+                Table 6: Household by Type, Vineland and Cumberland County
+                                              City of Vineland      Cumberland County
+                                          Number         Percent   Number       Percent
+ Total Households                          21,945        100.00%   53,341       100.00%
+ Average Household Size                         2.70 people             2.68 people
+ Total Families                            15,486        70.57%    36,155       67.78%
+    Average Family Size                         3.21 people             3.26 people
+    Married Couple Family                   9,863        63.69%    22,402       61.96%
+    With own children under 18 years        3,808        38.61%     8,146       36.36%
+    No children under 18 years              6,055        61.39%    14,256       63.64%
+    Male householder, no wife present       2167         13.99%     4,636       12.82%
+    With own children under 18 years        1204         55.56%     2,244       48.40%
+    No own children under 18 years           963         44.44%     2,392       51.60%
+
+
+                                                                                           14 | P a g e
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 19 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                    May 2025
+
+               Table 6: Household by Type, Vineland and Cumberland County
+                                             City of Vineland      Cumberland County
+                                         Number         Percent   Number      Percent
+    Female householder, no husband
+                                           3456         22.32%     9,117      25.22%
+    present
+    With own children under 18 years       1481         42.85%     4,583      50.27%
+    No own children under 18 years         1,975        57.15%     4,534      49.73%
+ Nonfamily Households                      6,459        29.43%    17,186      32.22%
+ 65 years and over                         2,655        12.10%     6,774      12.70%
+ Source: US Census Bureau, American Community Survey 5-year Estimates 2019 to 2023 (Table S1101)
+
+
+H OU S I N G C ON D IT I O N S
+
+Housing Stock
+
+Vineland’s housing stock is predominantly occupied, as indicated in Table 7. According to 2023
+ACS estimates, the City has a total of 23,093 housing units, of which 21,945 units (95.03 %) are
+occupied, and 1,148 (4.97 %) are vacant. Among the occupied units, the majority (15,076 or
+68.70 %) are owner-occupied, while 6,869 (or 31.30 %) are renter-occupied.
+
+                        Table 7: Housing Units in the City of Vineland
+                                                           Number                       Percent
+ Total Housing Units                                        23,093                      100.00%
+ Occupied Housing Units                                     21,945                      95.03%
+    Owner Occupied                                          15,076                      68.70%
+    Renter Occupied                                          6,869                      31.30%
+ Vacant Housing Units                                        1,148                       4.97%
+    For rent                                                  201                       17.51%
+    Rented, not occupied                                      72                         6.27%
+    For sale only                                             35                         3.05%
+    Sold, not occupied                                        35                         3.05%
+    For seasonal, recreational, or occasional use              0                         0.00%
+    For migrant workers                                       471                       41.03%
+    Other vacant                                               0                         0.00%
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04 and B25004)
+
+As indicated in Figure 2 below, 4,074 housing units (17.64 % of existing housing stock) within
+Vineland was built between 1970-1979, which represents the largest amount of housing stock
+within the City.
+
+
+
+
+                                                                                            15 | P a g e
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 20 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                                                              May 2025
+
+
+                   Figure 2: Age of Housing Stock
+ Built 1939 or earlier                                                                             2,968
+  Built 1940 to 1949                                              1,604
+  Built 1950 to 1959                                                                                             3,478
+  Built 1960 to 1969                                                                                    3,184
+  Built 1970 to 1979                                                                                                             4,074
+  Built 1980 to 1989                                                                   2,457
+  Built 1990 to 1999                                                  1,838
+  Built 2000 to 2009                                                                   2,474
+  Built 2010 to 2019                                946
+   Built 2020 or later       70
+                         0          500       1,000       1,500      2,000      2,500          3,000       3,500         4,000      4,500
+                  Built        Built       Built        Built      Built      Built       Built         Built        Built        Built
+                2020 or      2010 to      2000 to     1990 to     1980 to    1970 to     1960 to       1950 to     1940 to       1939 or
+                  later       2019         2009        1999        1989       1979        1969          1959        1949         earlier
+     %           0.30%        4.10%       10.71%       7.96%      10.64%     17.64%      13.79%        15.06%       6.95%        12.85%
+     Number       70          946         2,474       1,838       2,457       4,074       3,184        3,478        1,604         2,968
+
+
+
+Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04)
+
+Housing Type and Size
+
+Vineland's housing stock is predominantly comprised of one-unit detached homes, making up an
+estimated 66.42 % of the City’s total housing units as indicated in Table 8 below. The next highest
+housing type is those 20 or more units and mobile homes, which make up 7.40 and 7.06 %,
+respectively, of all housing units within the City. A plurality (42.18 %) of Vineland’s housing
+inventory is made up of 3-bedroom homes, followed by 2-bedroom homes at 25.46 %.
+
+                      Table 8: Housing Units by Type: City of Vineland
+                                            Number                                                                  Percent
+ Total Housing Units                         23,093                                                                 100.00%
+    1-unit detached                          15,338                                                                  66.42%
+    1-unit, attached                          927                                                                    4.01%
+    2 units                                   1093                                                                   4.73%
+    3 or 4 units                              1228                                                                   5.32%
+    5 to 9 units                              671                                                                    2.91%
+    10 to 19 units                            498                                                                    2.16%
+    20 or more units                          1708                                                                   7.40%
+    Mobile home                               1630                                                                   7.06%
+    Boat, RV, Van etc                           0                                                                    0.00%
+ Bedrooms
+
+
+
+                                                                                                                                    16 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 21 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                  May 2025
+
+                     Table 8: Housing Units by Type: City of Vineland
+    No bedroom                                936                                 4.05%
+    1 bedroom                                2436                                 10.55%
+    2 bedrooms                               5,879                                25.46%
+    3 bedrooms                               9,741                                42.18%
+    4 bedrooms                               3,404                                14.74%
+    5 or more bedrooms                        697                                 3.02%
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04)
+
+Housing Values and Contract Rents
+
+According to the ACS 5-Year Estimates, housing units between $ 200,000 - $ 299,999 are a
+plurality within the City (37.97 %) and Cumberland County (34.14 %). Table 9 provides a detailed
+breakdown of home values for owner-occupied units within the City and the County.
+Approximately 8.74 % and 3.02 % of housing units within the City of Vineland were valued at
+less than $ 50,000 and between $50,000 - $99,999, respectively, as compared to the County’s
+6.96 % and 6.07 %. The median value of an owner-occupied home in Vineland was $ 218,200,
+which is more than the County's median, which was $ 205,600.
+
+                  Table 9: Value of Owner-Occupied Housing Units, 2019 -2023
+                                                City of Vineland              Cumberland County
+                                            Number           Percent         Number        Percent
+ Total                                      15,076           100.00%         34,966        100.00%
+    Less than $50,000                        1318              8.74%          2,433         6.96%
+    $50,000 to $99,999                        456              3.02%          2,124         6.07%
+    $100,000 to $149,999                     1911             12.68%          5,060        14.47%
+    $150,000 to $199,999                     2863             18.99%          7,125        20.38%
+    $200,000 to $299,999                     5725             37.97%         11,938        34.14%
+    $300,000 to $499,999                     2,251            14.93%          4,738        13.55%
+    $500,000 to $999,999                      498              3.30%          1,287         3.68%
+    $1,000,000 and greater                     54              0.36%           261          0.75%
+ Median Value                                       $218,200                        $205,600
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04)
+
+A plurality of rental prices in Vineland (46.12 %) are between $1,000 to $ 1,499. Table 10
+provides a detailed breakdown of gross rent paid within the City and Cumberland County.
+According to the ACS 5-Year Estimates, the median gross rent in Vineland was $ 1,207 which is
+slightly lower than the County median of $1,254.00. Vineland had 920 units (13.75 % of all units)
+with rents under $500 per month, while ACS estimates indicate the 11.70 % of County units had
+rents below this threshold. Additionally, an estimated 115 Vineland units did not require cash rent
+payments, compared to 767 such units across the County.
+
+                              Table 10: Gross Rent Paid, 2019 - 2023
+                                                   City of Vineland            Cumberland County
+                                               Number          Percent        Number      Percent
+ Total                                          6,754          100.00%        17,608      100.00%
+    Less than $500                               929            13.75%         2,060      11.70%
+
+
+                                                                                           17 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 22 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                                     May 2025
+
+                                  Table 10: Gross Rent Paid, 2019 - 2023
+                                                        City of Vineland                   Cumberland County
+                                                    Number          Percent               Number      Percent
+   $500 to $999                                      1,087           16.09%                3,166       17.98%
+   $1,000 to $1.499                                  3,115           46.12%                7,115       40.41%
+   $1,500 to $1,999                                  1,330           19.69%                4,021       22.84%
+   $2,000 to $2,499                                   120             1.78%                 829         4.71%
+   $2,500 to $2,999                                   145             2.15%                 312         1.77%
+   $3,000 or more                                     28              0.41%                 105         0.60%
+   No rent paid                                       115                                   767
+ Median Gross Rent                                           $1,207                              $1,254
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables DP04)
+
+
+
+Units Affordable to Low- and Moderate-Income Households
+
+A moderate-income household is a household whose gross family income is more than fifty
+percent (50%) of the median income, but less than eight-percent (80%) of median income for
+households of the same size within the housing region. A low-income household is a household
+whose gross family income is equal to or less than fifty-percent (50%) of the regional median
+gross household income for a household and a very-low income household is classified as
+earning less than thirty-percent (30%) of the median area income of the same size within the
+housing region.
+
+Units are considered affordable to low and moderate-income households if the maximum sales
+price or rent is set within a specified formula as per UHAC regulations, which is determined by
+the amount that a low- or moderate-income household can likely afford to pay. The City of
+Vineland is located within is Region 6, which encompasses Atlantic, Salem, Cumberland and
+Cape May counties. The median household income in Vineland in 2023 was $65,854. The
+median annual income for a household of 3 persons in Region 6 is $92,500. Regional income
+limits for Region 6 are shown in the Table below.
+
+          2025 Affordable Housing Regional Income Limits By Household Size (Persons)
+             1        1.5        2        2.5        3          4         4.5         5          6          7        8
+
+
+ Median    $71,900   $77,050   $82,200   $87,350   $92,500   $102,700   $106,850   $111,000   $119,200   $127,400 $135,600
+
+  Mod      $57,520   $61,640   $65,760   $69,880   $74,000   $82,160    $85,480    $88,800    $95,360    $101,920 $108,480
+
+  Low      $35,950   $38,525   $41,100   $43,675   $46,250   $51,350    $53,425    $55,500    $59,600    $63,700   $67,800
+
+  Very     $21,570   $23,115   $24,660   $26,205   $27,750   $30,810    $32,055    $33,300    $35,760    $38,220   $40,680
+  Low
+ Source: AHPNJ, 2025 Regional Income Limits
+
+
+Based on the qualifying formula in N.J.A.C. 5:80-26, the monthly cost of shelter which includes
+mortgage (principal and interest), taxes, insurance and homeowners or condominium association
+fees, may not exceed twenty-eight percent (28%) of gross monthly household income based on
+a five percent (5%) down payment for the sale of an affordable home. In addition, moderate-
+income sales units must be available for at least three different price points and low-income sales
+units available for at least two different price points. The maximum sales prices must now be
+
+
+
+                                                                                                            18 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 23 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                 May 2025
+
+affordable to households earning no more than seventy-percent (70%) of median income. The
+sales prices for a project of more than 5 affordable units must average fifty-five percent (55%) of
+regional median income.
+
+Under UHAC regulations, rents including utilities may not exceed thirty-percent (30%) of gross
+monthly income for the low or moderate income household. The average rent must now be
+affordable to households earning fifty-two percent (52%) of regional median income. The
+maximum rents must be affordable to households earning no more than sixty-percent (60%) of
+regional median income. In averaging fifty-two percent (52%), one rent shall be established for
+very-low-income units, one rent may be established for low-income units and one rent for
+moderate-income units, for each bedroom distribution. The utility allowance must be consistent
+with the utility allowance approved by DCA for its Section 8 program.
+
+In addition, at least thirteen percent (13%) of all restricted units must be affordable to households
+earning no more than thirty-percent (30%) of median income.
+
+In Vineland, with a current median household income of $65,854, and an average household size
+of 2.70 people, this would indicate that the average household in Vineland qualifies as a
+moderate-income household as per the income limits for Region 6. The threshold for a moderate-
+income household of 3 in Region 6 is between $69,880 and $74,000 as an annual income. With
+the median contract rent of $1,207/month according to the most recent Census estimates, this
+indicates that the typical rental apartment in the City of Vineland is currently priced at a level that
+would be considered affordable for a moderate-income household, but not for a low-income
+household, as that price for monthly rent would be considered affordable for a household with an
+annual income of approximately $48,280.
+
+Housing Characteristics
+
+Overcrowding is minimal in Vineland’s owner-occupied unites, with approximately 1.48% (223
+units) units exceeding one per room, as compared to the 9.99 % (686 total) of renter-occupied
+units. As outlined in Table 11 below, 71 units (0.32 % of all units) within the City lack complete
+plumbing facilities, and 140 units (0.64 % of total units) lack kitchen facilities. Housing
+deficiencies are often key factors in assessing overall housing conditions and determining
+municipal rehabilitation needs.
+
+             Table 11: Housing Deficiency Characteristics, City of Vineland 2023
+                         Housing Units with 1.01 or More s Per Room
+                                                       Count                  Percent
+ Owner-Occupied                                         223                    1.48%
+ Renter-Occupied                                        686                    9.99%
+ Plumbing Facilities
+    Total Occupied Housing Units                       21,945                 100.00%
+    Lacking complete plumbing facilities                 71                    0.32%
+ Kitchen Equipment
+    Total Occupied Housing Units                       21,945                  100%
+    Lacking complete kitchen facilities                 140                    0.64%
+ Source: US Census Bureau, ACS 5-year Estimates 2019 to 2023 (Tables B25014, S2504)
+
+
+
+
+                                                                                          19 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 24 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                May 2025
+
+Housing Construction
+
+Vineland issued building permits for 645 new residential units between January 2013 and
+December 2023 as indicated in Table 12 below, which is based upon data provided by the NJ
+Department of Consumer Affairs. A total of 230 residential demolition permits were issued during
+this time period. Subtracting the demolition permits from the construction permits reveals a net
+increase of 415 residential units over the same timeframe.
+
+Of the 645 permits, 437 were for 1 & 2 family homes, 207 were for multi-family units, and 1 was
+for mixed use. Amount of building permits used was fairly consistent during this time period,
+averaging 59 permits per year, with a range of 4 issued in 2017 to 97 issued in 2017. In general,
+this data indicates that City has seen a steady slow growth in housing stock during this time
+period.
+
+           Table 12: Building Permits and Demolition Permits Issued 2013 - 2023
+                                                                                            Net
+                 1&2          Multi       Mixed        Total New     Total Residential
+   Year                                                                                    Units
+                Family       Family        Use        Construction     Demolitions
+                                                                                           Added
+  2013            36            70           1            107              29               78
+  2014            65            0            0             65              21               44
+  2015            62            0            0             62              26               36
+  2016            13            0            0             13              17                -4
+  2017            4             0            0             4                0                4
+  2018            22            4            0             26              26                0
+  2019            97            0            0             97              30               67
+  2020            36            0            0             36              10               26
+  2021            26            63           0             89              14               75
+  2022            40            0            0             40              28               12
+  2023            36            70           0            106              29               77
+  Total          437           207           1            645              230              415
+ Average         40            19            0            59               21               38
+ Source: NJ DCA, Construction Reporter 2013 to 2023
+
+
+
+E C O N O M I C C O ND IT I O NS
+
+Employment Status
+
+ACS estimates provide data on the work activity of residents aged 16 and older. Vineland’s
+working-age population was 47,310, with approximately 28,633 residents in the labor force as
+indicated in Table 13 below. Approximately 39.48 % of the City’s working-age residents were not
+participating in the labor force at the time of the 5-year ACS estimates, which is slightly lower
+than the County's 42.60 % non-participation rate. 60.52 % of Vineland’s labor force (28,633
+people) were classified within the civilian labor force cohort, with 26,169 being employed, and 34
+residents reported as being a member of the armed forces. Vineland’s 5.14 % unemployment
+rate is higher than County rate of 4.31 %.
+
+
+
+
+                                                                                         20 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 25 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                             May 2025
+
+                                Table 13: Employment Status, 2023
+                                              City of Vineland              Cumberland County
+                                         Number            Percent         Number      Percent
+ Population 16 years and over            47,310           100.00%          119,461     100.00%
+   In labor force                        28,633            60.52%          68,571       57.40%
+       Civilian Labor Force              28,599            60.45%          68,485       57.33%
+       Employed                          26,169            55.31%          63,333       53.02%
+       Unemployed                         2,430             5.14%           5,152       4.31%
+       Armed Forces                        34               0.07%            86         0.07%
+   Not in Labor Force                    18,677            39.48%          50,890       42.60%
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+Worker Classification
+
+Approximately 76.80 % of Vineland’s workers were employed in private wage and salary
+positions, while 3.55 % were self-employed as indicated in Table 14 below. Government
+employees made up 19.46 % of the workforce, with unpaid family workers representing 0.19 %.
+
+                 Table 14: Classification of Workers, City of Vineland, 2023
+                                                            Number                  Percent
+ Civilian employed population 16 years and over             26,169                  100.00%
+    Private Wage and Salary Worker                          20,099                  76.80%
+    Government Worker                                        5,092                  19.46%
+    Self-Employed Worker                                      928                    3.55%
+    Unpaid Family Worker                                       50                    0.19%
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+Workforce by Sector
+
+An analysis of employed individuals over the age of 16 by economic sector reveals while there is
+a diverse range of industries in which Vineland's working-age population is engaged, three (3)
+sectors comprise over half (52.55 %) of the overall total: educational services, healthcare, and
+social assistance (28.22 %), manufacturing (12.27 %) and retail trade (12.06 %).
+
+                     Table 15: Workforce by Sector, City of Vineland, 2023
+                             Industry                                    Number      Percent
+ Civilian employed population 16 years and over                          26,169      100.00%
+    Agriculture, forestry, fishing and hunting and mining                  386        1.48%
+    Construction                                                          2,287       8.74%
+    Manufacturing                                                         3,211       12.27%
+    Wholesale trade                                                        759        2.90%
+    Retail trade                                                          3,156       12.06%
+    Transportation and warehousing, and utilities                         1,751       6.69%
+    Information                                                             84        0.32%
+    Finance and insurance, and real estate and rental and
+                                                                          1,222       4.67%
+    leasing
+
+
+                                                                                      21 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 26 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                              May 2025
+
+                     Table 15: Workforce by Sector, City of Vineland, 2023
+                            Industry                                     Number       Percent
+    Professional, scientific, and management, and
+                                                                          2,193        8.38%
+    administration and waste management services
+    Educational services, health care and social assistance               7,385       28.22%
+    Arts, entertainment, and recreation, and accommodation
+                                                                          1,493        5.71%
+    and food services
+    Other services, except public administration                           823         3.14%
+    Public administration                                                 1,419        5.42%
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+Occupations by Type
+
+Table 16 presents a breakdown of occupations by type within the Vineland’s employed civilian
+labor force. The largest segment is engaged in management, business, science, and arts
+occupations (32.2 %), followed by sales and office occupations (19.26 %), service occupations
+(18.47 %), and production, transportation, and material moving occupations (19.01 %). The sector
+with the smallest share is natural resources, construction, and maintenance occupations (11.06
+%).
+
+                    Table 16: Occupations by Type, City of Vineland, 2023
+                                                                         Number      Percent
+ Employed Civilian population 16 years and over                            26,169     100.00%
+   Management, business, science, and arts occupations                     8,427       32.20%
+   Service occupations                                                     4,834       18.47%
+   Sales and office occupations                                            5,039       19.26%
+   Natural resources, construction, and maintenance
+                                                                           2,895       11.06%
+   occupations
+   Production, transportation, and material moving
+                                                                           4,974       19.01%
+   occupations
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+Commuting to Work
+
+As shown in Table 17 below, the vast majority of residents (81.08 %) commute to work alone by
+private vehicle, which is similar to the County's rate of 78.04 %. Those who carpool represent
+10.43 % of the workforce, followed by those who commute by other means (2.02 %), those who
+rely on public transportation (excluding taxicabs) at 0.81 % and those who walked (0.59 % each).
+The percentage of Vineland’s workforce who walked to work is less than the County’s rate of 1.32
+%. In addition, 5.08 % of the City’s workforce worked from home.
+
+                      Table 17: Means of Commute, City of Vineland, 2023
+                                                   City of Vineland          Cumberland County
+                                                 Number        Percent      Number      Percent
+ Workers 16 years and over                       25,102       100.00%       61,511      100.00%
+
+
+
+                                                                                       22 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 27 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                   May 2025
+
+                      Table 17: Means of Commute, City of Vineland, 2023
+                                                   City of Vineland           Cumberland County
+                                                 Number        Percent       Number      Percent
+    Car, truck, van - Drove Alone                20,353        81.08%        48,006      78.04%
+    Car, truck, van - Carpooled                   2,617        10.43%         7,864      12.78%
+    Public transportation (excluding
+                                                   203          0.81%            657          1.07%
+    taxicab)
+    Walked                                         147          0.59%             809         1.32%
+    Other means                                    508          2.02%            1,138        1.85%
+    Worked from home                              1,274         5.08%            3,037        4.94%
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03)
+
+Travel Time to Work
+
+                           Table 18: Travel Time to Work, 2023
+                                              City of Vineland                   Cumberland County
+                                             Number       Percent                Number     Percent
+ Less than 10 minutes                         4,746      19.92%                   10,516     4,746
+ 10 to 19 minutes                             8,244      34.60%                   17,389     8,244
+ 20 to 29 minutes                             2,679      11.24%                    9,632     2,679
+ 30 to 44 minutes                             3,991      16.75%                   10,585     3,991
+ 45 to 59 minutes                             2,202       9.24%                    5,405     2,202
+ 60 to 89 minutes                             1,517       6.37%                    3,840     1,517
+ 90 or more minutes                            449        1.88%                    1,107      449
+ Mean travel time to work (minutes)                   24                                 25
+ Source: US Census Bureau, ACS 5-year Estimates 2019-2023 (Table DP03, B08303)
+
+
+
+
+                                                                                          23 | P a g e
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 28 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                  May 2025
+
+FAIR SHARE PLAN
+
+A Fair Share Plan has been defined by the Amended Fair Housing Act at N.J.A.C. 52:27D-304
+as:
+
+    “Fair Share Plan” means the plan or proposal that is in a form which may readily be adopted,
+    with accompanying ordinances and resolutions, pursuant to subsection f. of section 3 of
+    P.L.2024, c.2 (C.52:27D-304.1), by which a municipality proposes to satisfy its obligation to
+    create a realistic opportunity to meet its fair share of low- and moderate-income housing needs
+    of its region and which details the affirmative measures the municipality proposes to undertake
+    to achieve its fair share of low- and moderate-income housing, as provided in the municipal
+    housing element, and addresses the development regulations necessary to implement the
+    housing element, including, but not limited to, inclusionary requirements and development
+    fees, and the elimination of unnecessary housing cost-generating features from the municipal
+    land use ordinances and regulations.
+
+The Fair Share Plan for the City of Vineland is broken up into four sections;
+
+    •   Present Need or Rehabilitation Obligation: 276
+    •   Prior Round / First and Second Round (1987-1999) Prospective Need Obligation: 0
+    •   Third Round (1999-2025) Prospective Need Obligation: 0
+    •   Fourth Round (2025-2035) Prospective Need Obligation: 0
+
+The City’s Fair Share Plan describes the completed and proposed mechanisms to address the
+present need (rehabilitation) obligation, First and Second Round (Prior Round) obligation, Third
+Round obligation, and Fourth Round obligation.
+
+The City’s Prior Round obligations were determined by COAH, and the Third Round obligation
+has been determined through application of the Jacobsen methodology. The City’s Fourth Round
+obligation numbers were determined using calculations provided by the NJ Department of
+Community Affairs in a report dated October 2024, and adopted by the City Council (Resolution
+#2025-58) in accordance with the requirements of the Fair Housing Act.
+
+A copy of Resolution R-2025-58 can be found in Appendix A-1.
+
+C O N S I DE R A T IO N OF L A N DS S U I T AB L E F O R A F F O R DA B L E H OU S I N G
+
+The New Jersey Fair Housing Act (N.J.S.A. 52:27D-310(f)) requires that the Housing Element
+provide a narrative that includes “a consideration of the lands that are most appropriate for
+construction of low and moderate income housing and of the existing structures most appropriate
+for conversion to, or rehabilitation for, low and moderate income housing, including a
+consideration of lands of developers who have expressed a commitment to provide low and
+moderate income housing.”
+
+The City is actively working to rehabilitate older housing stock and enhance infrastructure to
+support sustainable growth in central and western areas of the City along the transportation
+corridors of Route 55, Delsea Drive, Landis Avenue, and West Boulevard. These areas already
+encompass established residential neighborhoods, including single-family homes and multifamily
+
+
+
+                                                                                           24 | P a g e
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 29 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                              May 2025
+
+units, and provide access to the public transportation network of the region on these highways. In
+general, the lands in the east and south of the City have been targeted as lands for conservation
+and agriculture. The New Jersey State Development and Redevelopment Plan designates most
+of the City as part of Planning Area 1, the Metropolitan Planning Area, where development and
+redevelopment are actively encouraged. Those areas in the east and south of the City where
+conservation rather than development is proposed by the City’s master plan and zoning ordinance
+are also placed within the Environmentally Sensitive Planning Area of the State Plan, were
+development and growth are discouraged.
+
+M U L T IG E NE R A T IO N AL F A MIL Y H OU S IN G C O NT I NU I TY
+
+The FHA requires the Housing Element and Fair Share Plan to provide an analysis of the extent
+to which municipal ordinances and other local factors advance or detract from the goal of
+preserving multigenerational family continuity as expressed in the recommendations of the
+Multigenerational Family Housing Continuity Commission, adopted pursuant to paragraph (1) of
+subsection f. of 23 section 1 of P.L.2021, c.273 (C.52:27D-329.20).
+
+A review of the City’s ordinances indicates that there are no regulations or restrictions in place
+that would specifically create a detraction from meeting the Commission’s goal of allowing senior
+citizens to reside at the homes of their extended families. The ordinances in the City of Vineland
+do not detract from the multigenerational family continuity goal. The City will examine its land use
+ordinance at its next Master Plan Reexamination Report to identify where accessory apartments
+and in-law suites may suitable as permitted uses.
+
+
+
+
+                                                                                       25 | P a g e
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 30 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                May 2025
+
+F A I R S H AR E O B L I G A TI O N
+
+Affordable Housing obligations are broken down into two distinct categories: “present need” or
+rehabilitation obligation; and “prospective need” or new construction obligation.
+
+Present Need
+
+“Present need” is not a specifically defined term in the amended Fair Housing Act. The municipal
+“present need” obligation is determined by estimating the current amount of homes in the City
+that are likely occupied by low or moderate income households, and are deficient in some way,
+meaning that the house is over 50 years old and overcrowded, lacks complete plumbing facilities,
+or lacks a complete kitchen. More specifically:
+
+    “A municipality's present need obligation shall be determined by estimating the existing
+    deficient housing units currently occupied by low- and moderate-income households within
+    the municipality, following a methodology comparable to the methodology used to determine
+    third round present need, through the use of datasets made available through the federal
+    decennial census and the American Community Survey, including the Comprehensive
+    Housing Affordability Strategy dataset thereof.”
+
+    (N.J.A.C. 52:27D-304.3.7.b)
+
+The present need, or rehabilitation obligation is the estimate of the need for repairs to existing
+homes in the City that are currently occupied by low or moderate income households.
+
+Prospective Need
+
+The FHA at N.J.A.C. 52:27D-304 defines “prospective need” as:
+
+    "Prospective need" means a projection of housing needs based on development and growth
+    which is reasonably likely to occur in a region or a municipality, as the case may be, as a
+    result of actual determination of public and private entities. Prospective need shall be
+    determined by the methodology set forth pursuant to sections 6 and 7 of P.L.2024, c.2
+    (C.52:27D-304.2 and C.52:27D-304.3) for the fourth round and all future rounds of housing
+    obligations.
+
+In accordance with (N.J.A.C. 52:27D-304.3.7.c)
+
+    “A municipality's prospective fair share obligation of the regional prospective need for the
+    upcoming 10-year round shall be determined in accordance with this subsection:
+
+    (1) If a municipality is a qualified urban aid municipality, the municipality shall be exempt
+        from responsibility for any fair share prospective need obligation for the upcoming 10-
+        year round. For the purposes of this section, a municipality is a qualified urban aid
+        municipality if the municipality, as of July 1 of the year prior to the beginning of a new
+        round, is designated by the department, pursuant to P.L.1978, c.14 (C.52:27D-178 et
+        seq.), to receive State aid and the municipality meets at least one of the following
+        criteria:
+
+
+
+
+                                                                                        26 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 31 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                             May 2025
+
+       (a) The ratio of substandard existing deficient housing units currently occupied by low-
+           and moderate-income households within the municipality, compared to all existing
+           housing in the municipality, is greater than the equivalent ratio in the region;”
+
+   (N.J.A.C. 52:27D-304.3.7.c)
+
+According to the calculations for the state prepared by NJDCA in their October 2024 report titled
+“Affordable Housing Obligations for 2025-2035 (Fourth Round) Methodology and Background”,
+the City of Vineland is listed as an urban aid municipality for fiscal year 2025 by the Division of
+Local Government Services, and the ratio of substandard existing deficient housing units currently
+occupied by low and moderate income households exceeds the ratio of the rest of the region. As
+a result, the City is considered a “qualified urban aid municipality”, and is exempt from a Fourth
+Round prospective need obligation.
+
+In accordance with the methodology outlined above, the City has the following cumulative
+affordable housing obligations:
+
+   •   Rehabilitation / Present Need = 276 Units
+
+   •   Prior Rounds / Third Round Prospective Need = No Obligation
+
+   •   Fourth Round (2025-2035) Prospective Need = No Obligation
+
+
+
+
+                                                                                      27 | P a g e
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 32 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                              May 2025
+
+P R E S E N T N E E D (R E H A B IL I T AT I O N ) O B L I GA T I O N
+
+The City has a rehabilitation obligation of 276 units to satisfy the Present Need or Rehabilitation
+obligation.
+
+The City of Vineland currently operates a Residential Rehabilitation Program that is funded in part
+through money collected from development fees in the Affordable Housing Trust Fund (AHTF),
+and in part through Community Development Block Grants (CDBG) received by the City from the
+Federal Department of Housing and Urban Development. Through this program the City provides
+no-interest loans to repair sub-standard properties occupied by low- or moderate-income qualified
+residents. The program is used to fund repairs to major systems on these homes such replacing
+or repairing roofs, weatherization of homes, and repairs or replacement of electrical systems,
+HVAC systems, plumbing, or ADA accessibility.
+
+The program is available to both owner-occupied housing and rental properties.
+
+A copy of the rehabilitation program manual can be found in Appendix B-1.
+
+Since 2018, there have been 36 rehabilitation projects funded through the City’s AHTF, at a total
+cost of $1,945,386.57, for an average project improvement cost of $54,038.52.
+
+A list of all completed projects funded by the AHTF can be found in Appendix C-1.
+
+Through CDBG funds, the City completed a total of 124 rehabilitation projects between 2020 and
+2024, at a total cost of $1,575,456.46. This represents an average rehabilitation project cost of
+$12,705.29 for CDBG funded projects.
+
+A list of all CDBG funded rehab projects can be found in Appendix C-2.
+
+The City will apply these 160 completed rehabilitation projects towards its 276 unit present need
+obligation. This leaves a remainder of 116 units for the City to rehabilitate through the Fourth
+Round period of 2025-2035.
+
+The City will continue to operate its current Residential Rehabilitation Program, and if projects
+continue at a similar pace as the previous 7 years, this represents an average of 22 homes
+rehabilitated each year. This would represent potentially 220 additional homes in the City being
+rehabilitated by 2035 over that ten-year period, which when combined with the existing units that
+have been rehabilitated would satisfy the City’s 276 unit present need rehabilitation obligation for
+the Fourth Round.
+
+
+
+
+                                                                                       28 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 33 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                              May 2025
+
+P R I OR R OU N D / T H IR D R OU ND O B L I G AT I O NS (1987-1999 / 1999-2025)
+
+The City does not have a Prior Round (1987-1999) obligation, or a Third Round (1999-2025)
+prospective need obligation.
+
+F OU R TH R OU N D O B L I G AT I O NS
+
+Vineland does not have a Fourth Round prospective need obligation as a qualifying urban aid
+municipality. However, the City is actively engaging developers to create opportunities for
+affordable housing, and permitting projects that help to meet the housing needs of its low- and
+moderate-income residents. While these projects are not necessary to satisfy any obligations
+under the current rules and regulations of the Fair Housing Act, they may be eligible to satisfy any
+future obligations for the City of Vineland if in future rounds the City is no longer considered a
+qualifying urban aid municipality and has a prospective need to address. These units were
+approved by the Court in the City’s 2021 Amended JOR as being creditworthy against future
+affordable housing obligations, in addition to the 500+ affordable units listed in the City’s Court-
+approved 2015 Housing Plan Element and Fair Share Plan.
+
+    Affordable Housing Credits
+    Project                                   Type of Unit         Units     Bonus      Total
+    Newcomb Senior Phase I                    Senior Rental        68        0          68
+    Newcomb Senior Phase II                   Senior Rental        68        0          68
+    Newcomb Senior Phase III                  Senior Rental        60        0          60
+    Oak Hill                                  Family Rental        58        0          58
+    406 Third Street                          Family for Sale      1         0          1
+    410 Third Street                          Family for Sale      1         0          1
+    412 Third Street                          Family for Sale      1         0          1
+    419 Third Street                          Family for Sale      1         0          1
+    Veteran Housing                           Senior Rental        28        0          28
+    Overall Totals                                                 286       0          286
+
+
+Below is a summary of each of the existing and proposed projects in the City of Vineland that will
+include affordable housing:
+
+FAMILY PROJECTS
+
+Oak Hill: 58 credits
+Block 1909, Lot 50
+Oak Road / Becker Drive
+Status: Approved
+
+    The developer Eastern Pacific Development, LLC, has proposed to construct 58 townhouses
+    in a 100% affordable rental project to be located on property at the intersection of Oak Road
+    and Becker Drive. Each of the proposed townhouses would be a 3-bedroom dwelling. As the
+    project is being funded in part from financing from NJHMFA, the income distribution of the
+    development will meet all minimum requirements of UHAC. The development was approved
+    by the City’s Planning Board and memorialized in a resolution dated November 8, 2023.
+
+
+                                                                                       29 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 34 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                 May 2025
+
+   A copy of the Resolution of Approval from the Planning Board for the project can be found in
+   Appendix C-3.
+
+406-419 Third Street: 4 credits
+Blocks 2902, 2903
+Address
+Status: Approved
+
+   The Vineland Development Corporation facilitated the sale and conversion of four market rate
+   homes on Third Street (406, 410, 412, and 419) into affordable single-family homes. The sales
+   prices of these homes ranged from $87,000 to $170,000, with each priced to be affordable to
+   a low or moderate income household.
+
+   Copies of the documents of sale can be found in Appendix C-4.
+
+SENIOR RENTAL PROJECTS
+
+Newcomb Senior Apartments: 136 credits
+Block 4216, Lots 1.01, 1.02, 1.04
+66 South State Street
+Status: Complete
+
+   This project is a 100% affordable senior rental project currently under construction on South
+   State Street in the City. The project is being financed through tax credits that were awarded
+   to the project in 2017. The project is being constructed in two buildings, each of which will
+   house 68 apartments. In total there will be 14 very-low income 1-bedroom apartments, 68
+   low-income 1-bedroom apartments, and 54 moderate income 1-bedroom apartments.
+
+   Phase I of the project was completed and opened in 2022. Phase II, the second building,
+   was completed and opened for occupancy in 2023.
+
+   Affordability controls will be put in place for the project for a term of at least 45 years.
+
+   A copy of the monitoring report for this project can be found in Appendix C-5.
+
+Newcomb Senior Apartments Phase III: 60 credits
+Block 4216, Lots 1.3, 1.4, and 1.5
+66 South State Street
+Status: Approved
+
+   Eastern Pacific Development, LLC, the developer of the Newcomb Senior Apartments
+   project, has proposed a third phase to this 100% affordable senior development to be
+   constructed immediately south of the existing project. The project as proposed would consist
+   of 60 additional apartments, 57 of them one-bedroom units and 3-two-bedroom units, within
+   a new building to be constructed on the site. The project was approved by the City’s
+   Planning Board on May 14, 2025. The developer has submitted an application for Low
+   Income Housing Tax Credits.
+
+   Affordability controls will be put in place for the project for a term of at least 45 years.
+
+
+
+
+                                                                                          30 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 35 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                              May 2025
+
+   A copy of the Resolution of Approval from the Planning Board for this project can be found
+   in Appendix C-6.
+
+Veterans Housing: 28 credits
+Block 3806, Lot 9
+South 3rd Street / West Elmer Street
+Status: Proposed
+
+   A project for senior veterans is proposed for the property located between West Elmer
+   Street, 3rd Street, and West Grape Street. The project entails 28 one-bedroom apartments
+   for veterans within seven 4-bedroom apartment homes, along with a veterans support
+   services center on the site. The property is approximately 1.4 acres in size and is the site of
+   a former school that has been demolished, leaving the site vacant and cleared.
+
+   A conceptual site plan for this project can be found in Appendix C-7.
+Absent any potential bonus credits, the City may count up to 286 potential affordable housing
+credits towards a future obligation, subject to any rules, regulations, and restrictions that may be
+in place at that time.
+A map of all projects can be found in Appendix B-4.
+
+
+
+
+                                                                                       31 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 36 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                                May 2025
+
+S U M M A R Y O F F A IR S H AR E P L AN
+
+REHABILITATION OBLIGATION
+
+The City has a Present Need or Rehabilitation Obligation of 276 units.
+
+To date, 160 housing units in the City have been rehabilitated through the City’s Residential
+Rehabilitation program. The City will continue to operate the program which is funded by both the
+City’s Affordable Housing Trust Fund, and Community Development Block Grants. If current pace
+of rehabilitation projects continue, as much as 220 additional homes owned or occupied by low
+and moderate income households may be rehabilitated.
+
+AFFORDABLE HOUSING PROJECTS
+
+Although the City does not have a prospective need obligation, The City has the following Court-
+approved projects within the City that currently do, or will contain deed restricted affordable units:
+
+                          Program/Site                                Unit Type            Units
+    Turnkey III - Vineland Housing Authority (VHA)           Family Rental                66
+    Parents and Friends - PAFACOM                            Special Needs                54
+    Vineland Training School Group Homes                     SSN                          58
+    Kidston Towers (VHA)                                     Age Restricted               103
+    Luther Acres Senior             Housing   -   Housing Age Restricted                  100
+    Preservation, Inc.
+    Walnut Manor - Walnut Manor Preservation, Inc. Family Rental                          100
+    Parvins Branch - Parvins Estates, LLC                    Family Rental                24
+    Kings Crossing – Inclusionary Project                    Family For Sale              7
+    Atlantic Realty – Inclusionary Project                   Family                       5
+    Landis Square – 100% affordable (LIHTC Senior Rental                                  78
+    awarded)
+    Melrose Place – Vineland Housing Development Family Rental                            17
+    Corp.
+    Oak Hill                                                 Family Rental                58
+    406-419 Third Street                                     Family For Sale              4
+    Newcomb Senior Apartments – 3 Phases                     Senior Rental                196
+    Veteran’s Project                                        Senior Rental                28
+    TOTAL                                                                                 898
+
+
+
+
+                                                                                         32 | P a g e
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 37 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                            May 2025
+
+HOUSING ADMINISTRATION
+
+A F F OR D AB L E H OU S I N G O R DI N A NC E
+
+Chapter 425, Article VIII Affordable Housing, of the City’s code provides rules and regulations
+regarding affordable housing. This ordinance was last amended and updated in February of 2021,
+by Ordinance No. 2021-6.
+
+The City’s Affordable Housing ordinance provides requirements for affirmative marketing,
+reporting and monitoring, income limits, calculations for maximum rents and sales prices, and
+requirements for owning or renting a deed-restricted affordable unit, in accordance with the
+Uniform Housing Affordability Controls.
+
+To the extent that any amendments are necessary to the City’s Affordable Housing Ordinance to
+maintain compliance with the Fair Housing Act or UHAC, the City will adopt such amendments.
+
+D E VE L O PM E NT F E E O R DI N A NC E
+
+Chapter 425 of the City’s code provides comprehensive requirements for all affordable housing
+development in the City of Vineland. Specifically, §425-99 is the mandatory development fee
+requirements for all residential and non-residential development in the City that does not provide
+on-site affordable housing. The City’s ordinance authorizes the collection of 1.5% residential and
+2.5% non-residential development fees and allow for the collection of 6% fees for a "d" variance
+where an increase in the permitted residential density is involved. This creates a dedicated
+revenue stream for affordable housing programs, with all fees deposited into an interest-bearing
+account.
+
+A F F OR D AB L E H OU S I N G T R U S T F U N D
+
+The City has opened an interest-bearing affordable housing trust fund, and consistent with the
+development fee ordinance discussed above, imposes development fees on all applicable
+residential and non-residential development, and said fees are deposited into the affordable
+housing trust fund.
+
+A draft Spending Plan for the Affordable Housing Trust Fund can be found in Appendix B-2.
+
+A F F OR D AB I L I TY A S S I S TA NC E P R O GR AM
+
+The City will address the minimum affordability assistance requirements of the Affordable Housing
+Trust Fund spending in accordance with an Affordability Assistance Program that will be
+implemented, consistent with the Spending Plan outlined above.
+The City currently provides assistance in the form of no interest loans to income qualified
+households for ownership assistance.
+
+M U N IC I P AL H OU S I NG L I AI S ON
+
+The City has appointed the Director of Economic Development as the Municipal Housing Liaison.
+
+A copy of the Resolution appointing a MHL can be found in Appendix B-3.
+
+
+
+                                                                                     33 | P a g e
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 38 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan                        May 2025
+
+A F F OR D AB L E H OU S I N G A D MI N IS TR A TI VE A GE N T
+
+The City’s affordable housing programs and CDBG programs are currently administered by City
+Staff.
+
+I NC O M E L EV E L S
+
+Vineland City is in COAH’s Region 6, which includes Salem, Cumberland, Cape May, and Atlantic
+Counties. Moderate-income households are those earning between 50% and 80% of the regional
+median income. Low-income households are those with annual incomes that are between 30%
+and 50% of the regional median income. Very-low-income households are a subset of “low
+income” households, and are defined as households earning 30% or less of the regional median
+income.
+
+
+
+
+                                                                                 34 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 39 of 71 Trans ID: LCV20251743750
+
+
+
+City of Vineland – Housing Plan Element and Fair Share Plan              May 2025
+
+APPENDICES
+
+   A. Prior Rounds and Fourth Round Obligations
+          1. Resolution 2025-58 Adopting Fourth Round Obligation
+          2. Third Round Judgment of Compliance and Repose
+          3. Amended Third Round Judgment of Compliance and Repose
+   B. Administrative Documents
+          1. Rehab Program Manual
+          2. DRAFT Affordable Housing Trust Fund Spending Plan
+          3. Resolution Appointing MHL
+          4. Map of Affordable Projects
+   C. Crediting Documents
+          1. AHTF Funded Rehab Projects
+          2. CDBG Funded Rehab Projects
+          3. Oak Hill Resolution of Approval
+          4. Third Street Projects
+          5. Newcomb Phase I and II
+          6. Newcomb Phase III Resolution of Approval
+          7. Veterans Project Concept Plan
+
+
+
+
+                                                                       35 | P a g e
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 40 of 71 Trans ID: LCV20251743750
+
+
+
+Vineland City – Housing Plan Element and Fair Share Plan - Appendices
+
+
+
+APPENDIX A-1
+Resolution Adopting Fourth Round Obligation Numbers
+CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 41 of 71 Trans ID: LCV20251743750
+                                                CITY OF VINELAND, NJ
+
+
+
+                                       RESOLUTION NO. 2025- 58
+
+                   RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
+                   VINELAND COMMITTING TO FOURTH ROUND PRESENT AND
+                   PROSPECTIVE NEED AFFORDABLE HOUSING OBLIGATIONS.
+
+
+                  WHEREAS, the City of Vineland (hereinafter the “City” or “Vineland”) has a
+            demonstrated history of voluntary compliance as evidenced by its Third Round record; and
+
+                     WHEREAS, pursuant to In re N.J.A.C. 5:96 and 5:97, 221 N.J. 1 (2015) (Mount
+            Laurel IV), on July 2, 2015, the City of Vineland filed a Declaratory Judgment Complaint
+            in Superior Court, Law Division seeking, among other things, a judicial declaration that its
+            Third Round Housing Element and Fair Share Plan, to be amended as necessary, satisfied
+            its “fair share” of the regional need for low and moderate income housing pursuant to the
+            “Mount Laurel doctrine;” and
+
+                   WHEREAS, that culminated in a Court-approved Third Round Housing Element
+            and Fair Share Plan and a Final Judgment of Compliance and Repose, which precludes all
+            Mount Laurel lawsuits, including builder’s remedy lawsuits, until July 1, 2025; and
+
+                   WHEREAS, on March 20, 2024, Governor Murphy signed into law P.L. 2024, c.2,
+            which amended the 1985 New Jersey Fair Housing Act (hereinafter the “Amended FHA”);
+            and
+
+                  WHEREAS, the Amended FHA required the Department of Community Affairs
+            (“DCA”) to provide an estimate of the Fourth Round affordable housing obligations for all
+            municipalities on or before October 20, 2024, based upon the criteria described in the
+            Amended FHA; and
+
+                   WHEREAS, the DCA issued a report on October 18, 2024 (“DCA Report”)
+            wherein it reported its estimate of the Fourth Round affordable housing obligations for all
+            municipalities based upon its interpretation of the standards in the Amended FHA; and
+
+                    WHEREAS, the DCA Report calculates the City’s Fourth Round (2025-2035)
+            obligations as follows: a Present Need (Rehabilitation) Obligation of 276 and a Prospective
+            Need (New Construction) Obligation of Zero (0) due to its status as a Qualified Urban Aid
+            Municipality; and
+
+                    WHEREAS, the Amended FHA further provides that, irrespective of the DCA’s
+            calculations, municipalities have the ability to either accept, or provide alternate
+            calculations for, the DCA’s “present and prospective fair share obligation(s)…by binding
+            resolution no later than January 31, 2025”, a deadline which was later extended to February
+            3, 2025 by the Administrative Office of the Courts (“AOC”) via a directive issued on
+            December 19, 2024; and
+
+                   WHEREAS, this Resolution satisfies the requirements of the Amended FHA by
+            accepting the DCA’s estimate of the City’s Present and Prospective Need for Round 4
+            (2025-2035), as described in the DCA Report; and
+
+                   WHEREAS, Section 3 of the Amended FHA provides that: “the municipality’s
+            determination of its fair share obligation shall have a presumption of validity, if established
+            in accordance with sections 6 and 7” of the Amended FHA; and
+
+                    WHEREAS, the City’s acceptance of the Fourth Round obligations calculated by
+            the DCA are entitled to a “presumption of validity” because it complies with Sections 6 and
+            7 of the Amended FHA; and
+CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 42 of 71 Trans ID: LCV20251743750
+                                                CITY OF VINELAND, NJ
+
+
+
+                    WHEREAS, in addition to the foregoing, the City specifically reserves the right to
+            adjust its fair share obligations in accordance with applicable Council on Affordable
+            Housing (“COAH”) regulations or other applicable law based on one or more of the
+            foregoing adjustments if applicable: 1) a windshield survey or similar survey which
+            accounts for a more refined estimate of present need; 2) a Vacant Land Adjustment
+            predicated upon a lack of vacant, developable and suitable land; 3) a Durational
+            Adjustment, whether predicated upon lack of sewer or lack of water; and/or 4) an
+            adjustment predicated upon regional planning entity formulas, inputs or considerations,
+            including but not limited to, the Highlands Council Regional Master Plan and its build out,
+            or the Pinelands Commission or Meadowlands Commission regulations and planning
+            documents; and
+
+                    WHEREAS, in addition to the foregoing, the City specifically reserves all rights to
+            revoke or amend this Resolution and commitment, as may be necessary, in the event of a
+            successful challenge to the Amended FHA in the context of the case The Borough of
+            Montvale v. the State of New Jersey (MER-L-1778-24), any other such action challenging
+            the Amended FHA, or any legislation adopted and signed into law by the Governor of New
+            Jersey that alters the deadlines and/or requirements of the Amended FHA; and
+
+                    WHEREAS, in addition to the foregoing, the City reserves the right to take a
+            position that its Fourth Round Present or Prospective Need Obligations are lower than
+            described herein in the event that a third party challenges the calculations provided for in
+            this Resolution (a reservation of all litigation rights and positions, without prejudice); and
+
+                    WHEREAS, in addition to the foregoing, nothing in the Amended FHA requires or
+            can require an increase in the City’s Fourth Round Present or Prospective Need Obligations
+            based on a successful downward challenge of any other municipality in the region since the
+            plain language and clear intent of the Amended FHA is to establish unchallenged numbers
+            by default on March 1, 2025; and
+
+                  WHEREAS, in addition to the foregoing, the Acting Administrative Director of the
+            Administrative Office of the Courts issued Directive #14-24 (hereinafter “AOC Directive”)
+            on December 19, 2024; and
+
+                    WHEREAS, pursuant to AOC Directive #14-24, a municipality seeking a Fourth
+            Round Compliance Certification from the entity created by the Amended FHA known as
+            the Affordable Housing Dispute Resolution Program (hereinafter “the Program”), shall file
+            an action in the appropriate venue with the Program, in the form of a Declaratory Judgment
+            Complaint within 48 hours after adoption of the municipal resolution accepting or
+            challenging its Fourth Round fair share obligations, or by February 3, 2025, whichever is
+            sooner; and
+
+                    WHEREAS, nothing in this Resolution shall be interpreted as an acknowledgment
+            of the legal validity of the AOC Directive and the Borough reserves any and all rights and
+            remedies in relation to the AOC Directive; and
+
+                    WHEREAS, the City seeks a Compliance Certification from the Program and,
+            therefore, wishes to file a Declaratory Judgment Complaint in the appropriate venue with
+            the Program, along with a copy of this Resolution, within 48 hours of the adoption of this
+            Resolution; and
+
+                    WHEREAS, in light of the above, the Mayor and City Council finds that it is in the
+            best interest of the City to declare its obligations in accordance with this binding Resolution
+            and in accordance with the Amended FHA; and
+
+                   NOW, THEREFORE, BE IT RESOLVED on this ___       28th day of January 2025, by
+            the City Council of the City of Vineland, Cumberland County, State of New Jersey, as
+            follows:
+
+                   1.      All of the Whereas Clauses are incorporated into the operative clauses of
+            this Resolution as if set forth in full.
+
+
+
+                                                          2
+CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 43 of 71 Trans ID: LCV20251743750
+                                                CITY OF VINELAND, NJ
+
+
+
+                   2.      For the reasons set forth in this Resolution, the Mayor and City Council
+            hereby commit to the DCA Fourth Round Present Need (Rehabilitation) Obligation of 276
+            and the DCA Fourth Round Prospective Need (New Construction) Obligation of Zero (0)
+            as described in this Resolution, subject to all reservations of rights, which specifically
+            include, without limitation, the following:
+
+                           a) The right to adjust the City’s fair share obligations based on a windshield
+                           survey or similar survey, a Vacant Land Adjustment, a Durational
+                           Adjustment, and all other applicable adjustments, permitted in accordance
+                           with applicable COAH regulations or other applicable law; and
+
+                           b) As described in the WHEREAS section, all rights to revoke or amend this
+                           Resolution in the event of a successful legal challenge, or legislative change,
+                           to the Amended FHA; and
+
+                           c) The right to take any contrary position, or adjust its fair share obligations,
+                           in the event of a third party challenge to the City’s fair share obligations.
+
+                   3.      Pursuant to the requirements of the FHA as amended, and the AOC Directive
+            #14-24 issued on December 19, 2024, the City hereby directs its Affordable Housing
+            Counsel to file a Declaratory Judgment Complaint, along with this Resolution and a Case
+            Information Statement (Civil CIS), in the appropriate venue with the Program or any other
+            such entity as may be determined to be appropriate, to initiate an action within 48 hours of
+            the adoption of this Resolution, so that the City’s Fourth Round Housing Element and Fair
+            Share Plan can be reviewed and approved.
+
+                   4.      This Resolution shall take effect immediately, according to law.
+
+
+
+                   Adopted: January 28, 2025
+
+
+
+                                                                   President of Council         pfs
+
+
+
+
+                   ATTEST:
+
+
+
+                   _________________________________
+                               City Clerk         kp
+
+
+
+
+                                                CERTIFICATION
+
+
+                    The undersigned, Municipal Clerk for the City of Vineland, County of Cumberland,
+            State of New Jersey, hereby certifies the foregoing to be a true copy of a Resolution adopted
+            by the City Council of the City of Vineland on January 28 __, 2025.
+
+
+
+                   ________________________________________________
+                               Keith Petrosky, Municipal Clerk
+
+
+
+
+                                                          3
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 44 of 71 Trans ID: LCV20251743750
+
+
+
+Vineland City – Housing Plan Element and Fair Share Plan - Appendices
+
+
+
+
+APPENDIX A-2
+Third Round Judgment of Compliance and Repose
+CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 45 of 71 Trans ID: LCV20251743750
+CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 46 of 71 Trans ID: LCV20251743750
+CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 47 of 71 Trans ID: LCV20251743750
+CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 48 of 71 Trans ID: LCV20251743750
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 49 of 71 Trans ID: LCV20251743750
+
+
+
+Vineland City – Housing Plan Element and Fair Share Plan - Appendices
+
+
+
+
+APPENDIX A-3
+Amended Third Round Judgment of Compliance and Repose
+   CUM L 000450-15
+CUM-L-000073-25       12/06/2021
+                06/12/2025 2:31:17 PM Pg
+                                       Pg1 50
+                                           of 5ofTrans ID: LCV20212894783
+                                                  71 Trans  ID: LCV20251743750
+   CUM L 000450-15
+CUM-L-000073-25       12/06/2021
+                06/12/2025 2:31:17 PM Pg
+                                       Pg2 51
+                                           of 5ofTrans ID: LCV20212894783
+                                                  71 Trans  ID: LCV20251743750
+   CUM L 000450-15
+CUM-L-000073-25       12/06/2021
+                06/12/2025 2:31:17 PM Pg
+                                       Pg3 52
+                                           of 5ofTrans ID: LCV20212894783
+                                                  71 Trans  ID: LCV20251743750
+   CUM L 000450-15
+CUM-L-000073-25       12/06/2021
+                06/12/2025 2:31:17 PM Pg
+                                       Pg4 53
+                                           of 5ofTrans ID: LCV20212894783
+                                                  71 Trans  ID: LCV20251743750
+   CUM L 000450-15
+CUM-L-000073-25       12/06/2021
+                06/12/2025 2:31:17 PM Pg
+                                       Pg5 54
+                                           of 5ofTrans ID: LCV20212894783
+                                                  71 Trans  ID: LCV20251743750
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 55 of 71 Trans ID: LCV20251743750
+
+
+
+Vineland City – Housing Plan Element and Fair Share Plan - Appendices
+
+
+
+
+APPENDIX B-1
+Rehabilitation Program Manual
+   CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 56 of 71 Trans ID: LCV20251743750
+
+
+
+
+    ctwoF
+    VINELAND
+   WHEREIT'S ALWAYS GROMIVG SEASO'V
+
+
+
+
+                                                                           I
+                         ll                                                I
+                         ll                                                I
+                         ta
+
+
+
+
+           CITY OF VINELANT)
+Operating Procedure Manual for the Administration
+     of a Residential Rehabilitation Program
+
+
+
+ 640 EAST WOOD STREET UNELAND, NJ 08:}60
+ (856) 79/t4OO0                                                       ocToBER 2020
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 57 of 71 Trans ID: LCV20251743750
+
+
+
+
+                                  TABLE OF CONT ENTS
+
+
+
+il. EL|GIBLE PART1C1PANTS.....................                                     3
+
+  A. OwN ER-occu pt ED pRopERTtES .,................                               3
+  B. RESTDENTTAL RENTAL PRoPERTtEs...............,..                               4
+  C. EsrABLrsHrNG ELtctBtLIw...                                                    4
+III. PROGRAM APPLICATION                                                            5
+  A. SUBMITTING AN APPLICATION                                                      5
+  B. wlTHDRAwtNe lx Appt-tcartoN..................                                  5
+IV. LOAN AVAILABILIry AND TERMS                                                     6
+  A . LoANs FoR PRoPERW |MPRoVEMENTS                                                6
+  B . LoAN REPAYMENT.................                                               6
+  c . LoAN MAXIMUM                                                                  7
+  D . LoAN suBoRDtNATtoN...........                                                 7
+  E                                                                                 7
+  B . EL|GTBLE Paopenw IMPRoVEMENTS                                                 8
+  c . EMERGENCY ASsrsrANcE......                                                    I
+  D . INELTcTBLE UsES.,,............                                                I
+  E , UNFEASIBILtTy or RexlgtltrltloN ..................                            I
+VI. CONTRACTOR SELECTION, PERFORMANCE AND PAYMENT                                 10
+
+  A EL|GTBLE coNTRAcroRS ............                                       '.......10
+  B BtD opENrNGs ANo coNTRAcroR sELEcrtoN....                            ..'.'.....'10
+  c CoNTRAcToR PERFoRMANCE                                              .'..'.......11
+  D CoNTRAcToR PAYMENT                                                            12
+
+VIII. MISCELLANEOUS                                                               14
+
+
+
+
+  F. COAH REHAB REPoRTING                                                          15
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 58 of 71 Trans ID: LCV20251743750
+
+
+
+
+                                    CITYOFVINELAND
+                       RESIDENTIAL REHAB LOAN PROGRAM
+
+                                 I. PROGRAM OVERVIEW
+
+  The City of Vineland Community Development Residential Rehab Loan Program (the
+Program) has been established to help make needed repairs to residential units in the City of
+Vineland that are occupied by income-eligible families. As part of an overall Community
+Development effort, the Loan Progmm seeks to:
+       .   improve living conditions for eligible city residents;
+       o   preserve Vineland's housing stock;
+       o   stabilize older neighborhoods.
+
+The Loan Program is designed to accomplish this by:
+       . making available interest-free loans for rehabilitation work;
+       . helping property owners identifu the qpe and scope ofwork their properties need;
+       r assisting property owners in selecting a qualified contractor at a fair price;
+       o establishing and enforcing housing rehab standards that must be met for all properties
+         in the Program.
+
+  The Loan Program is funded by grants from other govemment agencies, most notably the U.S.
+Department of Housing and Urban Development (HUD), which provides the Community
+Development Block Grant (CDBG) funds and the HOME Invesfinent Partnerships Program
+(HOME) firnds. In addition, funding from the Affordable Housing Trust Fund is used for owner-
+occupied units rehabilitation. The Office of Community Development continually seeks
+additional funding sources to support the Loan Program. The program will at all times follow the
+regulations set forth by HUD and all other frrnding sources utilized by the program.
+
+  Operation of this progmm will be guided by this Policy and Procedures Manual, which may be
+revised at any time at the discretion of the Program Director so long as all changes are within the
+regulations set forth by HUD and all other funding sources utilized by the program.
+
+  Except in the case of mobile homes and properties that are completely or primarily rental
+properties, loans provided through this program will be interest-free, defened payment loans
+secured by a mortgage or other instrument on the property being repaired. In the case of mobile
+homes and rental properties, loans will be interest-free installment loans with repayment
+commencing within 45 days of the completion of work. For owner-occupied properties, the loan
+will be for the full amount of the rehab work, up to the Program maximum and the principal will
+remain unchanged and will be 100% repayable under the terms and conditions included in the
+loan documents. For rental properties, the loan will be for up to 50% of the rehab work. Owners
+of rental properties will be responsible for the balance of the rehab costs and will be required to
+deposit the funds in an escrow account with the program prior to the start of work.
+
+  The offer of program participation is always subject to availability of funds.
+
+
+
+
+                                                 )
+   CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 59 of 71 Trans ID: LCV20251743750
+
+
+
+
+II. ELIGIBLE PARTICIPANTS
+
+A. Owner-occupied properties
+
+  To be eligible for a loan under the Residential Rehab Loan Program, an owner-occupied
+property and its owner(s) must meet the following criteria:
+
+       1) The property is located within the City of Vineland.
+       2) The owner has owned and lived in the property for at least 12 months. NOTE - An
+           exception to this criteria may be made if a certified home inspection was completed at
+           the time of purchase and an emergency has subsequently arisen to a component that
+           was satisfactory at the time ofthe inspection.
+      3) The property consists of I or 2 residential units, one of which is occupied by the
+           Foperty owner and both of which exist in accordance with the land use regulations of
+           the City of Vineland as determined by the City's Zoning Officer. Note - Eligibility
+           for rehab ofany rental units wiU be determined according to the policies described
+           below for rental properties.
+      4) The owner(s)/occupant(s) must be part ofan income-eligible household. An income-
+           eligible household is defined as one with a total annual household income equal to
+           80%o or less of the area median income for that family's size as determined each year
+           by HUD. Income limit amounts are available at the City of Vineland Commwrity
+           Development Program office and at the HUD website, ggg1fu!.g. The lntemal
+           Revenue Service Form 1040 definition of "adjusted gross income" is used to calculate
+           annual household income and thus determine eligibility for participation in this
+          program. Additional eligibility restrictions may be added as required by funding
+           sources.
+      5) The owner(s)/occupant(s) must not have assets in excess of $75,000. For purposes of
+          thisprovision,             includes stocks, bonds, savings accounts, real estate other than
+          the principal residence and all other property, real or personal, except personal
+          vehicles. The value of real property shall be based on a current appraisal (no more
+          than 12 months old).
+      6) Except for mobile homes, the property must have a deed that has been recorded with
+          Cumberland County.
+      7) The property must have current homeowner's insurance that includes coverage for
+          fire and flood (if applicable).
+      8) All municipal utilities (water, sewer) and property taxes must be current
+      9) After initial inspectioq it is determined that rehabilitation required on the property
+          will represent less than 50% ofthe value of the property after rehabilitation and that,
+          when combined with any existing Community Development Program rehab loans on
+          the property, the total amount owed will not exceed $40,000.00 or 50% of the
+          property's value, whichever is lower.
+      l0) The applicant has not previously defaulted on a loan or loans to the City of Vineland
+          Community Development Program through bankruptcy, foreclosure or any other
+          means.
+
+
+
+
+                                                -)
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 60 of 71 Trans ID: LCV20251743750
+
+
+
+
+B. Residential rental properties
+
+  To be eligible for a loan under the Residential Rehab Loan Program, a residential rental
+property must meet the following criteria:
+
+        l) The property is located within the City of Vineland.
+       2) The property consists of I to 4 residential units, all of which exist in accordance with
+           the land use regulations of the City of Vineland as determined by the City Zoning
+           Officer.
+       3) The tenants in at least 5l% ofthe occupied units must be income-eligible households.
+          (Note - this requirement is at least 50% for a 2-unit property.) An income-eligible
+          household is defined as one with a total annual household income equal to 80olo or
+          less of the area median income for that family's size as determined each year by
+          HUD. Income limit amounts are available at the City of Vineland Community
+          Development Program office and at the HUD website, www.hud.sov. The Internal
+          Revenue Service Form 1040 definition of "adjusted gross income" is used to calculate
+          annual household income for purposes of this program. Additional eligibility
+          requirements may be added to satisfu funding sources.
+       4) If one or more units is vacant at the time rehab work is done, the property owner must
+          agree that the next tenant in the unit(s) will be an income-eligible household(s).
+       5) The property must have a deed that has been recorded with Cumberland County.
+       6) The property must have current homeowner's insurance that includes coverage for
+          fire and flood (if applicable).
+       7) All municipal utilities (water, sewer, electric) and property taxes must be current.
+       8) After initial inspection, it is determined thar rehabilitation required on the property
+          will represent less than 50% ofthe value of the property after rehabilitation.
+       9) The applicant has not previously defaulted on a loan or loans to the City of Vineland
+          Community Development Program through bankruptcy, foreclosure or any other
+           means.
+
+C. Establishing eligibility
+
+Eligibility will be based upon the following criteria:
+Income and assets: Proof of income must be established by the following:
+    1. Most recent pay stubs for at least 1 month's income for any resident who is employed
+    2. Most recent Federal lncome Tax Retum documents (1040, 1040,.4., EZ,W-2 forms) for all
+       residents who must file income tax
+    3. Current award notice from Social Security, Pension, Welfare, Unemployment
+   4. Rental income, self-employment, interest, bonds, stocks, etc.
+    5. Verification of account balances and other assets
+    6. Court order of alimony
+Income shall include all household members l8 years and older. In addition, urearned income
+for household members under 18 will be included. Post-secondary students are exempt from all
+eamed income calculations. Proof of enrollment in a post-secondary institution of leaming will
+
+
+
+
+                                                  4
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 61 of 71 Trans ID: LCV20251743750
+
+
+
+
+be required in such cases. Household members that claim no income must submit a notarized
+"Certification of No lncome."
+
+The Program application includes a space for the applicant to list all assets. By signing the
+application, the applicant wanants that this listing is complete and true.
+
+Ownership and occupancy: Proof of ownership of the property and its use as a principal place
+of residence (if an owner-occupied property) must be established by the following:
+    1. CopyofDeed
+    2. Copy of Declaration of Homeowner's Insurance
+    3. Copy of Real Estate Tax Bill with Proof of Payment
+    4. Copy ofFlood Insurance, if within 100-year flood plain
+    5. Signed Declaration ofOccupancy, which is part ofthe Application
+All of the above items must accompany the completed application (except in the case of mobile
+homes, where items 1 through 4 do not apply).
+
+
+
+III. PROGRAM APPLICATION
+
+A. Submitting an Application
+
+  Only the owner(s) of a property can apply for participation in the Program.
+  Because the program requires documentation of income eligibility, applications for this
+program need to be completed in person at the Community Development Program office in City
+Hall, 640 E. Wood St., Vineland. An appointment with a program lntake Specialist is required.
+Appoinunents can be made by calling 856-7944077 .
+  There are no application fees associated with the program.
+
+B. Withdrawing an Application
+
+  Ifa property owner decides 1o withdraw an application after receiving a work write-up and cost
+estimate inspection by the Rehabilitation Specialist, the costs for such inspection, including all
+assessments oflead paint risk hazard, will be the responsibility of the property owner. Payment
+will be due to the City of Vineland, Community Development Program within two weeks of
+notification by the Program that such costs have occuned. Notification will be forwarded to the
+property owner by certified mail. Agreement to this provision will be made part of the property
+o*,ner's application for assistance. Failure to pay the amount owed will result in a City of
+Vineland lien being placed on the property in the amount owed.
+
+
+
+
+                                                 )
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 62 of 71 Trans ID: LCV20251743750
+
+
+
+
+IV. LOAN AVAILABILITY AND TERMS
+
+A. Loans for property improvements
+
+l. Owner-occupied properties: The entire cost of repairs and improvements made through this
+progam, up to the Progmm maximum (see below), will be paid directly by the program to the
+contractor. That amount will then become a loan to the property owner. Except in the case of
+mobile homes, loans will be interest-free, defened payment loans secured by a secondary
+mortgage or other instrument on the property being repaired. The principal will remain
+unchanged and will be 100% repayable under the terms and conditions described under "Loan
+repayment" below and in the mortgage and loan documents.
+
+1.(a) Elderly or Severely Handicapped: As defined by HUD, Seniors age 62 arld above with
+incomes below 50% of the local median level or Severely Handicapped Individuals can be
+eligible for a grant up to $5000.00 to be used towards the repair oftheir residence, and can be
+used in conjunction with repairs exceeding the grant.
+
+2. Rental units: Rental units are defrned as legally existing housing units, as determined by the
+city zoning offrcer, registered with the city of vineland and having received an occupancy
+Permit and for which the owner receives rent payments under terms of a written lease with the
+current occupants. A copy of the lease, signed by both parties, is required for each unit being
+assisted by the Program. For vacant units, the owner must provide a copy of the lease that will be
+used to rent the unit and then a copy ofthe signed le.rse once the unit has been rented.
+
+For all rental properties, up to 507o ofthe cost of repairs and improvements made through this
+program, up to the Program maximum, will be paid directly to the contractor. That amount will
+b""o.e a loan to the property owner. The remaining costs will be the responsibility of the
+property owner and must be placed in escrow with the Program prior to the start ofwork. The
+Program will use the escrowed frrnds along with Program f,rnds to pay the contractor.
+
+Loans will be interest-free insEllment loans secured by a secondary mortgage on the property
+being repaired. The loan will be repaid on a monthly basis as described under "Loan repayment"
+below and in the mortgage and loan documents.
+
+B. Loan repayment
+
+Repayment of Residential Rehab loans will be required as follows:
+
+    a   In the case ofan owner-occupied property, the loan will be due when the owner
+        transfers title or ceases to use the property as principal residence. In the event of the
+        ou.ner's death, the loan will be due unless at least one member of the owner's family who
+        was residing in the property at the time the loan was made and has continued to reside
+        there since the loan was made wishes to continue to live in the property and is income-
+        eligible at the time of the owner's death.
+    a   In the case of mobile homes, repayment will be on a monthly installment basis. The loan
+        will be interest free. Repayment will commence within 45 days of the completion of
+
+
+                                                 6
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 63 of 71 Trans ID: LCV20251743750
+
+
+
+
+       rehab work. For loans of$6,000.00 or less, 3% of the original loan amount will be due
+       monthly until the loan is satisfied. For loans of more than $6,000.00, 2% of the original
+       loan amount will be due monthly until the loan is satisfied.
+       ln the case ofa rental property, repayment will be on a monthly installment basis. The
+       loan will be interest free. Repayment will commence within 45 days of the completion of
+       rehab work. For loans of$10,000.00 or less,3olo of the original loan amount will be due
+       monthly until the loan is satisfied. For loans of more than $10,000.00, 2% ofrhe original
+       loan amount will be due monthly until the loan is satisfied.
+       Any other event ofdefault occurs, as described in the loan documents.
+
+C. Loan maximum
+
+The maximum Residential Rehab loan award amount is $25,000 plus reasonable non-rehab costs,
+including recording fees and lead paint testing per housing unit. That amount should be reviewed
+periodically and adjusted, if necessary, by the Community Development Program Director to
+reflect changes in rehabilitation costs, funding availability, flmding source regulations and other
+relevant factors. The Program Director may approve an exception to the maximum loan amount
+for a particular property only in extenuating circumstances based upon the necessity to meet code
+standards. At no time may the maximum loan amount exceed restrictions imposed by funding
+sources.
+
+D. Loan subordination
+
+The City will consider requests to subordinate a Residential Rehab loan to subsequent financing
+or refinancing. In all cases, the properfy owner must supply information listed in the Program's
+"Subordination Request Check List," which includes information on the new financing terms,
+recent appraisal of the value ofthe property and intended uses of the proceeds ofany new
+financing. This and other relevant documentation required by the program will be reviewed by
+the City solicitor, who will make a recommendation to Vineland City Council on the advisability
+of granting the subordination request.
+
+E. Loan Security
+
+The City will enter into an Agreement with the Borrower, which specifies the terms and
+conditions of the Loan funds to be made available through the Program, including reference to a
+Work Write-Up and Cost Estimate, which will be attached and made part of the Construction
+Agreement. Embodied in the Bonower's Agreement will be the requirement that the Borrower
+sign a Mortgage and Note that will be recorded with the County Register and will serve as the
+appropriate security device for repayment ofloans. Mortgage documents will be recorded with
+the County within 30 days from the date of the Letter of Completion fiom the Program Director.
+
+Copies of the Borrower's Agreement and form of Mortgage and Note to be used in implementing
+the Program are attached and made part ofthe Procedural Manual.
+
+
+
+
+                                                7
+     CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 64 of 71 Trans ID: LCV20251743750
+
+
+
+
+In the case of mobile homes, an Installment Loan Agreement will be substitute for a Mortgage
+and Note. In the case of rental properties, and Installment Loan Agreement will be drawn up in
+addition to the Mortgage and Note.
+
+
+
+V.     RI,HABILITATION
+
+A. Program Operations
+
+The City of Vineland will administer the Commrmity Development Residential Rehab Loan
+Program utilizing existing personnel and consultant services as needed. The Community
+Development Director will oversee the operations of the program.
+
+Properry inspections will be performed by the City of Vineland's Community Development
+Rehabilitation coordinator and/or housing inspector(s), who will perform detailed inspections of
+the property, outlining deficiencies and the method to correct deficiencies through the form ofa
+Work Write-Up with detailed specifications. The Work Write-Ups will be based on the
+Program's written Rehabilitation Standards. Based on the Work Write-Ups, Cost Estimates will
+be prepared for use by the Director and the homeowner in selecting the work to be undertaken
+and the contracto(s) to do the work. The Program will employ the services ofa certified lead-
+based paint risk assessor for properties built before 1978 to perform assessments according to
+HUD guidelines.
+
+
+B. Eligible Property Improvements
+
+The primary purpose of the City of Vineland Residential Rehabilitation Loan Program is to
+provide decent, affordable housing for low- and moderate-income households. Therefore.
+Community Development Residential Rehabilitation Loan Program frrnds will be available to
+address quality of life housing issues, correct existing and incipient code violations, minimize the
+risk ofpoisoning from lead-based paints and correct weatherization deficiencies as identified in
+the project's Work Write-Up with detailed specifications.
+
+The Program will prioritize those work items such as roof, heater, electrical, lead hazard
+reduction and plumbing that affect the health and safety ofresidents. The improvements to be
+selected must also be economically feasible and cost-effective. Items used for the purpose of
+decoration or additions are NOT eligible. Floor coverings, cabinets, fencing, driveways, repairs
+to garages or other storage areas and other improvements intended to provide a reasonable
+quality of life are permitted under the program but are of lower priority and cannot be done for
+aesthetic purposes only.
+
+All rehabilition work performed will bring units up to code and at least one major system will be
+replaced.
+
+
+
+
+                                                 8
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 65 of 71 Trans ID: LCV20251743750
+
+
+
+
+C. Emergency assistance
+
+Eligible applicants for the program will be provided assistance on a first-come, first-serve basis
+except in those cases where an emergency is deemed to exist. Depending on the availability of
+firnds, priority may be given to eligible households in the case of the need for emergency repairs
+and the program process will be expedited to the extent that is prudent and permissible.
+  The need for emergency repairs will be considered to exist if either of the following is true as
+determined by progrirm staff and declared by the Program Director:
+    o   The existing condition is an immediate and serious threat to the health and safety ofthe
+        residents. Examples would include a lack ofheat, water, electricity or sanitary sewer or
+        septic service.
+    r The existing condition is a threat to cause substantial damage to the property. Examples
+        would include significant leaks in plumbing or the roof.
+
+  Only those repairs necessary to correct the emergency situation are eligible for this priority
+assistance.
+
+D. Ineligible Uses
+
+Program firnds cannot be used for improvements that:
+    o  are solely or primarily for decorative or aesthetic pwposes,
+    .  are generally considered "luxury items," e.g. swimming pools, hot tubs, lawn sprinkler
+       systems. Air conditioning is NOT considered a luxury item and is therefore an eligible
+       cost.
+    o  are not economically feasible (see Section E below),
+    .  are not cost-effective.
+
+E. Unfeasibility of Rehabilitation
+
+In the event that the initial inspection reveals an extraordinary degree ofproperty deficiencies
+that are ofa serious nature, an evaluation will be made as to the feasibility of investing
+Community Development funds into the project. If this evaluation reveals that the amount of
+rehabilitation required on the property will be 50% or more ofthe value ofthe property after
+rehabilitation, the Director will have the discretion to disqualifu the applicant and therefore,
+target the limited resources to other qualified properties. This determination is based on the
+criteria established in the Environmental Review Regulations. A release of funds for
+implementation of rehabilitation activities is issued on the premise the cost of rehabilitation of
+qualifred properties will not exceed 50% of the property value after rehabilitation. To firnd a
+project of this nature could, therefore, be in violation of the findings and conclusions established
+in the Environmental Assessment. Furthermore, the Project is designated to rehabilitate existing
+structurally sound properties and is not designated to reconstruct otherwise sub-standard
+properties.
+
+
+
+
+                                                 9
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 66 of 71 Trans ID: LCV20251743750
+
+
+
+
+VI. Contractor selection, performance and payment
+
+A. Eligibte contractors
+
+The City, on behalfofthe property owners, will solicit bids from eligible rehabilitation
+contractors. Prior to receiving a determination ofeligibility to participate in the Housing
+Rehabilitation Program, a contractor must complete an application and provide references, as
+well as evidence of appropriate liability and workmen's compensation insurance, a State ofNew
+Jersey Business Registration Certificate and Home Improvement Contractor's registration and
+any other relevant documentation requested by the Program staff To be eligible to bid on work
+in houses that were constructed prior to 1978, the conmctor must also provide evidence of lead
+hazard training certifications as required by HUD and the U.S. Environmental Protection
+Agency. The City will determine whether a contractor is on a recognized debarred list. The
+contractor must also comply with other appropriate regulations established by the City of
+Vineland and State of New Jersey.
+
+B. Bid openings and contractor selection
+
+The Community Development Program will receive bids on a date and time specified for a bid
+opening. Normally, bids will be sought in blocks of3 to 5 properties so that contractors will have
+reasonable workloads and $eater opportunity to submit more cost effective proposals.
+
+Program staff will review the proposals and provide the property owner with a list of contractors
+who have submitted eligible bids for the work. Eligible bids will be those that:
+   o   satis& the specifications of the Work Write-Up
+   o   have been submitted by an eligible contractor
+   .   are no more than 100% above or 20% below the Program rehab specialist's final cost
+       estimate for the work
+   o   and have been submitted by a contractor who, in the opinion of the Program Director, has
+       the ability to perform the designated tasks within a responsible period of time as is
+       specified in the Contract documents.
+
+The property owner will then select a contractor from the list ofeligible bids. If the property
+owner selects a contractor other than the contractor who submitted the lowest eligible bid, the
+property owner will provide, prior to the start ofwork, the difference between the lowest eligible
+bid and the selected bid. The amount provided by the property owner will be placed in escrow
+with the Program. The homeowner will be required to execute the contract documents with the
+selected Contractor.
+
+In the case of emergency procedures (see above) when the policy for open bidding is not
+feasible, at least three estimates will be solicited fiom current contractors list. Normal bidding
+procedures will be followed once the emergency situation has been abated.
+
+Exceptions to bidding requirement - When appropriate, the Program Director can approve a
+rehab price without bidding. For instance if property owner is a registered contractor who would
+in all ways be eligible to bid on the work and wishes to do the work him,/herself. In such cases,
+
+
+                                                  l0
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 67 of 71 Trans ID: LCV20251743750
+
+
+
+
+the contractor must still meet all requirements and the Program must confirm the reasonableness
+of all costs. Such confirmation may include a staff estimate and/or the solicitation of cost
+estimates from other contractors for a cost to be paid for from the project funds.
+
+C. Contractor performance
+
+Timeliness and quality of work: It is expected that contractors will complete all work within
+the time period specified in their contract with the property owner and provide work that, at a
+minimum, meets the Program's Rehabilitation Standards. The time allowed for completion of
+work will be established by Program staffprior to the start of construction and will be based on
+the amount and complexity of the work to be done.
+
+Probationary period: Contractors who have not had prior working experience with the City will
+not be awarded more than one rehabilitation contract until one property is complete and
+satisfactory. At such time that a track record has been established that demonstrates work in a
+timely, professional and workman like manner that complies with the Program's Rehabilitation
+Standards, the contractor's probationary period will be over and a larger scope of work may be
+awarded. Contractom who have a favorable performance record with the City may be awarded
+up to three projects from one bid opening, based on his work schedule and potential to complete
+the projects in a timely manaer.
+
+Contractor disqualification: It should be noted that contractors that receive poor references
+from progfam staff, homeowners, landlords, businesses or other govemment agencies, may be
+kept from participating in the program or placed or replaced on probationary status. Other factors
+that will be considered in determining eligibility and continued prograrn participation are:
+        -  Failure to make payments to sub-contractors
+        -  Debarment from any govemment prograrn
+        -  Failure to complete punch lists or respond to reasonable homeowner complaints as
+           determined by the Program Director
+        -  The use of alcohol or drugs during the course of work by the contractor or any sub-
+           contractor or anyone in the employ of a contractor or sub-contractor
+        -  Reports of theft, malicious damage or burglary to any property while participating in
+           the Residential Rehab Loan Program.
+       -   Indictrnent of any criminal offense
+       -   Failure to comply with the laws and ordinances of the municipality
+       -   Continued failure to obtain permits before the start of work
+       -   Abusive and rulgar langrragg and behavior during the course of work
+       -   Threats or harassment made to any person during the course of work.
+
+In the event that a contractor, sub-contractor, or employee ofsuch violates any of the provisions
+of this section CONTRACTOR SELECTION PROCEDURES, the Program Director may
+disqualify the contractor or sub-contactor from future participation in the Program.
+
+Once a rehabilitation project has been begun and the contractor must be removed from, or
+refuses to complete, a project, the Director must select the contractor who will complete the
+rehabilitation project. Should the replacement contractor's cost to complete the rehabilitation be
+
+
+
+                                                ll
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 68 of 71 Trans ID: LCV20251743750
+
+
+
+
+higher than that of the original contractor, the original contractor will be responsible for the
+difference. That cost cannot be passed along to the homeowner.
+
+D. Contractor payment
+
+Contractors can only be paid for work that has been completed. No advance payments are
+permitted. A contractor can request a progress payment of50% of the contract amount after
+completing work that equates to at least 60% of the project cost. If satisfactory progress has been
+made at the time of the request, the Program will approve a progress payment.
+
+For all payments, checks will be made payable directly to the contractor. Final payment will be
+made following a Letter of Completion from the Program. The Letter of Completion will be
+issued when:
+    o   all Write-Up work has been completed according to Program Rehabilitation Standards, as
+        verified by Program rehab staff;
+    o   the property oq,ner has sigrred a form stating that he/she is satisfied with the work OR the
+        Program Director has signed a form stating that the owner's refusal to sign a completion
+        fonn is not warranted;
+    r   lead hazard clearances, if any, have been received;
+    o   copies of all warranties have been received by the property owner and the Program.
+
+
+
+
+                                                  12
+   CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 69 of 71 Trans ID: LCV20251743750
+
+
+
+
+VII. Program flow chart
+
+Once an application has been completed, the following steps will take place:
+
+                                Verification that
+                             application is complete
+
+                             Verification of eligibility
+                        Letter sent to inform applicant of result
+
+
+                                          (lf eligible)
+
+
+
+                               Property inspection
+         To be conducted by Program staff and certified lead hazard risk
+      assessor (for properties built before 1978) and will result in preparation
+            of a work write-up with specifications and a cost estimate
+
+
+
+                                    Bid process
+                          Will result in contractor selection
+
+
+                         Pre-construction conference
+              Between property owner, contractor and program staff to
+              review work specifications and sign contracts. Will result
+                  in Order to Proceed from Program to contractor.
+
+
+
+                        lnterim and final inspections
+           Conducted by Program rehab staff periodically throughout
+          construction work to verify timely progress and work quality.
+
+
+                            Completion and payment
+           Upon issuance of Letter of Completion from Program Director,
+              final payment will be made and loans will be recorded.
+
+
+
+
+                                                  t3
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 70 of 71 Trans ID: LCV20251743750
+
+
+
+
+VIII. Miscellaneous
+
+A. Allirmative Marketing Plan
+
+The Rehabilitation Program's Affirmative Marketing Plan is designed to disseminate
+information on the program's existence, purpose and availability to all potential program
+participants ofall majority and minority groups, regardless ofrace, creed, color, national
+origin, ancestry, marital or familial status, gender, affectional or sexual orientation,
+disability, age or family size. The Affirmative Marketing Plan is also intended to target
+those potentially eligible residents who are least likely to know about the Rehabilitation
+Program without such an effort.
+
+The Affirmative Marketing Plan will be implemented by the Program Director with assistance
+from other program staff as appropriate. Affirmative Marketing efforts will provide the
+following infonnation in English and Spanish:
+
+   o Programavailability;
+   . Eligibilityrequiremenls;
+   o Terms and conditions of program loans;
+   . All responsibilities of the program and of program participants.
+Affirmative Marketing efforts will be carried out through the following medi4 methods and
+strategies:
+   o     Press releases, public service announcements and paid advertising in the following
+         newspapers:
+           . The Daily Joumal
+           . The Cumberland Reminder
+           r Comunidad Nuestra (Spanish language)
+           . Other local publications as appropriate
+   r Public service announcements and interviews on the following radio and television
+     stations:
+          r Channel 13
+          . WVLT radio
+          . WMIZ radio (Spanish language)
+          r Other local stations as appropriate
+   o Personal outreach ef[orts in English and Spanish to Vineland:
+          . Churches
+          r Child-carefacilities
+          . Senior centers
+          r Health and nutrition offrces (e.g. local WIC program)
+          . Other locations as appropriate
+Affrrmative Marketing efforts will be ongoing. They will vary in frequency and intensity as
+appropriate to the prevailing levels of funding and the program waiting list, ifany.
+
+
+
+
+                                                14
+    CUM-L-000073-25 06/12/2025 2:31:17 PM Pg 71 of 71 Trans ID: LCV20251743750
+
+
+
+
+B. Change orders
+
+Dgring implementation of the Rehabilitation Program and rehabilitation construction activities,
+unforeseen conditions may arise. When such conditions are identified by the Program Rehab
+Coordinator or Inspector and deemed necessary for correction, the Program Director can allow
+for a change in the Work Write-Up and specifications, provided such a Change Order:
+   .    does not bring the total loan amount above the Program maximum, unless the additional
+        work is needed to address code violations or other health and safety concerns;
+   o    is agreed to by the property owner;
+   .    is to be provided at a fair and reasonable cost as determined by Program stalf using
+        reliable means of determining same.
+
+C. Program staffing
+
+The Program will maintain levels of staffrng that are consistent with its mission to provide an
+effective and effrcient residential rehab program and that are within the constraints of the
+Program budget.
+
+Because Program funding is certain to fluctuate over time, this Manual will not set out specific
+staffing levels. However, for the program to operate as intended, staffing should include, at a
+minimum, the positions of Progmm Director, lntake/Outreach Specialist(s) and Rehab
+Specialist(s)/Housing Inspector(s).
+
+D. Records and client files
+
+All files will be maintained at Vineland City Hall in accordance with the requirements of all
+funding sources and with pertinent state regulations. All files will be kept in strict confidence.
+
+E. Location of office and hours
+
+The City of Vineland will provide an office located in the City Hall at 640 East Wood Street,
+Vineland, New Jersey. The office will be open to the public Monday through Friday between the
+hours of 8:30 A.M. and 5:00 P.M. The phone number for this oftice is (856) 794-4000, ext.463l,
+4632,4633 and 4910. The Program Director will be available through phone contact Mondays
+through Fridays at (856) 794-4077.
+
+F. COAH rehab reporting
+
+The following guidelines will be met for all projects funded through the Affordable Housing
+Trust Fund and reported to the New Jersey Council on Affordable Housing (COAH:
+
+    l) The property will be brought up to the local building code, which is the Intemational
+      Building Code 2006 New Jersey Edition.
+   2) Units will average at least $ 10,000 in hard costs of rehab.
+   :; One or more of the following major systems will be repaired: roof, electric, plumbing,
+       sanitary sewer, heat, load-bearing systems, lead paint abatement and weatherization.
+
+
+                                                  l5
+

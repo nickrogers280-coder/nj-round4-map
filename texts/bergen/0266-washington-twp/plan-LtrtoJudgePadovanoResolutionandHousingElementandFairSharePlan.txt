@@ -1,0 +1,2705 @@
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 1 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 2 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 3 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 4 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 5 of 123 Trans ID: LCV20251814410
+
+
+
+
+2025
+Housing Element
+& Fair Share Plan
+
+
+
+PREPARED FOR:
+Township of Washington Planning Board
+BA: 4172.07
+
+JUNE 7, 2025
+
+ADOPTED:        JUNE 18, 2025
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 6 of 123 Trans ID: LCV20251814410
+
+
+
+
+                                    1
+       BER-L-000669-25 06/20/2025 1:18:44 PM Pg 7 of 123 Trans ID: LCV20251814410
+
+                                Community Planning                                            Principals:
+
+
+  b a
+                                Land Development and Design                    Joseph H. Burgis PP, AICP
+                                Landscape Architecture                 Edward Snieckus, Jr. PP, LLA, ASLA
+                                                                                  David Novak PP, AICP
+
+
+
+
+B U R G I S
+A S S O C I A T E S,   I N C.
+
+
+
+
+2025 Housing Element and
+Fair Share Plan
+
+Township of Washington
+Bergen County, New Jersey
+
+
+
+
+Prepared for the Township of Washington
+Planning Board
+BA#: 4172.07
+
+
+
+The original document was appropriately signed and sealed on June 18, 2025 in accordance with
+Chapter 41 of Title 13 of the State Board of Professional Planners
+
+
+
+
+_______________________________
+Joseph H. Burgis, AICP, PP
+Professional Planner #2450
+
+
+
+
+                                                              i
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 9 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Members of the Township of Washington Planning Board
+
+  Leonard Sabino, Chairman
+  Bill Carroll, Vice Chairman
+  Peter Calamari, Mayor
+  Michael Ullman, Council Representative
+  Brian Murphy
+  V.Wojno-Oranski
+  Michael Polito
+  Said Toro
+  George O’Toole
+
+
+  Planning Board Secretary
+  Grace Kalish
+
+  Planning Board Attorney
+  Louis J. Lamatina, Esq.
+
+  Planning Board Engineer
+  Paul Azzolina, PE
+
+  Planning Board Planning Consultant
+  Joseph H. Burgis PP, AICP
+  Burgis Associates, Inc.
+
+
+
+
+                                           ii
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 10 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Contents
+  Executive Summary .............................................................................................................................................. 1
+  Section 1: Introduction ......................................................................................................................................... 4
+  Section 2: Housing Element.............................................................................................................................10
+      2.1: Community Overview............................................................................................................................11
+      2.2: Demographic and Population Data ..................................................................................................15
+      2.3: Inventory of Housing Stock.................................................................................................................18
+      2.4: Housing and Employment Projection ..............................................................................................22
+  Section 3: Fair Share Obligation .....................................................................................................................25
+      3.1: Summary of Fair Share Obligation ....................................................................................................25
+      3.2: Realistic Development Potential (RDP) ............................................................................................26
+  Section 4: Fair Share Plan .................................................................................................................................30
+      4.1: Prior (3rd) Round Obligation ................................................................................................................30
+      4.2: Fourth Round Obligation ....................................................................................................................33
+      4.4: Present Need Obligation .....................................................................................................................40
+      4.6: Consistency with State Planning Initiatives .....................................................................................40
+  Appendices ..........................................................................................................................................................43
+
+
+
+
+                                                                                    iii
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 11 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Executive Summary
+
+  This 2025 Township of Washington, Bergen County, New Jersey Housing Element and
+  Fair Share Plan (HE&FSP) of the Master Plan is designed to address the manner in
+  which the Township will fulfill its 4th Round affordable housing obligations. These
+  obligations and the way in which they are addressed are derived from a variety of
+  sources including regulatory provisions of the Council on Affordable Housing (COAH),
+  a prior settlement agreement with Fair Share Housing Center (FSHC), and the recent
+  legislation on the 4th Round of the affordable housing issue and associated
+  calculations by the Department of Community Affairs (DCA).
+
+  These obligations are summarized as follows:
+
+  Table 1: Affordable Housing Obligation Summary
+    Category                                  Obligation (units)
+    1 & 2 Round Obligation (1987-1999)
+     st   nd
+                                              85 reduced to 11 unit RDP thru a VLA*
+    Third Round Obligation (1999-2025)        433 reduced to a 24 unit RDP thru a VLA*
+    Fourth Round Obligation (2025-2035)       184 reduced to an 8 unit RDP thru a VLA*
+    Present Need (Rehabilitation) Obligation  0
+  * RDP = Realistic Development Potential; VLA = Vacant Land Adjustment
+
+  1st and 2nd Round Obligation
+  The Township was assigned a 1st and 2nd Round Obligation of 85 units. Based upon a
+  vacant land adjustment (VLA) approved by COAH as part of its Second Round
+  Substantive Certification, the Township’s realistic development potential (RDP) was
+  established at 11 units. This RDP was fully satisfied through the components identified
+  in Table 2. The table indicates the Township addressed this 11 unit obligation through
+  two developments containing a total of 11 affordable units, a monetary contribution of
+  $325,000 to the Township’s Affordable Housing Trust Fund, and the adoption of a
+  mandatory set-aside ordinance.
+
+  The 1st & 2nd Round Unmet Need was 74 units (i.e. the difference between the 1st &
+  2nd Round Obligation of 85 units and its RDP of 11 units).
+
+  Third Round Obligation
+  Pursuant to a Settlement Agreement signed with FSHC, the Township had a 3rd
+  Round obligation of 433 units, which was reduced through a VLA and associated RDP
+  analysis to 24 units (and a total Unmet Need of 409 units). According to their 3rd
+  Round Plan, they addressed this obligations through 4 credits from the Calvin St
+  Group Home, 3 credits from a Ridgewood Blvd Group Home, an RCA with Bayonne
+  (11 units), and 6 rental bonus credits.
+
+
+
+
+                                            ~1~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 12 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Table 2: 1987-1999 Affordable Housing Components
+   Component                                  Affordable Units                    Status
+   VFW 639 Jefferson St Habitat for           4 Sr Sales units        Completed
+   Humanity
+   Franklin Ct 283 Van Emburgh                7 family rentals        Under Construction
+   Viviano Tract 463 Van Emburgh              $325,000 payment        Payment Completed
+                                              in lieu of
+                                              constructing AH
+                                              units on-site
+  Table 3: Overlay Parcel for Unmet Need
+   Address                            Block            Lot       Acreage            Density (du/ac)
+   Stone Mills Gardens                                             1.5       8.0 du/ac= 12 du incl
+   Ridgewood Ave.                                                                  2-3 AH du
+   YMHA Site, Pascack Rd                                             7.0      15 du/ac = 105 du
+                                                                                incl 16-21 AH du
+
+
+  Fourth Round Obligation
+  The Township has a 4th Round affordable housing obligation of 184 units that has been
+  reduced to 11 units through a VLA and RDP analysis. The Township intends to address
+  this number as summarized in the accompanying table. As noted, while the RDP is for
+  8 units, a total of 21 affordable units are contemplated from these two sites. Thus the
+  Township is also able to provide 13 additional units to satisfy a portion of the
+  community’s unmet need.
+
+  Table 4: 2025-2035 4th Round Affordable Housing Components
+   Component                                  Affordable Units                  Status
+   660 Pascack Road                           28 du, of which 6       Proposed for 4th Round
+                                              are to be AH units
+   370 Pascack Rd                             72 units of which 15    Proposed for 4th Round
+                                              are to be AH du.
+
+
+
+
+                                                 ~2~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 13 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Structure of the Report
+  This 2025 HE&FSP is divided into the following sections:
+
+       Section 1: Introduction
+         The first section of the 2025 HE&FSP introduces what constitutes affordable
+         housing. offers an overview of the history of affordable housing in the state,
+         and explains the role of a housing element and fair share plan as a
+         component of the municipal master plan.
+
+       Section 2: Housing Element
+         Section 2 contains the Housing Element for the Township. It offers an overview
+         of its community, with information regarding the Township’s population,
+         housing, and employment characteristics. It also provides a projection of the
+         Township’s housing stock and its employment projections through the 4th
+         Round period.
+
+       Section 3: Fair Share Obligation
+         Next, Section 3 provides an overview of the Township’s fair share obligation. It
+         includes a brief history of the methodologies utilized to calculate affordable
+         housing obligations throughout the state.
+
+       Section 4: Fair Share Plan
+         Finally, Section 4 details the manner in which the Township has addressed its
+         prior obligations and how it will address its Fourth Round prospective need
+         obligations.
+
+
+
+
+                                           ~3~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 14 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Section 1: Introduction
+
+  The following section introduces what constitutes affordable housing. It identifies what
+  affordable housing is, offers an overview of the history of affordable housing in the
+  state, and explains the role of a housing element and fair share plan.
+
+  What is Affordable Housing?
+
+  Affordable housing is income-restricted housing that is available for sale or for rent.
+  As a general proposition, affordable housing is restricted to very-low, low-, and
+  moderate-income households (noted below), although there are exceptions, such as
+  specific types of special-needs housing. These categories are derived from the state’s
+  median regional income limits (which for the current year are noted in the table
+  below).
+
+  New Jersey is delineated into six different affordable housing regions. The Township of
+  Washington is located in Region 1 which includes Bergen, Hudson, Passaic, and Sussex
+  Counties.
+
+
+
+
+        Moderate-Income            Low-Income Households          Very Low-Income
+           Households              Earn 50% of the region’s          Households
+     Earn 80% of the region’s          median income           Earn 30% of the region’s
+         median income                                             median income
+
+  Regional income limitations are typically updated every year, with different categories
+  established for varying household sizes. The table below identifies the 2024 regional
+  income limits by household size for Region 1. As shown, a three-person family with a
+  total household income of no greater than $86,697 could qualify for affordable
+  housing in the Township’s region.
+
+  Table 5: 2024 Affordable Housing Region 1 Income Limits by Household Size
+  Income Level                  2 Person       3 Person         4 Person         5 Person
+  Median                        $96,329         $108,371        $120,412         $130,045
+  Moderate                      $77,064         $86,697         $96,329          $104,036
+  Low                           $48,165          $54,185        $60,206           $65,022
+  Very-Low                      $28,899          $32,511        $37,568           $39,013
+
+
+
+
+                                             ~4~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 15 of 123 Trans ID: LCV20251814410
+
+
+
+
+  One of the most common forms of affordable housing is inclusionary development, in
+  which a certain percentage of units within a multifamily development are reserved for
+  affordable housing. Nevertheless, affordable housing can be found in a variety of
+  other forms, including but not limited to one hundred percent affordable housing
+  developments, deed-restricted accessory apartments, assisted living facilities,
+  alternative arrangements such as supportive housing or group homes, and age
+  restricted housing.
+
+
+
+
+                                          ~5~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 16 of 123 Trans ID: LCV20251814410
+
+
+
+
+   What is the History of Affordable Housing in New Jersey?
+                                              The history of affordable housing in New Jersey can be
+                                              traced back to 1975, when the Supreme Court first
+         1975: Mount Laurel I
+                                              decided in So. Burlington Cty. NAACP v. Township of
+                                              Mount Laurel (known as Mount Laurel I) that every
+                                              developing municipality in New Jersey had an
+     Every developing municipality has an     affirmative obligation to provide for its fair share of
+        affordable housing obligation
+                                              affordable housing. In a subsequent decision in 1983
+                                              (Mount Laurel II), the Court acknowledged that the vast
+                                              majority of municipalities had ignored their
+                                              constitutional obligation to provide affordable housing.
+
+                                              The Court thus refined the obligation to establish that
+                                              every municipality had an obligation, although those
+                                              within the growth area of the State Development and
+         1983: Mount Laurel II
+                                              Redevelopment Plan (SDRP) had a greater obligation.
+                                              The Court also called for the state legislature to enact
+    Every municipality has an obligation if   legislation that would save municipalities from the
+    any portion of municipality was within    burden of having the courts determine their affordable
+     the “Growth Share Area” of the State
+    Development and Redevelopment Plan        housing needs. The result of this was the adoption of
+                                              the Fair Housing Act in 1985 as well as the creation of
+                                              the COAH, which became the state agency responsible
+                                              for overseeing the manner in which New Jersey’s
+                                              municipalities address their low and moderate income
+                                              housing needs.
+
+                                              COAH proceeded to adopt regulations for the First
+         1986: Mount Laurel III
+                                              Round obligation, which covered the years 1987 to
+                                              1993. It also established the Second Round housing-
+    Every municipality has an obligation if   need numbers that cumulatively covered the years
+    any portion of municipality was within    1987 through 1999. Under both the First and Second
+     the “Growth Share Area” of the State
+    Development and Redevelopment Plan        Rounds, COAH utilized what is commonly referred to
+                                              as the “fair share” methodology. COAH utilized a
+                                              different methodology, known as “growth share,”
+                                              beginning with its efforts to prepare Third Round
+                                              housing-need numbers. The Third Round substantive
+                                              and procedural rules were first adopted in 2004.
+
+        2015: Mount Laurel IV
+
+
+
+       COAH defunct and moribund. All
+    affordable housing matters to be heard
+                  by courts
+
+
+
+
+                                                   ~6~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 17 of 123 Trans ID: LCV20251814410
+
+
+
+
+  These regulations were challenged and in January
+  2007, the Appellate Division invalidated various aspects
+                                                                         2017: Gap Period
+  of these rules and remanded considerable portions of
+  the rules to COAH with the directive to adopt revised
+  regulations.
+                                                                    Finds that gap period (1999-2015)
+  In May 2008, COAH adopted revised Third Round                      generates an affordable housing
+                                                                                obligation
+  regulations which were published and became effective
+  on June 2, 2008. Coincident to this adoption, COAH
+  proposed amendments to the rules they had just
+  adopted, which subsequently went into effect in
+  October 2008. These 2008 rules and regulations were
+  subsequently challenged, and in an October 2010
+  decision the Appellate Division invalidated the Growth
+  Share methodology, and also indicated that COAH                    2018: Jacobson Decision
+  should adopt regulations pursuant to the Fair Share
+  methodology utilized in Rounds One and Two. The
+                                                                   Established methodology in Mercer
+  Supreme Court affirmed this decision in September                  County for determining housing
+  2013, which invalidated much of the third iteration of           obligation. Being utilized outside of
+                                                                  Mercer County for settlement purposes
+  the Third Round regulations and sustained the
+  invalidation of growth share. As a result, the Court
+  directed COAH to adopt new regulations pursuant to
+  the methodology utilized in Rounds One and Two.
+
+  Deadlocked with a 3-3 vote, COAH failed to adopt
+  newly revised Third Round regulations in October 2014.
+  The Fair Share Housing Center, who was a party in                       2024: A-4/S-50
+  both the 2010 and 2013 cases, responded by filing a
+  motion in aid of litigants’ rights with the New Jersey
+                                                               New Jersey adopts new legslation which
+  Supreme Court. The Court heard the motion in                 overhauls the FHA. COAH is elimianted,
+  January 2015 and issued its ruling on March 20, 2015.        and its duties are split between the DCA
+                                                                             and the AOC.
+  The Court ruled that COAH was effectively
+  dysfunctional and consequently returned jurisdiction of
+  affordable housing issues back to the trial courts where it had originally been prior to the
+  creation of COAH in 1985.
+
+  This 2015 Court decision created a process in which municipalities may file a declaratory
+  judgment action seeking a declaration that their HE&FSP is constitutionally compliant and
+  receive temporary immunity from affordable housing builders’ remedy lawsuits while preparing
+  a new or revised HE&FSP to ensure their plan continues to affirmatively address their local
+  housing need as may be adjusted by new housing-need numbers promulgated by the court
+  or COAH.
+
+
+
+
+                                                   ~7~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 18 of 123 Trans ID: LCV20251814410
+
+
+
+
+  The Supreme Court subsequently ruled on January 18, 2017 that municipalities are
+  also responsible for obligations accruing during the so-called “gap period,” the period
+  of time between 1999 and 2015 when COAH was not able to adopt 3rd Round
+  regulations that would be affirmed by the courts. However, the Court stated that the
+  gap obligation should be calculated as a never-before calculated component of
+  Present Need, which would serve to capture Gap Period households that were
+  presently in need of affordable housing as of the date of the Present Need calculation
+  (i.e. that were still income eligible, were not captured as part of traditional present
+  need, were still living in New Jersey and otherwise represented a Present affordable
+  housing need).
+
+  On March 20, 2024, the State of New Jersey adopted a package of affordable housing
+  bills which overhauled the Fair Housing Act. This legislation ultimately eliminated
+  COAH and split its duties and functions between the Department of Community
+  Affairs (DCA) and the Administrative Office of the Courts (AOC).
+
+  The DCA was designated by the legislation as the entity responsible for calculating the
+  state’s regional needs as well as each municipality’s present and prospective fair share
+  obligations pursuant to the Jacobson Decision. However, the legislation makes clear
+  that these numbers are advisory and that each municipality must set its own
+  obligation number utilizing the same methodology. Meanwhile, the Affordable
+  Housing Dispute Resolution Program (the “Program”) within the AOC was directed to
+  handle any disputes regarding affordable housing obligations and plans as part of the
+  first step in the new process.
+
+
+
+  What is a Housing Element and Fair Share Plan (HE&FSP)?
+  A HE&FSP serves as the blueprint for how a municipality will address its fair share of
+  affordable housing. It is designed to help a community broaden the accessibility of
+  affordable housing.
+
+  While technically a discretionary component of a        The Municipal Land Use Law
+  municipal master plan, a HE&FSP is nevertheless         (MLUL) is the enabling
+  an effectively obligatory plan element. As              legislation for municipal land
+  established by NJSA 40:55D-62.a of the MLUL, a          use and development, planning,
+  municipality must have an adopted HE&FSP to             and zoning for the State of New
+  enact its zoning ordinance. Thus, from a public         Jersey.
+  policy perspective, a HE&FSP is an essential
+  community document that also ensures it has the right to zone. Moreover, without a
+  HE&FSP, a municipality may be susceptible to a builder’s remedy lawsuit in which a
+  developer could file suit to have a specific piece of property rezoned to permit
+
+
+
+
+                                            ~8~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 19 of 123 Trans ID: LCV20251814410
+
+
+
+
+  housing at higher densities than a municipality would otherwise allow, provided a
+  certain percentage of units are reserved as affordable.
+
+  The FHA, adopted in 1985 and amended multiple times since then, establishes the
+  required components of a HE&FSP. These are summarized as follows:
+
+      1.   An inventory of the municipality’s housing stock by age, condition, purchase
+           or rental value, occupancy characteristics, and type, including the number of
+           units affordable to low- and moderate-income households and substandard
+           housing capable of being rehabilitated.
+      2. A projection of the local housing stock, including probable future construction
+         of low- and moderate-income housing, for the next ten years, taking into
+         account, but not necessarily limited to, construction permits issued, approvals
+         of applications for development and probable residential development.
+      3. An analysis of the municipality’s demographic characteristics, including but not
+         necessarily limited to, household size, income level and age.
+      4. An analysis of the existing and probable future employment characteristics of
+         the municipality.
+      5. A determination of the municipality’s present and prospective fair share for
+         low- and moderate-income housing and its capacity to accommodate its
+         present and prospective housing needs, including its fair share for low- and
+         moderate-income housing.
+      6. A consideration of the lands that are most appropriate for construction of
+         low- and moderate-income housing and the existing structures most
+         appropriate for conversion to, or rehabilitation for, low- and moderate-
+         income housing, including a consideration of lands of developers who have
+         expressed a commitment to provide low- and moderate-income housing.
+      7. An analysis of the extent to which municipal ordinances and other local factors
+         advance or detract from the goal of preserving multigenerational family
+         continuity as expressed in the recommendations of the Multigenerational
+         Family Housing Continuity Commission.
+      8. For a municipality located within the jurisdiction of the Highlands Water
+         Protection and Planning Council, an analysis of compliance of the housing
+         element with the Highlands Regional Master Plan of lands in the Highlands
+         Preservation Area, and lands in the Highlands Planning Area for Highlands
+         conforming municipalities.
+      9. An analysis of consistency with the State Development and Redevelopment
+         Plan, including water, wastewater, stormwater, and multi-modal transportation
+         based on guidance and technical assistance from the State Planning
+         Commission.
+
+
+                                            ~9~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 20 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Section 2: Housing Element
+
+  The following section provides the housing element for the Township of Washington. It
+  offers an overview of its community, as well as back information regarding its
+  population, housing, and employment characteristics. It also provides a projection of
+  the Township’s housing stock and its employment projections.
+
+
+    Information Regarding Data Sources
+    The information contained in Section 2.2 entitled “Population Demographics,” Section 2.3
+    entitled “Inventory of Housing Stock,” Section 2.4 entitled “Employment Demographics,” and
+    Section 2.5 entitled “Housing & Employment Projections” was obtained from a variety of
+    publicly available data sources. These are summarized below:
+
+
+
+   1.   United States Decennial                                  4.   New Jersey Department of
+        Census                                                        Community Affairs (DCA)
+        The US Census is described in Article I, Section 2            The New Jersey Department of Community
+        of the Constitution of the United States, which               Affairs is a governmental agency of the State
+        calls for an enumeration of the people every ten              of New Jersey. Its function is to provide
+        years for the apportionment of seats in the                   administrative guidance, financial support,
+        House of Representatives. Since the time of the               and technical assistance to local
+        first Census conducted in 1790, it has become                 governments, community development
+        the leading source of data about the nation’s                 organizations, businesses, and individuals to
+        people and economy. Please note that all                      improve the quality of life in New Jersey.
+        incomes reported in the Census are adjusted for
+        inflation.
+
+   2.   American Community Survey                                5.   New Jersey Department of Labor
+        (ACS)                                                         and Workforce Development
+        The American Community Survey is a                            The New Jersey Department of Labor and
+        nationwide ongoing survey conducted by the                    Workforce Development is a governmental
+        US Census Bureau. The ACS gathers information                 agency of the State of New Jersey. One of its
+        previously contained only in the long form                    roles is to collect labor market information
+        version of the decennial census, such as age,                 regarding employment and wages
+        ancestry, educational attainment, income,                     throughout the state.
+        language proficiency, migration, disability,
+        employment, and housing characteristics. It
+        relies upon random sampling to provide
+        ongoing, monthly data collection. Please note
+        that all incomes reported in the ACS are
+        adjusted for inflation.
+
+   3.   New Jersey Department of Health
+        The New Jersey Department of Health is a
+        governmental agency of the State of New
+        Jersey. The department contains the Office of
+        Vital Statistics and Registry, which gathers data
+        regarding births, deaths, marriages, domestic
+        partnerships, and civil unions.
+
+
+
+
+                                                        ~ 10 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 21 of 123 Trans ID: LCV20251814410
+
+
+
+
+  2.1: Community Overview
+  The Township of Washington is located in the northern portion of Bergen County
+  along the Garden State Parkway. The Township borders the Bergen County
+  municipalities of Hillsdale to the north, Westwood to the east, Emerson to the
+  southeast, Paramus to the south, Ho-Ho-Kus to the west, and Saddle River to the
+  northwest.
+
+  The Township is essentially a fully developed community with very little vacant land
+  remaining for development.
+
+  The total parcel acreage of the Township is 1570.69 acres, excluding roadways and
+  streets. The majority of the Township is primarily characterized by residential
+  development. In fact, 73% of the municipality’s total land area consists of residential
+  uses. Single-family residential accounts for the bulk of this majority, accounting for
+  67.4% percent of the Township’s total parcel area. Multi-family residential
+  developments comprise nearly 5% percent of the Township’s total area. Additionally,
+  there is a singular Age-Restricted Housing Facility and one Assisted Living Facility.
+
+  Land uses under the Public/Semi-Public classification comprise the second largest
+  land use category in the Township 20% percent of the Township’s total land area.
+  Commercial land uses comprise the third largest land use category and account for
+  approximately 2.8% percent of the Township’s total land use area. The Township also
+  contains 68.7 acres of other land uses, with vacant making up 40 acres and Water 28.7
+  acres of the total of the Township’s size.
+
+
+
+
+                                            ~ 11 ~
+    BER-L-000669-25 06/20/2025 1:18:44 PM Pg 22 of 123 Trans ID: LCV20251814410
+
+
+
+
+                                           Table 6: Existing Land Uses
+        Source: ArcGIS Calculations
+
+                                                                     % of Total                  % of Total
+   Land Use                                        Acres                          Parcels
+                                                                       Acres                      Parcels
+
+                     Single-family                      1058.0        67.36%           2945       94.54%
+                     Age-Restricted
+Residential                                                              0.38%                    0.03%
+                     Housing                                   6.0                           1
+                     Multifamily                              77.3       4.92%               5     0.16%
+                     Assisted Living
+                                                                         0.32%                    0.03%
+                     Facilities                                5.0                           1
+                     Commercial                               15.2       0.97%              16     0.51%
+                     Shopping Center                          10.9       0.70%              4      0.13%
+Commercial           Eating and Drinking
+                                                                         0.27%                    0.06%
+                     Establishments                            4.2                           2
+                     Farm                                     13.5       0.86%               1    0.03%
+                     Municipal (Public)
+                                                                         6.09%              66     2.12%
+                     Property                              95.6
+
+Public/Semi-         School (Public/Private)
+Public                                                                   5.26%                     0.13%
+                     Property
+                                                           82.6                             4
+                     House-of-worship &
+                                                                         8.51%                    0.45%
+                     Charity                               133.7                            14
+                     Vacant                                    40        2.55%              54     1.73%
+Other
+                     Water                                    28.7       1.83%               2    0.06%
+
+
+        ..
+
+
+
+
+                                                     ~ 12 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 23 of 123 Trans ID: LCV20251814410
+
+
+
+
+                        Map 1: Community Overview
+
+
+
+
+                                   ~ 13 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 24 of 123 Trans ID: LCV20251814410
+
+
+
+
+                         Map 2: Existing Land Use
+
+
+
+
+                                   ~ 14 ~
+    BER-L-000669-25 06/20/2025 1:18:44 PM Pg 25 of 123 Trans ID: LCV20251814410
+
+
+
+
+2.2: Demographic and Population Data
+Analyzing demographic and population data is a necessary and integral step in planning for the
+future needs and demands of a community. This section outlines the demographic changes
+experienced by the Township over the past several decades and provides projections with respect to
+anticipated changes to community demographics.
+
+The analysis of demographic information is from the 2010 Decennial Census as well as American
+Community Survey (ACS) 5-year estimates. The ACS data consists of estimates based upon data
+averages across a five-year span, otherwise known as “period” estimates. They are not actual counts,
+rather they are representative of data collected over a period of time and thus may not be directly
+comparable to decennial census figures. For example, 2023 ACS includes data collected annually from
+2019 through 2023. The following provides assessments of population size, rate of growth, age
+characteristics, as well as household size and income levels. Each of these items is described below.
+This information is vital for the Township to carefully plan for the current and future needs of its
+residents and the community.
+
+Population Changes
+The following table indicates the changes in local population going back to 1950. It highlights how
+the Township experienced significant increases in population during the 1950s and 60s and then
+declined from 1970 through to 2000. There was a slight increase between 2000 and 2020.
+
+                                      Table 7: Population Growth, 1950-2023
+                  Year            Population            Population Change            Percent Change
+
+                 1950                1,208                         --                     --
+
+                 1960                6,654                        5446                  450.8%
+
+                  1970              10,577                        3923                   59.0%
+
+                 1980                9,550                        -1027                  -9.7%
+
+                 1990                9,245                        -305                   -3.2%
+
+                 2000                8,938                        -307                   -3.3%
+
+                 2010                9,102                        164                     1.8%
+
+                 2020                9,285                        183                    2.0%
+
+                 2023                9,276                         -9                    -0.1%
+
+       Source: U.S. Census; 2010 & 2023 American Community Survey 5-Year Estimates
+
+Age Characteristics
+As shown in the table below, the Township’s age characteristics show an increase in median age from
+44.8 years in 2010 to 46.0 according to the 2023 ACS 5-year estimate data. The largest age cohort in
+
+
+                                                         ~ 15 ~
+    BER-L-000669-25 06/20/2025 1:18:44 PM Pg 26 of 123 Trans ID: LCV20251814410
+
+
+
+
+2023 represented 15% of the population (65-54 age group). The same cohort was again the largest in
+2010 at 16%. The age groups showing declines between the 2010 census and the 2023 ACS data
+appear to be ages between 5 and 24 as well as the 45-54 and 65-74 age groups.
+
+                                    Table 8: Age Characteristics, 2010-2023
+
+                                              2010*                          2023*
+                        Age
+                                      Pop               %             Pop              %
+                      Group
+                     Under 5          433             4.8%            453             5%
+
+                       5 to 9         624             6.9%            580             6%
+                      10 to 14        599             6.6%            516             6%
+                      15 to 19        555             6.2%            550             6%
+                     20 to 24         509             5.6%            467             5%
+                     25 to 34         629             7.0%            693             7%
+                     35 to 44         1,180           13.1%          1,220            13%
+                     45 to 54         1,442           16.0%          1,368            15%
+                     55 to 59          614            6.8%            659             7%
+                     60 to 64         663             7.4%            670             7%
+                     65 to 74         1025            11.4%           921             10%
+                     75 to 84         583             6.5%            980             11%
+                       85 +            160             1.8%           199             2%
+                       Total          9,016           100.0%         9,276           100.0%
+                      Median
+                                              44.8                             46
+                        Age
+                Sources: 2010 & 2023 American Community Survey 5-Year Estimates.
+
+
+
+
+Household Tenure and Occupancy
+The data shown on the following table indicates that the breakdown between the share of owner-
+occupied and renter-occupied units has remained largely the same since 2010 with the majority of
+units being owner-occupied. Housing vacancies have also remained similar with only a slight decrease
+from 1.6% in 2010 to 1.4% in 2023.
+
+
+
+
+                                                       ~ 16 ~
+    BER-L-000669-25 06/20/2025 1:18:44 PM Pg 27 of 123 Trans ID: LCV20251814410
+
+
+
+
+                          Table 9: Owner-Occupied and Renter-Occupied Units, 2010-2023
+
+                                             2010                              2023
+                  Category                   # of Units       %                # of Units      %
+                  Owner Occupied             3,036            93.6%            3,130           93.1%
+                  Renter Occupied            156              4.8%             187             5.6%
+                  Vacant Units               51               1.6%             46              1.4%
+                  Total                      3,243            100.0%           3,363           100.0%
+       Source: 2010 & 2023 American Community Survey 5-Year Estimates
+
+Average Household Size
+Census data shown below indicates the Township’s average household size has hovered around 2.8
+since 2000. This is similar to Bergen County’s average household size which remained somewhat
+steady at 2.66 over the same time period. The total population and the number of households both
+increased from 2010 to 2023.
+
+                                   Table 10: Average Household Sizes, 2010-2023
+                                                                   Number of            Average Household
+                    Year            Total Population
+                                                                   Households                  Size
+
+                    2000                    8,938                     3,219                         2.79
+
+                    2010                    9,016                     3,192                         2.82
+
+                    2023                    9,276                     3,317                         2.80
+
+       Source: U.S. Census; 2010 & 2023 American Community Survey 5-Year Estimates
+
+Household Income
+Data from ACS indicates median household income increased 44% from 2010 to 2023.
+
+                                     Table 11: Household Incomes, 2010-2023
+                                                                      2010                          2023
+                          Income Category
+                                                          Number                %      Number                 %
+            less than $10,000                                  66              2.1%          36              1.1%
+            $10,000 to $14,999                                 15              0.5%          0             0.0%
+            $15,000 to $24,999                                183              5.7%          37              1.1%
+            $25,000 to $ 34,999                               100              3.1%          61              1.8%
+            $35,000 to $ $49,999                              279              8.7%         132            4.0%
+            $50,000 to $74,999                                369             11.6%         330            9.9%
+            $75,000 to $99,999                                354             11.1%         205            6.2%
+            $100,000 to $149,999                              756             23.7%         622            18.8%
+            $150,000 to $199,000                              538             16.9%         536            16.2%
+            $200,000 or more                                  532             16.7%         1,358          40.9%
+            Total Households                                 3,192            100.0%        3,317          100.0%
+            Median Income (Household)                               $117,394                      $168,922
+                Source: 2010 & 2023 American Community Survey 5-Year Estimates
+
+
+
+
+                                                          ~ 17 ~
+    BER-L-000669-25 06/20/2025 1:18:44 PM Pg 28 of 123 Trans ID: LCV20251814410
+
+
+
+
+2.3: Inventory of Housing Stock
+This section of the analysis provides an inventory of the Township’s housing stock. The inventory
+details housing characteristics such as age, condition, purchase/rental value and occupancy. It also
+details the number of affordable units available to low- and moderate-income households and the
+number of substandard housing units capable of being rehabilitated. As previously noted, the latest
+information from the American Community Survey consists of five-year estimates by the Census
+Bureau, not actual counts and may not be directly comparable to census figures.
+
+Number of Housing Units
+As illustrated in the table below, the overall number of housing units within the Township has
+continued to increase from the 1990s through 2023. Understandably, the slowest percentage increase
+in numbers was between 2000 and 2010 during the Great Recession.
+
+                                        Table 12: Housing Units, 1980-2023
+
+                                                                Numerical
+                           Year          Housing Units                       % Change
+                                                                 Change
+
+                           1990               3,190                  -          -
+
+                          2000               3,245                  55         2%
+
+                           2010              3,243                  -2         0%
+
+                          2023               3,363                  120        4%
+
+        Source: US Census Bureau, 2023 ACS Five-Year Estimate
+
+Units in Structure for Occupied Units
+Information regarding the number of dwelling units in housing structures provides insights into the
+types of housing which exist throughout the Township. The following table offers insights into the unit-
+composition of the Township’s structures since 2010.
+
+The Township’s housing stock has historically been comprised of single-family detached and attached
+dwellings. The 2023 ACS estimate data provided in the table below shows a total of 2,950 single-
+family detached dwellings which amounts to 87.7 percent of all housing units in the Township. This
+percentage is slightly higher in 2010 when single-family dwellings accounted for approximately 88.3
+percent.
+
+
+
+
+                                                           ~ 18 ~
+    BER-L-000669-25 06/20/2025 1:18:44 PM Pg 29 of 123 Trans ID: LCV20251814410
+
+
+
+
+                                      Table 13: Units in Structure, 2010-2023
+                                                             2010                       2023
+             Units in Structure
+                                                      No.               %       No.             %
+             Single Family, Detached                 2,863          88.3%       2,950          87.7%
+             Single Family, Attached                 234            7.2%        280            8.3%
+             2                                        21            0.6%         83            2.5%
+             3 or 4                                    11           0.3%         0             0.0%
+             5 to 9                                   21            0.6%         10            0.3%
+             10 to 19                                  9            0.3%         0             0.0%
+             20 +                                     84            2.6%         40            1.2%
+             Mobile Home                               0            0.0%         0             0.0%
+             Other                                     0            0.0%         0             0.0%
+       Source: 2010 & 2023 American Community Survey 5-Year Estimates
+
+
+Purchase and Rental Value of Housing Units
+The following two tables identify purchase values and rental values for the specified owner-occupied
+and renter-occupied units in the Township.
+
+The purchase values of the Township’s owner-occupied housing stock have typically exceeded those of
+the State of New Jersey and have been somewhat commensurate to those of Bergen County. Over
+the past thirteen years, the median value of the Township’s owner-occupied housing stock is estimated
+to have increased approximately 14%, from $560,900 in 2010 to $640,600 in 2023. This represents a
+much lower percentage increase than that of the County (23%) and the State (19.78%). Over the past
+thirteen years, the median gross rent increased similar to both the County and the State.
+
+
+
+
+                                                        ~ 19 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 30 of 123 Trans ID: LCV20251814410
+
+
+
+
+                     Table 14: Value of Owner-Occupied Units, 2010-2023
+                                                   2010                   2023
+             Value Range
+                                         Number          Percent   Number     Percent
+
+             Less than $50,000           24              0.8%      16         0.5%
+
+             $50,000 to $99,999          11              0.4%      4          0.1%
+
+             $100,000 to $149,999        0               0.0%      0          0.0%
+
+             $150,000 to $199,999        13              0.4%      11         0.4%
+
+             $200,000 to $299,999        69              2.3%      14         0.4%
+
+             $300,000 to $499,999        1051            34.6%     500        16.0%
+
+             $500,000 to $999,999        1744            57.4%     2484       79.4%
+
+             $1,000,000 or More          124             4.1%      101        3.2%
+
+             Total                       3036            100.0%    3130       100.0%
+
+             Median Value                $560,900                  $640,600
+
+             Bergen County
+                                         $482,300                  $593,200
+             Median Value
+
+               Source: 2010 and 2023 American Community Survey Five-Year Estimates
+
+
+
+
+                                                ~ 20 ~
+    BER-L-000669-25 06/20/2025 1:18:44 PM Pg 31 of 123 Trans ID: LCV20251814410
+
+
+
+
+                   Table 15: Specified Renter Occupied Housing Units by Rent, 2010-2023
+                                                                         2010                   2023
+                Gross Rent                               Number       Percent     Number      Percent
+                Less than $500                                0            0%           0       0.0%
+                $500 to $999                                 11           17%          13       7.3%
+                $1,000 to $1,499                             10          15%           25      14.0%
+                $1,500 to $1,999                                                       22      12.4%
+                $2,000 to $2,499                                                       63      35.4%
+                $2,500 to $2,999                            44         68%             27      15.2%
+                $3,000 or more                                                         28      15.7%
+                53XNo Cash Rent                                91       X               9        X
+                Total Occupied Units paying Rent              65      100.0%          178     100.0%
+                Township Median Gross Rent               $2,000+                   $2,230
+                Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates.
+
+
+
+Deficient Housing Units
+Neither the Census nor the ACS classify housing units as deficient. However, the Fair Housing Act
+defines a “deficient housing unit” as housing which is over fifty years old and overcrowded; lacks
+complete plumbing, or lacks complete kitchen facilities.
+
+Accordingly, the following tables are intended to provide insights into the extent to which the
+Township has deficient housing units. The table below examines the extent to which there is
+overcrowding in the Township’s housing stock. Overcrowding is typically associated with housing units
+with more than one occupant per room. As shown, the estimated number of occupied housing units
+considered to be overcrowded is negligible.
+
+                                      Table 16: Occupants Per Room (2023)
+                                                        2010                          2023
+                Occupants Per Room
+                                             Number         Percent          Number         Percent
+
+                1.00 or less                 3,183          99.7%            3,300          99.5%
+
+                1.01 to 1.50                 9              0.3%             17             0.5%
+
+                1.51 or more                 0              0.0%             0              0.0%
+
+                Total                        3,192          100%             3,317          100.0%
+
+               Source: 2023 American Community Survey Five-Year Estimates.
+
+The table below identifies housing units with complete plumbing and kitchen facilities. As shown, all
+occupied units in the Township were identified as having complete plumbing and kitchen facilities.
+
+
+
+
+                                                        ~ 21 ~
+    BER-L-000669-25 06/20/2025 1:18:44 PM Pg 32 of 123 Trans ID: LCV20251814410
+
+
+
+
+                                Table 17: Plumbing and Kitchen Facilities (2023)
+                                                       2010                          2023
+                Facilities
+                                              Number            Percent     Number          Percent
+
+                Kitchen:
+                                                    3,317         100.0%          3,317       100.0%
+                Complete Facilities
+
+                Lacking Complete
+                                                       0             0%              0          0.0%
+                Facilities
+
+                Plumbing:
+                                                    3,317         100.0%          3,317       100.0%
+                Complete Facilities
+
+                Lacking Complete
+                                                       0             0%              0          0.0%
+                Facilities
+
+                Heating Equipment:
+                Standard Heating                    3,181          99.7%          3,317       100.0%
+                Facilities
+
+                Other Means, No Fuel
+                                                       11           0.3%             0          0.0%
+                Used
+
+                             Source: 2023 American Community Survey Five-Year Estimates.
+
+
+
+
+2.4: Housing and Employment Projection
+The following section identifies the extent to which redevelopment housing and economic
+development has occurred in the community, which can assist in the determination of future
+residential and employment projections.
+
+Recent Residential Development Activity
+One way of examining the stability of a community’s housing stock is by comparing the number of
+residential building permits issued for new construction as well as demolition permits issued every
+year. Since 2014, the Township has annually issued an average of 4.9 building permits over the past
+decade and an average of 3.3 demolition permits over the same time frame. This results in an
+average net growth of 1.6 permits annually. This is reflective of the Township’s established development
+pattern.
+
+
+
+
+                                                       ~ 22 ~
+     BER-L-000669-25 06/20/2025 1:18:44 PM Pg 33 of 123 Trans ID: LCV20251814410
+
+
+
+
+                             Table 18: Residential Building Permits and Demolition Permits
+           Year                              Building Permits                        Demos          Net
+           Issued           1 & 2 Family     Multifamily    Mixed Use       Total                  Growth
+           2014                        1               0            0           1              0         1
+           2015                        2               0            0           2              1         1
+           2016                      10                0            0         10               8         2
+           2017                       11               0            0          11             11         0
+           2018                        6               0            0           6              4         2
+           2019                        3               0            0           3              4        -1
+           2020                        5               0            0           5              2         3
+           2021                        3               0            0           3              1         2
+           2022                        2               0            0           2              1         1
+           2023                        6               0            0           6              1         5
+           Total                     49                0            0         49             33         16
+Source: Department of Community Affairs
+
+
+
+
+Covered Employment
+The table below provides data on the Township’s covered employment trends between 2014 and
+2023, as reported by the New Jersey Department of Labor and Workforce Development. “Covered
+employment” refers to any employment covered under the Unemployment and Temporary Disability
+Benefits Law. Generally, nearly all employment in the state is considered “covered employment.”
+
+Similarly, employment levels have typically decreased from 2018 to 2021, wherein employment in the
+Township decreased by a reported 24% due to excessive job loss during the COVID Pandemic. Since
+that time, employment in the Township has slightly increased. As of 2023, the Township’s reported
+covered employment was 1,253 individuals.
+
+
+
+
+                                                        ~ 23 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 34 of 123 Trans ID: LCV20251814410
+
+
+
+
+                   Table 19: Average Covered Employment (2014 to 2023)
+                          Number of              Change in             Percent Change
+            Year
+                            Jobs               Number of Jobs                (%)
+
+            2014             1,370                     -                        -
+
+            2015             1,324                    -46                     -3.5%
+
+            2016             1,264                    -60                     -4.7%
+
+            2017             1,269                     5                      0.4%
+
+            2018             1,295                    26                      2.0%
+
+            2019             1,323                    28                       2.1%
+
+            2020             1,067                    -256                    -24.0%
+
+            2021             1,174                    107                      9.1%
+
+            2022             1,176                     2                      0.2%
+
+            2023             1,253                    77                       6.1%
+
+                      Source: Department of Labor and Workforce Development
+
+
+
+
+                                             ~ 24 ~
+    BER-L-000669-25 06/20/2025 1:18:44 PM Pg 35 of 123 Trans ID: LCV20251814410
+
+
+
+
+Section 3: Fair Share Obligation
+
+The following section provides an overview of the Township’s fair share obligation. It includes a brief
+overview of the methodology utilized to calculate affordable housing obligations throughout the
+state.
+
+3.1: Summary of Fair Share Obligation
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing bills which
+overhauled the Fair Housing Act. The FHA now designates DCA as the entity responsible for
+calculating the state’s regional needs. Specifically, NJSA 52:27D-304.2 establishes the methodology to
+be utilized by DCA to determine the state’s regional prospective needs of low- and moderate-income
+housing for the ten-year period spanning from July 1, 2025 to June 30, 2035. In summary, the
+projected household change for this period is estimated by establishing the household change
+experienced in each region between the most recent federal decennial census and the second-most
+recent decennial census. This household change, if positive, is then divided by 2.5 to estimate the
+number of low- and moderate-income homes needed to address low- and moderate-income
+household change in the region for the next ten years. This methodology resulted in a statewide
+prospective need of 84,698 low- and moderate-income units.
+
+DCA is also the entity responsible for calculating each municipality’s present and prospective fair share
+obligations. However, the FHA makes clear that these calculations are advisory and that each
+municipality must set its own obligation number utilizing the same methodology.
+
+On January 23, 2025, the Township of Washington adopted Resolution #049-2025 (see Appendix)
+which accepted DCA’s present and prospective fair share obligation calculations for the Township.
+These obligations are summarized below. That same resolution also noted that the Township reserves
+the right to conduct a vacant land adjustment (VLA) to determine its realistic development potential
+(RDP). This is discussed in greater detail in the next subsection.
+Table 20: Summary of Fair Share Obligation
+
+ Affordable Obligation                        Units
+ Present (Rehabilitation Need) Obligation     0
+ Fourth Round Obligation (2025-2035)          184 units reduced to 8 unit RDP through a
+                                              VLA
+
+
+
+
+                                                  ~ 25 ~
+    BER-L-000669-25 06/20/2025 1:18:44 PM Pg 36 of 123 Trans ID: LCV20251814410
+
+
+
+
+3.2: Realistic Development Potential (RDP)
+The Township is a fully developed community and is therefore entitled to adjust its obligation in
+accordance with a procedure set forth in the FHA. Specifically, NJSA 52:27D-310.1 permits
+municipalities to perform an RDP analysis by seeking a vacant land adjustment (VLA).
+
+An RDP analysis is intended to determine which sites in a municipality are most likely to develop for
+low- and moderate-income housing. Municipalities may present documentation that eliminates a site
+or part of a site from its inventory of vacant land. Such eliminating factors include: lands dedicated for
+public uses other than housing since 1997; park lands or open space; vacant contiguous parcels in
+private ownership of a size which would accommodate fewer than five housing units; historic and
+architecturally important sites listed on the State Register of Historic Places or the National Register of
+Historic Places; preserved architectural lands; sites designated for active recreation; and
+environmentally sensitive lands.
+
+A VLA was undertaken, resulting in a determination that the Townhip had an 11 unit RDP. This analysis
+is in the accompanying table.
+
+Table 21: Vacant Land Adjustment
+ ID #      Block     Lot   Address                 Developable      Comments
+                                                      Area (ac)
+   1       1102       10   870 VAN EMBURGH AVE            1.26      The 1.49-acre lot has a developable acreage of
+                                                                    1.26 acres. This equals 1.51 RDP units based on
+                                                                    a density of 6 du/ac.
+    2      3602        2   PASCACK RD, OFF                  25.69   Cemetery
+    3      1102     1.04   783 VAN EMBURGH AVE.              4.38   Already Counted Last Round.
+    4      1404        3   ROADWAY RT OF WAY                 3.85   15C (NJDOT OWNED)
+    5      2101        3   3 PASCACK RD                      3.13   Lot was subdivided and no longer exists.
+    6      1102        9   WASHINGTON AVE.                   2.16   Already Counted Last Round.
+    7      1305     1.05   VAN EMBURGH AVE                   1.22   Municipally owned.
+    8    1101.01    5.01   70 GORGA PL                       0.93   No longer exists.
+    9      3304       23   WOODFIELD RD                      0.74   Shore for Lake.
+   10      1102        2   781 VAN EMBURGH AVE               0.69   Too small and steep slopes.
+   11      4213        4   654 MOUNTAIN AVE                  0.54   Steep slopes.
+   12    2503.03       5   E GLEN AVE                        0.54   Too small.
+   13      3501    14.02   64 PASCACK RD.                    0.49   Too small.
+   14      2101        7   PASCACK RD                        0.46
+   15      3601        5   PASCACK RD                        0.45   C1 Streams and steep slopes.
+   16      4103       14   11 BOULEVARD S.                   0.44   Too small.
+   17      3311        1   WOODFIELD RD                      0.41   Lake.
+   18      3410        1   WOODFIELD RD                      0.41   Lake.
+   19    1404.01       1   106 DOUGLAS DR                    0.37   Steep Slopes.
+   20      3601        8   PASCACK RD                        0.31   Too small due to environmental conditions.
+   21      4213    14.01   MOUNTAIN AVE.                     0.20   Lot is isolated and surrounded by residential
+                                                                    properties.
+   22      4304       43   388 BEECH ST                      0.19   Changed to Class 2.
+
+
+
+
+                                                   ~ 26 ~
+   BER-L-000669-25 06/20/2025 1:18:44 PM Pg 37 of 123 Trans ID: LCV20251814410
+
+
+
+
+ID #    Block    Lot    Address                 Developable     Comments
+                                                   Area (ac)
+ 23      4404     23    COLONIAL BLVD                   0.17    Municipally owned.
+ 24      3113     13    BIRCH ST                         0.17   Municipally owned.
+ 25      3113      6    BIRCH AVE                        0.15   Municipally owned.
+ 26      2504    9.01   ROBERTS CT                       0.14   Municipally owned.
+ 27      4401      1    S CHESTNUT ST                    0.14   Municipally owned.
+ 28      3407     24    WOODFIELD RD                     0.14   Shore for Lake.
+ 29      2312      1    433 RIDGEWOOD BLVD NO            0.13   Too small
+ 30      3102      9    662 JEFFERSON AVE                0.13   Too small.
+ 31      4419      1    254 CALVIN ST                    0.13   No longer exists.
+ 32      3206     41    MONROE AVE                       0.12   Municipally owned.
+ 33      3104     58    WASHINGTON AVE                   0.12   Municipally owned.
+ 34      4318     31    MOUNTAIN AVE                     0.11   Municipally owned.
+ 35      3209     11    MONROE AVE                       0.11   Too small.
+ 36      2311     13    989 ADAMS PL                     0.11   No longer exists.
+ 37      3113     11    BEECH ST                         0.11   Municipally owned.
+ 38      4310      8    385 WALNUT ST                    0.11   Too small, steep slopes.
+ 39      4310      3    WALNUT ST                        0.11   Municipally owned.
+ 40      3209      7    CROSS ST & MONROE                0.10   Lot is too small.
+ 41      4423      9    RIDGEWOOD RD                     0.10   Municipally owned.
+ 42      2326     73    PASCACK RD                       0.10   Municipally owned.
+ 43      2326     69    RIDGEWOOD BLVD E                 0.09   Municipally owned.
+ 44      2314     26    RIDGEWOOD BLVD E                 0.09   Municipally owned.
+ 45      2406      5    RIDGEWOOD BLVD N                 0.09   Municipally owned.
+ 46      2406     28    RIDGEWOOD BLVD N                 0.09   Municipally owned.
+ 47      4305      5    BEECH ST                         0.08   Municipally owned.
+ 48      4321      6    LAFAYETTE AVE REAR               0.07   Too small and steep slopes.
+ 49      4513     16    PROSPECT AVE                     0.06   Municipally owned.
+ 50      2501    3.02   998 E GLEN AVE                   0.06   Too small.
+ 51      4322    3.01   MOUNTAIN AVE                     0.06   Too narrow and small.
+ 52      4514      4    CALVIN ST                        0.06   Building on property, too small.
+ 53      4420     49    CALVIN ST                        0.06   Too small, steep slopes.
+ 54      2321      5    HOOVER AVE                       0.06   Municipally owned.
+ 55      2409     98    HOOVER AVE                       0.06   Building on property, too small.
+ 56      4306     15    BEECH ST                         0.06   Municipally owned.
+ 57      3111     17    BEECH ST                         0.06   Too small and wetlands.
+ 58      4506     58    WALNUT ST                        0.05   Municipally owned.
+ 59      4414     45    184 WALNUT ST                    0.05   Too small.
+ 60      4411     31    FERN ST                          0.05   Too small.
+ 61      3112      1    COTTAGE PL                       0.05   Too small due to environmental conditions.
+ 62    4322.01   7.07   CHAPPY CT                        0.05   Too small.
+ 63      4409      8    BEECH ST                         0.05   Lot is too small.
+
+
+
+
+                                                ~ 27 ~
+   BER-L-000669-25 06/20/2025 1:18:44 PM Pg 38 of 123 Trans ID: LCV20251814410
+
+
+
+
+ID #    Block     Lot    Address             Developable     Comments
+                                                Area (ac)
+ 64    3202.01    3.01   RIGHT OF WAY                0.04    Municipally owned.
+ 65      2303       6    RIDGEWOOD BLVD NO            0.04   Too small.
+ 66      4411      36    RIDGEWOOD RD                 0.04   Municipally owned.
+ 67      4322     7.08   3 CHAPPY CT                  0.04   Too small.
+ 68      4311     2.01   HICKORY ST                   0.04   Municipally owned.
+ 69      4502      26    198 FERN ST                  0.04   Too small.
+ 70      3106     2.01   CHESTNUT ST                  0.02   Municipally owned.
+ 71      1401       3    VAN EMBURGH AVE              0.01   Too small.
+ 72      3407    63.01   SUSSEX RD                    0.01   C1 Stream.
+ 73      1103       1    SPICE DR                     0.00   Municipally owned.
+ 74      2417       6    HUDSON AVE                   0.00   Municipally owned.
+ 75      3305     6.01   CLEVELAND AVE                0.00   Municipally owned.
+ 76      3402    10.01   WOODFIELD RD                 0.00   C1 Streams, steep slopes, and wetlands.
+ 77      3304      53    WOODFIELD RD                 0.00   Too small
+ 78      2401     1.01   RIDGEWOOD BLVD E             0.00   Too small
+ 79      4519       6    COSMAN ST                    0.00   Wetlands, and 100 Year floodplain.
+ 80    4102.01    1.04   HICKORY ST                   0.00   Too small
+ 81      2417       4    HUDSON AVE                   0.00   Too small.
+ 82    4505.01      1    WALNUT ST                    0.00   C1 Streams, 100 Year Floodplain, and wetlands.
+ 83      3601       6    PASCACK RD                   0.00   Too small due to environmental conditions.
+ 84      3601       7    PASCACK RD                   0.00   Too small due to environmental conditions.
+ 85      3111       1    HERING PL                    0.00   Municipally owned.
+ 86      3402      17    WOODFIELD RD                 0.00   Too small due to environmental conditions.
+ 87      3205       5    CLINTON AVE                  0.00   C1 Stream, 100 Year floodplain, and steep slopes.
+ 88      2417       1    HUDSON AVE                   0.00   Municipally owned.
+ 89      3404      11    RIDGEWOOD RD                 0.00   Municipally owned.
+ 90      3406       4    RIDGEWOOD RD                 0.00   Too small
+ 91      4505       1    5 WALNUT ST                  0.00   Too small due to environmental conditions.
+ 92      3305      12    CHESTNUT ST                    X    Open Space
+ 93      4523       1    BROOK AVE                      X    Open Space
+ 94      1103       6    SPICE DR                       X    Open Space
+ 95      1305       2    VAN EMBURGH AVE                X    Open Space
+ 96      2101       2    PASCACK RD                     X    Open Space
+ 97    4102.01    1.03   664 HICKORY ST                 X    Lot is too small, has a stream running through it.
+ 98      3407     6.01   WOODFIELD RD                   X    Steep slopes, and C1 streams.
+ 99      3602       3    PASCACK RD, OFF                X    Municipally owned.
+100    4102.01    5.08   HICKORY ST                     X    Municipally owned.
+101    4102.01      1    BIRCH AVE                      X    Municipally owned.
+102      3601       9    PASCACK RD, OFF                X    Cemetery.
+103          -       -   660 Pascack Rd               2.41   The 2.41 acre lot equates to 2.57 RDP units
+                                                             based on a density of 6 du/ac.
+104          -       -   370 Pascack Rd               3.60   The 5.16 acre lot equates to 4.32 RDP units,
+                                                             based on a density of 6du/ac.
+
+
+
+                                             ~ 28 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 39 of 123 Trans ID: LCV20251814410
+
+
+
+
+                           Map 3: Vacant Land Adjustment
+
+
+
+
+                                      ~ 29 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 40 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Section 4: Fair Share Plan
+
+  The following Fair Share Plan outlines the components and mechanisms the Township
+  will utilize to address its affordable housing obligations. These obligations are
+  summarized as follows:
+
+  Table 22: Affordable Housing Obligation Summary
+    Category                                  Obligation (units)
+    1st & 2nd Round Obligation (1987-1999)    256 reduced to 11 unit RDP thru a VLA*
+    Third Round Obligation (1999-2025)        85 reduced to a 24 unit RDP thru a VLA*
+    Fourth Round Obligation (2025-2035)       184 reduced to an 8 unit RDP thru a VLA*
+    Present Need (Rehabilitation) Obligation  0
+  * RDP = Realistic Development Potential. VLA = Vacant Land Adjustment
+
+  4.1: Prior (3rd) Round Obligation
+  The new legislation initially requires comment on how the 3rd Round plan components
+  have affirmatively addressed that round’s affordable housing obligation. The Township
+  was assigned a 3rd Round Obligation of 85 units. Based upon a vacant land
+  adjustment approved by COAH as part of its 3rd Round Substantive Certification, the
+  Township’s RDP was established at 24 units. This 3rd Round RDP was fully satisfied
+  through the components identified in the accompanying Error! Reference source not
+  found.23. The location of these developments are identified on an accompanying
+  map.
+
+  Table 23: 1999-2025 Affordable Housing Components
+   Component                                Affordable Units                  Status
+   VFW 639 Jefferson St Habitat for         4 Sr Sales units      Completed
+   Humanity
+   Franklin Ct 283 Van Emburgh Ave          7 family rentals      Under Construction
+   Viviano Tract 463 Van Emburgh Ave        #325,000 payment      Payment Completed
+                                            in lieu of
+                                            constructing AH
+                                            units on-site
+  Table 24: Overlay Parcel for Unmet Need
+   Address                Acreage            Density (du/ac)                Status
+   Stone Mills Gardens      1.5        8.0 du/ac= 12 du incl   Site continues to be occupied as
+   Ridgewood Ave.                           2-3 AH du.                 a garden center
+   YMHA Site, Pascack        7.0      15 du/ac = 105 du incl   Site continues to be occupied as
+   Rd                                      16-21 AH du.         a Betheny Church community
+                                                                            center
+
+
+
+
+                                              ~ 30 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 41 of 123 Trans ID: LCV20251814410
+
+
+
+
+                           Map 4: Third Round Components
+
+
+
+
+                                      ~ 31 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 42 of 123 Trans ID: LCV20251814410
+
+
+
+
+  The legislation requires that in addressing prior round obligations, the municipality
+  shall “demonstrate how any sites that were not built in the prior rounds continue to
+  present a realistic opportunity, which may include proposing changes to the zoning
+  on the site to make its development more likely, and which may also include the
+  dedication of municipal affordable housing trust fund dollars or other monetary or in-
+  kind resources.”
+
+  Accordingly, the following is noted with respect to the unbuilt Overlay Zone
+  component from the Third Round. This site, located at 605 Pascack Road, was the
+  location of a YMHA, which subsequently became a Church community center. While
+  it continues as a non-affordable housing site, the site continues to present a realistic
+  opportunity for the production of affordable housing. Specifically, the site remains:
+
+      1.   Approvable. The Township has already approved an overlay zoning district for
+           the site permitting inclusionary multifamily development.
+      2. Available. There are no known title issues which would prohibit the
+         development of this site.
+      3. Developable. The site is located in a water and sewer service area
+      4.   Suitable. The site is located in close proximity to the Township’s downtown,
+           commercial shopping, other nearby multifamily development, and bus service
+           including nearby stops.
+
+
+
+
+                                            ~ 32 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 43 of 123 Trans ID: LCV20251814410
+
+
+
+
+  4.2: Fourth Round Obligation
+  The Township has a 4th Round affordable housing obligation of 184 units that has been
+  reduced to 8 units through a VLA and RDP analysis. The Township intends to address
+  this number as summarized in the accompanying table.
+
+  Table 25: 2025-2035 4th Round Affordable Housing Components
+   Component                             Affordable Units                 Status
+   660 Pascack Road                      28 du, of which 6      Proposed for 4th Round
+                                         are to be AH units
+   370 Pascack Rd                        72 units of which 15   Proposed for 4th Round
+                                         are to be AH du.
+
+
+
+
+  As noted in the table above, the 4th Round HE&FSP can accommodate the Township’s
+  8 unit RDP through the designation of two sites on Pascack Road. The Plan calls for
+  these two sites to contain, in total, 21 affordable housing units, thereby addressing the
+  8 unit RDP plus 13 units to be associated with the Township’s unmet need. These sites
+  and the plans for their development are described below.
+
+  1.      660 Pascack Road. This site is located at the northwest corner of Pascack
+          Road and Washington Ave. The site occupies an area of 2.14 acres and is
+          somewhat rectangular in shape. Its dimensions include 506 feet of frontage
+          on Pascack Road and a depth that varies from 104 feet along its southerly
+          dimension to 193 feet along its northerly lot line. The property has 126 feet of
+          frontage on Washington Ave.
+
+          Th site is generally characterized by a level and flat topography. Elevations
+          range from 84 feet in the southeast portion of the site to 98 feet in the
+          northeast corner of the property. This represents an overall slope of less than
+          3 percent, although a more moderate slope does exist in the northwesterly
+          portion of the site. No environmental constraints are evident on-site.
+
+          The property is located in an area containing a =variety o uses, including
+          townhouse development to the north, commercial and residential
+          development to the east and south, and single-family development to the
+          west.
+
+          This plan calls for the site to be developed with 28 multi-family units. The 20
+          percent set-aside will result in the provision of 6 affordable units on-site. An
+          illustration indicating how the site could be developed is depicted on the
+          accompanying Concept Plan. The following table indicates the anticipated
+
+
+                                            ~ 33 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 44 of 123 Trans ID: LCV20251814410
+
+
+
+
+          zoning regulations that will be the basis for the ordinance to implement this
+          plan. These provisions will be adjusted as necessary following discussions with
+          the developer of the property.
+
+
+                   Table 26: Draft Zoning Regulations Applicable to 660 Pascack Road
+   Requirement                                    Proposed Zone
+
+   Minimum lot area                               2.0 acres
+
+   Minimum lot frontage                           100 feet
+
+   Maximum density                                13.5 du/ac
+
+   Minimum building setbacks to:
+
+      Front yard (all street frontages)           60 feet
+
+      Side Yard (North Lot Line)                  100 feet
+
+      All Other Lot Lines                         50 feet
+
+   Maximum building height                        2.5 stories/35 feet
+
+   Maximum building coverage                      20%
+
+   Maximum impervious coverage                    55%
+
+   Minimum Landscape Buffer to Lot Lines          15 feet along street lines
+                                                  30 feet along other lot lines
+   Minimum parking setbacks to:
+
+      Front yard                                  15 feet
+
+     All Other Lot Lines                          30 feet
+
+   Minimum Parking Requirements                   Per RSIS
+
+
+
+
+  The accompanying Concept Plan depicts the manner in which this site is
+  contemplated for development.
+
+
+
+
+                                             ~ 34 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 45 of 123 Trans ID: LCV20251814410
+
+
+
+
+                Map 5: Concept Plan for 28 Unit Development at 660 Pascack Road
+
+
+
+
+                                            ~ 35 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 46 of 123 Trans ID: LCV20251814410
+
+
+
+
+  2.     370 Pascack Road. This lot is located on the westerly side of Pascack Road
+         south of Crest Place. The property occupies an area of 5.16 acres and is
+         somewhat irregular in shape, although its developable area is rectangular. Its
+         dimensions include approximately 325 feet of frontage on Pascack Road and
+         a depth that varies from slightly more than 300 feet to approximately 500 feet.
+         The site is presently occupied by a bank building.
+
+         The site’s development potential is within the roughly first 300 feet of the site
+         off of Pascack Road, with the rearmost portion of the site constrained.
+
+         The site is surrounded by a variety of uses. To the north and east are single-
+         family dwellings, to the south and southwest are commercial uses and the
+         Township Municipal Complex. Single-family dwellings are also west of the
+         site.
+
+         The developer has prepared a concept plan depicting 74 townhouse units on
+         the property in six buildings. Preliminary discussions suggested widening the
+         proposed buffer along the north side of the property near Pascack Road to
+         provide greater physical separation between adjoining single-family dwellings
+         and on-site activity, and the developer has filed a revised plan to reflect a
+         larger buffer, which is shown on an accompanying exhibit. A preliminary set
+         of ordinance standards has been prepared (see Table 27), although these
+         ordinance provisions may be refined as the Township reviews the concept
+         plan with the developer, but the accompanying zoning table will be
+         considered as the basis for the final ordinance that is to be adopted.
+
+
+
+
+                                           ~ 36 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 47 of 123 Trans ID: LCV20251814410
+
+
+
+
+         Table 27: Draft Zoning Regulations Applicable to 370 Pascack Road
+
+   Requirement                                   Proposed Zone
+
+   Minimum lot area                              5.0 acres
+
+   Minimum lot frontage, Pascack Rd              300 feet
+
+   Maximum density                               14.0 units per acre
+
+   Minimum building setbacks:
+
+      Front yard                                 65 feet
+
+      Rear yard                                  50 feet
+
+      Side yard                                  30 feet
+
+   Minimum Distance Between Buildings            25 feet
+   Minimum Landscape Buffer to Lot Lines         20 feet
+   Maximum building height                       3 stories/35 feet
+
+   Maximum building coverage                     20%
+
+   Maximum impervious coverage                   50%
+
+   Minimum parking requirements:                 Per RSIS
+
+
+
+  The accompanying maps depict the applicant’s intention for development of the site.
+
+
+
+
+                                            ~ 37 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 48 of 123 Trans ID: LCV20251814410
+
+
+
+
+                       Map 6: Location Aerial for 370 Pascack Road
+
+
+
+
+                                         ~ 38 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 49 of 123 Trans ID: LCV20251814410
+
+
+
+
+                        Map 7: Concept Plan for 370 Pascack Road
+
+
+
+
+                                         ~ 39 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 50 of 123 Trans ID: LCV20251814410
+
+
+
+
+  4.4: Present Need Obligation
+  The Township was assigned a Present Need (Rehabilitation) Obligation of zero units.
+  Nevertheless, the Township will continue to participate in the Bergen County Housing
+  Improvement Program.
+
+  4.6: Consistency with State Planning Initiatives
+  A HE&FSP must include, above and beyond that which was noted in previous sections
+  of this report:
+
+       An analysis of the extent to which municipal ordinances and other local factors
+        advance or detract from the goal of preserving multigenerational family
+        continuity as expressed in the recommendations of the Multigenerational
+        Family Housing Continuity Commission, and;
+       An analysis of consistency with the State Development and Redevelopment
+        Plan, including water, wastewater, stormwater, and multi-modal transportation
+        based on guidance and technical assistance from the State Planning
+        Commission.
+
+  Accordingly, the following subsection analyzes the consistency of this HE&FSP to the
+  above referenced state planning initiatives.
+
+  Multigenerational Family Housing Continuity Commission
+  The Multigenerational Family Housing Continuity Commission was established by the
+  State of New Jersey in 2021. As noted in NJSA 52:27D-329.20, one of the primary
+  duties of the Commission is to “prepare and adopt recommendations on how State
+  government, local government, community organizations, private entities, and
+  community members may most effectively advance the goal of enabling senior
+  citizens to reside at the homes of their extended families, thereby preserving and
+  enhancing multigenerational family continuity, through the modification of State and
+  local laws and policies in the areas of housing, land use planning, parking and
+  streetscape planning, and other relevant areas.”
+
+  As of the date of this HE&FSP, the Multigenerational Family Housing Continuity
+  Commission has not yet adopted any recommendations.
+
+  State Development and Redevelopment Plan
+  As established by NJSA 52:18A-200(f ), the purpose of the State Development and
+  Redevelopment Plan (SDRP) is to “coordinate planning activities and establish
+  Statewide planning objectives in the following areas: land use, housing, economic
+  development, transportation, natural resource conservation, agriculture and farmland
+  retention, recreation, urban and suburban redevelopment, historic preservation, public
+  facilities and services, and intergovernmental coordination.”
+
+
+
+                                            ~ 40 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 51 of 123 Trans ID: LCV20251814410
+
+
+
+
+  As such, the SDRP establishes a number of goals and strategies related to a number
+  of different topics, including economic redevelopment. One such goal is to revitalize
+  existing urban centers by directing growth and development to those areas.
+  Specifically, the SDRP seeks to revitalize the State’s cities and towns by protecting,
+  preserving, and developing the valuable human and economic assets in cities, town,
+  and other urban areas.
+
+  As indicated by the SDRP’s Policy Map, the entirety of the Township is located in the
+  PA-1 Metropolitan Planning Area, wherein development and redevelopment is
+  intended to be directed. The intent of this Planning Area is to:
+
+         Provide for much of the state’s future redevelopment.
+         Revitalize cities and towns.
+         Promote growth in compact forms.
+         Stabilize older suburbs.
+         Redesign areas of sprawl; and
+         Protect the character of existing stable communities.
+
+  Accordingly, this HE&FSP is consistent with the intents of the PA-1. Specifically, it is
+  designed to encourage redevelopment and growth in a compact form, while also
+  protecting the character of the existing community.
+
+
+
+
+                                              ~ 41 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 52 of 123 Trans ID: LCV20251814410
+
+
+
+
+                      Map 8: Third and Fourth Round Components Map
+
+
+
+
+                                         ~ 42 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 53 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Appendices
+  A-1:   Township of Washington Affirmative Marketing Plan
+
+  A-2:   Township of Washington Affordable Housing Ordinance
+
+  A-3:   Township of Washington Development Fee Ordinance
+
+  A-4:   Township of Washington Mandatory Set Aside Ordinance
+
+  A-5:   Township of Washington Spending Plan
+
+
+
+
+                                        ~ 43 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 54 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Appendix
+  A-1:   Township of Washington Affirmative Marketing Plan
+
+
+
+
+                                        ~ 46 ~
+     BER-L-000669-25 06/20/2025 1:18:44 PM Pg 55 of 123 Trans ID: LCV20251814410
+
+
+
+
+                           AFFIRMATIVE MARKETING PLAN
+                         FOR THE TOWNSHIP OF WASHINGTON
+
+
+Purpose
+In accordance with the Fair Housing Act and the New Jersey Uniform Housing Affordability
+Controls (N.J.A.C. 5:80-26.1, et seq.), the Township of Washington is required to adopt an
+Affirmative Marketing Plan to ensure that all affordable housing units created within the Township
+of Washington are affirmatively marketed to low- and moderate-income households, particularly
+those living and/or working within Housing Region 1, the Housing Region encompassing the
+Township of Washington, as well as those within the counties of Bergen, Hudson, Passaic and
+Sussex.
+
+Affirmative Marketing Plan
+
+A.      All affordable housing units in the Township of Washington shall be marketed in
+        accordance with the provisions herein unless otherwise provided by law or regulation of
+        the State of New Jersey.
+
+B.      This Affirmative Marketing Plan shall apply to all developments that contain or will
+        contain low- and moderate-income units, including those that are part of the Township’s
+        prior round Fair Share Plan and its current Fair Share Plan, and those that may be
+        constructed in future developments, including those in:
+
+       a.      Franklin Court:
+
+               i.      Address of Development: 783 Van Emburgh Avenue
+
+               ii.     Block(s) and Lot(s): Block 1102, Lots 1.04, 2 and 11 and part of 9
+
+               iii.    Number of Affordable Units: 7 Units
+
+               iv.     Number of Affordable Rental Units: 7 Units
+
+               v.      Number of Affordable For-Sale Units: 0 Units
+
+               vi.     Price Range of Affordable Rental Units: TBD
+
+               vii.    Price Range of Affordable For-Sale Units: N/A
+
+               viii.   State and Federal Funding Sources: None
+
+               ix.     Age-Restricted or Non-Age Restricted: Non-Age-Restricted
+
+               x.      Approximate Starting Date of Advertising: 2022
+     BER-L-000669-25 06/20/2025 1:18:44 PM Pg 56 of 123 Trans ID: LCV20251814410
+
+
+
+
+              xi.     Approximate Starting Date of Occupancy: 2022
+
+              xii.    Managing/Sales Agent’s Name, Address and Phone Number: TBD
+
+              xiii.   Application Fees: TBD
+
+       b.     VFW Site:
+
+              i.      Address of Development: 639 Jefferson Street, Washington Township, NJ
+                      07676
+
+              ii.     Block(s) and Lot(s): Block 3103, Lot 25
+
+              iii.    Number of Affordable Units: 4 Units
+
+              iv.     Number of Affordable Rental Units: 0 Units
+
+              v.      Number of Affordable For-Sale Units: 4 Units
+
+              vi.     Price Range of Affordable Rental Units: N/A
+
+              vii.    Price Range of Affordable For-Sale Units: $189,990 (all units)
+
+              viii.   State and Federal Funding Sources: HOME Grant ($400,000)
+
+              ix.     Age-Restricted or Non-Age Restricted: 2 Units Age-Restricted; 2 Units
+                      Non-Age Restricted with Veteran’s Preference
+
+              x.      Approximate Starting Date of Advertising: September 23, 2017
+
+              xi.     Approximate Starting Date of Occupancy: October 30, 2019
+
+              xii.    Managing/Sales Agent’s Name, Address and Phone Number: Habitat
+                      for Humanity of Bergen County (121 Carver Avenue, Westwood, NJ
+                      07675; 201-457-1020)
+
+              xiii.   Application Fees: None
+
+       c.     Any and all other units in affordable housing developments that are not yet
+              anticipated by the Fair Share Plan.
+
+C.      The Affirmative Marketing Plan shall be implemented by an Administrative Agent
+        designated by and/or under contract to the Township of Washington. All of the costs of
+        advertising and affirmatively marketing affordable housing units shall be borne by the
+        developer/seller/owner of the affordable unit(s).
+
+
+
+
+                                               2
+     BER-L-000669-25 06/20/2025 1:18:44 PM Pg 57 of 123 Trans ID: LCV20251814410
+
+
+
+
+D.      In implementing the Affirmative Marketing Plan, the Administrative Agent, acting on
+        behalf of the Township of Washington, shall undertake all of the following strategies:
+
+        1.      Publication of one advertisement in a newspaper of general circulation within
+                Housing Region 1, consisting of Bergen, Hudson, Passaic and Sussex Counties.
+
+        2.      Broadcast of one advertisement by a radio or television station broadcasting
+                throughout the housing region.
+
+        3.      Listing on the New Jersey Housing Resource Center website (viz.,
+                https://www.njhrc.gov)
+
+        4.      At least one additional regional marketing strategy using one of the other sources
+                listed below.
+
+E.      The Affirmative Marketing Plan is a regional marketing strategy designed to attract buyers
+        and/or renters of all majority and minority groups, regardless of race, creed, color, national
+        origin, ancestry, marital or familial status, gender, affectional or sexual orientation,
+        disability, age or number of children to housing units which are being marketed by a
+        developer or sponsor of affordable housing. The Affirmative Marketing Plan is also
+        intended to target those potentially eligible persons who are least likely to apply for
+        affordable units in that region. It is a continuing program that directs all marketing
+        activities toward the Housing Region in which the municipality is located and covers the
+        entire period of the deed restriction for each restricted housing unit. The Township of
+        Washington is located in Housing Region 1, consisting of Bergen, Hudson, Passaic and
+        Sussex Counties.
+
+F.      The Affirmative Marketing Plan is a continuing program intended to be followed
+        throughout the entire period of restrictions and shall meet the following requirements:
+
+        1.      All newspaper articles, announcements and requests for applications for low- and
+                moderate-income units shall appear in at least one major circulation daily
+                newspaper of regional circulation (throughout all of Region 1), or through a series
+                of daily newspapers that reaches all of Region 1 residents. This may include but is
+                not limited to the Star Ledger and the Bergen Record.
+
+        2.      For new developments, the primary marketing shall take the form of at least one
+                press release and a paid display advertisement in the above newspaper(s) once a
+                week for four consecutive weeks. Additional advertising and publicity shall be on
+                an "as needed" basis. The developer/owner shall disseminate all public service
+                announcements and pay for display advertisements. The developer/owner shall
+                provide proof of publication to the Administrative Agent. All press releases and
+                advertisements shall be approved in advance by the Administrative Agent.
+
+        3.      All advertisements and listings shall include:
+
+
+
+
+                                                  3
+     BER-L-000669-25 06/20/2025 1:18:44 PM Pg 58 of 123 Trans ID: LCV20251814410
+
+
+
+
+                a.     Street address(es) of the units;
+
+                b      Directions to the units;
+
+                c.     Range of prices for the units;
+
+                d.     Numbers of bedrooms in units (bedroom mix);
+
+                e.     Maximum income permitted to qualify for the units;
+
+                f.     Location of applications;
+
+                g.     Business hours when interested households may obtain an application;
+
+                h.     Application fees, if any;
+
+                i.     Number of units currently available;
+
+                j.     Anticipated dates of availability.
+
+                k.     Link to a fillable or downloadable application form; and,
+
+                l.     Information on how to request a paper application form.
+
+        4.      Newspaper articles, announcements and information on where to request
+                applications for low- and moderate-income housing shall also appear at least once
+                a week for four consecutive weeks in at least three locally oriented weekly
+                newspapers within the Region, one of which shall be circulated primarily within
+                Bergen County and the other two of which shall be circulated primarily outside of
+                Bergen County but within the Housing Region.
+
+        5.     The following regional cable television stations or regional radio stations shall be
+               used during the first month of advertising. The developer must provide satisfactory
+               proof of public dissemination:
+
+                a.     WKXW (101.5 FM) (109 Walters Ave., Ewing, NJ 08638)
+
+                b.     WOR (710 AM) (32 Avenue of the Americas, New York, NY 10013)
+
+                c.     WCBS (880 AM) (345 Hudson St 11th Floor, New York, NY 10014)
+
+                d.     Cablevision (12-20 River Rd, Fair Lawn, NJ 07410)
+
+G.      Applications, brochure(s), sign(s) and/or poster(s) used as part of the affirmative marketing
+        program shall be available/posted in the following locations:
+
+
+
+
+                                                   4
+     BER-L-000669-25 06/20/2025 1:18:44 PM Pg 59 of 123 Trans ID: LCV20251814410
+
+
+
+
+        1.     Washington Township Municipal Building
+
+        2.     Township of Washington Public Library
+
+        3.     Washington Township Web Site
+
+        4.     Developer’s Sales/Rental Offices
+
+        5.     Bergen County Administration Building
+
+        6.     Bergen County Board of Social Services
+
+        7.     Hudson County Administration Building
+
+        8.     Passaic County Administration Building
+
+        9.     Sussex County Administration Building
+
+        10.    Bergen County Cooperative Library System (all branches)
+
+        11.    PALS Plus Library Cooperative (all branches)
+
+        12.    Sussex County Library (all branches)
+
+        Applications shall be mailed by the Administrative Agent and Municipal Housing Liaison
+        to prospective applicants upon request. Also, applications shall be available at the
+        developer’s sales/rental office and shall be mailed to prospective applicants upon request.
+
+H.      The Administrative Agent shall develop, maintain and update a list of community contact
+        persons and/or organizations in Bergen, Hudson, Passaic and Sussex Counties that will aid
+        in the affirmative marketing program with particular emphasis on contacts that will reach
+        out to groups that are least likely to apply for housing within the Region, including major
+        regional employers.
+
+        1.     Quarterly informational flyers and applications shall be sent to each of the
+               following agencies for publication in their journals and for circulation among their
+               members:
+
+               a.     Eastern Bergen County Board of Realtors (411 Route 17 South, 5th Floor;
+                      Hasbrouck Heights, NJ 07604)
+
+               b.     Passaic County Board of Realtors (204 Berdan Ave., Wayne, NJ, 07470)
+
+               c.     Sussex County Association of Realtors (351 Sparta Avenue, Suite 101A
+                      Sparta, NJ 07871)
+
+
+
+
+                                                5
+     BER-L-000669-25 06/20/2025 1:18:44 PM Pg 60 of 123 Trans ID: LCV20251814410
+
+
+
+
+               d.     Liberty Board of Realtors (110A Meadowlands Pkwy #103, Secaucus, NJ
+                      07094)
+
+        2.     Quarterly informational circulars and applications shall be sent to the
+               administrators of each of the following agencies within the counties of Bergen,
+               Hudson, Passaic and Sussex:
+
+               Welfare or Social Service Board (via the Director)
+               Rental Assistance Office (local office of DCA)
+               Office on Aging
+               Housing Authority (municipal or county)
+               Community Action Agencies
+               Community Development Departments
+
+        3.     Quarterly informational circulars and applications shall be sent to the chief
+               personnel administrators of major employers within the Region that are included
+               on the list of community contact person(s) and/or organizations(s) in Bergen,
+               Hudson, Passaic and Sussex Counties that shall be developed, maintained and
+               updated by the Administrative Agent.
+
+        4.     Quarterly informational circulars and applications shall be sent to the offices of the:
+               Fair Share Housing Center (510 Park Blvd., Cherry Hill, NJ); Latino Action
+               Network (PO Box 943, Freehold, NJ); NAACP NJ State Conference (15 W Front
+               St, Trenton, NJ); NAACP Warren/Sussex Branch Unit (PO Box 229, Washington,
+               NJ 07882); NAACP Bergen Branch Unit (PO Box 1136, Englewood, NJ 07631);
+               NAACP Passaic Branch Unit (PO Box 1600, Passaic, NJ 07055); NAACP Bayonne
+               Branch Unit (PO Box 1017, Bayonne, NJ 07002), NAACP Hoboken Branch Unit
+               (PO Box 1219, Hoboken, NJ 07030), and NAACP Paterson Branch Unit (PO Box
+               AQ, Paterson, NJ 07509).
+
+I.      The following is a listing of community contact person(s) and/or organizations in Bergen,
+        Hudson, Passaic and Sussex Counties that will be notified of the availability of low-and
+        moderate-income units for the purposes of aiding in the affirmative marketing program
+        and providing guidance and counseling services to prospective occupants of low- and
+        moderate-income units:
+
+        1.     American Red Cross of Northern New Jersey, 209 Fairfield Road, Fairfield, NJ
+               07004
+
+        2.     ARC of Bergen & Passaic, 223 Moore Street, Hackensack, NJ 07601
+
+        3.     Bergen County Board of Social Services, 218 Route 17 North, 17 Park Office
+               Center - Building A, Rochelle Park, NJ 07662
+
+        4.     Bergen County Housing Authority, One Bergen County Plaza - 2nd Floor,
+               Hackensack, NJ 07601
+
+
+
+                                                 6
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 61 of 123 Trans ID: LCV20251814410
+
+
+
+
+   5.    Bergen County YWCA, 112 Oak Street, Ridgewood, NJ 07450
+
+   6.    Community Food Bank of NJ, 321 Evans Terminal Road, Hillside, NJ 07205
+
+   7.    Easter Seal Society of New Jersey, 25 Kennedy Blvd., Suite 600, East Brunswick,
+         New Jersey 08816
+
+   8.    Fair Share Housing Center, 510 Park Blvd., Cherry Hill, NJ 08002
+
+   9.    Hackensack Housing Authority, 65 First Street, Hackensack, NJ 07601
+
+   10.   Hudson County Department of Family Services, 257 Cornelison Ave, Jersey City,
+         NJ 07302
+
+   11.   Jewish Federation of Northern New Jersey, 50 Eisenhower Drive, Paramus, NJ
+         07652
+
+   12.   Latino Action Network, PO Box 943, Freehold, NJ 07728
+
+   13.   Legal Services of Northwest Jersey, 18 Church Street, Suite 120, Newton, NJ
+         07860
+
+   14.   NAACP Bayonne Branch Unit, PO Box 1017, Bayonne, NJ 07002
+
+   15.   NAACP Bergen Branch Unit; PO Box 1136, Englewood, NJ 07631
+
+   16.   NAACP Hoboken Branch Unit, PO Box 1219, Hoboken, NJ 07030
+
+   17.   NAACP NJ State Conference, 15 W Front St, Trenton, NJ 08608
+
+   18.   NAACP Passaic Branch Unit; PO Box 1600, Passaic, NJ 07055
+
+   19.   NAACP Paterson Branch Unit, PO Box AQ, Paterson, NJ 07509
+
+   20.   NAACP Warren/Sussex Branch Unit, PO Box 229, Washington, NJ 07882
+
+   21.   Newton Housing Authority 32 Liberty St Newton, NJ 07860
+
+   22.   Northeast New Jersey Legal Services, Bergen County Office, 190 Moore Street,
+         Suite 100, Hackensack, NJ 07601
+
+   23.   Northwest New Jersey Community Action Program, Inc. (NORWESCAP), 350
+         Marshall Street, Phillipsburg, NJ 08865
+
+   24.   Passaic County Board of Social Services, 80 Hamilton Street, Paterson, NJ 07505
+
+
+
+                                        7
+     BER-L-000669-25 06/20/2025 1:18:44 PM Pg 62 of 123 Trans ID: LCV20251814410
+
+
+
+
+        25.    Passaic County Public Housing Agency, 100 Hamilton Plaza, Suite 510, Paterson,
+               NJ 07505
+
+        26.    Sussex County Division of Social Services, 83 Spring Street, Suite 203, Newton,
+               NJ 07860
+
+        27.    The Housing Partnership, 2 East Blackwell Street, Dover, NJ 07801
+
+        28.    The Salvation Army New Jersey Divisional Headquarters, 4 Gary Road, P.O. Box
+               3170, Union, NJ 07083
+
+        29.    Volunteers of America-Greater New York, 340 West 85th Street, New York, NY
+               10024
+
+        30.    Washington Township Administrative Agent, 350 Hudson Avenue, Washington,
+               NJ 07676
+
+        31.    Washington Township Affordable Housing Liaison, 350 Hudson Avenue,
+               Washington, NJ 07676
+
+J.      A random selection method to select occupants of low- and moderate-income housing will
+        be used by the Administrative Agent, in conformance with N.J.A.C. 5:80-26.16(l), and
+        wherein income-qualified households will be assigned an identification number and
+        invited to attend a public drawing of said identification numbers to be held by the
+        Administrative Agent. At this public drawing, which shall be publicly advertised and
+        videotaped for documentation purposes, the Administrative Agent will use a mechanical
+        lottery machine (i.e., a device to randomly select balls labeled with the aforementioned
+        assigned identification numbers) to randomly select identification numbers. All
+        identification numbers will be selected, and the order in which they are selected will
+        establish the order of priority for access to an individual affordable unit/type of affordable
+        unit within an affordable housing development. The household with the highest order of
+        priority will be given a specified amount of time in accordance with this affirmative
+        marketing plan in order to finalize the purchase or rental of the specific unit/type of unit
+        for which it has been selected; when such time has expired, access to the unit/type of unit
+        shall then be provided to the next highest priority household for the same amount of time.
+        Access will be provided to the next highest priority household until one of the income-
+        qualified households has finalized the purchase or rental of the specific unit/type of unit.
+        Notification of such access will be made via certified mailing to the income-qualified
+        household. This random selection process shall provide a regional preference for all
+        households that live and/or work in Housing Region 1 comprised of Bergen, Hudson,
+        Passaic and Sussex Counties.
+
+K.     The Administrative Agent shall administer the Affirmative Marketing Plan. The
+       Administrative Agent has the responsibility to income-qualify low- and moderate-income
+       households; to place income-eligible households in low- and moderate-income units upon
+
+
+
+                                                  8
+     BER-L-000669-25 06/20/2025 1:18:44 PM Pg 63 of 123 Trans ID: LCV20251814410
+
+
+
+
+        initial occupancy; to provide for the initial occupancy of low- and moderate-income units
+        with income-qualified households; to continue to qualify households for re-occupancy of
+        units as they become vacant during the period of affordability controls; to assist with
+        outreach to low- and moderate-income households; and to enforce the terms of the deed
+        restriction and mortgage loan as per N.J.A.C. 5:80-26.1, et seq.
+
+L.      The Administrative Agent shall provide or direct qualified low- and moderate-income
+        applicants to counseling services on subjects such as budgeting, credit issues, mortgage
+        qualifications, rental lease requirements and landlord/tenant law and shall develop,
+        maintain and update a list of entities and lenders willing and able to perform such services.
+
+M.      All developers/owners of low- and moderate-income housing units shall be required to
+        undertake and pay the costs of the marketing of the affordable units in their respective
+        developments, subject to the direction and supervision of the Administrative Agent.
+
+N.      The implementation of the Affirmative Marketing Plan for a development that includes
+        affordable housing shall commence at least 120 days before the issuance of either a
+        temporary or permanent certificate of occupancy. The implementation of the Affirmative
+        Marketing Plan shall continue until all low-income housing units are initially occupied and
+        for as long as affordable units exist that remain deed restricted and for which the occupancy
+        or re-occupancy of units continues to be necessary.
+
+O.      The Administrative Agent shall provide the Municipal Housing Liaison with the
+        information required to comply with monitoring and reporting requirements pursuant to
+        N.J.A.C. 5:80-26.1, et seq.
+
+G:\Projects\WTBC\00042\Calculations & Reports\Affirmative Marketing Plan (08-13-2020).Docx
+
+
+
+
+                                                    9
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 64 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Appendix
+  A-2:   Township of Washington Affordable Housing Ordinance
+
+
+
+
+                                       ~ 47 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 65 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 66 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 67 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 68 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 69 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 70 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 71 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 72 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 73 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 74 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 75 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 76 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 77 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 78 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 79 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 80 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 81 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 82 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 83 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 84 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 85 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 86 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 87 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 88 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 89 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 90 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 91 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 92 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 93 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 94 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 95 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 96 of 123 Trans ID: LCV20251814410
+
+
+
+
+  Appendix
+  A-3:   Township of Washington Development Fee Ordinance
+
+
+
+
+                                      ~ 48 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 97 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 98 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 99 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 100 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 101 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 102 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 103 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 104 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 105 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 106 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 107 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 108 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 109 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 110 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 111 of 123 Trans ID: LCV20251814410
+
+
+
+
+   Appendix
+   A-4:   Township of Washington Mandatory Set Aside Ordinance
+
+
+
+
+                                        ~ 49 ~
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 112 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 113 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 114 of 123 Trans ID: LCV20251814410
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 115 of 123 Trans ID: LCV20251814410
+
+
+
+
+   Appendix
+   A-5:   Township of Washington Spending Plan
+
+
+
+
+                                        ~ 50 ~
+      BER-L-000669-25 06/20/2025 1:18:44 PM Pg 116 of 123 Trans ID: LCV20251814410
+
+
+
+                                                   June 6, 2025
+                                              Township of Washington
+                                    Affordable Housing Trust Fund Spending Plan
+
+
+
+
+INTRODUCTION
+
+The Township of Washington (hereinafter the “Township”), Bergen County, has prepared a
+Housing Element and Fair Share Plan that addresses its regional fair share of the affordable
+housing need in accordance with the Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.), the
+Amended Fair Housing Act (FHA-2) (N.J.S.A. 52:27D-301) and the proposed new Fair Housing
+Act Rules promulgated by the New Jersey Department of Community Affairs (DCA) (N.J.A.C.
+5:99). The Township of Washington Affordable Housing Trust Fund was established in 2002.
+
+As of May 1, 2025, the Township of Washington has a balance of $302,936 1 in its Affordable
+Housing Trust fund. All development fees, payments in lieu of constructing affordable units on
+site, funds from the sale of units with extinguished controls, and interest generated by the fees
+are deposited in a separate interest-bearing affordable housing trust fund account for the
+purposes of affordable housing. These funds shall be spent in accordance with N.J.A.C. 5:99
+as described in the sections that follow.
+
+1. REVENUES FOR CERTIFICATION PERIOD
+
+It is anticipated that during the period of July 1, 2025 through June 30, 2035, which
+encompasses the period that the Township will have a Fourth Round Judgment of Compliance
+and Repose (hereinafter “Fourth Round JOR”), the Township will add an additional $484,000 to
+its Affordable Housing Trust Fund. This is detailed below.
+
+       (a) Development fees: Based on development fee collection trends in the Township of
+           Washington since 2021, the Township anticipates that approximately $420,000 in
+           development fees will be generated between July 1, 2025 through June 30, 2035. This
+           figure assumes that, on average, the Township will collect approximately $42,000 in
+           development fees per year throughout the Fourth Round.
+
+       (b) Payment in lieu (PIL): While the Township of Washington does not currently anticipate
+           the contribution of any payments in lieu toward the municipal Affordable Housing Trust
+           Fund during the Fourth Round, if any such payments should be made to the Township
+           during the Fourth Round, such payments will be deposited into the Township’s
+           Affordable Housing Trust Fund.
+
+
+1
+    All figures rounded to the nearest dollar.
+
+                                                        1
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 117 of 123 Trans ID: LCV20251814410
+
+
+
+
+(c) Other Funds: The Township of Washington does not currently anticipate the
+    contribution of any other funds toward the municipal Affordable Housing Trust Fund
+    during the Fourth Round. That said, if any such funds are collected during the Fourth
+    Round, said funds will be deposited in the Township’s Affordable Housing Trust Fund.
+
+(d) Projected interest: It is estimated that the Township of Washington will collect
+    approximately $64,000 in interest between July 1, 2025 through June 30, 2035. This
+    figure assumes that, on average, the Township will collect approximately $6,400 in
+    interest per year throughout the Fourth Round.
+
+
+
+
+                                          2
+                                                           PROJECTED REVENUES – AFFORDABLE HOUSING TRUST FUND
+SOURCE OF                                                            JULY 1, 2025 THROUGH JUNE 30, 2035
+FUNDS                  7/1/25 to                                                                                                                 1/1/35 to
+                                   2026        2027      2028        2029            2030        2031        2032        2033        2034                    Total
+                       12/31/25                                                                                                                  6/30/35
+
+(a) Development          $21,000   $42,000     $42,000   $42,000     $42,000         $42,000     $42,000     $42,000     $42,000     $42,000       $21,000   $420,000
+Fees
+
+(b) Payments in Lieu          $0          $0       $0           $0          $0              $0          $0          $0          $0          $0          $0           $0
+of Construction
+
+(c) Other Funds               $0          $0       $0           $0          $0              $0          $0          $0          $0          $0          $0           $0
+
+(d) Interest              $3,200    $6,400      $6,400    $6,400      $6,400          $6,400      $6,400      $6,400      $6,400      $6,400        $3,200    $64,000
+
+Total                   $24,200    $48,400     $48,400   $48,400     $48,400         $48,400     $48,400     $48,400     $48,400     $48,400       $24,200   $484,000
+
+
+
+        In sum, the Township of Washington projects a total of $484,000 in revenue to be collected between July 1, 2025 and June 30,
+        2035. This projected amount, when added to Washington’s current trust fund balance of $302,936, results in a total anticipated
+        trust fund balance of $786,936 available to fund and administer the Township’s affordable housing plan. All interest earned on the
+        account shall be used only for the purposes of affordable housing.
+
+
+
+
+                                                                                                                                                                          BER-L-000669-25 06/20/2025 1:18:44 PM Pg 118 of 123 Trans ID: LCV20251814410
+
+
+
+
+                                                                                 3
+   BER-L-000669-25 06/20/2025 1:18:44 PM Pg 119 of 123 Trans ID: LCV20251814410
+
+
+
+
+2. ADMINISTRATIVE MECHANISM TO COLLECT AND DISTRIBUTE FUNDS
+
+The following procedural sequence for the collection and distribution of development fee
+revenues shall be followed by the Township:
+
+   (a) Collection of development fee revenues: Collection of development fee revenues shall
+       be consistent with Washington’s Development Fee Ordinance (DFO) for both residential
+       and non-residential developments in accordance with the Municipal Land Use Law
+       (N.J.S.A. 40:55D-1 et seq.), the Amended Fair Housing Act (FHA-2) (N.J.S.A. 52:27D-301)
+       and the proposed new Fair Housing Act Rules promulgated by the New Jersey
+       Department of Community Affairs (DCA) (N.J.A.C. 5:99).
+
+   (b) Distribution of development fee revenues: The Planning Board adopts and forwards a
+       resolution to the Governing Body recommending the expenditure of development fee
+       revenues as set forth in this Spending Plan. The Governing Body reviews the request for
+       consistency with the Spending Plan and adopts the recommendation by resolution. The
+       release of funds requires adoption of the Governing Body’s resolution in accordance
+       with the Spending Plan. Once a request is approved by resolution, the Chief Financial
+       Officer (CFO) releases the requested revenue from the Township’s Affordable Housing
+       Trust Fund for the specific use approved in the Governing Body’s resolution.
+
+3. DESCRIPTION OF ANTICIPATED USE OF AFFORDABLE HOUSING FUNDS
+
+   (a) Rehabilitation. As set forth in the Township’s Fourth Round Housing Element & Fair
+       Share Plan, Washington has a Present Need (rehabilitation) obligation for Round Four
+       of 0 units. As such, the Township is not obligated to establish a rehabilitation program
+       or allocate funds from its affordable housing trust fund for such purposes.
+
+   (b) Affordability Assistance. Pursuant to N.J.A.C. 5:99-2.5, the Township is required to set
+       aside a portion of all development fees collected and interest earned for the purpose
+       of providing affordability assistance to very low-, low- and moderate-income
+       households in affordable units included in the Township’s Fourth Round Housing
+       Element and Fair Share Plan. Affordability assistance means the use of funds to render
+       housing units more affordable to very low-, low- and moderate-income households
+       and includes, but is not limited to, down payment assistance, security deposit
+       assistance, low interest loans, rental assistance, assistance with homeowner’s
+       association or condominium fees and special assessments, common maintenance
+       expenses, and assistance with emergency repairs and rehabilitation to bring deed-
+       restricted units up to code, pursuant to N.J.A.C. 5:99-2.5. This may also include offering
+       a subsidy to developers of inclusionary or one hundred percent (100%) affordable
+
+
+                                               4
+  BER-L-000669-25 06/20/2025 1:18:44 PM Pg 120 of 123 Trans ID: LCV20251814410
+
+
+
+
+       housing developments or buying down the cost of low- or moderate-income units in
+       the Township’s fair share plan to make them affordable to very low-income
+       households, including special needs and supportive housing opportunities. The
+       Township will set aside $130,000 from the Affordable Housing Trust Fund for this
+       purpose through June 30, 2035.
+
+  (c) Administrative Expenses. Per N.J.A.C. 5:99-2.4(a), no more than twenty percent (20%)
+      of all affordable housing trust funds, exclusive of those collected prior to July 17, 2008
+      to fund an RCA, shall be expended on administration. The Township of Washington
+      projects that a maximum of $157,022 will be available from the affordable housing trust
+      fund to be used for administrative purposes through June 30, 2035. Projected
+      administrative expenditures, subject to the twenty percent (20%) cap, include payment
+      for the salaries and benefits for municipal employees and consultant fees related to
+      costs as set forth at N.J.A.C. 5:99-2.4(b), (c) and (d).
+
+
+Actual development fees + interest through 5/1/25                                        $218,392
+Payments in lieu of construction & other deposits through 5/1/25                  +      $360,000
+Projected development fees + interest 7/1/25 through 6/30/35                      +      $484,000
+        Less RCA expenditures through 7/17/08                                     -       $275,000
+                                                                   Total          =       $787,392
+20 percent requirement                                                     x 0.20 =       $157,478
+        Less administrative expenditures through 5/1/25                                      $456
+PROJECTED MAXIMUM Available for Administrative Expenses 7/1/25
+                                                                                 =        $157,022
+through 6/30/35
+
+
+
+  (e) Other Emergent Housing Opportunities. The Township will reserve the remaining trust
+      fund balance, projected at $499,914, for other emergent opportunities to create
+      affordable housing that may arise during the Fourth Round. The Township shall seek
+      approval for any emergent affordable housing opportunities not included in the
+      Township’s fair share plan in accordance with N.J.A.C. 5:99-4.1.
+
+
+
+
+                                                5
+        4. EXPENDITURE SCHEDULE
+
+        The Township of Washington intends to use affordable housing trust fund revenues for affordability assistance, administration, and
+        any emergent affordable housing opportunities that may arise during the Fourth Round. Where applicable, the funding schedule
+        below parallels the implementation schedule set forth in the Housing Element and Fair Share Plan and is summarized as follows.
+
+
+                                                      PROJECTED EXPENDITURES – AFFORDABLE HOUSING TRUST FUND
+PROJECTS/                                                         JULY 1, 2025 THROUGH JUNE 30, 2035
+PROGRAMS              7/1/25 to                                                                                                 1/1/35 to
+                                  2026      2027      2028      2029          2030      2031      2032      2033      2034                  Total
+                      12/31/25                                                                                                  6/30/35
+
+
+
+Affordability           $6,500    $13,000   $13,000   $13,000   $13,000       $13,000   $13,000   $13,000   $13,000   $13,000      $6,500   $130,000
+Assistance
+
+
+
+Administration         $30,000    $30,000    $5,000    $5,000    $5,000        $7,022    $5,000    $5,000    $5,000   $30,000     $30,000   $157,022
+
+
+
+Other Emergent         $24,914    $50,000   $50,000   $50,000   $50,000       $50,000   $50,000   $50,000   $50,000   $50,000     $25,000   $499,914
+Opportunities
+
+
+
+Total                   $61,414   $93,000   $68,000   $68,000   $68,000       $70,022   $68,000   $68,000   $68,000   $93,000     $61,500   $786,936
+                                                                                                                                                       BER-L-000669-25 06/20/2025 1:18:44 PM Pg 121 of 123 Trans ID: LCV20251814410
+
+
+
+
+                                                                          6
+          BER-L-000669-25 06/20/2025 1:18:44 PM Pg 122 of 123 Trans ID: LCV20251814410
+
+
+
+5. EXCESS OR SHORTFALL OF FUNDS
+
+In the event of any expected or unexpected shortfall of funds necessary to implement the Fair Share Plan, the
+Township of Washington will handle the shortfall of funds through an alternative funding source to be
+identified by the Township and/or by adopting a resolution with an intent to bond. In the event of excess
+funds, any remaining funds above the amount necessary to satisfy the municipal affordable housing
+obligation will be dedicated toward additional affordability assistance, additional administration (up to the
+20% cap), and/or any other emergent affordable housing opportunities that may arise during the Fourth
+Round.
+
+6. BARRIER FREE ESCROW
+
+Collection and distribution of barrier free funds shall be consistent with the Township’s Affordable Housing
+Ordinance and in accordance with applicable regulations. A process describing the collection and distribution
+procedures for barrier free escrow is detailed within the Township’s Affordable Housing Ordinance.
+
+SUMMARY
+
+The Township of Washington intends to spend Affordable Housing Trust Fund revenues pursuant to N.J.A.C.
+5:99 and consistent with the housing programs outlined in the Township’s Housing Element and Fair Share
+Plan.
+
+The Township of Washington has a balance of $302,936 as of May 1, 2025 and anticipates an additional
+$484,000 in revenues through June 30, 2035 for a total of $786,936. During the period of the Township’s
+Fourth Round JOR through June 30, 2035, the Township agrees to fund $130,000 towards affordability
+assistance, $157,022 towards administrative expenses, and $499,914 towards other emergent affordable
+housing opportunities that may arise during the Fourth Round, totaling $786,936 in anticipated expenditures.
+
+Any shortfall of funds will be offset by an alternative funding source to be identified by the Township and/or,
+the Township of Washington will bond to provide the necessary funding. The Township will dedicate any
+excess funds or balance toward additional affordability assistance, additional administration (up to the 20%
+cap) and/or any other emergent affordable housing opportunities that may arise during the Fourth Round.
+
+
+
+
+                                                      7
+BER-L-000669-25 06/20/2025 1:18:44 PM Pg 123 of 123 Trans ID: LCV20251814410
+
+
+
+
+   SPENDING PLAN SUMMARY
+   Balance as of May 1, 2025                                    $302,936
+
+   PROJECTED REVENUE THROUGH 6/30/35
+   Development fees                                 +           $420,000
+   Payments in lieu of construction                 +                 $0
+   Other funds                                      +                 $0
+   Interest                                         +            $64,000
+                                 SUBTOTAL REVENUE   =           $484,000
+
+                                 TOTAL REVENUE =                $786,936
+
+   EXPENDITURES
+   Affordability Assistance                         -           $130,000
+   Administration                                   -           $157,022
+   Other Emergent Opportunities                     -           $499,914
+                   TOTAL PROJECTED EXPENDITURES     =           $786,936
+                             REMAINING BALANCE      =                 $0
+
+
+
+
+                                     8
+

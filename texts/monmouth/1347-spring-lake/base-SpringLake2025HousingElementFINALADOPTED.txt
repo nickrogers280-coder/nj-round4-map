@@ -1,0 +1,2755 @@
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 1 of 74 Trans ID: LCV20251744267
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 2 of 74 Trans ID: LCV20251744267
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 3 of 74 Trans ID: LCV20251744267
+
+
+
+
+                           Mayor and Council
+                         Jennifer Naughton, Mayor
+                     Brendan Judge, Council President
+                                Joseph Erbe
+                                 Edwin Hale
+                           Kathleen McDonough
+                              Matthew Sagui
+                                Syd Whalley
+
+
+                         Borough Planning Board
+                        Nicholas Sapnar, Chairman
+                     Lisa DeBerardine, Vice Chairman
+                          Thomas Burrus, Class I
+                        W. Bryan Dempsey, Class II
+                      Kathleen McDonough, Class III
+                               Joseph Rizzo
+                             Stuart Patterson
+                             Laurie Buckelew
+                             Larry Iannacone
+                              Michael Burke
+                                Cindy Napp
+
+
+                      Planning Board Professionals
+                    George McGill, Esq., Board Attorney
+                        Al Hilla, PE, Board Engineer
+                     Kristina Palangi, Board Secretary
+
+
+                              Project Team
+                Sam Avakian, PE, PP, PLS, Borough Engineer
+                        Jennifer Beahm, PP, AICP
+                      Christine Bell, PP, AICP, CFM
+                              Ciara Wenger
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 4 of 74 Trans ID: LCV20251744267
+      MON-L-000264-25 06/12/2025 2:55:53 PM Pg 5 of 74 Trans ID: LCV20251744267
+
+
+
+
+Contents
+INTRODUCTION .......................................................................................................................... 1
+MUNICIPAL SUMMARY ................................................................................................................ 3
+   DEMOGRAPHIC CHARACTERISTICS ........................................................................................ 4
+   Population .............................................................................................................................. 4
+      Population Composition by Age ............................................................................................ 4
+      Households ......................................................................................................................... 6
+      Income ................................................................................................................................ 7
+   EXISTING HOUSING CONDITIONS ........................................................................................... 9
+      Housing Unit Data ................................................................................................................ 9
+      Housing Type and Size ........................................................................................................10
+      Housing Values and Contract Rents ....................................................................................11
+      Housing Conditions ............................................................................................................12
+      Projected Housing Stock .....................................................................................................13
+   EMPLOYMENT DATA ...............................................................................................................13
+   Lands Most Appropriate for Affordable Housing .......................................................................18
+      Infrastructure .....................................................................................................................18
+      Anticipated Demand and Land Use Patterns ........................................................................18
+      Environmental Constraints ..................................................................................................19
+      Historic ..............................................................................................................................19
+      Existing Land Use Designations ...........................................................................................20
+FAIR SHARE PLAN ......................................................................................................................22
+   Fair Share Obligation Summary ...............................................................................................22
+      Satisfaction of the Borough’s Realistic Development Potential .............................................23
+      Prior Round Compliance .....................................................................................................23
+      Third Round Compliance .....................................................................................................23
+      Satisfaction of the Borough’s Unmet Need ...........................................................................23
+   Appendices
+      Appendix A. Vacant Land Adjustment
+      Appendix B. Spending Plan
+      Appendix C. Existing Mandatory Set Aside, Affordable Housing, and Development
+      Fee Ordinance
+      Appendix D. Affordable Housing Overlay Ordinance
+      MON-L-000264-25 06/12/2025 2:55:53 PM Pg 6 of 74 Trans ID: LCV20251744267
+
+
+
+
+List of Tables
+TABLE 1: POPULATION TRENDS, 1930-2023................................................................................. 4
+TABLE 2: POPULATION BY AGE COHORT, SPRING LAKE, 2010-2023 ............................................. 5
+TABLE 3: POPULATION BY AGE COHORT, MONMOUTH COUNTY, 2010-2023................................ 5
+TABLE 4: MEDIAN AGE................................................................................................................. 6
+TABLE 5: HOUSEHOLD CHARACTERISTICS .................................................................................. 6
+TABLE 6: HOUSEHOLDS BY TYPE (2023) ...................................................................................... 7
+TABLE 7: PER CAPITA INCOME AND MEDIAN HOUSEHOLD INCOME ............................................ 7
+TABLE 8: HOUSEHOLD INCOME DISTRIBUTION ........................................................................... 8
+TABLE 9: MONTHLY OWNER COSTS AS A ..................................................................................... 9
+TABLE 10: GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME, 2023 ............................... 9
+TABLE 11: HOUSING UNIT DATA, 2023 ...................................................................................10
+TABLE 12: HOUSING UNITS BY TYPE, 2023 ..................................................................................11
+TABLE 13: VALUE OF OWNER-OCCUPIED HOUSING UNITS, 2023 ...............................................11
+TABLE 14: GROSS RENT PAID .....................................................................................................12
+TABLE 15: HOUSING DEFICIENCY CHARACTERISTICS ................................................................12
+TABLE 16: BUILDING PERMITS AND DEMOLITION PERMITS ISSUED, ............................................13
+TABLE 17: EMPLOYMENT STATUS ...............................................................................................14
+TABLE 18: CLASSIFICATION OF WORKERS IN SPRING LAKE, 2023 ...............................................14
+TABLE 19: WORKFORCE BY SECTOR...........................................................................................15
+TABLE 20: COMPARISON OF WORKFORCE BY SECTOR ...............................................................16
+TABLE 21: OCCUPATIONS BY TYPE .............................................................................................16
+TABLE 22: PROJECTED EMPLOYMENT, MONMOUTH COUNTY, 2032............................................17
+TABLE 23: FAIR SHARE OBLIGATION SUMMARY ..........................................................................22
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 7 of 74 Trans ID: LCV20251744267
+
+
+
+
+INTRODUCTION
+In the case of Southern Burlington County NAACP v. the Township of Mount Laurel,
+(commonly known as Mount Laurel I), the New Jersey Supreme Court established the
+doctrine that developing municipalities in New Jersey have a constitutional obligation to
+provide a realistic opportunity for the construction of low and moderate income housing in
+their communities. In its Mount Laurel decision, decided on January 20, 1983 (Mount Laurel
+II), the Supreme Court expanded the Mount Laurel doctrine by stating that this
+constitutional responsibility extended to all municipalities in New Jersey. The Court also
+established various remedies, including the “builder remedy” or court-imposed zoning, to
+ensure that municipalities affirmatively addressed this obligation.
+
+In response to the Mount Laurel II decision, the New Jersey Legislature adopted the Fair
+Housing Act in 1985 (Chapter 222, Laws Of New Jersey, 1985). The Fair Housing Act
+established a Council on Affordable Housing (COAH) as an administrative alternative to the
+courts. COAH was also given the responsibility of establishing various housing regions in
+the state, determining regional and municipal fair share affordable housing obligations, and
+adopting regulations establishing the guidelines and approaches that municipalities may
+use in addressing their affordable housing need.
+
+Under COAH’s regulations, low income households are defined as those with incomes no
+greater than 50 percent of the median household income, adjusted for household size, of
+the housing region in which the municipality is located, and moderate-income households
+are those with incomes no greater than 80 percent and no less than 50 percent of the
+median household income, adjusted for household size, of the housing region. For the
+Borough of Spring Lake, the housing region is defined by COAH as Region 4 and is
+comprised of Mercer, Monmouth, and Ocean counties. In 2 0 2 4 , t h e Region 4 median
+income for a four-person household is $130,054, the moderate-income limit is $104,0431,
+the low-income limit is $65,027, and the very-low-income limit is $39,016.
+
+Pursuant to both the Fair Housing Act and the Municipal Land Use Law (MLUL),
+municipalities in New Jersey are required to include a housing element in their master
+plans. The principal purpose of the housing element is to provide for methods of achieving
+the goal of access to affordable housing to meet the municipality’s low- and moderate-
+income housing needs. The statutory required contents of the housing element are:
+
+   x   An inventory of the municipality’s housing stock by age, condition, purchase or
+       rental value, occupancy characteristics, and type, including the number of units
+       affordable to low- and moderate- income households and substandard housing
+       capable of being rehabilitated;
+   x   A projection of the municipality’s housing stock, including the probable future
+       construction of low- and moderate-income housing, for the ten years, taking into
+       account, but not necessarily limited to, construction permits issued, approvals of
+       applications for development and probable residential development of lands;
+
+                                          1
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 8 of 74 Trans ID: LCV20251744267
+
+
+
+
+x   An analysis of the municipality’s demographic characteristics, including but not
+    necessarily limited to, household size, income level and age;
+x   An analysis of the existing and probable future employment characteristics of the
+    municipality;
+x   A determination of the municipality’s present and prospective fair share for low-
+    and moderate-income housing and its capacity to accommodate its present and
+    prospective housing needs, including its fair share for low- and moderate-income
+    housing; and
+x   A consideration of the lands that are most appropriate for construction of low-
+    and moderate-income housing and of the existing structures most appropriate for
+    conversion to, or rehabilitation for low- and moderate-income housing, including a
+    consideration of lands of developers who have expressed a commitment to provide
+    low- and moderate-income housing.
+
+
+
+
+                                      2
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 9 of 74 Trans ID: LCV20251744267
+
+
+
+
+MUNICIPAL SUMMARY
+Spring Lake is an elegant, picturesque seaside community located along the Atlantic Ocean
+in southeastern Monmouth County, New Jersey. Covering just 1.3 square miles, Spring Lake
+is known for its scenic beauty, well-maintained historic charm, and residential appeal.
+Originally developed in the late 19th century as a summer resort town, the area’s
+accessibility improved with the expansion of the North Jersey Coast Rail Line, which
+includes stops in Spring Lake, as well as nearby Manasquan and Belmar. This made the
+borough more accessible to year-round residents while preserving its vacation-town
+atmosphere.
+
+Today, Spring Lake boasts a mix of stately homes, quaint shops, and recreational amenities,
+including a beautiful beach, a boardwalk, and picturesque parks. The Borough's
+commercial area is primarily located along Third Avenue in the center of Spring Lake, as well
+as a small commercial pocket near the Train Station in the western portion of town. The
+remainder of the Borough consists primarily of single-family residences. Spring Lake is
+bordered by the Atlantic Ocean to the east, Spring Lake Heights to the west, the Boroughs
+of Belmar and Lake Como across Lake Como to the north, Wall Township to the northwest,
+and the Borough of Sea Girt to the south.
+
+The current year-round population of Spring Lake is estimated at 2,782 (ACS 2023 5-year
+data), swelling substantially in the summer months. Spring Lake has a population density
+of 10,700 persons per square mile. The Township grew older by 7.1 years between 2010 and
+2023, with a current median age of 61.4 years of age. Spring Lake’s 2023 median household
+income estimate of $146,976 was higher than that of the county ($99,733) and the State
+($82,545).
+
+In the guidelines established by COAH, Spring Lake Borough is located in affordable housing
+Region 4 which is comprised of Monmouth, Mercer, and Ocean Counties.
+
+
+
+
+                                          3
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 10 of 74 Trans ID: LCV20251744267
+
+
+
+
+      DEMOGRAPHIC CHARACTERISTICS
+
+      Population
+      In 2023, the Borough of Spring Lake had a total population of 2,782. This number
+      represented a decrease of 140 individuals or -4.79% percent since 2020, when the total
+      population was 2,922 individuals. The Borough of Spring Lake’s population peaked in 1980
+      at 4,215 residents. Since that time, the general population trend within the Borough has
+      been declining between 1980 and 2023. The total population pattern for both Spring Lake,
+      Monmouth County, and the State of New Jersey is detailed below.
+
+
+                                       TABLE 1: POPULATION TRENDS, 1930-2023
+                    Spring Lake            Monmouth County                 New Jersey
+   Year                    Change                   Change                        Change
+            Population                Population                Population
+                       Number Percent            Number Percent             Number    Percent
+   1930         1,745           -        -        147,209           -            -     4,041,334     -           -
+   1940         1,650         -95     -5.44%      161,238       14,209        9.50%    4,160,165 118,831      2.94%
+   1950         2,008         358    21.70%       225,327        64,089      39.70%    4,835,329 675,164     16.22%
+   1960         2,922         914    45.52%       334,401       109,074      48.40%    6,066,782 1,231,453   25.46%
+   1970         3,896         974    33.33%       461,849       127,448      38.10%    7,171,112 1,104,330   18.20%
+   1980         4,215         319     8.19%       503,173        41,324       8.90%    7,365,011 463,899      6.46%
+   1990         3,499        -716    -16.99%      553,124        49,951       9.90%    7,730,188 365,177      4.95%
+   2000         3,567          68     1.94%       615,331        62,207      11.24%    8,414,350 684,162      8.85%
+   2010         3,092        -475    -13.32%      628,112        12,811        2.0%    8,721,577   307,227    3.6%
+  2020*         2,922        -170     -5.50%      620,821        -7,291        1.2%    8,885,418   163,841    1.9%
+  2023*         2,782        -140     -4.79%      643,615        22,794       3.67%    9,267,014   381,596   4.29%
+  2050^         3,066         284     10.2%       669,624         48,559        0.%        -          -        -
+Sources: U.S. Census Bureau Decennial Census (table DP-1)
+*U.S. Census Bureau, 2020, 2023 ACS 5-Year Estimates (table B01003)
+^ Population Projections from North Jersey Transportation Planning Authority (NJTPA)
+
+
+
+
+      Population Composition by Age
+      The age composition of Spring Lake has shifted noticeably since 2010. According to the
+      American Community Survey 5-Year Estimates, 2023, significant changes occurred in many
+      age groups. The number of children under the age of 18 have decreased significantly while
+      the number of adults over the age of 60 have increased significantly over this time period.
+      The greatest percentage increases occurred in the 65 to 74 years age cohort, which
+      increased by 28.9 percent, and the 60 to 64 years age cohort which grew by 25.9 percent
+      over the same timeframe.
+
+
+
+
+                                                                 4
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 11 of 74 Trans ID: LCV20251744267
+
+
+
+
+           TABLE 2: POPULATION BY AGE COHORT, SPRING LAKE, 2010-2023
+                                              2010                      2023               Change
+                Population
+                                     Number        Percent     Number         Percent     2010-2023
+           Total population           3,092        100.0%       2,782          100%             -10.0%
+           Under 5 years               207           6.7%         89           3.2%             -57.0%
+           5 to 9 years                133           4.3%         83           2.9%             -37.5%
+           10 to 14 years              197           6.4%         85           3.0%             -56.8%
+           15 to 19 years              194           6.3%         83           2.9%             -57.2%
+           20 to 24 years              95            3.1%         73           2.6%             -23.2%
+           25 to 34 years              112           3.6%         114          4.1%              1.8%
+           35 to 44 years              264           8.5%         138          4.9%             -47.7%
+           45 to 54 years              358          11.6%         424         15.2%             -18.4%
+           55 to 59 years              280           9.1%         229          8.2%             -18.2%
+           60 to 64 years              278           9.0%         350         12.6%             25.9%
+           65 to 74 years              529          17.1%         682         24.5%             28.9%
+           75 to 84 years              322          10.4%         354         12.7%              9.9%
+           85 years and over           123           4.0%         78           2.8%             -36.6%
+           U.S. Census Bureau, American Community Survey 2010, 2023, 5- Year Estimates (table DP-05)
+
+
+Monmouth County also experienced shifts in the age make-up of its population. The
+County experienced a significant decrease in children under the age of 18. The 20 to 24-
+year-old and 55 and over age cohorts experienced population increases between 2010 and
+2023, with the largest increases in the older age cohorts, suggesting that the County, like
+the Borough, has an aging population.
+
+      TABLE 3: POPULATION BY AGE COHORT, MONMOUTH COUNTY, 2010-2023
+                                              2010                      2023               Change
+                Population
+                                     Number        Percent     Number         Percent     2010-2023
+           Total population          630,380       100.0%       643,615       100.0%          2.5%
+           Under 5 years              34,755         5.5%        32,114        4.9%         -11.05%
+           5 to 9 years               41,128         6.5%        37,390        5.8%          -13.9%
+           10 to 14 years             45,551         7.2%        39,484        6.1%          -12.5%
+           15 to 19 years             44,044         7.0%        42,163        6.6%           -5.7%
+           20 to 24 years             34,185         5.4%        37,390        5.8%         13.99%
+           25 to 34 years             64,860        10.3%        70,569        10.9%         11.8%
+           35 to 44 years             86,499        13.7%        75,860        11.8%         -18.8%
+           45 to 54 years            110,979        17.6%        88,083       13.7%          -18.9%
+           55 to 59 years             44,570         7.1%        50,654        7.8%          18.9%
+           60 to 64 years             37,118         5.9%        50,797        7.8%          48.4%
+           65 to 74 years             44,342         7.0%        71,107       11.04%         70.4%
+           75 to 84 years             28,598         4.5%        33,953        5.3%          15.9%
+           85 years and over          13,751         2.2%        14,423        2.2%          14.9%
+           2010 US Census Bureau (table DP-1)
+           U.S. Census Bureau, American Community Survey 2023 5- Year Estimates (table DP-05)
+
+
+                                                   5
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 12 of 74 Trans ID: LCV20251744267
+
+
+
+
+The median age of Spring Lake residents has increased between 2010 and 2023. This trend
+is consistent with the general “ graying” of America as the Baby Boom generation
+continues to age. While the State, County, and Borough have all experienced increases in
+median age between 2010 and 2023, the Borough’s median age increased significantly
+more than the State of New Jersey’s and Monmouth County. However, the median age of
+residents in Spring Lake is considerably higher than that of the County or the State.
+
+                                        TABLE 4: MEDIAN AGE
+               Year             Spring Lake            Monmouth County                New Jersey
+               2010                 54.3                    40.6                        38.5
+               2023                 61.4                    43.2                        40.1
+              Change                 7.1                     2.6                         1.6
+          U.S. Census Bureau, American Community Survey 2010 and 2023 5- Year Estimates (table DP-05)
+
+
+Households
+A household is defined as one or more persons, either related or not, living together in a
+housing unit. 2023 ACS 5-Year Estimates note that there were approximately 1,301
+households in the Borough. Approximately 77.3 percent of the Borough’s households were
+comprised of one or two persons, and only 10.3 percent of all Borough households
+consisted of four (4) or more persons. Approximately 59 percent of Monmouth County
+households were comprised of one and two-person households. The Borough exhibited a
+higher percentage of two-person households than the County. Spring Lake’s average
+household size was 2.13 while the County’s average household size was 2.55 according to
+these estimates.
+                         TABLE 5: HOUSEHOLD CHARACTERISTICS
+                       SPRING LAKE AND MONMOUTH COUNTY, 2023
+                                                     Spring Lake            Monmouth County
+                                                 Number       Percent       Number    Percent
+            Total Households                      1,301       100%          250,195        100.0%
+            1-person                               317        24.4%         66,589          26.6%
+            2-persons                              689        52.9%         81,289          32.4%
+            3-persons                              171        13.1%         40,929          16.4%
+            4 or more persons                      124        10.3%          61,388     24.5%
+            Average Household Size                       2.13                      2.55
+            U.S. Census Bureau, American Community Survey 2023 5-Year Estimates
+            (tables S2501 & B25010)
+
+Family households are defined as two or more persons living in the same household,
+related by blood, marriage or adoption. Most households in Spring Lake were families,
+comprising 77.2 percent of all households. Approximately 73.0 percent of all family
+households were family households with married couple householders, while 1.1 percent
+
+                                                   6
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 13 of 74 Trans ID: LCV20251744267
+
+
+
+
+and 3.0 percent of family households respectively were family households consisting of
+single parent male or female householders. The average family size in Spring Lake was 2.48
+persons. Of all Borough households, 11.4 percent were non-family households.
+
+                                TABLE 6: HOUSEHOLDS BY TYPE (2023)
+                                                                                     Total         Percent
+               Households
+                                                                                    1,211           100%
+               Average Household Size                                                        2.13
+               Average Non-Family Household Size                                             1.09
+
+                 Family households                                                   961            77.2%
+                    Married Couple Family                                            909            73.0%
+                       With own children under 18 years                              193            15.5%
+                       No children under 18 years                                    716            57.6%
+                 Other Family                                                        139            11.4%
+                    Male householder, no spouse present                               14             1.1%
+                       With own children under 18 years                               8              0.6%
+                       No own children under 18 year                                   6             0.4%
+                    Female householder, no spouse present                            38              3.0%
+                       With own children under 18 years                               0              0.0%
+                       No own children under 18 year                                  38             3.0%
+               Nonfamily Households                                                  340            27.3%
+
+               Average Family Size                                                           2.48
+               U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table S1101)
+
+
+Income
+Spring Lake experienced a 66.3 percent increase in per capita income between 2010 and
+2023, while Monmouth County experienced a 59.9 percent increase, and the State’s per
+capita income increased by 52.3 percent increase over the same period. However, although
+the Borough experienced the biggest increase in per capita income, while the County and
+State experienced smaller increases, the Borough’s per capita income of $119,203 is much
+higher than the County’s $65,545 per capita income figure and is substantially more than
+the State’s $53,118 per capita income.
+             TABLE 7: PER CAPITA INCOME AND MEDIAN HOUSEHOLD INCOME
+                   2010 Per          2023 Per                     2010 Median         2023 Median
+                                                     Percent                                                 Percent
+                     Capita            Capita                      Household           Household
+                                                     Change                                                  Change
+                    Income            Income                        Income              Income
+ Spring Lake        $71,661          $119,203         66.3%          $97,885             $146,976            50.1%
+ Monmouth           $40,976          $65,545          59.9%          $64,271             $122,727            90.9%
+ New Jersey         $34,858          $53,118          52.3%          $55,146             $101,050            83.2%
+ U.S. Census Bureau, 2010 ACS Selected Population Tables (table DP03)
+ U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (tables S1902 and S1903)
+
+
+                                                       7
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 14 of 74 Trans ID: LCV20251744267
+
+
+
+
+In both Spring Lake and the County, the $200,000- plus range income bracket contained the
+largest percentage of households. However, the percentage of households in this income
+bracket was much greater in Spring Lake (40.6%) than in the County (27.7%) overall. In the
+Borough of Spring Lake, 90.8% of households had an income of $50,000 or greater, while in the
+County, 79.1% of all households had an income of $50,000 or greater. The median
+h o u s e h o l d income in Spring Lake was $146,976, approximately $24,000 more than
+the County median household income and $45,923 more than the State median
+household income. Between 2010 and 2023, the median household income in Spring
+Lake increased 50.1 percent, w h i l e t h e m e d i a n h o u s e h o l d i n c o m e i n
+M o n m o u t h C o u n t y i n c r e a s e d b y 90.9 percent and by 83.2 percent for the State
+overall.
+
+                         TABLE 8: HOUSEHOLD INCOME DISTRIBUTION
+                         SPRING LAKE AND MONMOUTH COUNTY, 2023
+
+                                           Spring Lake                           Monmouth County
+                                      Number         Percent                   Number       Percent
+     Total Households                   1,301               100%               250,195      100.0%
+       Less than $10,000                 27                 2.1%                8,165         3.3%
+       $10,000 to $14,999                  0                 0.0%               5,319         2.1%
+       $15,000 to $19,999                  8                 0.6%               5,203         2.1%
+       $20,000 to $24,999                 10                 0.8%               5,578         2.2%
+       $25,000 to $29,999                  0                 0.0%               5,530         2.2%
+       $30,000 to $34,999                 55                 4.2%               5,175         2.1%
+       $35,000 to $39,999                  7                 0.5%               5,648         2.3%
+       $40,000 to $44,999                  0                 0.0%               5,544         2.2%
+       $45,000 to $49,999                 13                 1.0%               6,198         2.5%
+       $50,000 to $59,999                101                 7.8%               9,995         4.0%
+       $60,000 to $74,999                 20                 1.5%              15,158         6.1%
+       $75,000 to $99,999                221                17.0%              25,542        10.2%
+       $100,000 to $124,999               96                 7.4%              24,161         9.7%
+       $125,000 to $149,999               99                 7.6%              19,756         7.9%
+       $150,000 to $199,999              116                 8.9%              33,996        13.6%
+       $200,000 or more                  528                40.6%              69,227        27.7%
+     U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table B19001)
+
+
+Household Costs
+
+The tables below show housing expenditures for owner- and renter-occupied units in Spring
+Lake in 2023. The first table shows the housing costs of owner occupants as a percentage
+of total income. A total of 428 households (37.3%) were devoting more than 30 percent
+of their annual income to housing costs. The State affordability threshold for housing as
+a percent of income suggests that not more than 28 percent of gross income should be
+
+                                                     8
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 15 of 74 Trans ID: LCV20251744267
+
+
+
+
+allocated for housing costs.
+
+The second table shows rental costs as a percentage of household income. A total of 138
+households renting in Spring Lake, or 65.7 percent, were spending over 30 percent of their
+incomes on rent. The State affordability threshold for housing as a percent of income
+suggests that not more than 30 percent of gross income should be allocated for rent.
+
+
+                            TABLE 9: MONTHLY OWNER COSTS AS A
+                          PERCENTAGE OF HOUSEHOLD INCOME, 2023
+                                                        Spring Lake                   Monmouth County
+                                                     Number     Percent             Number     Percent
+     Total Owner-Occupied Housing Units                  1,148       100.0%         120,842         100.0%
+     Less than 20%                                        626         54.5%          51,115          42.3%
+     20 to 24%                                             34         3.0%           19,772          16.3%
+     25 to 29%                                             60         5.2%           13,459          11.1%
+     30 to 34%                                             69         6.0%            8,293           6.8%
+     35% or more                                          359         31.3%          28,203          23.3%
+     Not computed                                          0          0.0%             610           0.5%
+     UU.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table DP04) (table B25091)
+
+
+
+
+      TABLE 10: GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME, 2023
+                                                        Spring Lake                 Monmouth County
+                                                     Number Percentage            Number   Percentage
+     Total Renter-Occupied Housing Units                 210        100.0%         58,198          100%
+     Less than 15%                                         9          4.3%          7,106          12.2%
+     15 to 19%                                            56         26.7%          6,970          11.9%
+     20 to 24%                                             7          3.3%          6,927          11.9%
+     25 to 29%                                             0          0.0%          6,419          11.0%
+     30 to 34%                                            18          8.6%          4,751           8.1%
+     35% or more                                         120         57.1%         26,025          44.7%
+     Not computed                                        45         21.4%           3,419           5.8%
+     U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table DP04)
+
+
+
+
+EXISTING HOUSING CONDITIONS
+
+Housing Unit Data
+
+Spring Lake’s housing stock is predominantly owner occupied and slightly more than half
+
+
+                                                     9
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 16 of 74 Trans ID: LCV20251744267
+
+
+
+
+was built prior to 1950. According to the 2023 ACS, the Borough had a total of 1,301
+occupied housing units. Most occupied units (57.7%) were owner-occupied, while 7.6
+percent were renter-occupied. The median year a structure was built in Spring Lake is 1958.
+
+
+                           TABLE 11: HOUSING UNIT DATA, 2023
+           Housing Units in Spring Lake                                   Number        Percent
+           Total Housing Units                                             1,991         100%
+              Vacant Housing Units                                          690          34.7%
+              Occupied Housing Units                                       1,301         65.3%
+                  Owner Occupied                                           1,148         57.7%
+                  Renter Occupied                                           153          7.6%
+           U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table DP04)
+
+                                                                 Number        Percent
+                  Built 1939 or earlier                            675          33.9%
+                  Built 1940 to 1949                               153          7.6%
+                  Built 1950 to 1959                               219          10.9%
+                  Built 1960 to 1969                                38          1.9%
+                  Built 1970 to 1979                                78          3.9%
+                  Built 1980 to 1989                               105          5.2%
+                  Built 1990 to 1999                                34          1.7%
+                  Built 2000 to 2009                               335          16.8%
+                  Built 2010 or later                              354          17.7%
+                  Total                                           1,991        100.0%
+                  Median Year Structure Built                              1958
+                  U.S. Census Bureau, American Community Survey 2023 5-Year Estimates
+                  (table DP04 and B25035)
+
+
+
+Housing Type and Size
+
+The majority (87.6%) of housing stock in Spring Lake consists of single-family detached
+dwellings. Multi- family dwellings consisting of 20 or more units comprise 5.8% of the
+Borough’s housing stock and one-unit attached dwellings consist of 4.3% of the Borough’s
+housing stock. The median number of rooms per unit was 8.0.
+
+
+
+
+                                                 10
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 17 of 74 Trans ID: LCV20251744267
+
+
+
+
+                         TABLE 12: HOUSING UNITS BY TYPE, 2023
+                   Units in Structure                      Total            Percent
+                   Total                                   1,991            100.0%
+                   1 Unit, detached                        1,746            87.6%
+                   1 Unit, attached                         86               4.3%
+                   2 Units                                   24              1.2%
+                   3 or 4 Units                              20              1.0%
+                   5 to 9 Units                               0              0.0%
+                   10 to 19 Units                             0              0.0%
+                   20 Units or more                         115              5.8%
+                   Mobile home                               0                0.0%
+                   Boat, RV, van, etc.                       0                0.0%
+                   Rooms                                   Total            Percent
+                   1 room                                    62               3.1%
+                   2 rooms                                  109               5.4%
+                   3 rooms                                   66               3.3%
+                   4 rooms                                   14               0.7%
+                   5 rooms                                  150              7.5%
+                   6 or more rooms                         1,590             79.9%
+                   Median number of rooms                             8.0
+                   U.S. Census Bureau, American Community Survey 2023 5-Year Estimates
+                   (DP04)
+
+
+Housing Values and Contract Rents
+According to ACS 5-Year Estimates, most housing units in Spring Lake (84.0%) were valued
+at over $1,000,000. Table 13 provides a breakdown of home values for owner-occupied
+units within the Borough. Only eleven (11) owner-occupied housing units in Spring Lake
+were worth less than $50,000. The median value of an owner-occupied housing unit was
+over $2,000,000 at the time of the survey.
+
+           TABLE 13: VALUE OF OWNER-OCCUPIED HOUSING UNITS, 2023
+                                          Spring Lake                 Monmouth County
+                                    Number        Percentage       Number        Percentage
+     Total                           1,148           100%          188,578          100%
+     Less than $50,000                 11            0.9%            3,202           1.6%
+     $50,000 to $99,999                 0            0.8%            2,703           1.4%
+     $100,000 to $149,999               0            1.8%            1,760           0.9%
+     $150,000 to $199,999               9            0.8%            2,797           1.4%
+     $200,000 to $299,999               7            0.0%           12,780           6.8%
+     $300,000 to $499,999              29            4.4%           55,119          29.2%
+     $500,000 to $999,999             127           16.8%           88,909          58.4%
+     $1,000,000 or more               965           84.0%           21,308          11.3%
+     Median Value                         $2,000,000+                      $566,500
+     U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table DP04)
+
+                                                11
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 18 of 74 Trans ID: LCV20251744267
+
+
+
+
+With respect to renter-occupied units, there are a range of rents, with most rental units in
+the Borough carrying rental costs either within the $1,000 to $1,499 range or the $2,000 to
+$2,499 range per month. At the time of the ACS 5-Year Estimates, the median gross rent in
+Spring Lake was $2,194. Zero units in the Borough carried rental costs less than $1,000 per
+month, and only 65 units did not require cash rent payments.
+                                      TABLE 14: GROSS RENT PAID
+                                                       Spring Lake                       Monmouth County
+                                                  Number      Percentage                Number   Percentage
+     Total Renter Occupied Units                     88               100%              59,223             100%
+     Less than $500                                   0                0.0%              4,045             6.8%
+     $500 to $999                                     0                0.0%              3,453             5.8%
+     $1,000 to $1,499                                26               29.5%             13,711             23.1%
+     $1,500 to $1,999                                 6                6.8%             15,499             26.1%
+     $2,000 to $2,499                                31               35.2%             6,150              10.3%
+     $2,500 to $2,999                                 0                0.0%             5,445              9.1%
+     $3,000 or more                                  25               28.4%             1,771               2.9%
+     No cash rent                                    65               73.8%             2,394              4.0%
+     Median Contract Rent                                    $2,194                               $1,372
+     U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table DP04)
+
+
+Housing Conditions
+According to the 2023 ACS, there were a minimal number of units exhibiting overcrowding
+(more than one person per room), lacking complete plumbing facilities or lacking complete
+kitchen facilities. Table 15 details the condition of housing within Spring Lake based on
+plumbing facilities, kitchen facilities, and overcrowding. These factors are utilized in
+determining housing deficiency and general housing problems and are used as the basis to
+calculate the municipal rehabilitation obligation. According to the data, zero percent of
+occupied housing units experienced over-crowding, zero percent of occupied units lacked
+complete plumbing facilities, and 5.8 percent of units lacked complete kitchen facilities.
+
+                    TABLE 15: HOUSING DEFICIENCY CHARACTERISTICS
+                                                                   Count                Percent
+               Housing Units with 1.01 or More Persons Per Room
+               1.01 to 1.5 occupants per room                  0                         0.0%
+               1.51 or more occupants per room                 0                         0.0%
+               Plumbing Facilities
+               Total Occupied Housing Units                  1,301                      100%
+               Lacking complete plumbing facilities             0                       0.0%
+               Kitchen Equipment
+               Total Occupied Housing Units                  1,301                      100%
+               Lacking complete kitchen facilities             76                       5.8%
+               U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table DP04)
+
+
+                                                    12
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 19 of 74 Trans ID: LCV20251744267
+
+
+
+
+Projected Housing Stock
+
+According to New Jersey Department of Community Affairs, the Borough of Spring Lake has
+issued building permits for 526 residential dwelling units between 2000 and 2023. During
+that same time period, the Borough issued 419 residential demolition permits. The Borough
+has added 107 dwelling units over this time period. Building permit data by year is
+summarized in Table 16 below.
+
+
+          TABLE 16: BUILDING PERMITS AND DEMOLITION PERMITS ISSUED,
+                                  2000 - 2023
+                            Residential Building          Residential
+                Year                                                         Total Added
+                              Permits Issued              Demolitions
+                 2000                 26                       15                  11
+                 2001                 27                       18                   9
+                 2002                 28                       20                   8
+                 2003                 19                       17                   2
+                 2004                 19                       18                   1
+                 2005                 19                       22                  -3
+                 2006                 20                       14                   6
+                 2007                 19                       14                   5
+                 2008                 17                       19                  -2
+                 2009                 18                       21                  -3
+                 2010                 23                       18                   5
+                 2011                 15                       10                   5
+                 2012                 21                       16                   5
+                 2013                 14                        9                   5
+                 2014                 22                       16                   6
+                 2015                 33                       27                   6
+                 2016                 28                       19                   9
+                 2017                 21                       21                   0
+                 2018                 20                       26                  -6
+                 2019                 24                       17                   7
+                 2020                 17                       17                   0
+                 2021                 22                       22                   0
+                 2022                 27                       10                  17
+                 2023                 27                       13                  14
+                Total                 526                      419                 107
+                 Source: New Jersey Department of Community Affairs Construction Reporter
+
+
+
+EMPLOYMENT DATA
+The 2023 ACS reports on work activity of residents aged 16 years and older. While the
+Borough’s working age population was 2,519 residents, Spring Lake had an approximate
+labor force of 1,007 residents. Approximately 60.0 percent of the Borough’s working age
+residents were not participating in the labor force at the time of the estimates. The vast
+majority of the Borough’s labor force was employed in civilian jobs, with zero (0) residents
+                                                 13
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 20 of 74 Trans ID: LCV20251744267
+
+
+
+
+reporting being members of the armed forces. Approximately 1.1 percent of Borough
+residents reported being unemployed.
+
+                                TABLE 17: EMPLOYMENT STATUS
+                                                      Spring Lake             Monmouth County
+                                                   Number     Percent         Number Percent
+       Population 16 years and over                  2,519         100%        526,352      100.0%
+         In labor force                              1,007         39.9%       349,815       66.4%
+            Civilian Labor Force                     1,007         39.9%       349,355       66.3%
+              Employed                                979          38.8%       331,018       62.9%
+              Unemployed                               28           1.1%        18,337        3.4%
+            Armed Forces                               0            0.0%         460         0.09%
+         Not in labor force                          1,512         60.0%       174,537      28.03%
+       U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table DP03)
+
+
+
+Approximately 77 percent of the Borough’s workers were employed in private wage and
+salary positions, while 11.5 percent of workers are self-employed. Government workers
+comprise about 11.1 percent of the Borough’s workforce. Table 18 provides a breakdown of
+worker classifications.
+
+
+            TABLE 18: CLASSIFICATION OF WORKERS IN SPRING LAKE, 2023
+                                                                Number           Percent
+               Total                                              979             100%
+               Private Wage and Salary Worker                     757             77.3%
+               Government Worker                                  109             11.1%
+               Self-Employed Worker                               113             11.5%
+               Unpaid Family Worker                                0              0.0%
+               U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table
+               DP03)
+
+An analysis of employees (over the age of 16) by economic sector indicates that employed
+working age individuals in Spring Lake were involved in a range of economic sectors. As
+depicted in Table 19 below, the highest concentration of workers are employed in the
+finance, insurance & real estate (23.8%) sector and educational services, and health care
+and social services (21.3%). The professional scientific, management, administrative and
+waste management services employees an addition 20.8% of the Borough’s workforce. All
+remaining sectors employee less than 10% of the employed population within Spring Lake.
+
+
+
+
+                                                14
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 21 of 74 Trans ID: LCV20251744267
+
+
+
+
+                                 TABLE 19: WORKFORCE BY SECTOR
+   Sector                                                                             Number   Percent
+   Civilian employed population 16 years and over                                      979     100%
+     Agriculture, forestry, fishing and hunting, mining                                 0       0.0%
+     Construction                                                                       35      3.6%
+     Manufacturing                                                                      92      9.4%
+     Wholesale Trade                                                                    10      1.0%
+     Retail Trade                                                                       68      6.9%
+     Transportation and Warehousing, and Utilities                                      13      1.3%
+     Information                                                                        17      1.7%
+     Finance and insurance, and real estate and rental and leasing                     233     23.8%
+     Professional, scientific, and management, and administrative and waste
+                                                                                       204     20.8%
+     management services
+     Educational services, and health care and social assistance                       209     21.3%
+
+     Arts, entertainment, and recreation, and accommodation and food services           97      9.9%
+
+     Other Services, except public administration                                       1       0.1%
+     Public administration                                                              0       0.0%
+   U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table DP03)
+
+
+
+Table 20 provides a percentage comparison of the Borough’s workforce against that of the
+County. A higher percentage of the Borough’s workforce is employed in finance and
+insurance and real estate and rental and leasing; while a higher percentage of the County’s
+workforce was employed in the educational services, and health care and social assistance
+sectors.
+
+
+
+
+                                                     15
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 22 of 74 Trans ID: LCV20251744267
+
+
+
+
+                     TABLE 20: COMPARISON OF WORKFORCE BY SECTOR
+                   SPRING LAKE BOROUGH AND MONMOUTH COUNTY, 2023
+                                                                                      Spring   Monmouth
+   Sector
+                                                                                       Lake     County
+   Civilian employed population 16 years and over                                      979      331,018
+     Agriculture, forestry, fishing and hunting, mining                                0.0%     0.36%
+     Construction                                                                      3.6%      6.9%
+     Manufacturing                                                                     9.4%      6.2%
+     Wholesale Trade                                                                   1.0%      2.4%
+     Retail Trade                                                                      6.9%     10.4%
+     Transportation and Warehousing, and Utilities                                     1.3%      4.4%
+     Information                                                                       1.7%      3.2%
+     Finance and insurance, and real estate and rental and leasing                    23.8%     10.3%
+     Professional, scientific, and management, and administrative and waste
+                                                                                      20.8%     15.5%
+   management services
+     Educational services, and health care and social assistance                      21.3%     24.3%
+     Arts, entertainment, and recreation, and accommodation and food services          9.9%      7.7%
+     Other Services, except public administration                                      0.1%      3.7%
+     Public administration                                                             0.0%      4.3%
+   U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table DP03)
+
+
+Table 21 provides a breakdown of occupations by type for the Borough’s employed civilian
+labor force. Almost three-quarters of the Borough’s employed civilian labor force was
+employed in management, professional, or related occupations while a little less than three
+percent of labor force was employed in product transportation and material moving
+occupations.
+
+
+                                   TABLE 21: OCCUPATIONS BY TYPE
+  Occupation                                                                          Number    Percent
+  Employed Civilian population 16 years and over                                       979       100%
+    Management, business, science and arts occupations                                 705       72.0%
+    Service occupations                                                                 58       5.9%
+    Sales and office occupations                                                       150       15.3%
+    Natural resources, construction and maintenance occupations                         40       4.1%
+    Production Transportation and material moving occupations                           26       2.7%
+  U.S. Census Bureau, American Community Survey 2023 5-Year Estimates (table DP03)
+
+
+
+As indicated in Table 22 below, it is projected that Monmouth County will add 24,100 jobs
+by 2032. The Ambulatory Health Care Services, Transportation and Warehousing, and
+
+                                                     16
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 23 of 74 Trans ID: LCV20251744267
+
+
+
+
+Management of Companies and Enterprises sectors are poised to experience the greatest
+increase in number of jobs over the course of the projection period.
+
+             TABLE 22: PROJECTED EMPLOYMENT, MONMOUTH COUNTY, 2032
+                                                          2032                    Annual
+                                       2022 Actual                    Numeric                 Percent
+ Industry Title                                         Projected                 Growth                Outlook
+                                       Employment                     Change                  Change
+                                                       Employment                  Rate
+ Mining                                    0               50           13.6         0.0       0.0%      Stable
+ Utilities                               16,250          16,900         650          4.1       4.0%     Growing
+ Construction                            1,300           1,400          100          6.9       7.8%     Growing
+ Manufacturing                           9,700           10,250         550          5.9       5.6%     Growing
+ Wholesale Trade                          8,900           9,200         300          3.5       3.3%     Growing
+ Retail Trade                            36,450          36,700         250          0.7       1.5%     Growing
+ Transportation and Warehousing           6,100           7,100        1,000        16.6       16.3%    Growing
+ Postal Service                          1,050           1,000          -50         -6.8       -4.7%    Declining
+ Information                             6,050           6,950          900         14.8       14.8%    Growing
+ Finance and Insurance                   10,950          11,050         100          0.9        0.9%    Growing
+ Real Estate and Rental and Leasing      4,150           4,300          150          4.0       3.6%     Growing
+ Professional, Scientific, and
+                                                                                                        Growing
+ Technical Services                      21,850          22,650         800          3.9       3.6%
+ Management of Companies and
+                                                                                                        Growing
+ Enterprises                             4,150           4,800          650         15.3       15.7%
+ Administrative and Support and
+ Waste Management and                                                                                   Growing
+ Remediation Services                    14,650          15,450         800          5.4       5.4%
+ Educational Services                    25,800          27,350        1,550         6.0       6.0%     Growing
+ Health Care and Social Assistance       51,200          57,750        6,550        12.7       12.7%    Growing
+ Ambulatory Health Care Services         24,450          29,550        5,100        20.8       20.9%    Growing
+ Hospitals                               11,250          11,600         350         3.2        3.1%     Growing
+ Nursing and Residential Care
+                                                                                                        Growing
+ Facilities                              8,150           8,400          250          3.0       3.1%
+ Social Assistance                       7,350           8,200          850         11.4        11.5    Growing
+ Arts, Entertainment, and Recreation     8,150           9,700         1,550        19.4       13.9%    Growing
+ Accommodation and Food Services         28,750          30,650        1,900         6.7       6.6%     Growing
+ Other Services (except
+                                                                                                        Growing
+ Government)                             14,150          15,450        1,300         9.1       9.2%
+ Government                              14,350          15,150         800          5.3       5.5%     Growing
+ Total Federal Government
+                                                                                                        Declining
+ Employment                              1,950           1,900           -50        -3.3       -2.5%
+ State Government, Excluding
+                                                                                                        Declining
+ Education and Hospitals                 1,300           1,200          -100        -7.3       -7.6%
+ Local Government, Excluding
+                                                                                                        Growing
+ Education and Hospitals                 11,100          12,050         950          8.3       8.6%
+ Federal Government, Excluding
+                                                                                                         Stable
+ Post Office                              900             900             0          0.8         0
+
+ Total Self Employed and Unpaid                                                                         Growing
+ Family Workers, All Jobs               18,700          19,950         1,250         6.5       6.6%
+ Total All Industries                   302,150         323,550        21,400        7.1       7.0%     Growing
+Source: 2022-2032 Industry Employment Projections, NJ Department of Labor and Workforce Development
+
+
+
+
+                                                  17
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 24 of 74 Trans ID: LCV20251744267
+
+
+
+
+Lands Most Appropriate for Affordable Housing
+An analysis was conducted to determine which areas of the Borough could accommodate
+developments that address affordable housing need. This analysis reviews the Borough’s
+existing zoning and planned zoning changes and outlines the Borough’s capacity to
+accommodate residential and non-residential growth projections. The following are
+included:
+   x   An analysis of the available existing and planned infrastructure;
+   x   The projected demand for types of uses permitted by zoning based on present and
+       anticipated future demographic characteristics of the Borough and anticipated land
+       use patterns; and
+   x   Factors, such as environmental conditions, that present constraints on
+       development.
+
+
+Infrastructure
+
+Water and Sewer
+The Borough of Spring Lake is located within public water and sewer service areas. Sewer
+service and public water are both provided and owned by the Borough of Spring Lake
+through Water and Sewer Utility of the Borough of Spring Lake. The water for public
+consumption is drawn from three wells from the Englishtown Aquifers as well as purchased
+surface water from the Manasquan Water treatment Plant.
+
+Anticipated Demand and Land Use Patterns
+
+Spring Lake Borough is predominantly residential, featuring single-family homes, public
+parks, and churches. Commercial activities are mainly concentrated in designated retail
+and general commercial zones. As a fully developed municipality with limited vacant land,
+Spring Lake anticipates addressing future population and employment changes through
+redevelopment opportunities as they arise. According to the North Jersey Transportation
+Planning Authority (NJTPA), Spring Lake's population is expected to remain relatively stable
+in the coming decades, with a slow increase in population. Projections for 2050 estimated
+a population of approximately 3,066 persons.
+
+Residential
+Currently, the Borough is predominantly zoned for Single Family housing in zones R-1, R-2,
+R-3, and CS-SC , which consist of a majority of the land area within the Borough. There are
+currently no Zoning Districts designated for higher-density residential districts. Spring Lake,
+however, has opportunities to allow and encourage a variety of development types in its
+northern portion of Warren Avenue, permitting detached dwellings in the GC General
+
+                                           18
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 25 of 74 Trans ID: LCV20251744267
+
+
+
+
+Commercial District only.
+
+Non-Residential
+Spring Lake Borough features well-defined commercial areas, primarily along Third Avenue
+and portions of Morris Avenue, designated as Retail Commercial (RC) and General
+Commercial (GC) zones. Buildings in these districts are typically two stories,
+accommodating multiple tenant spaces per lot. These areas host a variety of
+establishments, including restaurants, salons, offices, and retail shops, contributing to a
+vibrant downtown atmosphere. Given the Borough's fully developed nature, new
+commercial development is expected to occur through redevelopment or adaptive reuse of
+existing sites.
+
+Environmental Constraints
+
+Spring Lake enjoys many natural environmental amenities, including the Atlantic Ocean
+coastline to the east, Lake Como to the north, Black Creek to the southwest, Spring Lake in
+the center of the Brough, and Wreck Pond to the south. These features not only enhance the
+Borough’s natural features but aid local ecosystems. Along this stretch of fully developed
+coastal zone there are limited pervious surfaces. Impervious surface contributes to
+negative environmental outcomes, particularly in coastal communities, by creating high
+velocity runoff and limiting groundwater recharge during storm events. Given these
+realities, Spring Lake must conserve natural features such as dunes and wetlands that can
+absorb excess stormwater and help filter polluted runoff.
+
+Historic
+
+There are several properties within Spring Lake are listed on the State Register of Historic
+Places:
+   x Audenried Cottage (Normandy Inn),
+   x Frederick A. Duggan Memorial First Aid and Emergency Squad Building (Spring Lake
+       First Aid & Emergency Squad Building,
+   x Holy Trinity Episcopal Church,
+   x Martin Maloney Cottage,
+   x 2 Passaic Avenue,
+   x Saint Andrew’s Methodist Episcopal Church,
+   x Saint Catherine’s Church,
+   x 2 Warren Avenue,
+   x Western World Shipwreck,
+   x New York and Long Branch Railroad Historic District, and
+   x Spring Lake, New Jersey, as a Coastal Resort MPDF.
+
+While select properties are targeted for preservation, historic status is not generally a major
+source of development constraint in Spring Lake.
+
+                                           19
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 26 of 74 Trans ID: LCV20251744267
+
+
+
+
+Existing Land Use Designations
+
+The Borough’s land use designations have been continually examined and updated through
+the Master Plan Reexamination process. The last Reexamination Report was adopted in
+June 2020.
+
+The following districts comprise the Borough’s residential zones:
+
+Single-Family Residential Zones: R-1, R-2, and R-3
+
+The Borough has established three residential zones, which have the same principal,
+accessory, and conditional uses. The principal permitted uses are one detached dwelling
+unit per lot; public playground, conservation area, park and/or public purpose use; church;
+public and private day school or elementary and/or high school grade not operated for
+profit; and community residences as provided in N.J.S.A. 40:55D-66.1 and N.J.S.A. 40:55D-
+66.2 and community residences for the developmentally disabled, community shelters for
+victims of domestic violence, community residences for the terminally ill, community
+residences for persons with head injuries, adult family care homes for elderly persons and
+physically disabled adults and all other entities which may, in the future, be included under
+the provisions of N.J.S.A. 40:55D-66.1 and N.J.S.A. 40:55D-66.2. The differentiation
+between the three residential zones is with respect to their locations within the Borough and
+the bulk requirements relating to lot size of each.
+
+The R-1 Zone District occupies approximately half of the Borough, located throughout the
+northeastern portion of the Borough, bordering the Atlantic Ocean, Lake Como, and
+containing most of Spring Lake. This Zone District extends to the northwestern border of the
+Borough, northwest of South Blvd and Third Avenue.
+
+The R-2 Zone District that occupies the southern and western portions of the Borough. This
+Zone is located South of Atlantic Avenue to the southern border with Sea Girt, and west of
+Fourth Avenue to St Clair, where the boundary extends to Third Avenue to South Blvd.
+
+The R-3 Zone District is located in two small pockets in the southeastern portion of Spring
+Lake, along Ocean Avenue.
+
+Common Services Residence Senior Citizen District: CS-SC
+The Borough has established a Senior Citizen Residential District. The principle permitted
+uses in this Zone District includes a luxury senior citizen common services residence at a
+maximum gross density of 55 units per acre, provided that the total number of dwelling units
+shall not exceed 168 units. This Zone District consists of the Essex and Sussex
+Condominium located on Ocean Avenue between Essex and Sussex Avenues. This district
+also permits single-family detached houses in accordance with the standards of the R-3
+District.
+
+
+                                          20
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 27 of 74 Trans ID: LCV20251744267
+
+
+
+
+In addition to its residential zones, Spring Lake has established the following non-
+residential zones where the main purpose is to accommodate non-residential uses.
+Residential dwelling units are permitted by right as a principal use in the GC General
+Commercial Zone District:
+
+Commercial Zones: RC and GC
+
+The Borough has established two commercial zones, which have the same principal,
+accessory, and conditional uses. The principle permitted uses include: local retail activities
+including grocery stores, meat markets, seafood markets, delicatessens, package liquor
+stores, furniture stores, sporting goods shops, gift shops, hobby shops, book stores,
+clothing stores, shoe stores, hardware stores, stationery stores, fabric stores, florists and
+similar retail uses; local service activities including barber and beauty shops, tailors, dry-
+cleaning and laundering operations, appliance repair shops, shoe repair shops,
+upholsterers and similar service activities; restaurants; banks; professional offices and
+business offices, office buildings and office storage facilities, except on a street level of
+properties, or any part thereof, located on Third Avenue; Theaters; Automobile sales
+through franchised new car dealers in the GC District only; Wholesale distribution centers
+and warehouses in the GC District only; and Detached dwellings in the GC District only, in
+accordance with the provisions specified for the R-2 District.
+
+The differentiation between the two commercial zones is with respect to their locations
+within the Borough.
+
+The RC zone is located in the center of the Borough, bordering the R-1 and the R-2 zones.
+
+The G-C zone is located on the very western portion of the Borough bordering the railroad
+and the Borough of Spring Lake Heights.
+
+
+
+
+                                          21
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 28 of 74 Trans ID: LCV20251744267
+
+
+
+
+FAIR SHARE PLAN
+
+Fair Share Obligation Summary
+The Fourth Round (2025-2035) housing obligation is based upon the figures calculated in the
+NJ Department of Community Affairs Affordable Housing Obligations for the 2025-2035
+(Fourth Round) Methodology. The Borough’s housing obligation is outlined in Table 23,
+below:
+
+                      TABLE 23: FAIR SHARE OBLIGATION SUMMARY
+                                                                    Number of Credits
+          Obligation Component
+                                                                       Required
+          Present Need                                                    10
+          Prior Round Obligation (1987-1999)                             132
+          Third Round “Gap” and Prospective Need (1999-2025)             261
+          Fourth Round Prospective Need (2025-2035)                       68
+
+
+The following sections outline how the Borough will comply with its Fair Share Obligation.
+
+
+Lack of Developable Vacant Land
+From the outset of the Mount Laurel affordable housing program, Spring Lake Borough has
+continually had to contend with the reality that it is a built-out municipality with virtually no
+available developable vacant land upon which to construct new affordable housing units.
+Given the Borough’s lack of sufficient vacant and developable land, the Borough’s ability to
+satisfy its Court-determined affordable housing obligation is limited. To demonstrate its
+continued lack of vacant developable land, the Borough has prepared an updated Vacant
+Land Adjustment analysis in accordance with N.J.A.C. 5:93:4.2, submitted as part of this
+plan as Appendix A. The Borough continues to exhibit a lack of vacant developable land,
+with redevelopment over time presenting itself as the principal vehicle for accomplishing
+projects with affordable housing. The prepared VLA illustrates a lack of vacant land and a
+Realistic Development Potential (RDP) of 3 affordable units and is included herein as
+Appendix A.
+
+
+Satisfaction of the Borough’s Rehabilitation/Present Need Obligation
+The Borough of Spring Lake will participate in Monmouth County Housing Improvement
+Program, which is administered by the Monmouth County Community Development Block
+Grant (CDBG) program through an intergovernmental agreement between the Borough and
+the County. The Borough will fund the program until such time as the funds become
+available in the Affordable Housing Trust Fund. The Borough anticipates completing one (1)
+rehabilitation per year to satisfy its obligation.
+
+                                            22
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 29 of 74 Trans ID: LCV20251744267
+
+
+
+
+Satisfaction of the Borough’s Realistic Development Potential
+
+The Borough’s RDP is three (3) units. The Borough proposes to address this RDP through the
+creation of affordable housing units in the municipally owned building previously occupied
+by Wells Fargo, at the southwest corner of Third Avenue and Morris Avenue. The first floor
+of this mixed-use redevelopment will consist of a restaurant and the second floor will be
+occupied by three (3) affordable apartments to be built and managed by the Affordable
+Housing Alliance.
+
+Prior Round Compliance
+
+Spring Lake took a vacant land adjustment and was found to have RDP of zero (0) units and
+an unmet need of 132 units for the 1987 to 1999 obligation. To address the unmet need,
+Spring Lake entered into a Regional Contribution Agreement (RCA) with the City of Asbury
+Park for 14 units. Spring Lake agreed to send $25,000 per unit to Asbury Park for a total of
+$350,000. The Borough also adopted a development fee ordinance to help address their
+unmet need.
+
+Third Round Compliance
+
+Spring Lake took a vacant land adjustment to address their third round obligation and was
+found to have an RDP of three (3) units. This obligation was addressed through the
+construction of a four-unit, 100% affordable, non-age restricted, family rental project
+located on Warren Avenue at Block 62, Lot 11.01.
+
+
+
+Satisfaction of the Borough’s Unmet Need
+
+The Borough’s unmet need is 68 units based on the Fourth Round Obligation (2025-2035).
+The Borough proposes to implement the following mechanisms to address its unmet need:
+
+Mandatory Set-Aside Ordinance (“MSO”)
+The Borough established a Borough-wide Mandatory Set-Aside Ordinance (“MSO”) in April
+of 2019. The MSO requires a 20 percent (20%) affordable housing set-aside for residential
+developments comprised of five or more dwelling units. The Borough will revise the
+ordinance as necessary. The existing ordinance is included herein as Appendix C.
+
+
+Mixed Use Affordable Housing Overlay Zone (“MU-AH”)
+Spring Lake established a Mixed-Use Affordable Housing Overlay Zone in February 2019
+permitting mixed use buildings as a conditional use, provided that a mixed use building shall
+be a building with a ground floor story consisting of a non-residential principal use or uses
+
+                                          23
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 30 of 74 Trans ID: LCV20251744267
+
+
+
+
+otherwise permitted in the underlying zone and a minimum of one, but no more than two
+stories, of residential use over the first-floor non-residential use(s).
+
+Mixed-use buildings in the MUAHOZ zone shall meet the following standards:
+   1. A minimum of 20% of the dwelling units in a mixed-use building shall be very-low,
+      low, and /or moderate-income units and no mixed-use building shall have less than
+      one very-low, low, or moderate-income unit.
+   2. On-site/off-street parking shall be provided in conformance with the requirements
+      of the New Jersey Residential Site Improvement Standards for all residential units in
+      the mixed-use building.
+   3. The maximum height of the mixed-use building shall be 35 feet.
+The ordinance can be found in Appendix D.
+
+Affordable Housing/Development Fee Ordinance
+The Borough adopted a development fee ordinance, last updated in 2019, for all new non-
+residential development and new non-inclusionary residential development. The
+ordinance also requires residential development fees be collected for all residential
+expansions that increase density pursuant to N.J.S.A. 40:55D-70d(5). The ordinance can be
+found in Appendix C.
+
+
+
+
+                                         24
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 31 of 74 Trans ID: LCV20251744267
+
+
+
+
+                          Appendices
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 32 of 74 Trans ID: LCV20251744267
+
+
+
+
+               Appendix A. Vacant Land Adjustment
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 33 of 74 Trans ID: LCV20251744267
+
+
+
+
+          Vacant Land Inventory
+           and Analysis Report
+
+                    Prepared for:
+                Borough of Spring Lake
+             Monmouth County, New Jersey
+
+
+
+
+                             June 2025
+                               Prepared By:
+
+
+
+
+                            788 Wayside Road
+                        Neptune, New Jersey 07753
+                             (732) 922-9229
+
+
+
+
+                           Christine Bell, PP, AICP
+                             License No. 06289
+      MON-L-000264-25 06/12/2025 2:55:53 PM Pg 34 of 74 Trans ID: LCV20251744267
+
+
+
+
+I.    INTRODUCTION
+
+As noted in N.J.A.C. 5:93, “there may be instances where a municipality can exhaust an entire
+resource (land, water or sewer) and still not be able to provide a realistic opportunity for
+addressing the need for low and moderate income housing.” In recognition of the need to provide
+for the opportunity to adjust municipal affordable housing obligations, N.J.A.C. 5:93 outlines
+standards and procedures for municipalities to demonstrate that a municipal response to its
+housing obligation is limited by lack of land, water or sewer. This report outlines the vacant land
+analysis methodology and summarizes the results of the vacant land analysis prepared on behalf
+of the Borough of Spring Lake by Leon S. Avakian Inc (Avakian).
+
+
+Previous Housing Rounds and Vacant Land Analyses
+
+The Borough of Spring Lake is a fully developed shore community located in southern Monmouth
+County. Spring Lake has participated in all prior Fair Share Housing Rounds.
+
+Current Housing Round and Vacant Land Assessment
+
+Given the Borough’s relative lack of vacant and developable land, the Borough’s ability to satisfy
+its Court-determined affordable housing obligation is limited. To demonstrate its continued lack of
+vacant developable land, the Borough has prepared an updated Vacant Land Adjustment analysis
+in accordance with N.J.A.C. 5:93:4.2, which includes the following components:
+
+      x   An inventory of all vacant parcels in accordance with N.J.A.C. 5:93-4.2(b), included as
+          Attachment A.
+
+      x   A Vacant Land Map depicting vacant properties within the Borough, included as
+          Attachment B.
+
+      x   An existing land use map for the Borough in accordance with N.J.A.C. 5:93-4.2(a),
+          included as Attachment C.
+
+The realistic development potential (RDP) of the Borough’s vacant land was analyzed in
+accordance with the provisions of Subchapter 4 of N.J.A.C. 5:93 based on the most recently
+available data. After following the procedures as outlined, the analysis shows that the Borough
+has one (1) suitable site available for development, and consequently, has an RDP new
+construction obligation of three (3) affordable units.
+
+II.   PERMITTED EXCLUSIONS
+
+N.J.A.C. 5:93 establishes criteria by which sites, or portions thereof, in a municipal land inventory
+may be excluded from a municipality’s RDP. Environmentally sensitive areas, including flood
+hazard areas, areas within Environmentally Sensitive Planning Areas according to the State Plan
+Policy Map, areas outside of the Sanitary Sewer Service Area (SSA), wetlands, and areas
+characterized by steep slopes of greater than 15 percent that render a site unsuitable for
+affordable housing may be excluded from consideration. In addition, small, isolated lots lacking
+sufficient acreage to generate an affordable housing set-aside as part of an inclusionary
+
+
+Vacant Land Inventory and Analysis Report
+Borough of Spring Lake                                                                     1
+    MON-L-000264-25 06/12/2025 2:55:53 PM Pg 35 of 74 Trans ID: LCV20251744267
+
+
+
+
+development may also be excluded. Vacant lots under development or properties for which site
+plan approval has been granted may also be excluded. Finally, landlocked parcels or sites with
+limited or no access may also be excluded from the calculation of the Borough’s RDP.
+
+The vacant land inventory table in Attachment A provides a parcel-by-parcel description of
+exclusions that have been made pursuant to N.J.A.C. 5:93.
+
+It should be noted that the Borough is permitted to reserve up to three percent of its total
+developed and developable acreage, less existing active municipal recreation areas, for active
+municipal recreation and exclude this acreage from consideration as potential sites for low and
+moderate income housing pursuant to N.J.A.C. 5:93-4.2(e)4. Any such site designated for active
+recreation in accordance with this section must be purchased and limited to active recreational
+purposes within one year of substantive certification. Although this calculation has not been
+completed as part of this analysis, the Borough reserves the right to revise this analysis to
+complete this calculation.
+
+
+III. Summary and Conclusion
+
+Based on the procedures for municipal adjustments provided in N.J.A.C. 5:93, the Borough of
+Spring Lake’s RDP has been determined to be three (3) affordable units. This finding is consistent
+with the Borough’s current development conditions.
+
+
+
+
+Vacant Land Inventory and Analysis Report
+Borough of Spring Lake                                                                   2
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 36 of 74 Trans ID: LCV20251744267
+
+
+
+
+  ATTACHMENT A: VACANT LAND INVENTORY
+                 TABLE
+
+
+
+
+Vacant Land Inventory and Analysis Report
+Borough of Spring Lake                                                   3
+                          MON-L-000264-25 06/12/2025 2:55:53 PM Pg 37 of 74 Trans ID: LCV20251744267
+
+
+
+
+                                                                                                                 Borough of Spring Lake
+                                                                                                                Vacant Land Adjustment
+                                                                                                                       June 2025
+
+
+                                                                                                            Constrained Unconstrained     Developable                                                                                         Total   Affordable
+   Block      Lot       Class              Location                        Owner Name             Area         Acres        Acres            Acres                                           Reason for Exclusion                             Units      Units
+1          2        15C         FIRST AVE               SPRING LAKE BORO                             0.76           0.76           0.00            0.00 Waterbody, On SFHA, On wetlands, Developable acreage less than 0.8                       0.00        0.00
+2          1        15C         OCEAN & BROWN AVE       SPRING LAKE BORO                             2.40           2.40           0.00            0.00 On SFHA, On wetlands                                                                     0.00        0.00
+3          1        15C         FIRST & BROWN AVE       SPRING LAKE BORO                             0.69           0.69           0.00            0.00 On SFHA, Developable acreage less than 0.8                                               0.00        0.00
+4          1        15C         OCEAN ROAD              SPRING LAKE BORO                           43.26           43.26           0.00            0.00 Waterbody, On ROSI, On SFHA                                                              0.00        0.00
+7          13       1           119 YORK AVE            DOBROWSKI, THOMAS E & CAROL A                0.17           0.17           0.00            0.00 On SFHA, Developable acreage less than 0.8                                               0.00        0.00
+11         10       1           419 OCEAN ROAD          LAIBLE, DAVID S & CAROLE                     0.20           0.00           0.20            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+12         1        15C         301 SECOND AVE          SPRING LAKE BORO                             0.51           0.51           0.00            0.00 On ROSI, On SFHA, Developable acreage less than 0.8                                      0.00        0.00
+13         11       15C         400 OCEAN ROAD          SPRING LAKE BORO                             0.04           0.04           0.00            0.00 On SFHA, Developable acreage less than 0.8                                               0.00        0.00
+14         1        15C         301 FOURTH AVE          SPRING LAKE BORO                             0.43           0.43           0.00            0.00 Waterbody, On ROSI, On SFHA, Developable acreage less than 0.8                           0.00        0.00
+18         17.01    1           10 UNION AVE            FINNEY, ELAINE                               0.17           0.17           0.00            0.00 On SFHA, Developable acreage less than 0.8                                               0.00        0.00
+19         13       1           FIRST AVE               NAPOLIELLO VINCENT & MAUREEN                 0.34           0.34           0.00            0.00 On SFHA, Developable acreage less than 0.8                                               0.00        0.00
+23         15       15C         PENNSYLVANIA AVE        SPRING LAKE BORO                             0.34           0.34           0.00            0.00 On SFHA, Developable acreage less than 0.8                                               0.00        0.00
+24         1        15C         303 FOURTH AVE          SPRING LAKE BORO                             7.30           7.30           0.00            0.00 Waterbody, On SFHA                                                                       0.00        0.00
+26         1        15C         501 FIFTH AVE           SPRING LAKE BORO                             5.31           5.31           0.00            0.00 On SFHA, Municipal DPW yard                                                              0.00        0.00
+29         1.02     1           SECOND AVE              CONNORS, BRIAN & LAURA                       0.39           0.39           0.00            0.00 On SFHA, Developable acreage less than 0.8                                               0.00        0.00
+34         16       1           208 ATLANTIC AVE        PATEL, FALGUNI                               0.40           0.00           0.40            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+40         17       15F         200 MONMOUTH AVE        HEWIT WELLINGTON CONDO ASSOCIATION           0.39           0.00           0.39            0.00 Hotel common area/parking lot, Developable acreage less than 0.8                         0.00        0.00
+41         1        15C         MONMOUTH & SECOND AVE   SPRING LAKE BORO                             0.08           0.08           0.00            0.00 On ROSI, Developable acreage less than 0.8                                               0.00        0.00
+42         1        15C         FIRST & ESSEX AVE       SPRING LAKE BORO                             0.16           0.16           0.00            0.00 On ROSI, On SFHA, Developable acreage less than 0.8                                      0.00        0.00
+43         1        15F         700 OCEAN AVE           ESSEX & SUSSEX CONDO ASSOCIATION             1.96           1.96           0.00            0.00 On SFHA, Condo common area/parking lot                                                   0.00        0.00
+49         8        15C         515 MERCER AVE          SPRING LAKE BORO                             0.62           0.00           0.62            0.00 Municipal parking lot, Developable acreage less than 0.8                                 0.00        0.00
+52         1        15C         LAKE & PARK AVE         SPRING LAKE BORO                           25.85           25.85           0.00            0.00 Waterbody, On ROSI, On SFHA, On wetlands                                                 0.00        0.00
+53         1        15C         MERCER & SECOND AVE     SPRING LAKE BORO                             0.27           0.27           0.00            0.00 On ROSI, On SFHA, Developable acreage less than 0.8                                      0.00        0.00
+60         9        15C         FIFTH & WARREN AVE      SPRING LAKE BORO                             0.52           0.00           0.52            0.00 Municipal building, Developable acreage less than 0.8                                    0.00        0.00
+61         1        15C         FIFTH AVE & R R         SPRING LAKE BORO                             3.20           3.20           0.00            0.00 On ROSI, Municipal parking lot                                                           0.00        0.00
+62         1        15F         1007 FIFTH AVE          SPRING LAKE BORO                             0.23           0.00           0.23            0.00 Municipal firehouse, Developable acreage less than 0.8                                   0.00        0.00
+62         11.01    15C         520 WARREN AVE          SPRING LAKE BORO                             0.22           0.00           0.22            0.00 Municipal building, Developable acreage less than 0.8                                    0.00        0.00
+65         7.01     1           7 PASSAIC AVE           FLEMING, THOMAS A & BARBARA                  0.34           0.00           0.34            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+68         7.01     15F         215 MORRIS AVE          215 MORRIS AVENUE CONDOMINIUM                0.18           0.00           0.18            0.00 Condo parking lot, Developable acreage less than 0.8                                     0.00        0.00
+69         3        15C         THIRD & MORRIS AVE      SPRING LAKE BORO                             0.22           0.00           0.22            0.00 Municipally owned mixed use building. Designated as affordable housing site              0.00        3.00
+80         16       1           210 JERSEY AVE          GIBLIN, MICHAEL & PATRICIA                   0.17           0.00           0.17            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+80         11       1           1306 THIRD AVE          1308 ASSOCS,LLC %J JOHNSON PMK GRP           0.09           0.00           0.09            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+81         4        15C         307 WASHINGTON AVE      SPRING LAKE BORO                             0.69           0.00           0.69            0.00 Municipal police department, Developable acreage less than 0.8                           0.00        0.00
+81         20       15F         1307 THIRD AVE          JPC HOLDINGS, LLC                            0.17           0.00           0.17            0.00 Condo parking lot, Developable acreage less than 0.8                                     0.00        0.00
+88         1.04     1           WASHINGTON AVE          GREEN GABLES TRUSTC/O A ESTABROOK            0.43           0.00           0.43            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+88         1.03     1           MADISON AVE             1403 OCEAN AVE LLC% A VINCIGUERRA            0.43           0.00           0.43            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+92         1        15C         300 MADISON AVE         SPRING LAKE COMMUNITY HOUSE AND THEATRE      0.76           0.00           0.76            0.00 Municipal library, Developable acreage less than 0.8                                     0.00        0.00
+93         1        15C         BRIGHTON & SECOND AVE   SPRING LAKE BORO                             0.04           0.04           0.00            0.00 On ROSI, Developable acreage less than 0.8                                               0.00        0.00
+95         8        1           1615 OCEAN AVE          DB 57 LLC / R MOORE                          0.17           0.17           0.00            0.00 On SFHA, Developable acreage less than 0.8                                               0.00        0.00
+95         9        1           1617 OCEAN AVE          DB 57 LLC / R MOORE                          0.22           0.22           0.00            0.00 On SFHA, Developable acreage less than 0.8                                               0.00        0.00
+103        1        15A         400 TUTTLE AVE          H W MOUNTZ PUBLIC SCHOOL                     3.44           0.00           3.44            0.00 Municipal elementary school                                                              0.00        0.00
+109        4        1           1907 ADRIAN PLACE       ADRIAN AVENUE, LLC                           0.28           0.00           0.28            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+129        1        15C         PITNEY & CHURCH AVE     SPRING LAKE BORO                             1.83           1.83           0.00            0.00 On ROSI                                                                                  0.00        0.00
+129.01     1        15C         FIFTH & CHURCH AVE      SPRING LAKE BORO                             0.04           0.00           0.04            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+130        1        15C         FOURTH & CHURCH ST      SPRING LAKE BORO                             0.14           0.14           0.00            0.00 On ROSI, Developable acreage less than 0.8                                               0.00        0.00
+142        1        15C         OCEAN & REMSEN AVE      SPRING LAKE BORO                             1.03           1.03           0.00            0.00 On ROSI, On SFHA                                                                         0.00        0.00
+143        1        15C         REMSEN & PROSPECT AVE   SPRING LAKE BORO                             0.25           0.25           0.00            0.00 On ROSI, Developable acreage less than 0.8                                               0.00        0.00
+144        21       1           8 PITNEY AVE            HARZ, MARY E                                 0.23           0.00           0.23            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+146        4        1           209 HOWELL AVE          DORIS SPILATRO FAMILY TRUST                  0.15           0.00           0.15            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+150        1        15C         PITNEY & FIFTH AVE      SPRING LAKE BORO                             0.58           0.00           0.58            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+150.01     1        15C         PITNEY & FOURTH AVE     SPRING LAKE BORO                             0.31           0.00           0.31            0.00 Developable acreage less than 0.8                                                        0.00        0.00
+151        1        15C         R R & THIRD AVE         SPRING LAKE BORO                           23.18           23.18           0.00            0.00 On ROSI, On SFHA, On wetlands                                                            0.00        0.00
+153        1        15C         THIRD & MONROE AVE      SPRING LAKE BORO                             0.65           0.65           0.00            0.00 On ROSI, On SFHA, On wetlands, Developable acreage less than 0.8                         0.00        0.00
+                                                                                                                                                                                                                                      Total      0.00        3.00
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 38 of 74 Trans ID: LCV20251744267
+
+
+
+
+     ATTACHMENT B: VACANT LAND MAPPING
+
+
+
+
+Vacant Land Inventory and Analysis Report
+Borough of Spring Lake                                                   5
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 39 of 74 Trans ID: LCV20251744267
+   MON-L-000264-25 06/12/2025 2:55:53 PM Pg 40 of 74 Trans ID: LCV20251744267
+
+
+
+
+    ATTACHMENT C: EXISTING LAND USE MAP
+
+
+
+
+Vacant Land Inventory and Analysis Report
+Borough of Spring Lake                                                   7
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 41 of 74 Trans ID: LCV20251744267
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 42 of 74 Trans ID: LCV20251744267
+
+
+
+
+                    Appendix B. Spending Plan
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 43 of 74 Trans ID: LCV20251744267
+
+
+
+
+                Affordable Housing Trust Fund Spending Plan
+
+                         Spring Lake Borough
+                      Monmouth County, New Jersey
+
+                              September 20, 2024
+
+
+
+                                  Prepared by:
+                          Spring Lake Borough Council
+                              423 Warren Avenue
+                             Spring Lake, NJ 08527
+
+                                 Prepared by:
+                              Leon S. Avakian, Inc.
+
+
+
+                           ______________________
+                           Jennifer Beahm, P.P., AICP
+                         New Jersey Professional Planner
+                                License No. 5625
+                 MON-L-000264-25 06/12/2025 2:55:53 PM Pg 44 of 74 Trans ID: LCV20251744267
+
+
+
+
+Affordable Housing Trust Fund Spending Plan
+Spring Lake Borough, Monmouth County, New Jersey
+September 17, 2024
+
+                                                                                                 Table of Contents
+1 — Introduction ...........................................................................................................................................................................................................................1
+
+2 — Revenues for Certification Period .................................................................................................................................................................................1
+
+3 — Revenue Schedule ...............................................................................................................................................................................................................3
+
+4 — Administrative Mechanism to Collect and Distribute Development Fee Revenues ..................................................................................4
+
+5 — Description of Anticipated Use of Affordable Housing Funds............................................................................................................................4
+
+    5.1 — Rehabilitation and New Construction Programs and Projects (N.J.A.C. 5:97-8.7): .......................................................................... 4
+
+    5.2 — Affordability Assistance (N.J.A.C. 5:97-8.8) ...................................................................................................................................................... 5
+
+    5.3 — Administrative Expenses (N.J.A.C. 5:97-8.9) ................................................................................................................................................... 7
+
+6 — Expenditure Schedule ........................................................................................................................................................................................................9
+
+7 — Excess or Shortfall of Funds ............................................................................................................................................................................................9
+
+8 — Barrier Free Escrow ........................................................................................................................................................................................................ 10
+
+9 — Summary .............................................................................................................................................................................................................................. 10
+         MON-L-000264-25 06/12/2025 2:55:53 PM Pg 45 of 74 Trans ID: LCV20251744267
+
+
+
+
+Affordable Housing Trust Fund Spending Plan
+Spring Lake Borough, Monmouth County, New Jersey
+September 17, 2024
+
+
+
+1 — Introduction
+Spring Lake Borough, Monmouth County, has prepared a housing element and fair share plan in accordance with the Municipal
+Land Use Law (N.J.S.A. 40:55D-1 et seq.), the Fair Housing Act (N.J.S.A. 52:27D-301) and the affordable housing regulations of
+the New Jersey Department of Community Affairs (NJDCA; N.J.A.C. 5:97-1 et seq. and N.J.A.C. 5:96-1 et seq.). A development fee
+ordinance creating a dedicated revenue source for affordable housing was originally adopted by the municipality on December
+7, 1998 and subsequently amended on April 18, 2005 and November 10, 2009 (n.b., COAH approved the most recent
+amendment of the development fee ordinance on October 15, 2009). The development fee ordinance establishes the
+affordable housing trust fund for which this spending plan is prepared.
+
+
+
+2 — Revenues for Certification Period
+As of December 31, 2017 Spring Lake Borough had a balance of $1,839,930 in its affordable housing trust fund. The affordable
+housing trust fund, into which all development fees, payments in lieu of constructing affordable units on site, funds from the
+sale of units with extinguished controls, and interest generated by the fees are deposited, is a separate, interest-bearing
+account of the municipality in Ocean First Bank that is used exclusively for the purposes of affordable housing. These monies
+in the affordable housing trust fund shall be spent in accordance with N.J.A.C. 5:97-8.7 through N.J.A.C. 5:97-8.9, as described in
+the sections that follow.
+
+
+
+
+                                                                                                                              Page 1
+         MON-L-000264-25 06/12/2025 2:55:53 PM Pg 46 of 74 Trans ID: LCV20251744267
+
+
+
+
+Affordable Housing Trust Fund Spending Plan
+Spring Lake Borough, Monmouth County, New Jersey
+September 17, 2024
+
+To prepare a projection of revenue anticipated during the third round period, Spring Lake Borough considered the following:
+
+1) Development Fees:
+   a) Residential and nonresidential projects which have had development fees imposed upon them at the time of
+      preliminary or final development approvals;
+   b) All projects currently before the planning and zoning boards for development approvals that may apply for building
+      permits and certificates of occupancy; and,
+   c) Future development that is likely to occur based on historical rates of development.
+2) Payments-in-Lieu-of-Construction:
+   a) No payments-in-lieu-of-construction are anticipated in the period from 2018 through 2025.
+3) Projected Interest:
+   a) Interest on the projected revenue in the municipal affordable housing trust fund at the current average interest rate.
+
+
+
+
+                                                                                                                        Page 2
+               MON-L-000264-25 06/12/2025 2:55:53 PM Pg 47 of 74 Trans ID: LCV20251744267
+
+
+
+
+  Affordable Housing Trust Fund Spending Plan
+  Spring Lake Borough, Monmouth County, New Jersey
+  September 17, 2024
+
+  3 — Revenue Schedule
+  The projection of revenues is detailed below: Beginning Balance as of December 31, 2017: $1,839,930
+
+                                              Revenue Schedule (2018–2025)
+           Source          2018        2019           2020        2021        2022        2023        2024        2025          Total
+Development Fees —         $331,785     $327,625     $348,347     $278,800    $208,135    $295,726    $282,752           $0     $2,073,170
+Approved
+Development Fees —                $0          $0             $0          $0          $0          $0          $0          $0                $0
+Pending
+Development Fees —
+                                                                                                                                  $282,752
+Projected                                                                                                         $282,752
+Payments-in-Lieu-of-              $0          $0             $0          $0          $0          $0          $0          $0                $0
+Construction
+Other Funds —                     $0                         $0          $0          $0          $0          $0          $0
+
+Interest                     $2,842       $5,411        $2,125      $1,300      $6,467     $61,101     $56,140     $45,000        $180,386
+
+Subtotal                                                                                                                        $2,536,308
+
+Initial Balance 12/31/17                                                                                                        $1,839,930
+Total                       $334,627    $333,036      $350,472    $280,100    $214,602    $356,827    $338,892    $327,752    $4,376,238
+
+
+
+  3
+
+
+
+
+                                                                                                                               Page 3
+         MON-L-000264-25 06/12/2025 2:55:53 PM Pg 48 of 74 Trans ID: LCV20251744267
+
+
+
+
+Affordable Housing Trust Fund Spending Plan
+Spring Lake Borough, Monmouth County, New Jersey
+September 17, 2024
+
+4 — Administrative Mechanism to Collect and Distribute Development Fee Revenues
+Spring Lake Borough shall adhere to the following procedural sequence for the collection and distribution of development fee
+revenues:
+
+1) Collection of Development Fee Revenues:
+   a) Collection of development fee revenues shall be consistent with Spring Lake Borough’s development fee ordinance for
+       both residential and non-residential developments in accordance with the NJDCA’s rules, as well as P.L. 2008, c.46,
+       Section 8 (N.J.S.A. 52:27D-329.2) and Section 32 through Section 38 (N.J.S.A. 40:55D-8.1 through N.J.S.A. 40:55D-8.7).
+2) Distribution of Development Fee Revenues:
+   a) The Municipal Housing Liaison instructs the Chief Financial Officer to release the required amount of funding to the
+       recipient entity based on the type and nature of the affordable housing activity.
+
+
+
+5 — Description of Anticipated Use of Affordable Housing Funds
+Spring Lake Borough anticipates using affordable housing funds as described in the following subsections.
+
+5.1 — Rehabilitation and New Construction Programs and Projects (N.J.A.C. 5:97-8.7):
+Spring Lake Borough will dedicate monies from its affordable housing trust fund to the rehabilitation of existing housing and
+new construction programs as described in the following sections.
+
+
+
+
+                                                                                                                         Page 4
+         MON-L-000264-25 06/12/2025 2:55:53 PM Pg 49 of 74 Trans ID: LCV20251744267
+
+
+
+
+Affordable Housing Trust Fund Spending Plan
+Spring Lake Borough, Monmouth County, New Jersey
+September 17, 2024
+
+1) Rehabilitation Program:
+   a) A total of $510,000 will be allocated to the Borough’s rehabilitation program, which is described in the Borough’s
+       Housing Element and Fair Share Plan. This amount provides an average of $15,000 per unit to fulfill the Borough’s total
+       rehabilitation obligation of 34 units.
+2) New Construction Programs:
+   a) The Borough spent $1,500,000 to purchase a structure within the Borough for the creation of households for low- and
+       moderate-income households. This expenditure is reflected in the expenditure table showing the Borough paying
+       down the debt service. That expenditure has been approved by the Court.
+
+5.2 — Affordability Assistance (N.J.A.C. 5:97-8.8)
+As detailed below, Spring Lake Borough is required to expend a minimum of $774,392 from its affordable housing trust fund
+to render units more affordable.
+
+
+
+
+                                                                                                                           Page 5
+          MON-L-000264-25 06/12/2025 2:55:53 PM Pg 50 of 74 Trans ID: LCV20251744267
+
+
+
+
+Affordable Housing Trust Fund Spending Plan
+Spring Lake Borough, Monmouth County, New Jersey
+September 17, 2024
+
+
+
+
+                                                  Affordability Assistance Calculation
+ Actual Development Fees through 12/31/24                                                                       $2,073,170
+ Actual Interest Earned through 12/31/24                                                                   +     $180,386
+ Projected Development Fees from 01/01/25 through 12/31/25                                                 +     $282,752
+ Projected Interest from 01/01/25 through 12/31/25                                                         +      $45,000
+ Total                                                                                                     =    $2,581,308
+ 30 Percent of Total                                                                                  × 0.3 =    $774,392
+ Affordability Assistance Expenditures through 12/31/23                                                    –         $0.00
+ Projected Minimum Required Affordability Assistance Requirement from 01/01/24 through 12/31/25            =     $774,392
+
+
+
+1) Bond Service Payments — The Borough will allocate a total of $204,831 to cover bond service payments associated with
+   the Warren Avenue Apartments project according to the following schedule:
+   a) $102,341 in 2019 for 2018 and 2019 bond service payments;
+   b) $50,948 in 2020; and
+   c) $51,542 in 2021.
+
+
+
+
+                                                                                                                   Page 6
+          MON-L-000264-25 06/12/2025 2:55:53 PM Pg 51 of 74 Trans ID: LCV20251744267
+
+
+
+
+Affordable Housing Trust Fund Spending Plan
+Spring Lake Borough, Monmouth County, New Jersey
+September 17, 2024
+
+5.3 — Administrative Expenses (N.J.A.C. 5:97-8.9)
+As detailed below, Spring Lake Borough may spend a maximum of twenty percent (20%) from its affordable housing trust
+fund to fund the administration of its affordable housing program. As illustrated below that number is $516,262. However,
+since 1/1/18 the Borough has spent $78,801.
+
+                                                  Administrative Expenses Calculation
+ Actual Development Fees through 12/31/24                                                                            $2,073,170
+ Actual Interest Earned through 12/31/24                                                                     +         $180,386
+ Projected Development Fees from 01/01/25 through 12/31/25                                                   +         $282,752
+ Projected Interest from 01/01/25 through 12/31/25                                                           +          $45,000
+ Payments-in-Lieu-of-Construction and Other Deposits through 07/17/08                                        +                $
+ Total RCA Expenditures                                                                                      –                $
+ Total                                                                                                       =       $2,581,308
+ 20 Percent of Total                                                                                    × 0.2 =        $516,262
+ Administrative Expenses through 12/31/17 through 12/31/24                                                   –          $78,801
+ Projected Maximum for Administrative Expenses from 01/01/18 through 12/31/25                                =                $
+
+
+
+
+                                                                                                                     Page 7
+         MON-L-000264-25 06/12/2025 2:55:53 PM Pg 52 of 74 Trans ID: LCV20251744267
+
+
+
+
+Affordable Housing Trust Fund Spending Plan
+Spring Lake Borough, Monmouth County, New Jersey
+September 17, 2024
+
+Spring Lake Borough will allocate up to $115,507 from the affordable housing trust fund for administrative purposes.
+Projected administrative expenditures, subject to the 20-percent cap, are as follows:
+
+1) Administration of affordable housing programs.
+2) Payment of employee salaries and benefits.
+3) Payment of other miscellaneous administrative expenses and costs related to the preparation and implementation of the
+   Borough’s Housing Element and Fair Share Plan.
+
+The maximum that may be spent for administration is limited to 20 percent of affordable housing trust fund revenue in any
+given year, not 20 percent of the total projected revenue through 2025.
+
+Notwithstanding the above, the 20-percent maximum may be exceeded if: 1) less than 20 percent of historic revenues have
+been expended on administration; and, 2) the total administrative expenditure in a given year is not more than 20 percent of
+the annual revenue in same year, plus the difference between 20 percent of historic revenues and historic administrative
+expenditures.
+
+
+
+
+                                                                                                                       Page 8
+                 MON-L-000264-25 06/12/2025 2:55:53 PM Pg 53 of 74 Trans ID: LCV20251744267
+
+
+
+
+    Affordable Housing Trust Fund Spending Plan
+    Spring Lake Borough, Monmouth County, New Jersey
+    September 17, 2024
+
+    6 — Expenditure Schedule
+    The projected expenditures are detailed below:
+
+                                                    Expenditure Schedule (2018–2025)
+        Programs           Units     2018         2019          2020        2021       2022       2023        2024        2025            Total
+Rehabilitation Program      34              $0           $0             0          0          0           0          0    $510,000           510,000
+New Construction            0      $153,767        $102,342       $51,198     $4,848   $134,878    $238,174   $122,450    $119,700          $927,357
+Affordability Assistance   TBD                                                                                            $774,392          $774,392
+Administration              —         $35,584        $33,651       $1,129       $65      $5,285      $2,293     $2,500        $35,000       $115,507
+Total                      TBD      $189,351       $135,993      $52,327     $4,913    $140,163   $240,467    $124,950 $1,439,092       $2,327,256
+
+
+
+
+    7 — Excess or Shortfall of Funds
+    In the event of any expected or unexpected shortfall if the anticipated revenues are not sufficient to implement the plan, Spring
+    Lake Borough will address the shortfall through annual fee receipts or other available funding sources.
+
+    If more funds than anticipated are collected, projected funds exceed the amount necessary to implement the Fair Share Plan,
+    or Spring Lake Borough is reserving funds for affordable housing projects to meet a future affordable housing obligation, these
+    excess funds will be used to fund an eligible affordable housing activity pursuant to applicable rules and regulations.
+
+
+
+
+                                                                                                                                 Page 9
+         MON-L-000264-25 06/12/2025 2:55:53 PM Pg 54 of 74 Trans ID: LCV20251744267
+
+
+
+
+Affordable Housing Trust Fund Spending Plan
+Spring Lake Borough, Monmouth County, New Jersey
+September 17, 2024
+
+8 — Barrier Free Escrow
+Collection and distribution of barrier free funds shall be consistent with Spring Lake Borough’s affordable housing ordinance
+and in accordance with N.J.A.C. 5:97-8.5.
+
+
+
+9 — Summary
+Spring Lake Borough intends to spend affordable housing trust fund revenues pursuant to N.J.A.C. 5:97-8.7 through N.J.A.C.
+5:97-8.9, and consistent with the housing programs outlined in its Housing Element and Fair Share Plan.
+
+Spring Lake Borough had a balance of $1,839,930 in its affordable housing trust fund as of December 31, 2017, and it
+anticipates an additional $2,536,308 in revenue through 2025 for a total of $4,376,238. The municipality will dedicate
+$510,000 toward rehabilitation, $774,392 toward affordability assistance, and $115,507 toward administrative costs.
+
+
+
+
+                                                                                                                         Page 10
+          MON-L-000264-25 06/12/2025 2:55:53 PM Pg 55 of 74 Trans ID: LCV20251744267
+
+
+
+
+Affordable Housing Trust Fund Spending Plan
+Spring Lake Borough, Monmouth County, New Jersey
+September 17, 2024
+
+
+
+
+                                                            Spending Plan Summary
+ Balance as of 12/31/17                                                                                          $1,839,930
+ Projected Development Fees from 01/01/18 through 12/31/25                                              +        $2,355,922
+ Projected Payments-in-Lieu-of-Construction from 01/01/18 through 12/31/25                              +                $0
+ Projected Other Funds from 01/01/18 through 12/31/25                                                   +                $0
+ Projected Interest from 01/01/18 through 12/31/25                                                      +          $180,386
+ Total Revenue                                                                                          =        $4,376,238
+ Projected Rehabilitation Expenditures from the Affordable Housing Trust Fund                           –          $510,000
+ Projected New Construction Project Expenditures (Total for all Projects)                               –          $927,357
+ Projected Affordability Assistance Expenditures                                                        –          $774,392
+ Projected Administrative Expenses                                                                      –          $115,507
+ Total Projected Expenditures                                                                           =        $2,327,256
+ Remaining Balance                                                                                      =        $2,048,982
+
+
+
+The Borough would like to spend $1,350,000 to complete the construction of the three units on Third Avenue. This would
+leave a balance of $698,982 remaining in the Trust Fund.
+
+
+
+
+                                                                                                                   Page 11
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 56 of 74 Trans ID: LCV20251744267
+
+
+
+
+Appendix C. Existing Mandatory Set Aside, Affordable Housing, and
+                   Development Fee Ordinance
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 57 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                           K  
+
+                                                  (*!#,
+                                                ''/2%"#,&/53*.(
+                                        %%&% #92%/!
+
+     :  ''/2%"#,&/53*.(2/(2"-3
+     *85?B?E78C81<<EC5D856?<<?G9>7=5381>9C=CD?C1D9C6I9DC166?B412<58?EC9>7?2<971D9?>C
+       '5B35>D175?6$1>41D?BI)5DC945C6?B<<EDEB5(5C945>D91<5F5<?@=5>DC 
+             !6D85?B?E78@5B=9DCD853?>CDBE3D9?>?6=E<D9 61=9<IB5C945>D91<45F5<?@=5>DC D85
+                 ?B?E78C81<<B5AE9B5D81D1>1@@B?@B91D5@5B35>D175?6D85B5C945>D91<E>9DC25C5D1C945
+                 6?B<?G1>4=?45B1D5 9>3?=58?EC58?<4C *89CB5AE9B5=5>DC81<<1@@<I2579>>9>7G9D8
+                 D85 56653D9F5 41D5 ?6 D89C ?B49>1>35 D? 1>I =E<D9 61=9<I 45F5<?@=5>D  9>3<E49>7 D85
+                 B5C945>D91< @?BD9?> ?6 1 =9H54 EC5 45F5<?@=5>D  G8938 3?>C9CDC ?6 69F5 ?B =?B5 >5G
+                 B5C945>D91<E>9DC G85D85B@5B=9DD542I1J?>9>71=5>4=5>D 1F1B91>357B1>D542ID85
+                 ?B?E78C'<1>>9>7?B.?>9>7?1B4 ?B14?@D9?>?61(545F5<?@=5>D'<1>?B1=5>454
+                 (545F5<?@=5>D '<1> 9> 1B51C 9> >554 ?6 B545F5<?@=5>D ?B B58129<9D1D9?>  ?B
+                 9>3<EC9?>1BI@B?:53DC9>G8938D85<?G1>4=?45B1D5E>9DC1B5D?25?665B546?BC1<5 D85
+                 1@@B?@B91D5C5D 1C945@5B35>D175C81<<25 @5B35>D6?B@B?:53DC9>G8938D85<?G1>4
+                 =?45B1D5 9>3?=5E>9DC1B5D?25?665B546?BB5>D D851@@B?@B91D5C5D 1C945@5B35>D175
+                 C81<< 25  @5B35>D  *89C B5AE9B5=5>D 4?5C >?D 3B51D5 1>I 5>D9D<5=5>D 6?B 1 @B?@5BDI
+                 ?G>5B?B1@@<931>D6?B1J?>9>71=5>4=5>D F1B91>35 ?B14?@D9?>?61(545F5<?@=5>D
+                 '<1> ?B 1=5>454 (545F5<?@=5>D '<1> 9> 1B51C 9> >554 ?6 B545F5<?@=5>D ?B
+                 B58129<9D1D9?> ?B6?B1@@B?F1<?61>I@1BD93E<1B@B?@?C54@B?:53D 
+             *89C B5AE9B5=5>D 4?5C >?D 1@@<I D? B5C945>D91< 5H@1>C9?>C  1449D9?>C  B5>?F1D9?>C 
+                 B5@<135=5>D ?B1>I?D85BDI@5?6B5C945>D91<45F5<?@=5>DD81D4?5C>?DB5CE<D9>1>5D
+                 9>3B51C59>D85>E=25B?64G5<<9>7C?669F5?B=?B5 
+             EBD85B=?B5  D89C C53D9?> C81<< >?D 1@@<I D? 45F5<?@=5>DC 3?>D19>9>7 6?EB ?B <5CC
+                 4G5<<9>7 E>9DC  << CE249F9C9?> 1>4 C9D5 @<1> 1@@B?F1<C ?6 AE1<96I9>7 B5C945>D91<
+                 45F5<?@=5>DCC81<<253?>49D9?>54E@?>3?=@<91>35G9D8D85@B?F9C9?>C?6D89CC53D9?> 
+                 -85B5145F5<?@5B45=?<9C85C5H9CD9>74G5<<9>7E>9DC1>42E9<4C>5G4G5<<9>7E>9DC?>
+                 D85 C1=5 C9D5  D85 @B?F9C9?>C ?6 D89C C53D9?> C81<< 1@@<I ?><I 96 D85 >5D >E=25B ?6
+                 4G5<<9>7E>9DC9C69F5?B=?B5 
+             *85 12?F5 CD1>41B4C C81<< >?D 1@@<I 9> D85 $9H54 +C5 66?B412<5 ?EC9>7 &F5B<1I
+                 .?>5$+ &.  %%&% #92%/ !
+       '81C9>7 !>3<EC9?>1BI45F5<?@=5>DCC81<<25CE2:53DD?D856?<<?G9>7C3854E<5 5H35@DG85B5
+         1>1<D5B>1D5 @81C9>7C3854E<581C255>9>3?B@?B1D549>D?145F5<?@=5>D?BB545F5<?@=5>D
+         17B55=5>D
+
+
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 58 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                        K  
+
+
+                  *.*-5-&2$&.4"(&/'/7".%                "8*-5-&2$&.4"(&/'"2+&4"4&
+                  /%&2"4&.$/-&.*43/-0,&4&%                      .*43/-0,&4&%
+                                                                                  
+                                                                             +>9D
+                                                                                  
+                                                                                
+                                                                                  
+
+       B13D9?>1<+>9DC !6?B ?6D85D?D1<>E=25B?6E>9DC9>145F5<?@=5>DB5CE<DC9>1
+         6B13D9?>?B4539=1< D8545F5<?@5BC81<<25B5AE9B54D?@B?F9451>1449D9?>1<166?B412<5E>9D
+         ?>C9D5 
+            H1=@<5 1>  E>9D 45F5<?@=5>D B5AE9B9>7 1> 166?B412<5 8?EC9>7 C5D 1C945 ?6   E>9DC 9C
+            @B?@?C54  *85 45F5<?@5B 9C B5AE9B54 D? @B?F945 DG? ?> C9D5 166?B412<5 E>9DC  -&.%&%
+             #92%/ !
+       5C97>  !> 9>3<EC9?>1BI 45F5<?@=5>DC  D? D85 5HD5>D @?CC92<5  <?G  1>4 =?45B1D5 9>3?=5
+         E>9DCC81<<259>D57B1D54G9D8D85=1B;5DE>9DC 
+       &66 C9D5 3?>CDBE3D9?>  *85 CD1>41B4C 6?B 3?>CDBE3D9>7 166?B412<5 E>9DC ?66 C9D5  C81<< 25 9>
+         133?B41>35G9D8D85?B?E78CB53?==5>41D9?>C @B?F9454D81D1D<51CDD85C1=5>E=25B?6
+         166?B412<5 E>9DC 1B5 @B?F9454  >?D =?B5 D81>  1B5 175 B5CDB93D54  CD1>41B4 @81C9>7
+         B5AE9B5=5>DC25DG55>=1B;5DB1D51>4166?B412<55BD96931D5C?6&33E@1>3I1B51485B54D? 
+         1>4D85166?B412<5E>9DC@B?F94541B5?D85BG9C53?>C9CD5>DG9D8D85D5B=C?6D85)5DD<5=5>D
+         7B55=5>D  -&.%&% #92%/ !
+       +D9<9D95C 66?B412<5E>9DCC81<<ED9<9J5D85C1=5DI@5?6851D9>7C?EB351C=1B;5DE>9DCG9D89>
+         D85166?B412<545F5<?@=5>D 
+
+     :  &7''/2%"#,&/53*.(/.3425$4*/.
+     *856?<<?G9>775>5B1<7E945<9>5C1@@<ID?1<<>5G<I3?>CDBE3D5445F5<?@=5>DCD81D3?>D19><?G
+     1>4=?45B1D5 9>3?=58?EC9>7E>9DC 9>3<E49>71>I3EBB5>D<IE>1>D939@1D546EDEB545F5<?@=5>DC
+     D81DG9<<@B?F945<?G 1>4=?45B1D5 9>3?=58?EC9>7E>9DC 
+       #?G $?45B1D5)@<9D1>454B??=9CDB92ED9?>?666?B412<5 ?EC9>7+>9DC
+             *85619BC81B5?2<971D9?>C81<<2549F94545AE1<<I25DG55><?G 1>4=?45B1D5 9>3?=5
+                 E>9DC 5H35@DD81DG85B5D85B59C1>?44>E=25B?6166?B412<58?EC9>7E>9DC D855HDB1
+                 E>9DC81<<251<?G 9>3?=5E>9D 
+             !>5138166?B412<545F5<?@=5>D 1D<51CD ?6D85B5CDB93D54E>9DCG9D89>5138254B??=
+                 49CDB92ED9?>C81<<25<?G 9>3?=5E>9DC !6D85B59C?><I?>5166?B412<5E>9D9D=ECD251
+                 <?G 9>3?=5E>9D 
+             *85?B?E78 ?EC9>7<5=5>D1>419B)81B5'<1>B5AE9B5CD81D?61<<166?B412<5
+                 E>9DC1@@B?F54?B3?>CDBE3D54C9>35"E<I  9>D85?B?E78C81<<2545C97>1D541C
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 59 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                             K  
+
+                  F5BI <?G 9>3?=5 8?EC58?<4C 1D   ?6 D85 =5491> 9>3?=5  G9D8 1D <51CD   ?6 1<<
+                  F5BI <?G9>3?=5E>9DC259>71F19<12<5D?61=9<95C -89<5D89CB5AE9B5=5>D1@@<95CD?D85
+                  5>D9B5DI?6D85?B?E78C166?B412<58?EC9>7@5B35>D1751>49D=1I>?D259=@?C54?>
+                  5138@B?:53D9>49F94E1<<I 9DC1@@<931D9?>D?5138@B?:53DG9<<255F1<E1D54?>131C52I
+                  31C521C9C1>4=1I259=@?C541C1B5AE9B5=5>D?61>5G<I3?>CDBE3D5445F5<?@=5>D 
+             66?B412<545F5<?@=5>DCD81D1B5>?D175 B5CDB93D54C81<<25CDBE3DEB549>3?>:E>3D9?>
+                 G9D8B51<9CD93=1B;5D45=1>4CCE38D81D
+                  1 *853?=29>54>E=25B?65669395>3I1>4?>5 254B??=E>9DCC81<<25>?7B51D5BD81>
+                        ?6D85D?D1<<?G 1>4=?45B1D5 9>3?=5E>9DC
+                  2 D<51CD ?61<<<?G 1>4=?45B1D5 9>3?=5E>9DCC81<<25DG? 254B??=E>9DC
+                  3 D<51CD ?61<<<?G 1>4=?45B1D5 9>3?=5E>9DCC81<<25D8B55 254B??=E>9DC
+                       1>4
+                  4 *85B5=19>9>7E>9DC=1I251<<?31D541=?>7DG?1>4D8B55 254B??=E>9DC1DD85
+                       49C3B5D9?>?6D8545F5<?@5B 
+       335CC929<9DI(5AE9B5=5>DC
+             *8569BCD6<??B?61<<B5CDB93D54D?G>8?EC54G5<<9>7E>9DC1>41<<B5CDB93D54E>9DC9>1<<
+                 ?D85B =E<D9CD?BI 2E9<49>7C C81<< 25 CE2:53D D? D85 D538>931< 45C97> CD1>41B4C ?6 D85
+                 1BB95BB55)E2 3?45 % "     
+             << B5CDB93D54 D?G>8?EC5 4G5<<9>7 E>9DC 1>4 1<< B5CDB93D54 E>9DC 9> ?D85B =E<D9CD?BI
+                 2E9<49>7C9>G89381B5CDB93D544G5<<9>7E>9D9C1DD13854D?1D<51CD?>5?D85B4G5<<9>7
+                 E>9DC81<<81F5D856?<<?G9>7651DEB5C
+                  1 >141@D12<5D?9<5D1>421D89>76139<9DI?>D8569BCD6<??B
+                  2 >141@D12<5;9D385>?>D8569BCD6<??B
+                  3 >9>D5B9?B1335CC92<5B?ED5?6DB1F5<?>D8569BCD6<??B
+                  4 >9>D5B9?B1335CC92<5B?ED5?6DB1F5<C81<<>?D25B5AE9B5425DG55>CD?B95CG9D89>
+                       1>9>49F94E1<E>9D
+                  5 >141@D12<5B??=D81D31>25EC541C1254B??= G9D814??B?BD8531C9>76?BD85
+                       9>CD1<<1D9?>?614??B ?>D8569BCD6<??B1>4
+                  6 >1335CC92<55>DB1>35G1I1CC5D6?BD81D' #   3  % " )   1
+                       5D C5A  1>4 D85 1BB95B B55 )E2 3?45  % "       ?B 5F945>35 D81D D85
+                       ?B?E78?6)@B9>7#1;581C3?<<53D546E>4C6B?=D8545F5<?@5B5>?E78D?=1;5
+                        ?6D85141@D12<55>DB1>35C9>D8545F5<?@=5>D1335CC92<5
+                         /0 -85B5 1 E>9D 81C 255> 3?>CDBE3D54 G9D8 1> 141@D12<5 5>DB1>35  E@?> D85
+                              B5AE5CD?6149C12<54@5BC?>G8?9C@EB381C9>7?BG9<<B5C9459>D854G5<<9>7
+                              E>9D 1>1335CC92<55>DB1>35C81<<259>CD1<<54 
+                         /0 *? D89C 5>4  D85 2E9<45B ?6 B5CDB93D54 E>9DC C81<< 45@?C9D 6E>4C G9D89> D85
+
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 60 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                            K  
+
+                              ?B?E78C 66?B412<5 ?EC9>7 *BECD E>4 CE669395>D D? 9>CD1<< 1335CC92<5
+                              5>DB1>35C 9>   ?6 D85 166?B412<5 E>9DC D81D 81F5 255> 3?>CDBE3D54 G9D8
+                              141@D12<55>DB1>35C 
+                         /0 *856E>4C45@?C9D54E>45B@1B17B1@8 12?F5C81<<25EC542ID85?B?E78
+                              ?6)@B9>7#1;56?BD85C?<5@EB@?C5?6=1;9>7D85141@D12<55>DB1>35?61>I
+                              166?B412<5 E>9D 1335CC92<5 G85> B5AE5CD54 D? 4? C? 2I 1 @5BC?> G9D8 1
+                              49C129<9DI G8? ?33E@95C ?B 9>D5>4C D? ?33E@I D85 E>9D 1>4 B5AE9B5C 1>
+                              1335CC92<55>DB1>35 
+                         /0 *85 45F5<?@5B ?6 D85 B5CDB93D54 E>9DC C81<< CE2=9D 1 45C97> @<1> 1>4 3?CD
+                              5CD9=1D5 6?B D85 3?>F5BC9?> 6B?= 141@D12<5 D? 1335CC92<5 5>DB1>35C D? D85
+                              ?>CDBE3D9?>&669391<?6D85?B?E78 
+                         /0 &>35D85?>CDBE3D9?>&669391<81C45D5B=9>54D81DD8545C97>@<1>D?3?>F5BD
+                              D85E>9D5>DB1>35C6B?=141@D12<5D?1335CC92<5=55DD85B5AE9B5=5>DC?6D85
+                              1BB95B B55 )E2 3?45  % "       1>4 D81D D85 3?CD 5CD9=1D5 ?6 CE38
+                              3?>F5BC9?>9CB51C?>12<5 @1I=5>DC81<<25=145D?D85?B?E78C166?B412<5
+                              8?EC9>7 DBECD 6E>4 G85B5 D85 6E>4C C81<< 25 45@?C9D54 9>D? D85 166?B412<5
+                              8?EC9>7DBECD6E>41>41@@B?@B91D5<I51B=1B;54 
+                         /0 E<<3?=@<91>35G9D8D856?B57?9>7@B?F9C9?>CC81<<>?D25B5AE9B54G85B51>
+                              5>D9DI31>45=?>CDB1D5D81D9D9CC9D59=@B13D9312<5D?=55DD85B5AE9B5=5>DC 
+                              5D5B=9>1D9?>C?6C9D59=@B13D93129<9DIC81<<259>3?=@<91>35G9D8D851BB95B
+                              B55)E2 3?45 % "     
+       $1H9=E=(5>DC1>4)1<5C'B935C
+             !> 5CD12<9C89>7 B5>DC 1>4 C1<5C @B935C ?6 166?B412<5 8?EC9>7 E>9DC  D85 4=9>9CDB1D9F5
+                 75>DC81<<6?<<?GD85@B?354EB5CC5D6?BD89>+ ED9<9J9>7D85B579?>1<9>3?=5<9=9DC
+                 5CD12<9C854 2I D85 %5G "5BC5I 5@1BD=5>D ?6 ?==E>9DI 6619BC  ?B ?D85B
+                 175>3I1CB5AE9B542ID85?EBD 
+             *85=1H9=E=B5>D6?BB5CDB93D54B5>D1<E>9DCG9D89>5138166?B412<545F5<?@=5>D1>4
+                 D85 1F5B175 B5>D 6?B B5CDB93D54 <?G  1>4 =?45B1D5 9>3?=5 E>9DC C81<< 25 31<3E<1D54 9>
+                 133?B41>35G9D8+ B57E<1D9?>C 
+             *85 45F5<?@5BC 1>4 ?B =E>939@1< C@?>C?BC ?6 B5CDB93D54 B5>D1< E>9DC C81<< 5CD12<9C8 1D
+                 <51CD?>5B5>D6?B5138254B??=DI@56?B2?D8<?G 9>3?=51>4=?45B1D5 9>3?=5E>9DC 
+             *85 =1H9=E= C1<5C @B935 ?6 B5CDB93D54 ?G>5BC89@ E>9DC G9D89> 5138 166?B412<5
+                 45F5<?@=5>D C81<< 25 31<3E<1D54 9> 133?B41>35 G9D8 +  B57E<1D9?>C  1>4 5138
+                 166?B412<5 45F5<?@=5>D =ECD 13895F5 1> 166?B4129<9DI 1F5B175 C81<< 25 31<3E<1D54 9>
+                 133?B41>35 G9D8 +  B57E<1D9?>C  =?45B1D5 9>3?=5 ?G>5BC89@ E>9DC =ECD 25
+                 1F19<12<5 6?B 1D <51CD D8B55 49665B5>D @B935C 6?B 5138 254B??= DI@5  1>4 <?G 9>3?=5
+                 ?G>5BC89@ E>9DC =ECD 25 1F19<12<5 6?B 1D <51CD DG? 49665B5>D @B935C 6?B 5138 254B??=
+                 DI@5 
+             !> 45D5B=9>9>7 D85 9>9D91< C1<5C @B935C 1>4 B5>DC 6?B 3?=@<91>35 G9D8 D85 166?B4129<9DI
+                 1F5B175 B5AE9B5=5>DC 6?B B5CDB93D54 E>9DC ?D85B D81> 1CC9CD54 <9F9>7 6139<9D95C  D85
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 61 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                                K  
+
+                  6?<<?G9>7CD1>41B4CC81<<25EC54
+                  1 CDE49?C81<<25166?B412<5D?1?>5 @5BC?>8?EC58?<4
+                  2 ?>5 254B??=E>9DC81<<25166?B412<5D?1?>51>4?>5 81<6@5BC?>8?EC58?<4
+                  3 DG? 254B??=E>9DC81<<25166?B412<5D?1D8B55 @5BC?>8?EC58?<4
+                  4 D8B55 254B??=E>9DC81<<25166?B412<5D?16?EB1>4?>5 81<6@5BC?>8?EC58?<4
+                       1>4
+                  5 6?EB 254B??=E>9DC81<<25166?B412<5D?1C9H @5BC?>8?EC58?<4 
+             !> 45D5B=9>9>7 D85 9>9D91< B5>DC 6?B 3?=@<91>35 G9D8 D85 166?B4129<9DI 1F5B175
+                 B5AE9B5=5>DC 6?B B5CDB93D54 E>9DC 9> 1CC9CD54 <9F9>7 6139<9D95C  D85 6?<<?G9>7 CD1>41B4C
+                 C81<<25EC54
+                  1 CDE49?C81<<25166?B412<5D?1?>5 @5BC?>8?EC58?<4
+                  2 ?>5 254B??=E>9DC81<<25166?B412<5D?1?>51>4?>5 81<6@5BC?>8?EC58?<4
+                       1>4
+                  3 DG? 254B??=E>9DC81<<25166?B412<5D?1DG? @5BC?>8?EC58?<4?BD?DG??>5
+                       @5BC?>8?EC58?<4C 
+             *859>9D91<@EB381C5@B9356?B1<<B5CDB93D54?G>5BC89@E>9DCC81<<2531<3E<1D54C?D81D
+                 D85 =?>D8<I 31BBI9>7 3?CD ?6 D85 E>9D  9>3<E49>7 @B9>39@1< 1>4 9>D5B5CD 21C54 ?> 1
+                 =?BD7175<?1>5AE1<D??6D85@EB381C5@B9351>4D85545B1<(5C5BF5 B1D5?6
+                 9>D5B5CD  D1H5C  8?=5?G>5B 1>4 @B9F1D5 =?BD7175 9>CEB1>35 1>4 3?>4?=9>9E= ?B
+                 8?=5?G>5B1CC?391D9?>655C4?>?D5H3554?6D855<9792<5=?>D8<I9>3?=5?6D85
+                 1@@B?@B91D5C9J58?EC58?<41C45D5B=9>54E>45B% "      1C=1I251=5>454
+                 1>4CE@@<5=5>D54@B?F9454 8?G5F5B D81DD85@B935C81<<25CE2:53DD?D85166?B4129<9DI
+                 1F5B175B5AE9B5=5>D?6% "      1C=1I251=5>4541>4CE@@<5=5>D54 
+             *85 9>9D91< B5>D 6?B 1 B5CDB93D54 B5>D1< E>9D C81<< 25 31<3E<1D54 C? 1C >?D D? 5H3554  
+                 @5B35>D?6D855<9792<5=?>D8<I9>3?=5?6D851@@B?@B91D58?EC58?<4C9J51C45D5B=9>54
+                 E>45B% "      1C=1I251=5>4541>4CE@@<5=5>D54@B?F9454 8?G5F5B 
+                 D81DD85B5>DC81<<25CE2:53DD?D85166?B4129<9DI1F5B175B5AE9B5=5>D?6% "    
+                   1C=1I251=5>4541>4CE@@<5=5>D54 
+             *85 @B935 ?6 ?G>5B ?33E@954 <?G  1>4 =?45B1D5 9>3?=5 E>9DC=1I 9>3B51C5 1>>E1<<I
+                 21C54?>D85@5B35>D1759>3B51C59>D85B579?>1<=5491>9>3?=5<9=9D6?B51388?EC9>7
+                 B579?> !>>?5F5>DC81<<D85=1H9=E=B5C1<5@B9355CD12<9C8542ID854=9>9CDB1D9F5
+                 75>D25<?G5BD81>D85<1CDB53?B454@EB381C5@B935 
+             *85B5>D?6<?G 1>4=?45B1D5 9>3?=5 E>9DC=1I259>3B51C541>>E1<<I21C54?>D85
+                 @5B35>D1759>3B51C59>D85 ?EC9>7?>CE=5B'B935!>45H6?BD85+>9D54)D1D5C *89C
+                 9>3B51C5C81<<>?D5H35549>1>I?>5I51B (5>DC6?BE>9DC3?>CDBE3D54@EBCE1>DD?
+                 <?G 9>3?=58?EC9>7D1H3B549DB57E<1D9?>CC81<<259>45H54@EBCE1>DD?D85B57E<1D9?>C
+                 7?F5B>9>7<?G 9>3?=58?EC9>7D1H3B549DC 
+
+
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 62 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                           K  
+
+            +D9<9D95C *5>1>D @194ED9<9D95CD81D1B59>3<E4549>D85ED9<9DI1<<?G1>35C81<<25C?CD1D54
+                 9>D85<51C51>4C81<<253?>C9CD5>DG9D8D85ED9<9DI1<<?G1>351@@B?F542I6?B9DC
+                 )53D9?>@B?7B1= 
+
+     :   $$50".$94".%"2%3'/2''/2%"#,&/53*.(
+       !>B565BB9>735BD969548?EC58?<4CD?C@539693B5CDB93D54E>9DC D?D855HD5>D651C92<5 1>4G9D8?ED
+         31EC9>71>E>4E545<1I9>?33E@I9>7D85E>9D D854=9>9CDB1D9F575>DC81<<CDB9F5D?
+             'B?F9451>?33E@1>D6?B5138254B??=
+             'B?F945389<4B5>?649665B5>DC5HG9D8C5@1B1D5254B??=C1>4
+             'B5F5>D=?B5D81>DG?@5BC?>C6B?=?33E@I9>71C9>7<5254B??= 
+       449D9?>1< @B?F9C9?>C B5<1D54 D? ?33E@1>3I CD1>41B4C 96 1>I C81<< 25 @B?F9454 9> D85
+         =E>939@1<&@5B1D9>7$1>E1< 
+
+     :   /.42/, &2*/%3 '/2 ''/2%"#,& /53*.( &342*$4&% 7.&23)*0 .*43 ".%
+     .'/2$&-&.4&$)".*3-3
+       ?>DB?< @5B9?4C 6?B B5CDB93D54 ?G>5BC89@ E>9DC C81<< 25 9> 133?B41>35 G9D8 % "     
+           1C=1I251=5>4541>4CE@@<5=5>D54 1>45138B5CDB93D54?G>5BC89@E>9DC81<<B5=19>
+         CE2:53D D? D85 B5AE9B5=5>DC ?6 D89C &B49>1>35 E>D9< D85 ?B?E78 ?6 )@B9>7 #1;5 5<53DC D?
+         B5<51C5D85E>9D6B?=CE38B5AE9B5=5>DC8?G5F5B 1>4@B9?BD?CE381>5<53D9?> 1B5CDB93D54
+         ?G>5BC89@ E>9D =ECD B5=19> CE2:53D D? D85 B5AE9B5=5>DC ?6 % "        1C =1I 25
+         1=5>4541>4CE@@<5=5>D54 6?B1D<51CD I51BC 
+       *85166?B4129<9DI3?>DB?<@5B9?46?B1B5CDB93D54?G>5BC89@E>9DC81<<3?==5>35?>D8541D5
+         D859>9D91<35BD969548?EC58?<4D1;5CD9D<5D?D85E>9D 
+       'B9?BD?D859CCE1>35?6D859>9D91<35BD96931D5?6?33E@1>3I6?B1B5CDB93D54?G>5BC89@E>9D1>4
+         E@?> 5138 CE335CC9F5 C1<5 4EB9>7 D85 @5B9?4 ?6 B5CDB93D54 ?G>5BC89@  D85 4=9>9CDB1D9F5
+         75>D C81<< 45D5B=9>5 D85 B5CDB93D54 @B935 6?B D85 E>9D 1>4 C81<< 1<C? 45D5B=9>5 D85 >?>
+         B5CDB93D54 619B=1B;5DF1<E5?6D85E>9D21C54?>59D85B1>1@@B19C1<?BD85E>9DC5AE1<9J54
+         1CC5CC54F1<E5 
+       D D85 D9=5 ?6 D85 69BCD C1<5 ?6 D85 E>9D  D85 @EB381C5B C81<< 5H53ED5 1>4 45<9F5B D? D85
+         4=9>9CDB1D9F575>D1B531@DEB5>?D5?2<971D9>7D85@EB381C5B1CG5<<1CD85@EB381C5BC
+         859BC CE335CC?BC1>41CC97>CD?B5@1I E@?>D8569BCD>?> 5H5=@DC1<516D5BD85E>9DCB5<51C5
+         6B?=D85B5AE9B5=5>DC?6D89C&B49>1>35 1>1=?E>D5AE1<D?D8549665B5>3525DG55>D85E>9DC
+         >?> B5CDB93D54 619B =1B;5D F1<E5 1>4 9DC B5CDB93D54 @B935  1>4 D85 B531@DEB5 >?D5 C81<< 25
+         C53EB542I1B531@DEB5<95>5F945>3542I14E<IB53?B454=?BD7175?>D85E>9D 
+       *85166?B4129<9DI3?>DB?<CC5D6?BD89>D89C&B49>1>35C81<<B5=19>9>56653D45C@9D5D855>DBI
+         1>45>6?B35=5>D?61>I:E47=5>D?66?B53<?CEB5G9D8B5C@53DD?B5CDB93D54?G>5BC89@E>9DC 
+       B5CDB93D54?G>5BC89@E>9DC81<<25B5AE9B54D??2D19>1?>D9>E9>75BD96931D5?6&33E@1>3I
+         ?B 1 35BD96954 CD1D5=5>D 6B?= D85 ?>CDBE3D9?> &669391< CD1D9>7 D81D D85 E>9D =55DC 1<< 3?45
+         CD1>41B4CE@?>D8569BCDDB1>C65B?6D9D<5D81D6?<<?GCD855H@9B1D9?>?6D851@@<9312<5=9>9=E=
+
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 63 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                          K  
+
+            3?>DB?<@5B9?4@B?F9454E>45B% "     1 1C=1I251=5>4541>4CE@@<5=5>D54 
+       D D85 D9=5 ?6 D85 69BCD >?> 5H5=@D C1<5 6?<<?G9>7 1  I51B 9>D5BF1< 6B?= D85 41D5 ?6 D85
+         9CCE1>35 ?6 D85 9>9D91< 35BD96931D5 ?6 ?33E@1>3I  D85 ?B?E78 C81<< 81F5 D85 B978D ?6 69BCD
+         B56EC1<D?@EB381C51B5CDB93D54?G>5BC89@E>9D1DD85=1H9=E=B5CDB93D54@B9359>133?B41>35
+         G9D8+ B57E<1D9?>C1D% "      !6D85?B?E784?5C>?D5H5B39C59DCB978DD?
+         @EB381C5 D85 B5CDB93D54 E>9D  D85 E>9D =1I 25 C?<4 1D 619B =1B;5D F1<E5 1>4 D85 @B?3554C
+         B5D19>542ID85?G>5B CE2:53DD?D85?G>5BCB5@1I=5>D?6D85B531@DEB5<95>D?D85?B?E78
+         1C4569>549>% "      
+
+     :   2*$&&342*$4*/.3'/2&342*$4&%7.&23)*0.*43/-&/7.&233/$*"4*/.&&3
+     ".%&3",&2*$&3
+     'B935B5CDB93D9?>C6?BB5CDB93D54?G>5BC89@E>9DCC81<<259>133?B41>35G9D8% "      1C
+     =1I251=5>4541>4CE@@<5=5>D54 9>3<E49>7
+       *85 9>9D91< @EB381C5 @B935 6?B 1 B5CDB93D54 ?G>5BC89@ E>9D C81<< 25 1@@B?F54 2I D85
+         4=9>9CDB1D9F575>D 
+       *854=9>9CDB1D9F575>DC81<<1@@B?F51<<B5C1<5@B935C 9>GB9D9>71>49>14F1>35?6D85
+         B5C1<5 D?1CCEB53?=@<91>35G9D8D856?B57?9>7CD1>41B4C 
+       *85 =5D8?4 EC54 D? 45D5B=9>5 D85 3?>4?=9>9E= 1CC?391D9?> 655 1=?E>DC 1>4 C@5391<
+         1CC5CC=5>DCC81<<259>49CD9>7E9C812<525DG55>D85<?G 1>4=?45B1D5 9>3?=5E>9D?G>5BC
+         1>4D85=1B;5DE>9D?G>5BC 
+       *85?G>5BC?6B5CDB93D54?G>5BC89@E>9DC=1I1@@<ID?D854=9>9CDB1D9F575>DD?9>3B51C5
+         D85=1H9=E=C1<5C@B9356?BD85E>9D?>D8521C9C?631@9D1<9=@B?F5=5>DC <9792<531@9D1<
+         9=@B?F5=5>DC C81<< 25 D8?C5 D81D B5>45B D85 E>9D CE9D12<5 6?B 1 <1B75B 8?EC58?<4 ?B D85
+         1449D9?>?6121D8B??= 
+
+     :   59&2.$/-&,*(*#*,*49
+       EI5B9>3?=55<97929<9DI6?BB5CDB93D54?G>5BC89@E>9DCC81<<259>133?B41>35G9D8% "   
+             1C =1I 25 1=5>454 1>4 CE@@<5=5>D54  CE38 D81D <?G 9>3?=5 ?G>5BC89@ E>9DC
+         C81<<25B5C5BF546?B8?EC58?<4CG9D817B?CC8?EC58?<49>3?=5<5CCD81>?B5AE1<D? ?6
+         =5491>9>3?=51>4=?45B1D5 9>3?=5?G>5BC89@E>9DCC81<<25B5C5BF546?B8?EC58?<4CG9D8
+         17B?CC8?EC58?<49>3?=5<5CCD81> @5B35>D?6=5491>9>3?=5 
+       *854=9>9CDB1D9F575>DC81<<35BD96I18?EC58?<41C5<9792<56?B1B5CDB93D54?G>5BC89@E>9D
+         G85> D85 8?EC58?<4 9C 1 <?G 9>3?=5 8?EC58?<4 ?B 1 =?45B1D5 9>3?=5 8?EC58?<4  1C
+         1@@<9312<5 D? D85 E>9D  1>4 D85 5CD9=1D54 =?>D8<I 8?EC9>7 3?CD 6?B D85 @1BD93E<1B E>9D
+         9>3<E49>7 @B9>39@1<  9>D5B5CD  D1H5C  8?=5?G>5B 1>4 @B9F1D5 =?BD7175 9>CEB1>35 1>4
+         3?>4?=9>9E= ?B 8?=5?G>5B 1CC?391D9?> 655C  1C 1@@<9312<5 4?5C >?D 5H3554  ?6 D85
+         8?EC58?<4C35BD96954=?>D8<I9>3?=5 
+
+     :   *-*4"4*/.3/.*.%&#4&%.&333&$52&%#9/7.&23)*05.*435#/2%*."4*/.
+       'B9?B D? 9>3EBB9>7 1>I 9>452D54>5CC D? 25 C53EB54 2I 1 B5CDB93D54 ?G>5BC89@ E>9D  D85
+         4=9>9CDB1D9F5 75>D C81<< 45D5B=9>5 9> GB9D9>7 D81D D85 @B?@?C54 9>452D54>5CC 3?=@<95C
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 64 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                          K  
+
+            G9D8D85@B?F9C9?>C?6D89CC53D9?> 
+       -9D8D855H35@D9?>?6?B979>1<@EB381C5=?>5I=?BD7175C 4EB9>713?>DB?<@5B9?4>59D85B1>
+         ?G>5B >?B 1 <5>45B C81<< 1D 1>I D9=5 31EC5 ?B @5B=9D D85 D?D1< 9>452D54>5CC C53EB54 2I 1
+         B5CDB93D54?G>5BC89@E>9DD?5H3554?6D85=1H9=E=1<<?G12<5B5C1<5@B935?6D81DE>9D 
+         1C CE38 @B935 9C 45D5B=9>54 2I D85 4=9>9CDB1D9F5 75>D 9> 133?B41>35 G9D8
+         % "     2 
+
+     :  /.42/,&2*/%3'/2&342*$4&%&.4",.*43
+       ?>DB?<@5B9?4C6?BB5CDB93D54B5>D1<E>9DCC81<<259>133?B41>35G9D8% "      1C
+         =1I251=5>4541>4CE@@<5=5>D54 1>45138B5CDB93D54B5>D1<E>9DC81<<B5=19>CE2:53DD?D85
+         B5AE9B5=5>DC?6D89C&B49>1>35E>D9<D85?B?E78?6)@B9>7#1;55<53DCD?B5<51C5D85E>9D
+         6B?=CE38B5AE9B5=5>DC@EBCE1>DD?13D9?>D1;5>9>3?=@<91>35G9D8% "      1C
+         =1I251=5>4541>4CE@@<5=5>D54 1>4@B9?BD?CE381>5<53D9?> 1B5CDB93D54B5>D1<E>9D=ECD
+         B5=19> CE2:53D D? D85 B5AE9B5=5>DC ?6 % "        1C =1I 25 1=5>454 1>4
+         CE@@<5=5>D54 6?B1D<51CD I51BC 
+       554C ?6 1<< B51< @B?@5BDI D81D 9>3<E45 B5CDB93D54 B5>D1< E>9DC C81<< 3?>D19> 4554 B5CDB93D9?>
+         <1>7E175 *854554B5CDB93D9?>C81<<81F5@B9?B9DI?F5B1<<=?BD7175C?>D85@B?@5BDI 1>4D85
+         4554B5CDB93D9?>C81<<2569<542ID8545F5<?@5B?BC5<<5BG9D8D85B53?B4C?66935?6D85?E>DI
+         ?6$?>=?ED8 3?@I?6D8569<544?3E=5>DC81<<25@B?F9454D?D854=9>9CDB1D9F575>D
+         G9D89> 41IC?6D85B5359@D?615BD96931D5?6&33E@1>3I 
+       B5CDB93D54B5>D1<E>9DC81<<B5=19>CE2:53DD?D85166?B4129<9DI3?>DB?<C?6D89C&B49>1>35 
+         45C@9D5D85?33EBB5>35?61>I?6D856?<<?G9>75F5>DC
+             )E2<51C5?B1CC97>=5>D?6D85<51C5?6D85E>9D
+             )1<5 ?B ?D85B F?<E>D1BI DB1>C65B ?6 D85 ?G>5BC89@ ?6 D85 E>9D ?B   *85 5>DBI 1>4
+                 5>6?B35=5>D?61>I:E47=5>D?66?B53<?CEB5 
+
+     :  2*$&&342*$4*/.3'/2&.4",.*43&"3&3
+       GB9DD5><51C5C81<<25B5AE9B546?B1<<B5CDB93D54B5>D1<E>9DC 5H35@D6?BE>9DC9>1>1CC9CD54
+         <9F9>7B5C945>35 1>4D5>1>DCC81<<25B5C@?>C92<56?BC53EB9DI45@?C9DC1>4D856E<<1=?E>D?6
+         D85B5>D1CCD1D54?>D85<51C5 3?@I?6D853EBB5>D<51C56?B5138B5CDB93D54B5>D1<E>9DC81<<
+         25@B?F9454D?D854=9>9CDB1D9F575>D 
+       %?1449D9?>1<655C?B381B75CC81<<2514454D?D851@@B?F54B5>D5H35@D 9>D8531C5?6E>9DC
+         9>1>1CC9CD54<9F9>7B5C945>35 D?3?F5BD853ECD?=1BI381B75C6?B6??41>4C5BF935CG9D8?ED
+         D855H@B5CCGB9DD5>1@@B?F1<?6D854=9>9CDB1D9F575>D 
+       @@<931D9?>655C9>3<E49>7D85381B756?B1>I3B549D3853;C81<<>?D5H355469F5@5B35>D?6
+         D85=?>D8<IB5>D?6D851@@<9312<5B5CDB93D54E>9D1>4C81<<25@1I12<5D?D854=9>9CDB1D9F5
+         75>DD?251@@<954D?D853?CDC?614=9>9CD5B9>7 D853?>DB?<C1@@<9312<5 D?D85E>9D1CC5D
+         6?BD89>D89C&B49>1>35 
+
+     :  &.".4.$/-&,*(*#*,*49
+
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 65 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                      K  
+
+       *5>1>D 9>3?=5 5<97929<9DI C81<< 25 9> 133?B41>35 G9D8 % "        1C =1I 25
+         1=5>4541>4CE@@<5=5>D54 1>4C81<<2545D5B=9>541C6?<<?GC
+             ,5BI<?G 9>3?=5B5>D1<E>9DCC81<<25B5C5BF546?B8?EC58?<4CG9D817B?CC8?EC58?<4
+                 9>3?=5<5CCD81>?B5AE1<D? ?6=5491>9>3?=5 
+             #?G 9>3?=5 B5>D1< E>9DC C81<< 25 B5C5BF54 6?B 8?EC58?<4C G9D8 1 7B?CC 8?EC58?<4
+                 9>3?=5<5CCD81>?B5AE1<D? ?6=5491>9>3?=5 
+             $?45B1D5 9>3?=5B5>D1<E>9DCC81<<25B5C5BF546?B8?EC58?<4CG9D817B?CC8?EC58?<4
+                 9>3?=5<5CCD81> ?6=5491>9>3?=5 
+       *85 4=9>9CDB1D9F5 75>D C81<< 35BD96I 1 8?EC58?<4 1C 5<9792<5 6?B 1 B5CDB93D54 B5>D1< E>9D
+         G85> D85 8?EC58?<4 9C 1 F5BI <?G 9>3?=5  <?G 9>3?=5 8?EC58?<4 ?B 1 =?45B1D5 9>3?=5
+         8?EC58?<4 1C1@@<9312<5D?D85E>9D 1>4D85B5>D@B?@?C546?BD85E>9D4?5C>?D5H3554
+           6?B 175 B5CDB93D54 E>9DC ?6 D85 8?EC58?<4C 5<9792<5 =?>D8<I 9>3?=5 1C 45D5B=9>54
+         @EBCE1>DD?% "      1C=1I251=5>4541>4CE@@<5=5>D54@B?F9454 8?G5F5B 
+         D81DD89C<9=9D=1I255H35545496?>5?B=?B5?6D856?<<?G9>739B3E=CD1>35C5H9CDC
+             *85 8?EC58?<4 3EBB5>D<I @1IC =?B5 D81>    6?B 8?EC58?<4C 5<9792<5 6?B 175
+                 B5CDB93D54E>9DC?69DC7B?CC8?EC58?<49>3?=56?BB5>D 1>4D85@B?@?C54B5>DG9<<B54E35
+                 9DC8?EC9>73?CDC
+             *858?EC58?<481C3?>C9CD5>D<I@194=?B5D81> 6?B8?EC58?<4C5<9792<56?B
+                 175 B5CDB93D54E>9DC?65<9792<5=?>D8<I9>3?=56?BB5>D9>D85@1CD1>481C@B?F5>9DC
+                 129<9DID?@1I
+             *858?EC58?<49C3EBB5>D<I9>CE2CD1>41B4?B?F5B3B?G454<9F9>73?>49D9?>C
+             *858?EC58?<44?3E=5>DCD855H9CD5>35?61CC5DCG9D8G8938D858?EC58?<4@B?@?C5CD?
+                 CE@@<5=5>DD85B5>D@1I=5>DC?B
+             *858?EC58?<44?3E=5>DC@B?@?C54D89B4 @1BDI1CC9CD1>356B?=1>?EDC945C?EB35CE38
+                 1C161=9<I=5=25B9>16?B=1335@D12<5D?D854=9>9CDB1D9F575>D1>4D85?G>5B?6
+                 D85E>9D 
+       *85 1@@<931>D C81<< 69<5 4?3E=5>D1D9?> CE669395>D D? 5CD12<9C8 D85 5H9CD5>35 ?6 D85
+         39B3E=CD1>35C9>D8B?E7812?F5G9D8D854=9>9CDB1D9F575>D G8?C81<<3?E>C5<
+         D858?EC58?<4?>2E475D9>7 
+
+     :  ''*2-"4*6&"2+&4*.(&15*2&-&.43
+       669B=1D9F5=1B;5D9>7C81<<255CD12<9C8541>4=19>D19>549>133?B41>35G9D8D85+>96?B=
+          ?EC9>766?B4129<9DI?>DB?<CC5D6?BD89>% "     
+       *851669B=1D9F5=1B;5D9>7@<1>C81<<251@1BD?6D8519B)81B5'<1>1>4C81<<25B565B5>354
+         2I?B49>1>35 
+       *85?B?E78C81<<14?@D2IB5C?<ED9?>1>669B=1D9F5$1B;5D9>7'<1> CE2:53DD?1@@B?F1<?6
+         D85?EBD 3?=@<91>DG9D8% "      1C=1I251=5>4541>4CE@@<5=5>D54 
+
+
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+            MON-L-000264-25 06/12/2025 2:55:53 PM Pg 66 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                         K  
+
+       *851669B=1D9F5=1B;5D9>7@<1>9C1B579?>1<=1B;5D9>7CDB1D57I45C97>54D?1DDB13D2EI5BC
+         1>4 ?BB5>D5BC?61<<=1:?B9DI1>4=9>?B9DI7B?E@C B571B4<5CC?6B135 3B554 3?<?B >1D9?>1<
+         ?B979>  1>35CDBI  =1B9D1< ?B 61=9<91< CD1DEC  75>45B  16653D9?>1< ?B C5HE1< ?B95>D1D9?> 
+         49C129<9DI  175 ?B >E=25B ?6 389<4B5> D? 8?EC9>7 E>9DC G8938 1B5 259>7 =1B;5D54 2I 1
+         45F5<?@5B C@?>C?B?B?G>5B?6166?B412<58?EC9>7 *851669B=1D9F5=1B;5D9>7@<1>9C1<C?
+         9>D5>454 D? D1B75D D8?C5 @?D5>D91<<I 5<9792<5 @5BC?>C G8? 1B5 <51CD <9;5<I D? 1@@<I 6?B
+         166?B412<5E>9DC9>D81DB579?> !D9C13?>D9>E9>7@B?7B1=D81D49B53DC1<<=1B;5D9>713D9F9D95C
+         D?G1B4 ?EC9>7(579?>1>43?F5BCD85@5B9?4?64554B5CDB93D9?> 
+       *85 1669B=1D9F5 =1B;5D9>7 @<1> C81<< @B?F945 1B579?>1< @B565B5>35 6?B1<< 8?EC58?<4C D81D
+         <9F51>4 ?BG?B;9> ?EC9>7(579?> 
+       *854=9>9CDB1D9F575>D45C97>1D542ID85?B?E78C81<<1CCEB5D851669B=1D9F5=1B;5D9>7
+         ?61<<166?B412<5E>9DC3?>C9CD5>DG9D8D85669B=1D9F5$1B;5D9>7'<1>6?BD85=E>939@1<9DI 
+       !>9=@<5=5>D9>7D851669B=1D9F5=1B;5D9>7@<1> D854=9>9CDB1D9F575>DC81<<@B?F9451<9CD
+         ?6 3?E>C5<9>7 C5BF935C D? <?G  1>4 =?45B1D5 9>3?=5 1@@<931>DC ?> CE2:53DC CE38 1C
+         2E475D9>7  3B549D 9CCE5C  =?BD7175 AE1<96931D9?>  B5>D1< <51C5 B5AE9B5=5>DC  1>4 <1>4<?B4
+         D5>1>D<1G 
+           *85 1669B=1D9F5 =1B;5D9>7 @B?35CC 6?B 1F19<12<5 166?B412<5 E>9DC C81<< 2579> 1D <51CD 6?EB
+            =?>D8C@B9?BD?D855H@53D5441D5?6?33E@1>3I 
+     !     *85 3?CDC ?6 14F5BD9C9>7 1>4 1669B=1D9F5 =1B;5D9>7 ?6 D85 166?B412<5 E>9DC C81<< 25 D85
+            B5C@?>C929<9DI?6D8545F5<?@5B C@?>C?B?B?G>5B E><5CC?D85BG9C545D5B=9>54?B17B554D?
+            2ID85?B?E78 
+
+     :  %-*.*342"4*/.
+       *85 @?C9D9?> ?6 $E>939@1< ?EC9>7 #919C?> $ # 6?B D85 ?B?E78 ?6 )@B9>7 #1;5 9C
+         5CD12<9C8542ID89C?B49>1>35 *85?B?E78C81<<=1;5D8513DE1<1@@?9>D=5>D?6D85$ #
+         2I=51>C?61B5C?<ED9?> 
+             *85$ #=ECD2559D85B16E<< D9=5?B@1BD D9=55=@<?I55?6)@B9>7#1;5 
+             *85@5BC?>1@@?9>D541CD85$ #=ECD25B5@?BD54D?D85?EBD1>4D85B516D5B@?CD54
+                 ?>D85?B?E78CG52C9D5 
+             *85 $ # =ECD =55D 1<< D85 B5AE9B5=5>DC 6?B AE1<96931D9?>C  9>3<E49>7 9>9D91< 1>4
+                 @5B9?493DB19>9>7 
+             *85$E>939@1< ?EC9>7#919C?>C81<<25B5C@?>C92<56?B?F5BC978D1>414=9>9CDB1D9?>?6
+                 D85166?B412<58?EC9>7@B?7B1=6?BD85?B?E78?6)@B9>7#1;5 9>3<E49>7D856?<<?G9>7
+                 B5C@?>C929<9D95CG8938=1I>?D253?>DB13D54?EDD?D854=9>9CDB1D9F575>D
+                  1 )5BF9>7 1C D85 =E>939@1<9DIC @B9=1BI @?9>D ?6 3?>D13D 6?B 1<< 9>AE9B95C 6B?= D85
+                       )D1D5  166?B412<5 8?EC9>7 @B?F945BC  4=9>9CDB1D9F5 75>DC 1>4 9>D5B5CD54
+                       8?EC58?<4C
+                  2 *859=@<5=5>D1D9?>?6D85669B=1D9F5$1B;5D9>7'<1>1>4166?B4129<9DI3?>DB?<C 
+
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 67 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                     K  
+
+                   3 -85>1@@<9312<5 CE@5BF9C9>71>I3?>DB13D9>74=9>9CDB1D9F575>D 
+                   4 $?>9D?B9>7D85CD1DEC?61<<B5CDB93D54E>9DC9>D85?B?E78C19B)81B5'<1>
+                   5 ?=@9<9>7 F5B96I9>71>4CE2=9DD9>71>>E1<B5@?BDC1CB5AE9B54
+                   6 ??B49>1D9>7 =55D9>7C G9D8 166?B412<5 8?EC9>7 @B?F945BC 1>4 4=9>9CDB1D9F5
+                        75>DC 1C1@@<9312<51>4
+                   7 DD5>49>73?>D9>E9>754E31D9?>?@@?BDE>9D95C?>166?B4129<9DI3?>DB?<C 3?=@<91>35
+                        =?>9D?B9>7 1>4 1669B=1D9F5 =1B;5D9>7 1C ?665B54 ?B 1@@B?F54 2I D85 66?B412<5
+                         ?EC9>7'B?65CC9?>1<C?6%5G"5BC5I '%" 
+       *85 ?B?E78 C81<< 45C97>1D5 2I B5C?<ED9?> ?6 D85 ?B?E78 ?==9DD55  CE2:53D D? D85
+         1@@B?F1<?6D85?EBD ?>5?B=?B54=9>9CDB1D9F575>DCD?14=9>9CD5B>5G<I3?>CDBE3D54
+         166?B412<5E>9DC9>133?B41>35G9D8% "    % "   1>4+  
+       >&@5B1D9>7$1>E1<C81<<25@B?F94542ID854=9>9CDB1D9F575>DC1>4C81<<251F19<12<5
+         6?B @E2<93 9>C@53D9?> 9> D85 &66935 ?6 D85 $E>939@1< <5B; 1>4 9> D85 ?66935C ?6 D85
+         4=9>9CDB1D9F575>DC 
+       *854=9>9CDB1D9F575>DC81<<@5B6?B=D854ED95C1>4B5C@?>C929<9D95C?61>14=9>9CDB1D9F5
+         175>D1C1B5C5D6?BD89>+  9>3<E49>7D8?C5C5D6?BD89>% "      1>4
+         D85B5?6 G89389>3<E45C
+             DD5>49>7 3?>D9>E9>7 54E31D9?> ?@@?BDE>9D95C ?> 166?B4129<9DI 3?>DB?<C  3?=@<91>35
+                 =?>9D?B9>7  1>4 1669B=1D9F5 =1B;5D9>7 1C ?665B54 ?B 1@@B?F54 2I D85 66?B412<5
+                  ?EC9>7'B?65CC9?>1<C?6%5G"5BC5I '%" 
+             669B=1D9F5$1B;5D9>7
+                 ?EC58?<45BD96931D9?>
+             66?B4129<9DI?>DB?<C
+             (53?B4CB5D5>D9?>
+             (5C1<51>4B5 B5>D1<
+             'B?35CC9>7B5AE5CDC6B?=E>9D?G>5BC1>4
+             >6?B35=5>D D8?E78D85E<D9=1D5B5C@?>C929<9DI6?BB5D19>9>73?>DB?<C?>D85E>9DCB5CDC
+                 G9D8D85=E>939@1<9DI 
+             *85 4=9>9CDB1D9F5 75>D C81<< 81F5 1ED8?B9DI D? D1;5 1<< 13D9?>C >535CC1BI 1>4
+                 1@@B?@B91D5D?31BBI?ED9DCB5C@?>C929<9D95C 85B5E>45B 
+       *85 4=9>9CDB1D9F5 75>D C81<< 1<C? 9=@<5=5>D D85 B58129<9D1D9?> @B?7B1=  166?B4129<9DI
+         1CC9CD1>35@B?7B1= 1>41>I?D85B166?B412<58?EC9>7@B?7B1=CB5AE9B54G9D89>D85)@5>49>7
+         '<1>1>414?@D54 ?EC9>7'<1><5=5>D1>419B)81B5'<1> 
+
+     :   .'/2$&-&.4/'''/2%"#,&/53*.(&(5,"4*/.3
+
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 68 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                        K  
+
+       +@?>D85?33EBB5>35?612B5138?61>I?6D85B57E<1D9?>C7?F5B>9>7D85166?B412<5E>9D2I
+         1>&G>5B 5F5<?@5B?B*5>1>DD85=E>939@1<9DIC81<<81F51<<B5=5495C@B?F94541D<1G?B
+         5AE9DI  9>3<E49>7 2ED >?D <9=9D54 D? 6?B53<?CEB5  D5>1>D 5F93D9?>  =E>939@1< 69>5C  1
+         B5AE9B5=5>D 6?B 8?EC58?<4 B535BD96931D9?>  1335<5B1D9?> ?6 1<< CE=C 4E5 E>45B 1 =?BD7175 
+         B53?E@=5>D?61>I6E>4C6B?=1C1<59>D85F9?<1D9?>?6D85B57E<1D9?>C 9>:E>3D9F5B5<956D?
+         @B5F5>D6EBD85BF9?<1D9?>?6D85B57E<1D9?>C 5>DBI?>D85@B5=9C5C 1>4C@539693@5B6?B=1>35 
+       6D5B@B?F949>7GB9DD5>>?D935?61F9?<1D9?>D?1>&G>5B 5F5<?@5B?B*5>1>D?61<?G ?B
+         =?45B1D5 9>3?=5E>9D1>414F9C9>7D85&G>5B 5F5<?@5B?B*5>1>D?6D85@5>1<D95C6?BCE38
+         F9?<1D9?>C D85=E>939@1<9DI=1ID1;5D856?<<?G9>713D9?>1719>CDD85&G>5B 5F5<?@5B?B
+         *5>1>D 6?B 1>I F9?<1D9?> D81D B5=19>C E>3EB54 6?B 1 @5B9?4 ?6   41IC 16D5B C5BF935 ?6 D85
+         GB9DD5>>?D935
+             *85?B?E78=1I69<513?EBD13D9?>@EBCE1>DD?% " )   1<<579>71F9?<1D9?> 
+                 ?B F9?<1D9?>C  ?6 D85 B57E<1D9?>C 7?F5B>9>7 D85 166?B412<5 8?EC9>7 E>9D  !6 D85 &G>5B 
+                 5F5<?@5B ?B *5>1>D 9C 6?E>4 2I D85 3?EBD D? 81F5 F9?<1D54 1>I @B?F9C9?> ?6 D85
+                 B57E<1D9?>C7?F5B>9>7166?B412<58?EC9>7E>9DCD85&G>5B 5F5<?@5B?B*5>1>DC81<<25
+                 CE2:53DD??>5?B=?B5?6D856?<<?G9>7@5>1<D95C 1DD8549C3B5D9?>?6D853?EBD
+                  1 69>5?6>?D=?B5D81>            ?B9=@B9C?>=5>D6?B1@5B9?4>?DD?5H3554 
+                       41IC  ?B2?D8  138 1>4 5F5BI 41I D81D D85 F9?<1D9?> 3?>D9>E5C?B5H9CDC C81<< 25
+                       3?>C945B54 1 C5@1B1D5 1>4 C@539693 F9?<1D9?> ?6 D85C5 @B?F9C9?>C 1>4 >?D 1C 1
+                       3?>D9>E9>7?665>C5
+                  2 !>D8531C5?61>&G>5BG8?81CB5>D5489C?B85B<?G ?B=?45B1D5 9>3?=5E>9D9>
+                       F9?<1D9?>?6D85B57E<1D9?>C7?F5B>9>7166?B412<58?EC9>7E>9DC @1I=5>D9>D?D85
+                       ?B?E78?6)@B9>7#1;566?B412<5 ?EC9>7*BECDE>4?6D857B?CC1=?E>D?6
+                       B5>D9<<571<<I3?<<53D54
+                  3 !>D8531C5?61>&G>5BG8?81CB5>D5489C?B85B<?G ?B=?45B1D5 9>3?=5E>9D9>
+                       F9?<1D9?> ?6 D85 B57E<1D9?>C 7?F5B>9>7 166?B412<5 8?EC9>7 E>9DC  @1I=5>D ?6 1>
+                       9>>?35>DD5>1>DCB51C?>12<5B5<?31D9?>3?CDC 1C45D5B=9>542ID853?EBD 
+             *85?B?E78=1I69<513?EBD13D9?>9>D85)E@5B9?B?EBDC55;9>71:E47=5>D G8938
+                 G?E<4B5CE<D9>D85D5B=9>1D9?>?6D85&G>5BC5AE9DI?B?D85B9>D5B5CD9>D85E>9D 9>D85
+                 >1DEB5?61=?BD71756?B53<?CEB5 >I:E47=5>DC81<<255>6?B3512<51C96D85C1=5G5B5
+                 1:E47=5>D?64561E<D?6D859BCD'EB381C5$?>5I$?BD71751>4C81<<3?>CD9DED51<95>
+                 1719>CDD85<?G 1>4=?45B1D5 9>3?=5E>9D 
+       )E38:E47=5>DC81<<255>6?B3512<5 1DD85?@D9?>?6D85?B?E78 2I=51>C?61>5H53ED9?>
+         C1<52ID85)85B966 1DG8938D9=5D85<?G 1>4=?45B1D5 9>3?=5E>9D?6D85F9?<1D9>7&G>5B
+         C81<<25C?<41D1C1<5@B935G89389C>?D<5CCD81>D851=?E>D>535CC1BID?6E<<IC1D9C6I1>4
+         @1I?661>I9BCD'EB381C5$?>5I$?BD71751>4@B9?B<95>C1>4D853?CDC?6D855>6?B35=5>D
+         @B?35549>7C 9>3EBB54 2I D85 =E>939@1<9DI  9>3<E49>7 1DD?B>5IC 655C  *85 F9?<1D9>7 &G>5B
+         C81<< 81F5 D85 B978D D? @?CC5CC9?> D5B=9>1D54 1C G5<< 1C D85 D9D<5 3?>F5I54 @EBCE1>D D? D85
+         )85B966CC1<5 
+       *85@B?3554C?6D85)85B966CC1<5C81<<69BCD251@@<954D?C1D9C6ID859BCD'EB381C5$?>5I
+         $?BD7175<95>1>41>I@B9?B<95>CE@?>D85<?G 1>4=?45B1D5 9>3?=5E>9D *855H35CC 96
+
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 69 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                              K  
+
+            1>I  C81<< 25 1@@<954 D? B59=2EBC5 D85 =E>939@1<9DI 6?B 1>I 1>4 1<< 3?CDC 1>4 5H@5>C5C
+            9>3EBB54 9> 3?>>53D9?> G9D8 59D85B D85 3?EBD 13D9?> B5CE<D9>7 9> D85 :E47=5>D ?6 F9?<1D9?>
+            ?B D85 )85B966C C1<5  !> D85 5F5>D D81D D85 @B?3554C 6B?= D85 )85B966C C1<5 1B5 9>CE669395>D
+            D?B59=2EBC5 D85 =E>939@1<9DI 9>6E<< 1C 16?B5C194  D85 F9?<1D9>7 &G>5B C81<< 25@5BC?>1<<I
+            B5C@?>C92<56?B1>4D?D855HD5>D?6CE384569395>3I 9>1449D9?>D?1>I1>41<<3?CDC9>3EBB54
+            2ID85=E>939@1<9DI9>3?>>53D9?>G9D83?<<53D9>7CE384569395>3I !>D855F5>DD81D1CEB@<EC
+            B5=19>C16D5BC1D9C6I9>71<<?6D8512?F5 CE38CEB@<EC 961>I C81<<25@<13549>5C3B?G2I
+            D85=E>939@1<9DI6?BD85&G>5B1>4C81<<2585<49>CE385C3B?G6?B1=1H9=E=@5B9?4?6
+            DG?I51BC?BE>D9<CE3851B<95BD9=51CD85&G>5BC81<<=1;513<19=G9D8D85=E>939@1<9DI
+            6?B CE38  19<EB5 ?6 D85 &G>5B D? 3<19= CE38 21<1>35 G9D89> D85 DG? I51B @5B9?4 C81<<
+            1ED?=1D931<<IB5CE<D9>16?B659DEB5?6CE3821<1>35D?D85=E>939@1<9DI >I9>D5B5CD133BE54
+            ?B 51B>54 ?> CE38 21<1>35 G89<5 259>7 85<4 9> 5C3B?G C81<< 25<?>7 D? 1>4 C81<< 25 @194
+            D? D85 =E>939@1<9DI  G85D85B CE38 21<1>35 C81<< 25 @194 D? D85 &G>5B ?B 6?B659D54 D? D85
+            =E>939@1<9DI 
+       ?B53<?CEB52ID85?B?E784E5D?F9?<1D9?>?6D85B57E<1D9?>C7?F5B>9>7166?B412<58?EC9>7
+         E>9DC C81<< >?D 5HD9>7E9C8 D85 B5CDB93D9?>C ?6 D85 B57E<1D9?>C 7?F5B>9>7 166?B412<5 8?EC9>7
+         E>9DC1CD85C1=51@@<ID?D85<?G 1>4=?45B1D5 9>3?=5E>9D *9D<5C81<<253?>F5I54D?D85
+         @EB381C5B 1D D85 )85B966C C1<5  CE2:53D D? D85 B5CDB93D9?>C 1>4 @B?F9C9?>C ?6 D85 B57E<1D9?>C
+         7?F5B>9>7 D85 166?B412<5 8?EC9>7 E>9D  *85 &G>5B 45D5B=9>54 D? 25 9> F9?<1D9?> ?6 D85
+         @B?F9C9?>C ?6 D89C @<1> 1>4 6B?= G8?= D9D<5 1>4 @?CC5CC9?> G5B5 D1;5> 2I =51>C ?6 D85
+         )85B966CC1<5C81<<>?D255>D9D<54D?1>IB978D?6B545=@D9?> 
+       !6D85B51B5>?29445BC1DD85)85B966CC1<5 ?B969>CE669395>D1=?E>DC1B5294D?C1D9C6ID85
+         9BCD'EB381C5$?>5I$?BD71751>41>I@B9?B<95>C D85=E>939@1<9DI=1I13AE9B5D9D<5D?D85
+         <?G 1>4=?45B1D5 9>3?=5E>9D2IC1D9C6I9>7D859BCD'EB381C5$?>5I$?BD71751>41>I
+         @B9?B<95>C1>43B549D9>7D85F9?<1D9>7?G>5BG9D81>1=?E>D5AE1<D?D8549665B5>3525DG55>
+         D85 9BCD 'EB381C5 $?>5I $?BD7175 1>4 1>I @B9?B <95>C 1>4 3?CDC ?6 D85 5>6?B35=5>D
+         @B?35549>7C  9>3<E49>7 <571< 655C 1>4 D85 =1H9=E= B5C1<5 @B935 6?B G8938 D85 <?G  1>4
+         =?45B1D5 9>3?=5 E>9D 3?E<4 81F5 255> C?<4 E>45B D85 D5B=C ?6 D85 B57E<1D9?>C 7?F5B>9>7
+         166?B412<58?EC9>7E>9DC *89C5H35CCC81<<25DB51D549>D85C1=5=1>>5B1CD855H35CCG8938
+         G?E<481F5255>B51<9J546B?=1>13DE1<C1<51C@B5F9?EC<I45C3B9254 
+       19<EB5?6D85<?G 1>4=?45B1D5 9>3?=5E>9DD?2559D85BC?<41DD85)85B966CC1<5?B13AE9B54
+         2ID85=E>939@1<9DIC81<<?2<971D5D85&G>5BD?1335@D1>?665BD?@EB381C56B?=1>IAE1<96954
+         @EB381C5B G8938 =1I 25 B565BB54 D? D85 &G>5B 2I D85 =E>939@1<9DI  G9D8 CE38 ?665B D?
+         @EB381C5259>75AE1<D?D85=1H9=E=B5C1<5@B935?6D85<?G 1>4=?45B1D5 9>3?=5E>9D1C
+         @5B=9DD542ID85B57E<1D9?>C7?F5B>9>7166?B412<58?EC9>7E>9DC 
+         *85&G>5BC81<<B5=19>6E<<I?2<971D54 B5C@?>C92<51>4<912<56?B3?=@<I9>7G9D8D85D5B=C
+          1>4 B5CDB93D9?>C ?6 7?F5B>9>7 166?B412<5 8?EC9>7 E>9DC E>D9< CE38 D9=5 1C D9D<5 9C 3?>F5I54
+          6B?=D85&G>5B 
+
+     :   3&/''5.%3
+     *85?B?E78C81<<EC5B5F5>E5C3?<<53D549>D85166?B412<58?EC9>7DBECD6E>49>133?B41>35G9D8
+     % "      
+
+
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 70 of 74 Trans ID: LCV20251744267
+
+?B?E78?6)@B9>7#1;5 %"
+
+     K                                                                                       K  
+
+     :   /.*4/2*.(".%2&0/24*.(2&15*2&-&.43
+     *85?B?E78C81<<CE2=9D1=?>9D?B9>7B5@?BDD?D85?EBD1CC5D6?BD89>9DCC5DD<5=5>D17B55=5>D
+     G9D819B)81B5 ?EC9>75>D5B 
+
+     :   0&.%*.(0,".
+       *85?B?E78C81<<CE2=9DD?D85?EBD1C@5>49>7@<1>6?BD8545F5<?@=5>D655C3?<<53D542I
+         9D@B9?BD?D855H@9B1D9?>?69DC"E47=5>D?6?=@<91>35 '<1>CD?C@5>445F5<?@=5>D655C
+         C81<<3?>C9CD?6D856?<<?G9>79>6?B=1D9?>
+              =E>939@1<9DI =1I EC5 B5F5>E5C 3?<<53D54 6B?= 45F5<?@=5>D 655C 6?B 1>I 13D9F9DI
+                 1@@B?F542ID85?E>39<6?B144B5CC9>7D85=E>939@1<619BC81B5 )E3813D9F9D95C9>3<E45 
+                 2ED1B5>?D<9=9D54D?B58129<9D1D9?> >5G3?>CDBE3D9?>  &8?EC9>7 @EB381C5?6<1>4
+                 6?B <?G 1>4 =?45B1D5 9>3?=5 8?EC9>7  9=@B?F5=5>D ?6 <1>4 D? 25 EC54 6?B <?G 1>4
+                 =?45B1D59>3?=58?EC9>7 5HD5>C9?>C1>4 ?B9=@B?F5=5>DC?6B?14C1>49>6B1CDBE3DEB5
+                 D? <?G 1>4 =?45B1D5 9>3?=5 8?EC9>7 C9D5C  1CC9CD1>35 45C97>54 D? B5>45B E>9DC D? 25
+                 =?B5166?B412<51>414=9>9CDB1D9?>?6D859=@<5=5>D1D9?>?6D858?EC9>75<5=5>D *85
+                 ?B?E78C81<<1<C?25@5B=9DD54D?EC545F5<?@=5>D655B5F5>E5CD?1DDB13D?D85B6E>4C
+                 CE381C 2ED>?D<9=9D54 D? 1F19<12<5 @E2<93CE2C9495C1>46E>4C6B?=@B9F1D5<5>49>7
+                 9>CD9DED9?>C 
+             E>4CC81<<>?D255H@5>454D?B59=2EBC5=E>939@1<9D95C6?B@1CD8?EC9>713D9F9D95C 
+             D<51CD ?6D85B5F5>E5C3?<<53D546B?=45F5<?@=5>D655CC81<<2545F?D54D?B5>45B
+                 E>9DC=?B5166?B412<5 H1=@<5C?6CE3813D9F9D95C9>3<E45 2ED1B5>?D<9=9D54D? 4?G>
+                 @1I=5>D 1CC9CD1>35  <?G 9>D5B5CD <?1>C  1>4 B5>D1< 1CC9CD1>35  5F5<?@=5>D 655C
+                 3?<<53D54 D? 69>1>35 1 B58129<9D1D9?> @B?7B1= ?B 1 >5G 3?>CDBE3D9?> @B?:53D C81<< 25
+                 5H5=@D 6B?= D89C B5AE9B5=5>D  *89C B5AE9B5=5>D =1I 25 G19F54 9> G8?<5 ?B 9> @1BD
+                 G85> D85 =E>939@1<9DI 45=?>CDB1D5C D85 129<9DI D? 144B5CC D85 B5AE9B5=5>D ?6
+                 166?B4129<9DI1CC9CD1>356B?=1>?D85BC?EB35 
+             $E>939@1<9D95C =1I 3?>DB13D G9D8 1 @B9F1D5 ?B @E2<93 5>D9DI D? 14=9>9CD5B D85
+                 9=@<5=5>D1D9?> ?6 1>I @1BD ?6 9DC 8?EC9>7 5<5=5>D  9>3<E49>7 D85 B5AE9B5=5>D 6?B
+                 166?B4129<9DI1CC9CD1>35 
+             %?=?B5D81> ?6D85B5F5>E5C3?<<53D546B?=45F5<?@=5>D655CC81<<255H@5>454
+                 ?> 14=9>9CDB1D9?>  9>3<E49>7  2ED >?D <9=9D54 D?  C1<1B95C 1>4 25>569DC 6?B =E>939@1<
+                 5=@<?I55C ?B 3?>CE<D1>D 655C >535CC1BI D? 45F5<?@ ?B 9=@<5=5>D 1 B58129<9D1D9?>
+                 @B?7B1=1>5G3?>CDBE3D9?>@B?7B1=1>(18?EC9>75<5=5>D1>41>1669B=1D9F5
+                 =1B;5D9>7 @B?7B1=  4=9>9CDB1D9F5 6E>4C =1I 25 EC54 6?B 9>3?=5 AE1<96931D9?> ?6
+                 8?EC58?<4C =?>9D?B9>7 D85 DEB>?F5B ?6 C1<5 1>4 B5>D1< E>9DC 1>4 3?=@<91>35 G9D8
+                 ?E>39< =?>9D?B9>7 B5AE9B5=5>DC  5F5<?@=5>D 655C C81<< >?D 25 EC54 D? 456B1I D85
+                 3?CDC?65H9CD9>7CD166 5F5<?@=5>D65514=9>9CDB1D9F53?CDC1B531<3E<1D541>4=1I25
+                 5H@5>4541DD855>4?65138I51B?BE@?>B5359@D?6D85655C 
+
+
+
+
+?G><?14546B?=8DD@C 53?45 3?= )' ?>   
+MON-L-000264-25 06/12/2025 2:55:53 PM Pg 71 of 74 Trans ID: LCV20251744267
+
+
+
+
+        Appendix D. Affordable Housing Overlay Ordinance
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 72 of 74 Trans ID: LCV20251744267
+
+;>;A34;2(<>5:3"-71$!
+
+
+
+
+     '   #!$ &  &  
+       &A><;?1 )41<A><;?1;2@4122;>0-.81;A?5:3%B1>8-E,;:15?@;<>;B501-:;<<;>@A:5@E
+         @;01B18;<-22;>0-.814;A?5:3@;911@<>1?1:@-:0<>;?<1/@5B14;A?5:3:110?C5@4<->@5/A8->
+         -@@1:@5;:@;8;C -:09;01>-@1 5:/;914;A?5:35:/;:2;>9-:/1C5@4@41>1=A5>191:@?;2@41
+         $1C!1>?1E;A:/58;:22;>0-.81;A?5:3 
+       )4122;>0-.81;A?5:3%B1>8-E,;:1?4-88.1-<<8510@;8;/7";@          2;>@41?;81
+         <A><;?1;2<>;B505:3-22;>0-.814;A?5:35:-//;>0-:/1C5@4@41<>;B5?5;:?;2@45??1/@5;:-:0
+         @41 ;A?5:3&8-:-:0-5>(4->1&8-: 
+       &>5:/5<-8<1>95@@10A?1? 
+              #A8@52-958E >1?501:@5-8 >1:@-8 A:5@ 5: -//;>0-:/1 C5@4 @41 ;A:/58 ;: 22;>0-.81
+                 ;A?5:3<>;B5?5;:? 
+       //1??;>EA?1? 
+              %22 ?@>11@<->75:32-/585@51? 
+             1:/1?5:-//;>0-:/1C5@4@41?@-:0->0?;2G  
+       >1- E->0 -:0 .A5805:3 >1=A5>191:@?  '1=A5>191:@? 2;> 9A8@52-958E >1?501:@5-8 .A5805:3?
+         ?4-88.1@41?-91-?@4;?1<>;B50102;>>1?501:@5-8A?1?C5@45:@41,;:14;C1B1>@41
+         95:59A9?501E->0>1=A5>191:@??4-88.1-/;9.5:10@;@-8;2211@@419-D59A9?=A->1
+         2;;@<1>0C1885:3?4-88.1 ?=A->1211@@419-D59A9:A9.1>;2A:5@??4-88.12;A>-:0
+         @419-D59A93>;??28;;>->1-2;>-<>5:/5<-8A?1?4-88.1 ?=A->1211@ 
+              #5:59A98;@->1- ?=A->1211@ 
+             #5:59A98;@2>;:@-31 211@ 
+             #5:59A98;@C50@4 211@ 
+             #5:59A98;@01<@4  211@ 
+             #5:59A9?501E->0/;9.5:10@;@-8;2211@ 
+             >;:@E->0 211@ 
+             #5:59A9>1->E->0 211@ 
+             #-D59A9.A5805:3/;B1>-31  
+             #-D59A959<1>B5;A?/;B1>-31  
+             #-D59A93>;??28;;>->1- ?=A->1211@ 
+       &->75:3?@-:0->0? #A8@52-958E0C1885:3??4-88<>;B501@C;<->75:3?@-88?<1>0C1885:3A:5@ 
+         *:01>@41'1?501:@5-8(5@1 9<>;B191:@(@-:0->0?(1/@5;:   /-8@1>:-@5B1<->75:3
+         ?@-:0->0??4-88.1-//1<@1052@41-<<85/-:@019;:?@>-@1?@4-@;@41>?@-:0->0?.1@@1>>1281/@
+         8;/-8 /;:05@5;:?  -/@;>? -221/@5:3 95:59A9 :A9.1> ;2 <->75:3 ?<-/1? 5:/8A01 4;A?14;80
+         /4->-/@1>5?@5/?-B-58-.585@E;29-??@>-:?5@A>.-:B1>?A??A.A>.-:8;/-@5;:-:0-B-58-.81;22
+
+
+
+;C:8;-0102>;94@@<? 1/;01 /;9 (& ;:   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 73 of 74 Trans ID: LCV20251744267
+
+;>;A34;2(<>5:3"-71$!
+
+     G                                                                                             G  
+
+            ?@>11@<->75:3>1?;A>/1? 
+       ;:?5?@1:@C5@4@41>1=A5>191:@;2$ !     --@81-?@4-82;2@41A:5@??4-88.1
+         -B-58-.81 @; 8;C 5:/;91 4;A?14;80? @41 .-8-:/1 9-E .1 -22;>0-.81 @; 15@41> 8;C  ;>
+         9;01>-@1 5:/;914;A?14;80? 
+       52@E<1>/1:@;2@41>1?501:@5-8A:5@??4-88.1-31 >1?@>5/@1091-:5:34;A?5:301?53:-@10@;
+         911@ @41 :110? ;2 -:0 1D/8A?5B1 2;> @41 >1?501:@? ;2 -: -31 >1?@>5/@10 ?1391:@ ;2 @41
+         <;<A8-@5;:C41>1@4141-0;2@414;A?14;805?-95:59A9-31;215@41>-E1->?;>.
+          E1->? -:0 911@? @41 <>;B5?5;:? ;2  *(( G  1@ ?1=  1D/1<@ @4-@ 0A1 @; 01-@4 -
+         >19-5:5:3?<;A?1;281??@4-:E1->?;2-31?4-88.1<1>95@@10@;/;:@5:A1@;>1?501 
+           88 0C1885:3 A:5@? ?4-88 .1 -225>9-@5B18E 9->71@10 5: -//;>0-:/1 C5@4 @41 ;A:/58 ;:
+            22;>0-.81 ;A?5:3 >13A8-@5;:?  88 >1:@-8 A:5@? ?4-88 .1 >1:@10 5: -//;>0-:/1 C5@4 @41
+            ;A:/58;:22;>0-.81;A?5:3>13A8-@5;:? 
+     !      :-//;>0-:/1C5@4$ !      -?;2%/@;.1>  @41-5>;A?5:3/@>1=A5>1?
+            @4-@@4125>?@28;;>;2-889A8@528;;>0C1885:3?9A?@.1-0-<@-.812;>A?1.E<4E?5/-88E05?-.810
+            <1>?;:?5:;>01>@;.118535.812;>%/>105@ 
+
+     '     ( % !                  #!       " #"   
+      &  
+       &A><;?1 )41<A><;?1;2@41#5D10*?122;>0-.81;A?5:3;:@>5.A@5;:,;:15?@;?1@@81
+         <;@1:@5-8-22;>0-.814;A?5:385@53-@5;:-:05:B;8B1?@41<-E91:@;2-:-22;>0-.814;A?5:3211
+         5: @41 -9;A:@ ;2     5: 851A ;2 /;:?@>A/@5;: ;2 -: -22;>0-.81 A:5@ ?; -? @; -??5?@ @41
+         ;>;A34 5: 911@5:3 5@? /;:?@5@A@5;:-8 ;.853-@5;: @; <>;B501 2;> 5@? 2-5> ?4->1 ;2 -22;>0-.81
+         4;A?5:3 
+       ?A?105:@45??1/@5;:95D10A?1.A5805:3?4-8891-:-.A5805:3;2-9-D59A9;2@4>11
+         ?@;>51?C5@4@413>;A:028;;>/;:?5?@5:31D/8A?5B18E;2:;:>1?501:@5-8A?1?<1>95@@105:@41
+         ' '1@-58 ;991>/5-8 5?@>5/@ <A>?A-:@ @; G    C5@4 - ?1/;:0 28;;> C5@4 @C;
+         >1?501:@5-8A:5@?-:0@45>028;;>C5@4;:1>1?501:@5-8A:5@ 8801B18;<91:@5:@41#5D10*?1
+         22;>0-.81 ;A?5:3 ;:@>5.A@5;: ,;:1 ?4-88 .1 5: -//;>0-:/1 C5@4 @41 <>;B5?5;:? ;2 -
+         01B18;<1>?-3>1191:@.1@C11:;>;A34-:0@41-<<85/-:@ 
+       &>5:/5<-8<1>95@@10A?1? 
+            %:195D10A?1.A5805:3 
+       //1??;>EA?1? 88<1>95@@10-//1??;>E-:0/;:05@5;:-8A?1?-A@4;>5F105:@41''1@-58
+         ;991>/5-8,;:1<A>?A-:@@;G   
+       #-D59A9.A5805:341534@)4>11?@;>51?-:0211@ 
+       >1-E->0-:0.A5805:3>1=A5>191:@?88.A87>1=A5>191:@?''1@-58;991>/5-8,;:1
+         <A>?A-:@@;G  1D/1<@-?2;88;C?
+              ";@/;B1>-31
+             ";@->1-      ?=A->1211@
+
+
+
+;C:8;-0102>;94@@<? 1/;01 /;9 (& ;:   
+           MON-L-000264-25 06/12/2025 2:55:53 PM Pg 74 of 74 Trans ID: LCV20251744267
+
+;>;A34;2(<>5:3"-71$!
+
+     G                                                                                        G  
+
+             ";@C50@4 211@
+             (501E->0(1@.-/7211@
+             '1->E->0(1@.-/7211@
+             A5805:3/;B1>-31
+       ";/-@5;: ;2 ;A@0;;> 41->5:3 B1:@58-@5;: -:0 -5> /;:05@5;:5:3 1=A5<91:@ %A@0;;> 41-@5:3
+         B1:@58-@5;: -:0 -5> /;:05@5;:5:3 1=A5<91:@ ?4-88 .1 8;/-@10 5: /;9<85-:/1 C5@4 G 
+         1D/1<@@41>1?4-88.1-95:59A9?1@.-/7;2?5D211@2>;9@41<>;<1>@E85:1 
+       (@;>9C-@1>/;:@>;8)41>1=A5>191:@?-:0?@-:0->0??1@2;>@45:G ?4-88-<<8E1D/1<@@4-@
+         @41 >1/4->31 ?E?@19 9-E .1 8;/-@10 A:01> @41 <->75:3 8;@ ?A.61/@ @; @41 -<<>;B-8 ;2 @41
+         &8-::5:3;->0:35:11> 
+           %22 ?@>11@<->75:3)41>1=A5>191:@?-:0?@-:0->0??1@2;>@45:(1/@5;:  ?4-88-<<8E
+            1D/1<@@4-@2;A><->75:3?<-/1??4-88.1>1=A5>105:@45?F;:5:305?@>5/@ 
+     !     )41<>;B5?5;:?;2G  -:0G  ?4-88-<<8E@;01B18;<91:@5:@41#5D10*?1
+            22;>0-.81;A?5:3;:@>5.A@5;:5?@>5/@ 
+
+     '  %!   #! $ &       &   
+      
+       +5@45: @41 #5D10 *?1 22;>0-.81 ;A?5:3 %B1>8-E ,;:1 95D10A?1 .A5805:3? -? 2A>@41>
+         0125:105:@45??1/@5;:?4-88.1-<1>95@@10/;:05@5;:-8A?1?A.61/@@;@41?@-:0->0??1@2;>@4
+         5:?A.?1/@5;:.18;C 
+       ?A?1041>15:-95D10 A?1.A5805:3?4-88.1-.A5805:3C5@4-3>;A:028;;>?@;>E/;:?5?@5:3
+         ;2-:;: >1?501:@5-8<>5:/5<-8A?1;>A?1?;@41>C5?1<1>95@@105:@41A:01>8E5:3F;:1-:0-
+         95:59A9;2;:1.A@:;9;>1@4-:@C;?@;>51?;2>1?501:@5-8A?1;B1>@4125>?@ 28;;>:;:
+         >1?501:@5-8A?1? 
+       #5D10 A?1.A5805:3?5:@41#*%,F;:1?4-88911@@412;88;C5:3?@-:0->0?
+              95:59A9;2 ;2@410C1885:3A:5@?5:-95D10 A?1.A5805:3?4-88.1B1>E 8;C
+                 8;C-:0 ;>9;01>-@1 5:/;91A:5@?-:0:;95D10 A?1.A5805:3?4-884-B181??@4-:;:1
+                 B1>E 8;C8;C;>9;01>-@1 5:/;91A:5@ 
+             %: ?5@1 ;22 ?@>11@<->75:3?4-88.1<>;B50105:/;:2;>9-:/1C5@4@41>1=A5>191:@?;2@41
+                 $1C !1>?1E '1?501:@5-8 (5@1 9<>;B191:@ (@-:0->0? 2;> -88 >1?501:@5-8 A:5@? 5: @41
+                 95D10 A?1.A5805:3 
+             )419-D59A941534@;2@4195D10 A?1.A5805:3?4-88.1211@ 
+       D/1<@-?<>;B50105:?A.?1/@5;:-.;B1@41F;:5:3>1=A5>191:@?2;>@41A:01>8E5:3F;:1
+         ?4-88-<<8E@;95D10 A?1.A5805:3? 
+
+
+
+
+;C:8;-0102>;94@@<? 1/;01 /;9 (& ;:   
+
