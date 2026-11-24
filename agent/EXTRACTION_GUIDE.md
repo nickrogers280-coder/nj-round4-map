@@ -12,8 +12,11 @@ Use the town's operative plan:
 - the **2025 base plan** as well when the amendment only changes parts of it ("the remaining sections
   of the 2025 plan remain in effect").
 
-A draft, or a copy with a blank adoption line, is not adopted. Use it only if it is all there is,
-and say so in `notes` and in the extraction log.
+A final 2026 copy whose only gap is a blank signature or adoption line (or "anticipated adoption"
+date) counts as the operative plan: the content does not change at signing (Nick, 2026-11-23).
+Extract it fully, take the adoption date from the Plan finder or a resolution if one is known, and
+do not mark the town `partial` for that reason alone. A document still marked DRAFT or clearly
+pre-settlement is different: prefer a later version if one exists, and say in `notes` which you used.
 
 Where to find them, in order:
 
