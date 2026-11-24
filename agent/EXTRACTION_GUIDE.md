@@ -18,8 +18,35 @@ Extract it fully, take the adoption date from the Plan finder or a resolution if
 do not mark the town `partial` for that reason alone. A document still marked DRAFT or clearly
 pre-settlement is different: prefer a later version if one exists, and say in `notes` which you used.
 
+### NJ Courts is the authority (Nick, 2026-11-24)
+
+The **Court filings** workflow indexes every town's filings on the NJ Courts affordable housing pages
+(`https://www.njcourts.gov/courts/civil/affordable-housing/<county>`) into `data/court_status.csv`
+(one row per town: `court_status`, newest plan `plan_url`/`plan_posted`, `base_plan_url`,
+`compliance_url`/`compliance_posted`) and `data/court_filings.csv` (every document). It also saves
+the text of each town's plan, base plan and compliance order on the `court-texts` branch:
+
+- index: `https://raw.githubusercontent.com/nickrogers280-coder/nj-round4-map/court-texts/index.csv`
+  (`mun_code, county, municipality, role, posted, file_name, url, text_path, pages, chars, method`)
+- a text: `https://raw.githubusercontent.com/nickrogers280-coder/nj-round4-map/court-texts/<text_path>`
+  (fetch with `curl -sL`; search it in Python like any long plan). `method` = `ocr` means the PDF was
+  scanned and OCR'd: check numbers carefully. `needs_ocr` means no text yet.
+
+How to choose, per `court_status`:
+
+- `2026 / amended plan`: use the court's plan (and its base plan if the amendment supplements it).
+- `2025 plan, compliant`: the 2025 plan has a court compliance order, so it is the operative plan.
+  Cite the order (date) in `site_status`/`notes` where relevant.
+- `2025 plan, no compliance order yet`: extract the 2025 plan, log `partial` with
+  "no compliance order yet", and check Drive / the town website for a newer amended plan.
+- `No plan on NJ Courts`: use Drive or the Plan finder's town-website link.
+
+If Nick's Drive folder has a document **newer** than the court's (e.g. an amended plan adopted after
+the court posting), use the newer one and say so in the log. Record the court URL in `plan_url`.
+
 Where to find them, in order:
 
+0. The `court-texts` branch above (fastest; no PDF reading).
 1. Nick's newest Drive folder **"HEFSP 2026 Project"** (`1JtzRft5m9lTz2l_i4ibE1uGRpUO_CoL8`,
    county folders under its `hefsp` subfolder `18G6iDpVJMxssM-fO6rkp4KA-PSm0WNPz`). Check it first;
    when a town has a file here and in an older folder, prefer the newer/amended one per section 1.

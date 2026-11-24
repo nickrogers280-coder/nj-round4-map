@@ -1,0 +1,74 @@
+name: Court filings
+
+# 1. Index every town's filings on the NJ Courts affordable housing pages -> data/court_*.csv (main)
+# 2. Download the operative plan / base plan / compliance order PDFs, save their text (OCR for scans)
+#    -> the `court-texts` branch (texts/... and index.csv). Runs until every document is fetched.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - pipeline/crawl_courts.py
+      - pipeline/fetch_court_texts.py
+      - .github/workflows/court-filings.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: court-filings
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Index NJ Courts filings
+        run: python pipeline/crawl_courts.py
+      - name: Commit index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/court_filings.csv data/court_status.csv
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update NJ Courts filings index"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+
+  texts:
+    needs: crawl
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install PDF tools
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils ocrmypdf tesseract-ocr > /dev/null
+      - name: Check out court-texts branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin court-texts > /dev/null; then
+            git clone -q --depth 1 --branch court-texts "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" ct
+          else
+            mkdir ct && cd ct && git init -q -b court-texts && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+            printf "# Plan text from NJ Courts\n\nMade by pipeline/fetch_court_texts.py. See index.csv.\n" > README.md
+          fi
+      - name: Download plans and save text
+        run: python pipeline/fetch_court_texts.py --out ct --minutes 50 --ocr-max 12
+      - name: Push texts
+        run: |
+          cd ct
+          git add -A
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -q -m "Court plan texts $(date -u +%F' '%H:%M)"
+          git push -q origin court-texts
