@@ -56,6 +56,14 @@ The sections that matter are usually:
 Drive's text can stop partway through a very long PDF, and scanned PDFs have no text at all.
 Record either case in the extraction log (`text cut off` / `scanned, needs OCR`) and extract what you can.
 
+**Missing zoning ordinances.** When a Round 4 zone's ordinance is not in the plan (not appended, cut off,
+or scanned), look it up before leaving the bulk standards blank: search the town's eCode page
+(`ecode360.com`, often `ecode360.com/<CODE>/laws` for recently adopted local laws), the town website's
+ordinances / resolutions / agendas, and the court-library filing. Use the adopted (or introduced) ordinance
+for the zone row's standards and blocks/lots, cite it in `ordinance_status` and `plan_doc`, and say in
+the log which standards came from an ordinance rather than the plan. Developers care most about land
+with new zoning that is not built yet, so these zones come first.
+
 ## 3. What to record
 
 ### zones.csv: one row per zone the plan creates or relies on
@@ -88,7 +96,7 @@ Overlay zones, inclusionary zones, redevelopment plans, and prior-round zones st
 | `zone_id` | The zone row this site sits in, if any |
 | `blocks_lots` | `block:lot,lot;block:lot`, e.g. `107:1,3,5;109.02:6.04`. Qualifier after a slash: `12:4/C0002`. If the plan gives only an address, `addr:` plus a distinctive street fragment, e.g. `addr:CLOSTER DOCK` |
 | `address`, `acres` | As the plan gives them |
-| `total_units`, `affordable_units`, `max_density_du_ac` | Numbers only; for prior-round credits, `affordable_units` = credits or units |
+| `total_units`, `affordable_units`, `max_density_du_ac` | Numbers only; for prior-round credits, `affordable_units` = credits or units. Always fill `total_units` (total homes allowed, market + affordable) when the plan or ordinance gives it, since developers look at it first. If only density and acreage are given, use density x acres rounded down and say "estimate" in `notes` |
 | `set_aside`, `zoning`, `site_status` | e.g. `Built 2019`, `Approved, not built`, `Overlay adopted`, `Proposed` |
 | `existing_conditions` | **Required for prior-round sites**: what is there now, from the plan's description, e.g. "48-unit 100% affordable senior building, completed 2012", "Vacant wooded lot", "Group home with 4 bedrooms". For Round 4 sites, the current use if the plan says (e.g. "Driving range of the Montammy Golf Club") |
 | `plan_doc`, `plan_url`, `plan_page` | Document name with adoption date, a link if there is one, and the page |
