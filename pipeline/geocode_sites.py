@@ -431,8 +431,15 @@ def build(service: ParcelService, sites: list[dict], munis: list[dict], zones: l
             if not mun_code:
                 miss("Town not found in parcel layer")
             else:
-                found = service.address(mun_code, hint)
-                if not found:
+                try:
+                    found = service.address(mun_code, hint)
+                except RuntimeError as exc:  # parcel service rejected this one query; don't fail the whole build
+                    print(f"  address lookup failed for {site.get('site_id')} ({hint!r}): {exc}", file=sys.stderr)
+                    found = None
+                    miss(f"Address lookup failed at '{hint}'")
+                if found is None:
+                    pass
+                elif not found:
                     miss(f"No lot found at '{hint}'")
                 elif len(found) > ADDR_MAX_LOTS:
                     miss(f"'{hint}' matches {len(found)} lots; add block/lot")
